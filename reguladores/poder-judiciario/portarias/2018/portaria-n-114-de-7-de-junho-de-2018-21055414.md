@@ -1,0 +1,74 @@
+---
+titulo: "PORTARIA Nº 114, DE 7 DE JUNHO DE 2018"
+orgao: "Poder Judiciário/Tribunal Regional Eleitoral do Acre/Corregedoria Regional Eleitoral/Diretoria-Geral"
+tipo: "Portaria"
+numero: "114"
+data: 2018-06-07
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 08/06/2018, seção 1, p. 237"
+data_publicacao: 2018-06-08
+edicao: "109"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-114-de-7-de-junho-de-2018-21055414"
+sha256_html_fonte: 1be4296d928c739e7500aa3e51806685f7f4efcdabddf94eff506b53c49a5e83
+baixado_em: 2026-10-27
+---
+# PORTARIA Nº 114, DE 7 DE JUNHO DE 2018
+
+PORTARIA Nº 114, DE 7 DE JUNHO DE 2018
+
+A DESEMBARGADORA REGINA CÉLIA FERRARI LONGUINI, PRESIDENTE DO TRIBUNAL REGIONAL ELEITORAL DO ACRE, no uso das atribuições que lhe são conferidas, nos termos do artigo 19, incisos LV e LVII do Regimento Interno, tendo em vista o disposto no artigo 18, § 2º; artigo 54, caput e inciso III; artigo 55, inciso I, alínea "a" e § 2º, da Lei Complementar n. 101, de 4 de maio de 2000, resolve:
+
+**Art. 1º** Republicar o Relatório de Gestão Fiscal deste Tribunal, referente ao primeiro quadrimestre de 2018 e o Demonstrativo dos Limites de Despesa com Pessoal em Cumprimento ao Acórdão 553/2017-TCU-Plenário, item 9.4.
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação.
+
+Desª. REGINA CÉLIA FERRARI LONGUINI
+
+## ANEXO I — UNIÃO - PODER JUDICIÁRIO
+
+TRIBUNAL REGIONAL ELEITORAL DO ACRE
+
+RELATÓRIO DE GESTÃO FISCAL
+
+DEMONSTRATIVO DOS LIMITES DE DESPESA COM PESSOAL EM CUMPRIMENTO AO ACÓRDÃO 553/2017-TCU-PLENÁRIO. ITEM 9.4
+
+ORÇAMENTOS FISCAL E DA SEGURIDADE SOCIAL
+
+MAIO 2017 A ABRIL 2018
+
+R$ 1,00
+
+<table><tr></tr><tr><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p>DESPESAS EXECUTADAS</p></td></tr><tr><td><p>DESPESA BRUTA COM PESSOAL (I)</p></td><td><p></p></td><td><p></p></td><td><p>37.805.638,91</p></td></tr><tr><td><p>DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF) (II)</p></td><td><p>4.422.348,99</p></td></tr><tr><td><p>DESPESA LÍQUIDA COM PESSOAL (III) = (I - II)</p></td><td></td><td><p>33.383.289,92</p></td></tr><tr><td><p>APURAÇÃO DO CUMPRIMENTO DO LIMITE LEGAL</p></td></tr><tr><td></td></tr><tr><td><p>RECEITA CORRENTE LÍQUIDA - RCL (IV)</p></td><td><p></p></td><td><p>743.632.071.921,18</p></td></tr><tr><td><p>% da DESPESA TOTAL COM PESSOAL DTP sobre a RCL (V) = (III / IV)*100</p></td><td><p>0,004489%</p></td></tr><tr><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p>% DA RCL</p></td><td><p></p></td></tr><tr><td><p>LIMITE MÁXIMO</p></td><td><p>LRF, art. 20, incisos I, II e III</p></td><td><p></p></td><td><p>0,008462%</p></td><td><p>62.926.145,93</p></td></tr><tr><td></td><td><p>Resol CNJ 5/2005</p></td><td><p>Ato decorrente:</p></td><td><p>Portaria TSE n°478, de 26 de setembro de 2005</p></td><td><p>0,008454%</p></td><td><p>62.866.655,36</p></td></tr><tr><td></td><td><p>Resol CNJ 26/2006</p></td><td><p>Ato decorrente:</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td></tr><tr><td></td><td><p>Resol CNJ 177/2013</p></td><td><p>Ato decorrente:</p></td><td><p>Portaria TSE nº 385, de 22 de agosto de 2013</p></td><td><p>0,008438%</p></td><td><p>62.747.674,23</p></td></tr><tr><td></td><td><p>Justiça do Trabalho / Ato Conjunto TST.CSJT/2015</p></td><td><p>-</p></td><td><p>-</p></td></tr><tr><td><p>\1 Preencher apenas no caso de os limites do Órgão terem sofrido alteração em virtude das citadas Resoluções do Conselho Nacional de Justiça</p></td></tr><tr><td><p>\2 Indicar o Ato/Portaria que alterou os limites individuais do Órgão em decorrência da respectiva Resolução do Conselho Nacional de Justiça</p></td></tr><tr><td><p>\3 Campo a ser preenchido pelos Tribunais da Justiça do Trabalho</p></td><td></td><td></td></tr></table>
+
+## ANEXO II
+
+<table><tr><td><p>UNIÃO - PODER JUDICIÁRIO</p></td></tr><tr><td><p>TRIBUNAL REGIONAL ELEITORAL DO ACRE</p></td></tr><tr><td><p>RELATÓRIO DE GESTÃO FISCAL</p></td></tr><tr><td><p>DEMONSTRATIVO DA DESPESA COM PESSOAL</p></td></tr><tr><td><p>ORÇAMENTOS FISCAL E DA SEGURIDADE SOCIAL</p></td></tr><tr><td><p>MAIO 2017 A ABRIL 2018</p></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p>RGF - ANEXO 1 (LRF, art. 55, inciso I, alínea "a")</p></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><p>R$ 1,00</p></td></tr><tr><td><p>DESPESA COM PESSOAL</p></td><td><p>DESPESAS EXECUTADAS</p></td></tr><tr><td></td><td><p>(Últimos 12 Meses)</p></td></tr><tr><td></td><td><p>LIQUIDADAS</p></td><td><p>I nscritas em Restos a Pagar não Processados¹ (b)</p></td></tr><tr><td></td><td><p>Mai/17</p></td><td><p>Jun/17</p></td><td><p>Jul/17</p></td><td><p>Ago/17</p></td><td><p>Set/17</p></td><td><p>Out/17</p></td><td><p>Nov/17</p></td><td><p>Dez/17</p></td><td><p>Jan/18</p></td><td><p>Fev/18</p></td><td><p>Mar/18</p></td><td><p>Abr/18</p></td><td><p>TOTAL</p><p>(ÚLTIMOS</p><p>12 MESES)</p><p>(a)</p></td><td></td></tr><tr><td><p>DESPESA BRUTA COM PESSOAL (I)</p></td><td><p>2.695.112,44</p></td><td><p>2.929.960,96</p></td><td><p>2.786.457,85</p></td><td><p>2.764.069,53</p></td><td><p>2.727.245,90</p></td><td><p>2.832.186,74</p></td><td><p>4.447.547,05</p></td><td><p>4.090.892,88</p></td><td><p>3.801.078,35</p></td><td><p>2.825.159,51</p></td><td><p>2.910.275,02</p></td><td><p>2.995.652,68</p></td><td><p>37.805.638,91</p></td><td><p>-</p></td></tr><tr><td><p>Pessoal Ativo</p></td><td><p>2.416.356,87</p></td><td><p>2.644.071,58</p></td><td><p>2.489.624,82</p></td><td><p>2.467.355,47</p></td><td><p>2.442.265,83</p></td><td><p>2.547.206,67</p></td><td><p>3.989.738,35</p></td><td><p>3.771.841,74</p></td><td><p>3.317.233,35</p></td><td><p>2.500.417,08</p></td><td><p>2.585.305,75</p></td><td><p>2.614.668,90</p></td><td><p>33.786.086,41</p></td><td><p>-</p></td></tr><tr><td><p>Vencimentos, Vantagens e Outras Despesas Variáveis</p></td><td><p>2.084.497,83</p></td><td><p>2.300.008,18</p></td><td><p>2.150.303,29</p></td><td><p>2.130.078,11</p></td><td><p>2.103.656,01</p></td><td><p>2.203.417,57</p></td><td><p>3.287.477,66</p></td><td><p>3.418.313,71</p></td><td><p>2.988.963,65</p></td><td><p>2.155.032,24</p></td><td><p>2.238.056,12</p></td><td><p>2.274.742,48</p></td><td><p>29.334.546,85</p></td><td><p>-</p></td></tr><tr><td><p>Obrigações Patronais</p></td><td><p>331.859,04</p></td><td><p>344.063,40</p></td><td><p>339.321,53</p></td><td><p>337.277,36</p></td><td><p>338.609,82</p></td><td><p>343.789,10</p></td><td><p>702.260,69</p></td><td><p>353.528,03</p></td><td><p>328.269,70</p></td><td><p>345.384,84</p></td><td><p>347.249,63</p></td><td><p>339.926,42</p></td><td><p>4.451.539,56</p></td><td><p>-</p></td></tr><tr><td><p>Benefícios Previdenciários</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td></tr><tr><td><p>Pessoal Inativo e Pensionistas</p></td><td><p>278.755,57</p></td><td><p>285.889,38</p></td><td><p>296.833,03</p></td><td><p>296.714,06</p></td><td><p>284.980,07</p></td><td><p>284.980,07</p></td><td><p>457.808,70</p></td><td><p>319.051,14</p></td><td><p>483.845,00</p></td><td><p>324.742,43</p></td><td><p>324.969,27</p></td><td><p>380.983,78</p></td><td><p>4.019.552,50</p></td><td><p>-</p></td></tr><tr><td><p>Aposentadorias, Reserva e Reformas</p></td><td><p>187.063,06</p></td><td><p>192.739,89</p></td><td><p>203.683,54</p></td><td><p>203.564,57</p></td><td><p>204.965,82</p></td><td><p>204.965,82</p></td><td><p>331.114,50</p></td><td><p>212.323,03</p></td><td><p>337.389,47</p></td><td><p>227.105,42</p></td><td><p>227.332,26</p></td><td><p>283.346,77</p></td><td><p>2.815.594,15</p></td><td><p>-</p></td></tr><tr><td><p>Pensões</p></td><td><p>91.692,51</p></td><td><p>93.149,49</p></td><td><p>93.149,49</p></td><td><p>93.149,49</p></td><td><p>80.014,25</p></td><td><p>80.014,25</p></td><td><p>126.694,20</p></td><td><p>106.728,11</p></td><td><p>146.455,53</p></td><td><p>97.637,01</p></td><td><p>97.637,01</p></td><td><p>97.637,01</p></td><td><p>1.203.958,35</p></td><td><p>-</p></td></tr><tr><td><p>Outros Benefícios Previdenciários</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td></tr><tr><td><p>Outras despesas de pessoal decorrentes de contratos de terceirização (§ 1º do art. 18 da LRF)</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td></tr><tr><td><p>DESPESAS NÃO COMPUTADAS (II) (§ 1º do art. 19 da LRF)</p></td><td><p>282.105,33</p></td><td><p>306.020,71</p></td><td><p>296.833,03</p></td><td><p>298.058,37</p></td><td><p>290.687,83</p></td><td><p>284.980,07</p></td><td><p>303.810,61</p></td><td><p>845.312,56</p></td><td><p>483.845,00</p></td><td><p>324.742,43</p></td><td><p>324.969,27</p></td><td><p>380.983,78</p></td><td><p>4.422.348,99</p></td><td><p>-</p></td></tr><tr><td><p>Indenizações por Demissão e Incentivos à Demissão Voluntária</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td></tr><tr><td><p>Decorrentes de Decisão Judicial de período anterior ao da apuração</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td></tr><tr><td><p>Despesas de Exercícios Anteriores de período anterior ao da apuração</p></td><td><p>3.349,76</p></td><td><p>21.475,64</p></td><td><p>-</p></td><td><p>-</p></td><td><p>5.707,76</p></td><td><p>-</p></td><td><p>14.966,13</p></td><td><p>671.929,20</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>717.428,49</p></td><td><p>-</p></td></tr><tr><td><p>Inativos e Pensionistas com Recursos Vinculados</p></td><td><p>278.755,57</p></td><td><p>284.545,07</p></td><td><p>296.833,03</p></td><td><p>298.058,37</p></td><td><p>284.980,07</p></td><td><p>284.980,07</p></td><td><p>288.844,48</p></td><td><p>173.383,36</p></td><td><p>483.845,00</p></td><td><p>324.742,43</p></td><td><p>324.969,27</p></td><td><p>380.983,78</p></td><td><p>3.704.920,50</p></td><td><p>-</p></td></tr><tr><td><p>DESPESA LÍQUIDA COM PESSOAL (III) = (I - II)</p></td><td><p>2.413.007,11</p></td><td><p>2.623.940,25</p></td><td><p>2.489.624,82</p></td><td><p>2.466.011,16</p></td><td><p>2.436.558,07</p></td><td><p>2.547.206,67</p></td><td><p>4.143.736,44</p></td><td><p>3.245.580,32</p></td><td><p>3.317.233,35</p></td><td><p>2.500.417,08</p></td><td><p>2.585.305,75</p></td><td><p>2.614.668,90</p></td><td><p>33.383.289,92</p></td><td><p>-</p></td></tr><tr><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>APURAÇÃO DO CUMPRIMENTO DO LIMITE LEGAL</p></td><td><p>VALOR</p></td><td><p>% SOBRE A RCL</p></td></tr><tr><td><p>RECEITA CORRENTE LÍQUIDA - RCL (IV)</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p>743.632.071.921,18</p></td><td><p>-</p></td></tr><tr><td><p>DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b)</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p>33.383.289,92</p></td><td><p></p></td><td><p></p></td><td><p>0,004489</p></td></tr><tr><td><p>LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p>62.747.674,23</p></td><td><p></p></td><td><p></p></td><td><p>0,008438</p></td></tr><tr><td><p>LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p>59.610.290,52</p></td><td><p></p></td><td><p></p></td><td><p>0,008016</p></td></tr><tr><td><p>LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p>56.472.906,81</p></td><td><p></p></td><td><p></p></td><td><p>0,007594</p></td></tr><tr><td></td></tr></table>
+
+Fonte: Sistema SIAFI, Unidade Responsável COFIC/SOF/TSE E SECON/COFIN/SÃO/TRE/AC, Data da emissão 18/05/2018 e hora de emissão 15:08
+
+¹Nos demonstrativos elaborados no primeiro e no segundo quadrimestre de cada exercício, os valores de restos a pagar não processados inscritos em 31 de dezembro do exercício anterior continuarão
+
+a ser informados nesse campo. Esses valores não sofrem alteração pelo seu processamento, e somente no caso de cancelamento podem ser excluídos.
+
+Notas:
+
+1\. Limites Máximo e Prudencial estabelecidos pela Portaria TSE nº 385/2013.
+
+2\. Valor da RCL referente à Portaria STN nº 322, de 17 de maio de 2018.
+
+Desª. REGINA CÉLIA FERRARI LONGUINI
+
+Presidente
+
+Carlos Venícius Ferreira Ribeiro
+
+Diretor-Geral
+
+Sandro Roberto de Oliveira Bezerra
+
+Coordenador de Controle Interno
+
+José Eduardo dos Santos Bernardino
+
+Coordenador de Orçamento e Finanças

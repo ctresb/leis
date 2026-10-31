@@ -1,0 +1,32 @@
+---
+titulo: "PORTARIA Nº 2.082, DE 29 DE OUTUBRO DE 2019"
+orgao: "Poder Judiciário/Tribunal de Justiça do Distrito Federal e dos Territórios/Presidência"
+tipo: "Portaria"
+numero: "2082"
+data: 2019-10-29
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 07/11/2019, seção 1, p. 149"
+data_publicacao: 2019-11-07
+edicao: "216"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-2.082-de-29-de-outubro-de-2019-226510960"
+sha256_html_fonte: 960b7dc9e911763bae1177e09388773cb4417fd52aa6b026f1e9e9707447fb23
+baixado_em: 2026-10-27
+---
+# PORTARIA Nº 2.082, DE 29 DE OUTUBRO DE 2019
+
+PORTARIA Nº 2.082, DE 29 DE OUTUBRO DE 2019
+
+Cronograma Anual de Desembolso Mensal da Justiça do Distrito Federal e dos Territórios relativo ao exercício financeiro de 2019, nos termos do artigo 58 da Lei nº 13.707/2018 (LDO).
+
+O PRESIDENTE DO TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, no uso de sua competência legal e tendo em vista o disposto no artigo 58 da Lei de Diretrizes Orçamentárias - LDO nº. 13.707, de 14 de agosto de 2018, resolve:
+
+**Art. 1º** - Alterar, na forma do anexo desta Portaria, o Cronograma Anual de Desembolso Mensal para o exercício de 2019, da Justiça do Distrito Federal e dos Territórios, relativo aos grupos de Despesas de Pessoal e Encargos Sociais, Outras Despesas Correntes e de Capital, constantes da Lei Orçamentária Anual - LOA nº 13.808, de 15 de janeiro de 2019, em decorrência da suplementação e remanejamento de dotação, efetivados pela Lei nº 13.883, de 11 de outubro de 2019 e pelas Portarias GPR nº 1995, de 17 de outubro de 2019, e nº 2033, de 22 de outubro de 2019.
+
+**Art. 2º** - Esta portaria entra em vigor na data de sua publicação.
+
+Des. ROMÃO C. OLIVEIRA
+
+## ANEXO
+
+<table><tr></tr><tr><td><p>ANEXO DA PORTARIA GPR Nº 2082/2019</p></td></tr><tr><td><p>16000 - JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS</p></td></tr><tr><td><p>CRONOGRAMA ANUAL DE DESEMBOLSO MENSAL - 2019</p></td></tr><tr><td><p>MÊS</p></td><td><p>PESSOAL E ENCARGOS SOCIAIS CATEGORIA DE GASTO "A"</p></td><td><p>OUTRAS DESPESAS CORRENTES CATEGORIA DE GASTO "C"</p></td><td><p>INVESTIMENTO CATEGORIA DE GASTO "D"</p></td><td><p>RESERVA DE CONTINGÊNCIA CATEGORIA DE GASTO "R"</p></td><td><p>LIMITE TOTAL</p></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td><p>MENSAL</p></td><td><p>ACUMULADO</p></td><td><p>MENSAL</p></td><td><p>ACUMULADO</p></td><td><p>MENSAL</p></td><td><p>ACUMULADO</p></td><td><p>MENSAL</p></td><td><p>ACUMULADO</p></td><td><p>MENSAL</p></td><td><p>ACUMULADO</p></td></tr><tr><td><p>JANEIRO</p></td><td><p>405.000.000,00</p></td><td><p>405.000.000,00</p></td><td><p>27.121.446,17</p></td><td><p>27.121.446,17</p></td><td><p>0,00</p></td><td><p>0,00</p></td><td><p>0,00</p></td><td><p>0,00</p></td><td><p>432.121.446,17</p></td><td><p>432.121.446,17</p></td></tr><tr><td><p>FEVEREIRO</p></td><td><p>237.412.995,75</p></td><td><p>642.412.995,75</p></td><td><p>27.121.446,17</p></td><td><p>54.242.892,34</p></td><td><p>0,00</p></td><td><p>0,00</p></td><td><p>0,00</p></td><td><p>0,00</p></td><td><p>264.534.441,92</p></td><td><p>696.655.888,09</p></td></tr><tr><td><p>MARÇO</p></td><td><p>203.000.000,00</p></td><td><p>845.412.995,75</p></td><td><p>27.121.446,17</p></td><td><p>81.364.338,51</p></td><td><p>0,00</p></td><td><p>0,00</p></td><td><p>0,00</p></td><td><p>0,00</p></td><td><p>230.121.446,17</p></td><td><p>926.777.334,26</p></td></tr><tr><td><p>ABRIL</p></td><td><p>203.000.000,00</p></td><td><p>1.048.412.995,75</p></td><td><p>27.121.446,17</p></td><td><p>108.485.784,68</p></td><td><p>0,00</p></td><td><p>0,00</p></td><td><p>0,00</p></td><td><p>0,00</p></td><td><p>230.121.446,17</p></td><td><p>1.156.898.780,43</p></td></tr><tr><td><p>MAIO</p></td><td><p>199.000.000,00</p></td><td><p>1.247.412.995,75</p></td><td><p>40.960.208,67</p></td><td><p>149.445.993,35</p></td><td><p>0,00</p></td><td><p>0,00</p></td><td><p>0,00</p></td><td><p>0,00</p></td><td><p>239.960.208,67</p></td><td><p>1.396.858.989,10</p></td></tr><tr><td><p>JUNHO</p></td><td><p>199.000.000,00</p></td><td><p>1.446.412.995,75</p></td><td><p>30.409.117,71</p></td><td><p>179.855.111,06</p></td><td><p>0,00</p></td><td><p>0,00</p></td><td><p>0,00</p></td><td><p>0,00</p></td><td><p>229.409.117,71</p></td><td><p>1.626.268.106,81</p></td></tr><tr><td><p>JULHO</p></td><td><p>199.000.000,00</p></td><td><p>1.645.412.995,75</p></td><td><p>29.977.532,00</p></td><td><p>209.832.643,06</p></td><td><p>0,00</p></td><td><p>0,00</p></td><td><p>0,00</p></td><td><p>0,00</p></td><td><p>228.977.532,00</p></td><td><p>1.855.245.638,81</p></td></tr><tr><td><p>AGOSTO</p></td><td><p>198.686.865,48</p></td><td><p>1.844.099.861,23</p></td><td><p>29.977.532,00</p></td><td><p>239.810.175,06</p></td><td><p>0,00</p></td><td><p>0,00</p></td><td><p>0,00</p></td><td><p>0,00</p></td><td><p>228.664.397,48</p></td><td><p>2.083.910.036,29</p></td></tr><tr><td><p>SETEMBRO</p></td><td><p>199.000.000,00</p></td><td><p>2.043.099.861,23</p></td><td><p>29.977.532,00</p></td><td><p>269.787.707,06</p></td><td><p>0,00</p></td><td><p>0,00</p></td><td><p>0,00</p></td><td><p>0,00</p></td><td><p>228.977.532,00</p></td><td><p>2.312.887.568,29</p></td></tr><tr><td><p>OUTUBRO</p></td><td><p>199.000.000,00</p></td><td><p>2.242.099.861,23</p></td><td><p>60.659.172,49</p></td><td><p>330.446.879,55</p></td><td><p>0,00</p></td><td><p>0,00</p></td><td><p>0,00</p></td><td><p>0,00</p></td><td><p>259.659.172,49</p></td><td><p>2.572.546.740,78</p></td></tr><tr><td><p>NOVEMBRO</p></td><td><p>285.000.000,00</p></td><td><p>2.527.099.861,23</p></td><td><p>19.504.150,73</p></td><td><p>349.951.030,28</p></td><td><p>14.307.562,50</p></td><td><p>14.307.562,50</p></td><td><p>0,00</p></td><td><p>0,00</p></td><td><p>318.811.713,23</p></td><td><p>2.891.358.454,01</p></td></tr><tr><td><p>DEZEMBRO</p></td><td><p>9.444.035,77</p></td><td><p>2.536.543.897,00</p></td><td><p>19.504.150,73</p></td><td><p>369.455.181,00</p></td><td><p>14.307.562,50</p></td><td><p>28.615.125,00</p></td><td><p>25.240.177,00</p></td><td><p>25.240.177,00</p></td><td><p>68.495.926,00</p></td><td><p>2.959.854.380,00</p></td></tr><tr><td><p>Notas:</p></td></tr><tr><td><p>1) Excluídas as despesas custeadas com recursos diretamente arrecadados nas fontes 150/180/181, os quais não geram cotas financeiras a receber do Tesouro Nacional, no total de R$ 53.596.752,00.</p></td></tr><tr><td><p>2) Este cronograma poderá ser alterado nos casos de aprovação de crédito adicional e contingenciamento de recursos.</p></td><td></td></tr></table>

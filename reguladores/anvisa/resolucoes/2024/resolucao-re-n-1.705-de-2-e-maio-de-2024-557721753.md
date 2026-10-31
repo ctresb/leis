@@ -1,0 +1,132 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 1.705, DE 2 E MAIO DE 2024"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos"
+tipo: "Resolução"
+numero: "1705"
+data: ""
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 06/05/2024, seção 1, p. 80"
+data_publicacao: 2024-05-06
+edicao: "86"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.705-de-2-e-maio-de-2024-557721753"
+sha256_html_fonte: b76b72ba3093fdcdbfdf50f99e2a4708e6a08c5877b2239e2c42eca6211b0594
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE Nº 1.705, DE 2 E MAIO DE 2024
+
+RESOLUÇÃO-RE Nº 1.705, DE 2 E MAIO DE 2024
+
+O GERENTE-GERAL DE MEDICAMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 100, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Deferir petições relacionadas à Gerência-Geral de Medicamentos, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+NÉLIO CÉZAR DE AQUINO
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+PRINCIPIO(S) ATIVO(S)
+
+----------------------------
+
+ACCORD FARMACÊUTICA LTDA 64171697000146
+
+tigeciclina 25351.404592/2020-38 05/2034
+
+155 GENERICO - REGISTRO DE MEDICAMENTO 3928145/20-1
+
+1.5537.0127.001-0 18 Meses
+
+50 MG PO LIOF SOL INJ IV CT FA VD TRANS
+
+1.5537.0127.002-9 18 Meses
+
+50 MG PO LIOF SOL INJ IV CT 10 FA VD TRANS
+
+----------------------------
+
+LABORATÓRIO TEUTO BRASILEIRO S/A 17159229000176
+
+AMPICILINA SÓDICA + SULBACTAM SÓDICo
+
+ULCTAM 25351.052271/2021-24 05/2034
+
+150 SIMILAR - REGISTRO DE MEDICAMENTO SIMILAR 8553596/21-6
+
+1.0370.0793.001-6 24 Meses
+
+(1000 + 500) MG PO SOL INJ/INFUS IV/IM CT FA VD TRANS
+
+1.0370.0793.002-4 24 Meses
+
+(1000 + 500) MG PO SOL INJ/ INFUS IV/IM CT 10 FA VD TRANS
+
+1.0370.0793.003-2 24 Meses
+
+(1000 + 500) MG PO SOL INJ/INFUS IV/IM CT 20 FA VD TRANS
+
+1.0370.0793.004-0 24 Meses
+
+(1000 + 500) MG PO SOL INJ/INFUS IV/IM CT 30 FA VD TRANS
+
+1.0370.0793.005-9 24 Meses
+
+(1000 + 500) MG PO SOL INJ/INFUS IV/IM CT 50 FA VD TRANS
+
+1.0370.0793.006-7 24 Meses
+
+(2000 + 1000) MG PO SOL INJ/INFUS IV/IM CT FA VD TRANS
+
+1.0370.0793.007-5 24 Meses
+
+(2000 + 1000) MG PO SOL INJ/INFUS IV/IM CT 10 FA VD TRANS
+
+1.0370.0793.008-3 24 Meses
+
+(2000 + 1000) MG PO SOL INJ/INFUS IV/IM CT 20 FA VD TRANS
+
+1.0370.0793.009-1 24 Meses
+
+(2000 + 1000) MG PO SOL INJ/INFUS IV/IM CT 30 FA VD TRANS
+
+1.0370.0793.010-5 24 Meses
+
+(2000 + 1000) MG PO SOL INJ/INFUS IV/IM CT 50 FA VD TRANS
+
+----------------------------
+
+UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A 60665981000118
+
+dimenidrinato 25351.061978/2023-93 05/2034
+
+155 GENERICO - REGISTRO DE MEDICAMENTO 0099638/23-6
+
+1.0497.1530.001-4 24 Meses
+
+25 MG CAP MOLE CT BL AL PLAS PVC/PVDC TRANS X 10
+
+1.0497.1530.002-2 24 Meses
+
+50 MG CAP MOLE CT BL AL PLAS PVC/PVDC TRANS X 10
+
+dimenidrinato + cloridrato de piridoxina 25351.080712/2023-40 05/2034
+
+155 GENERICO - REGISTRO DE MEDICAMENTO 0128928/23-4
+
+1.0497.1531.001-1 24 Meses
+
+(25 + 5) MG/ML SOL GOT OR CT FR GOT PLAS PET OPC X 20 ML

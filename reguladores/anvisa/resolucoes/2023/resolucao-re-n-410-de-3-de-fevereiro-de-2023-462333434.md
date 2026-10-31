@@ -1,0 +1,106 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 410, DE 3 DE FEVEREIRO DE 2023"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "410"
+data: 2023-02-03
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 06/02/2023, seção 1, p. 80"
+data_publicacao: 2023-02-06
+edicao: "26"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-410-de-3-de-fevereiro-de-2023-462333434"
+sha256_html_fonte: ff45966b51b6fc34a6be07a2c9e434f0e7afaf2e3bea197172133b635e14743a
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE Nº 410, DE 3 DE FEVEREIRO DE 2023
+
+RESOLUÇÃO-RE Nº 410, DE 3 DE FEVEREIRO DE 2023
+
+A Coordenadora substituta de Autorização de Funcionamento de Empresas, no uso das atribuições que lhe confere o art. 144, II, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Conceder Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+TACIANE PIMENTEL DA SILVA
+
+## ANEXO
+
+UNILOG EXPRESS LOGÍSTICA S/A / 09.403.367/0005-54
+
+25351.643786/2022-19 / 1285808
+
+761 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - ARMAZENADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 5063476228
+
+--------------------------------------
+
+VTC Operadora Logística LTDA. / 24.893.687/0013-33
+
+25351.643230/2022-22 / 1285796
+
+761 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - ARMAZENADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 5062882222
+
+--------------------------------------
+
+DESCARTMED PRODUTOS HOSPITALARES EIRELI-EPP / 19.001.876/0001-80
+
+25351.656089/2022-28 / 1285657
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 5085244222
+
+--------------------------------------
+
+OCEAN BLUE MEDICAL LTDA / 42.336.015/0001-75
+
+25351.642307/2022-47 / 1285779
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 5061898222
+
+--------------------------------------
+
+BTECNOLOGY LABORATÓRIOS CLÍNICOS EIRELI / 32.601.557/0001-74
+
+25351.642224/2022-58 / 1285765
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 5061810228
+
+--------------------------------------
+
+LAUTO CARGO TRANSPORTE RODOVIÁRIO S/A / 07.189.259/0006-86
+
+25351.655985/2022-70 / 1285643
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 5085113225
+
+--------------------------------------
+
+CRISMED COMÉRCIO DE PRODUTOS PARA SAÚDE LTDA / 11.606.767/0001-85
+
+25351.646497/2022-71 / 1285691
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 5069578227
+
+--------------------------------------
+
+AME DISTRIBUIDORA DE PRODUTOS FARMACÊUTICOS LTDA / 48.364.224/0001-09
+
+25351.646569/2022-81 / 1285721
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 5069653229
+
+--------------------------------------
+
+VIRTUS PHARMA LTDA. / 21.434.556/0001-66
+
+25351.647227/2022-88 / 1285748
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 5070380222
+
+--------------------------------------
+
+MANI FARMA DISTRIBUIDORA DE MEDICAMENTOS EIRELI / 41.189.818/0001-81
+
+25351.652733/2022-99 / 1285751
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 5081641227

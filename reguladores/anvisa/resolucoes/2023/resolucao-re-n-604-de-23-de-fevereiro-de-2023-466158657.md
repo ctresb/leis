@@ -1,0 +1,104 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 604, DE 23 DE FEVEREIRO DE 2023"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos"
+tipo: "Resolução"
+numero: "604"
+data: 2023-02-23
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 27/02/2023, seção 1, p. 93"
+data_publicacao: 2023-02-27
+edicao: "39"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-604-de-23-de-fevereiro-de-2023-466158657"
+sha256_html_fonte: 2de65049a0984758a0b5714c0ccdf8b42b0fd576c9e17a416be3ae4b3f95380f
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE Nº 604, DE 23 DE FEVEREIRO DE 2023
+
+RESOLUÇÃO-RE Nº 604, DE 23 DE FEVEREIRO DE 2023
+
+O Gerente-Geral substituto de Medicamentos, no uso das atribuições que lhe confere o art. 100, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Indeferir petições relacionadas à Gerência-Geral de Medicamentos, conforme anexo;
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+LEONARDO NASCIMENTO SANTOS
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+PRINCIPIO(S) ATIVO(S)
+
+----------------------------
+
+LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA 05044984000126
+
+CLORIDRATO DE OLOPATADINA
+
+PRUROK 25351.744212/2020-03 02/2033
+
+150 SIMILAR - REGISTRO DE MEDICAMENTO SIMILAR 2514053/20-1
+
+2 MG/ML SOL OFT CT FR PLAS PEBD/PEAD OPC X 2,5 ML
+
+----------------------------
+
+HIPOLABOR FARMACEUTICA LTDA 19570720000110
+
+MIDAZOLAM 25351.117387/2005-04 06/2027
+
+12086 RDC 73/2016 - GENÉRICO - MUDANÇA DE MEDICAMENTOS PARA INTUBAÇÃO OROTRAQUEAL COVID-19 3009626/21-5
+
+12086 RDC 73/2016 - GENÉRICO - MUDANÇA DE MEDICAMENTOS PARA INTUBAÇÃO OROTRAQUEAL COVID-19 3142683/21-6
+
+1.1343.0143.001-9 24 Meses
+
+1 MG/ML SOL INJ CT 5 AMP VD TRANS X 5 ML
+
+1.1343.0143.002-7 24 Meses
+
+1 MG/ML SOL INJ CX 50 AMP VD TRANS X 5 ML
+
+1.1343.0143.003-5 24 Meses
+
+1 MG/ML SOL INJ CX 100 AMP VD TRANS X 5 ML
+
+1.1343.0143.007-8 24 Meses
+
+5 MG/ML SOL INJ CT 5 AMP VD TRANS X 10 ML
+
+1.1343.0143.008-6 24 Meses
+
+5 MG/ML SOL INJ CX 100 AMP VD TRANS X 10 ML
+
+1.1343.0143.009-4 24 Meses
+
+5 MG/ML SOL INJ CX 50 AMP VD TRANS X 10 ML
+
+----------------------------
+
+ZYDUS NIKKHO FARMACÊUTICA LTDA 05254971000181
+
+cloridrato de duloxetina 25351.724215/2019-89 02/2033
+
+155 GENERICO - REGISTRO DE MEDICAMENTO 3481084/19-6
+
+30 MG CAP DURA LIB RETARD CT BL AL AL X 30
+
+30 MG CAP DURA LIB RETARD CT BL AL AL X 60
+
+60 MG CAP DURA LIB RETARD CT BL AL AL X 30
+
+60 MG CAP DURA LIB RETARD CT BL AL AL X 30

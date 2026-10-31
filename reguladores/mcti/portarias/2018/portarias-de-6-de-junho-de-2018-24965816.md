@@ -1,0 +1,28 @@
+---
+titulo: "PORTARIAS DE 6 DE JUNHO DE 2018"
+orgao: "Ministério da Ciência, Tecnologia, Inovações e Comunicações/Secretaria de Radiodifusão/Departamento de Radiodifusão Educativa, Comunitária e de Fiscalização"
+tipo: "Portaria"
+numero: ""
+data: ""
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 11/06/2018, seção 1, p. 4"
+data_publicacao: 2018-06-11
+edicao: "110"
+fonte: "https://www.in.gov.br/web/dou/-/portarias-de-6-de-junho-de-2018-24965816"
+sha256_html_fonte: 9de614d8e0dd6db71e7485ac4f48dae72740a321138ddb13fb4bb63fd7f46542
+baixado_em: 2026-10-27
+---
+# PORTARIAS DE 6 DE JUNHO DE 2018
+
+PORTARIAS DE 6 DE JUNHO DE 2018
+
+A DIRETORA DO DEPARTAMENTO DE RADIODIFUSÃO EDUCATIVA, COMUNITÁRIA E DE FISCALIZAÇÃO, no uso das atribuições que lhe confere o Anexo III, artigo 77, § 2º, X do Regimento Interno da Secretaria de Radiodifusão, aprovado pela Portaria MCTIC nº 1.729, de 31 de março de 2017, e tendo em vista o que consta nos processos abaixo, resolve:
+
+**Art. 1º** Aplicar às Entidades abaixo relacionadas a penalidade de multa.
+
+**Art.3º** Estas Portarias entram em vigor na data de suas publicações.
+
+<table><tr></tr><tr><td><p>N° do Processo</p></td><td><p>Entidade</p></td><td><p>Serviço</p></td><td><p>Município</p></td><td><p>UF</p></td><td><p>Sanção</p></td><td><p>Valor (R$)</p></td><td><p>Enquadramento Legal</p></td><td><p>Portaria</p></td><td><p>Embasamento da Portaria de Multa</p></td></tr><tr><td><p>53000.073310/2013</p></td><td><p>Rádio E Televisão Metropolitana Ltda</p></td><td><p>OM</p></td><td><p>São José dos Campos</p></td><td><p>SP</p></td><td><p>Multa</p></td><td><p>21.590,00</p></td><td><p>Art. 62 da Lei n° 4.117/1962.</p></td><td><p>Portaria DECEF n° 886, de 06/06/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53000.060550/2013</p></td><td><p>Associação Arroio-Grandense De Difusão Cultural</p></td><td><p>RADCOM</p></td><td><p>Arroio Grande</p></td><td><p>RS</p></td><td><p>Multa</p></td><td><p>913,86</p></td><td><p>Art. 40, inciso XXIX do Decreto nº 2.615/1998.</p></td><td><p>Portaria DECEF n° 911, de 06/06/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53000.028049/2013</p></td><td><p>Associação Comunitária Cuiabana P/ Cultura E Defesa Ambiental (Acudam)</p></td><td><p>RADCOM</p></td><td><p>Cuiabá</p></td><td><p>MT</p></td><td><p>Multa</p></td><td><p>2.741,59</p></td><td><p>Art. 40, inciso XXIX do Decreto nº 2.615/1998.</p></td><td><p>Portaria DECEF n° 918, de 06/06/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53000.055274/2013</p></td><td><p>Jet Radiodifusão Ltda</p></td><td><p>FM</p></td><td><p>Teresina</p></td><td><p>PI</p></td><td><p>Multa</p></td><td><p>30.705,78</p></td><td><p>Art. 62 da Lei n° 4.117/1962.</p></td><td><p>Portaria DECEF n° 920, de 06/06/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53000.024964/2013</p></td><td><p>Associação Comunitária De Radiodifusão De Esperantina - To</p></td><td><p>RADCOM</p></td><td><p>Esperantina</p></td><td><p>TO</p></td><td><p>Multa</p></td><td><p>913,86</p></td><td><p>Art. 40, inciso XXIX do Decreto nº 2.615/1998</p></td><td><p>Portaria DECEF n° 968, de 06/06/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53000.060499/2013</p></td><td><p>Rádio Jornal De Cáceres Ltda</p></td><td><p>OM</p></td><td><p>Cáceres</p></td><td><p>MT</p></td><td><p>Multa</p></td><td><p>6.716,89</p></td><td><p>Art. 62 da Lei n° 4.117/1962.</p></td><td><p>Portaria DECEF n° 971, de 06/06/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53000.028048/2013</p></td><td><p>Associação Movimento Comunitário Rádio Educativa Fm De Cuiabá - Mt</p></td><td><p>RADCOM</p></td><td><p>Cuiabá</p></td><td><p>MT</p></td><td><p>Multa</p></td><td><p>913,86</p></td><td><p>Art. 40, inciso XXIX do Decreto nº 2.615/1998.</p></td><td><p>Portaria DECEF n° 974, de 06/06/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53000.043096/2013</p></td><td><p>Associação Cultural Comunitária De Santo Antonio De Leverger</p></td><td><p>RADCOM</p></td><td><p>Santo Antônio do Leverger</p></td><td><p>MT</p></td><td><p>Multa</p></td><td><p>1.827,73</p></td><td><p>Art. 40, inciso XXIX do Decreto nº 2.615/1998.</p></td><td><p>Portaria DECEF n° 976, de 06/06/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53000.055259/2013</p></td><td><p>Fundação Evangélica De Comunicação-Funec</p></td><td><p>FME</p></td><td><p>João Pessoa</p></td><td><p>PB</p></td><td><p>Multa</p></td><td><p>2.284,66</p></td><td><p>Art. 62 da Lei n° 4.117/1962.</p></td><td><p>Portaria DECEF n° 1117, de 06/06/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53000.055680/2013</p></td><td><p>Fundação Cultural Monsenhor Chaves</p></td><td><p>FME</p></td><td><p>Teresina</p></td><td><p>PI</p></td><td><p>Multa</p></td><td><p>6.853,97</p></td><td><p>Art. 62 da Lei n° 4.117/1962.</p></td><td><p>Portaria DECEF n° 1140, de 06/06/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53000.060538/2013</p></td><td><p>Fundação Cultural E Educativa Serro Azul</p></td><td><p>FME</p></td><td><p>Itabira</p></td><td><p>MG</p></td><td><p>Multa</p></td><td><p>913,86</p></td><td><p>Art. 62 da Lei n° 4.117/1962.</p></td><td><p>Portaria DECEF n° 2926, de 06/06/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr></table>
+
+INEZ JOFFILY FRANÇA

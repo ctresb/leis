@@ -1,0 +1,40 @@
+---
+titulo: "PORTARIA Nº 851, DE 10 DE JUNHO DE 2021"
+orgao: "Ministério da Educação/Fundação Universidade do Amazonas"
+tipo: "Portaria"
+numero: "851"
+data: 2021-06-10
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 14/06/2021, seção 1, p. 24"
+data_publicacao: 2021-06-14
+edicao: "109"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-851-de-10-de-junho-de-2021-325398161"
+sha256_html_fonte: 201dd02ca85d2e1d0da51b690fde40486caccb829d0582499c866b62ab58be13
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 851, DE 10 DE JUNHO DE 2021
+
+PORTARIA Nº 851, DE 10 DE JUNHO DE 2021
+
+O REITOR DA UNIVERSIDADE FEDERAL DO AMAZONAS, usando das atribuições estatutárias, conferidas por Decreto de 14 de junho de 2017, publicado no Diário Oficial da União de 16 de junho de 2017, resolve:
+
+**Art. 1º.** HOMOLOGAR o resultado do processo seletivo objeto do Edital nº 008, de 16/02/2021, publicado no D.O.U. em 17/02/2021, retificado no D.O.U em 22/03/2021, 24/03/2021, 09/04/2021, considerando os limites previstos no Anexo II do Decreto nº 9.739 de 28/03/2019, conforme segue:
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>Unidade</p></td>      <td rowspan="1" colspan="1"><p>Área</p></td>      <td rowspan="1" colspan="1"><p>Classe/ Padrão/ Carga Horária</p></td>      <td rowspan="1" colspan="1"><p>Lista*</p></td>      <td rowspan="1" colspan="1"><p>Candidato</p></td>      <td rowspan="1" colspan="1"><p>Classificação</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>FM</p></td>      <td rowspan="1" colspan="1"><p>Traumato/Ortopedia</p></td>      <td rowspan="1" colspan="1"><p>Auxiliar com especialização, Nível 1, 40h</p></td>      <td rowspan="1" colspan="1"><p>AC</p></td>      <td rowspan="1" colspan="1"><p>CAROLINE BRUM SENA</p></td>      <td rowspan="1" colspan="1"><p>1º</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>FES</p></td>      <td rowspan="1" colspan="1"><p>Introdução à Economia</p></td>      <td rowspan="1" colspan="1"><p>Assistente A, Nível 1, 40h</p></td>      <td rowspan="1" colspan="1"><p>AC</p></td>      <td rowspan="1" colspan="1"><p>LUCAS TRENTIN RECH</p></td>      <td rowspan="1" colspan="1"><p>1º</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>LUCIANA OLIVEIRA DO VALLE CARMINE</p></td>      <td rowspan="1" colspan="1"><p>2º</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>NATHAN BARBOSA DOS SANTOS</p></td>      <td rowspan="1" colspan="1"><p>3º</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>WANESSA DA COSTA NASCIMENTO</p></td>      <td rowspan="1" colspan="1"><p>4º</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>SUELANIA CRISTINA GONZAGA DE FIGUEIREDO</p></td>      <td rowspan="1" colspan="1"><p>5º</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>FES</p></td>      <td rowspan="1" colspan="1"><p>Teoria Econômica</p></td>      <td rowspan="1" colspan="1"><p>Assistente A, Nível 1, 40h</p></td>      <td rowspan="1" colspan="1"><p>AC</p></td>      <td rowspan="1" colspan="1"><p>GUILHERME NUNES MARTINS</p></td>      <td rowspan="1" colspan="1"><p>1º</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>NEULER ANDRÉ SOARES DE ALMEIDA</p></td>      <td rowspan="1" colspan="1"><p>2º</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>BRENA DO NASCIMENTO CARVALHO</p></td>      <td rowspan="1" colspan="1"><p>3º</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>SUELANIA CRISITNA GONZAGA DE FIGUEIREDO</p></td>      <td rowspan="1" colspan="1"><p>4º</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>DENIZE MIRIAN DA SILVA</p></td>      <td rowspan="1" colspan="1"><p>5º</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>PCD</p></td>      <td rowspan="1" colspan="1"><p>GUILHERME NUNES MARTINS</p></td>      <td rowspan="1" colspan="1"><p>1º</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>FT</p></td>      <td rowspan="1" colspan="1"><p>Engenharia de Petróleo e Gás</p></td>      <td rowspan="1" colspan="1"><p>Auxiliar, Nível 1, 40h</p></td>      <td rowspan="1" colspan="1"><p>AC</p></td>      <td rowspan="1" colspan="1"><p>CAMILO ANDRÉS GUERRERO MARTIN</p></td>      <td rowspan="1" colspan="1"><p>1º</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>ANDREZA DE OLIVEIRA MIRANDA</p></td>      <td rowspan="1" colspan="1"><p>2º</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>THIAGO HENRIQUE DA SILVA BARBOSA</p></td>      <td rowspan="1" colspan="1"><p>3º</p></td>     </tr>    </tbody>   </table>
+
+\*AC: Ampla Concorrência \*PCD: Pessoa Com Deficiência
+
+**Art.2º** - ESTABELECER que o prazo de validade do resultado do Processo Seletivo será de 01 (um) ano, contado a partir da publicação do ato de homologação no Diário Oficial da União, prorrogável por igual período no interesse da Instituição e mediante iniciativa da Unidade Acadêmica.
+
+SYLVIO MÁRIO PUGA FERREIRA
+
+PORTARIA Nº 856, DE 11 DE JUNHO DE 2021
+
+O REITOR DA UNIVERSIDADE FEDERAL DO AMAZONAS, usando das atribuições estatutárias, conferidas por Decreto de 14 de junho de 2017, publicado no Diário Oficial da União de 16 de junho de 2017, resolve:
+
+**Art. 1º.** PRORROGAR por 02 (dois) anos, a validade do Concurso Público para provimento de vagas de cargos na Carreira de Magistério Superior, objeto do Edital n° 036 de 17/04/2018, publicado no DOU em 18/04/2018, nos seguintes termos:
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>Unidade</p></td>      <td rowspan="1" colspan="1"><p>Área de Conhecimento</p></td>      <td rowspan="1" colspan="1"><p>Portaria de Homologação/ Edital nº 2</p></td>      <td rowspan="1" colspan="1"><p>Prazo de validade (inicial)</p></td>      <td rowspan="1" colspan="1"><p>Prazo de validade (final)</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>INC</p></td>      <td rowspan="1" colspan="1"><p>Sistema de Informação Geográfica, Silvicultura e Agroflorestas e Tecnologia de Sementes</p></td>      <td rowspan="1" colspan="1"><p>Portaria nº 1.811, de 24/05/2019, publicada em 27/05/2019</p><p>Edital nº 2, de 12/02/2021, publicado em 18/02/2021</p></td>      <td rowspan="1" colspan="1"><p>10/03/2022</p></td>      <td rowspan="1" colspan="1"><p>09/03/2024</p></td>     </tr>    </tbody>   </table>
+
+SYLVIO MÁRIO PUGA FERREIRA

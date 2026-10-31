@@ -1,0 +1,522 @@
+---
+titulo: "PORTARIA GM/MS Nº 8.632, DE 3 DE NOVEMBRO DE 2025"
+orgao: "Ministério da Saúde/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "8632"
+data: 2025-11-03
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 05/11/2025, seção 1, p. 75"
+data_publicacao: 2025-11-05
+edicao: "211"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-gm/ms-n-8.632-de-3-de-novembro-de-2025-666808023"
+baixado_em: 2026-10-16
+---
+# PORTARIA GM/MS Nº 8.632, DE 3 DE NOVEMBRO DE 2025
+
+PORTARIA GM/MS Nº 8.632, DE 3 DE NOVEMBRO DE 2025
+
+Aprova e distribui recursos referente à Reprogramação físico-financeira do Plano de Ação Regional do Estado e Municípios de São Paulo, do Programa Nacional de Expansão e Qualificação da Atenção Ambulatorial Especializada, Componente Ambulatorial do Programa Agora tem Especialistas, no âmbito do Sistema Único de Saúde (SUS), e dá outras providências.
+
+O MINISTRO DE ESTADO DA SAÚDE, no uso de suas atribuições que lhe conferem os incisos I e II do parágrafo único do art. 87 da Constituição, resolve:
+
+**Art. 1º** Fica aprovada a Reprogramação físico-financeira do Plano de Ação Regional do estado e municípios de São Paulo referente ao Programa Nacional de Expansão e Qualificação da Atenção Ambulatorial Especializada, Componente Ambulatorial do Programa Agora tem Especialistas, conforme aprovada pela Deliberação CIB nº 52, de 24 de junho de 2025 (0048767661), e pela Deliberação CIB nº 61, de 16 de julho de 2025 no âmbito do Sistema Único de Saúde (SUS), na forma dos Anexos desta Portaria.
+
+**Parágrafo único.** A reprogramação aprovada no caput se refere à programação físico-financeira para realização de 2.751.451 (dois milhões, setecentos e cinquenta e um mil quatrocentos e cinquenta e uma) Ofertas de Cuidados Integrados - OCIs, distribuídas conforme o Anexo I desta Portaria, para o atendimento de 46.649.132 (quarenta e seis milhões, seiscentos e quarenta e nove mil, cento e trinta e dois) habitantes, segundo dados da população TCU 2021, nos 645 (seiscentos e quarente e cinco) municípios do estado de São Paulo, passando a viger em alteração ao aprovado anteriormente pela Portaria GM/MS nº 6.039, de 11 dezembro de 2024.
+
+**Art. 2º** Fica redefinido recurso do Bloco de Manutenção das Ações e Serviços Públicos de Saúde - Grupo de Atenção Especializada, de R$ 432.363.775,00 (quatrocentos e trinta e dois milhões, trezentos e sessenta e três mil setecentos e setenta e cinco reais), aprovado pela Portaria GM/MS nº 6.039, de 11 dezembro de 2024, para até o limite de R$ 540.740.353,00 (quinhentos e quarenta milhões, setecentos e quarenta mil trezentos e cinquenta e três reais) , a ser disponibilizado ao estado e municípios de São Paulo, por meio do Fundo de Ações Estratégicas e Compensação-FAEC, da seguinte forma:
+
+I - Fica distribuído, na forma do Anexo III desta Portaria, os recursos do incentivo financeiro, referente à 50% do Incentivo à Implementação das Ações e Estratégias de Gestão do PAR - NAG, no montante total de R$15.900.000,00, de que trata o Capítulo V, Art. 15, da Portaria GM/MS nº 3.492, de 8 de abril de 2024;
+
+II - R$ 129.709.132,50 (cento e vinte e nove milhões, setecentos e nove mil cento e trinta e dois reais e cinquenta centavos) ficam mantidos, cuja distribuição foi realizada pela Portaria GM/MS Nº 6.186, de 19 de dezembro de 2024;
+
+III - Até o limite de R$ 395.131.220,50 (trezentos e noventa e cinco milhões, cento e trinta e um mil duzentos e vinte reais e cinquenta centavos), ficam redefinidos e redistribuídos conforme anexo II, cuja transferência se dará mediante a apresentação de produção de serviços registrada e aprovada no Sistema de Informações Ambulatoriais - SIA/SUS; e
+
+IV - R$ 8.048.198,20 (oito milhões, quarenta e oito mil cento e noventa e oito reais e vinte centavos) refere-se ao decréscimo do valor aprovado em função da reprogramação dos Planos de Ação Regional.
+
+**Art. 3º** O Fundo Nacional de Saúde adotará as medidas necessárias para a transferência do recurso financeiro aos respectivos Fundos de Saúde que produzirem conforme as OCIs e fizerem parte dos PARs aprovados, após a apuração da produção na Base de Dados dos Sistemas de Informações do SUS, mediante processo autorizativo encaminhado pela Secretaria de Atenção Especializada à Saúde.
+
+**Art. 4º** O recurso orçamentário objeto desta Portaria correrá por conta do orçamento do Ministério da Saúde, devendo onerar o Programa de Trabalho 10.302.5118.8585 - Atenção à Saúde da População para procedimentos em Média e Alta Complexidade - Plano Orçamentário 0005 (Fundo de Ações Estratégicas e Compensação - FAEC).
+
+**Art. 5º** A prestação de contas sobre a aplicação dos recursos recebidos pelo Estado e municípios deverá compor o Relatório Anual de Gestão - RAG.
+
+**Art. 6º** Esta Portaria entra em vigor na data de sua publicação, com efeitos operacionais nos sistemas de informação do SUS a partir da competência seguinte à da sua publicação.
+
+ALEXANDRE ROCHA SANTOS PADILHA
+
+## ANEXO I — TIPOS DE OFERTAS DE CUIDADOS INTEGRADOS E LIMITE ORÇAMENTÁRIO
+
+| Reprogramação físico-financeira do Estado de São Paulo das Ofertas de Cuidados Integrados (OCIs) |  |  |  |
+| --- | --- | --- | --- |
+| Código da OCI | Nome da OCI | Programação Física PAR | Programação Financeira PAR |
+| 0901010014 | OCI AVALIAÇÃO DIAGNÓSTICA INICIAL DE CÂNCER DE MAMA | 108.385 | R$ 13.548.125,00 |
+| 0901010049 | OCI PROGRESSÃO DA AVALIAÇÃO DIAGNÓSTICA DE CÂNCER DE PRÓSTATA | 40.722 | R$ 12.216.600,00 |
+| 0901010057 | OCI INVESTIGAÇÃO DIAGNÓSTICA DE CÂNCER DE COLO DO ÚTERO | 35.471 | R$ 3.547.100,00 |
+| 0901010073 | OCI AVALIAÇÃO DIAGNÓSTICA DE CÂNCER GÁSTRICO | 154.616 | R$ 38.654.000,00 |
+| 0901010081 | OCI AVALIAÇÃO DIAGNÓSTICA DE CÂNCER DE COLORRETAL | 99.199 | R$ 27.974.118,00 |
+| 0901010090 | OCI PROGRESSÃO DA AVALIAÇÃO DIAGNÓSTICA DE CÂNCER DE MAMA - I | 24.956 | R$ 9.982.400,00 |
+| 0901010103 | OCI PROGRESSÃO DA AVALIAÇÃO DIAGNÓSTICA DE CÂNCER DE MAMA-II | 23.238 | R$ 9.295.200,00 |
+| 0901010111 | OCI AVALIAÇÃO DIAGNÓSTICA E TERAPÊUTICA DE CÂNCER DE COLO DO ÚTERO-I | 17.010 | R$ 3.742.200,00 |
+| 0901010120 | OCI AVALIAÇÃO DIAGNÓSTICA E TERAPÊUTICA DE CÂNCER DE COLO DO ÚTERO-II | 18.736 | R$ 4.121.920,00 |
+| 0902010018 | OCI AVALIAÇÃO DE RISCO CIRÚRGICO | 217.361 | R$ 28.256.930,00 |
+| 0902010026 | OCI AVALIAÇÃO CARDIOLÓGICA | 146.339 | R$ 29.267.800,00 |
+| 0902010034 | OCI AVALIAÇÃO DIAGNÓSTICA INICIAL - SÍNDROME CORONARIANA CRÔNICA | 68.175 | R$ 18.407.250,00 |
+| 0902010042 | OCI PROGRESSÃO DA AVALIAÇÃO DIAGNÓSTICA I - SÍNDROME CORONARIANA CRÔNICA | 19.307 | R$ 4.826.750,00 |
+| 0902010050 | OCI PROGRESSÃO DA AVALIAÇÃO DIAGNÓSTICA II - SÍNDROME CORONARIANA CRÔNICA | 24.801 | R$ 20.832.840,00 |
+| 0902010069 | OCI AVALIAÇÃO DIAGNÓSTICA - INSUFICIÊNCIA CARDÍACA | 45.599 | R$ 15.959.650,00 |
+| 0903010011 | OCI AVALIAÇÃO DIAGNÓSTICA EM ORTOPEDIA COM RECURSOS DE RADIOLOGIA | 393.304 | R$ 39.330.400,00 |
+| 0903010020 | OCI AVALIAÇÃO DIAGNÓSTICA EM ORTOPEDIA COM RECURSOS DE RADIOLOGIA E ULTRASSONOGRAFIA | 217.031 | R$ 30.384.340,00 |
+| 0903010038 | OCI AVALIAÇÃO DIAGNÓSTICA EM ORTOPEDIA COM RECURSOS DE RADIOLOGIA E TOMOGRAFIA COMPUTADORIZADA | 158.093 | R$ 36.361.390,00 |
+| 0903010040 | OCI AVALIAÇÃO DIAGNÓSTICA EM ORTOPEDIA COM RECURSOS DE RADIOLOGIA E RESSONÂNCIA MAGNÉTICA | 98.658 | R$ 35.516.880,00 |
+| 0904010015 | OCI AVALIAÇÃO INICIAL DIAGNÓSTICA DE DÉFICIT AUDITIVO | 140.757 | R$ 14.075.700,00 |
+| 0904010023 | OCI PROGRESSÃO DA AVALIAÇÃO DIAGNÓSTICA DE DÉFICIT AUDITIVO | 36.331 | R$ 5.449.650,00 |
+| 0904010031 | OCI AVALIAÇÃO DIAGNÓSTICA DE NASOFARINGE E DE OROFARINGE | 56.725 | R$ 11.345.000,00 |
+| 0905010019 | OCI AVALIAÇÃO INICIAL EM OFTALMOGIA - 0 A 8 ANOS | 65.124 | R$ 13.024.800 |
+| 0905010027 | OCI AVALIAÇÃO DE ESTRABISMO | 34.261 | R$ 6.852.200 |
+| 0905010035 | OCI AVALIAÇÃO INICIAL EM OFTALMOLOGIA - A PARTIR DE 9 ANOS | 318.126 | R$ 50.900.160 |
+| 0905010043 | OCI AVALIAÇÃO DE RETINOPATIA DIABÉTICA | 124.535 | R$ 24.907.000 |
+| 0905010051 | OCI AVALIAÇÃO INICIAL PARA ONCOLOGIA OFTALMOLÓGICA | 37.857 | R$ 9.464.250 |
+| 0905010060 | OCI AVALIAÇÃO DIAGNÓSTICA EM NEURO OFTALMOLOGIA | 12.489 | R$ 3.746.700 |
+| 0905010078 | OCI EXAMES OFTALMOLÓGICOS SOB SEDAÇÃO | 14.245 | R$ 2.849.000 |
+| Total Geral | 2.751.451 | R$ 524.840.353,00 |  |
+
+## ANEXO II — RECURSOS APROVADOS NA REPROGRAMAÇÃO EM 2025
+
+| IBGE | Município Executor | Gestão | Valor do fomento repassado pela PTGM/MS 6.186 | Valor a ser descontado do Limite Financeiro MAC | SALDO pós-produção aprovado na Reprogramação de 2025 (Considerando o repasse de 30% do fomento) | Reprogramação 2025 (valor repassado pela PTGM/MS 6.186 + Saldo pós-produção da Reprogramação 2025) |
+| --- | --- | --- | --- | --- | --- | --- |
+| 350000 | São Paulo | ESTADUAL | R$ 61.517.666,40 | R$ - | R$ 84.781.640,63 | R$ 148.026.175,00 |
+| 350010 | ADAMANTINA | MUNICIPAL | R$ 161.193,00 | R$ - | R$ 279.513,75 | R$ 446.400,00 |
+| 350030 | AGUAI | MUNICIPAL | R$ - | R$ - | R$ 304.154,85 | R$ 310.350,00 |
+| 350040 | AGUAS DA PRATA | MUNICIPAL | R$ 3.456,00 | -R$ 3.456,00 | R$ - | R$ - |
+| 350050 | AGUAS DE LINDOIA | MUNICIPAL | R$ 6.030,00 | R$ - | R$ 527.740,76 | R$ 544.520,00 |
+| 350060 | AGUAS DE SAO PEDRO | MUNICIPAL | R$ 1.170,00 | -R$ 1.170,00 | R$ - | R$ - |
+| 350070 | AGUDOS | MUNICIPAL | R$ 2.736,00 | R$ - | R$ 121.391,45 | R$ 126.600,00 |
+| 350100 | ALTINOPOLIS | MUNICIPAL | R$ - | R$ - | R$ 5.782,23 | R$ 5.900,00 |
+| 350115 | ALUMINIO | MUNICIPAL | R$ - | R$ - | R$ 150.582,87 | R$ 153.650,00 |
+| 350130 | ALVARES MACHADO | MUNICIPAL | R$ - | R$ - | R$ 1.353.726,73 | R$ 1.381.300,00 |
+| 350160 | AMERICANA | MUNICIPAL | R$ 171.198,00 | R$ - | R$ 1.220.306,29 | R$ 1.416.360,00 |
+| 350170 | AMERICO BRASILIENSE | MUNICIPAL | R$ 8.847,00 | -R$ 8.847,00 | R$ - | R$ - |
+| 350190 | AMPARO | MUNICIPAL | R$ 122.691,00 | R$ - | R$ 419.509,26 | R$ 550.745,00 |
+| 350210 | ANDRADINA | MUNICIPAL | R$ 11.232,00 | R$ - | R$ 1.969.148,56 | R$ 2.020.489,00 |
+| 350220 | ANGATUBA | MUNICIPAL | R$ - | R$ - | R$ 35.771,39 | R$ 36.500,00 |
+| 350240 | ANHUMAS | MUNICIPAL | R$ - | R$ - | R$ - | R$ - |
+| 350250 | APARECIDA | MUNICIPAL | R$ 870,00 | R$ - | R$ 1.989,48 | R$ 2.900,00 |
+| 350270 | APIAI | MUNICIPAL | R$ 9.180,00 | -R$ 9.180,00 | R$ - | R$ - |
+| 350280 | ARACATUBA | MUNICIPAL | R$ 4.020,00 | R$ - | R$ 1.516.099,45 | R$ 1.551.000,00 |
+| 350290 | ARACOIABA DA SERRA | MUNICIPAL | R$ 20.124,00 | R$ - | R$ 288.754,53 | R$ 314.760,00 |
+| 350300 | ARAMINA | MUNICIPAL | R$ 21.429,00 | R$ - | R$ 129.856,04 | R$ 153.930,00 |
+| 350320 | ARARAQUARA | MUNICIPAL | R$ 234.511,50 | R$ - | R$ 2.154.626,17 | R$ 2.433.024,00 |
+| 350330 | ARARAS | MUNICIPAL | R$ 224.531,40 | -R$ 224.531,40 | R$ - | R$ - |
+| 350340 | AREALVA | MUNICIPAL | R$ - | R$ - | R$ 209.571,36 | R$ 213.840,00 |
+| 350360 | AREIOPOLIS | MUNICIPAL | R$ 9.720,00 | -R$ 9.720,00 | R$ - | R$ - |
+| 350390 | ARUJA | MUNICIPAL | R$ - | R$ - | R$ 1.950.411,21 | R$ 1.990.138,00 |
+| 350400 | ASSIS | MUNICIPAL | R$ 53.208,00 | R$ - | R$ 768.459,69 | R$ 837.320,00 |
+| 350410 | ATIBAIA | MUNICIPAL | R$ 46.361,40 | R$ - | R$ 105.997,60 | R$ 154.518,00 |
+| 350450 | AVARE | MUNICIPAL | R$ 267.846,00 | -R$ 126.846,00 | R$ - | R$ 141.000,00 |
+| 350460 | BADY BASSITT | MUNICIPAL | R$ 8.910,00 | R$ - | R$ 328.067,78 | R$ 343.660,00 |
+| 350480 | BALSAMO | MUNICIPAL | R$ - | R$ - | R$ 192.107,08 | R$ 196.020,00 |
+| 350490 | BANANAL | MUNICIPAL | R$ 11.679,00 | R$ - | R$ 53.726,67 | R$ 66.500,00 |
+| 350530 | BARRA BONITA | MUNICIPAL | R$ 15.147,00 | R$ - | R$ 102.759,94 | R$ 120.000,00 |
+| 350550 | BARRETOS | MUNICIPAL | R$ 117.484,20 | R$ - | R$ 847.454,49 | R$ 982.200,00 |
+| 350580 | BASTOS | MUNICIPAL | R$ 2.490,00 | R$ - | R$ 265.600,14 | R$ 273.500,00 |
+| 350590 | BATATAIS | MUNICIPAL | R$ 238.196,40 | R$ - | R$ 166.610,02 | R$ 408.200,00 |
+| 350600 | BAURU | MUNICIPAL | R$ 900,00 | R$ - | R$ 407.499,87 | R$ 416.700,00 |
+| 350610 | BEBEDOURO | MUNICIPAL | R$ 90.996,00 | -R$ 57.396,00 | R$ - | R$ 33.600,00 |
+| 350630 | BERNARDINO DE CAMPOS | MUNICIPAL | R$ 2.760,00 | R$ - | R$ 7.585,50 | R$ 10.500,00 |
+| 350635 | BERTIOGA | MUNICIPAL | R$ 490.881,60 | R$ - | R$ 482.425,16 | R$ 983.133,00 |
+| 350640 | BILAC | MUNICIPAL | R$ 5.910,00 | -R$ 5.910,00 | R$ - | R$ - |
+| 350650 | BIRIGUI | MUNICIPAL | R$ 166.605,00 | R$ - | R$ 3.722.287,88 | R$ 3.964.710,00 |
+| 350660 | BIRITIBA-MIRIM | MUNICIPAL | R$ - | R$ - | R$ 211.884,25 | R$ 216.200,00 |
+| 350700 | BOITUVA | MUNICIPAL | R$ 23.103,00 | R$ - | R$ 58.916,95 | R$ 83.220,00 |
+| 350740 | BORBOREMA | MUNICIPAL | R$ - | R$ - | R$ 439.527,52 | R$ 448.480,00 |
+| 350750 | BOTUCATU | MUNICIPAL | R$ - | R$ - | R$ - | R$ - |
+| 350760 | BRAGANCA PAULISTA | MUNICIPAL | R$ 160.983,60 | R$ - | R$ 2.249.360,48 | R$ 2.456.160,00 |
+| 350790 | BROTAS | MUNICIPAL | R$ 5.460,00 | R$ - | R$ 720.778,87 | R$ 740.920,00 |
+| 350810 | BURITAMA | MUNICIPAL | R$ - | R$ - | R$ 139.714,24 | R$ 142.560,00 |
+| 350840 | CABREUVA | MUNICIPAL | R$ 36.091,80 | R$ - | R$ 98.997,77 | R$ 137.106,00 |
+| 350850 | CACAPAVA | MUNICIPAL | R$ 27.969,00 | R$ - | R$ 236.807,60 | R$ 269.600,00 |
+| 350880 | CAFELANDIA | MUNICIPAL | R$ 30.708,00 | R$ - | R$ 82.805,39 | R$ 115.200,00 |
+| 350900 | CAIEIRAS | MUNICIPAL | R$ - | R$ - | R$ 602.723,48 | R$ 615.000,00 |
+| 350910 | CAIUA | MUNICIPAL | R$ - | R$ - | R$ - | R$ - |
+| 350920 | CAJAMAR | MUNICIPAL | R$ - | R$ - | R$ 9.413.503,81 | R$ 9.605.242,00 |
+| 350940 | CAJURU | MUNICIPAL | R$ 33.534,00 | R$ - | R$ 437.362,62 | R$ 479.805,00 |
+| 350950 | CAMPINAS | MUNICIPAL | R$ 2.874.662,10 | R$ - | R$ 8.998.767,24 | R$ 12.056.720,00 |
+| 350960 | CAMPO LIMPO PAULISTA | MUNICIPAL | R$ 263.549,40 | R$ - | R$ 605.730,82 | R$ 881.618,00 |
+| 350970 | CAMPOS DO JORDAO | MUNICIPAL | R$ 897,00 | R$ - | R$ 85.266,26 | R$ 87.900,00 |
+| 350980 | CAMPOS NOVOS PAULISTA | MUNICIPAL | R$ - | R$ - | R$ 14.818,18 | R$ 15.120,00 |
+| 351000 | CANDIDO MOTA | MUNICIPAL | R$ 23.967,60 | R$ - | R$ 188.199,08 | R$ 216.000,00 |
+| 351020 | CAPAO BONITO | MUNICIPAL | R$ 2.490,00 | R$ - | R$ 409.763,76 | R$ 420.600,00 |
+| 351040 | CAPIVARI | MUNICIPAL | R$ 49.736,40 | R$ - | R$ 741.257,36 | R$ 806.092,00 |
+
+| 351050 | CARAGUATATUBA | MUNICIPAL | R$ 52.011,00 | R$ - | R$ 1.188.948,99 | R$ 1.265.177,00 |
+| --- | --- | --- | --- | --- | --- | --- |
+| 351060 | CARAPICUIBA | MUNICIPAL | R$ 13.518,00 | R$ - | R$ 1.130.946,41 | R$ 1.167.500,00 |
+| 351080 | CASA BRANCA | MUNICIPAL | R$ 1.230,00 | R$ - | R$ 79.988,76 | R$ 82.848,00 |
+| 351100 | CASTILHO | MUNICIPAL | R$ 7.620,00 | R$ - | R$ 135.852,89 | R$ 146.240,00 |
+| 351110 | CATANDUVA | MUNICIPAL | R$ 10.290,00 | R$ - | R$ 145.153,45 | R$ 158.400,00 |
+| 351140 | CERQUEIRA CESAR | MUNICIPAL | R$ 5.565,00 | R$ - | R$ 29.827,46 | R$ 36.000,00 |
+| 351150 | CERQUILHO | MUNICIPAL | R$ 10.500,00 | R$ - | R$ 3.336,05 | R$ 13.904,00 |
+| 351160 | CESARIO LANGE | MUNICIPAL | R$ 11.325,00 | R$ - | R$ 4.679,68 | R$ 16.100,00 |
+| 351170 | CHARQUEADA | MUNICIPAL | R$ - | R$ - | R$ 31.274,00 | R$ 31.911,00 |
+| 351200 | COLINA | MUNICIPAL | R$ 6.234,00 | R$ - | R$ 110.318,98 | R$ 118.800,00 |
+| 351210 | COLOMBIA | MUNICIPAL | R$ 234,00 | -R$ 234,00 | R$ - | R$ - |
+| 351220 | CONCHAL | MUNICIPAL | R$ 17.604,00 | R$ - | R$ 213.546,40 | R$ 235.500,00 |
+| 351240 | CORDEIROPOLIS | MUNICIPAL | R$ 17.871,00 | R$ - | R$ 39.352,45 | R$ 58.025,00 |
+| 351280 | COSMOPOLIS | MUNICIPAL | R$ 70.650,00 | R$ - | R$ 727.664,62 | R$ 813.136,00 |
+| 351300 | COTIA | MUNICIPAL | R$ - | R$ - | R$ 245.087,95 | R$ 250.080,00 |
+| 351340 | CRUZEIRO | MUNICIPAL | R$ 4.446,00 | R$ - | R$ 600.922,17 | R$ 617.608,00 |
+| 351350 | CUBATAO | MUNICIPAL | R$ 156.744,00 | R$ - | R$ 489.446,74 | R$ 656.160,00 |
+| 351360 | CUNHA | MUNICIPAL | R$ 1.746,00 | R$ - | R$ 245.831,80 | R$ 252.585,00 |
+| 351370 | DESCALVADO | MUNICIPAL | R$ 900,00 | R$ - | R$ 269.314,49 | R$ 275.700,00 |
+| 351380 | DIADEMA | MUNICIPAL | R$ 1.252.008,00 | R$ - | R$ 2.526.687,37 | R$ 3.830.160,00 |
+| 351410 | DOIS CORREGOS | MUNICIPAL | R$ 780,00 | -R$ 780,00 | R$ - | R$ - |
+| 351440 | DRACENA | MUNICIPAL | R$ 20.490,00 | R$ - | R$ 419.760,15 | R$ 448.800,00 |
+| 351450 | DUARTINA | MUNICIPAL | R$ 10.839,00 | R$ - | R$ 59.940,11 | R$ 72.000,00 |
+| 351460 | DUMONT | MUNICIPAL | R$ 7.386,00 | R$ - | R$ 16.889,98 | R$ 24.620,00 |
+| 351470 | ECHAPORA | MUNICIPAL | R$ 3.024,00 | R$ - | R$ 6.915,15 | R$ 10.080,00 |
+| 351480 | ELDORADO | MUNICIPAL | R$ - | R$ - | R$ 52.922,06 | R$ 54.000,00 |
+| 351490 | ELIAS FAUSTO | MUNICIPAL | R$ 6.306,00 | R$ - | R$ 41.567,34 | R$ 48.720,00 |
+| 351500 | EMBU DAS ARTES | MUNICIPAL | R$ - | R$ - | R$ 2.222.961,78 | R$ 2.268.240,00 |
+| 351510 | EMBU-GUACU | MUNICIPAL | R$ - | R$ - | R$ 630.115,54 | R$ 642.950,00 |
+| 351515 | ENGENHEIRO COELHO | MUNICIPAL | R$ 14.274,00 | -R$ 14.274,00 | R$ - | R$ - |
+| 351518 | ESPIRITO SANTO DO PINHAL | MUNICIPAL | R$ 29.097,00 | -R$ 29.097,00 | R$ - | R$ - |
+| 351520 | ESTRELA D'OESTE | MUNICIPAL | R$ - | R$ - | R$ 117.878,99 | R$ 120.280,00 |
+| 351540 | FARTURA | MUNICIPAL | R$ 2.130,00 | R$ - | R$ 117.869,19 | R$ 122.400,00 |
+| 351550 | FERNANDOPOLIS | MUNICIPAL | R$ - | R$ - | R$ 5.978.109,36 | R$ 6.099.874,00 |
+| 351560 | FERNANDO PRESTES | MUNICIPAL | R$ - | R$ - | R$ 141.135,30 | R$ 144.010,00 |
+| 351570 | FERRAZ DE VASCONCELOS | MUNICIPAL | R$ - | R$ - | R$ 253.339,87 | R$ 258.500,00 |
+| 351600 | FLORIDA PAULISTA | MUNICIPAL | R$ - | R$ - | R$ 47.041,83 | R$ 48.000,00 |
+| 351620 | FRANCA | MUNICIPAL | R$ 48.390,00 | R$ - | R$ 1.535.582,61 | R$ 1.615.250,00 |
+| 351630 | FRANCISCO MORATO | MUNICIPAL | R$ 46.860,00 | R$ - | R$ 568.559,35 | R$ 627.000,00 |
+| 351640 | FRANCO DA ROCHA | MUNICIPAL | R$ 2.412,00 | R$ - | R$ 989.385,78 | R$ 1.011.950,00 |
+| 351660 | GALIA | MUNICIPAL | R$ - | R$ - | R$ 31.459,23 | R$ 32.100,00 |
+| 351670 | GARCA | MUNICIPAL | R$ 13.959,00 | R$ - | R$ 114.410,64 | R$ 130.700,00 |
+| 351685 | GAVIAO PEIXOTO | MUNICIPAL | R$ 1.221,00 | -R$ 1.221,00 | R$ - | R$ - |
+| 351700 | GETULINA | MUNICIPAL | R$ - | R$ - | R$ 121.191,52 | R$ 123.660,00 |
+| 351730 | GUAIMBE | MUNICIPAL | R$ 1.800,00 | -R$ 1.800,00 | R$ - | R$ - |
+| 351740 | GUAIRA | MUNICIPAL | R$ 132.891,00 | R$ - | R$ 119.083,46 | R$ 254.400,00 |
+| 351750 | GUAPIACU | MUNICIPAL | R$ - | R$ - | R$ 596.647,24 | R$ 608.800,00 |
+| 351830 | GUARAREMA | MUNICIPAL | R$ 46.470,00 | R$ - | R$ 116.506,94 | R$ 165.350,00 |
+| 351840 | GUARATINGUETA | MUNICIPAL | R$ 270.358,50 | R$ - | R$ 1.050.935,60 | R$ 1.342.700,00 |
+| 351850 | GUAREI | MUNICIPAL | R$ - | R$ - | R$ 62.330,43 | R$ 63.600,00 |
+| 351860 | GUARIBA | MUNICIPAL | R$ 92.279,40 | R$ - | R$ 170.633,07 | R$ 266.388,00 |
+| 351870 | GUARUJA | MUNICIPAL | R$ 14.433.235,20 | -R$ 5.367.586,20 | R$ - | R$ 9.065.649,00 |
+| 351880 | GUARULHOS | MUNICIPAL | R$ 666.078,00 | R$ - | R$ 69.805.267,08 | R$ 71.893.168,00 |
+| 351885 | GUATAPARA | MUNICIPAL | R$ 8.694,00 | R$ - | R$ 6.630,94 | R$ 15.460,00 |
+| 351905 | HOLAMBRA | MUNICIPAL | R$ 14.550,00 | R$ - | R$ 33.272,30 | R$ 48.500,00 |
+| 351907 | HORTOLANDIA | MUNICIPAL | R$ 3.319,20 | R$ - | R$ 407.434,01 | R$ 419.052,00 |
+| 351940 | IBIRA | MUNICIPAL | R$ - | R$ - | R$ 286.298,55 | R$ 292.130,00 |
+| 351970 | IBIUNA | MUNICIPAL | R$ - | R$ - | R$ 291.071,34 | R$ 297.000,00 |
+| 351980 | ICEM | MUNICIPAL | R$ 450,00 | -R$ 450,00 | R$ - | R$ - |
+| 351990 | IEPE | MUNICIPAL | R$ 13.005,00 | R$ - | R$ 197.786,40 | R$ 214.820,00 |
+| 352010 | IGARAPAVA | MUNICIPAL | R$ 17.262,00 | R$ - | R$ 157.872,39 | R$ 178.350,00 |
+| 352030 | IGUAPE | MUNICIPAL | R$ 12.240,00 | R$ - | R$ 279.075,67 | R$ 297.000,00 |
+| 352040 | ILHABELA | MUNICIPAL | R$ 118.038,00 | R$ - | R$ 122.918,35 | R$ 243.460,00 |
+| 352050 | INDAIATUBA | MUNICIPAL | R$ 222.853,80 | R$ - | R$ 1.247.094,85 | R$ 1.495.350,00 |
+| 352070 | INDIAPORA | MUNICIPAL | R$ 7.290,00 | -R$ 7.290,00 | R$ - | R$ - |
+| 352090 | IPAUSSU | MUNICIPAL | R$ 1.800,00 | R$ - | R$ 4.116,16 | R$ 6.000,00 |
+| 352110 | IPEUNA | MUNICIPAL | R$ 11.880,00 | -R$ 11.880,00 | R$ - | R$ - |
+| 352130 | IPUA | MUNICIPAL | R$ 10.383,00 | R$ - | R$ 23.733,58 | R$ 34.600,00 |
+| 352140 | IRACEMAPOLIS | MUNICIPAL | R$ - | R$ - | R$ 126.023,11 | R$ 128.590,00 |
+| 352170 | ITABERA | MUNICIPAL | R$ 234,00 | R$ - | R$ 229.687,63 | R$ 234.600,00 |
+| 352180 | ITAI | MUNICIPAL | R$ 7.350,00 | R$ - | R$ 84.763,50 | R$ 93.840,00 |
+| 352190 | ITAJOBI | MUNICIPAL | R$ 2.520,00 | -R$ 2.520,00 | R$ - | R$ - |
+| 352210 | ITANHAEM | MUNICIPAL | R$ 180.000,00 | R$ - | R$ 223.448,70 | R$ 408.000,00 |
+| 352220 | ITAPECERICA DA SERRA | MUNICIPAL | R$ - | R$ - | R$ 21.462,84 | R$ 21.900,00 |
+| 352230 | ITAPETININGA | MUNICIPAL | R$ 217.425,00 | -R$ 188.625,00 | R$ - | R$ 28.800,00 |
+| 352240 | ITAPEVA | MUNICIPAL | R$ 194.087,40 | R$ - | R$ 1.453.566,74 | R$ 1.677.261,00 |
+| 352250 | ITAPEVI | MUNICIPAL | R$ 346.359,00 | R$ - | R$ 1.529.144,74 | R$ 1.906.650,00 |
+| 352260 | ITAPIRA | MUNICIPAL | R$ 193.025,40 | R$ - | R$ 610.822,12 | R$ 816.289,00 |
+| 352270 | ITAPOLIS | MUNICIPAL | R$ 63.921,00 | -R$ 63.921,00 | R$ - | R$ - |
+| 352280 | ITAPORANGA | MUNICIPAL | R$ 6.570,00 | -R$ 6.570,00 | R$ - | R$ - |
+| 352310 | ITAQUAQUECETUBA | MUNICIPAL | R$ 6.270,00 | R$ - | R$ 258.465,47 | R$ 270.000,00 |
+| 352320 | ITARARE | MUNICIPAL | R$ 3.897,00 | -R$ 3.897,00 | R$ - | R$ - |
+| 352330 | ITARIRI | MUNICIPAL | R$ - | R$ - | R$ 56.450,20 | R$ 57.600,00 |
+| 352340 | ITATIBA | MUNICIPAL | R$ 170.661,60 | R$ - | R$ 430.176,39 | R$ 609.600,00 |
+| 352350 | ITATINGA | MUNICIPAL | R$ 3.510,00 | -R$ 3.510,00 | R$ - | R$ - |
+
+| 352390 | ITU | MUNICIPAL | R$ 136.838,70 | R$ - | R$ 5.255.165,88 | R$ 5.499.044,00 |
+| --- | --- | --- | --- | --- | --- | --- |
+| 352400 | ITUPEVA | MUNICIPAL | R$ 117.610,80 | R$ - | R$ 755.481,24 | R$ 888.480,00 |
+| 352410 | ITUVERAVA | MUNICIPAL | R$ 25.311,00 | R$ - | R$ 440.849,59 | R$ 475.140,00 |
+| 352430 | JABOTICABAL | MUNICIPAL | R$ 99.384,00 | -R$ 87.384,00 | R$ - | R$ 12.000,00 |
+| 352440 | JACAREI | MUNICIPAL | R$ 333.619,50 | R$ - | R$ 298.794,53 | R$ 638.500,00 |
+| 352450 | JACI | MUNICIPAL | R$ - | R$ - | R$ 88.438,64 | R$ 90.240,00 |
+| 352460 | JACUPIRANGA | MUNICIPAL | R$ 11.940,00 | R$ - | R$ 94.142,47 | R$ 108.000,00 |
+| 352470 | JAGUARIUNA | MUNICIPAL | R$ 85.069,80 | R$ - | R$ 471.280,95 | R$ 565.950,00 |
+| 352500 | JANDIRA | MUNICIPAL | R$ 8.034,00 | R$ - | R$ 633.904,37 | R$ 654.850,00 |
+| 352520 | JARINU | MUNICIPAL | R$ - | R$ - | R$ 294.540,67 | R$ 300.540,00 |
+| 352530 | JAU | MUNICIPAL | R$ 279.830,40 | R$ - | R$ 50.579,38 | R$ 331.440,00 |
+| 352560 | JOAO RAMALHO | MUNICIPAL | R$ - | R$ - | R$ 56.822,61 | R$ 57.980,00 |
+| 352570 | JOSE BONIFACIO | MUNICIPAL | R$ - | R$ - | R$ 192.087,48 | R$ 196.000,00 |
+| 352590 | JUNDIAI | MUNICIPAL | R$ 1.750.369,80 | R$ - | R$ 1.666.133,69 | R$ 3.450.440,00 |
+| 352600 | JUNQUEIROPOLIS | MUNICIPAL | R$ - | R$ - | R$ 47.041,83 | R$ 48.000,00 |
+| 352620 | JUQUITIBA | MUNICIPAL | R$ 14.832,00 | R$ - | R$ 236.491,05 | R$ 256.140,00 |
+| 352670 | LEME | MUNICIPAL | R$ 158.068,50 | R$ - | R$ 347.219,19 | R$ 512.360,00 |
+| 352680 | LENCOIS PAULISTA | MUNICIPAL | R$ 275.173,20 | R$ - | R$ 99.715,75 | R$ 376.920,00 |
+| 352690 | LIMEIRA | MUNICIPAL | R$ 742.986,00 | -R$ 665.336,00 | R$ - | R$ 77.650,00 |
+| 352700 | LINDOIA | MUNICIPAL | R$ 28.434,00 | R$ - | R$ 13.824,42 | R$ 42.540,00 |
+| 352710 | LINS | MUNICIPAL | R$ 47.520,00 | R$ - | R$ 236.973,23 | R$ 289.320,00 |
+| 352720 | LORENA | MUNICIPAL | R$ 142.398,60 | R$ - | R$ 163.961,76 | R$ 309.700,00 |
+| 352730 | LOUVEIRA | MUNICIPAL | R$ 65.965,50 | R$ - | R$ 151.812,32 | R$ 220.870,00 |
+| 352740 | LUCELIA | MUNICIPAL | R$ 810,00 | -R$ 810,00 | R$ - | R$ - |
+| 352800 | MACATUBA | MUNICIPAL | R$ - | R$ - | R$ 63.271,26 | R$ 64.560,00 |
+| 352810 | MACAUBAL | MUNICIPAL | R$ - | R$ - | R$ 59.596,12 | R$ 60.810,00 |
+| 352850 | MAIRIPORA | MUNICIPAL | R$ 13.266,00 | R$ - | R$ 884.954,87 | R$ 916.246,00 |
+| 352880 | MARACAI | MUNICIPAL | R$ 1.140,00 | -R$ 1.140,00 | R$ - | R$ - |
+| 352900 | MARILIA | MUNICIPAL | R$ 1.006.642,20 | R$ - | R$ 4.232.711,17 | R$ 5.325.567,00 |
+| 352920 | MARTINOPOLIS | MUNICIPAL | R$ 8.961,60 | R$ - | R$ 524.544,26 | R$ 544.190,00 |
+| 352930 | MATAO | MUNICIPAL | R$ 9.450,00 | -R$ 9.450,00 | R$ - | R$ - |
+| 352940 | MAUA | MUNICIPAL | R$ 605.412,00 | R$ - | R$ 1.323.274,98 | R$ 1.955.640,00 |
+| 352950 | MENDONCA | MUNICIPAL | R$ - | R$ - | R$ - | R$ - |
+| 352970 | MIGUELOPOLIS | MUNICIPAL | R$ 1.287,00 | R$ - | R$ 2.943,05 | R$ 4.290,00 |
+| 352990 | MIRACATU | MUNICIPAL | R$ - | R$ - | R$ 23.520,92 | R$ 24.000,00 |
+| 353020 | MIRANTE DO PARANAPANEMA | MUNICIPAL | R$ - | R$ - | R$ 100.738,12 | R$ 102.790,00 |
+| 353030 | MIRASSOL | MUNICIPAL | R$ 49.047,00 | -R$ 49.047,00 | R$ - | R$ - |
+| 353050 | MOCOCA | MUNICIPAL | R$ - | R$ - | R$ 21.624,54 | R$ 22.065,00 |
+| 353060 | MOGI DAS CRUZES | MUNICIPAL | R$ 732.757,50 | R$ - | R$ 28.607.730,27 | R$ 29.923.182,00 |
+| 353070 | MOGI GUACU | MUNICIPAL | R$ 100.212,00 | R$ - | R$ 26.449,27 | R$ 127.200,00 |
+| 353080 | MOJI MIRIM | MUNICIPAL | R$ 12.555,00 | R$ - | R$ 3.964,25 | R$ 16.600,00 |
+| 353110 | MONGAGUA | MUNICIPAL | R$ 331.560,00 | R$ - | R$ 209.865,37 | R$ 545.700,00 |
+| 353130 | MONTE ALTO | MUNICIPAL | R$ 64.053,00 | R$ - | R$ 202.041,73 | R$ 270.210,00 |
+| 353140 | MONTE APRAZIVEL | MUNICIPAL | R$ - | R$ - | R$ 157.511,74 | R$ 160.720,00 |
+| 353150 | MONTE AZUL PAULISTA | MUNICIPAL | R$ 12.432,00 | R$ - | R$ 1.926.704,08 | R$ 1.978.380,00 |
+| 353180 | MONTE MOR | MUNICIPAL | R$ 29.670,00 | R$ - | R$ 67.848,04 | R$ 98.900,00 |
+| 353190 | MORRO AGUDO | MUNICIPAL | R$ 13.040,40 | R$ - | R$ 281.919,35 | R$ 300.702,00 |
+| 353240 | NAZARE PAULISTA | MUNICIPAL | R$ 9.990,00 | R$ - | R$ 22.844,69 | R$ 33.300,00 |
+| 353290 | NOVA EUROPA | MUNICIPAL | R$ 2.769,00 | R$ - | R$ 67.261,00 | R$ 71.400,00 |
+| 353340 | NOVA ODESSA | MUNICIPAL | R$ 149.255,40 | R$ - | R$ 31.992,95 | R$ 181.900,00 |
+| 353350 | NOVO HORIZONTE | MUNICIPAL | R$ 56.470,20 | R$ - | R$ 193.694,55 | R$ 254.110,00 |
+| 353360 | NUPORANGA | MUNICIPAL | R$ - | R$ - | R$ 12.637,59 | R$ 12.895,00 |
+| 353390 | OLIMPIA | MUNICIPAL | R$ 50.117,40 | R$ - | R$ 436.001,93 | R$ 495.000,00 |
+| 353410 | ORIENTE | MUNICIPAL | R$ - | R$ - | R$ 14.818,18 | R$ 15.120,00 |
+| 353420 | ORINDIUVA | MUNICIPAL | R$ - | R$ - | R$ 209.404,76 | R$ 213.670,00 |
+| 353430 | ORLANDIA | MUNICIPAL | R$ 15.375,00 | R$ - | R$ 35.266,67 | R$ 51.360,00 |
+| 353440 | OSASCO | MUNICIPAL | R$ 995.482,80 | R$ - | R$ 347.626,60 | R$ 1.350.190,00 |
+| 353460 | OSVALDO CRUZ | MUNICIPAL | R$ 96.828,00 | R$ - | R$ 109,76 | R$ 96.940,00 |
+| 353470 | OURINHOS | MUNICIPAL | R$ 258.707,70 | R$ - | R$ 523.219,15 | R$ 792.584,00 |
+| 353475 | OUROESTE | MUNICIPAL | R$ 1.440,00 | -R$ 1.440,00 | R$ - | R$ - |
+| 353500 | PALESTINA | MUNICIPAL | R$ 17.064,00 | -R$ 17.064,00 | R$ - | R$ - |
+| 353530 | PALMITAL | MUNICIPAL | R$ 72.232,20 | -R$ 43.432,20 | R$ - | R$ 28.800,00 |
+| 353550 | PARAGUACU PAULISTA | MUNICIPAL | R$ 19.981,50 | R$ - | R$ 1.483.369,61 | R$ 1.533.565,00 |
+| 353580 | PARANAPANEMA | MUNICIPAL | R$ 4.560,00 | -R$ 4.560,00 | R$ - | R$ - |
+| 353650 | PAULINIA | MUNICIPAL | R$ 74.841,00 | R$ - | R$ 172.152,53 | R$ 250.500,00 |
+| 353670 | PEDERNEIRAS | MUNICIPAL | R$ 12.672,00 | R$ - | R$ 188.802,39 | R$ 205.320,00 |
+| 353680 | PEDRA BELA | MUNICIPAL | R$ 270,00 | R$ - | R$ 911,44 | R$ 1.200,00 |
+| 353710 | PEDREIRA | MUNICIPAL | R$ 14.751,00 | R$ - | R$ 33.349,72 | R$ 48.780,00 |
+| 353715 | PEDRINHAS PAULISTA | MUNICIPAL | R$ 1.638,00 | -R$ 1.638,00 | R$ - | R$ - |
+| 353720 | PEDRO DE TOLEDO | MUNICIPAL | R$ 13.536,00 | -R$ 13.536,00 | R$ - | R$ - |
+| 353730 | PENAPOLIS | MUNICIPAL | R$ 57.570,00 | R$ - | R$ 707.205,35 | R$ 779.180,00 |
+| 353740 | PEREIRA BARRETO | MUNICIPAL | R$ 10.710,00 | R$ - | R$ 169.291,79 | R$ 183.450,00 |
+| 353760 | PERUIBE | MUNICIPAL | R$ 182.250,00 | R$ - | R$ 348.256,56 | R$ 537.600,00 |
+| 353780 | PIEDADE | MUNICIPAL | R$ 9.270,00 | R$ - | R$ 1.218.432,46 | R$ 1.252.520,00 |
+| 353790 | PILAR DO SUL | MUNICIPAL | R$ 8.370,00 | R$ - | R$ 212.516,38 | R$ 225.215,00 |
+| 353800 | PINDAMONHANGABA | MUNICIPAL | R$ - | R$ - | R$ 399.032,34 | R$ 407.160,00 |
+| 353860 | PIRACAIA | MUNICIPAL | R$ 9.870,00 | R$ - | R$ 22.668,28 | R$ 33.000,00 |
+| 353870 | PIRACICABA | MUNICIPAL | R$ 497.286,00 | -R$ 388.129,00 | R$ - | R$ 109.157,00 |
+| 353880 | PIRAJU | MUNICIPAL | R$ 22.143,00 | R$ - | R$ 48.861,76 | R$ 72.000,00 |
+| 353890 | PIRAJUI | MUNICIPAL | R$ 570,00 | R$ - | R$ 93.525,04 | R$ 96.000,00 |
+| 353900 | PIRANGI | MUNICIPAL | R$ - | R$ - | R$ 1.175.163,77 | R$ 1.199.100,00 |
+| 353910 | PIRAPORA DO BOM JESUS | MUNICIPAL | R$ - | R$ - | R$ 121.034,71 | R$ 123.500,00 |
+| 353920 | PIRAPOZINHO | MUNICIPAL | R$ 10.647,00 | -R$ 10.647,00 | R$ - | R$ - |
+
+| 353930 | PIRASSUNUNGA | MUNICIPAL | R$ 30.141,00 | R$ - | R$ 582.494,51 | R$ 624.500,00 |
+| --- | --- | --- | --- | --- | --- | --- |
+| 353940 | PIRATININGA | MUNICIPAL | R$ 3.114,00 | R$ - | R$ 64.688,40 | R$ 69.120,00 |
+| 353950 | PITANGUEIRAS | MUNICIPAL | R$ 4.537,80 | R$ - | R$ 10.376,84 | R$ 15.126,00 |
+| 353980 | POA | MUNICIPAL | R$ - | R$ - | R$ 249.909,73 | R$ 255.000,00 |
+| 354000 | POMPEIA | MUNICIPAL | R$ 7.191,00 | R$ - | R$ 39.964,98 | R$ 47.970,00 |
+| 354060 | PORTO FELIZ | MUNICIPAL | R$ 122.610,00 | -R$ 82.920,00 | R$ - | R$ 39.690,00 |
+| 354070 | PORTO FERREIRA | MUNICIPAL | R$ 24.309,00 | R$ - | R$ 219.617,73 | R$ 248.400,00 |
+| 354080 | POTIRENDABA | MUNICIPAL | R$ 5.811,00 | -R$ 5.811,00 | R$ - | R$ - |
+| 354090 | PRADOPOLIS | MUNICIPAL | R$ 5.730,00 | R$ - | R$ 13.103,11 | R$ 19.100,00 |
+| 354100 | PRAIA GRANDE | MUNICIPAL | R$ 311.994,00 | R$ - | R$ 1.021.754,48 | R$ 1.354.560,00 |
+| 354120 | PRESIDENTE BERNARDES | MUNICIPAL | R$ - | R$ - | R$ 860.003,10 | R$ 877.520,00 |
+| 354130 | PRESIDENTE EPITACIO | MUNICIPAL | R$ 34.539,00 | R$ - | R$ 145.497,45 | R$ 183.000,00 |
+| 354140 | PRESIDENTE PRUDENTE | MUNICIPAL | R$ - | R$ - | R$ 1.952.226,24 | R$ 1.991.990,00 |
+| 354150 | PRESIDENTE VENCESLAU | MUNICIPAL | R$ 2.385,00 | R$ - | R$ 342.302,83 | R$ 351.660,00 |
+| 354165 | QUADRA | MUNICIPAL | R$ 1.053,00 | -R$ 1.053,00 | R$ - | R$ - |
+| 354170 | QUATA | MUNICIPAL | R$ - | R$ - | R$ 110.548,31 | R$ 112.800,00 |
+| 354190 | QUELUZ | MUNICIPAL | R$ 18.996,00 | R$ - | R$ 64.314,03 | R$ 84.620,00 |
+| 354210 | RAFARD | MUNICIPAL | R$ 1.404,00 | -R$ 1.404,00 | R$ - | R$ - |
+| 354220 | RANCHARIA | MUNICIPAL | R$ - | R$ - | R$ 2.368.507,25 | R$ 2.416.750,00 |
+| 354260 | REGISTRO | MUNICIPAL | R$ - | R$ - | R$ 368.102,34 | R$ 375.600,00 |
+| 354280 | RIBEIRA | MUNICIPAL | R$ 1.080,00 | -R$ 1.080,00 | R$ - | R$ - |
+| 354330 | RIBEIRAO PIRES | MUNICIPAL | R$ 15.420,00 | R$ - | R$ 35.261,77 | R$ 51.400,00 |
+| 354340 | RIBEIRAO PRETO | MUNICIPAL | R$ 1.695.960,90 | R$ - | R$ 4.297.596,85 | R$ 6.081.093,00 |
+| 354370 | RINCAO | MUNICIPAL | R$ - | R$ - | R$ 49.981,95 | R$ 51.000,00 |
+| 354380 | RINOPOLIS | MUNICIPAL | R$ 630,00 | R$ - | R$ 27.607,68 | R$ 28.800,00 |
+| 354390 | RIO CLARO | MUNICIPAL | R$ 676.595,10 | R$ - | R$ 432.564,25 | R$ 1.117.970,00 |
+| 354425 | ROSANA | MUNICIPAL | R$ - | R$ - | R$ - | R$ - |
+| 354490 | SALES OLIVEIRA | MUNICIPAL | R$ - | R$ - | R$ 141.603,76 | R$ 144.488,00 |
+| 354500 | SALESOPOLIS | MUNICIPAL | R$ 10.656,00 | R$ - | R$ 4.845,31 | R$ 15.600,00 |
+| 354515 | SALTINHO | MUNICIPAL | R$ 3.846,00 | R$ - | R$ 6.981,79 | R$ 10.970,00 |
+| 354520 | SALTO | MUNICIPAL | R$ 57.312,00 | R$ - | R$ 28.507,35 | R$ 86.400,00 |
+| 354530 | SALTO DE PIRAPORA | MUNICIPAL | R$ 38.775,00 | R$ - | R$ 390.412,91 | R$ 437.140,00 |
+| 354540 | SALTO GRANDE | MUNICIPAL | R$ 1.878,00 | R$ - | R$ 10.507,97 | R$ 12.600,00 |
+| 354580 | SANTA BARBARA D'OESTE | MUNICIPAL | R$ 105.930,00 | R$ - | R$ 21.041,42 | R$ 127.400,00 |
+| 354620 | SANTA CRUZ DA CONCEICAO | MUNICIPAL | R$ 2.793,00 | R$ - | R$ 120.316,35 | R$ 125.560,00 |
+| 354640 | SANTA CRUZ DO RIO PARDO | MUNICIPAL | R$ 6.462,00 | R$ - | R$ 341.549,18 | R$ 354.968,00 |
+| 354660 | SANTA FE DO SUL | MUNICIPAL | R$ 82.430,40 | R$ - | R$ 665.372,02 | R$ 761.355,00 |
+| 354680 | SANTA ISABEL | MUNICIPAL | R$ 150.474,00 | R$ - | R$ 280.434,00 | R$ 436.620,00 |
+| 354700 | SANTA MARIA DA SERRA | MUNICIPAL | R$ 117,00 | -R$ 117,00 | R$ - | R$ - |
+| 354720 | SANTANA DA PONTE PENSA | MUNICIPAL | R$ - | R$ - | R$ - | R$ - |
+| 354730 | SANTANA DE PARNAIBA | MUNICIPAL | R$ 120.466,50 | -R$ 120.466,50 | R$ - | R$ - |
+| 354750 | SANTA RITA DO PASSA QUATRO | MUNICIPAL | R$ 4.020,00 | R$ - | R$ 9.192,76 | R$ 13.400,00 |
+| 354760 | SANTA ROSA DE VITERBO | MUNICIPAL | R$ 270,00 | R$ - | R$ 617,42 | R$ 900,00 |
+| 354770 | SANTO ANASTACIO | MUNICIPAL | R$ 24.408,00 | -R$ 4.008,00 | R$ - | R$ 20.400,00 |
+| 354780 | SANTO ANDRE | MUNICIPAL | R$ 3.924.180,00 | R$ - | R$ 4.648.609,18 | R$ 8.667.474,00 |
+| 354790 | SANTO ANTONIO DA ALEGRIA | MUNICIPAL | R$ - | R$ - | R$ 42.631,66 | R$ 43.500,00 |
+| 354800 | SANTO ANTONIO DE POSSE | MUNICIPAL | R$ 2.457,00 | -R$ 2.457,00 | R$ - | R$ - |
+| 354805 | SANTO ANTONIO DO ARACANGUA | MUNICIPAL | R$ 7.449,00 | R$ - | R$ 54.177,49 | R$ 62.730,00 |
+| 354820 | SANTO ANTONIO DO PINHAL | MUNICIPAL | R$ 585,00 | R$ - | R$ 61.757,11 | R$ 63.600,00 |
+| 354850 | SANTOS | MUNICIPAL | R$ 1.099.656,00 | R$ - | R$ 2.216.517,05 | R$ 3.361.320,00 |
+| 354860 | SAO BENTO DO SAPUCAI | MUNICIPAL | R$ 12.129,00 | R$ - | R$ 6.929,85 | R$ 19.200,00 |
+| 354870 | SAO BERNARDO DO CAMPO | MUNICIPAL | R$ 2.540.700,00 | R$ - | R$ 6.000.479,72 | R$ 8.663.400,00 |
+| 354880 | SAO CAETANO DO SUL | MUNICIPAL | R$ 4.046.940,00 | R$ - | R$ 4.367.046,17 | R$ 8.502.936,00 |
+| 354890 | SAO CARLOS | MUNICIPAL | R$ 188.170,50 | R$ - | R$ 850.976,46 | R$ 1.056.480,00 |
+| 354910 | SAO JOAO DA BOA VISTA | MUNICIPAL | R$ 149.600,40 | -R$ 101.390,40 | R$ - | R$ 48.210,00 |
+| 354950 | SAO JOSE DA BELA VISTA | MUNICIPAL | R$ - | R$ - | R$ - | R$ - |
+| 354970 | SAO JOSE DO RIO PARDO | MUNICIPAL | R$ - | R$ - | R$ 349.638,42 | R$ 356.760,00 |
+| 354980 | SAO JOSE DO RIO PRETO | MUNICIPAL | R$ 940.028,40 | R$ - | R$ 1.168.520,68 | R$ 2.132.350,00 |
+| 354990 | SAO JOSE DOS CAMPOS | MUNICIPAL | R$ 778.084,20 | R$ - | R$ 1.778.765,17 | R$ 2.593.080,00 |
+| 355000 | SAO LUIZ DO PARAITINGA | MUNICIPAL | R$ - | R$ - | R$ 7.644,30 | R$ 7.800,00 |
+| 355010 | SAO MANUEL | MUNICIPAL | R$ 43.488,00 | R$ - | R$ 63.341,83 | R$ 108.120,00 |
+| 355020 | SAO MIGUEL ARCANJO | MUNICIPAL | R$ 33.840,00 | R$ - | R$ 360.080,72 | R$ 401.255,00 |
+| 355030 | SAO PAULO | MUNICIPAL | R$ 12.402.750,00 | R$ - | R$ 48.261.783,77 | R$ 61.647.550,00 |
+| 355040 | SAO PEDRO | MUNICIPAL | R$ 125.402,40 | R$ - | R$ 119.454,50 | R$ 247.290,00 |
+| 355060 | SAO ROQUE | MUNICIPAL | R$ 83.664,00 | R$ - | R$ 552.198,59 | R$ 647.110,00 |
+| 355070 | SAO SEBASTIAO | MUNICIPAL | R$ - | R$ - | R$ 1.211.035,13 | R$ 1.235.702,00 |
+| 355090 | SAO SIMAO | MUNICIPAL | R$ - | R$ - | R$ 15.836,44 | R$ 16.159,00 |
+| 355100 | SAO VICENTE | MUNICIPAL | R$ 673.560,00 | R$ - | R$ 1.472.644,56 | R$ 2.176.200,00 |
+| 355110 | SARAPUI | MUNICIPAL | R$ 15.198,00 | R$ - | R$ 55.668,13 | R$ 72.000,00 |
+| 355140 | SERRA AZUL | MUNICIPAL | R$ 9.864,00 | R$ - | R$ 22.556,56 | R$ 32.880,00 |
+| 355160 | SERRA NEGRA | MUNICIPAL | R$ 10.590,00 | R$ - | R$ 436.685,41 | R$ 456.170,00 |
+| 355170 | SERTAOZINHO | MUNICIPAL | R$ 6.480,00 | R$ - | R$ 235.914,79 | R$ 247.200,00 |
+| 355200 | SILVEIRAS | MUNICIPAL | R$ 7.488,00 | -R$ 7.488,00 | R$ - | R$ - |
+| 355220 | SOROCABA | MUNICIPAL | R$ 851.712,90 | -R$ 172.068,90 | R$ - | R$ 679.644,00 |
+| 355230 | SUD MENNUCCI | MUNICIPAL | R$ 8.715,00 | R$ - | R$ 59.493,22 | R$ 69.420,00 |
+| 355240 | SUMARE | MUNICIPAL | R$ - | R$ - | R$ 2.812.219,53 | R$ 2.869.500,00 |
+| 355250 | SUZANO | MUNICIPAL | R$ 196.761,00 | R$ - | R$ 2.647.382,01 | R$ 2.898.066,00 |
+| 355270 | TABATINGA | MUNICIPAL | R$ - | R$ - | R$ 61.154,38 | R$ 62.400,00 |
+| 355280 | TABOAO DA SERRA | MUNICIPAL | R$ 71.085,00 | R$ - | R$ 2.624.948,94 | R$ 2.749.500,00 |
+| 355300 | TAGUAI | MUNICIPAL | R$ 22.770,00 | R$ - | R$ 34.134,73 | R$ 57.600,00 |
+| 355320 | TAIUVA | MUNICIPAL | R$ 468,00 | -R$ 468,00 | R$ - | R$ - |
+| 355330 | TAMBAU | MUNICIPAL | R$ 4.812,00 | R$ - | R$ 103.940,89 | R$ 110.870,00 |
+| 355350 | TAPIRAI | MUNICIPAL | R$ 819,00 | -R$ 819,00 | R$ - | R$ - |
+| 355370 | TAQUARITINGA | MUNICIPAL | R$ 198.117,00 | R$ - | R$ 403.269,05 | R$ 609.600,00 |
+| 355380 | TAQUARITUBA | MUNICIPAL | R$ 45.909,00 | -R$ 45.909,00 | R$ - | R$ - |
+| 355395 | TARUMA | MUNICIPAL | R$ 1.872,00 | -R$ 1.872,00 | R$ - | R$ - |
+| 355400 | TATUI | MUNICIPAL | R$ 24.813,00 | R$ - | R$ 189.781,45 | R$ 218.460,00 |
+| 355410 | TAUBATE | MUNICIPAL | R$ 329.946,60 | -R$ 52.026,60 | R$ - | R$ 277.920,00 |
+| 355450 | TIETE | MUNICIPAL | R$ 9.025,20 | R$ - | R$ 155.213,35 | R$ 167.400,00 |
+| 355470 | TORRINHA | MUNICIPAL | R$ - | R$ - | R$ 56.763,81 | R$ 57.920,00 |
+| 355480 | TREMEMBE | MUNICIPAL | R$ - | R$ - | R$ 53.510,08 | R$ 54.600,00 |
+| 355500 | TUPA | MUNICIPAL | R$ - | R$ - | R$ 227.564,86 | R$ 232.200,00 |
+| 355510 | TUPI PAULISTA | MUNICIPAL | R$ - | R$ - | R$ 809.109,71 | R$ 825.590,00 |
+| 355540 | UBATUBA | MUNICIPAL | R$ 6.075,00 | -R$ 475,00 | R$ - | R$ 5.600,00 |
+| 355560 | UCHOA | MUNICIPAL | R$ 540,00 | R$ - | R$ 241.059,99 | R$ 246.510,00 |
+| 355600 | URUPES | MUNICIPAL | R$ 2.040,00 | -R$ 2.040,00 | R$ - | R$ - |
+| 355620 | VALINHOS | MUNICIPAL | R$ 223.323,00 | R$ - | R$ 592.067,52 | R$ 827.450,00 |
+| 355630 | VALPARAISO | MUNICIPAL | R$ 7.716,00 | R$ - | R$ 122.979,11 | R$ 133.200,00 |
+| 355640 | VARGEM GRANDE DO SUL | MUNICIPAL | R$ 2.670,00 | R$ - | R$ 576.238,92 | R$ 590.646,00 |
+| 355645 | VARGEM GRANDE PAULISTA | MUNICIPAL | R$ - | R$ - | R$ 645.742,25 | R$ 658.895,00 |
+| 355650 | VARZEA PAULISTA | MUNICIPAL | R$ 15.918,00 | R$ - | R$ 639.457,27 | R$ 668.400,00 |
+| 355670 | VINHEDO | MUNICIPAL | R$ 84.412,80 | R$ - | R$ 215.972,19 | R$ 304.784,00 |
+| 355700 | VOTORANTIM | MUNICIPAL | R$ 20.117,40 | R$ - | R$ 1.319.310,33 | R$ 1.366.300,00 |
+| 355710 | VOTUPORANGA | MUNICIPAL | R$ - | R$ - | R$ - | R$ - |
+| TOTAL | R$ 129.709.132,50 | -R$ 8.048.198,20 | R$ 395.131.220,50 | R$ 524.840.353,00 |  |  |
+
+## ANEXO III — RECURSOS DE INCENTIVO À IMPLEMENTAÇÃO DOS NÚCLEOS DE APOIO À GESTÃO APROVADOS NA REPROGRAMAÇÃO EM 2025
+
+| RRAS | ABRANGÊNCIA DO NGR | GESTÃO/MUNICÍPIO EXECUTOR | Código IBGE | Valor Total (R$) | 50% do Valor (R$) |
+| --- | --- | --- | --- | --- | --- |
+| 1 | RS GRANDE ABC | GESTÃO ESTADUAL | 350000 | 1.200.000,00 | 600.000,00 |
+| 2 | RS ALTO DO TIETÊ | MOGI DAS CRUZES | 353060 | 1.200.000,00 | 600.000,00 |
+| 3 | RS FRANCO DA ROCHA | GESTÃO ESTADUAL | 350000 | 600.000,00 | 300.000,00 |
+| 4 | RS MANANCIAIS | GESTÃO ESTADUAL | 350000 | 1.200.000,00 | 600.000,00 |
+| 5 | RS ROTA DOS BANDEIRANTES | OSASCO | 353440 | 1.200.000,00 | 600.000,00 |
+| 6 | RS SÃO PAULO | GESTÃO ESTADUAL | 350000 | 600.000,00 | 300.000,00 |
+|  |  | SÃO PAULO | 355030 | 600.000,00 | 300.000,00 |
+| 7 | RS BAIXADA SANTISTA | SANTOS | 354850 | 1.200.000,00 | 600.000,00 |
+|  | RS VALE DO RIBEIRA | GESTÃO ESTADUAL | 350000 | 360.000,00 | 180.000,00 |
+| 8 | RRAS 08 | CAPÃO BONITO | 351020 | 542.822,75 | 271.411,37 |
+|  |  | GESTÃO ESTADUAL | 350000 | 270.380,00 | 135.190,00 |
+|  |  | ITAPEVA | 352240 | 322.523,90 | 161.261,95 |
+|  |  | ITU | 352390 | 1.024.273,35 | 512.136,68 |
+| 9 | RS BAURU | BAURU | 350600 | 600.000,00 | 300.000,00 |
+|  | RS BOTUCATU | BOTUCATU | 350750 | 360.000,00 | 180.000,00 |
+|  | RS JAÚ | JAU | 352530 | 360.000,00 | 180.000,00 |
+|  | RS LINS | LINS | 352710 | 360.000,00 | 180.000,00 |
+|  | RS VALE DO JURUMIRIM | AVARÉ | 350450 | 360.000,00 | 180.000,00 |
+| 10 | RRAS 10 | GESTÃO ESTADUAL | 350000 | 360.000,00 | 180.000,00 |
+|  | RS ADAMANTINA | ADAMANTINA | 350010 | 288.000,00 | 144.000,00 |
+|  | RS ASSIS | ASSIS | 350400 | 288.000,00 | 144.000,00 |
+|  | RS MARILIA | MARÍLIA | 352900 | 288.000,00 | 144.000,00 |
+|  | RS OURINHOS | OURINHOS | 353470 | 288.000,00 | 144.000,00 |
+|  | RS TUPÃ | TUPÃ | 355500 | 288.000,00 | 144.000,00 |
+| 11 | RS ALTA PAULISTA | DRACENA | 351440 | 360.000,00 | 180.000,00 |
+|  | RS ALTA SOROCABANA | ANHUMAS | 350240 | 360.000,00 | 180.000,00 |
+|  | RS ALTO CAPIVARI | RANCHARIA | 354220 | 360.000,00 | 180.000,00 |
+|  | RS EXTREMO OESTE PAULISTA | CAIUÁ | 350910 | 360.000,00 | 180.000,00 |
+|  | RS PONTAL DO PARANAPANEMA | ROSANA | 354425 | 360.000,00 | 180.000,00 |
+| 12 | RS CATANDUVA | CATANDUVA | 351110 | 360.000,00 | 180.000,00 |
+|  | RS CENTRAL DO DRS II | ARAÇATUBA | 350280 | 360.000,00 | 180.000,00 |
+|  | RS DOS CONSÓRCIOS DO DRS II | BIRIGUI | 350650 | 360.000,00 | 180.000,00 |
+|  | RS DOS LAGOS DO DRS II | ANDRADINA | 350210 | 360.000,00 | 180.000,00 |
+|  | RS JALES | SANTANA DA PONTE PENSA | 354720 | 360.000,00 | 180.000,00 |
+|  | RS JOSE BONIFACIO | JOSE BONIFACIO | 352570 | 180.000,00 | 90.000,00 |
+|  |  | MENDONÇA | 352950 | 180.000,00 | 90.000,00 |
+|  | RS SANTA FÉ DO SUL | SANTA FÉ DO SUL | 354660 | 360.000,00 | 180.000,00 |
+|  | RS VOTUPORANGA | VOTUPORANGA | 355710 | 360.000,00 | 180.000,00 |
+|  | RS FERNANDÓPOLIS | FERNANDÓPOLIS | 351550 | 360.000,00 | 180.000,00 |
+|  | RS SÃO JOSÉ DO RIO PRETO | BADY BASSITT | 350460 | 30.000,00 | 15.000,00 |
+|  |  | BÁLSAMO | 350480 | 30.000,00 | 15.000,00 |
+|  |  | CEDRAL | 351130 | 30.000,00 | 15.000,00 |
+|  |  | GUAPIAÇU | 351750 | 30.000,00 | 15.000,00 |
+|  |  | IBIRÁ | 351940 | 30.000,00 | 15.000,00 |
+|  |  | ICÉM | 351980 | 30.000,00 | 15.000,00 |
+|  |  | IPIGUÁ | 352115 | 30.000,00 | 15.000,00 |
+|  |  | MIRASSOL | 353030 | 30.000,00 | 15.000,00 |
+|  |  | MIRASSOLÂNDIA | 353040 | 30.000,00 | 15.000,00 |
+|  |  | NEVES PAULISTA | 353250 | 30.000,00 | 15.000,00 |
+|  |  | NOVA ALIANÇA | 353280 | 30.000,00 | 15.000,00 |
+|  |  | NOVA GRANADA | 353300 | 30.000,00 | 15.000,00 |
+|  |  | ONDA VERDE | 353400 | 30.000,00 | 15.000,00 |
+|  |  | ORINDIÚVA | 353420 | 30.000,00 | 15.000,00 |
+|  |  | PALESTINA | 353500 | 30.000,00 | 15.000,00 |
+|  |  | PAULO DE FARIA | 353660 | 30.000,00 | 15.000,00 |
+|  |  | POTIRENDABA | 354080 | 30.000,00 | 15.000,00 |
+|  |  | SÃO JOSÉ DO RIO PRETO | 354980 | 30.000,00 | 15.000,00 |
+|  |  | TANABI | 355340 | 30.000,00 | 15.000,00 |
+|  |  | UCHÔA | 355560 | 30.000,00 | 15.000,00 |
+
+| 13 | RS ALTA ANHANGUERA | ORLÂNDIA | 353430 | 360.000,00 | 180.000,00 |
+| --- | --- | --- | --- | --- | --- |
+|  | RS ALTA MOGIANA | ITUVERAVA | 352410 | 360.000,00 | 180.000,00 |
+|  | RS HORIZONTE VERDE | SERTÃOZINHO | 355170 | 360.000,00 | 180.000,00 |
+|  | RS NORTE BARRETOS | COLINA | 351200 | 360.000,00 | 180.000,00 |
+|  | RS SUL BARRETOS | MONTE AZUL PAULISTA | 353150 | 360.000,00 | 180.000,00 |
+|  | RS TRÊS COLINAS | SÃO JOSÉ DA BELA VISTA | 354950 | 360.000,00 | 180.000,00 |
+|  | RS VALE DAS CACHOEIRAS | BATATAIS | 350590 | 360.000,00 | 180.000,00 |
+|  | RS AQUÍFERO GUARANI | SÃO SIMÃO | 355090 | 600.000,00 | 300.000,00 |
+| 14 | RS ARARAS | LEME | 352670 | 360.000,00 | 180.000,00 |
+|  | RS LIMEIRA | LIMEIRA | 352690 | 360.000,00 | 180.000,00 |
+|  | RS PIRACICABA | PIRACICABA | 353870 | 600.000,00 | 300.000,00 |
+|  | RS RIO CLARO | RIO CLARO | 354390 | 360.000,00 | 180.000,00 |
+| 15 | RS BAIXA MOGIANA | MOGI MIRIM | 353080 | 360.000,00 | 180.000,00 |
+|  | RS CIRCUITO DAS ÁGUAS | AMPARO | 350190 | 360.000,00 | 180.000,00 |
+|  | RS MANTIQUEIRA | AGUAI | 350030 | 360.000,00 | 180.000,00 |
+|  | RS RIO PARDO | MOCOCA | 353050 | 360.000,00 | 180.000,00 |
+|  | RS RMC | SUMARÉ | 355240 | 1.200.000,00 | 600.000,00 |
+| 16 | RS BRAGANÇA | BRAGANÇA PAULISTA | 350760 | 360.000,00 | 180.000,00 |
+|  | RS JUNDIAÍ | JUNDIAÍ | 352590 | 600.000,00 | 300.000,00 |
+| 17 | RRAS 17 | CARAGUATATUBA | 351050 | 360.000,00 | 180.000,00 |
+|  |  | CRUZEIRO | 351340 | 180.000,00 | 90.000,00 |
+|  |  | GUARATINGUETÁ | 351840 | 180.000,00 | 90.000,00 |
+|  |  | JACAREÍ | 352440 | 600.000,00 | 300.000,00 |
+|  |  | PINDAMONHANGABA | 353800 | 300.000,00 | 150.000,00 |
+|  |  | SÃO JOSÉ DOS CAMPOS | 354990 | 600.000,00 | 300.000,00 |
+|  |  | TAUBATÉ | 355410 | 300.000,00 | 150.000,00 |
+| 18 | RRAS 18 | SÃO CARLOS | 354890 | 1.080.000,00 | 540.000,00 |
+| TOTAL GERAL | 31.800.000,00 | 15.900.000,00 |  |  |  |

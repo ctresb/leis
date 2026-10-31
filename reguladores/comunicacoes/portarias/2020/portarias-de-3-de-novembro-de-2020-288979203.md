@@ -1,0 +1,26 @@
+---
+titulo: "PORTARIAS DE 3 DE NOVEMBRO DE 2020"
+orgao: "Ministério das Comunicações/Secretaria de Radiodifusão/Departamento de Inovação, Regulamentação e Fiscalização"
+tipo: "Portaria"
+numero: ""
+data: ""
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 18/11/2020, seção 1, p. 159"
+data_publicacao: 2020-11-18
+edicao: "220"
+fonte: "https://www.in.gov.br/web/dou/-/portarias-de-3-de-novembro-de-2020-288979203"
+sha256_html_fonte: 9a7ccb31e6871a8f6d88ea7ee79f6a9c1379d53c4a27c1ad01f3fae11674bda2
+baixado_em: 2026-10-21
+---
+# PORTARIAS DE 3 DE NOVEMBRO DE 2020
+
+PORTARIAS DE 3 DE NOVEMBRO DE 2020
+
+O DIRETOR DO DEPARTAMENTO DE INOVAÇÃO, REGULAMENTAÇÃO E FISCALIZAÇÃO, no uso de suas atribuições, observados os critérios e parâmetros estabelecidos pelas Portarias n° 112, de 22 de abril de 2013, e/ou n° 562, de 22 de dezembro de 2011 e/ou n° 294, de 30 de janeiro de 2015, e tendo em vista o que consta nos processos abaixo, resolve:
+
+**Art. 1º** Aplicar às Entidades, abaixo relacionadas, a penalidade de multa ou suspensão, que por este ato fica convertida em multa.
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>N° do Processo</p></td>      <td rowspan="1" colspan="1"><p>Entidade</p></td>      <td rowspan="1" colspan="1"><p>Serviço</p></td>      <td rowspan="1" colspan="1"><p>Município</p></td>      <td rowspan="1" colspan="1"><p>UF</p></td>      <td rowspan="1" colspan="1"><p>Sanção</p></td>      <td rowspan="1" colspan="1"><p>Valor (R$)</p></td>      <td rowspan="1" colspan="1"><p>Enquadramento Legal</p></td>      <td rowspan="1" colspan="1"><p>Portaria</p></td>      <td rowspan="1" colspan="1"><p>Embasamento da Portaria de Multa</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>53000.070858/2013</p></td>      <td rowspan="1" colspan="1"><p>Associação Rádio Comunitária Nova Independência</p></td>      <td rowspan="1" colspan="1"><p>RADCOM</p></td>      <td rowspan="1" colspan="1"><p>Nova Independência</p></td>      <td rowspan="1" colspan="1"><p>SP</p></td>      <td rowspan="1" colspan="1"><p>Multa</p></td>      <td rowspan="1" colspan="1"><p>1.941,96</p></td>      <td rowspan="1" colspan="1"><p>Itens 18.2 e 21.10.1 da N-01/2011, art. 8º c/c art. 40, V, VII, XXII e XXIX do Decreto nº 2.615/98.</p></td>      <td rowspan="1" colspan="1"><p>Portaria DECEF n° 142 de 03/11/2020</p></td>      <td rowspan="1" colspan="1"><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>53900.034027/2015</p></td>      <td rowspan="1" colspan="1"><p>Associação Comunitária De Desenvolvimento, Artístico E Cultural De Novo Horizonte Do Sul</p></td>      <td rowspan="1" colspan="1"><p>RADCOM</p></td>      <td rowspan="1" colspan="1"><p>Novo Horizonte do Sul</p></td>      <td rowspan="1" colspan="1"><p>MS</p></td>      <td rowspan="1" colspan="1"><p>Multa</p></td>      <td rowspan="1" colspan="1"><p>456,93</p></td>      <td rowspan="1" colspan="1"><p>Art. 40, VII do Decreto n° 2.615/98.</p></td>      <td rowspan="1" colspan="1"><p>Portaria DECEF n° 394 de 03/11/2020</p></td>      <td rowspan="1" colspan="1"><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>53900.026821/2014</p></td>      <td rowspan="1" colspan="1"><p>Prefeitura Municipal De Bom Jardim</p></td>      <td rowspan="1" colspan="1"><p>RTV</p></td>      <td rowspan="1" colspan="1"><p>Bom Jardim</p></td>      <td rowspan="1" colspan="1"><p>RJ</p></td>      <td rowspan="1" colspan="1"><p>Multa</p></td>      <td rowspan="1" colspan="1"><p>1.335,81</p></td>      <td rowspan="1" colspan="1"><p>Art. 27 c/c art. 31 do Decreto nº 5.371/05.</p></td>      <td rowspan="1" colspan="1"><p>Portaria DECEF n° 1049 de 03/11/2020</p></td>      <td rowspan="1" colspan="1"><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 294/2015</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>53900.030129/2014</p></td>      <td rowspan="1" colspan="1"><p>Prefeitura Municipal De Santo Antônio De Pádua</p></td>      <td rowspan="1" colspan="1"><p>RTV</p></td>      <td rowspan="1" colspan="1"><p>Santo Antônio de Pádua</p></td>      <td rowspan="1" colspan="1"><p>RJ</p></td>      <td rowspan="1" colspan="1"><p>Multa</p></td>      <td rowspan="1" colspan="1"><p>1.335,81</p></td>      <td rowspan="1" colspan="1"><p>Art. 27 c/c art. 31 do Decreto nº 5.371/05.</p></td>      <td rowspan="1" colspan="1"><p>Portaria DECEF n° 1050 de 03/11/2020</p></td>      <td rowspan="1" colspan="1"><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 294/2015</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>53000.017546/2013</p></td>      <td rowspan="1" colspan="1"><p>Rádio A Voz De São Pedro Ltda</p></td>      <td rowspan="1" colspan="1"><p>FM</p></td>      <td rowspan="1" colspan="1"><p>São Pedro</p></td>      <td rowspan="1" colspan="1"><p>SP</p></td>      <td rowspan="1" colspan="1"><p>Multa</p></td>      <td rowspan="1" colspan="1"><p>8.378,17</p></td>      <td rowspan="1" colspan="1"><p>Art. 38, "h", da Lei nº 4.117/62</p></td>      <td rowspan="1" colspan="1"><p>Portaria DECEF n° 1149 de 03/11/2020</p></td>      <td rowspan="1" colspan="1"><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 294/2015</p></td>     </tr>    </tbody>   </table>
+
+RODRIGO CRUZ GEBRIM

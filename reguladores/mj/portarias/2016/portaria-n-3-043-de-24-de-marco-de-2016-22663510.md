@@ -1,0 +1,28 @@
+---
+titulo: "PORTARIA Nº 3.043, DE 24 DE MARÇO DE 2016"
+orgao: "Ministério da Justiça/DEPARTAMENTO DE POLÍCIA FEDERAL/DIRETORIA EXECUTIVA COORDENAÇÃO-GERAL DE CONTROLE DE SEGURANÇA PRIVADA"
+tipo: "Portaria"
+numero: "3043"
+data: 2016-03-24
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 05/04/2016, seção 1, p. 28"
+data_publicacao: 2016-04-05
+edicao: "64"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-3-043-de-24-de-marco-de-2016-22663510"
+sha256_html_fonte: d3ccc90183f6639df66eb3a7e60946520ea1c94ec10e6cfdda081be5263a47b1
+baixado_em: 2026-10-28
+---
+# PORTARIA Nº 3.043, DE 24 DE MARÇO DE 2016
+
+PORTARIA Nº 3.043, DE 24 DE MARÇO DE 2016
+
+O COORDENADOR-GERAL DE CONTROLE DE SEGURANÇAPRIVADA, por delegação do DIREX/DPF, no uso das atribuições,acolhendo os fundamentos do Parecer nº 9288/2016, decide:Aplicar a pena de MULTA equivalente a 1.667 (um mil e seiscentose sessenta e sete) UFIR a RRJ TRANSPORTE DE VALORES, SEGURANCAE VIGILANCIA LTDA, CNPJ nº 02.459.497/0001-36,sediada em São Paulo, por praticar a conduta tipificada no artigo 169,inciso XVII PORT.N° 3.233/12-DG/DPF DE 10/12/12 e artigo 183,§3 PORT.N° 3.233/12-DG/DPF DE 10/12/12, conforme consta noProcesso nº 2013/9612.
+
+O prazo para apresentação de recurso é de 10 (dez) dias acontar da ciência no processo.
+
+CARLOS ROGERIO FERREIRA COTA
+
+CARLOS ROGERIO FERREIRA COTA
+
+Este conteúdo não substitui o publicado na versão certificada.

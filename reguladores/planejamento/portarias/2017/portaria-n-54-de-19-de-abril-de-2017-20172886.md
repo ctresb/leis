@@ -1,0 +1,60 @@
+---
+titulo: "PORTARIA Nº 54, DE 19 DE ABRIL DE 2017"
+orgao: "Ministério do Planejamento, Desenvolvimento e Gestão/SECRETARIA DO PATRIMÔNIO DA UNIÃO"
+tipo: "Portaria"
+numero: "54"
+data: 2017-04-19
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 20/04/2017, seção 1, p. 112"
+data_publicacao: 2017-04-20
+edicao: "76"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-54-de-19-de-abril-de-2017-20172886"
+sha256_html_fonte: b7c31f0e50c8e6e0adee451b7575736a60523b876bbac2588409ea2df3b9c39c
+baixado_em: 2026-10-27
+---
+# PORTARIA Nº 54, DE 19 DE ABRIL DE 2017
+
+PORTARIA Nº 54, DE 19 DE ABRIL DE 2017
+
+O SECRETÁRIO DO PATRIMÔNIO DA UNIÃO, DO MINISTÉRIODO PLANEJAMENTO, DESENVOLVIMENTO E GESTÃO,no uso da competência que lhe foi subdelegada pelo art. 1º,inciso III, da Portaria nº 54, de 22 de fevereiro de 2016, tendo emvista o disposto nos arts. 18, inciso II e §§ 2º a 5º e 7º, e 42 da Leinº 9.636, de 15 de maio de 1998, nos arts. 95 e 96 do Decreto-Lei nº9.760, de 5 de setembro de 1946, no art. 25, caput, da Lei nº 8.666,de 21 de junho de 1993, bem como nos elementos que integram oProcesso Administrativo nº 04985.201322/2015-83, resolve:
+
+**Art. 1º** Autorizar a cessão de uso onerosa, sob o regime dearrendamento, à Petróleo Brasileiro S.A. - Petrobrás, sociedade deeconomia mista, inscrita no CNPJ 33.000.167/1118-76, dos espaçosfísicos em águas públicas denominados área 1, com 1.633,60 m², eárea 2, com 1.633,60 m², totalizando 3.267,20 m², localizados àsmargens do Rio Negro e Solimões (rio federal), na Avenida DesembargadorCésar do Rego, n° 1444 - Colônia Antônio Aleixo, noMunicípio de Manaus/AM, com as características descritas a seguir:Área 1, inicia-se no perímetro no vértice M-01, definido pelas coordenadasE: 176.075,838 m e N: 9.654.816,269 m com azimute 90°49' 25,18'' e distância de 10,37 m até o vértice M-02, definido pelascoordenadas E: 176.086,204 m e N: 9.654.816,120 m com azimute177° 56' 35,70'' e distância de 7,81 m até o vértice M- 03, definidopelas coordenadas E: 176.086,485 m e N: 9.654.808,311 m comazimute 91° 07' 23,25'' e distância de 4,70 m até o vértice M-04,definido pelas coordenadas E: 176.091,179 m e N: 9.654.808,219 mcom azimute 2° 38' 34,77'' e distância de 3,31 m até o vértice M-05,definido pelas coordenadas E: 176.091,332 m e N: 9.654.811,527 mcom azimute 89° 42' 22,47'' e distância de 8,94 m até o vértice M-06,definido pelas coordenadas E: 176.100,276 m e N: 9.654.811,573 mcom azimute 179° 33' 54,59'' e distância de 35,95 m até o vértice M-07,definido pelas coordenadas E: 176.100,548 m e N: 9.654.775,627m com azimute 269° 08' 59,96'' e distância de 8,68 m até o vértice M-
+
+08, definido pelas coordenadas E: 176.091,867 m e N: 9.654.775,498m com azimute 359° 08' 59,65'' e distância de 2,81 m até o vértice M-09,definido pelas coordenadas E: 176.091,825 m e N: 9.654.778,304m com azimute 270° 31' 59,22'' e distância de 6,42 m até o vértice M-10,definido pelas coordenadas E: 176.085,410 m e N: 9.654.778,363m com azimute 180° 15' 31,71'' e distância de 2,92 m até o vértice M-11,definido pelas coordenadas E: 176.085,397 m e N: 9.654.775,447m com azimute 89° 42' 22,47'' e distância de 0,93 m até o vértice M-12,definido pelas coordenadas E: 176.086,323 m e N: 9.654.775,452m com azimute 179° 33' 54,59'' e distância de 4,05 m até o vértice M-
+
+13, definido pelas coordenadas E: 176.086,354 m e N: 9.654.771,398m com azimute 179° 33' 54,59'' e distância de 31,89 m até o vérticeM-14, definido pelas coordenadas E: 176.086,596 m e N:9.654.739,506 m com azimute 269° 08' 59,96'' e distância de 8,68 m
+
+até o vértice M-15, definido pelas coordenadas E: 176.077,915 m eN: 9.654.739,377 m com azimute 359° 08' 59,94'' e distância de 31,98m até o vértice M-16, definido pelas coordenadas E: 176.077,440 me N: 9.654.771,349 m com azimute 359° 08' 59,94'' e distância de4,06 m até o vértice M-17, definido pelas coordenadas E:176.077,380 m e N: 9.654.775,406 m com azimute 89° 42' 22,48'' edistância de 0,84 m até o vértice M- 18, definido pelas coordenadasE: 176.078,224 m e N: 9.654.775,410 m com azimute 359° 43' 42,89''e distância de 2,92 m até o vértice M-19, definido pelas coordenadasE: 176.078,210 m e N: 9.654.778,333 m com azimute 269° 42' 57,38''e distância de 7,01 m até o vértice M-20, definido pelas coordenadasE: 176.071,202 m e N: 9.654.778,298 m com azimute 179° 33' 54,59''e distância de 2,43 m até o vértice M-21, definido pelas coordenadasE: 176.071,220 m e N: 9.654.775,871 m com azimute 269° 08' 59,96''e distância de 8,68 m até o vértice M-22, definido pelas coordenadasE: 176.062,539 m e N: 9.654.775,742 m com azimute 359° 08' 59,94''e distância de 26,34 m até o vértice M- 23, definido pelas coordenadasE: 176.062,148 m e N: 9.654.802,083 m com azimute 359°08' 59,94'' e distância de 9,69 m até o vértice M-24, definido pelascoordenadas E: 176.062,004 m e N: 9.654.811,771 m com azimute89° 42' 22,47'' e distância de 8,94 m até o vértice M-25, definidopelas coordenadas E: 176.070,948 m e N: 9.654.811,817 m comazimute 177° 56' 17,05'' e distância de 3,70 m até o vértice M-26,definido pelas coordenadas E: 176.071,081 m e N: 9.654.808,116 mcom azimute 90° 35' 50,92'' e distância de 4,92 m até o vértice M-27,definido pelas coordenadas E: 176.076,002 m e N: 9.654.808,065 mcom azimute 358° 51' 09,38'' e distância de 8,21 m até o vértice M-
+
+01, encerrando este perímetro, Área 2, inicia-se no perímetro novértice M-28, definido pelas coordenadas E: 176.154,466 m e N:9.654.849,660 m com azimute 77° 58' 04,03'' e distância de 10,37 maté o vértice M-29, definido pelas coordenadas E: 176.164,605 m eN: 9.654.851,821 m com azimute 165° 05' 14,56'' e distância de 7,81m até o vértice M- 30, definido pelas coordenadas E: 176.166,616 me N: 9.654.844,270 m com azimute 78° 16' 02,11'' e distância de 4,70m até o vértice M-31, definido pelas coordenadas E: 176.171,214 me N: 9.654.845,225 m com azimute 349° 47' 13,63'' e distância de3,31 m até o vértice M-32, definido pelas coordenadas E:176.170,627 m e N: 9.654.848,484 m com azimute 76° 51' 01,32'' edistância de 8,94 m até o vértice M-33, definido pelas coordenadas E:176.179,336 m e N: 9.654.850,519 m com azimute 166° 42' 33,44'' edistância de 35,95 m até o vértice M-34, definido pelas coordenadasE: 176.187,599 m e N: 9.654.815,534 m com azimute 256° 17' 38,82''e distância de 8,68 m até o vértice M- 35, definido pelas coordenadasE: 176.179,164 m e N: 9.654.813,477 m com azimute 346° 17' 38,50''e distância de 2,81 m até o vértice M-36, definido pelas coordenadasE: 176.178,499 m e N: 9.654.816,203 m com azimute 257° 40' 38,08''e distância de 6,42 m até o vértice M-37, definido pelas coordenadasE: 176.172,231 m e N: 9.654.814,834 m com azimute 167° 24' 10,57''e distância de 2,92 m até o vértice M-38, definido pelas coordenadasE: 176.172,867 m e N: 9.654.811,988 m com azimute 76° 51' 01,32''e distância de 0,93 m até o vértice M-39, definido pelas coordenadasE: 176.173,770 m e N: 9.654.812,199 m com azimute 166° 42' 33,44''e distância de 4,05 m até o vértice M- 40, definido pelas coordenadasE: 176.174,702 m e N: 9.654.808,254 m com azimute 166° 42' 33,44''e distância de 31,89 m até o vértice M-41, definido pelas coordenadasE: 176.182,034 m e N: 9.654.777,215 m com azimute 256° 17' 38,81''e distância de 8,68 m até o vértice M-42, definido pelas coordenadasE: 176.173,599 m e N: 9.654.775,157 m com azimute 346° 17' 38,80''e distância de 31,98 m até o vértice M-43, definido pelas coordenadasE: 176.166,022 m e N: 9.654.806,222 m com azimute 346° 17' 38,80''e distância de 4,06 m até o vértice M-44, definido pelas coordenadasE: 176.165,061 m e N: 9.654.810,164 m com azimute 76° 51' 01,33''e distância de 0,84 m até o vértice M- 45, definido pelas coordenadasE: 176.165,883 m e N: 9.654.810,356 m com azimute 346° 52' 21,75''e distância de 2,92 m até o vértice M-46, definido pelas coordenadasE: 176.165,219 m e N: 9.654.813,203 m com azimute 256° 51' 36,24''e distância de 7,01 m até o vértice M-47, definido pelas coordenadasE: 176.158,394 m e N: 9.654.811,609 m com azimute 166° 42' 33,44''e distância de 2,43 m até o vértice M-48, definido pelas coordenadasE: 176.158,952 m e N: 9.654.809,247 m com azimute 256° 17' 38,82''e distância de 8,68 m até o vértice M-49, definido pelas coordenadasE: 176.150,517 m e N: 9.654.807,190 m com azimute 346° 17' 38,80''e distância de 26,34 m até o vértice M- 50, definido pelas coordenadasE: 176.144,275 m e N: 9.654.832,784 m com azimute 346°17' 38,80'' e distância de 9,69 m até o vértice M-51, definido pelascoordenadas E: 176.141,979 m e N: 9.654.842,196 m com azimute76° 51' 01,32'' e distância de 8,94 m até o vértice M-52, definidopelas coordenadas E: 176.150,688 m e N: 9.654.844,231 m comazimute 165° 04' 55,91'' e distância de 3,70 m até o vértice M-53,definido pelas coordenadas E: 176.151,642 m e N: 9.654.840,653 mcom azimute 77° 44' 29,78'' e distância de 4,92 m até o vértice M-54,definido pelas coordenadas E: 176.156,451 m e N: 9.654.841,698 mcom azimute 345° 59' 48,23'' e distância de 8,21 m até o vértice M-
+
+28, encerrando este perímetro.
+
+**Parágrafo único.** Os espaços físicos em águas públicas a quese refere o caput são contíguos ao terreno regularmente cadastradosob o regime de ocupação em nome da pretensa cessionária sob o RIPnº 0255.0100210-94.
+
+**Art. 2º** A cessão a que se refere o art. 1º destina-se à regularizaçãode cais flutuante, denominado PEA, porto flutuante pararecebimento, carregamento e descarregamento de produtos e/ou materiaissólidos, com armazenamento temporário de material a serdestinado prioritariamente à Base de Operações Geólogo Pedro deMoura - BOGPM, que se encontra localizada no Município de Coari/AM.
+
+**Art.3º** O prazo da cessão será de 25 (vinte e cinco) anos,contado da data da assinatura do contrato.
+
+**Art. 4º** Durante o prazo previsto no art. 3º, fica a outorgadacessionária obrigada a pagar anualmente à União, a título de arrendamento,o valor de R$ 5.556,20 (cinco mil, quinhentos e cinquentae seis reais e vinte centavos), valor que pode ser recolhido emparcelas mensais, conforme critérios estabelecidos em contrato.
+
+**§ 1º** A retribuição anual deverá ser recolhida diretamente àUnião até o quinto dia útil do mês subsequente ao vencimento e, emcaso de atraso no pagamento, incidirá multa de 10% (dez por cento)e juros de mora, equivalentes à taxa referencial do Sistema Especialde Liquidação e de Custódia - SELIC para títulos federais, acumuladamensalmente do primeiro dia do mês posterior ao vencimento até omês anterior ao efetivo pagamento, acrescida de 1% (um por cento)relativo ao mês do pagamento.
+
+**§ 2º** O valor previsto no caput será corrigido a cada 12(doze) meses, utilizando-se a variação do IPG-M ou índice que vier asubstituí-lo.
+
+**§ 3º** O valor da retribuição pelo arrendamento do imóvel serárevisado a cada 5 (cinco) anos ou a qualquer tempo, desde quecomprovada a superveniência de fatores que tenham alterado o equilíbrioeconômico do contrato.
+
+**Art. 5º** Fica a cessionária obrigada a arcar com as retribuiçõesdevidas entre a data da ocupação dos espaços físicos emáguas públicas e a assinatura do instrumento de cessão onerosa relativamenteà área ocupada sem autorização prévia, podendo o montanteser parcelado no prazo de até 60 (sessenta) meses.
+
+**Art. 6º** A assinatura do contrato fica condicionada à obtenção,pela cessionária, de todos os licenciamentos, autorizações,documentos e alvarás necessários ao funcionamento da estrutura náuticade que trata o art. 2º desta Portaria, bem como à rigorosa observânciadas normas legais e regulamentares aplicáveis.
+
+**Art. 7º** A cessionária deverá, após convocação, comparecer àSuperintendência do Patrimônio da União em Manaus, no prazo de 30(trinta) dias, para a assinatura do contrato de cessão de uso onerosa,em regime de arrendamento, sob pena de revogação desta Portaria.
+
+**Art. 8º** Esta Portaria entra em vigor na data de sua publicação.
+
+SIDRACK DE OLIVEIRA CORREIA NETO
+
+SIDRACK DE OLIVEIRA CORREIA NETO
+
+Este conteúdo não substitui o publicado na versão certificada.

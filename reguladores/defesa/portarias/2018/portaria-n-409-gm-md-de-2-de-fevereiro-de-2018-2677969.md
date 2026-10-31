@@ -1,0 +1,348 @@
+---
+titulo: "PORTARIA Nº 409/GM/MD, DE 2 DE FEVEREIRO DE 2018"
+orgao: "Ministério da Defesa/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "409"
+data: 2018-02-02
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 06/02/2018, seção 1, p. 4-29"
+data_publicacao: 2018-02-06
+edicao: "26"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-409-gm-md-de-2-de-fevereiro-de-2018-2677969"
+sha256_html_fonte: d7892b4d1ea8260cc8cb9521b62f7b1602c132873cbc7c407e94b27a515d52e4
+baixado_em: 2026-10-27
+---
+# PORTARIA Nº 409/GM/MD, DE 2 DE FEVEREIRO DE 2018
+
+O MINISTRO DE ESTADO DA DEFESA, no uso de suas atribuições legais e conforme o disposto no Decreto nº 5.958, de 7 de novembro de 2006, e no art. 9º da Portaria nº 85/GM/MD, de 11 de janeiro de 2018, resolve:
+
+CONCEDER
+
+a Medalha Mérito Desportivo Militar
+
+aos militares e civil, Post-Mortem, a seguir relacionados:
+
+Coronel R/1 ERIC TINOCO MARQUES
+
+Tenente-Coronel Refm UDERCI BRAGA SILVA
+
+Senhor RAUL ARAGÃO ROCHA
+
+às instituições a seguir relacionadas:
+
+ACADEMIA DE FUTEBOL PÉROLAS NEGRAS
+
+e às personalidades civis e militares a seguir relacionadas:
+
+Deputada Federal BRUNA DIAS FURLAN
+
+Chefe do Estado-Maior da Armada Almirante de Esquadra ILQUES BARBOSA JUNIOR
+
+Chefe do Estado-Maior da Aeronáutica Tenente-Brigadeiro do Ar RAUL BOTELHO
+
+Secretário de Produtos de Defesa do Ministério da Defesa FLÁVIO AUGUSTO CORRÊA BASILIO
+
+Almirante de Esquadra PAULO CEZAR DE QUADROS KÜSTER
+
+Almirante de Esquadra LISEO ZAMPRONIO
+
+Almirante de Esquadra LUIZ HENRIQUE CAROLI
+
+Almirante de Esquadra (RM1) SERGIO ROBERTO FERNANDES DOS SANTOS
+
+General de Exército PAULO HUMBERTO CESAR DE OLIVEIRA
+
+General de Exército ARTUR COSTA MOURA
+
+General de Exército WALTER SOUZA BRAGA NETTO
+
+General de Exército JOSÉ LUIZ DIAS FREITAS
+
+General de Exército LUIZ EDUARDO RAMOS BAPTISTA PEREIRA
+
+Tenente-Brigadeiro do Ar CARLOS VUYK DE AQUINO
+
+Tenente-Brigadeiro do Ar ANTONIO CARLOS EGITO DO AMARAL
+
+Tenente-Brigadeiro do Ar JEFERSON DOMINGUES DE FREITAS
+
+Vice-Almirante EDERVALDO TEIXEIRA DE ABREU FILHO
+
+Contra-Almirante (IM) MARCELO BARRETO RODRIGUES
+
+Contra-Almirante NEWTON DE ALMEIDA COSTA NETO
+
+Contra-Almirante CARLOS EDUARDO HORTA ARENTZ
+
+General de Brigada VINICIUS FERREIRA MARTINELLI
+
+General de Brigada MARCOS DE SÁ AFFONSO DA COSTA
+
+General de Brigada LUIZ GONZAGA VIANA FILHO
+
+Brigadeiro do Ar SAULO VALADARES DO AMARAL
+
+Brigadeiro do Ar JAYME FERREIRA JUNIOR
+
+Brigadeiro do Ar JOSÉ AGUINALDO DE MOURA
+
+Brigadeiro do Ar RICARDO JOSÉ FREIRE DE CAMPOS
+
+Brigadeiro do Ar Refm CLOVIS DE ATHAYDE BOHRER
+
+Diretor do Departamento de Esporte de Base e Alto Rendimento do Ministério do Esporte RAIMUNDO DA COSTA SANTOS NETO
+
+Capitão de Mar e Guerra (FN) MARCO AURÉLIO BRUNO CRESTO
+
+Capitão de Mar e Guerra FABRÍCIO FERNANDO NAZARETH DUARTE
+
+Capitão de Mar e Guerra AYRTON JOSÉ COELHO DE BRITTO NETO
+
+Capitão de Mar e Guerra (FN) MARCIO ROSSINI BATISTA BARREIRA
+
+Capitão de Mar e Guerra (T) REGINA BOANERGES SIQUEIRA
+
+Capitão de Mar e Guerra (RM1-FN) JORGE DE OLIVEIRA CARLOS
+
+Capitão de Mar e Guerra (RM1-T) JOSÉ CARLOS DA COSTA
+
+Capitão de Mar e Guerra (RM1-FN) ÁLVARO FRANCISCO CABRAL BARREIRA
+
+Capitão de Mar e Guerra (RM1-FN) MAURÍCIO MIRANDA RIBEIRO
+
+Coronel de Infantaria ROGERIO MATOS DOS SANTOS
+
+Coronel de Infantaria CLAUDIO ALEXANDRE DE ALMEIDA FREITAS
+
+Coronel de Infantaria SERGIO AUGUSTO ESMANHOTTO
+
+Coronel Médico RUBENS RICARDO BRITTO COIMBRA
+
+Coronel de Cavalaria MAURO SANTOS TEIXEIRA
+
+Coronel de Infantaria NILTON DINIZ RODRIGUES
+
+Coronel R/1 ROBERTO DIAS TORRES
+
+Coronel R/1 RONALDO LIMA DOS SANTOS
+
+Coronel R/1 ROBERTO DE MORAES TAVARES
+
+Coronel R/1 ALFEU ROSTIROLLA
+
+Coronel Intendente MARCELLO DE SOUZA LOPES
+
+Coronel Refm ODILON HOLMITIVES PEREIRA
+
+Coronel Refm LUÍS FERNANDES DE OLIVEIRA
+
+Coronel R/1 DAYRTON VIVAN
+
+Senhora MARIA SILVIA BASTOS MARQUES
+
+Senhor CÉLIO RENÉ TRINDADE VIEIRA
+
+Capitão de Fragata MÁRIO MÁRCIO CARDOSO TEIXEIRA
+
+Capitão de Fragata MARCOS ALEXANDER VALLE DE MOURA
+
+Capitão de Fragata (FN) CHARLES PACHECO PIÑON
+
+Capitão de Fragata (T) MARIA CECILIA TRINDADE DE CASTRO
+
+Capitão de Fragata JORGE DE OLIVEIRA ANTUNES JUNIOR
+
+Tenente-Coronel de Cavalaria JETSON TURQUIELLO MACHADO DA SILVA
+
+Tenente-Coronel de Infantaria LUCIANO VIEIRA
+
+Tenente-Coronel de Infantaria LUCIANO LIMA DOS SANTOS
+
+Tenente-Coronel Refm HAMILTON MARQUES DA SILVA JUNIOR
+
+Tenente-Coronel R/1 EITEL DE MELO SOUSA
+
+Tenente-Coronel R/1 ROBERTO RICARDO DE SOUZA MIRANDA
+
+Capitão de Corveta ANDERSON BRITO DE MELO
+
+Capitão de Corveta (IM) VITOR HUGO DE BARROS TARSITANO
+
+Capitão de Corveta (T) DOUGLAS CESAR RICHTER
+
+Capitão de Corveta (RM1-FN) LUÍZ CARLOS SARTORI
+
+Capitão de Corveta (RM1-T) SÉRGIO LUÍZ DE SOUZA BARRETO
+
+Major de Infantaria RAFAEL MELO DE OLIVEIRA
+
+Major de Infantaria EDUARDO AUGUSTO MONTELLA DE CARVALHO
+
+Major de Cavalaria JACQUES CHIGANER CRAMER RIBEIRO
+
+Major de Engenharia EDUARDO JOSÉ DE ALCANTARA QUEIROZ
+
+Major de Artilharia MAURO DAVID CARDOSO MARTINS
+
+Major de Artilharia EDWARDO COELHO DE OLIVEIRA
+
+Major de Artilharia GUILHERME TASSO DANTAS SANFELICE
+
+Major de Infantaria ANTÔNIO MÁRCIO DOS SANTOS VALENTE
+
+Major de Infantaria VINICIUS FRANÇA LINS
+
+Major QOEAV ADHERBAL TREIDLER DE OLIVEIRA
+
+Major Refm SÉRGIO BASTOS MOREIRA
+
+Senhor LUIZ FELIPE SCOLARI
+
+Senhor ARTHUR ANTUNES COIMBRA
+
+Senhor AMYR KLINK
+
+Senhor OSCAR DANIEL BEZERRA SCHMIDT
+
+Senhor ADENOR LEONARDO BACHI
+
+Senhor RENATO PORTALUPPI
+
+Senhor MARCOS EVANGELISTA DE MORAIS
+
+Senhor RONALDO LUÍS NAZÁRIO DE LIMA
+
+Senhora LAIS DA SILVA SOUZA
+
+Senhor ISAQUIAS QUEIROZ DOS SANTOS
+
+Professor VALBER LAZARO NAZARETH
+
+Professor JOSÉ DE RIBAMAR BARROS DOS SANTOS
+
+Professor ALEXANDER BARREIROS CARDOSO BOMFIM
+
+Professor CELSO DE OLIVEIRA BATISTA
+
+Professor LEON WACLAWIAK FILHO
+
+Professora SHIRLENE MENEZES BRAGA DE MOURA
+
+Senhora ALINE CRISTINE REIS E SILVA MACEDO
+
+Capitão-Tenente (EN) ANTÔNIO JOSÉ FERREIRA VIEIRA
+
+Capitão de Artilharia ANDRÉ LUIZ CAMPOS MARTINS DOS SANTOS
+
+Capitão de Intendência JOSÉ MAURO MALHEIRO MAIA JUNIOR
+
+Capitão de Infantaria WILLIAM CEZAR DOS SANTOS SOUZA
+
+Capitão QAO JERÔNIMO BARBOSA DE SOUSA
+
+Capitão R/1 JOSÉ MARIA DE ANDRADE PEREIRA
+
+Capitão Refm ANTONIO BARBALHO DE SOUZA
+
+Capitão QOBM EDUARDO FURQUIM FREIRE DA SILVA
+
+Primeiro-Tenente (RM2-T) BRUNO DE SOUZA TERRA
+
+Primeiro-Tenente (RM2-S) MAURICIO DOS SANTOS SOARES
+
+Primeiro-Tenente (RM2-T) CONRADO GROTH COUTO
+
+Primeiro-Tenente (RM2-T) FELIPE DO VABO MACEDO
+
+Primeiro-Tenente (RM2-T) FELLIPE PEREIRA GARCIA
+
+1º Tenente QAO MARCO AURÉLIO MARTINS FARINAZZO
+
+1º Tenente QAO GILSON SEBASTIÃO VIEIRA
+
+1º Tenente QOCON MDM LUIZ FERNANDO FERREIRA
+
+1º Tenente QOCON EFI NATALIA CRISTINA FERREIRA DA SILVA
+
+2 º Tenente QAO CLÁUDIO JOSÉ PEREIRA REIS
+
+2º Tenente R/1 ARLINDO FERREIRA DE LIMA
+
+2º Tenente QOEFOT RODRIGO GONÇALVES
+
+Suboficial (FN-AT) SANDRO DE LIMA CORDEIRO
+
+Suboficial (Refº-FN-MO) GEOVANDO COSTA SILVA
+
+Suboficial (Refº-FN-IF) JOSÉ MARCOS DE MACEDO
+
+Suboficial (RM1-FN-IF) MARCOS ANDRÉ
+
+Suboficial (RM1-MG-MEC) NOEL CARLOS DA SILVA BARBOSA
+
+Subtenente de Manutenção de Comunicações CARLOS ALBERTO DE ARAUJO
+
+Subtenente de Artilharia WILLIAN DE AQUINO CARDOSO
+
+Suboficial BFT LUÍS RICARDO APARECIDO FRANCISCO
+
+Suboficial BET WLADIMIR ALBUQUERQUE SILVA
+
+Suboficial QSS SÉRGIO RICARDO DE ALMEIDA SANTOS
+
+Suboficial Refm JOSÉ DE AZEVEDO CAVALCANTI
+
+Suboficial Refm JORGE BISPO DE SANTANA
+
+Suboficial Refm MÁRIO SERGIO FERREIRA ALVES
+
+Primeiro-Sargento (FN-IF) ALEXANDRE LISBOA DE SOUZA
+
+Primeiro-Sargento (EF) SELMA MARIA DE SOUZA
+
+1º Sargento de Artilharia RICARDO DE SOUSA ASSIS
+
+1º Sargento de Infantaria LEONARDO VIEIRA MACHADO
+
+1º Sargento de Material Bélico MARCELO ZIMMY
+
+1º Sargento SML ANTONIO AUGUSTO BATISTA DOS SANTOS
+
+Segundo-Sargento (ES) VALMÉCIO CAMELO DA SILVA
+
+2º Sargento QE MARCO ANTÔNIO MESSIAS DO NASCIMENTO
+
+2º Sargento QE EDILSON DE JESUS SOUZA
+
+2º Sargento de Material Bélico CLAUDINEI NITSCH
+
+2º Sargento de Saúde JULIANA RODRIGUES DE SOUZA
+
+Terceiro-Sargento (FN-IF) LUCIO MAURO DA SILVA OLIVEIRA
+
+Terceiro-Sargento (RM2-EP) LAÍS NUNES DE OLIVEIRA
+
+Terceiro-Sargento (RM2-EP) ÁLVARO MAGLIANO DE MORAIS FILHO
+
+Terceiro-Sargento (RM2-EP) ANDRÉ LOYOLA STEIN
+
+3º Sargento STT GUSTAVO ALBRECHT CARVALHAES
+
+3º Sargento STT ANA PATRÍCIA SILVA RAMOS
+
+3º Sargento STT EDUARDA SANTOS LISBOA
+
+3º Sargento QSCON TES SAYMON BARBOSA SANTOS
+
+3º Sargento Refm ANTONIO FRANCISCO RIBEIRO
+
+Cabo (FN-IF) SIDNALDO FARIAS SOUSA
+
+Marinheiro (RM2) ALEXANDRE BESSA MARQUES PIRES
+
+Marinheiro (RM2) EVANDRO GONÇALVES DE OLIVEIRA JÚNIOR
+
+RAUL JUNGMANN
+
+Este conteúdo não substitui o publicado na versão certificada.

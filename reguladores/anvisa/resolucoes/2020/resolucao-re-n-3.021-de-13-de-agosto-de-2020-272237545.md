@@ -1,0 +1,242 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.021, DE 13 DE AGOSTO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "3021"
+data: 2020-08-13
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 14/08/2020, seção 1, p. 72"
+data_publicacao: 2020-08-14
+edicao: "156"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.021-de-13-de-agosto-de-2020-272237545"
+sha256_html_fonte: 542f6c0f998f63638b29629637381956cfc65ce4095c05f6c6d2d6520ab366bf
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 3.021, DE 13 DE AGOSTO DE 2020
+
+RESOLUÇÃO-RE Nº 3.021, DE 13 DE AGOSTO DE 2020
+
+A Coordenadora de Autorização de Funcionamento de Empresas, no uso das atribuições que lhe confere o Art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º** Conceder Alteração de Autorização de Funcionamento para os estabelecimentos de Farmácias e Drogarias, em conformidade com o anexo desta Resolução.
+
+**Art. 2º** Esta resolução entra em vigor na data de sua publicação
+
+PATRICIA AZEVEDO CHAGAS
+
+## ANEXO
+
+FARMACIA DIAS DE GUARATIBA LTDA-ME / 012.661.254/0001-30
+
+25351.181299/2011-04 / 0760212
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2120780201
+
+--------------------------------------
+
+JD COM. DE MEDICAMENTOS EIRELI / 018.360.585/0001-16
+
+25351.238240/2015-11 / 7383882
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2120788207
+
+25351.238240/2015-11 / 7383882
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2120766206
+
+--------------------------------------
+
+DROGARIA ESTRELLA GRANDE LTDA / 058.431.164/0001-53
+
+25351.099859/2006-11 / 0454311
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2106480206
+
+25351.099859/2006-11 / 0454311
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2106506203
+
+--------------------------------------
+
+VEIGA & CIA / 010.532.144/0001-42
+
+25351.172918/2014-12 / 7144294
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 2120772201
+
+--------------------------------------
+
+ALVES DE SOUSA & SILVA COM. E SERV. DE LABORATÓRIO LTDA / 010.906.080/0002-83
+
+25351.268795/2014-14 / 7173574
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2120764200
+
+--------------------------------------
+
+FARMACIAS NOVA PRATA LTDA / 077.093.086/0002-50
+
+25351.278997/2017-17 / 7519945
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2116229208
+
+--------------------------------------
+
+NAYARA ALMEIDA SOARES - FARMACIAS / 033.251.866/0001-24
+
+25351.375868/2019-20 / 7663621
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2106498209
+
+--------------------------------------
+
+EMPREENDIMENTO FARMACEUTICO ALVES LIMA LTDA / 029.531.432/0001-00
+
+25351.272853/2018-20 / 7584328
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2120796208
+
+--------------------------------------
+
+Alceu Kleinkauf & Cia Ltda / 088.250.907/0006-64
+
+25351.385443/2014-21 / 7234355
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2120782208
+
+--------------------------------------
+
+FMP4 COMERCIO DE MEDICAMENTOS LTDA / 018.984.466/0001-34
+
+25351.258567/2014-28 / 7174063
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2120770204
+
+--------------------------------------
+
+J. N. sturaro farmácia ltda - me / 071.712.566/0001-94
+
+25351.189268/2014-36 / 7151600
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2106512208
+
+--------------------------------------
+
+FARMACIAS NOVA PRATA LTDA / 077.093.086/0001-79
+
+25351.176591/2014-40 / 7145775
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2116235202
+
+--------------------------------------
+
+DROGARIA E & L LTDA / 064.226.186/0001-84
+
+25351.521125/2013-42 / 0994985
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2106500204
+
+25351.521125/2013-42 / 0994985
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2106478204
+
+--------------------------------------
+
+farmácia preço baixo de guarapari / 022.385.713/0001-53
+
+25351.477908/2015-43 / 7407067
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2120792205
+
+--------------------------------------
+
+GR DROGARIA LTDA / 031.840.125/0001-53
+
+25351.344022/2019-48 / 7661252
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2120778200
+
+--------------------------------------
+
+REZENDE DROGARIA EIRELI / 011.676.873/0001-35
+
+25351.126903/2014-74 / 7129405
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2116478209
+
+--------------------------------------
+
+drogaria britânica ltda - epp / 003.318.138/0001-21
+
+25351.821295/2016-77 / 7432942
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 2106492200
+
+25351.821295/2016-77 / 7432942
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2106510201
+
+--------------------------------------
+
+COMERCIAL DE MEDICAMENTOS FARMA E VIDA LTDA / 026.300.415/0001-74
+
+25351.007557/2017-79 / 7498866
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2120794201
+
+--------------------------------------
+
+DINA GABRYELA LACERDA CAVALCANTI PEDROSA - ME / 021.691.718/0001-41
+
+25351.399066/2015-81 / 7398687
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2120784204
+
+--------------------------------------
+
+DROGARIA ANA E ANA SJDR LTDA / 008.853.994/0001-09
+
+25351.075505/2014-82 / 7107680
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2120768202
+
+--------------------------------------
+
+DROGARIA J CASTILHO LTDA / 031.537.930/0001-02
+
+25351.057934/2019-82 / 7634809
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2106476208
+
+--------------------------------------
+
+DROGARIA ULTRA POPULAR PRIMAVERA DO LESTE S/A / 015.684.294/0006-08
+
+25351.512070/2018-94 / 7601146
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2106516201
+
+25351.512070/2018-94 / 7601146
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2106482202
+
+--------------------------------------
+
+FARMATEC FARMÁCIA DE MANIPULAÇÃO / 010.763.640/0001-07
+
+25351.622070/2013-97 / 7020397
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2120790209
+
+--------------------------------------
+
+DROGARIA ULTRA POPULAR PRIMAVERA DO LESTE / 015.684.294/0001-95
+
+25351.406981/2012-98 / 0862406
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2106494206
+
+25351.406981/2012-98 / 0862406
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2106474201

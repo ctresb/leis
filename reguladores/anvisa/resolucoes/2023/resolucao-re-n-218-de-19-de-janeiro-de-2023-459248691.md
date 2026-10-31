@@ -1,0 +1,242 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 218, DE 19 DE JANEIRO DE 2023"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "218"
+data: 2023-01-19
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 23/01/2023, seção 1, p. 130"
+data_publicacao: 2023-01-23
+edicao: "16"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-218-de-19-de-janeiro-de-2023-459248691"
+sha256_html_fonte: cbbe8d69d28c77a7c2b53824b4504705f61bf36be9788a0cafe5eb8acc9f28b0
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE Nº 218, DE 19 DE JANEIRO DE 2023
+
+RESOLUÇÃO-RE Nº 218, DE 19 DE JANEIRO DE 2023
+
+A Coordenadora substituta de Autorização de Funcionamento de Empresas, no uso das atribuições que lhe confere o art. 144, II, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Cancelar, a pedido, a Autorização de Funcionamento das Empresas constantes no anexo desta Resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+TACIANE PIMENTEL DA SILVA
+
+## ANEXO
+
+BIOCERNE IMPORTADORA E DISTRIBUIDORA LTDA / 31.712.197/0001-15
+
+25351.673567/2020-01 / 8214438
+
+877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 5016817227
+
+--------------------------------------
+
+fernanda da rocha chaves eireli / 36.421.498/0001-03
+
+25351.259579/2021-07 / 7797880
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 5079330226
+
+--------------------------------------
+
+YVMED PRODUTOS FARMACEUTICOS E HOSPITALARES EIRELI - ME / 21.949.562/0001-56
+
+25351.417603/2019-14 / 3088261
+
+719 - AFE - CANCELAMENTO - SANEANTES DOMISSANITÁRIOS / 5058956225
+
+--------------------------------------
+
+E.R. TRINDADE / 04.252.742/0001-65
+
+25351.440276/2010-15 / 8066589
+
+877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 5066683224
+
+--------------------------------------
+
+bio-fharma ltda / 06.095.132/0001-20
+
+25351.525065/2014-18 / 7289111
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 5072496228
+
+--------------------------------------
+
+FARMACIA HOMEOPATICA ATOMO LTDA-EPP / 27.856.145/0006-50
+
+25351.337858/2017-24 / 7525157
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 5020909220
+
+--------------------------------------
+
+FOREO Brasil Produtos de Tecnologia Ltda / 30.070.212/0002-97
+
+25351.026363/2022-30 / 8241214
+
+877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 5042471227
+
+--------------------------------------
+
+Rio Derme Farmácia de Manipulação Eireli / 37.421.566/0002-88
+
+25351.147593/2022-31 / 7922879
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 5055482222
+
+--------------------------------------
+
+farmaprev ltda / 05.272.420/0009-06
+
+25351.268888/2014-31 / 7184835
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 5073884221
+
+--------------------------------------
+
+JOHNSON & JOHNSON DO BRASIL INDÚSTRIA E COMÉRCIO DE PRODUTOS PARA SAÚDE LTDA. / 54.516.661/0071-06
+
+25351.513590/2015-37 / 8126836
+
+877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 5056033227
+
+--------------------------------------
+
+MAIS VITA COMERCIO DE MEDICAMENTOS LTDA / 33.878.954/0003-12
+
+25351.334185/2021-37 / 7800679
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 5040819226
+
+--------------------------------------
+
+D RODRIGUES DA SILVA EIRELI / 32.138.853/0001-80
+
+25351.531887/2019-42 / 7679252
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 5064561229
+
+--------------------------------------
+
+NIVALDO GOMES DROGARIA - ME / 01.578.109/0001-73
+
+25351.002258/2003-42 / 0231170
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 5072233227
+
+--------------------------------------
+
+Moksha8 Brasil Distribuidora e Representação de Medicamentos Ltda. / 07.591.326/0003-41
+
+25351.362632/2016-44 / 8142000
+
+877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 5041473226
+
+--------------------------------------
+
+THAIS SILVA ARAUJO / 43.653.166/0001-10
+
+25351.613059/2021-46 / 7855790
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 5040496222
+
+--------------------------------------
+
+YVMED PRODUTOS FARMACEUTICOS E HOSPITALARES EIRELI - ME / 21.949.562/0001-56
+
+25351.346743/2015-51 / 1141498
+
+70802 - AFE - CANCELAMENTO - MEDICAMENTOS E/OU INSUMOS FARMACÊUTICOS / 5058732220
+
+--------------------------------------
+
+DROGARIA MACATUBA LTDA EPP / 16.959.738/0001-10
+
+25351.627848/2013-54 / 7029334
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 5076559224
+
+--------------------------------------
+
+DISLAB RJ COMERCIAL FARMACEUTICA LTDA / 05.999.089/0002-46
+
+25351.612113/2020-55 / 8203726
+
+877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 5037545226
+
+--------------------------------------
+
+RAYZA BARROS LUCAS / 45.815.555/0001-20
+
+25351.083271/2022-57 / 7910166
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 5070970224
+
+--------------------------------------
+
+DBVIX COMERCIO DE PRODUTOS HOSPITALARES E LABORATORIAIS LTDA / 26.959.662/0001-87
+
+25351.095956/2018-60 / 8162903
+
+877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 5024296222
+
+--------------------------------------
+
+DROGARIA SÃO VALENTIM LTDA EPP / 14.570.970/0001-37
+
+25351.773437/2011-68 / 0819663
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 5076621221
+
+--------------------------------------
+
+HERBIA COMERCIO DE PRODUTOS NATURAIS E ORGANICOS LTDA. - ME / 07.732.785/0001-36
+
+25351.652434/2015-73 / 3066392
+
+719 - AFE - CANCELAMENTO - SANEANTES DOMISSANITÁRIOS / 5051643221
+
+--------------------------------------
+
+DROGARIA MINEIROS DO TIETÊ LTDA - ME / 38.837.829/0001-16
+
+25351.218669/2002-77 / 0106014
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 5076608225
+
+--------------------------------------
+
+YVMED PRODUTOS FARMACEUTICOS E HOSPITALARES EIRELI - ME / 21.949.562/0001-56
+
+25351.346744/2015-80 / 8122422
+
+877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 5058887223
+
+--------------------------------------
+
+SILVA & ALMEIDA LTDA. - ME / 24.179.365/0001-93
+
+25351.928549/2016-87 / 7444416
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 5040441223
+
+--------------------------------------
+
+Herbarium BV TEC LTDA / 40.336.175/0001-99
+
+25351.280040/2022-90 / 1273191
+
+70802 - AFE - CANCELAMENTO - MEDICAMENTOS E/OU INSUMOS FARMACÊUTICOS / 5052697228
+
+--------------------------------------
+
+DLP MEDICAL DO BRASIL INDÚSTRIA E COMÉRCIO LTDA. / 10.460.361/0001-74
+
+25351.152367/2009-90 / 8051191
+
+877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 5068211222

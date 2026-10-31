@@ -1,0 +1,76 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.008, DE 12 DE AGOSTO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Segunda Diretoria/Gerência-Geral de Alimentos"
+tipo: "Resolução"
+numero: "3008"
+data: 2020-08-12
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 17/08/2020, seção 1, p. 76"
+data_publicacao: 2020-08-17
+edicao: "157"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.008-de-12-de-agosto-de-2020-272507372"
+sha256_html_fonte: afc564cb45a8d679d5d3894d6dcb549d464c0048c093534cc89fe00a3a2582c7
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 3.008, DE 12 DE AGOSTO DE 2020
+
+RESOLUÇÃO-RE Nº 3.008, DE 12 DE AGOSTO DE 2020
+
+A Gerente-Geral de Alimentos, no uso das atribuições que lhe confere o art. 126, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:
+
+**Art.1º** Deferir as petições de avaliação relacionadas à Gerência-Geral de Alimentos, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+THALITA ANTONY DE SOUZA LIMA
+
+## ANEXO
+
+RELATÓRIO DE CONFERÊNCIA DE ALIMENTOS - PUBLICAÇÃO NR: 501920
+
+NOME DA EMPRESA CNPJ
+
+NOME DO PRODUTO
+
+NUMERO DO PROCESSO
+
+CLASS/CAT DESCRIÇÃO
+
+ASSUNTO PETIÇÃO
+
+-------------------------------
+
+INFINITI PHARMACEUTICAL COMERCIAL E DISTRIBUIDORA DE SUPLEMENTOS MINERAIS LTDA EPP 10.976.750/0001-57
+
+COLÁGENO TIPO II NÃO DESNATURADO DE ESTERNO DE FRANGO
+
+25351.491300/2019-55
+
+NOVOS ALIMENTOS E NOVOS INGREDIENTES
+
+4109 AVALIAÇÃO DE SEGURANÇA E EFICÁCIA DE PROPRIEDADES FUNCIONAL OU DE SAÚDE DE NOVOS ALIMENTOS E NOVOS INGREDIENTES, EXCETO PROBIÓTICOS E ENZIMAS
+
+-------------------------------
+
+NOVOZYMES LATIN AMERICA LTDA 47.247.705/0001-71
+
+FOSFOLIPASE A1 DE VALSARIA RUBRICOSA EXPRESSA EM ASPERGILLUS ORYZAE
+
+25351.000774/2019-08
+
+COADJUVANTES DE TECNOLOGIA
+
+4116 AVALIAÇÃO DE INCLUSÃO DE ENZIMAS PARA USO COMO COADJUVANTES DE TECNOLOGIA
+
+-------------------------------
+
+RICERA IMPORTAÇÃO, EXPORTAÇÃO, COMÉRCIO E REPRESENTAÇÃO LTDA 47.967.468/0001-13
+
+CARBONATO DE CÁLCIO DA CASCA DE OVO DE GALINHA
+
+25351.335242/2019-81
+
+NOVOS ALIMENTOS E NOVOS INGREDIENTES
+
+4109 AVALIAÇÃO DE SEGURANÇA E EFICÁCIA DE PROPRIEDADES FUNCIONAL OU DE SAÚDE DE NOVOS ALIMENTOS E NOVOS INGREDIENTES, EXCETO PROBIÓTICOS E ENZIMAS

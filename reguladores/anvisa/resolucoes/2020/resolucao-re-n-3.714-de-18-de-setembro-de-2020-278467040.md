@@ -1,0 +1,124 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.714, DE 18 DE SETEMBRO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Terceira Diretoria/Gerência-Geral de Toxicologia"
+tipo: "Resolução"
+numero: "3714"
+data: 2020-09-18
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 21/09/2020, seção 1, p. 272"
+data_publicacao: 2020-09-21
+edicao: "181"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.714-de-18-de-setembro-de-2020-278467040"
+sha256_html_fonte: cfe92ca589175a98c16f0ed06ac35b6b4520b924432afa3be5de25e7299349e2
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 3.714, DE 18 DE SETEMBRO DE 2020
+
+RESOLUÇÃO-RE Nº 3.714, DE 18 DE SETEMBRO DE 2020
+
+O Gerente-Geral de Toxicologia no uso das atribuições que lhe confere o art. 149, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º** Aprovar os atos de avaliação toxicológica para fins de registro de produtos agrotóxicos, componentes e afins, identificados no anexo, com o respectivo resultado da análise.
+
+**Art. 2º** A publicação do extrato deste informe de avaliação toxicológica não exime a requerente do cumprimento das demais avaliações procedidas pelos órgãos responsáveis pelas áreas de agricultura e de meio ambiente, conforme legislação vigente no país, aplicável ao objeto do requerimento.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+CARLOS ALEXANDRE OLIVEIRA GOMES
+
+## ANEXO
+
+RAZÃO SOCIAL/CNPJ
+
+MARCA COMERCIAL
+
+NÚMERO DO PROCESSO
+
+PETIÇÃO(ÕES)/EXPEDIENTE(S)
+
+CLASSIFICAÇÃO TOXICOLÓGICA
+
+-----------------------------
+
+ALTA - AMERICA LATINA TECNOLOGIA AGRICOLA LTDA / 10.409.614/0001-85
+
+LUFENUROM ALTA 50 EC
+
+25351.026695/2011-19
+
+5065 - PRODUTO FORMULADO COM BASE EM PRODUTO TÉCNICO EQUIVALENTE, 037861/11-5
+
+CATEGORIA 4 - PRODUTO POUCO TÓXICO
+
+-----------------------------
+
+BIOMA INDUSTRIA COMÉRCIO E DISTRIBUIÇÃO LTDA / 14.833.690/0001-74
+
+FX PROTECTION
+
+25351.559256/2020-21
+
+5064 - PRODUTO FITOSSANITÁRIO APROVADO PARA AGRICULTURA ORGÂNICA - AVALIAÇÃO TOXICOLÓGICA DE PRODUTO BASEADO EM ESPECIFICAÇÃO DE REFERÊNCIA, 1935293/20-6
+
+CATEGORIA 5 - PRODUTO IMPROVÁVEL DE CAUSAR DANO AGUDO
+
+-----------------------------
+
+CCAB AGRO S.A. / 08.938.255/0001-01
+
+CLORFENAPIR CCAB 240 SC
+
+25351.732981/2015-21
+
+5065 - PRODUTO FORMULADO COM BASE EM PRODUTO TÉCNICO EQUIVALENTE, 1042712/15-1
+
+CATEGORIA 5 - PRODUTO IMPROVÁVEL DE CAUSAR DANO AGUDO
+
+-----------------------------
+
+GÊNICA INOVAÇÃO BIOTECNOLÓGICA LTDA. / 23.255.514/0001-93
+
+CONGREGGA
+
+25351.612057/2020-59
+
+5064 - PRODUTO FITOSSANITÁRIO APROVADO PARA AGRICULTURA ORGÂNICA - AVALIAÇÃO TOXICOLÓGICA DE PRODUTO BASEADO EM ESPECIFICAÇÃO DE REFERÊNCIA, 2104390/20-6
+
+NÃO CLASSIFICADO
+
+-----------------------------
+
+PONTIX BRASIL CHEMICAL INDÚSTRIA E COMÉRCO DE PRODUTOS QUÍMICOS LTDA - ME / 09.258.268/0001-00
+
+HUNTER
+
+25351.801832/2020-49
+
+5064 - PRODUTO FITOSSANITÁRIO APROVADO PARA AGRICULTURA ORGÂNICA - AVALIAÇÃO TOXICOLÓGICA DE PRODUTO BASEADO EM ESPECIFICAÇÃO DE REFERÊNCIA, 2682892/20-5
+
+CATEGORIA 5 - PRODUTO IMPROVÁVEL DE CAUSAR DANO AGUDO
+
+-----------------------------
+
+PROMIP COMÉRCIO PESQUISAS E DESENVOLVIMENTO DE AGENTES BIOLÓGICOS LTDA. / 08.256.226/0001-60
+
+METAMIP
+
+25351.666151/2020-28
+
+5064 - PRODUTO FITOSSANITÁRIO APROVADO PARA AGRICULTURA ORGÂNICA - AVALIAÇÃO TOXICOLÓGICA DE PRODUTO BASEADO EM ESPECIFICAÇÃO DE REFERÊNCIA, 2274731/20-9
+
+CATEGORIA 5 - PRODUTO IMPROVÁVEL DE CAUSAR DANO AGUDO
+
+-----------------------------
+
+PROMIP COMÉRCIO PESQUISAS E DESENVOLVIMENTO DE AGENTES BIOLÓGICOS LTDA. / 08.256.226/0001-60
+
+BOVEMIP
+
+25351.666314/2020-72
+
+5064 - PRODUTO FITOSSANITÁRIO APROVADO PARA AGRICULTURA ORGÂNICA - AVALIAÇÃO TOXICOLÓGICA DE PRODUTO BASEADO EM ESPECIFICAÇÃO DE REFERÊNCIA, 2274941/20-3
+
+CATEGORIA 5 - PRODUTO IMPROVÁVEL DE CAUSAR DANO AGUDO

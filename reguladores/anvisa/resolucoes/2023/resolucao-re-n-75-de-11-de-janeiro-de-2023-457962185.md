@@ -1,0 +1,94 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 75, DE 11 DE JANEIRO DE 2023"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Alimentos"
+tipo: "Resolução"
+numero: "75"
+data: 2023-01-11
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 16/01/2023, seção 1, p. 38"
+data_publicacao: 2023-01-16
+edicao: "11"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-75-de-11-de-janeiro-de-2023-457962185"
+sha256_html_fonte: ca7cc61a8c4d8d1246ea4f54fb3feec3cc04b9dfaad1f0622d1008babc30421d
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE Nº 75, DE 11 DE JANEIRO DE 2023
+
+RESOLUÇÃO-RE Nº 75, DE 11 DE JANEIRO DE 2023
+
+A Gerente-Geral substituta de Alimentos, no uso das atribuições que lhe confere o art. 96, aliado ao art. 203, I, §1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada-RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art.1º** Indeferir as petições de avaliação relacionadas à Gerência-Geral de Alimentos, conforme relação anexa.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+ANGELA KARINNE FAGUNDES DE CASTRO
+
+## ANEXO
+
+RELATÓRIO DE CONFERÊNCIA - ALIMENTOS 31223
+
+NOME DA EMPRESA / CNPJ
+
+NOME DO PRODUTO
+
+NÚMERO DO PROCESSO
+
+PETIÇÃO(ÕES) / EXPEDIENTE(S)
+
+--------------------------------------
+
+DODS COMÉRCIO E DISTRIBUIÇÃO DE INSUMOS E EMBALAGENS LTDA / 38.408.742/0001-23
+
+PEPTÍDEOS DE COLÁGENO MARINHO
+
+25351.068351/2022-82
+
+4109 - AVALIAÇÃO DE SEGURANÇA E EFICÁCIA DE PROPRIEDADES FUNCIONAL OU DE SAÚDE DE NOVOS ALIMENTOS E NOVOS INGREDIENTES, EXCETO PROBIÓTICOS E ENZIMAS / 0491847/22-0
+
+--------------------------------------
+
+JBS S/A / 02.916.265/0001-60
+
+MALTODEXTRINA
+
+25351.063039/2022-01
+
+4110 - AVALIAÇÃO DE INCLUSÃO DE COADJUVANTES DE TECNOLOGIA, EXCETO ENZIMAS / 0467541/22-1
+
+--------------------------------------
+
+LIOTECNICA TECNOLOGIA EM ALIMENTOS LTDA / 61.297.784/0001-56
+
+EXTRATO DE MALTE
+
+25351.203871/2022-48
+
+4109 - AVALIAÇÃO DE SEGURANÇA E EFICÁCIA DE PROPRIEDADES FUNCIONAL OU DE SAÚDE DE NOVOS ALIMENTOS E NOVOS INGREDIENTES, EXCETO PROBIÓTICOS E ENZIMAS / 4435109/22-1
+
+--------------------------------------
+
+SAGMA- ASSOCIAÇÃO SULAMERICANA DOS PRODUTORES DE GELATINA / 01.328.181/0001-42
+
+RESINA DE TROCA CATIONICA
+
+25351.613321/2021-52
+
+4111 - AVALIAÇÃO DE EXTENSÃO DE USO DE COADJUVANTES DE TECNOLOGIA, EXCETO ENZIMAS / 4228933/21-1
+
+RESINA DE TROCA ANIONICA
+
+25351.613527/2021-82
+
+4111 - AVALIAÇÃO DE EXTENSÃO DE USO DE COADJUVANTES DE TECNOLOGIA, EXCETO ENZIMAS / 4229163/21-5
+
+--------------------------------------
+
+SM EMPREENDIMENTOS FARMACÊUTICOS LTDA / 44.015.477/0001-16
+
+MONOMETILSILANOTRIOL ESTABILIZADO EM GOMA ACÁCIA
+
+25351.049144/2021-48
+
+4109 - AVALIAÇÃO DE SEGURANÇA E EFICÁCIA DE PROPRIEDADES FUNCIONAL OU DE SAÚDE DE NOVOS ALIMENTOS E NOVOS INGREDIENTES, EXCETO PROBIÓTICOS E ENZIMAS / 3126216/21-8

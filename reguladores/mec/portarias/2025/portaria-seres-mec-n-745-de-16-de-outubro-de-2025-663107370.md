@@ -1,0 +1,59 @@
+---
+titulo: "PORTARIA SERES/MEC Nº 745, DE 16 de outubro de 2025"
+orgao: "Ministério da Educação/Secretaria de Regulação e Supervisão da Educação Superior"
+tipo: "Portaria"
+numero: "745"
+data: 2025-10-16
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 17/10/2025, seção 1, p. 21"
+data_publicacao: 2025-10-17
+edicao: "199"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-seres/mec-n-745-de-16-de-outubro-de-2025-663107370"
+baixado_em: 2026-10-16
+---
+# PORTARIA SERES/MEC Nº 745, DE 16 de outubro de 2025
+
+PORTARIA SERES/MEC Nº 745, DE 16 de outubro de 2025
+
+A SECRETÁRIA DE REGULAÇÃO E SUPERVISÃO DA EDUCAÇÃO SUPERIOR, no uso da atribuição que lhe confere o Decreto nº 11.691, de 5 de setembro de 2023, e tendo em vista os Decretos nº 9.235, de 15 de dezembro de 2017, e nº 12.456, de 19 de maio de 2025, as Portarias Normativas MEC nºs 20 e 23, de 21 de dezembro de 2017, e nº 11, de 22 de junho de 2017, e conforme consta dos processos e-MEC listados na planilha anexa, resolve:
+
+**Art. 1º** Fica(m) indeferido(s) o(s) pedido(s) de autorização de curso superior na modalidade a distância, relacionado(s) no Anexo desta Portaria, conforme disposto nos arts. 10 e 44 do Decreto nº 9.235, de 15 de dezembro de 2017.
+
+**Art. 2º** Esta portaria entra em vigor na data de sua publicação.
+
+MARTA ABRAMO
+
+ANEXO (Autorização de Cursos EaD)
+
+| Nº de Ordem | Registro e-MEC nº | Curso | Nº de vagas totais anuais | Mantida | Mantenedora |
+| --- | --- | --- | --- | --- | --- |
+| 1 | 202122030 | DIREITO (Bacharelado) | 1200 (uma mil, duzentas) | CENTRO UNIVERSITÁRIO CATÓLICO ÍTALO BRASILEIRO | INSTITUICAO EDUCACIONAL PROFESSOR PASQUALE CASCINO |
+| 2 | 202122443 | DIREITO (Bacharelado) | 500 (quinhentas) | CENTRO UNIVERSITÁRIO DE PINHAIS | CENTRO DE ENSINO SUPERIOR DE PINHAIS LTDA. |
+| 3 | 202122378 | DIREITO (Bacharelado) | 1000 (uma mil) | CENTRO UNIVERSITÁRIO DE TECNOLOGIA CARLOS DRUMMOND DE ANDRADE | SOCIEDADE EDUCACIONAL SOIBRA S/S LTDA |
+| 4 | 202122458 | DIREITO (Bacharelado) | 500 (quinhentas) | CENTRO UNIVERSITÁRIO DE TECNOLOGIA E NEGÓCIOS CARLOS DRUMMOND DE ANDRADE | SOCIEDADE EDUCACIONAL SOIBRA S/S LTDA |
+| 5 | 202121549 | DIREITO (Bacharelado) | 200 (duzentas) | CENTRO UNIVERSITÁRIO MATER DEI | COLEGIO MATER DEI LTDA |
+| 6 | 202121566 | DIREITO (Bacharelado) | 2000 (duas mil) | CENTRO UNIVERSITÁRIO MULTIVIX VITÓRIA | EMPRESA BRASILEIRA DE ENSINO PESQUISA E EXTENSAO S/A - MULTIVIX |
+| 7 | 202121516 | DIREITO (Bacharelado) | 500 (quinhentas) | CENTRO UNIVERSITÁRIO SETE DE SETEMBRO | SETE DE SETEMBRO ENSINO SUPERIOR LTDA. |
+| 8 | 202122261 | DIREITO (Bacharelado) | 500 (quinhentas) | CENTRO UNIVERSITÁRIO SUL-AMERICANA | UNIAO SUL-AMERICANA DE EDUCACAO LTDA |
+| 9 | 202122527 | DIREITO (Bacharelado) | 10000 (dez mil) | CENTRO UNIVERSITÁRIO UNIASSELVI DE BLUMENAU | SOCIEDADE EDUCACIONAL LEONARDO DA VINCI LTDA |
+| 10 | 202122369 | DIREITO (Bacharelado) | 300 (trezentas) | CENTRO UNIVERSITÁRIO UNIDADE DE ENSINO SUPERIOR DOM BOSCO | GRUPO DOM BOSCO LTDA |
+| 11 | 202122428 | DIREITO (Bacharelado) | 2000 (duas mil) | FACULDADE CONECTADA FACONNECT | FACONNECT LTDA |
+| 12 | 202121649 | DIREITO (Bacharelado) | 300 (trezentas) | FACULDADE DE AMERICANA | ASSOCIACAO EDUCACIONAL AMERICANENSE |
+| 13 | 202122427 | DIREITO (Bacharelado) | 2000 (duas mil) | FACULDADE DE EDUCAÇÃO E TECNOLOGIA DO ESPÍRITO SANTO | SHIFT+ TECNOLOGIA EDUCACIONAL - EIRELI |
+| 14 | 202121518 | DIREITO (Bacharelado) | 200 (duzentas) | FACULDADE DE JUSSARA | CENTRO DE CIENCIAS DE JUSSARA LTDA - EPP |
+| 15 | 202121993 | DIREITO (Bacharelado) | 500 (quinhentas) | FACULDADE FLEMING CERQUILHO | A. FLEMING EDUCACIONAL LTDA |
+| 16 | 202121995 | DIREITO (Bacharelado) | 500 (quinhentas) | FACULDADE FUTURA | INSTITUTO DE CIENCIA, EDUCACAO E TECNOLOGIA DE VOTUPORANGA |
+| 17 | 202122529 | DIREITO (Bacharelado) | 400 (quatrocentas) | FACULDADE IMPACTO | ALAGOAS EDUCACIONAL DE ENSINO SUPERIOR LTDA - EPP |
+| 18 | 202121885 | DIREITO (Bacharelado) | 500 (quinhentas) | FACULDADE LUMINA | LEGALE EDUCACIONAL S.A. |
+| 19 | 202121565 | DIREITO (Bacharelado) | 2000 (duas mil) | FACULDADE MULTIVIX CARIACICA | MULTIVIX CARIACICA - ENSINO, PESQUISA E EXTENSAO LTDA |
+| 20 | 202122530 | DIREITO (Bacharelado) | 1000 (uma mil) | FACULDADE PROMOVE DE BELO HORIZONTE | SOCIEDADE EDUCACIONAL DE MINAS GERAIS LTDA |
+| 21 | 202122504 | DIREITO (Bacharelado) | 100 (cem) | FACULDADE SERRA DA MESA | CENTRO DE EDUCACAO SERRA DA MESA LTDA - CESEM - EPP |
+| 22 | 202122260 | DIREITO (Bacharelado) | 500 (quinhentas) | FACULDADES INTEGRADAS DA AMÉRICA DO SUL | FACULDADES INTEGRADAS DA AMERICA DO SUL LTDA |
+| 23 | 202122359 | DIREITO (Bacharelado) | 300 (trezentas) | FACULDADES MAGSUL | ASSOCIACAO DE ENSINO SUPERIOR PONTAPORANENSE-AESP |
+| 24 | 202121992 | DIREITO (Bacharelado) | 500 (quinhentas) | FACULDADE VENDA NOVA DO IMIGRANTE | INSTITUTO DE EDUCACAO SECULO XXI LTDA |
+| 25 | 202122135 | DIREITO (Bacharelado) | 500 (quinhentas) | IPOG - INSTITUTO DE PÓS-GRADUAÇÃO & GRADUAÇÃO | IPOG - INSTITUTO DE POS-GRADUACAO & GRADUACAO LTDA |
+| 26 | 202121525 | DIREITO (Bacharelado) | 500 (quinhentas) | UNIÃO DAS FACULDADES DOS GRANDES LAGOS | ASSOCIACAO EDUCACIONAL DE ENSINO SUPERIOR |
+| 27 | 202121769 | DIREITO (Bacharelado) | 400 (quatrocentas) | UNIVERSIDADE ALTO VALE DO RIO DO PEIXE | FUNDACAO UNIVERSIDADE ALTO VALE DO RIO DO PEIXE - FUNIARP |
+| 28 | 202122332 | DIREITO (Bacharelado) | 400 (quatrocentas) | UNIVERSIDADE DA REGIÃO DE JOINVILLE | FUNDACAO EDUCACIONAL DA REGIAO DE JOINVILLE |
+| 29 | 202122048 | DIREITO (Bacharelado) | 400 (quatrocentas) | UNIVERSIDADE NILTON LINS | CENTRO DE ENSINO SUPERIOR NILTON LINS |

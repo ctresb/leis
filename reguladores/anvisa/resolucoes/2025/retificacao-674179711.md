@@ -1,0 +1,67 @@
+---
+titulo: "ReTIFICAÇÃO"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: ""
+data: 2019-07-30
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 10/12/2025, seção 1, p. 160"
+data_publicacao: 2025-12-10
+edicao: "235"
+fonte: "https://www.in.gov.br/web/dou/-/retificacao-674179711"
+baixado_em: 2026-10-16
+---
+# ReTIFICAÇÃO
+
+ReTIFICAÇÃO
+
+Na Resolução - RE n° 2.052, DE 30 DE JULHO DE 2019 , publicada no Diário Oficial da União n°149, de 5 de agosto de 2019, Seção 1, pág. 52 e Suplemento págs. 56 e 62.
+
+Onde se lê:
+
+EMPRESA: J.B.P. VARELA - ME.
+
+ENDEREÇO: Rua SETE DE SETEMBRO 02077
+
+BAIRRO: COLONINHA CEP: 88906630 - ARARANGUÁ/SC
+
+CNPJ: 73.714.644/0002-04
+
+PROCESSO: 25351.113415/2014-05 AUTORIZ/MS: 7.12031.5
+
+AT I V I DA D E / C L A S S E
+
+COMÉRCIO: ALIMENTOS PERMITIDOS/CORRELATOS/COSMÉTICOS/PERFUMES/PRODUTOS DE HIGIENE
+
+DISPENSAÇÃO DE PLANTAS MEDICINAIS: -
+
+DISPENSAÇÃO DE MEDICAMENTOS, INCLUSIVE SUJEITOS A CONTROLE ESPECIAL:
+
+FRACIONAMENTO: -
+
+PRESTAÇÃO DE SERVIÇOS FARMACÊUTICOS: -
+
+Leia-se:
+
+EMPRESA: J.B.P. VARELA - ME.
+
+ENDEREÇO: R AMARO JOSE PEREIRA, 2077, LOJA 1
+
+BAIRRO: COLONINHA CEP: 88906630 - ARARANGUÁ/SC
+
+CNPJ: 73.714.644/0002-04
+
+PROCESSO: 25351.113415/2014-05 AUTORIZ/MS: 7.12031.5
+
+AT I V I DA D E / C L A S S E
+
+COMÉRCIO: ALIMENTOS PERMITIDOS/CORRELATOS/COSMÉTICOS/PERFUMES/PRODUTOS DE HIGIENE
+
+DISPENSAÇÃO DE PLANTAS MEDICINAIS: -
+
+DISPENSAÇÃO DE MEDICAMENTOS, INCLUSIVE SUJEITOS A CONTROLE ESPECIAL:
+
+FRACIONAMENTO: -
+
+PRESTAÇÃO DE SERVIÇOS FARMACÊUTICOS: -

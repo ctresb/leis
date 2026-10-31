@@ -1,0 +1,560 @@
+---
+titulo: "RESOLUÇÃO Nº 659, DE 28 DE SETEMBRO DE 2018"
+orgao: "Entidades de Fiscalização do Exercício das Profissões Liberais/Conselho Federal de Farmácia"
+tipo: "Resolução"
+numero: "659"
+data: 2018-09-28
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 02/10/2018, seção 1, p. 99"
+data_publicacao: 2018-10-02
+edicao: "190"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-n-659-de-28-de-setembro-de-2018-43461540"
+sha256_html_fonte: 024b8e0de13242b5968579dcffce8aa6ff6e1917bc39846689c6ef3e152f045e
+baixado_em: 2026-10-27
+---
+# RESOLUÇÃO Nº 659, DE 28 DE SETEMBRO DE 2018
+
+RESOLUÇÃO Nº 659, DE 28 DE SETEMBRO DE 2018
+
+Aprova o Regimento Interno Padrão dos Conselhos Regionais de Farmácia.
+
+O CONSELHO FEDERAL DE FARMÁCIA, no uso da atribuição que lhe confere o artigo 6º, alíneas "c", "g", "n" e "o", da Lei Federal nº 3.820 de 11 de novembro de 1960, com as modificações da Lei Federal nº 9.120/95; resolve:
+
+**Art. 1º** - Aprovar o Regimento Interno dos Conselhos Regionais de Farmácia, nos termos do Anexo I desta Resolução.
+
+**Art. 2º** - Os Conselhos Regionais de Farmácia, no prazo de 60 (sessenta) dias após a publicação desta resolução, deverão promover a alteração dos seus respectivos regimentos internos, encaminhando-os ao Conselho Federal de Farmácia (CFF) para a devida análise, homologação e publicação de acórdão para sua efetiva validade.
+
+**§ 1º** - Enquanto não houver a devida homologação, aplicam-se imediatamente os termos desta resolução no âmbito do Conselho Regional de Farmácia.
+
+**§ 2º** - É vedada ao Conselho Regional de Farmácia a edição de qualquer norma ou procedimento que contrarie ou extrapole as regras desta resolução.
+
+**Art. 3º** - Na aplicação desta resolução deverão ser observados os princípios da legalidade, moralidade, impessoalidade ou segregação, publicidade, economicidade, eficiência, finalidade, motivação, razoabilidade, proporcionalidade, ampla defesa, contraditório, segurança jurídica e interesse público.
+
+**Art. 4º** - Esta Resolução entra em vigor na data de sua publicação, revogando-se as Resoluções/CFF nº 603/14, publicada no DOU de 05/11/2014, Seção 1, páginas 111/114; e nº 633/16, publicada no DOU de 28/11/2016, Seção 1, página 565; bem como as demais disposições em contrário.
+
+WALTER DA SILVA JORGE JOÃO
+
+Presidente do Conselho
+
+## ANEXO I — NATUREZA, JURISDIÇÃO E ATRIBUIÇÃO
+
+**Art. 1º** - O Conselho Regional de Farmácia do ...................., doravante designado pela sigla CRF/...., é pessoa jurídica de direito público, autarquia com atuação no âmbito da fiscalização do exercício da profissão farmacêutica e órgão executivo do Conselho Federal de Farmácia, com sede na cidade de ...................... e jurisdição em todo o ..........................., mantido com contribuições instituídas sob a forma do artigo 149 da Constituição Federal e demais legislações vigentes.
+
+**Art. 2º** - São atribuições do CRF/.....:
+
+I - registrar os profissionais, expedindo a carteira profissional e a cédula de identidade, de acordo com as Leis Federais nº 3.820/60 e nº 6.206/75, e conforme os modelos e procedimentos normatizados pelo Conselho Federal de Farmácia;
+
+II - registrar as empresas nos termos das Leis Federais nº 3.820/60, nº 6.839/80 e nº 13.021/14, conforme os modelos e procedimentos normatizados pelo Conselho Federal de Farmácia;
+
+III - examinar e decidir sobre as reclamações e representações dos serviços de registro e as infrações da Lei Federal nº 3.820/60;
+
+IV - fiscalizar o exercício das atividades farmacêuticas, impedindo e punindo as infrações à lei, bem como enviando às autoridades competentes relatórios documentados sobre os fatos que apurarem e cuja solução não seja de sua alçada;
+
+V - submeter o seu regimento interno ao Conselho Federal de Farmácia para a devida análise e homologação;
+
+VI - sugerir ao Conselho Federal de Farmácia as medidas necessárias à regularidade dos serviços e à fiscalização das atividades farmacêuticas e do exercício profissional;
+
+VII - dirimir dúvidas relativas à competência e âmbito das atividades profissionais farmacêuticas;
+
+VIII - analisar e julgar em primeira instância os processos de interesse da profissão farmacêutica afetos à sua jurisdição administrativa;
+
+IX - tornar público, anualmente, o relatório dos seus trabalhos e a relação de todos os profissionais registrados;
+
+X - expedir as deliberações acerca de suas decisões, respeitando a hierarquia e as resoluções do Conselho Federal de Farmácia, bem como as demais legislações vigentes;
+
+XI - emitir recomendações, portarias, certidões, ordens de serviços, pareceres, editais, indicações, instruções e outros atos administrativos necessários às atividades do Conselho Regional de Farmácia;
+
+XII - participar das reuniões gerais dos Conselhos Regionais de Farmácia para o estudo de questões profissionais de interesse nacional, mediante convocação do Conselho Federal de Farmácia;
+
+XIII - regulamentar o funcionamento de suas reuniões ordinárias ou extraordinárias, observadas as regras desta resolução;
+
+XIV - deliberar sobre o afastamento temporário e a cassação de Conselheiro Regional efetivo ou suplente, bem como dos respectivos dirigentes, observada a ampla defesa e o devido processo legal;
+
+XV - zelar pela saúde pública, promovendo a assistência farmacêutica;
+
+XVI - cumprir as normas de processo eleitoral aplicáveis às instâncias Federal e Regional, prevendo a investidura das funções da Lei Federal nº 3.820/60 de acordo com a regulamentação expedida pelo Conselho Federal de Farmácia;
+
+XVII - apreciar e julgar suas contas, encaminhando-as ao Conselho Federal de Farmácia;
+
+XVIII - representar ao órgão ou autoridade competente no âmbito de sua jurisdição sobre irregularidades ou abusos apurados, indicando o ato inquinado e definindo responsabilidades referentes a infrações da Lei Federal nº 3.820/60;
+
+XIX - ajuizar as ações competentes quando caracterizados desvios de finalidade da Lei Federal nº 3.820/60 ou infrações às prerrogativas legais da profissão farmacêutica no âmbito de sua jurisdição e competência, informando ao Conselho Federal de Farmácia;
+
+XX - encaminhar as declarações de bens e rendas apresentadas por seus dirigentes;
+
+XXI - decidir sobre representações relativas às suas licitações e contratos administrativos;
+
+XXII - organizar sua Estrutura Administrativa e de Pessoal, prevendo a forma de investidura dos seus empregos, constando o número de seu quadro efetivo e das funções de livre nomeação e exoneração, bem como a adoção de plano de cargos e salários compatível ao seu adequado funcionamento, sua capacidade econômico-financeira, observados os princípios da Administração Pública.
+
+**Art. 3º** - O Conselho Regional de Farmácia, em complementação às suas atribuições fixadas em lei, poderá promover atividades que tenham por objetivo contribuir para melhoria da Saúde Pública e da Assistência Farmacêutica, estimular a unidade da profissão e executar programas de atualização do farmacêutico.
+
+**Art. 4º** - O CRF/.... poderá criar na área de sua jurisdição, através de deliberação do Plenário, seccionais ou sub-sedes que se regerão por este Regimento no que lhes for aplicável, cabendo também ao Conselho suprimi-las, quando assim julgar conveniente.
+
+**Parágrafo único** - A seccional ou sub-sede agrupará, no mínimo, 100 (cem) farmacêuticos.
+
+DA JURISDIÇÃO ADMINISTRATIVA
+
+**Art. 5º** - O Conselho Regional de Farmácia tem jurisdição administrativa sobre as matérias sujeitas às suas atribuições legais, no limite territorial da unidade federativa em que fixar a sua sede.
+
+**Art. 6º** - A jurisdição administrativa do CRF/..... abrange:
+
+I - a pessoa física ou jurídica que exerça atividade farmacêutica ou que seja necessário o exercício dos profissionais inscritos nos seus quadros;
+
+II - aquele que cause perda, extravio ou outra irregularidade que resulte dano às receitas dos artigos 26 e 27 da Lei Federal nº 3.820/60;
+
+III - os seus Conselheiros, Diretores ou Gestores;
+
+IV - todos que devam prestar contas ou que recebam quaisquer verbas do Conselho Regional de Farmácia;
+
+V - os responsáveis por aplicação de quaisquer recursos repassados ao Conselho Regional de Farmácia por entes públicos, privados ou afins, mediante convênio, acordo, ajuste ou outros instrumentos congêneres previstos em lei.
+
+ORGANIZAÇÃO E COMPOSIÇÃO
+
+**Art. 7º** - O Conselho Regional de Farmácia do.................... - CRF/....., deverá ser composto por, no mínimo, 15 (quinze) conselheiros, sendo 12 (doze) efetivos e 3 (três) suplentes, cuja investidura do Suplente em Plenário depende de vacância e/ou ausência da função pelo Efetivo do respectivo mandato:
+
+**§ 1º** - O plenário do CRF..... poderá ser aumentado acima do mínimo, desde que solicite autorização do Plenário do Conselho Federal de Farmácia, bem como demonstrando capacidade de sustentabilidade financeira;
+
+**§ 2º** - Ocorrendo abertura de vagas ante a nova composição do Plenário e, após a efetiva homologação do Conselho Federal de Farmácia, estas deverão ser preenchidas nas próximas eleições a serem realizadas no âmbito do Conselho Regional de Farmácia.
+
+**Art. 8º** - São órgãos do Conselho Regional de Farmácia:
+
+a) Plenário;
+
+b) Comissão de Tomada de Contas;
+
+c) Câmaras Técnicas Especializadas;
+
+d) Diretoria;
+
+e) Comissões assessoras regimentais de caráter permanente subordinados à Diretoria;
+
+f) Grupos Técnicos de Trabalhos para assuntos específicos de interesse da categoria, subordinados à Diretoria.
+
+DO PLENÁRIO
+
+**Art. 9º** - Compete privativamente ao Plenário, como órgão deliberativo dirigido pelo Presidente do Conselho Regional de Farmácia, além das atribuições do artigo 10 da Lei Federal nº 3.820/60:
+
+I - elaborar e aprovar as normas de funcionamento de suas reuniões;
+
+II - zelar pela execução de suas atribuições, definidas em leis e nas resoluções do Conselho Federal de Farmácia;
+
+III - deliberar sobre a criação de Câmaras Técnicas de julgamento para apreciar e emitir parecer nos processos administrativos fiscais;
+
+IV - apreciar e julgar os pareceres das Comissões;
+
+V - decidir sobre a suspensão do Presidente à deliberação do Plenário;
+
+VI - apreciar e julgar as propostas da Diretoria de criação de seccionais ou subsedes na área de sua jurisdição;
+
+VII - apreciar e julgar os processos administrativos de sua competência, nos termos da Lei Federal nº 3.820/60, com nova redação dada pela Lei Federal nº 9.120/95;
+
+VIII - deliberar sobre as penalidades de sua competência previstas em lei, bem como a sua aplicação;
+
+IX - deliberar sobre pedidos de inscrição;
+
+X - deliberar sobre a aquisição de bens imóveis para o patrimônio do Conselho Regional de Farmácia, sobre sua alienação e doações permitidas em lei, quando o valor ultrapasse o limite da dispensa de licitação;
+
+XI - apreciar e julgar a proposta orçamentária do Conselho Regional de Farmácia e suas alterações, submetendo-as à aprovação do Conselho Federal de Farmácia;
+
+XII - apreciar e julgar os balancetes trimestrais, o relatório e a prestação de contas do Conselho Regional de Farmácia, mesmo nas excepcionais hipóteses de intempestividade, impossibilidade ou negativa de análise pela Comissão de Tomada de Contas, o que deverá ser expressamente justificado pelo gestor, submetendo-os posteriormente à análise do Conselho Federal de Farmácia;
+
+XIII - eleger, dentre seus próprios membros efetivos, a Comissão de Tomada de Contas composta por 3 (três) membros efetivos e 1 (um) suplente;
+
+XIV - apreciar e deliberar sobre o plano anual da fiscalização apresentado pela Diretoria;
+
+XV - suscitar ao Conselho Federal de Farmácia que delibere sobre casos de conflito de atribuições com outro Conselho Regional, em relação às suas atividades de registro e fiscalização, no âmbito dos seus limites territoriais;
+
+XVI - deliberar sobre conflito de competência, suspeição ou impedimento entre relatores;
+
+XVII - decidir sobre assunto não incluído expressamente na competência das câmaras técnicas especializadas;
+
+XVIII - sugerir propostas relativas a projetos de lei ou providências para aprimoramento da profissão farmacêutica ou atualização de suas normas, remetendo-as ao Conselho Federal de Farmácia;
+
+XIX - decidir sobre viagens e gastos de Diretores, Conselheiros, Colaboradores ou empregados ao exterior, desde que representando a autarquia, respeitadas as disposições legais vigentes;
+
+XX - cassar ou afastar temporariamente das funções, Conselheiros ou Diretores que não cumprirem este Regimento ou as Resoluções do Conselho Federal de Farmácia, observando-se o direito ao devido processo legal e amplo defesa, além do voto favorável de 2/3 dos membros do plenário;
+
+XXI - deliberar sobre processos submetidos pelo relator ou pelas câmaras técnicas especializadas.
+
+Parágrafo Único - As decisões do Plenário dar-se-ão sob a forma de deliberações a serem editadas no prazo máximo de 15 (quinze) dias da aprovação de cada ato, na forma estabelecida pela Resolução nº 90/70 ou outra que a substituir, devendo ser publicadas no átrio do Conselho Regional de Farmácia, no seu sítio eletrônico e, quando necessário ou exigido por lei, no Diário Oficial da União ou no Órgão de Imprensa Oficial no âmbito da jurisdição do Conselho Regional de Farmácia.
+
+DO EXERCÍCIO E DA PERDA DO MANDATO
+
+**Art. 10** - Os mandatos serão exercidos por brasileiros e serão gratuitos, meramente honoríficos, reconhecidos como serviços relevantes à profissão, cujo título deverá ser entregue ao final do mandato.
+
+**Parágrafo único** - É vedado ao Conselheiro Regional exercer simultaneamente a função de Conselheiro Federal, devendo expressamente optar, mediante protocolo oficial, por um dos cargos, não caracterizando tal ato em renúncia ou inelegibilidade, sendo, porém, defeso o retorno ao mandato da função preterida.
+
+**Art. 11** - Cada Conselheiro Efetivo tem direito a um voto nas deliberações do Plenário, exceto o Presidente da sessão, que apenas se manifestará no caso de empate.
+
+**Parágrafo único** - Os membros da Diretoria não votarão na análise e julgamento da sua prestação de contas.
+
+**Art. 12** - O Conselheiro Efetivo deverá ser convocado para as reuniões plenárias, devendo notificar o seu eventual não comparecimento com antecedência mínima de 72 (setenta e duas) horas e, não se justificando no referido prazo, será considerada ausência, devendo-se convocar imediatamente o respectivo suplente.
+
+**§ 1º** - Na hipótese de impedimento temporário do Efetivo, deverá ser convocado o Suplente do mandato respectivo ou outro sucessivamente no caso de impedimento deste, o qual terá direito ao voto e plena participação nas reuniões plenárias.
+
+**§ 2º** - No caso de vacância de Conselheiro Efetivo será convocado o Suplente do respectivo mandato, que o sucederá até o final do mandato.
+
+**§ 3º** - Os Conselheiros Suplentes deverão ser cientificados acerca da realização das Plenárias e, estando presentes na sessão plenária, ocorrendo a ausência de Conselheiro Efetivo em inobservância ao prazo do caput deste artigo, obrigatoriamente, será convocado para compor o Plenário.
+
+**Art. 13** - Na falta de suplentes para preencher as vacâncias, o Plenário funcionará com os membros restantes e, no caso do quórum vir a ser igual ou inferior a 2/3 (dois terços) dos Conselheiros, o Presidente do Conselho Regional convocará novas eleições para a recomposição do plenário, exceto se faltar menos de 12 (doze) meses para encerramento dos respectivos mandatos.
+
+**Art. 14** - O Conselheiro Efetivo ou Suplente que, durante o seu mandato, faltar a 3 (três) reuniões plenárias consecutivas para as quais foi convocado, perderá o seu mandato, sendo substituído pelo suplente do respectivo mandato, que será efetivado e sujeito às mesmas obrigações e deveres.
+
+Parágrafo Único - As justificativas de faltas devem ser comprovadas para não se enquadrarem na disposição deste artigo, na qual ocorrerá a avaliação e julgamento da plenária, sob pena de preclusão.
+
+**Art. 15** - O Presidente do Conselho Regional de Farmácia convidará o Conselheiro Federal Efetivo e o Suplente para participar das reuniões plenárias, cujas presenças serão facultativas.
+
+**Art. 16** - São atribuições dos Conselheiros Regionais:
+
+I - comparecer às reuniões plenárias, participar dos debates e decidir sobre assuntos pertinentes ao Plenário;
+
+II - relatar os processos que lhes forem distribuídos;
+
+III - exercer as funções para as quais forem designados;
+
+IV - propor deliberações ao Plenário inerentes ao exercício da profissão farmacêutica, respeitada a hierarquia das resoluções do Conselho Federal de Farmácia;
+
+V - analisar e deliberar sobre as atas das reuniões plenárias, submetendo o ato para homologação na respectiva ou subseqüente sessão.
+
+**Parágrafo único** - Nos casos de suspeição ou impedimento em razão de interesse pessoal ou que comprometa a imparcialidade do julgamento, o Conselheiro deverá se abster ou solicitar a redistribuição do feito, se for designado Relator, sob pena de prevaricação e aplicação das demais cominações legais.
+
+DAS REUNIÕES
+
+**Art. 17** - As Reuniões Plenárias, que serão ordinárias ou extraordinárias, reger-se-ão por regulamento próprio, observadas os princípios e as regras definidas nesta resolução.
+
+**§ 1º** - As Reuniões Plenárias serão abertas à participação de qualquer farmacêutico interessado, assegurado o direito de voz desde que em assunto pertinente ao debatido ou em pauta, vedado quando se tratar de apreciação de matéria ético-disciplinar.
+
+**§ 2º** - O Conselho Regional de Farmácia poderá convidar representante de entidades a que se vinculem, farmacêutico ou não, para tratar de matéria relativa aos seus interesses ou de seus inscritos.
+
+**§ 3º** - O Conselho Regional de Farmácia poderá conceder ressarcimento de despesas, conforme resolução sobre a matéria, aos que comparecerem às reuniões plenárias, quando convocados para fins específicos.
+
+**§ 4º** - O Conselho Regional de Farmácia poderá proceder ao pagamento de gratificação de presença aos Conselheiros, desde que tal procedimento seja autorizado por lei e regulamentado em deliberação específica e homologada pelo Conselho Federal de Farmácia através de Acórdão publicado em Diário Oficial.
+
+**§ 5º** - As pautas e as datas de realização das reuniões plenárias deverão ser divulgadas previamente no átrio do Conselho Regional de Farmácia e em seu sítio eletrônico.
+
+**Art. 18** - O Plenário reunir-se-á ordinariamente:
+
+I - até duas vezes por mês, para tratar de assuntos de rotina;
+
+II - trimestralmente, para aprovar o balancete do trimestre anterior;
+
+III - nos prazos de lei, para apreciar e julgar a proposta orçamentária para o exercício seguinte e suas alterações, o relatório de gestão bianual e a prestação de contas da Diretoria relativa ao exercício anterior;
+
+IV - para dar posse aos Conselheiros eleitos, aos membros da Diretoria com mandato a partir do primeiro dia do ano civil seguinte, conforme regulamento eleitoral vigente.
+
+Parágrafo Único - A convocação do plenário deverá ser feita pelo Presidente ou substituto regimental e, na omissão, mediante solicitação escrita de, pelo menos, 1/3 (um terço) dos Conselheiros Efetivos, observando-se que:
+
+a) a convocação indicará a data, hora e local da reunião, sua natureza e a pauta dos trabalhos;
+
+b) a convocação deverá ser feita até 8 (oito) dias antes, por meio físico ou eletrônico.
+
+**Art. 19** - O Plenário reunir-se-á extraordinariamente, sempre que necessário.
+
+Parágrafo Único - A convocação do plenário poderá ser feita pelo Presidente ou seu substituto regimental, ou ainda, mediante solicitação escrita de, pelo menos, 1/3 (um terço) dos Conselheiros Efetivos, observando-se que:
+
+I - a convocação indicará a data, hora e local da reunião, sua natureza e a pauta dos trabalhos, com justificativa expressa de sua necessidade;
+
+II - em caso de urgência, a convocação far-se-á por meio eletrônico, com remessa até 48 (quarenta e oito) horas antes da reunião extraordinária.
+
+**Art. 20** - As atas das reuniões plenárias serão gravadas em áudio e/ou vídeo, transcritas ou digitadas e assinadas pelo Presidente, pelo Secretário Geral e os demais Conselheiros presentes, ao final da sessão ou na subseqüente, enviando-se trimestralmente suas cópias ao Conselho Federal de Farmácia e o seu extrato, disponibilizado no sítio eletrônico do Conselho Regional de Farmácia, exceto quando se tratar de processos ético-disciplinares ou sob sigilo definido em lei.
+
+**Art. 21** - As Reuniões Plenárias somente serão instaladas com a presença de, no mínimo, metade mais um de seus membros efetivos, dentre os quais, pelo menos 2 (dois) membros da Diretoria.
+
+**Art. 22** - As decisões consideram-se aprovadas por maioria simples dos presentes.
+
+**Parágrafo único** - Sem prejuízo de quórum qualificado exigido em dispositivo de lei ou resoluções do Conselho Federal de Farmácia, fica estabelecida a exigência do voto de, no mínimo, 2/3 (dois terços) do número de Conselheiros Efetivos, para aprovação das matérias seguintes:
+
+I - sobre a suspensão do Presidente à deliberação do Plenário;
+
+II - a cassação ou o afastamento temporário de Diretor ou Conselheiro;
+
+III - sobre a aquisição e alienação de bens móveis e imóveis para o patrimônio do Conselho Regional de Farmácia.
+
+DAS CÂMARAS
+
+**Art. 23** - Cada Câmara Técnica Especializada nomeada pelo Presidente compõe-se de, no mínimo, 3 (três) Conselheiros, que a integrarão pelo prazo de 2 (dois) anos, podendo haver recondução de, no máximo, 2 (dois) de seus membros.
+
+**Art. 24** - O Conselheiro, ao ser empossado passa a integrar a câmara na qual exista vaga.
+
+**Art. 25** - Compete às Câmaras Técnicas Especializadas deliberarem sobre:
+
+I - processos administrativos fiscais;
+
+II - dentre seus pares, a eleição do Secretário-Geral da câmara técnica respectiva;
+
+III - encaminhar ao Plenário para homologação os processos administrativos que julgarem, mesmo quando a decisão for pela unanimidade de seus membros.
+
+**§ 1º** - Os assuntos de competência das câmaras, exceto os previstos nos incisos II e III, poderão merecer ressalva e serem incluídos na pauta do Plenário pelo relator ou por deliberação da câmara, sempre que a relevância da matéria recomende esse procedimento.
+
+**§ 2º** - Não poderão ser apreciados pelas câmaras os processos éticos ou que contenham propostas de fixação de entendimento sobre questão de direito em determinada matéria, de determinações em caráter normativo e de estudos de procedimentos técnicos.
+
+DA DIRETORIA
+
+**Art. 26** - A Diretoria, constituída de Presidente, Vice-Presidente, Secretário-Geral e Tesoureiro, é o Órgão colegiado executivo do Conselho Regional de Farmácia.
+
+**§ 1º** - No caso de vaga nos cargos de Diretoria a mesma funcionará com os membros restantes até a metade mais um do número total de Diretores.
+
+**§ 2º** - No caso de se atingir metade do número de Diretores será convocada novas eleições, salvo de faltar menos de 12 (doze) meses para findar o mandato, cabendo ao Presidente do Conselho Federal de Farmácia, em qualquer caso, nomear Junta Diretiva Provisória, recompondo os membros faltantes preferencialmente dentre os Conselheiros integrantes do Plenário do Conselho Regional de Farmácia, com mandato precário de até 180 (cento e oitenta) dias, podendo ser renovado uma vez.
+
+**§ 3º** - Após o pedido ser devidamente analisado e aprovado pelo Presidente do Conselho Federal de Farmácia, serão convocadas novas eleições para recomposição da Diretoria.
+
+**§ 4º** - Na hipótese de licenciamento ou afastamento temporário de membro resultar na metade do número de Diretores, o Presidente do Conselho Federal de Farmácia nomeará Junta Diretiva Provisória, recompondo os membros faltantes preferencialmente dentre os Conselheiros integrantes do Conselho Regional de Farmácia, com mandato precário até o fim da respectiva licença ou afastamento temporário.
+
+DAS REUNIÕES
+
+**Art. 27** - A Diretoria reunir-se-á ordinariamente, no mínimo, 2 (duas) vezes e, no máximo, até 4 (quatro) vezes por mês e, extraordinariamente, por convocação escrita do Presidente ou de 2 (dois) Diretores, desde que devidamente justificada.
+
+**§ 1º** - As reuniões somente serão instaladas com a presença de, no mínimo, metade mais um do número de diretores.
+
+**§ 2º** - A Diretoria deliberará por maioria simples de votos, cabendo ao Presidente, no caso de empate, o voto de qualidade.
+
+**§ 3º** - As atas das reuniões da Diretoria serão transcritas ou digitadas e assinadas pelos presentes na reunião de sua aprovação, devendo ser enviada, trimestralmente, cópia ao Conselho Federal de Farmácia.
+
+**§ 4º** - A convocação para reunião ordinária deverá ser feita até 8 (oito) dias antes, por meio físico ou eletrônico.
+
+**§ 5º** - A convocação para reunião extraordinária deverá ser feita até 48 (quarenta e oito) horas antes, por meio físico ou eletrônico.
+
+**Art. 28** - As licenças deverão ser formalizadas por escrito, com justificativa e prazo definido, com conhecimento aos demais Diretores, ao Plenário, e ainda ao Conselho Federal de Farmácia para as respectivas ciências e, se necessário, adoção de providências.
+
+Parágrafo Único - O disposto no caput não desobriga o Diretor de também justificar suas ausências nas reuniões plenárias.
+
+**Art. 29** - O diretor que, regularmente convocado, faltar durante o seu mandato a 3 (três) reuniões ordinárias de Diretoria, sem comprovada justificativa por escrito, perderá o respectivo mandato mediante decisão do Plenário, sujeita à aprovação de 2/3 (dois terços) dos seus membros efetivos, observando-se o devido processo legal e a ampla defesa.
+
+DAS ATRIBUIÇÕES
+
+**Art. 30** - São atribuições da Diretoria:
+
+I - promover os atos de administração e gestão do Conselho Regional de Farmácia;
+
+II - cumprir e fazer cumprir as decisões do Plenário;
+
+III - assinar as atas de suas reuniões;
+
+IV - nomear membros das Comissões Assessoras, escolhidos dentre os farmacêuticos inscritos no Conselho Regional de Farmácia, integrantes ou não do Plenário, exceto os da Comissão de Tomada de Contas;
+
+V - indicar o supervisor farmacêutico fiscal do setor de fiscalização, quando se fizer necessário;
+
+VI - admitir e dispensar o pessoal necessário ao serviço do Conselho Regional de Farmácia;
+
+VII - propor a criação de seccionais ou subsedes na área de jurisdição do Conselho Regional de Farmácia, bem como nomear os respectivos coordenadores regionais;
+
+VIII - apresentar ao Plenário do Conselho Regional de Farmácia para apreciação e julgamento, os processos relativos:
+
+a) à proposta orçamentária para o exercício seguinte e suas alterações durante o ano;
+
+b) aos balancetes trimestrais;
+
+c) ao relatório bianual de gestão;
+
+d) à prestação de suas contas, todas organizadas de acordo com os atos normativos ou recomendações do Conselho Federal de Farmácia, com observância dos padrões estabelecidos e dos prazos fixados;
+
+IX - analisar e encaminhar ao Plenário os pareceres e as decisões das Comissões;
+
+X - analisar e encaminhar ao Plenário o plano anual de fiscalização.
+
+**Art. 31** - Compete ao Presidente, além da responsabilidade administrativa do Conselho Regional de Farmácia e do contato permanente com o Conselho Federal de Farmácia:
+
+I - representar o Conselho Regional de Farmácia, adotando providências compatíveis com as suas atribuições e os interesses da profissão, podendo designar profissionais ou servidores para atuar junto a Órgãos ou autoridades públicas ou particulares, para solução de casos específica ressalvada a hierarquia do Conselho Federal de Farmácia definida na Lei Federal nº 3.820/60;
+
+II - outorgar procurações para a defesa dos interesses do Conselho Regional de Farmácia junto aos Órgãos do Poder Judiciário;
+
+III - zelar pelas prerrogativas do Conselho Regional de Farmácia, nos termos da Lei Federal nº 3.820/60 e das Resoluções do Conselho Federal de Farmácia;
+
+IV - presidir as sessões plenárias e as reuniões da Diretoria;
+
+V - convocar reuniões ordinárias ou extraordinárias do Plenário;
+
+VI - resolver questões de ordem e requerimentos que lhes sejam formulados, sem prejuízo de reapreciação ao Plenário;
+
+VII - proferir voto de desempate em processo submetido ao Plenário;
+
+VIII - proceder a distribuição dos processos, mediante sorteio, designando relatores substitutos, se necessário;
+
+IX - despachar os processos e documentos urgentes e determinar a realização de inspeção na hipótese de afastamento legal do relator, quando não houver substituto;
+
+X - decidir "ad referendum" do Plenário quando configurada a hipótese de urgência ou perecimento de direito, submetendo tal decisão ao Plenário do Conselho Regional de Farmácia no prazo de 30 (trinta) dias;
+
+XI - promover os pedidos formulados de vista e de cópia de processo;
+
+XII - decidir, com base na legislação aplicável, sobre pedido de sustentação oral relativo a processo a ser submetido ao Plenário;
+
+XIII - expedir certidões requeridas;
+
+XIV - dar posse aos membros da Comissão de Tomada de Contas;
+
+XV - definir a composição das câmaras técnicas especializadas, as comissões permanentes, grupos técnicos de trabalhos, à exceção da tomada de contas;
+
+XVI - designar os assessores ou empregados para atuarem, em caráter permanente, junto às câmaras ou comissões do conselho;
+
+XVII - nomear empregados, efetivos ou não, para desempenho de funções comissionadas do quadro de pessoal do Conselho Regional de Farmácia;
+
+XVIII - administrar os recursos humanos, materiais, tecnológicos, orçamentários e financeiros do Conselho Regional de Farmácia;
+
+XIX - remeter ao órgão competente, no prazo previsto, a proposta orçamentária para o exercício seguinte, aprovada pelo Plenário do Conselho Regional de Farmácia;
+
+XX - assinar acordos e convênios de cooperação;
+
+XXI - mandar instaurar inquéritos, sindicâncias ou processos administrativos;
+
+XXII - admitir, demitir e punir os empregados efetivos e funções de livre nomeação e exoneração do Conselho Regional de Farmácia, com aprovação da Diretoria;
+
+XXIII - assinar, juntamente com o Tesoureiro, todos os documentos contábeis que envolvam direitos ou obrigações do Conselho Regional de Farmácia;
+
+XXIV - assinar quaisquer documentos, inclusive procurações, cujo objetivo não seja abrangido pelo disposto no inciso anterior e, juntamente com o Secretário-Geral, as atas das reuniões Plenárias e de diretoria dos Conselhos Regionais de Farmácia;
+
+XXV - assinar a correspondência que, pela natureza, deva ser subscrita pelo Presidente;
+
+XXVI - dar ciência ao Plenário dos expedientes de interesse geral e do segmento profissional farmacêutico;
+
+XXVII - cumprir e fazer cumprir as deliberações do Plenário;
+
+XXVIII - dar conhecimento e cumprimento às resoluções do Conselho Federal de Farmácia, firmando os atos de sua execução;
+
+XXIX - assinar as deliberações do plenário e promover sua publicação no átrio e no sítio eletrônico do Conselho Regional de Farmácia e, quando necessário, na Imprensa Oficial;
+
+XXX - suspender as decisões do Plenário no prazo de 15 (quinze) dias a contar a partir do primeiro dia útil da realização da reunião, convocando-o no prazo de 30 (trinta) dias para deliberação;
+
+XXXI - recorrer, com efeito suspensivo ao Conselho Federal de Farmácia, contra a decisão do Plenário que rejeitar a suspensão;
+
+XXXII - proceder, nos termos das normativas em vigor, a remessa ao Conselho Federal de Farmácia, da receita prevista no artigo 26 da Lei Federal nº 3.820/60.
+
+**Art. 32** - Compete ao Vice-Presidente:
+
+I - substituir o Presidente nos seus impedimentos e ausências ocasionais, por motivo de cassação, licença, férias ou afastamento legal, e sucedê-lo no restante do mandato, no caso de vacância;
+
+II - executar as atribuições que lhe forem deferidas pelo Plenário ou pela Diretoria;
+
+III - supervisionar as ações de fiscalização do exercício profissional.
+
+**Art. 33** - Compete ao Secretário-Geral, além da gestão dos serviços administrativos internos:
+
+I - substituir o Vice-Presidente ou o Tesoureiro, nos seus impedimentos e ausências ocasionais;
+
+II - responder pelo expediente do Conselho Regional de Farmácia;
+
+III - secretariar as reuniões plenárias e as da diretoria, elaborando seus atos preparatórios, suas atas e decisões, providenciando os encaminhamentos devidos e a respectiva publicação, quando for o caso;
+
+IV - solicitar ao Presidente os atos de nomeação do pessoal necessário aos serviços da secretaria;
+
+V - organizar o cadastro dos profissionais inscritos no Conselho, bem como das empresas, mantendo-o atualizado e remetendo-o ao Conselho Federal de Farmácia;
+
+VI - executar outras atribuições que lhe forem deferidas pelo Plenário ou pela Diretoria.
+
+**Art. 34** - Compete ao Tesoureiro, além da gestão financeira do Conselho Regional de Farmácia, em obediência às normas de Contabilidade Pública:
+
+I - fiscalizar a arrecadação da receita e a realização da despesa, além de preparar o orçamento anual e elaborar as contas do exercício;
+
+II - assinar, juntamente com o Presidente, todos os documentos de conteúdo econômico que importem em responsabilidade para o Conselho Regional de Farmácia, ou desonerem terceiros de obrigação financeira para com ele, inclusive cheques, contratos, títulos e quaisquer outros papéis, bem como a correspondência relativa ao setor;
+
+III - conferir a demonstração mensal das rendas recebidas pelo Conselho Regional de Farmácia;
+
+IV - examinar os processos de prestação de contas do Conselho Regional de Farmácia, para atendimento das disposições em vigor;
+
+V - solicitar ao Presidente os atos de nomeação do pessoal necessário à execução dos serviços da Tesouraria;
+
+VI - substituir o Secretário-Geral nos seus impedimentos e ausências ocasionais;
+
+VII - executar as atribuições que lhe forem outorgadas pela diretoria.
+
+DAS COMISSÕES
+
+**Art. 35** - As comissões que colaboram no desempenho das atribuições do Conselho Regional de Farmácia são permanentes ou grupos técnicos de trabalhos.
+
+**Art. 36** - O Conselho Regional de Farmácia terá 3 (três) Comissões Permanentes, a saber:
+
+I - Comissão de Tomada de Contas, constituída de 3 (três) membros efetivos e, pelo menos, 1 (um) suplente, todos Conselheiros Efetivos sem cargo na Diretoria, eleitos pelo Plenário para fiscalizar, examinar e emitir parecer sobre as contas do respectivo exercício para o qual foram eleitos, cabendo aos integrantes a escolha do seu Presidente;
+
+II - Comissão de Ética Profissional, constituída cada uma de 3 (três) farmacêuticos inscritos no Conselho Regional de Farmácia, sem cargo na diretoria, sem mandato de Conselheiro ou tampouco ser empregado do Órgão, nomeada pela Diretoria e homologada pelo Plenário do Conselho Regional de Farmácia, encarregada de dar andamento e emitir parecer em processos referentes à ética e à disciplina dos que exercem atividades profissionais farmacêuticas na área de sua jurisdição, cabendo aos integrantes a escolha do seu Presidente;
+
+III - Comissão de Assistência Profissional, constituída por um Conselheiro, que a presidirá, e por 3 (três) farmacêuticos inscritos no Conselho Regional de Farmácia, encarregada de estudar e conceder o auxílio a profissionais farmacêuticos necessitados, quando enfermos ou inválidos, inclusive por velhice, de acordo com o § 1º, do artigo 27, da Lei Federal nº 3.820/60.
+
+**§ 1º** - A eleição da Comissão de Tomada de Contas será realizada por escrutínio secreto na primeira Reunião Plenária após o início do mandato da Diretoria, obrigando-se a analisar todas as contas referentes ao respectivo mandato.
+
+**§ 2º** - Na hipótese de ausência do número mínimo de membros para composição da Comissão de Tomada de Contas ou a sua não análise no prazo devido, seja por esta ou pelo Plenário, após a devida certificação, a prestação de contas deverá ser enviada ao Conselho Federal de Farmácia para análise e avaliação.
+
+**§ 3º** - Serão criadas tantas Comissões de Ética Profissional quantas forem necessárias na área de jurisdição do Conselho Regional de Farmácia.
+
+**§ 4º** - O mandato dos membros das Comissões Permanentes será coincidente ao da Diretoria.
+
+**Art. 37** - O Conselho Regional de Farmácia terá grupos técnicos de trabalhos de caráter temporário, necessárias ao estudo e para opinar sobre assuntos profissionais que exijam conhecimentos técnicos específicos.
+
+Parágrafo Único - Cada grupos técnicos de trabalhos será constituída de, no mínimo, 3 (três) farmacêuticos inscritos no Conselho Regional de Farmácia, de reconhecida capacidade profissional na área a ser objeto de análise e estudo.
+
+DA ASSEMBLÉIA GERAL ELEITORAL
+
+**Art. 38** - A Assembléia Geral Eleitoral constitui-se dos farmacêuticos inscritos, reunindo-se ordinariamente no período e conforme as disposições previstas no Regulamento Eleitoral para os Conselhos Regionais de Farmácia, elaborado pelo Conselho Federal de Farmácia.
+
+DOS QUADROS E INSCRIÇÕES
+
+**Art. 39** - O exercício de atividades farmacêuticas será permitido somente aos inscritos nos quadros profissionais do Conselho Regional de Farmácia na área de sua jurisdição.
+
+**Art. 40** - As inscrições de pessoas físicas e jurídicas atenderão ao disposto na Lei Federal nº 3.820/60 e em resolução específica editada pelo Conselho Federal de Farmácia.
+
+DA CARTEIRA E DA CÉDULA PROFISSIONAL
+
+**Art. 41** - O Conselho Regional de Farmácia expedirá cédula e carteira de identidade profissional aos inscritos em seus quadros, conforme regramento disposto em resolução do Conselho Federal de Farmácia.
+
+DA RECEITA
+
+**Art. 42** - Os profissionais inscritos no Conselho Regional de Farmácia, bem como as empresas e os estabelecimentos registrados, ficam obrigados ao pagamento de anuidade, taxas, emolumentos, custos de serviços e expedição de documentos, cabendo ao Conselho Federal de Farmácia fixá-las nos termos da legislação vigente.
+
+**Art. 43** - O Conselho Regional de Farmácia não poderá dispensar o pagamento de anuidades, visto tratar-se de contribuição parafiscal, cuja isenção em razão do caráter tributário decorre de lei específica.
+
+**Art. 44** - Constitui renda do Conselho Regional de Farmácia:
+
+I - ¾ de expedição de carteira profissional;
+
+II - ¾ das anuidades das pessoas físicas e jurídicas;
+
+III - ¾ das multas aplicadas de acordo com a lei 3.820/60;
+
+IV - doações ou legados;
+
+V - subvenção dos governos ou dos órgãos autárquicos ou dos paraestatais;
+
+VI - ¾ da renda das certidões;
+
+VII - ¾ de qualquer receita oriunda dos Conselhos Regionais de Farmácia que tenha como objetivo conceder habilitação para o exercício farmacêutico seja para pessoa física ou para pessoa jurídica, excetuando-se a receita proveniente de cursos, aprimoramento profissional e congressos;
+
+VIII - ¾ de qualquer correção, juros e multa aplicados sobre as receitas constantes dos incisos II e III.
+
+IX - qualquer renda eventual.
+
+**§ 1º** - O Conselho Regional de Farmácia destinará 1/4 de sua renda líquida à formação de um fundo de assistência profissional que será aplicado de acordo com Regulamento próprio aprovado pelo Conselho Federal de Farmácia, consoante ao disposto no artigo 27, § 1º, da Lei Federal nº 3.820/60.
+
+**§ 2º** - Para os efeitos do disposto no parágrafo anterior, considera-se líquida a renda total, descontadas apenas as despesas de pessoal e de expediente.
+
+**Art. 45** - O Conselho Regional de Farmácia deverá remeter ao Conselho Federal de Farmácia, através de convênio bancário com cláusula de repasse automático, a receita prevista no artigo 26 da Lei Federal nº 3.820/60, nos termos das resoluções que regulamentam a matéria.
+
+DAS PENALIDADES E RECURSOS
+
+**Art. 46** - Cabe ao Conselho Regional de Farmácia, com exclusividade, a punição disciplinar dos profissionais faltosos, quando inscritos nos seus quadros, ao tempo do fato punível em que hajam incorrido.
+
+**Art. 47** - As penalidades disciplinares obedecerão ao disposto no Capítulo IV da Lei Federal nº 3.820/60 e serão processadas e julgadas de acordo com a normativa em vigor expedida pelo Conselho Federal de Farmácia.
+
+DAS DISPOSIÇÕES GERAIS
+
+**Art. 48** - A cobrança judicial das anuidades e multas inscritas na dívida ativa será promovida perante a Justiça Federal, mediante processo executivo fiscal, nos termos do artigo 35 da Lei Federal nº 3.820/60, observadas as regras da Lei Federal nº 12.514/11, sob pena de prevaricação e improbidade administrativa.
+
+**Art. 49** - O Conselho Regional de Farmácia, observadas as disposições da lei de licitações, poderá estabelecer convênios na área de sua jurisdição com Instituições Federais, Estaduais ou Municipais, especialmente as de Saúde Pública e Ensino Farmacêutico, bem como entidades sindicais e civis para aprimorar a fiscalização da disciplina e da ética dos que exercem atividades profissionais farmacêuticas, nos termos da Lei Federal nº 3.820/60, vedada sua utilização para qualquer outro mister e desde que em estrita observância às normas de contabilidade pública
+
+**Art. 50** - O Conselho Regional de Farmácia poderá distinguir o mérito do profissional farmacêutico, a critério do Plenário.
+
+**Art. 51** - O Conselho Regional de Farmácia não manterá com os órgãos da administração pública, qualquer vínculo funcional ou hierárquico.
+
+**Art. 52** - Os empregados do Conselho Regional de Farmácia serão regidos pela Consolidação das Leis do Trabalho ou, ainda, por expressa determinação legal ou outra norma que venha a substituí-la.
+
+**Art. 53** - A investidura nos quadros do Conselho Regional de Farmácia é por seleção ou concurso público de provas ou de provas e títulos, ressalvadas as nomeações para emprego/cargo em comissão de livre nomeação e exoneração, nos termos do artigo 37, inciso V, da Constituição Federal, cabendo à diretoria, mediante aprovação do Plenário, criar o plano de cargos e salários com os empregos do quadro efetivo, bem como as funções de livre nomeação e exoneração em ato próprio, estabelecendo sua estrutura administrativa e de pessoal.
+
+**§ 1º** - Ficam criadas, para atendimento exclusivo da Diretoria, até 8 (oito) empregos/cargos em comissão, ou até 20% (vinte por cento) do número total de empregados da entidade, de livre nomeação e exoneração, devendo possuir graduação superior em qualquer área, cabendo a nomeação ao Presidente do Conselho Regional de Farmácia.
+
+**§ 2º** - Os referidos empregos/cargos em comissão destinam-se apenas às atribuições de direção, chefia e assessoramento, justificando-se somente quando tal exercício exija especial fidúcia e responsabilidade de seu ocupante.
+
+**Art. 54** - Os empregos firmados pelo Conselho Regional de Farmácia até 18 de maio de 2001 integram o seu quadro efetivo, cabendo a Diretoria, quando da aprovação do plano de cargos e salários e a estrutura administrativa e de pessoal, preservar os respectivos contratos de trabalho.
+
+**Art. 55** - É vedado ao Conselho Regional de Farmácia promover aumento salarial nos 6 (seis) meses anteriores ao final do mandato da diretoria, exceto por determinação judicial.
+
+**Art. 56** - Aplicam-se imediatamente as regras desta resolução enquanto não homologado pelo Conselho Federal de Farmácia o regimento interno específico de cada Conselho Regional de Farmácia.
+
+**Art. 57** - Os casos omissos verificados neste regimento serão resolvidos pelo Conselho Federal de Farmácia.

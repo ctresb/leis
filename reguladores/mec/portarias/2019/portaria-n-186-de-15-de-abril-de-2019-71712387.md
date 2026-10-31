@@ -1,0 +1,34 @@
+---
+titulo: "PORTARIA Nº 186, DE 15 de abril de 2019"
+orgao: "Ministério da Educação/Secretaria de Regulação e Supervisão da Educação Superior"
+tipo: "Portaria"
+numero: "186"
+data: 2019-04-15
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 16/04/2019, seção 1, p. 64"
+data_publicacao: 2019-04-16
+edicao: "73"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-186-de-15-de-abril-de-2019-71712387"
+sha256_html_fonte: ab08f4a3ce7a279a29b0f55d95b94271bf6048ce0737ec7d0f1e0a915f14c337
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 186, DE 15 de abril de 2019
+
+PORTARIA Nº 186, DE 15 de abril de 2019
+
+O SECRETÁRIO DE REGULAÇÃO E SUPERVISÃO DA EDUCAÇÃO SUPERIOR, substituto, no uso da atribuição que lhe confere o Decreto n° 9.005, de 14 de março de 2017, e tendo em vista o Decreto n° 9.235, de 15 de dezembro de 2017, e as Portarias Normativas n° 20 e nº 23, de 21 de dezembro de 2017, do Ministério da Educação, e considerando o disposto nos processos e-MEC listados na planilha anexa, resolve:
+
+**Art. 1º** Ficam reconhecidos os cursos superiores de graduação constantes da tabela do Anexo desta Portaria, ministrados pelas Instituições de Educação Superior citadas, nos termos do disposto no art. 10, do Decreto nº 9.235/2017.
+
+**Parágrafo único.** O reconhecimento a que se refere esta Portaria é válido exclusivamente para o curso ministrado no endereço citado na tabela constante do Anexo desta Portaria.
+
+**Art. 2º** O reconhecimento a que se refere esta Portaria é válido até o ciclo avaliativo seguinte.
+
+**Art. 3º** Esta Portaria entra em vigor na data de sua publicação.
+
+MARCO AURELIO DE OLIVEIRA
+
+ANEXO (Reconhecimento de Cursos)
+
+<table><tr></tr><tr><td><p>Nº de Ordem</p></td><td><p>Registro e-MEC nº</p></td><td><p>Curso</p></td><td><p>Nº de vagas totais anuais</p></td><td><p>Mantida</p></td><td><p>Mantenedora</p></td><td><p>Endereço de funcionamento do curso</p></td></tr><tr><td><p>1</p></td><td><p>201609492</p></td><td><p>ARQUITETURA E URBANISMO (Bacharelado)</p></td><td><p>80 (oitenta)</p></td><td><p>CENTRO UNIVERSITÁRIO CATÓLICO SALESIANO AUXILIUM</p></td><td><p>MISSAO SALESIANA DE MATO GROSSO</p></td><td><p>RODOVIA SENADOR TEOTÔNIO VILELA, KM 8,5, , ALVORADA, ARAÇATUBA/SP</p></td></tr><tr><td><p>2</p></td><td><p>201709830</p></td><td><p>CIÊNCIAS BIOLÓGICAS (Licenciatura)</p></td><td><p>100 (cem)</p></td><td><p>Centro Universitário das Américas</p></td><td><p>SOCIEDADE EDUCACIONAL DAS AMERICAS LTDA</p></td><td><p>RUA AUGUSTA, 1520, 1508 A , CONSOLAÇÃO, SÃO PAULO/SP</p></td></tr><tr><td><p>3</p></td><td><p>201502237</p></td><td><p>ESTÉTICA E COSMÉTICA (Tecnológico)</p></td><td><p>290 (duzentas e noventa)</p></td><td><p>Centro Universitário FADERGS</p></td><td><p>FADERGS - FACULDADE DE DESENVOLVIMENTO DO RIO GRANDE DO SUL LTDA.</p></td><td><p>RUA LUIZ AFONSO, 84, , CIDADE BAIXA, PORTO ALEGRE/RS</p></td></tr><tr><td><p>4</p></td><td><p>201709768</p></td><td><p>NUTRIÇÃO (Bacharelado)</p></td><td><p>200 (duzentas)</p></td><td><p>Centro Universitário Fametro</p></td><td><p>EMPREENDIMENTO EDUCACIONAL MARACANAU LTDA.</p></td><td><p>RUA CONSELHEIRO ESTELITA, 500, , CENTRO, FORTALEZA/CE</p></td></tr><tr><td><p>5</p></td><td><p>201608318</p></td><td><p>ENFERMAGEM (Bacharelado)</p></td><td><p>150 (cento e cinquenta)</p></td><td><p>CENTRO UNIVERSITÁRIO JORGE AMADO</p></td><td><p>ASBEC - SOCIEDADE BAIANA DE EDUCACAO E CULTURA S/A</p></td><td><p>AV. MIGUEL CALMON, 42, CAMPUS COM?RCIO IV, COM?RCIO, SALVADOR/BA</p></td></tr><tr><td><p>6</p></td><td><p>201715564</p></td><td><p>JORNALISMO (Bacharelado)</p></td><td><p>30 (trinta)</p></td><td><p>CENTRO UNIVERSITÁRIO TABOSA DE ALMEIDA</p></td><td><p>ASSOCIACAO CARUARUENSE DE ENSINO SUPERIOR - ASCES</p></td><td><p>AVENIDA PORTUGAL, 584, UNIVERSITÁRIO, CARUARU/PE</p></td></tr><tr><td><p>7</p></td><td><p>201715040</p></td><td><p>ENGENHARIA ELÉTRICA (Bacharelado)</p></td><td><p>60 (sessenta)</p></td><td><p>Centro Universitário UNIFAFIBE</p></td><td><p>ASSOCIACAO DE EDUCACAO E CULTURA DO NORTE PAULISTA</p></td><td><p>RUA PROFESSOR ORLANDO FRANÇA DE CARVALHO, 110/325 / 326, , CENTRO, BEBEDOURO/SP</p></td></tr><tr><td><p>8</p></td><td><p>201710703</p></td><td><p>ENFERMAGEM (Bacharelado)</p></td><td><p>200 (duzentas)</p></td><td><p>FACITEN - FACULDADE DE CIÊNCIAS E TECNOLOGIAS DE NATAL</p></td><td><p>UNIPB - UNIAO DE ENSINO SUPERIOR DA PARAIBA LTDA - ME</p></td><td><p>RUA CORENEL ESTEVAM 1067 E 1415, 1067 E 1415, , ALECRIM, NATAL/RN</p></td></tr><tr><td><p>9</p></td><td><p>201714578</p></td><td><p>ADMINISTRAÇÃO (Bacharelado)</p></td><td><p>180 (cento e oitenta)</p></td><td><p>FACULDADE ANHANGUERA JARAGUÁ DO SUL</p></td><td><p>ANHANGUERA EDUCACIONAL PARTICIPACOES S/A</p></td><td><p>RUA MAJOR JÚLIO FERREIRA, S/N, VILA LALAU, JARAGUÁ DO SUL/SC</p></td></tr><tr><td><p>10</p></td><td><p>201709498</p></td><td><p>BIOMEDICINA (Bacharelado)</p></td><td><p>100 (cem)</p></td><td><p>FACULDADE CNEC RIO DAS OSTRAS</p></td><td><p>CAMPANHA NACIONAL DE ESCOLAS DA COMUNIDADE</p></td><td><p>RUA RENASCER DA TERCEIRA IDADE, S/N, , JARDIM CAMPOMAR, RIO DAS OSTRAS/RJ</p></td></tr><tr><td><p>11</p></td><td><p>201714052</p></td><td><p>ADMINISTRAÇÃO (Bacharelado)</p></td><td><p>100 (cem)</p></td><td><p>FACULDADE DE CIÊNCIAS E TECNOLOGIAS DE CAMPOS GERAIS</p></td><td><p>CENTRO EDUCACIONAL DYLLA LTDA</p></td><td><p>RUA SANTA TEREZINHA, 389, CASA, CENTRO, CAMPOS GERAIS/MG</p></td></tr><tr><td><p>12</p></td><td><p>201708602</p></td><td><p>ENGENHARIA MECATRÔNICA (Bacharelado)</p></td><td><p>100 (cem)</p></td><td><p>FACULDADE DO NOROESTE DE MINAS</p></td><td><p>INSTITUTO TECSOMA LTDA - ITEC</p></td><td><p>RODOVIA MG 188, KM 167. FAZENDINHA. CAIXA POSTAL., S/N, FAZENDINHA, PARACATU/MG</p></td></tr><tr><td><p>13</p></td><td><p>201709647</p></td><td><p>GESTÃO DA TECNOLOGIA DA INFORMAÇÃO (Tecnológico)</p></td><td><p>100 (cem)</p></td><td><p>Faculdade Integral Diferencial Wyden</p></td><td><p>ADTALEM EDUCACIONAL DO BRASIL S/A</p></td><td><p>RUA VETERINÁRIO BUGYJA BRITO, 1354, , HORTO FLORESTAL, TERESINA/PI</p></td></tr><tr><td><p>14</p></td><td><p>201709094</p></td><td><p>ENFERMAGEM (Bacharelado)</p></td><td><p>100 (cem)</p></td><td><p>FACULDADE IRECÊ</p></td><td><p>FACULDADE IRECE</p></td><td><p>RUA RIO IGUAÇÚ, 397, , RECANTO DAS ÁRVORES, IRECÊ/BA</p></td></tr><tr><td><p>15</p></td><td><p>201709472</p></td><td><p>MEDICINA (Bacharelado)</p></td><td><p>200 (duzentas)</p></td><td><p>FACULDADE SÃO LEOPOLDO MANDIC</p></td><td><p>SOCIEDADE REGIONAL DE ENSINO E SAUDE S/S LTDA</p></td><td><p>RUA ABOLIÇÃO, 1827, , SWIFT, CAMPINAS/SP</p></td></tr><tr><td><p>16</p></td><td><p>201405394</p></td><td><p>CIÊNCIAS NATURAIS (Licenciatura)</p></td><td><p>90 (noventa)</p></td><td><p>UNIVERSIDADE FEDERAL FLUMINENSE</p></td><td><p>UNIVERSIDADE FEDERAL FLUMINENSE</p></td><td><p>RUA JOÃO JAZBIK, S/N, , AEROPORTO, SANTO ANTÔNIO DE PÁDUA/RJ</p></td></tr></table>

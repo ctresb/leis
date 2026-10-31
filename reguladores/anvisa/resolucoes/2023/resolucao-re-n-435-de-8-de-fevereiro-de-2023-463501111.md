@@ -1,0 +1,158 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 435, DE 8 DE FEVEREIRO DE 2023"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/3ª Diretoria/Gerência de Produtos de Higiene, Perfumes, Cosméticos e Saneantes"
+tipo: "Resolução"
+numero: "435"
+data: 2023-02-08
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 09/02/2023, seção 1, p. 221"
+data_publicacao: 2023-02-09
+edicao: "29"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-435-de-8-de-fevereiro-de-2023-463501111"
+sha256_html_fonte: 2e0a1ffaffd261b9b8f4a5c805df409a7836c6d9c3d7ecf95da8409689f324ab
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE Nº 435, DE 8 DE FEVEREIRO DE 2023
+
+RESOLUÇÃO-RE Nº 435, DE 8 DE FEVEREIRO DE 2023
+
+O Gerente substituto de Produtos de Higiene, Cosméticos, Perfumes e Saneantes, no uso das atribuições que lhe confere o art. 129, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art.1º** Cancelar os processos dos produtos de higiene pessoal, cosméticos e perfumes, conforme relação anexa.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+HENRIQUE BUENO KUSSAMA
+
+## ANEXO
+
+NOME DA EMPRESA/ AUTORIZAÇÃO
+
+NOME DO PRODUTO E MARCA
+
+NUMERO DE PROCESSO
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+ARTE NATIVA PRODUTOS NATURAIS LTDA/2.04396-1
+
+CETOCONAZOL SHAMPOO ANTICASPA
+
+25351.305359/2018-59
+
+--------------------------
+
+INDÚSTRIA DE COSMÉTICOS ZARA LTDA/4.01003-1
+
+POMADA INCOLOR LOFFE COSMETICOS PROFISSIONAIS
+
+25351.348313/2022-19
+
+POMADA EFEITO TEIA LOFFE COSMETICOS PROFISSIONAIS
+
+25351.348521/2022-18
+
+POMADA INCOLOR W BEUTY
+
+25351.619002/2022-31
+
+--------------------------
+
+INOVATIVA COSMETICOS INDUSTRIA E COMERCIO LTDA/2.06570-4
+
+POMADA ANTI-FRIZZ ANNA TELLES
+
+25351.568637/2022-63
+
+--------------------------
+
+JOTA & ENE INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA/2.03369-2
+
+POMADA MODELADORA KIDS MOLIM - DOM HÉLIO BARBEARIA
+
+25351.630507/2021-76
+
+--------------------------
+
+JULIANA KELLER MORALES 31111885826/4.00164-1
+
+POMADA MODELADORA FEMININA AMEI COSMÉTICOS EFEITO SECO
+
+25351.251948/2022-96
+
+--------------------------
+
+KAORI INDUSTRIA DE COSMETICOS LTDA/2.09914-2
+
+POMADA MODELADORA INCOLOR LUSTY
+
+25351.549434/2022-78
+
+POMADA MODELADORA MF BARBER
+
+25351.549439/2022-09
+
+POMADA MODELADORA MF BARBER
+
+25351.549440/2022-25
+
+POMADA MODELADORA MATTE LUSTY
+
+25351.549454/2022-49
+
+ESPONJA HAIR - POMADA PARA TRANÇAS
+
+25351.730829/2021-14
+
+--------------------------
+
+L`AROMATIC INDUSTRIA E COMERCIO LTDA/2.07009-4
+
+POMADA CAPILAR TEIA - GALLO MAN
+
+25351.094037/2022-55
+
+--------------------------
+
+MBS HEALTH COMERCIO DE PRODUTOS COSMETICOS E CORRELATOS LTDA/4.02263-5
+
+TOSKANI PHOSPHOCOL
+
+25351.455246/2021-07
+
+--------------------------
+
+NATU´S MINAS PRODUTOS NATURAIS E APÍCOLAS LTDA ME/2.08608-0
+
+PRÓPOLIS SEM ÁLCOOL
+
+25351.553322/2017-28
+
+--------------------------
+
+VENEZA - INDUSTRIA E COMERCIO DE COSMETICOS LTDA /2.02745-
+
+SÉRUM CBA JARDIM EXÓTICO
+
+25351.883839/2021-51
+
+CREME RELAXANTE NOTURNO CBA JARDIM EXÓTICO
+
+25351.883847/2021-06
+
+--------------------------
+
+VISUAL + MAIS IND COM DE CERAS DEPILATORIAS EIRELLI - ME/2.05408-0
+
+POMADA RAVV MODELADORA EXTRA FORTE BLACK
+
+25351.283209/2019-68
+
+POMADA RAVV MODELADORA EXTRA FORTE
+
+25351.283167/2019-65
+
+POMADA RAVV MODELADORA EXTRA FORTE MATTE
+
+25351.283177/2019-09

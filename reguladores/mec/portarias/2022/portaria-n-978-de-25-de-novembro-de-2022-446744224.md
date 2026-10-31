@@ -1,0 +1,30 @@
+---
+titulo: "PORTARIA Nº 978, DE 25 DE NOVEMBRO DE 2022"
+orgao: "Ministério da Educação/Secretaria de Regulação e Supervisão da Educação Superior"
+tipo: "Portaria"
+numero: "978"
+data: 2022-11-25
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 29/11/2022, seção 1, p. 27"
+data_publicacao: 2022-11-29
+edicao: "224"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-978-de-25-de-novembro-de-2022-446744224"
+sha256_html_fonte: 43761c5f662b8ec9d140eaa6a8bd19354d9d0bdee743af0fb27b0abcfc0a7a6a
+baixado_em: 2026-10-20
+---
+# PORTARIA Nº 978, DE 25 DE NOVEMBRO DE 2022
+
+PORTARIA Nº 978, DE 25 DE NOVEMBRO DE 2022
+
+A SECRETÁRIA DE REGULAÇÃO E SUPERVISÃO DA EDUCAÇÃO SUPERIOR, no uso da atribuição que lhe confere o Decreto nº 10.195, de 30 de dezembro de 2019, e tendo em vista os Decretos nº 9.235, de 15 de dezembro de 2017, e nº 9.057, de 25 de maio de 2017, as Portarias Normativas MEC nº 20 e 23, de 21 de dezembro de 2017, e nº 11, de 22 de junho de 2017, e conforme consta dos processos e-MEC listados na planilha anexa, resolve:
+
+**Art. 1º** Ficam indeferidos os pedidos de autorização de cursos superiores na modalidade a distância, relacionados no Anexo desta Portaria, conforme disposto nos arts. 10 e 44 do Decreto nº 9.235, de 15 de dezembro de 2017.
+
+**Art. 2º** Esta portaria entra em vigor na data de sua publicação.
+
+DIANA GUIMARÃES AZIN
+
+ANEXO (Autorização de Cursos EaD)
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>Nº de Ordem</p></td>      <td rowspan="1" colspan="1"><p>Registro e-MEC nº</p></td>      <td rowspan="1" colspan="1"><p>Curso</p></td>      <td rowspan="1" colspan="1"><p>Nº de vagas totais anuais</p></td>      <td rowspan="1" colspan="1"><p>Mantida</p></td>      <td rowspan="1" colspan="1"><p>Mantenedora</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>201603602</p></td>      <td rowspan="1" colspan="1"><p>GESTÃO DA QUALIDADE (Tecnológico)</p></td>      <td rowspan="1" colspan="1"><p>500</p></td>      <td rowspan="1" colspan="1"><p>CENTRO UNIVERSITÁRIO DE TECNOLOGIA E NEGÓCIOS CARLOS DRUMMOND DE ANDRADE</p></td>      <td rowspan="1" colspan="1"><p>SOCIEDADE EDUCACIONAL SOIBRA S/S LTDA</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>2</p></td>      <td rowspan="1" colspan="1"><p>201907787</p></td>      <td rowspan="1" colspan="1"><p>CIÊNCIAS CONTÁBEIS (Bacharelado)</p></td>      <td rowspan="1" colspan="1"><p>500</p></td>      <td rowspan="1" colspan="1"><p>FACULDADE DA AMAZÔNIA LEGAL</p></td>      <td rowspan="1" colspan="1"><p>UNIETEC - UNIDADE DE ENSINO SUPERIOR, TECNOLOGICO E TECNICO PROFISSIONALIZANTE CAIVS IVLIVS CAESAR LTDA</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>3</p></td>      <td rowspan="1" colspan="1"><p>201907789</p></td>      <td rowspan="1" colspan="1"><p>SEGURANÇA PÚBLICA (Tecnológico)</p></td>      <td rowspan="1" colspan="1"><p>500</p></td>      <td rowspan="1" colspan="1"><p>FACULDADE DA AMAZÔNIA LEGAL</p></td>      <td rowspan="1" colspan="1"><p>UNIETEC - UNIDADE DE ENSINO SUPERIOR, TECNOLOGICO E TECNICO PROFISSIONALIZANTE CAIVS IVLIVS CAESAR LTDA</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>4</p></td>      <td rowspan="1" colspan="1"><p>201906742</p></td>      <td rowspan="1" colspan="1"><p>GESTÃO DE RECURSOS HUMANOS (Tecnológico)</p></td>      <td rowspan="1" colspan="1"><p>100</p></td>      <td rowspan="1" colspan="1"><p>FACULDADE DE CIÊNCIAS SOCIAIS APLICADAS</p></td>      <td rowspan="1" colspan="1"><p>CENTRO DE ENSINO SUPERIOR DO EXTREMO SUL DA BAHIA LTDA</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>5</p></td>      <td rowspan="1" colspan="1"><p>201905740</p></td>      <td rowspan="1" colspan="1"><p>EDUCAÇÃO FÍSICA (Bacharelado)</p></td>      <td rowspan="1" colspan="1"><p>3000</p></td>      <td rowspan="1" colspan="1"><p>FACULDADE EXATA EDUCACIONAL</p></td>      <td rowspan="1" colspan="1"><p>FACULDADE EXATA EDUCACIONAL EIRELI</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>6</p></td>      <td rowspan="1" colspan="1"><p>201905736</p></td>      <td rowspan="1" colspan="1"><p>GESTÃO DE RECURSOS HUMANOS (Tecnológico)</p></td>      <td rowspan="1" colspan="1"><p>3000</p></td>      <td rowspan="1" colspan="1"><p>FACULDADE EXATA EDUCACIONAL</p></td>      <td rowspan="1" colspan="1"><p>FACULDADE EXATA EDUCACIONAL EIRELI</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>7</p></td>      <td rowspan="1" colspan="1"><p>201905734</p></td>      <td rowspan="1" colspan="1"><p>PEDAGOGIA (Licenciatura)</p></td>      <td rowspan="1" colspan="1"><p>3000</p></td>      <td rowspan="1" colspan="1"><p>FACULDADE EXATA EDUCACIONAL</p></td>      <td rowspan="1" colspan="1"><p>FACULDADE EXATA EDUCACIONAL EIRELI</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>8</p></td>      <td rowspan="1" colspan="1"><p>201715054</p></td>      <td rowspan="1" colspan="1"><p>EDUCAÇÃO FÍSICA (Licenciatura)</p></td>      <td rowspan="1" colspan="1"><p>120</p></td>      <td rowspan="1" colspan="1"><p>FACULDADE METROPOLITANA SÃO CARLOS BJI</p></td>      <td rowspan="1" colspan="1"><p>SOCIEDADE METROPOLITANA DE EDUCACAO, CULTURA E TECNOLOGIA SAO CARLOS S/S LTDA - ME</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>9</p></td>      <td rowspan="1" colspan="1"><p>201907661</p></td>      <td rowspan="1" colspan="1"><p>PEDAGOGIA (Licenciatura)</p></td>      <td rowspan="1" colspan="1"><p>1000</p></td>      <td rowspan="1" colspan="1"><p>FACULDADE NOVE DE JULHO DE BAURU</p></td>      <td rowspan="1" colspan="1"><p>ASSOCIACAO EDUCACIONAL NOVE DE JULHO</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>10</p></td>      <td rowspan="1" colspan="1"><p>202014598</p></td>      <td rowspan="1" colspan="1"><p>PROCESSOS GERENCIAIS (Tecnológico)</p></td>      <td rowspan="1" colspan="1"><p>400</p></td>      <td rowspan="1" colspan="1"><p>UNICORP FACULDADES</p></td>      <td rowspan="1" colspan="1"><p>CENTRO INTEGRADO DE EDUCACAO LTDA - ME</p></td>     </tr>     <tr></tr>    </tbody>   </table>

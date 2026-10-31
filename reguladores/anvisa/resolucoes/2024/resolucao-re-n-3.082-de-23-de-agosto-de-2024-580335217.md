@@ -1,0 +1,132 @@
+---
+titulo: "RESOLUÇÃO-RE nº 3.082, DE 23 DE AGOSTO DE 2024"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "3082"
+data: 2024-08-23
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 26/08/2024, seção 1, p. 132"
+data_publicacao: 2024-08-26
+edicao: "164"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.082-de-23-de-agosto-de-2024-580335217"
+sha256_html_fonte: a82f03a8d7c81d7e793a1c64e5dbf8d29bc1d16078196de50d7972173b94e5a6
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE nº 3.082, DE 23 DE AGOSTO DE 2024
+
+RESOLUÇÃO-RE nº 3.082, DE 23 DE AGOSTO DE 2024
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Conceder Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344 de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+PHARMA NUTRI LTDA / 71.820.708/0002-18
+
+25351.385496/2024-15 / 1316089
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 1068647248
+
+--------------------------------------
+
+TECNOLOGIA E EMPREENDEDORISMO DA SAUDE LTDA / 41.397.813/0001-44
+
+25351.384668/2024-25 / 1316061
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 1062756240
+
+--------------------------------------
+
+COMERCIAL LASA LTDA - EPP / 01.415.698/0001-79
+
+25351.372466/2024-31 / 1316092
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0959352244
+
+--------------------------------------
+
+megasuprimentos ltda / 23.066.393/0001-31
+
+25351.372473/2024-32 / 1316135
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0959381244
+
+--------------------------------------
+
+MAFRA MEDICAMENTOS LTDA / 53.427.997/0001-27
+
+25351.385514/2024-51 / 1316166
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 1068833246
+
+--------------------------------------
+
+VET CARE PHARMA LTDA / 49.147.328/0001-24
+
+25351.384905/2024-58 / 1316075
+
+MANIPULAR: INSUMOS FARMACÊUTICOS (VETERINÁRIOS)
+
+70899 - AE - CONCESSÃO - MANIPULAR INSUMOS FARMACÊUTICOS (VETERINÁRIOS) / 1065858248
+
+--------------------------------------
+
+5576 MEDIC PRODUTOS MEDICOS HOSPITALARES E COSMETICOS LTDA / 51.323.237/0001-44
+
+25351.372467/2024-85 / 1316118
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0959354247
+
+--------------------------------------
+
+LR silva coutinho ltda / 47.838.615/0001-55
+
+25351.379157/2024-91 / 1316152
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 1016866241
+
+--------------------------------------
+
+MILLENIUM COMERCIAL & LOGOP DO GMILL DISTRIBUICAO LTDA / 02.632.609/0010-08
+
+25351.372440/2024-92 / 1316058
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0959056246

@@ -1,0 +1,120 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.221, DE 13 DE NOVEMBRO DE 2019"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Segunda Diretoria/Gerência-Geral de Medicamentos e Produtos Biológicos"
+tipo: "Resolução"
+numero: "3221"
+data: 2019-11-13
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 18/11/2019, seção 1, p. 29"
+data_publicacao: 2019-11-18
+edicao: "222"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.221-de-13-de-novembro-de-2019-228144565"
+sha256_html_fonte: b05f48c7644e9970aa1c51416df2804d673ad4064b28fa39fe92d1d23700f1f2
+baixado_em: 2026-10-27
+---
+# RESOLUÇÃO-RE Nº 3.221, DE 13 DE NOVEMBRO DE 2019
+
+RESOLUÇÃO-RE Nº 3.221, DE 13 DE NOVEMBRO DE 2019
+
+O Gerente-Geral de Medicamentos e Produtos Biológicos, no uso das atribuições que lhe confere o art. 130, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º** Cancelar o registro sanitário de medicamentos e produtos biológicos, ou de apresentações, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+GUSTAVO MENDES LIMA SANTOS
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+PRINCIPIO(S) ATIVO(S)
+
+COMPLEMENTO DIFERENCIAL DA APRESENTAÇÃO
+
+----------------------------
+
+JANSSEN-CILAG FARMACÊUTICA LTDA 51780468000187
+
+CINARIZINA
+
+STUGERON 25992.019644/69 10/2019
+
+10084 MEDICAMENTO NOVO - CANCELAMENTO DE REGISTRO DA APRESENTAÇÃO - ANVISA 3091168/19-1
+
+1.1236.0002.003-2 36 Meses
+
+75 MG/ML SUS CT FR GOT VD TRANS X 15 ML
+
+1.1236.0002.006-2 60 Meses
+
+25 MG COM CT 3 BL AL PLAS TRANS X 30
+
+----------------------------
+
+LABORATÓRIO FARMACÊUTICO ELOFAR LTDA 83874628000143
+
+MALEATO DE BRONFENIRAMINA + CLORIDRATO DE FENILEFRINA
+
+BIALERGE 25992.003791/70 10/2019
+
+10080 SIMILARES - CANCELAMENTO DE REGISTRO DA APRESENTAÇÃO - ANVISA 3061657/19-3
+
+1.0385.0005.001-8 24 Meses
+
+4 MG + 5 MG COM CT ENV PAPEL KRAFT E POLIET 25 X 4
+
+1.0385.0005.002-6 24 Meses
+
+4 MG + 5 MG COM CT ENV PAPEL KRAFT E POLIET 5 X 4
+
+1.0385.0005.004-2 24 Meses
+
+2 MG/ML + 2,5 MG/ML SOL OR CT FR PLAS OP GOT X 20 ML
+
+----------------------------
+
+NATULAB LABORATÓRIO S.A 02456955000183
+
+ASPARTATO DE ARGININA + ÁCIDO ASCÓRBICO
+
+STARFOR C 25351.748853/2008-11 04/2020
+
+1373 ESPECÍFICO - CANCELAMENTO DE REGISTRO DA APRESENTAÇÃO DO MEDICAMENTO 2292686/19-1
+
+1.3841.0041.007-9 18 Meses
+
+500MG+ 500MG COM EFEV CT STR AL X 08
+
+STARFORT C INFANTIL
+
+1.3841.0041.008-7 18 Meses
+
+500MG+ 500MG COM EFEV CT STR AL X 16
+
+STARFORT C INFANTIL
+
+----------------------------
+
+PHARMASCIENCE INDÚSTRIA FARMACÊUTICA EIRELI 25773037000183
+
+SULFATO FERROSO
+
+ANEMIFER 25000.001378/99-10 02/2020
+
+1373 ESPECÍFICO - CANCELAMENTO DE REGISTRO DA APRESENTAÇÃO DO MEDICAMENTO 0282969/18-0
+
+1.1717.0015.004-9 24 Meses
+
+60 MG DRG CT BL AL/PLAS TRANS X 50

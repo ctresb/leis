@@ -1,0 +1,132 @@
+---
+titulo: "RESOLUÇÃO RE Nº 1.031, DE 31 DE Março DE 2022"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos e Produtos Biológicos"
+tipo: "Resolução"
+numero: "1031"
+data: 2022-03-31
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 04/04/2022, seção 1, p. 173"
+data_publicacao: 2022-04-04
+edicao: "64"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.031-de-31-de-marco-de-2022-390384544"
+sha256_html_fonte: 376dcc5c53cfdbb507f666580b7aed9df7d27aa7cd3839a9179281de02a00c35
+baixado_em: 2026-10-20
+---
+# RESOLUÇÃO RE Nº 1.031, DE 31 DE Março DE 2022
+
+RESOLUÇÃO RE Nº 1.031, DE 31 DE Março DE 2022
+
+O Gerente-Geral de Medicamentos e Produtos Biológicos, no uso das atribuições que lhe confere o art. 100, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Deferir petições relacionadas à Gerência-Geral de Medicamentos, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor 90 (noventa) dias a partir da data de sua publicação.
+
+GUSTAVO MENDES LIMA SANTOS
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+PRINCIPIO(S) ATIVO(S)
+
+----------------------------
+
+Mawdsleys Pharmaceuticals do Brasil Ltda 19501429000190
+
+CLORIDRATO DE CLONIDINA
+
+ATENSINA 25351.887462/2020-29 06/2029
+
+11200 MEDICAMENTO NOVO - SOLICITAÇÃO DE TRANSFERÊNCIA DE TITULARIDADE DE REGISTRO (OPERAÇÃO COMERCIAL) 2937590/20-8
+
+1.5832.0003.001-9 36 Meses
+
+0,10 MG COM CT BL AL PLAS PVC/PVDC OPC X 30
+
+1.5832.0003.002-7 36 Meses
+
+0,15 MG COM CT BL AL PLAS PVC/PVDC OPC X 30
+
+----------------------------
+
+MULTILAB INDÚSTRIA E COMÉRCIO DE PRODUTOS FARMACÊUTICOS LTDA 92265552000140
+
+GLICLAZIDA
+
+BETEGLID 25351.062912/2022-30 10/2028
+
+1995 SIMILAR - SOLICITAÇÃO DE TRANSFERÊNCIA DE TITULARIDADE DE REGISTRO (INCORPORAÇÃO DE EMPRESA) 0467179/22-1
+
+1.1819.0232.001-5 24 Meses
+
+30 MG COM LIB PROL CT BL AL PVDC BCO LEIT X 15
+
+1.1819.0232.002-3 24 Meses
+
+30 MG COM LIB PROL CT BL AL PVDC BCO LEIT X 30
+
+1.1819.0232.003-1 24 Meses
+
+30 MG COM LIB PROL CT BL AL PVDC BCO LEIT X 60
+
+1.1819.0232.004-1 24 Meses
+
+30 MG COM LIB PROL CT BL AL PVDC BCO LEIT X 100 (EMB FRAC)
+
+1.1819.0232.005-8 24 Meses
+
+30 MG COM LIB PROL CT BL AL PVDC BCO LEIT X 500
+
+1.1819.0232.006-6 24 Meses
+
+60 MG COM LIB PROL CT BL AL PVDC BCO LEIT X 15
+
+1.1819.0232.007-4 24 Meses
+
+60 MG COM LIB PROL CT BL AL PVDC BCO LEIT X 30
+
+1.1819.0232.008-2 24 Meses
+
+60 MG COM LIB PROL CT BL AL PVDC BCO LEIT X 60
+
+1.1819.0232.009-0 24 Meses
+
+60 MG COM LIB PROL CT BL AL PVDC BCO LEIT X 100 (EMB FRAC)
+
+1.1819.0232.010-4 24 Meses
+
+60 MG COM LIB PROL CT BL AL PVDC BCO LEIT X 500
+
+----------------------------
+
+BLANVER FARMOQUIMICA E FARMACÊUTICA S.A. 53359824000119
+
+CARBOXIMALTOSE FERRICA
+
+FERINJECT 25351.080923/2021-11 10/2027
+
+11197 ESPECÍFICO - SOLICITAÇÃO DE TRANSFERÊNCIA DE TITULARIDADE DE REGISTRO (OPERAÇÃO COMERCIAL) 7221218/21-8
+
+1.1524.0012.001-6 36 Meses
+
+50 MG/ML SOL INJ IV CX 1 AMP VD TRANS X 10 ML
+
+1.1524.0012.002-4 36 Meses
+
+50 MG/ML SOL INJ IV CX 5 AMP VD TRANS X 10 ML
+
+1.1524.0012.003-2 36 Meses
+
+50 MG/ML SOL INJ IV CX 50 AMP VD TRANS X 10 ML

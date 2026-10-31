@@ -1,0 +1,34 @@
+---
+titulo: "PORTARIA Nº 1.843, DE 9 DE MAIO DE 2016"
+orgao: "Ministério da Ciência, Tecnologia, Inovações e Comunicações/GABINETE DO MINISTRO"
+tipo: "Portaria"
+numero: "1843"
+data: 2016-05-09
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 30/05/2016, seção 1, p. 21"
+data_publicacao: 2016-05-30
+edicao: "101"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-1-843-de-9-de-maio-de-2016-21530794"
+sha256_html_fonte: 4896a438ac3a049a2f6ed016681501fc9c480b2a78fc9d95a7f77697cd94e99d
+baixado_em: 2026-10-28
+---
+# PORTARIA Nº 1.843, DE 9 DE MAIO DE 2016
+
+PORTARIA Nº 1.843, DE 9 DE MAIO DE 2016
+
+O MINISTRO DE ESTADO DAS COMUNICAÇÕES, nouso de suas atribuições, conforme o disposto no art. 6º, ParágrafoÚnico, da Lei nº 9.612, de 19 de fevereiro de 1998, e tendo em vistao que consta dos Processos Administrativos nº 53900.008958/2014-75e nº 53710.001669/1998, resolve:
+
+**Art. 1º** Renovar pelo prazo de dez anos, a partir de 26 deagosto de 2014, a autorização outorgada à ASSOCIAÇÃO COMUNITÁRIACULTURAL DE RADIODIFUSÃO - ACCULTURAD,para executar, sem direito de exclusividade, o Serviço de RadiodifusãoComunitária, na localidade de Maria da Fé / MG.
+
+**Parágrafo único.** A autorização reger-se-á pela Lei nº 9.612,de 19 de fevereiro de 1998, leis subsequentes, seus regulamentos enormas complementares.
+
+**Art. 2º** Este ato somente produzirá efeitos legais após deliberaçãodo Congresso Nacional, nos termos do §3º do art. 223 daConstituição Federal.
+
+**Art. 3º** Esta Portaria entra em vigor na data de sua publicação.
+
+ANDRÉ FIGUEIREDO
+
+ANDRÉ FIGUEIREDO
+
+Este conteúdo não substitui o publicado na versão certificada.

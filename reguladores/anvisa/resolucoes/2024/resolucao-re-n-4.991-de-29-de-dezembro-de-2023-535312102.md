@@ -1,0 +1,102 @@
+---
+titulo: "RESOLUÇÃO-RE N° 4.991, DE 29 DE DEZEMBRO DE 2023"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "4991"
+data: 2023-12-29
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 02/01/2024, seção 1, p. 182"
+data_publicacao: 2024-01-02
+edicao: "1"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.991-de-29-de-dezembro-de-2023-535312102"
+sha256_html_fonte: 0cfe19455753cb465d09537e788d459da19875d53f49d10ffd4bf17ddf5d83e5
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE N° 4.991, DE 29 DE DEZEMBRO DE 2023
+
+RESOLUÇÃO-RE N° 4.991, DE 29 DE DEZEMBRO DE 2023
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Conceder Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+REALMED TRANSPORTES E LOGISTICA LTDA / 28.120.816/0004-10
+
+25351.853611/2023-07 / 1304431
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 1435415230
+
+--------------------------------------
+
+ELFA MEDICAMENTOS S.A / 09.053.134/0024-31
+
+25351.853583/2023-10 / 1304428
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 1435379233
+
+--------------------------------------
+
+CEI COMÉRCIO EXPORTAÇÃO E IMPORTAÇÃO DE MATERIAIS MÉDICOS LTDA / 40.175.705/0001-64
+
+25351.851725/2023-12 / 1304505
+
+ARMAZENAR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+IMPORTAR: MEDICAMENTO
+
+706 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - IMPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 1431183237
+
+--------------------------------------
+
+ESTRELA ENCOMENDAS LTDA / 43.905.695/0001-63
+
+25351.851829/2023-19 / 1304522
+
+TRANSPORTAR: MEDICAMENTO
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 1431295230
+
+--------------------------------------
+
+ELFA MEDICAMENTOS S.A / 09.053.134/0025-12
+
+25351.853637/2023-47 / 1304445
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 1435445236
+
+--------------------------------------
+
+SUMMA REPRESENTACOES FARMACEUTICAS LTDA / 46.731.245/0001-90
+
+25351.851689/2023-89 / 1304493
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 1431145238

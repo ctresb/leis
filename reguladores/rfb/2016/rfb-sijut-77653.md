@@ -1,0 +1,92 @@
+---
+titulo: "Ato Declaratório Executivo DRF/UBB nº 25, de 19 de setembro de 2016"
+orgao: "Delegacia da Receita Federal do Brasil em Uberaba"
+tipo: "Ato Declaratório Executivo"
+numero: "25"
+data: "2016-09-19"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 23/09/2016, seção 1, página 25"
+data_publicacao: "2016-09-23"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/77653/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/77653/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "77653"
+sha256_texto: "8b3c6de3c7797d6a51b68140258bb4eb649fbb0366d3160de71870d6682173f7"
+baixado_em: "2026-10-16"
+---
+# Ato Declaratório Executivo DRF/UBB nº 25, de 19 de setembro de 2016
+
+Declara inapta as inscrições das pessoas jurídicas, no Cadastro Nacional da Pessoa Jurídica, por omissão de declarações.
+
+O DELEGADO DA DELEGACIA DA RECEITA FEDERAL DO BRASIL EM UBERABA, no uso das competências que lhe confere o artigo 302 do Regimento Interno da Receita Federal do Brasil, aprovado pela Portaria MF n 203, de 14 de maio de 2012, considerando o que consta no processo administrativo n 13646.720275/2016-95 e, em cumprimento ao estabelecido no artigo 41, § 2, da Instrução Normativa RFB n 1.634, de 06 de maio de 2016, decide:
+
+Art 1º Declarar INAPTA as inscrições das pessoas jurídicas, abaixo relacionadas, desde a publicação deste Ato, no Cadastro Nacional da Pessoa Jurídica - CNPJ, em razão de omissão de declarações e demonstrativos.
+
+| NOME | CNPJ |
+| --- | --- |
+| AMARILIO RIBEIRO DE MENEZES - ME | 02.475.129/0001-81 |
+| AML TRANSPORTES LTDA - ME | 04.848.460/0001-25 |
+| ANCORA INCORPORACOES DE IMOVEIS LTDA - ME | 02.126.531/0001-50 |
+| ANTONIO VIEIRA PINTO - ME | 05.976.497/0001-00 |
+| ASS.DOS PEQ. PRODS. RURAIS PROJETO DE ASSENT. FAZ. TREZE DE MAIO | 02.900.345/0001-27 |
+| ASSOCIACAO DOS ESTUDANTES TIRENSE | 05.745.086/0001-03 |
+| ASSOCIACAO HABITACIONAL DE ARAXA | 01.730.564/0001-42 |
+| ASSOCIACAO TAPIRENSE DE ASSISTENCIA SOCIAL - ATAS | 02.968.317/0001-41 |
+| AUXILIADORA APARECIDA DA SILVA | 04.326.337/0001-44 |
+| BUENAVISTA - PROD. COM. ATC. VAR. DE FLORES E ACESSORIOS LTDA | 04.495.532/0001-06 |
+| CAIXA ESCOLAR ESCOLA MUNICIPAL AMELIA FRANCO | 01.938.328/0001-16 |
+| CAMARA DE DIRIGENTES LOJISTAS DE SANTA JULIANA MG | 01.331.112/0001-98 |
+| CARLOS ALBERTO DE OLIVEIRA - ME | 05.334.026/0001-90 |
+| CARVAO BATATAIS INDUSTRIA &COMERCIO LTDA - ME | 00.355.488/0001-70 |
+| CENTRO EDUCACIONAL SABER ARAXA LTDA - ME | 05.945.145/0001-89 |
+| CRIATIVA INFORMATICA E SERVICOS LTDA - ME | 02.221.975/0001-75 |
+| DIRETORIO MUN PARTIDO MOVIMENTO DEMOCRATICO BRASILEIRO DE TAPIRA | 01.302.825/0001-23 |
+| EDIMILSON SOARES DA SILVA - ME | 01.822.403/0001-89 |
+| EPSE ENGENHARIA PROJETOS E SERVICOS LTDA - EPP | 04.252.191/0001-30 |
+| FABIO DERCI DOS SANTOS - CPF 036.687.646-54 | 05.361.059/0001-29 |
+| FABIO FONTANIO DA SILVA - ME | 05.630.569/0001-54 |
+| GASPAR SANTANA DA SILVA - CPF 94702365649 | 03.695.025/0001-45 |
+| GENESIO KRAMER - ME | 04.747.613/0001-48 |
+| GOFREDO STEFANI - EPP | 05.440.893/0001-00 |
+| HEVERTON DE OLIVEIRA - ME | 01.801.295/0001-68 |
+| HIDROARA LTDA - ME | 02.914.022/0001-92 |
+| IEDA MARIA DA SILVA | 03.393.140/0001-65 |
+| JANCI LUIZ PILATTI - EPP | 03.009.391/0001-01 |
+| LATICINIOS LETICIA LTDA | 00.515.990/0001-09 |
+| LCA PRESTACAO DE SERVICOS LTDA - ME | 05.847.006/0001-12 |
+| LEDERSON KUNS - ME | 00.937.226/0001-13 |
+| LINK SAT PARABOLICAS LTDA - ME | 00.937.225/0001-79 |
+| LL TELECOMUNICACOES LTDA | 01.678.210/0001-04 |
+| LUIS HENRIQUE ALVES DA SILVA - ME | 05.999.544/0001-22 |
+| MARIA GASPARINA SILVA - ME | 05.957.586/0001-09 |
+| MARINA DE FATIMA MACHADO DRIGO - ME | 03.133.231/0001-61 |
+| MARTINS SERVICOS CADASTRAIS LTDA - ME | 03.127.159/0001-60 |
+| MCHR - ASSESSORIA E CONSULTORIA DE HOTEIS E RESTAURANTES LTDA - ME | 05.606.639/0001-39 |
+| MEGA - DISTRIBUIDORA DE PRODUTOS ALIMENTICIOS LTDA - ME | 01.740.219/0001-90 |
+| MOTO TAXI AMIGOS LTDA - ME | 02.691.146/0001-56 |
+| MV ADVOCACIA E ASSESSORIA JURIDICA S/C LTDA - ME | 03.045.656/0001-19 |
+| NOGUEIRA SILVA CONSTRUTORA LTDA - ME | 04.691.613/0001-73 |
+| PANTERA MATERIAIS DE CONSTRUCAO LTDA - ME | 01.587.553/0001-55 |
+| PARTENAIRE CONSULTORIA E ASSESSORIA S/C LTDA | 05.106.845/0001-80 |
+| QUENIO MORAIS FERREIRA - ME | 02.387.948/0001-77 |
+| RICARDO CARNEIRO AGUIAR E CIA LTDA - ME | 02.560.903/0001-52 |
+| RICARDO WILSON DE OLIVEIRA | 05.274.406/0001-86 |
+| RMS TURISMO LTDA - ME | 04.367.295/0001-90 |
+| RODART ARTESANATO LTDA - ME | 05.304.543/0001-16 |
+| RONNIE VON ALVES - ME | 05.105.442/0001-16 |
+| ROSANI DE FATIMA LUSVARGHI - ME | 05.385.738/0001-38 |
+| ROSILENE APARECIDA DIAS MATEUS - ME | 03.178.665/0001-88 |
+| SAULO JEFFERSON DOS SANTOS MACEDO | 05.917.564/0001-07 |
+| SIMONE DE FATIMA SILVA - ME | 04.163.891/0001-58 |
+| SISTEMA EDUCACIONAL EXITO LTDA - ME | 04.496.081/0001-13 |
+| TUBARAO TUR LTDA - ME | 04.483.610/0001-44 |
+| VALDETE ROSA DE MENEZES LOPES - ME | 05.854.783/0001-94 |
+| VIPIS VIDRACARIA PISOS E MATERIAIS PARA CONSTRUCAO LTDA - ME | 02.726.758/0001-37 |
+| WALDIR E MARCOS VEICULOS LTDA - ME | 03.282.540/0001-01 |
+
+**Art. 2** Considera-se inidôneos, não produzindo efeitos tributários em favor de terceiros interessados, os documentos emitidos pelos contribuintes acima referidos, a partir da publicação desta Ato, nos termos do art. 47 da Instrução Normativa RFB n 1.634, de 2016.
+
+MAURO LUIZ DE OLIVEIRA

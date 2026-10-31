@@ -1,0 +1,90 @@
+---
+titulo: "RESOLUÇÃO RE Nº 5.195, DE 15 DE Dezembro DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "5195"
+data: 2020-12-15
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 16/12/2020, seção 1, p. 160"
+data_publicacao: 2020-12-16
+edicao: "240"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-5.195-de-15-de-dezembro-de-2020-294326595"
+sha256_html_fonte: 2799349ed9e5cc9f7fd12ddc3ffc0763ad0f2684b719d47d45a36f7d58b858c2
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO RE Nº 5.195, DE 15 DE Dezembro DE 2020
+
+RESOLUÇÃO RE Nº 5.195, DE 15 DE Dezembro DE 2020
+
+O Coordenador de Autorização de Funcionamento de Empresas, Substituto, no uso das atribuições que lhe confere o art. 169, aliado ao art. 54, I, §1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º.** Alterar Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria nº. 344 de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+ALVIVERE SOLUCOES FARMACEUTICAS LTDA / 12.844.060/0001-70
+
+25351.207612/2018-18 / 1176173
+
+7105 - AE - ALTERAÇÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL - AMPLIAÇÃO DE ATIVIDADES / 3669955208
+
+--------------------------------------
+
+ALCANCE NORDESTE, COMERCIO IMPORTAÇÃO &EXPORTAÇÃO DE MEDICAMENTOS EIRELI / 13.630.407/0001-44
+
+25351.324084/2019-33 / 1189603
+
+7105 - AE - ALTERAÇÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL - AMPLIAÇÃO DE ATIVIDADES / 3945130204
+
+--------------------------------------
+
+J S SERVICOS ESPECIALIZADOS PARA CONSTRUCAO CIVIL E COM ATAC DE INSTRUMENTOS E MAT CIRURGICO, HOSPITALAR E DE LAB LTDA / 01.177.822/0001-05
+
+25351.242569/2020-43 / 1237335
+
+7104 - AE - ALTERAÇÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL - RAZÃO SOCIAL / 3960811209
+
+--------------------------------------
+
+CONTINUA LOGISTICA E TRANSPORTES EIRELI / 10.460.803/0001-82
+
+25351.595641/2014-48 / 1121524
+
+7014 - AE - ALTERAÇÃO - MEDICAMENTOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL - ENDEREÇO / 3961091200
+
+25351.595641/2014-48 / 1121524
+
+7013 - AE - ALTERAÇÃO - MEDICAMENTOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL - RAZÃO SOCIAL / 3960598203
+
+--------------------------------------
+
+LOGFAR LOGISTICA LTDA / 05.530.576/0001-84
+
+25351.075857/2014-50 / 1004517
+
+7014 - AE - ALTERAÇÃO - MEDICAMENTOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL - ENDEREÇO / 3929566206
+
+--------------------------------------
+
+LEMOS - DISTRIBUIDORA HOSPITALAR LTDA / 16.752.682/0001-29
+
+25351.339486/2013-67 / 1235212
+
+7104 - AE - ALTERAÇÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL - RAZÃO SOCIAL / 3945103207
+
+--------------------------------------
+
+DMTS SOLUÇÕES EM LOGÍSTICA EIRELI / 30.500.373/0001-92
+
+25351.637358/2018-71 / 1180991
+
+7014 - AE - ALTERAÇÃO - MEDICAMENTOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL - ENDEREÇO / 3622193204
+
+25351.637358/2018-71 / 1180991
+
+7013 - AE - ALTERAÇÃO - MEDICAMENTOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL - RAZÃO SOCIAL / 3621958207

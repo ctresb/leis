@@ -1,0 +1,38 @@
+---
+titulo: "PORTARIAS DE 20 DE DEZEMBRO DE 2018"
+orgao: "Ministério da Ciência, Tecnologia, Inovações e Comunicações/Secretaria de Radiodifusão/Departamento de Radiodifusão Educativa, Comunitária e de Fiscalização"
+tipo: "Portaria"
+numero: ""
+data: ""
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 03/01/2019, seção 1, p. 6"
+data_publicacao: 2019-01-03
+edicao: "2"
+fonte: "https://www.in.gov.br/web/dou/-/portarias-de-20-de-dezembro-de-2018-57732533"
+sha256_html_fonte: 0ff6c8183f51a470494f5ab46b7d51f90705b28e06a6813c2ff69ad6bff98850
+baixado_em: 2026-10-21
+---
+# PORTARIAS DE 20 DE DEZEMBRO DE 2018
+
+PORTARIAS DE 20 DE DEZEMBRO DE 2018
+
+O DIRETOR DO DEPARTAMENTO DE RADIODIFUSÃO EDUCATIVA, COMUNITÁRIA E DE FISCALIZAÇÃO, SUBSTITUTO, no uso de suas atribuições, observados os critérios e parâmetros estabelecidos pela Portaria nº 112, de 22 de abril de 2013, alterada pela Portaria nº 5.774, de 16 de dezembro de 2016, e tendo em vista o que consta no processo abaixo, resolve:
+
+**Art. 1º** Aplicar às Entidades abaixo relacionadas as penalidades de multa ou suspensão, que por este ato fica convertida em multa e/ou advertência.
+
+**Art. 2º** Estas Portarias entram em vigor na data de suas publicações.
+
+<table><tr></tr><tr><td><p>N° do Processo</p></td><td><p>Entidade</p></td><td><p>Serviço</p></td><td><p>Município</p></td><td><p>UF</p></td><td><p>Sanção</p></td><td><p>Valor (R$)</p></td><td><p>Enquadramento Legal</p></td><td><p>Portaria</p></td><td><p>Embasamento da Portaria de Multa</p></td></tr><tr><td><p>53000.003788/2013</p></td><td><p>Associação Rádio Paraízo De Comunicação E Ação Comunitária</p></td><td><p>RADCOM</p></td><td><p>Barra do Piraí</p></td><td><p>RJ</p></td><td><p>Multa</p></td><td><p>1.599,26</p></td><td><p>Art.40, VI do Decreto n° 2.615/98.</p></td><td><p>Portaria DECEF n° 4093 de 20/12/2018</p></td><td><p>Portaria MC n° 112/2013</p></td></tr><tr><td><p>53000.005074/2013</p></td><td><p>Associação De Radiodifusão Comunitária De Sombrio</p></td><td><p>RADCOM</p></td><td><p>Sombrio</p></td><td><p>SC</p></td><td><p>Advertência</p></td><td><p></p></td><td><p>Art.40, XXI do Decreto n° 2.615/98.</p></td><td><p>Portaria DECEF n° 4106 de 20/12/2018</p></td><td><p>Portaria MC n° 112/2013</p></td></tr><tr><td><p>53900.011753/2014</p></td><td><p>Associação Comunitária De Radiodifusão De Cocal Dos Alves</p></td><td><p>RADCOM</p></td><td><p>Cocal dos Alves</p></td><td><p>PI</p></td><td><p>Multa</p></td><td><p>799,63</p></td><td><p>Art.40, II do Decreto n° 2.615/98.</p></td><td><p>Portaria DECEF n° 4155 de 20/12/2018</p></td><td><p>Portaria MC n° 112/2013</p></td></tr><tr><td><p>53900.055650/2015</p></td><td><p>FUNDAÇÃO CULTURAL SANTA MARIA DE DEUS (Antiga FUNDAÇÃO RUI BAROMEU)</p></td><td><p>FME</p></td><td><p>São Mateus</p></td><td><p>ES</p></td><td><p>Multa</p></td><td><p>15.388,48</p></td><td><p>Art. 3º da Portaria Interministerial MEC/MC n° 651/99.</p></td><td><p>Portaria DECEF n° 4177 de 20/12/2018</p></td><td><p>Portaria MC n° 112/2013</p></td></tr><tr><td><p>53900.000708/2015</p></td><td><p>Tv Maranhão Central Ltda</p></td><td><p>RTV</p></td><td><p>Esperantinópolis</p></td><td><p>MA</p></td><td><p>Multa</p></td><td><p>1.999,07</p></td><td><p>Art. 25, do Decreto nº 5.371/2005</p></td><td><p>Portaria DECEF n° 4255 de 20/12/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53000.060727/2012</p></td><td><p>Real Radiodifusão Ltda</p></td><td><p>FM</p></td><td><p>Rio das Ostras</p></td><td><p>RJ</p></td><td><p>Multa</p></td><td><p>3.838,22</p></td><td><p>Art. 62 da Lei n° 4.117/62.</p></td><td><p>Portaria DECEF n° 5833 de 20/12/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53000.047774/2012</p></td><td><p>Tvsbt Canal 05 De Porto Alegre S/A</p></td><td><p>TV</p></td><td><p>Porto Alegre</p></td><td><p>RS</p></td><td><p>Multa</p></td><td><p>22.389,63</p></td><td><p>Art. 62 da Lei n° 4.117/62</p></td><td><p>Portaria DECEF n° 5834 de 20/12/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53000.050737/2012</p></td><td><p>Associação Dos Moradores De Lamim E Região Circunvizinha</p></td><td><p>RADCOM</p></td><td><p>Paula Cândido</p></td><td><p>MG</p></td><td><p>Multa e Advertência</p></td><td><p>913,86</p></td><td><p>Item 21.2 da Norma nº 01/2011 e art. 40, XXIX, do Decreto nº. 2.615/98.</p></td><td><p>Portaria DECEF n° 5835 de 20/12/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53000.047915/2012</p></td><td><p>Tv Ômega Ltda</p></td><td><p>TV</p></td><td><p>Rio de Janeiro</p></td><td><p>MG</p></td><td><p>Multa</p></td><td><p>10.075,33</p></td><td><p>Art. 62 da Lei n° 4.117/62.</p></td><td><p>Portaria DECEF n° 5836 de 20/12/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53000.047699/2012</p></td><td><p>Rádio Guaíba Ltda</p></td><td><p>OC</p></td><td><p>Porto Alegre</p></td><td><p>RS</p></td><td><p>Multa</p></td><td><p>3.740,26</p></td><td><p>Art. 62 da Lei n° 4.117/62.</p></td><td><p>Portaria DECEF n° 5837 de 20/12/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53000.067984/2013</p></td><td><p>Associação Comunitária Monte Sinai - Acms</p></td><td><p>RADCOM</p></td><td><p>Itaocara</p></td><td><p>RJ</p></td><td><p>Multa</p></td><td><p>1.028,10</p></td><td><p>Item 21.1 da Norma 01/2011 c/c do art. 21, IV da Lei nº 9.612/98.</p></td><td><p>Portaria DECEF n° 6447 de 20/12/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53900.032380/2016</p></td><td><p>Televisão Verdes Mares Ltda</p></td><td><p>RTV</p></td><td><p>Itapipoca</p></td><td><p>CE</p></td><td><p>Multa</p></td><td><p>2.398,89</p></td><td><p>Art. 25 do Decreto 5.371/2005.</p></td><td><p>Portaria DECEF n° 6458 de 20/12/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53000.049968/2013</p></td><td><p>Associação Comunitária De Água Fria E Barra</p></td><td><p>RADCOM</p></td><td><p>Água Fria</p></td><td><p>BA</p></td><td><p>Multa</p></td><td><p>248,78</p></td><td><p>Art. 40, VII do Decreto nº 2.615/98.</p></td><td><p>Portaria DECEF n° 6466 de 20/12/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 858/2008</p></td></tr><tr><td><p>53000.015068/2013</p></td><td><p>Associação De Radiodifusão Atrativa</p></td><td><p>RADCOM</p></td><td><p>Barretos</p></td><td><p>SP</p></td><td><p>Multa e Advertência</p></td><td><p>571,16</p></td><td><p>Art. 40, XV e XVII do Decreto nº 2.615/98.</p></td><td><p>Portaria DECEF n° 6532 de 20/12/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr></table>
+
+RODRIGO CRUZ GEBRIM
+
+PORTARIA Nº 6.018, DE 20 DE DEZEMBRO DE 2018
+
+O DIRETOR DO DEPARTAMENTO DE RADIODIFUSÃO EDUCATIVA, COMUNITÁRIA E DE FISCALIZAÇÃO, SUBSTITUTO, no uso de suas atribuições, tendo em vista a Nota Técnica nº 25738/2018/SEI-MCTIC, constante do processo nº 53900.020639/2014-38, cuja motivação adota a forma prevista no art. 50, § 1º, da Lei nº 9.784, de 29 de janeiro de 1999, resolve:
+
+**Art. 1º** Reconsiderar a decisão exarada pela Portaria nº 6829/2017/SEI-MCTIC, de 6 de dezembro de 2017, publicada no Diário Oficial da União de 18 de fevereiro de 2017, acatando o recurso administrativo interposto pelo SENADO FEDERAL, executante do serviço de retransmissão de televisão, no município de Fortaleza, Estado do Ceará, ficando anulada a citada portaria.
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação.
+
+RODRIGO CRUZ GEBRIM

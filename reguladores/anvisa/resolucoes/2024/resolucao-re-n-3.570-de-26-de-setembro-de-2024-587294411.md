@@ -1,0 +1,350 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.570, DE 26 DE SETEMBRO DE 2024"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/3ª Diretoria/Gerência-Geral de Cosméticos e Saneantes"
+tipo: "Resolução"
+numero: "3570"
+data: 2024-09-26
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 30/09/2024, seção 1, p. 239"
+data_publicacao: 2024-09-30
+edicao: "189"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.570-de-26-de-setembro-de-2024-587294411"
+sha256_html_fonte: 8ecd5220f3d0c164b065f294617f0c2363defa6df6f69aeb02b7eef54e0f5bc4
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE Nº 3.570, DE 26 DE SETEMBRO DE 2024
+
+RESOLUÇÃO-RE Nº 3.570, DE 26 DE SETEMBRO DE 2024
+
+O GERENTE-GERAL DE COSMÉTICOS E SANEANTES DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA no uso das atribuições que lhe confere o art. 129, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Deferir os registros e as petições dos produtos de higiene pessoal, cosméticos e perfumes, conforme relação anexa.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+RODRIGO JOSÉ VIANA OTTONI
+
+## ANEXO
+
+NOME DA EMPRESA / CNPJ
+
+NOME DO PRODUTO E MARCA
+
+NÚMERO DO PROCESSO / REGISTRO
+
+PETIÇÃO(ÕES) / EXPEDIENTE(S)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+ALGSUN INDÚSTRIA E COMÉRCIO DE PRODUTOS LTDA - ME / 25.066.271/0001-70
+
+ALG SUN FPS 30
+
+25351.357371/2020-63 / 418210006
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0860883/23-0
+
+--------------------------------------
+
+ATHENAS INDÚSTRIA E TERCERIZAÇÃO DE COSMÉTICOS LTDA EPP / 01.287.021/0001-00
+
+CREME BRONZEADOR FPS 15 HERÉDIA
+
+25351.126069/2024-99 / 266700213
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 0358382/24-6
+
+--------------------------------------
+
+BASTON INDÚSTRIA DE AEROSSOIS LTDA / 05.855.974/0001-70
+
+PROTETOR SOLAR FPS 80 ABOVE SPORT
+
+25351.318231/2024-01 / 257170099
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 0720889/24-3
+
+--------------------------------------
+
+BRAVIR INDUSTRIAL LTDA / 18.688.481/0001-35
+
+MEDSUN PROTETOR SOLAR LABIAL FPS 30
+
+25351.357471/2024-13 / 206420084
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 0832408/24-7
+
+--------------------------------------
+
+Biozenthi Biotecnologia Ltda. / 12.318.178/0001-64
+
+ONFACE PROTETOR SOLAR FACIAL BIOZENTHI FPS 65
+
+25351.356674/2024-92 / 266910019
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 0824195/24-8
+
+--------------------------------------
+
+CCD COSM CIENTIFICA DERM COMERCIO E INDUSTRIA LTDA / 40.367.856/0001-14
+
+PHOTOAGE STICK COLOR MINERAL FPS 60 MÉDIO INTENSE DERMAGE
+
+25351.930390/2024-71 / 217170279
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 0071665/24-2
+
+--------------------------------------
+
+COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. / 61.082.426/0002-07
+
+EPISOL SEC ACQUA FPS 60 CLARO
+
+25351.308661/2024-15 / 200030903
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 0701348/24-1
+
+EPISOL SEC ACQUA FPS 60 MÉDIO
+
+25351.308715/2024-34 / 200030904
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 0701414/24-3
+
+EPISOL SEC ACQUA FPS 60 MÉDIO ESCURO
+
+25351.308982/2024-10 / 200030905
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 0701722/24-0
+
+--------------------------------------
+
+DAHUER LABORATÓRIO LTDA / 82.914.334/0001-35
+
+HIDRABENE SÉRUM FPS 50 PELE MADURA
+
+25351.354932/2024-04 / 215630225
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 0800013/24-7
+
+--------------------------------------
+
+DAVISO INDÚSTRIA E COMÉRCIO DE PRODUTOS HIGIÊNICOS S/A / 04.568.560/0001-06
+
+TOALHAS UMEDECIDAS RECÉM-NASCIDO SEM FRAGRÂNCIA LILLO BABY
+
+25351.030858/2017-07 / 237600048
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 1219008/24-9
+
+TOALHAS UMEDECIDAS LILLO BABY
+
+25351.030878/2017-08 / 237600046
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 1298575/24-9
+
+MAMYPOKO TOALHAS UMEDECIDAS
+
+25351.044278/2015-68 / 237600037
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 1219083/24-1
+
+TOALHAS UMEDECIDAS PARENT'S CHOICE ALOE VERA
+
+25351.082961/2016-36 / 237600045
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 1219180/24-6
+
+TOALHAS UMEDECIDAS MAMYPOKO
+
+25351.149024/2015-59 / 237600038
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 1219258/24-5
+
+TOALHAS UMEDECIDAS BABYSEC SUPER PREMIUM
+
+25351.151641/2017-06 / 237600047
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 1252015/24-1
+
+TOALHAS UMEDECIDAS LILLO BABY RECÉM-NASCIDO
+
+25351.157830/2016-56 / 237600043
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 1252042/24-8
+
+LOOPING BABY TOALHAS UMEDECIDAS
+
+25351.176675/2015-79 / 237600041
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 1252095/24-4
+
+LOOPING BABY TOALHAS UMEDECIDAS
+
+25351.176923/2015-76 / 237600039
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 1252133/24-3
+
+TOALHAS UMEDECIDAS PARENT'S CHOICE SENSITIVE
+
+25351.189299/2016-26 / 237600044
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 1252278/24-1
+
+SÍTIO DO PICAPAU AMARELO TOALHINHAS UMEDECIDAS
+
+25351.200926/2010-56 / 237600017
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 1252289/24-3
+
+PROTEK BABY TOALHINHAS UMEDECIDAS
+
+25351.426086/2010-25 / 237600021
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 1252354/24-0
+
+TOALHAS UMEDECIDAS LOOPING BABY
+
+25351.553372/2015-09 / 237600040
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 1252367/24-4
+
+ARO TOALHAS UMEDECIDAS PARA BEBÊ
+
+25351.601931/2017-27 / 237600049
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 1252377/24-0
+
+LOOPING BABY SONO TRANQUILO TOALHAS UMEDECIDAS
+
+25351.885488/2016-74 / 237600042
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 1252409/24-9
+
+--------------------------------------
+
+ESSITY DO BRASIL INDÚSTRIA E COMÉRCIO LTDA / 72.899.016/0001-99
+
+TORK ALCOHOL GEL HAND SANITIZER
+
+25351.218745/2020-26 / 228210022
+
+2113 - REG. COSMÉTICOS - Inclusão de fabricante / 1288569/24-6
+
+--------------------------------------
+
+INDUSTRIA E COMERCIO DE COSMETICOS NATURA LTDA / 00.190.373/0001-72
+
+AVON CARE SUN+ PROTETOR SOLAR FPS 70
+
+25351.285743/2024-76 / 205671568
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 0661176/24-0
+
+AVON RENEW SOLAR TRIPLA PROTEÇÃO LOÇÃO FACIAL MATTE COM COR MÉDIA CLARA 2.0 FPS 50
+
+25351.317306/2024-29 / 205671569
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 0719835/24-1
+
+AVON RENEW SOLAR TRIPLA PROTEÇÃO LOÇÃO FACIAL MATTE COM COR ESCURA 5.4 FPS 50
+
+25351.317323/2024-66 / 205671570
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 0719855/24-1
+
+AVON CARE SUN+ FPS 30 PROTETOR SOLAR REFRESCANTE
+
+25351.317347/2024-15 / 205671571
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 0719880/24-6
+
+AVON RENEW SOLAR TRIPLA PROTEÇÃO LOÇÃO FACIAL MATTE COM COR ESCURA 5.0 FPS 50
+
+25351.317392/2024-70 / 205671572
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 0719928/24-9
+
+AVON RENEW SOLAR TRIPLA PROTEÇÃO LOÇÃO FACIAL MATTE COM COR MÉDIA 3.0 FPS 50
+
+25351.317486/2024-49 / 205671573
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 0720033/24-1
+
+AVON RENEW SOLAR TRIPLA PROTEÇÃO LOÇÃO FACIAL MATTE COM COR MÉDIA ESCURA 4.0 FPS 50
+
+25351.317670/2024-99 / 205671574
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 0720239/24-9
+
+AVON RENEW SOLAR TRIPLA PROTEÇÃO LOÇÃO FACIAL MATTE COM COR CLARA 1.0 FPS 50
+
+25351.317741/2024-53 / 205671575
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 0720321/24-7
+
+--------------------------------------
+
+INDUSTRIA QUIMILAB DE PRODUTOS DE LIMPEZA LTDA ME / 12.919.018/0001-70
+
+SET GEL ANTISSÉPTICO
+
+25351.921364/2024-51 / 298320501
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 0058052/24-1
+
+--------------------------------------
+
+Isdin Produtos Farmaceuticos Ltda / 10.817.114/0001-82
+
+FOTOPROTECTOR ISDIN FUSION WATER
+
+25351.107087/2020-48 / 253860047
+
+2112 - REG. COSMÉTICOS - Inclusão de apresentação / 1269193/24-4
+
+--------------------------------------
+
+LVMH PARFUMS ET COSMETIQUES DO BRASIL LTDA / 02.193.054/0001-46
+
+DIOR SOLAR - LA CREME PROTECTRICE/ THE PROTECTIVE CREME - SPF 50 CORPS/ BODY
+
+25351.360858/2024-57 / 226400889
+
+2871 - REG. COSMÉTICOS - Registro de Produto - Importado / 0860464/24-5
+
+--------------------------------------
+
+PASTEUR COSMIATRIA LTDA / 87.727.277/0001-07
+
+PROTETOR SOLAR FACIAL FPS 50 ANTIOXIDANTE BEGE MÉDIO - NEEDS NATOS
+
+25351.280917/2024-12 / 214850514
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 0652548/24-5
+
+PROTETOR SOLAR FPS 60 - REVITART SOLAR
+
+25351.355888/2024-41 / 214850515
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 0807388/24-6
+
+--------------------------------------
+
+SEVEN GEL INDÚSTRIA E COMÉRCIO LTDA - EPP / 03.365.708/0001-34
+
+HIDRATY GEL ANTISSÉPTICO PARA AS MÃOS SEVEN GEL
+
+25351.756035/2008-80 / 233890010
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0296751/24-3
+
+--------------------------------------
+
+THERASKIN FARMACEUTICA LTDA. / 61.517.397/0001-88
+
+CETRILAN LOÇÃO
+
+25351.260729/2005-05 / 237080004
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 1287660/24-0

@@ -1,0 +1,32 @@
+---
+titulo: "PORTARIA Nº 27, DE 15 JULHO DE 2024"
+orgao: "Ministério da Educação/Secretaria de Educação Profissional e Tecnológica"
+tipo: "Portaria"
+numero: "27"
+data: ""
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 17/07/2024, seção 1, p. 15"
+data_publicacao: 2024-07-17
+edicao: "136"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-27-de-15-julho-de-2024-572620155"
+sha256_html_fonte: 493d89d0ab562dbb1f5d5d241d32cb49d0b4de7b39ed2633150c9678b3c09cec
+baixado_em: 2026-10-16
+---
+# PORTARIA Nº 27, DE 15 JULHO DE 2024
+
+PORTARIA Nº 27, DE 15 JULHO DE 2024
+
+Dispõe sobre o empenho, a liquidação e o pagamento de recursos orçamentários e financeiros para os parceiros ofertantes no âmbito da Bolsa-Formação - Pronatec, para a oferta de vagas em cursos técnicos articulados com o ensino médio em tempo integral (EM-EPT).
+
+A SECRETÁRIA DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA DO MINISTÉRIO DA EDUCAÇÃO SUBSTITUTA, no uso das atribuições que lhe conferem o art. 18 do Decreto nº 12.003, de 23 de abril de 2024, a Lei nº 12.513, de 26 de outubro de 2011, a Portaria nº 1.042, de 21 de dezembro de 2021, a Portaria nº 725, de 13 de abril de 2023 e o contido no Processo nº 23000.015359/2024-62, resolve:
+
+**Art. 1º** Autorizar o Fundo Nacional de Desenvolvimento da Educação (FNDE) a realizar o empenho, a liquidação e o pagamento de recursos orçamentários e financeiros, conforme quadro abaixo, às instituições de ensino que tiveram suas propostas aprovadas no âmbito da Bolsa-Formação - Pronatec, prevista na Lei nº 12.513, de 26 de outubro de 2011, para oferta de cursos técnicos articulados com o ensino médio em tempo integral (EM-EPT), previsto na Portaria nº 1.495, de 2 de agosto de 2023. O valor a ser repassado se refere ao percentual de 50% (cinquenta por cento) do valor total pactuado, a título de fomento, nos termos do § 1º do art. 46 da Portaria nº 1.042 de 2021, alterado pela Portaria nº 1.045, de 2022.
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>UF</p></td>      <td rowspan="1" colspan="1"><p>Instituição</p></td>      <td rowspan="1" colspan="1"><p>CNPJ</p></td>      <td rowspan="1" colspan="1"><p>Processo</p></td>      <td rowspan="1" colspan="1"><p>Total (R$)</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>AC</p></td>      <td rowspan="1" colspan="1"><p>Instituto Estadual de Educação Profissional e Tecnológica (Ieptec/AM)</p></td>      <td rowspan="1" colspan="1"><p>07.827.773/0001-95</p></td>      <td rowspan="1" colspan="1"><p>23000.015359/2024-62</p></td>      <td rowspan="1" colspan="1"><p>2.760.000,00</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>AL</p></td>      <td rowspan="1" colspan="1"><p>Secretaria de Estado da Educação e do Esporte de Alagoas (Seduc/AL)</p></td>      <td rowspan="1" colspan="1"><p>12.200.218/0001-79</p></td>      <td rowspan="1" colspan="1"><p>23000.015359/2024-62</p></td>      <td rowspan="1" colspan="1"><p>1.152.000,00</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>AM</p></td>      <td rowspan="1" colspan="1"><p>Centro de Educação Tecnológica do Amazonas (Cetam)</p></td>      <td rowspan="1" colspan="1"><p>05.846.254/0001-49</p></td>      <td rowspan="1" colspan="1"><p>23000.015359/2024-62</p></td>      <td rowspan="1" colspan="1"><p>462.000,00</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>BA</p></td>      <td rowspan="1" colspan="1"><p>Secretaria da Educação da Bahia (SEC/BA)</p></td>      <td rowspan="1" colspan="1"><p>13.937.065/0001-00</p></td>      <td rowspan="1" colspan="1"><p>23000.015359/2024-62</p></td>      <td rowspan="1" colspan="1"><p>3.118.800,00</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>GO</p></td>      <td rowspan="1" colspan="1"><p>Secretaria de Estado da Educação do Goiás (Seduc/GO)</p></td>      <td rowspan="1" colspan="1"><p>01.409.705/0001-20</p></td>      <td rowspan="1" colspan="1"><p>23000.015359/2024-62</p></td>      <td rowspan="1" colspan="1"><p>652.800,00</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>MA</p></td>      <td rowspan="1" colspan="1"><p>Secretaria de Estado da Educação do Maranhão (Seduc/MA)</p></td>      <td rowspan="1" colspan="1"><p>03.352.086/0001-00</p></td>      <td rowspan="1" colspan="1"><p>23000.015359/2024-62</p></td>      <td rowspan="1" colspan="1"><p>1.935.600,00</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>MG</p></td>      <td rowspan="1" colspan="1"><p>Secretaria de Estado da Educação de Minas Gerais (Seduc/MG)</p></td>      <td rowspan="1" colspan="1"><p>18.715.599/0001-05</p></td>      <td rowspan="1" colspan="1"><p>23000.015359/2024-62</p></td>      <td rowspan="1" colspan="1"><p>28.592.400,00</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>PI</p></td>      <td rowspan="1" colspan="1"><p>Secretaria de Educação do Piauí (Seduc/PI)</p></td>      <td rowspan="1" colspan="1"><p>06.554.729/0001-96</p></td>      <td rowspan="1" colspan="1"><p>23000.015359/2024-62</p></td>      <td rowspan="1" colspan="1"><p>837.600,00</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>RS</p></td>      <td rowspan="1" colspan="1"><p>Secretaria de Educação do Rio Grande do Sul (Seduc/RS)</p></td>      <td rowspan="1" colspan="1"><p>92.941.681/0001-00</p></td>      <td rowspan="1" colspan="1"><p>23000.015359/2024-62</p></td>      <td rowspan="1" colspan="1"><p>1.608.000,00</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>SE</p></td>      <td rowspan="1" colspan="1"><p>Secretaria de Estado da Educação e da Cultura (Seduc/SE)</p></td>      <td rowspan="1" colspan="1"><p>34.841.195/0001-14</p></td>      <td rowspan="1" colspan="1"><p>23000.015359/2024-62</p></td>      <td rowspan="1" colspan="1"><p>826.800,00</p></td>     </tr>     <tr>      <td rowspan="1" colspan="4"><p>Total</p></td>      <td rowspan="1" colspan="1"><p>41.946.000,00</p></td>     </tr>    </tbody>   </table>
+
+**Art. 2º** O empenho e a transferência de que se trata o art. 1º desta Portaria deverão ser emitidos à conta da Classificação Funcional Programática: 10.26298.12.363.5112.21B4 - Apoio à Formação Profissional e Tecnológica - Plano Interno LFP07P1916N Pronatec Transferência instituições estaduais e municipais, Plano Orçamentário 0002 PTRES 230485.
+
+**Art. 3º** Esta Portaria entra em vigor na data de sua publicação.
+
+Carla Comerlato Jardim

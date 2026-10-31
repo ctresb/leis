@@ -1,0 +1,174 @@
+---
+titulo: "RESOLUÇÃO-RE nº 3.606, de 19 de dezembro de 2019"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "3606"
+data: 2019-12-19
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 23/12/2019, seção 1, p. 245"
+data_publicacao: 2019-12-23
+edicao: "247"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.606-de-19-de-dezembro-de-2019-234964910"
+sha256_html_fonte: 641f9d22b2c7a1fc220946d0b7142cdbf1e239862e3d597235ffe7e617f6b037
+baixado_em: 2026-10-27
+---
+# RESOLUÇÃO-RE nº 3.606, de 19 de dezembro de 2019
+
+RESOLUÇÃO-RE nº 3.606, de 19 de dezembro de 2019
+
+O Coordenador de Autorização de Funcionamento de Empresas, Substituto, no uso das atribuições que lhe confere o art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º** Alterar Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+EMPRESA: panpharma distribuidora de medicamentos ltda
+
+ENDEREÇO: AV ETELVINO ALVES DE LIMA 1294 LOJA 04 CD CIDADE COMERCI
+
+BAIRRO: inacio barbosa CEP: 49040696 - ARACAJU/SE
+
+CNPJ: 01.206.820/0022-21
+
+PROCESSO: 25351.458806/2016-09 AUTORIZ/MS: 1.16047.8
+
+ATIVIDADE/CLASSE
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+----------------------------------------------------
+
+EMPRESA: ITAOBI TRANSPORTES LTDA
+
+ENDEREÇO: RUA VP 5E, S/N - QUADRA 09 LOTE M7
+
+BAIRRO: DT AGROINDUSTRIAL DE ANAPOLIS CEP: 75132125 - ANÁPOLIS/GO
+
+CNPJ: 08.693.795/0009-20
+
+PROCESSO: 25351.834227/2018-30 AUTORIZ/MS: 1.18456.3
+
+ATIVIDADE/CLASSE
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS/MEDICAMENTO
+
+----------------------------------------------------
+
+EMPRESA: CANAA DISTRIBUIDORA DE MEDICAMENTOS LTDA
+
+ENDEREÇO: RUA CRISANTEMO, QUADRA 07, LOTE 02, Nº 506
+
+BAIRRO: PARQUE OESTE INDUSTRIAL CEP: 74375530 - GOIÂNIA/GO
+
+CNPJ: 14.420.817/0001-23
+
+PROCESSO: 25351.387657/2015-31 AUTORIZ/MS: 1.14217.2
+
+ATIVIDADE/CLASSE
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+----------------------------------------------------
+
+EMPRESA: ENEILE DISTRIBUIÇÃO E IMPORTAÇÃO LTDA - EPP
+
+ENDEREÇO: RUA RIO GRANDE DO SUL N° 270
+
+BAIRRO: JARDIM ALVORADA CEP: 06612220 - JANDIRA/SP
+
+CNPJ: 16.927.572/0001-50
+
+PROCESSO: 25351.685556/2018-41 AUTORIZ/MS: 1.18168.9
+
+ATIVIDADE/CLASSE
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+IMPORTAR: MEDICAMENTO
+
+----------------------------------------------------
+
+EMPRESA: LINEA-RJ COMERCIO EIRELI
+
+ENDEREÇO: Rua Minas Gerais, 829A
+
+BAIRRO: Vila Palmeiras CEP: 26282190 - NOVA IGUAÇU/RJ
+
+CNPJ: 17.624.789/0001-54
+
+PROCESSO: 25351.420394/2014-71 AUTORIZ/MS: 1.10915.8
+
+ATIVIDADE/CLASSE
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+----------------------------------------------------
+
+EMPRESA: LEPUGE INSUMOS FARMACEUTICOS EIRELI
+
+ENDEREÇO: AVENIDA PIRAPORINHA, 251 GALPÃO 05
+
+BAIRRO: PLANALTO CEP: 09891001 - SÃO BERNARDO DO CAMPO/SP
+
+CNPJ: 57.884.835/0001-79
+
+PROCESSO: 25000.001218/91-96 AUTORIZ/MS: 1.20263.2
+
+ATIVIDADE/CLASSE
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS
+
+EXPORTAR: INSUMOS FARMACÊUTICOS
+
+IMPORTAR: INSUMOS FARMACÊUTICOS
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS
+
+----------------------------------------------------
+
+EMPRESA: IMCD BRASIL FARMACÊUTICOS IMPORTAÇÃO, EXPORTAÇÃO E REPRESENTAÇÕES LTDA
+
+ENDEREÇO: RUA ARQUITETO OLAVO REDIG DE CAMPOS N. 105 - 25° ANDAR, TORRE B, SALA A, UNIDADE COMERCIAL 2501B
+
+BAIRRO: VILA SÃO FRANCISCO CEP: 04711905 - SÃO PAULO/SP
+
+CNPJ: 62.651.955/0001-66
+
+PROCESSO: 25351.013490/01-37 AUTORIZ/MS: 1.20987.4
+
+ATIVIDADE/CLASSE
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS
+
+EXPEDIR: INSUMOS FARMACÊUTICOS
+
+EXPORTAR: INSUMOS FARMACÊUTICOS
+
+IMPORTAR: INSUMOS FARMACÊUTICOS
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS

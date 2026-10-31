@@ -1,0 +1,254 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 4.880, DE 26 DE NOVEMBRO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "4880"
+data: 2020-11-26
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 27/11/2020, seção 1, p. 202"
+data_publicacao: 2020-11-27
+edicao: "227"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.880-de-26-de-novembro-de-2020-290787310"
+sha256_html_fonte: 31208f0668df15de7e50a7e77a93861f562d2a0424c83c4cc3c853bc0572d97a
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 4.880, DE 26 DE NOVEMBRO DE 2020
+
+RESOLUÇÃO-RE Nº 4.880, DE 26 DE NOVEMBRO DE 2020
+
+O Coordenador de Autorização de Funcionamento de Empresas, Substituto, no uso das atribuições que lhe confere o art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º** Conceder Alteração de Autorização de Funcionamento para os estabelecimentos de Farmácias e Drogarias, em conformidade com o anexo desta Resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+MACER DROGUISTAS LTDA / 71.448.047/0019-90
+
+25351.002659/2003-01 / 0275177
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3726496206
+
+--------------------------------------
+
+MARIANA TOMÁS CHICARINO EIRELI / 04.426.259/0001-50
+
+25351.212196/2002-02 / 0132056
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 3744457203
+
+--------------------------------------
+
+D C R BARONCELI ME / 10.624.960/0001-86
+
+25351.146598/2009-09 / 0591993
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3726499201
+
+--------------------------------------
+
+droga center ii de teresopolis ltda. me / 14.983.643/0001-07
+
+25351.511400/2014-09 / 7278409
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3726503202
+
+--------------------------------------
+
+B&S FARMACIA E DROGARIA LTDA / 27.820.318/0001-75
+
+25351.484858/2017-12 / 7541664
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 3744463208
+
+--------------------------------------
+
+DROGATIM DROGARIAS LTDA / 06.198.619/0063-31
+
+25351.324837/2014-13 / 7204538
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3726505209
+
+--------------------------------------
+
+S.B COMERCIO DE MEDICAMENTOS LTDA / 36.905.744/0001-00
+
+25351.833825/2020-14 / 7742482
+
+70152 - AFE/AE - RECURSO ADMINISTRATIVO - FARMÁCIAS E DROGARIAS / 4066857206
+
+--------------------------------------
+
+FARMACIA EFFICACE LTDA / 03.819.290/0001-98
+
+25351.189225/2002-17 / 0283051
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 3726480200
+
+--------------------------------------
+
+farmacia moderna ltda / 08.771.258/0001-01
+
+25351.090177/2015-25 / 7365846
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 3744469207
+
+--------------------------------------
+
+braulio magela alves barbosa e cia ltda / 02.778.141/0001-65
+
+25351.138850/2014-34 / 7310219
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 3726478208
+
+--------------------------------------
+
+DMTOP COMERCIO DE MEDICAMENTOS E COSMETICOS LTDA / 06.271.093/0009-22
+
+25351.146741/2009-39 / 0592022
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3726494200
+
+--------------------------------------
+
+RUI DA SILVA E SILVA COMERCIO / 17.350.453/0001-40
+
+25351.382304/2014-39 / 7220954
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 3726482206
+
+--------------------------------------
+
+HIPER FARMA LTDA / 29.474.162/0033-20
+
+25351.518942/2020-42 / 7727777
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3744481206
+
+25351.518942/2020-42 / 7727777
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 3744465204
+
+--------------------------------------
+
+DROGARIA DOM BOSCO DA MOOCA LTDA. ME / 16.578.428/0001-56
+
+25351.278521/2013-44 / 0933214
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3726492203
+
+--------------------------------------
+
+ALEX JUNIOR JACOBY SOARES FARMACIA EIRELI / 35.376.270/0001-86
+
+25351.684326/2019-45 / 7694349
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 3739812201
+
+--------------------------------------
+
+dsg popular de coqueiral ltda / 37.754.748/0001-90
+
+25351.996835/2020-51 / 7752492
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 3738807200
+
+--------------------------------------
+
+GMO SANTOS EIRELI - ME / 11.422.694/0001-71
+
+25351.683903/2011-56 / 0815480
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 3744459200
+
+--------------------------------------
+
+CRISTINA A. ARRAIS / 31.583.072/0001-32
+
+25351.023862/2019-70 / 7632492
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 3726476201
+
+--------------------------------------
+
+ENEIAS DA R OLIVEIRA / 33.719.171/0001-24
+
+25351.552247/2019-76 / 7681789
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 3726486209
+
+--------------------------------------
+
+FARMACIA PAMED LTDA / 04.583.790/0001-36
+
+25351.540722/2013-76 / 0998973
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3726501206
+
+--------------------------------------
+
+CIA LATINO AMERICANA DE MEDICAMENTOS / 84.683.481/0607-49
+
+25351.584313/2019-77 / 7685061
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 3724503201
+
+25351.584313/2019-77 / 7685061
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3724882201
+
+--------------------------------------
+
+FERREIRA JUNIOR DROGARIA LTDA / 17.920.893/0001-96
+
+25351.254683/2014-78 / 7175440
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 3744453201
+
+--------------------------------------
+
+KARLEANE DE JESUS SILVA ME / 12.458.821/0001-55
+
+25351.664510/2019-79 / 7693158
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 3726488205
+
+--------------------------------------
+
+beatriz barroso saady / 04.508.370/0001-95
+
+25351.272198/2014-86 / 7177545
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 3726484202
+
+--------------------------------------
+
+HIPER FARMA LTDA / 29.474.162/0029-44
+
+25351.396798/2020-87 / 7722095
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 3744471209
+
+--------------------------------------
+
+H F DA SILVA GOMES / 22.083.445/0001-15
+
+25351.831984/2016-90 / 7432925
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 3744455207
+
+25351.831984/2016-90 / 7432925
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 3744467201
+
+--------------------------------------
+
+MARIA LEONICE JOTA MENDES EIRELI / 12.940.187/0001-92
+
+25351.384149/2014-95 / 7224362
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 3744461201

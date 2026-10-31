@@ -1,0 +1,146 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.215, DE 6 DE JULHO DE 2022"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "2215"
+data: 2022-07-06
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 07/07/2022, seção 1, p. 117"
+data_publicacao: 2022-07-07
+edicao: "127"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.215-de-6-de-julho-de-2022-413384157"
+sha256_html_fonte: fc436ccd798b74b2191c04786561c165c333387381b74767f0f279868db9fda9
+baixado_em: 2026-10-20
+---
+# RESOLUÇÃO-RE Nº 2.215, DE 6 DE JULHO DE 2022
+
+RESOLUÇÃO-RE Nº 2.215, DE 6 DE JULHO DE 2022
+
+O Coordenador de Autorização de Funcionamento de Empresas, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Conceder Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+FDG MEDICAL LTDA / 44.499.043/0001-39
+
+25351.133121/2022-00 / 1276838
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 4318476227
+
+--------------------------------------
+
+3F CLINICAL E TRIALS INOVACAO CANABINOIDE LTDA / 41.324.275/0001-68
+
+25351.090153/2022-03 / 1276977
+
+70309 - AE - CONCESSÃO - LABORATÓRIOS OU INSTITUIÇÕES DE PESQUISA (EXCETO INDÚSTRIA E FARMÁCIA DE MANIPULAÇÃO) / 4247066226
+
+--------------------------------------
+
+empreendimentos farma etica ltda / 17.709.483/0001-09
+
+25351.117672/2022-18 / 1276890
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 4295021220
+
+--------------------------------------
+
+SLIM MED PRODUTOS HOSPITALARES LTDA / 45.763.951/0001-50
+
+25351.135913/2022-19 / 1277006
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 4325618228
+
+--------------------------------------
+
+CBM Farmácia de Manipulação Ltda / 39.998.215/0001-89
+
+25351.117608/2022-37 / 1276872
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 4294670221
+
+--------------------------------------
+
+SÃO MIGUEL PRODUTOS HOSPITALARES E DE ODONTOLOGIA LTDA / 44.409.806/0001-03
+
+25351.124662/2022-39 / 1276811
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 4307162226
+
+--------------------------------------
+
+EXPRESSO MUHLBAUER LTDA / 00.697.050/0001-70
+
+25351.099848/2022-42 / 1276946
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 4264366224
+
+--------------------------------------
+
+WPJ DISTRIBUIÇÃO EIRELI / 38.657.860/0001-75
+
+25351.099823/2022-49 / 1276929
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 4264323223
+
+--------------------------------------
+
+J. P. A JUNIOR ATACADISTA DE MEDICAMENTOS EIRELI / 22.140.414/0001-59
+
+25351.125856/2022-51 / 1276841
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 4307426223
+
+--------------------------------------
+
+Manipulart Farmacia de Manipulação LTDA - EPP / 02.141.932/0003-41
+
+25351.117611/2022-51 / 1276886
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 4294679224
+
+--------------------------------------
+
+AHCOR COMERCIO DE PRODUTOS ODONTOLOGICOS LTDA / 37.556.213/0001-04
+
+25351.124108/2022-51 / 1276807
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 4306881229
+
+--------------------------------------
+
+MEDFLEX DISTRIBUIDORA DE PRODUTOS MÉDICOS HOSPITALARES EIRELI / 31.123.309/0001-00
+
+25351.139956/2022-65 / 1276915
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 4331895220
+
+--------------------------------------
+
+sulminas cargo transportes ltda / 30.296.133/0001-18
+
+25351.140054/2022-71 / 1276950
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 4332078225
+
+--------------------------------------
+
+A. PINHEIRO FARIAS EIRELI / 14.242.626/0001-19
+
+25351.139908/2022-77 / 1277037
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 4331814220
+
+--------------------------------------
+
+Impulse Produtos Hospitalares Ltda / 42.322.863/0001-25
+
+25351.142763/2022-91 / 1277010
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 4338645229

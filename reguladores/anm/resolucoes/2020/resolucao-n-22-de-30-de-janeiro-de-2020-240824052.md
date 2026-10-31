@@ -1,0 +1,46 @@
+---
+titulo: "Resolução Nº 22, DE 30 DE janeiro DE 2020"
+orgao: "Ministério de Minas e Energia/Agência Nacional de Mineração"
+tipo: "Resolução"
+numero: "22"
+data: 2020-01-30
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 31/01/2020, seção 1, p. 118"
+data_publicacao: 2020-01-31
+edicao: "22"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-n-22-de-30-de-janeiro-de-2020-240824052"
+sha256_html_fonte: b218a30ae2964037769dcd1ac7d6bd89f08f7cfd80e9496255b5c6f0ac4e36ab
+baixado_em: 2026-10-21
+---
+# Resolução Nº 22, DE 30 DE janeiro DE 2020
+
+Resolução Nº 22, DE 30 DE janeiro DE 2020
+
+Regulamenta o disposto nos arts. 11 e 18 do Decreto nº 10.178, de 18 de dezembro de 2019, para fixar o prazo para aprovação tácita dos atos públicos de liberação das atividades econômicas sob competência da Agência Nacional de Mineração - ANM.
+
+A Diretoria Colegiada da Agência Nacional de Mineração - ANM, no exercício das atribuições que lhe conferem os incisos II, VIII, XVII e XXIV da Lei n° 13.575, de 26 de dezembro de 2017; o art. 9° do Decreto nº 9.587, de 27 de novembro de 2018; o inc. II, do art. 10, do Regimento Interno, aprovado pela Resolução n° 2, de 12 de dezembro de 2018;
+
+Considerando a injunção do art. 10° do Decreto nº 10.178, de 18 de dezembro de 2019, que estabelece que a autoridade máxima do órgão ou da entidade responsável pelo ato público de liberação fixará o prazo para resposta aos atos requeridos junto à unidade;
+
+Considerando os prazos máximos estabelecidos nos art. 11 e 18 do Decreto nº 10.178, de 18 de dezembro de 2019;
+
+Considerando o teor dos documentos insertos no Processo nº 48051.000307/2020-93 e as deliberações tomadas na 65ª Reunião Administrativa de Diretoria Colegiada, realizada em 30 de janeiro de 2020, resolve:
+
+**Art. 1º** Esta Resolução regulamenta o disposto nos arts. 11 e 18 do Decreto nº 10.178, de 18 de dezembro de 2019, para fixar o prazo para resposta aos atos públicos de liberação das atividades econômicas sob competência da Agência Nacional de Mineração - ANM.
+
+**Parágrafo único.** Ficam sujeitos à regra de aprovação tácita prevista no Decreto nº 10.178, de 2019, exclusivamente os atos públicos de liberação das atividades econômicas especificados no Anexo I a esta Resolução.
+
+**Art. 2º** Os prazos máximos para apreciação de requerimentos dos atos públicos de liberação das atividades econômicas sujeitos a aprovação tácita estão elencados no Anexo I a esta Resolução.
+
+**§ 1º** A contagem dos prazos previstos no Anexo I a esta Portaria terá como termo inicial a data do protocolo do requerimento, desde que juntada a documentação completa com todos os elementos necessários para a análise e hábeis para prática do ato administrativo requerido.
+
+**§ 2º** Decorridos os prazos previstos no Anexo I a esta Resolução, a ausência de manifestação por parte da ANM acerca do deferimento do ato público de liberação implicará a aprovação tácita do exercício da atividade econômica.
+
+**§ 3º** O deferimento expresso ou a aprovação tácita não prejudicam o poder de polícia quanto à verificação do atendimento dos requisitos legais e regulamentares para o regular exercício da atividade econômica.
+
+**Art. 3º** Esta Resolução entra em vigor em 1º de fevereiro de 2020.
+
+VICTOR HUGO FRONER BICCA
+
+Diretor-Geral

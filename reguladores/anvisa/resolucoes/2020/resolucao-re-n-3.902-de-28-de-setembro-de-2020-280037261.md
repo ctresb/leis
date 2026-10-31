@@ -1,0 +1,206 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.902, DE 28 DE SETEMBRO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "3902"
+data: 2020-09-28
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 29/09/2020, seção 1, p. 111"
+data_publicacao: 2020-09-29
+edicao: "187"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.902-de-28-de-setembro-de-2020-280037261"
+sha256_html_fonte: 27ac278e5bb248f4bbb0135f47cfa12727cb7295845bbd167358ba79af5eb6a9
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 3.902, DE 28 DE SETEMBRO DE 2020
+
+RESOLUÇÃO-RE Nº 3.902, DE 28 DE SETEMBRO DE 2020
+
+A Coordenadora de Autorização de Funcionamento de Empresas, no uso das atribuições que lhe confere o art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º** Conceder Alteração de Autorização de Funcionamento para os estabelecimentos de Farmácias e Drogarias, em conformidade com o anexo desta Resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+PATRICIA AZEVEDO CHAGAS
+
+## ANEXO
+
+Drogaria F. J. Correa Ltda / 15.087.838/0001-31
+
+25351.696745/2015-04 / 7423418
+
+7112 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - REDUÇÃO DE ATIVIDADES / 2715352205
+
+--------------------------------------
+
+SOUSA OLIVEIRA COMERCIO DE MEDICAMENTOS EIRELI ME / 24.302.280/0001-50
+
+25351.044133/2016-12 / 7453417
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2748849207
+
+--------------------------------------
+
+ROSA GODOY DE ANDRADE - EIRELI / 11.662.154/0001-65
+
+25351.243990/2014-23 / 7178017
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2748853205
+
+--------------------------------------
+
+DROGARIA FARMELHOR 24 HORAS EIRELI / 04.083.186/0001-40
+
+25351.002237/2003-27 / 0220700
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2715366205
+
+--------------------------------------
+
+dmtop comercio de medicamentos e cosmeticos ltda / 06.271.093/0001-75
+
+25351.024346/2007-29 / 0485605
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2715368201
+
+--------------------------------------
+
+VIVA MELHOR DROGARIA DRUGSTORE EIRELI / 86.478.427/0001-15
+
+25351.027822/2003-30 / 0357428
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2748845204
+
+--------------------------------------
+
+RUDI BATISTELLO ME / 00.316.896/0001-12
+
+25351.148472/2017-40 / 7507692
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2715354201
+
+--------------------------------------
+
+FARMACIA FLOR DO CAMPO LTDA / 90.010.034/0001-50
+
+25351.192755/2002-42 / 0192449
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2748857208
+
+--------------------------------------
+
+MARIA LUCIA CARNEIRO DUARTE ME / 03.043.168/0001-72
+
+25351.003330/2020-50 / 7700898
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 2748889206
+
+--------------------------------------
+
+DROGARIA ANDRADE & MENDES LTDA / 08.222.201/0001-45
+
+25351.189306/2014-51 / 7150896
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2748851209
+
+--------------------------------------
+
+ANDILIERI E ANDILIERI LTDA / 03.581.852/0001-08
+
+25351.005835/2003-58 / 0263491
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2715360206
+
+--------------------------------------
+
+JOSÉ JÚLIO MARCONDES JÚNIOR / 41.804.667/0001-24
+
+25351.028982/2014-59 / 7091153
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2715362202
+
+--------------------------------------
+
+COMERCIO DE MEDICAMENTOS BRAIR LTDA / 88.212.113/0097-43
+
+25351.672205/2013-65 / 7044985
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 2748887200
+
+--------------------------------------
+
+F. PEGORARO FARMACIA EIRELI / 01.016.458/0001-00
+
+25351.342751/2013-74 / 0957588
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2748883207
+
+--------------------------------------
+
+DROGARIA CASA DA SAUDE LTDA EPP / 19.711.644/0001-16
+
+25351.548516/2015-76 / 7416162
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 2748891208
+
+--------------------------------------
+
+EDLAMAR FERREIRA DA SILVA DROGARIA LTDA / 05.917.963/0001-78
+
+25351.590023/2013-77 / 7029061
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2748855201
+
+--------------------------------------
+
+LEAO BORGES & CIA LTDA ME / 27.665.398/0001-31
+
+25351.337871/2017-83 / 7525021
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2748859204
+
+--------------------------------------
+
+JSC JUNIOR COM. VAREJ. DE PRODUTOS FARMACEUTICOS / 33.064.696/0002-50
+
+25351.121003/2020-89 / 7710361
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2715358204
+
+--------------------------------------
+
+DROGARIA MOMBACA LTDA / 26.343.907/0001-47
+
+25351.302530/2017-97 / 7521903
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 2748893204
+
+25351.302530/2017-97 / 7521903
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2748881201
+
+--------------------------------------
+
+BARUCK COMÉRCIO DE MEDICAMENTOS LTDA / 18.718.808/0001-74
+
+25351.567541/2013-97 / 0880672
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2748847201
+
+--------------------------------------
+
+DIMED S/A DISTRIBUIDORA DE MEDICAMENTOS / 92.665.611/0202-83
+
+25351.353375/2013-98 / 0969892
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2715364209
+
+--------------------------------------
+
+DROGARIA FURTADO ALVES LTDA - ME / 04.005.271/0001-90
+
+25351.695476/2013-99 / 7053833
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2715356208

@@ -1,0 +1,106 @@
+---
+titulo: "PORTARIA Nº 34, DE 24 JANEIRO DE 2019"
+orgao: "Poder Judiciário/Tribunal Regional Eleitoral do Tocantins"
+tipo: "Portaria"
+numero: "34"
+data: ""
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 29/01/2019, seção 1, p. 70"
+data_publicacao: 2019-01-29
+edicao: "20"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-34-de-24-janeiro-de-2019-60916660"
+sha256_html_fonte: 4e977bff429db06e5461887a54db3344dbf17e00c621923c5424164b488298fb
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 34, DE 24 JANEIRO DE 2019
+
+PORTARIA Nº 34, DE 24 JANEIRO DE 2019
+
+O PRESIDENTE DO TRIBUNAL REGIONAL ELEITORAL DO TOCANTINS, no uso de suas atribuições legais e regimentais e considerando o disposto nos artigos 54, III, e 55, §2º, da Lei Complementar nº. 101, de 4 de maio de 2000, e no art. 20, inciso XVIII, da Resolução TRE-TO nº. 282, de 11 de dezembro de 2012, , resolve:
+
+**Art. 1º** Tornar público o Relatório de Gestão Fiscal deste Tribunal relativo ao 3º Quadrimestre de 2018, contemplando o período de janeiro a dezembro de 2018, constante do demonstrativo anexo a esta Portaria.
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação.
+
+Desembargador Marco Villas Boas
+
+## ANEXOS
+
+UNIÃO - PODER JUDICIÁRIO
+
+TRIBUNAL REGIONAL ELEITORAL DO TOCANTINS
+
+RELATÓRIO DE GESTÃO FISCAL
+
+DEMONSTRATIVO DA DESPESA COM PESSOAL
+
+ORÇAMENTOS FISCAL E DA SEGURIDADE SOCIAL
+
+JANEIRO A DEZEMBRO DE 2018
+
+<table><tr><td><p>RGF - ANEXO 1 (LRF, art. 55, inciso I, alínea "a")</p></td><td><p>R$ 1,00</p></td></tr><tr><td></td><td><p>DESPESAS EXECUTADAS (Últimos 12 meses)</p></td></tr><tr><td></td><td><p>LIQUIDADAS</p></td><td><p>INSCRITAS</p></td></tr><tr><td><p>DESPESA COM</p></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><p>TOTAL</p></td><td><p>EM RESTOS A</p></td></tr><tr><td><p>PESSOAL</p></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><p>(ÚLTIMOS</p></td><td><p>PAGAR NÃO-</p></td></tr><tr><td></td><td><p>Jan/18</p></td><td><p>Fev/18</p></td><td><p>Mar/18</p></td><td><p>Abr/18</p></td><td><p>Mai/18</p></td><td><p>Jun/18</p></td><td><p>Jul/18</p></td><td><p>Ago/18</p></td><td><p>Set/18</p></td><td><p>Out/18</p></td><td><p>Nov/18</p></td><td><p>Dez/18</p></td><td><p>12 MESES)</p></td><td><p>PROCESSADOS¹</p></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><p>(a)</p></td><td><p>(b)</p></td></tr><tr><td><p>DESPESA BRUTA COM PESSOAL (I)</p></td><td><p>5.970.889,46</p></td><td><p>4.747.914,71</p></td><td><p>4.805.033,91</p></td><td><p>4.909.170,68</p></td><td><p>5.247.078,24</p></td><td><p>7.747.684,17</p></td><td><p>5.418.525,32</p></td><td><p>4.818.175,91</p></td><td><p>4.988.788,31</p></td><td><p>5.589.520,71</p></td><td><p>10.342.257,44</p></td><td><p>8.730.445,17</p></td><td><p>73.315.484,03</p></td><td><p>-</p></td></tr><tr><td><p>Pessoal Ativo</p></td><td><p>5.396.407,81</p></td><td><p>4.364.418,79</p></td><td><p>4.421.792,08</p></td><td><p>4.525.928,85</p></td><td><p>4.851.676,56</p></td><td><p>7.344.967,03</p></td><td><p>5.015.808,18</p></td><td><p>4.414.563,30</p></td><td><p>4.585.772,68</p></td><td><p>5.147.567,12</p></td><td><p>9.668.272,59</p></td><td><p>8.280.909,07</p></td><td><p>68.018.084,06</p></td><td><p>-</p></td></tr><tr><td><p>Vencimentos, Vantagens e Outras Despesas Variáveis</p></td><td><p>4.821.778,00</p></td><td><p>3.785.999,88</p></td><td><p>3.844.798,23</p></td><td><p>3.947.815,97</p></td><td><p>4.270.821,19</p></td><td><p>6.734.278,63</p></td><td><p>4.429.287,71</p></td><td><p>3.826.809,92</p></td><td><p>3.998.642,06</p></td><td><p>4.559.324,86</p></td><td><p>8.470.654,42</p></td><td><p>7.672.069,68</p></td><td><p>60.362.280,55</p></td><td><p>-</p></td></tr><tr><td><p>Obrigações Patronais</p></td><td><p>574.629,81</p></td><td><p>578.418,91</p></td><td><p>576.993,85</p></td><td><p>578.112,88</p></td><td><p>580.855,37</p></td><td><p>610.688,40</p></td><td><p>586.520,47</p></td><td><p>587.753,38</p></td><td><p>587.130,62</p></td><td><p>588.242,26</p></td><td><p>1.197.618,17</p></td><td><p>608.839,39</p></td><td><p>7.655.803,51</p></td><td><p>-</p></td></tr><tr><td><p>Benefícios Previdenciários</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td></tr><tr><td><p>Pessoal Inativo e Pensionistas</p></td><td><p>574.481,65</p></td><td><p>383.495,92</p></td><td><p>383.241,83</p></td><td><p>383.241,83</p></td><td><p>395.401,68</p></td><td><p>402.717,14</p></td><td><p>402.717,14</p></td><td><p>403.612,61</p></td><td><p>403.015,63</p></td><td><p>441.953,59</p></td><td><p>673.984,85</p></td><td><p>449.536,10</p></td><td><p>5.297.399,97</p></td><td><p>-</p></td></tr><tr><td><p>Aposentadorias, Reserva e Reformas</p></td><td><p>510.918,49</p></td><td><p>340.865,39</p></td><td><p>340.738,84</p></td><td><p>340.738,84</p></td><td><p>352.898,69</p></td><td><p>359.390,91</p></td><td><p>359.390,91</p></td><td><p>360.286,38</p></td><td><p>359.689,40</p></td><td><p>398.627,36</p></td><td><p>606.770,94</p></td><td><p>405.335,29</p></td><td><p>4.735.651,44</p></td><td><p>-</p></td></tr><tr><td><p>Pensões</p></td><td><p>63.563,16</p></td><td><p>42.630,53</p></td><td><p>42.502,99</p></td><td><p>42.502,99</p></td><td><p>42.502,99</p></td><td><p>43.326,23</p></td><td><p>43.326,23</p></td><td><p>43.326,23</p></td><td><p>43.326,23</p></td><td><p>43.326,23</p></td><td><p>67.213,91</p></td><td><p>44.200,81</p></td><td><p>561.748,53</p></td><td><p>-</p></td></tr><tr><td><p>Outros Benefícios Previdenciários</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td></tr><tr><td><p>Outras despesas de pessoal decorrentes de contratos de terceirização (§1º do art. 18 da LRF)</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td></tr><tr><td><p>DESPESAS NÃO COMPUTADAS (II) (§1º do art. 19 da LRF)</p></td><td><p>574.481,65</p></td><td><p>400.272,57</p></td><td><p>414.135,99</p></td><td><p>393.028,33</p></td><td><p>405.446,29</p></td><td><p>418.267,60</p></td><td><p>420.897,33</p></td><td><p>405.525,21</p></td><td><p>403.015,63</p></td><td><p>441.953,59</p></td><td><p>263.784,41</p></td><td><p>907.272,47</p></td><td><p>5.448.081,07</p></td><td><p>-</p></td></tr><tr><td><p>Indenizações por Demissão e Incentivos à Demissão Voluntária</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td></tr><tr><td><p>Decorrentes de Decisão Judicial de período anterior ao da apuração</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td></tr><tr><td><p>Despesas de Exercícios Anteriores de período anterior ao da apuração</p></td><td><p>-</p></td><td><p>16.776,65</p></td><td><p>30.894,16</p></td><td><p>9.786,50</p></td><td><p>10.044,61</p></td><td><p>15.550,46</p></td><td><p>18.180,19</p></td><td><p>1.912,60</p></td><td><p>-</p></td><td><p>-</p></td><td><p>17.663,43</p></td><td><p>907.272,47</p></td><td><p>1.028.081,07</p></td><td><p>-</p></td></tr><tr><td><p>Inativos e Pensionistas com Recursos Vinculados</p></td><td><p>574.481,65</p></td><td><p>383.495,92</p></td><td><p>383.241,83</p></td><td><p>383.241,83</p></td><td><p>395.401,68</p></td><td><p>402.717,14</p></td><td><p>402.717,14</p></td><td><p>403.612,61</p></td><td><p>403.015,63</p></td><td><p>441.953,59</p></td><td><p>246.120,98</p></td><td><p>-</p></td><td><p>4.420.000,00</p></td><td><p>-</p></td></tr><tr><td><p>DESPESA LÍQUIDA COM PESSOAL (III) = (I-II)</p></td><td><p>5.396.407,81</p></td><td><p>4.347.642,14</p></td><td><p>4.390.897,92</p></td><td><p>4.516.142,35</p></td><td><p>4.841.631,95</p></td><td><p>7.329.416,57</p></td><td><p>4.997.627,99</p></td><td><p>4.412.650,70</p></td><td><p>4.585.772,68</p></td><td><p>5.147.567,12</p></td><td><p>10.078.473,03</p></td><td><p>7.823.172,70</p></td><td><p>67.867.402,96</p></td><td><p>-</p></td></tr><tr><td></td></tr><tr><td><p>APURAÇÃO DO CUMPRIMENTO DO LIMITE LEGAL</p></td><td><p>VALOR</p></td><td><p>%SOBRE A RCL</p></td></tr><tr><td><p>RECEITA CORRENTE LÍQUIDA - RCL (IV)</p></td><td><p>805.348.403.466,57</p></td><td><p>-</p></td></tr><tr><td><p>DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b)</p></td><td><p>67.867.402,96</p></td><td><p>0,008427</p></td></tr><tr><td><p>LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)</p></td><td><p>99.830.988,09</p></td><td><p>0,012396</p></td></tr><tr><td><p>LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)</p></td><td><p>94.839.438,69</p></td><td><p>0,011776</p></td></tr><tr><td><p>LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)</p></td><td><p>89.847.889,28</p></td><td><p>0,011156</p></td></tr><tr><td><p>FONTE: Sistema SIAFI, SEACONT/COFIN/TRE-TO, 23/jan/2019, 12h e 47m.</p><p>¹Nos demonstrativos elaborados no primeiro e no segundo quadrimestre de cada exercício, os valores de restos a pagar não processados inscritos em 31 de dezembro do exercício anterior continuarão a ser informados nesse campo. Esses valores não sofrem alteração pelo seu processamento, e somente no caso de cancelamento podem ser excluídos.</p></td></tr><tr><td><p>Notas:</p><p>1. Limites Máximo e Prudencial estabelecidos pela Portaria TSE nº 385/2013.</p><p>2. Valor da RCL referente à Portaria STN nº 50, de 23/1/2019</p></td></tr></table>
+
+UNIÃO - PODER JUDICIÁRIO
+
+TRIBUNAL REGIONAL ELEITORAL DO TOCANTINS
+
+RELATÓRIO DE GESTÃO FISCAL
+
+DEMONSTRATIVO DA DISPONIBILIDADE DE CAIXA E DOS RESTOS A PAGAR
+
+ORÇAMENTOS FISCAL E DA SEGURIDADE SOCIAL
+
+JANEIRO A DEZEMBRO DE 2018
+
+<table><tr><td><p>RGF - ANEXO 5 (LRF, art. 55, Inciso III, alíneas "a" e "b")</p></td><td><p>R$ 1,00</p></td></tr></table>
+
+<table><tr></tr><tr><td></td><td></td><td></td><td><p>OBRIGAÇÕES FINANCEIRAS</p></td><td><p>DISPONIBILIDADE DE</p></td><td></td><td><p>EMPENHOS NÃO</p></td></tr><tr><td></td><td></td><td></td><td></td><td><p>CAIXA LÍQUIDA (ANTES</p></td><td><p>RESTOS A PAGAR</p></td><td><p>LIQUIDADOS</p></td></tr><tr><td></td><td><p>DISPONIBILIDADE</p></td><td><p>Restos A Pagar Liquidados</p></td><td><p>Restos a Pagar Empenhados</p></td><td><p>Demais</p></td><td><p>DA INSCRIÇÃO EM</p></td><td><p>EMPENHADOS E</p></td><td><p>CANCELADOS</p></td></tr><tr><td><p>IDENTIFICAÇÃO DOS RECURSOS</p></td><td><p>DE CAIXA BRUTA</p></td><td><p>e Não Pagos</p></td><td><p>e Não Liquidados de</p></td><td><p>Obrigações</p></td><td><p>RESTOS A PAGAR NÃO</p></td><td><p>NÃO LIQUIDADOS</p></td><td><p>(NÃO INSCRITOS</p></td></tr><tr><td></td><td></td><td></td><td><p>De Exercícios</p></td><td><p>Do Exercício</p></td><td><p>Exercícios Anteriores</p></td><td><p>Financeiras</p></td><td><p>PROCESSADOS DO EXERCÍCIO)</p></td><td><p>DO EXERCÍCIO</p></td><td><p>POR INSUFICIÊNCIA</p></td></tr><tr><td></td><td></td><td></td><td><p>Anteriores</p></td><td></td><td></td><td></td><td></td><td></td><td><p>FINANCEIRA)</p></td></tr><tr><td></td><td></td><td><p>(a)</p></td><td><p>(b)</p></td><td><p>(c)</p></td><td><p>(d)</p></td><td><p>(e)</p></td><td><p>(f) = (a - (b + c + d + e))</p></td><td></td><td></td></tr><tr><td><p>TOTAL DOS RECURSOS VINCULADOS (I)</p></td><td><p>454.216,67</p></td><td><p>-</p></td><td><p>3.281,49</p></td><td><p>-</p></td><td><p>2.500,00</p></td><td><p>448.435,18</p></td><td><p>101.969,45</p></td><td><p>-</p></td></tr><tr><td><p>Recursos destinados ao RPPS</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td></tr><tr><td></td><td><p>0156 - Contribuição Plano Seguridade Social Servidor</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td></tr><tr><td></td><td><p>0169 - Contribuição Patronal p/ Plano Seg. Social Servidor</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td></tr><tr><td><p>Recursos de Operações de Cré dito (exceto destinados à Educação e à Saúde)</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td></tr><tr><td></td><td><p>0144 - Títulos de Respons. Tesouro - Outras Aplicações</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td></tr><tr><td></td><td><p>0188 - Remuneração das Disponibilidades do Tesouro Nacional</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td></tr><tr><td><p>Outras destinações vinculadas de recursos</p></td><td><p>454.216,67</p></td><td><p>-</p></td><td><p>3.281,49</p></td><td><p>-</p></td><td><p>2.500,00</p></td><td><p>448.435,18</p></td><td><p>101.969,45</p></td><td><p>-</p></td></tr><tr><td></td><td><p>0127 - Custas e Emolumentos - Poder Judiciário</p></td><td><p>155.840,94</p></td><td></td><td><p>3.281,49</p></td><td><p>-</p></td><td><p>-</p></td><td><p>152.559,45</p></td><td><p>101.969,45</p></td><td><p>-</p></td></tr><tr><td></td><td><p>0150 - Recursos Não-financeiros Diretamente Arrecadados</p></td><td><p>295.875,73</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>295.875,73</p></td><td><p>-</p></td><td><p>-</p></td></tr><tr><td></td><td><p>0153 - Contribuição para Financiamento da Seguridade Social</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td></tr><tr><td></td><td><p>0174 - Taxas pelo Exercício do Poder de Polícia</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td></tr><tr><td></td><td><p>0190 - Recursos Diversos</p></td><td><p>2.500,00</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>2.500,00</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td></tr><tr><td></td><td><p>0327 - Custas e Emolumentos - PJ - Exercícios Anteriores</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td></tr><tr><td></td><td><p>0350 - Recursos Não-fin. Diret. Arrec. - Exercícios Anteriores</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td></tr><tr><td><p>TOTAL DOS RECURSOS NÃO VINCULADOS (II)</p></td><td><p>2.229.007,32</p></td><td><p>48.087,26</p></td><td><p>787.233,37</p></td><td><p>-</p></td><td><p>-</p></td><td><p>1.393.686,69</p></td><td><p>1.393.686,69</p></td><td><p>-</p></td></tr><tr><td><p>Recursos Ordinários</p></td><td><p>2.229.007,32</p></td><td><p>48.087,26</p></td><td><p>787.233,37</p></td><td><p>-</p></td><td><p>-</p></td><td><p>1.393.686,69</p></td><td><p>1.393.686,69</p></td><td><p>-</p></td></tr><tr><td></td><td><p>0100 - Recursos Ordinários</p></td><td><p>2.229.007,32</p></td><td><p>48.087,26</p></td><td><p>787.233,37</p></td><td><p>-</p></td><td><p>-</p></td><td><p>1.393.686,69</p></td><td><p>1.393.686,69</p></td><td><p>-</p></td></tr><tr><td></td><td><p>0300 - Recursos Ordinários - Exercícios Anteriores</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td></tr><tr><td><p>TOTAL (III) = (I+II)</p></td><td><p>2.683.223,99</p></td><td><p>48.087,26</p></td><td><p>790.514,86</p></td><td><p>-</p></td><td><p>2.500,00</p></td><td><p>1.842.121,87</p></td><td><p>1.495.656,14</p></td><td><p>-</p></td></tr></table>
+
+<table><tr><td><p>FONTE: Sistema SIAFI, SEACONT/COFIN/TRE-TO, 23/jan/2019, 12h e 17m.</p><p>Notas: 1. O modelo estabelecido na 7ª Edição do Manual de Demonstrativos Fiscais foi adequado para permitir a identificação por Fonte de Recursos, conforme orientações do Tribunal de Contas da União.</p></td></tr><tr><td><p>2. Os valores foram apurados conforme os procedimentos estabelecidos na Macrofunção 021301 do Manual SIAFI, apresentando os valores líquidos de Limite de Restos a Pagar a Receber ou a Liberar e Diferidos.</p><p>3. A coluna "Insuficiência financeira verificada no Consórcio Público" foi suprimida por integrar o Relatório de Gestão fiscal do Poder Executivo de cada ente consorciado.</p></td></tr><tr><td><p>4. Na coluna "Demais Obrigações Financeiras" foram incluídos os valores de recursos a liberar de restos a pagar autorizado no montante de R$ 1.143.695,10</p></td></tr></table>
+
+UNIÃO - PODER JUDICIÁRIO
+
+TRIBUNAL REGIONAL ELEITORAL DO TOCANTINS
+
+RELATÓRIO DE GESTÃO FISCAL
+
+DEMONSTRATIVO SIMPLIFICADO DO RELATÓRIO DE GESTÃO FISCAL
+
+ORÇAMENTOS FISCAL E DA SEGURIDADE SOCIAL
+
+JANEIRO A DEZEMBRO DE 2018
+
+<table><tr><td><p>LRF, art. 48 - Anexo 6</p></td><td><p>R$ 1,00</p></td></tr><tr><td><p>RECEITA CORRENTE LÍQUIDA</p></td><td><p>VALOR ATÉ O QUADRIMESTRE</p></td></tr><tr><td><p>Receita Corrente Líquida</p></td><td><p>805.348.403.466,57</p></td></tr><tr><td></td></tr><tr><td><p>DESPESA COM PESSOAL</p></td><td><p>VALOR</p></td><td><p>% SOBRE A RCL</p></td></tr><tr><td><p>Despesa Total com Pessoal - DTP</p></td><td><p>67.867.402,96</p></td><td><p>0,008427</p></td></tr><tr><td><p>Limite Máximo (incisos I, II e III, art. 20 da LRF)</p></td><td><p>99.830,988,09</p></td><td><p>0,012396</p></td></tr><tr><td><p>Limite Prudencial (parágrafo único, art. 22 da LRF)</p></td><td><p>94.839.438,69</p></td><td><p>0,011776</p></td></tr><tr><td><p>Limite de Alerta (inciso II do §1º do art. 59 da LRF)</p></td><td><p>89.847.889,28</p></td><td><p>0,011156</p></td></tr><tr><td></td></tr><tr><td><p>RESTOS A PAGAR</p></td><td><p>INSCRIÇÃO EM</p></td><td><p>DISPONIBILIDADE DE CAIXA LÍQUIDA (ANTES DA</p></td></tr><tr><td></td><td><p>RESTOS A PAGAR NÃO PROCESSADOS</p></td><td><p>INSCRIÇÃO EM RESTOS A</p></td></tr><tr><td></td><td><p>DO EXERCÍCIO</p></td><td><p>PAGAR NÃO PROCESSADOS DO EXERCÍCIO</p></td></tr><tr><td><p>Valor Apurado nos Demonstrativos Respectivos</p></td><td><p>1.495.656,14</p></td><td><p>1.842.121,87</p></td></tr></table>
+
+<table><tr></tr><tr><td><p>FONTE: Sistema SIAFI, SEACONT/COFIN/TRE-TO, 23/jan/2019, 12h e 47m.</p></td></tr></table>
+
+UNIÃO - PODER JUDICIÁRIO
+
+TRIBUNAL REGIONAL ELEITORAL DO TOCANTINS
+
+RELATÓRIO DE GESTÃO FISCAL
+
+DEMONSTRATIVO DOS LIMITES DE DESPESA COM PESSOAL EM CUMPRIMENTO AO ACÓRDÃO 553/2017-TCU-PLENÁRIO. ITEM 9.4
+
+ORÇAMENTOS FISCAL E DA SEGURIDADE SOCIAL
+
+JANEIRO A DEZEMBRO DE 2018
+
+<table><tr><td></td><td><p><em>R$ 1,00</em></p></td></tr><tr><td></td><td></td><td><p>DESPESAS EXECUTADAS</p></td></tr><tr><td><p>DESPESA BRUTA COM PESSOAL (I)</p></td><td><p>73.315.484,03</p></td></tr><tr><td><p>DESPESAS NÃO COMPUTADAS (§ 1º do art. 19 da LRF)(II)</p></td><td><p>5.448.081,07</p></td></tr><tr><td><p>DESPESA LÍQUIDA COM PESSOAL (III) = (I-II)</p></td><td><p>67.867.402,96</p></td></tr><tr><td><p>APURAÇÃO DO CUMPRIMENTO DO LIMITE LEGAL</p></td></tr><tr><td><p>RECEITA CORRENTE LÍQUIDA - RCL (IV)</p></td><td><p>805.348.403.466,57</p></td></tr><tr><td><p>% da DESPESA TOTAL COM PESSOAL DTP sobre a RCL (V) = (III/IV)*100</p></td><td><p>0,008427%</p></td></tr><tr><td></td><td></td><td><p>% DA RCL</p></td><td><p>VALOR</p></td></tr><tr><td></td><td><p>LRF, art. 20, incisos I, II e III</p></td><td><p>0,012431%</p></td><td><p>100.112.860,03</p></td></tr><tr><td><p>LIMITE</p></td><td><p>Resol. CNJ 5/2005</p></td><td><p>Ato decorrente:</p></td><td><p>Portaria TSE n°478, de 26/9/05</p></td><td><p>0,012419%</p></td><td><p>100.016.218,23</p></td></tr><tr><td><p>MÁXIMO</p></td><td><p>Resol. CNJ 26/2006</p></td><td><p>Ato decorrente:</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td></tr><tr><td></td><td><p>Resol. CNJ 177/2013</p></td><td><p>Ato decorrente:</p></td><td><p>Portaria TSE nº 385, de 22/8/13</p></td><td><p>0,012396%</p></td><td><p>99.830.988,09</p></td></tr><tr><td></td><td><p>Justiça do Trabalho / Ato Conjunto TST.CSJT/2015</p></td><td><p>-</p></td><td><p>-</p></td></tr><tr><td><p>Notas : 1. Valor da RCL referente à Portaria STN nº 50, de 23/1/2019</p></td></tr></table>
+
+Desembargador Marco Villas Boas
+
+Presidente
+
+José Machado dos Santos
+
+Diretor Geral
+
+Teodomiro Fernandes Amorim
+
+Secretário de Administração e Orçamento
+
+Maria Helena Sobrinho Amorim
+
+Coordenadora de Controle Interno e Auditoria - Substituta

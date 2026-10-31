@@ -1,0 +1,48 @@
+---
+titulo: "PORTARIA GM/MS Nº 8.623, DE 31 DE OUTUBRO DE 2025"
+orgao: "Ministério da Saúde/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "8623"
+data: 2025-10-31
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 03/11/2025, seção 1, p. 82"
+data_publicacao: 2025-11-03
+edicao: "209"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-gm/ms-n-8.623-de-31-de-outubro-de-2025-666155096"
+baixado_em: 2026-10-16
+---
+# PORTARIA GM/MS Nº 8.623, DE 31 DE OUTUBRO DE 2025
+
+PORTARIA GM/MS Nº 8.623, DE 31 DE OUTUBRO DE 2025
+
+Autoriza o Estado, Município ou Distrito Federal a receber recursos referentes ao incremento temporário ao custeio dos serviços de Atenção Especializada à Saúde.
+
+O MINISTRO DE ESTADO DA SAÚDE, no uso das atribuições que lhe conferem os incisos I e II do parágrafo único do art. 87 da Constituição, em observância a Lei nº 15.121, de 10 de abril de 2025, Lei Complementar nº 141, de 13 de janeiro de 2012, Lei nº 8.080, de 19 de setembro de 1990, resolve:
+
+**Art. 1º** Ficam autorizados os Estados, o Distrito Federal e os Municípios descritos no anexo desta Portaria a receberem recursos financeiros referentes ao incremento temporário para o custeio dos serviços de Atenção Especializada à Saúde.
+
+**Art. 2º** Os recursos financeiros tratados nesta Portaria referem-se à aplicação das emendas parlamentares para incremento temporário ao custeio dos serviços de Atenção Especializada à Saúde.
+
+**Art. 3º** As propostas de que tratam esta portaria serão processadas no InvestSUS, disponível no portalfns.saude.gov.br.
+
+**Art. 4º** O Fundo Nacional de Saúde adotará as medidas necessárias para as transferências de recursos financeiros estabelecidas nesta Portaria aos respectivos Fundos de Saúde, em parcela única, em conformidade com os processos de pagamento instruídos pela Secretaria Finalística, após atendidas as condições previstas para essa modalidade de transferência.
+
+**Art. 5º** A prestação de contas sobre a aplicação dos recursos financeiros será realizada por meio do Relatório Anual de Gestão - RAG, aprovado pelo respectivo Conselho local de saúde, nos termos dos artigos 34 a 36 da Lei Complementar nº 141, de 14 de janeiro de 2012.
+
+**Art. 6º** Esta Portaria entra em vigor na data de sua publicação.
+
+ALEXANDRE ROCHA SANTOS PADILHA
+
+## ANEXO
+
+Entes federados autorizados a receberem recursos financeiros federais de emendas destinados ao incremento temporário ao custeio dos serviços de Atenção Especializada à Saúde.
+
+| UF | MUNICÍPIO | ENTIDADE | Nº DA PROPOSTA | VALOR TOTAL DA PROPOSTA (R$) | CÓD. EMENDA | VALOR POR EMENDA (R$) | FUNCIONAL PROGRAMÁTICA | CNES | VALOR (R$) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| BA | SALVADOR | PMS/SMS/FUNDO MUNICIPAL DE SAUDE | 36000715053202500 | 1.000.000,00 | 71060006 | 1.000.000,00 | 1030251182E900029 | 6385907 | 1.000.000,00 |
+| BA | SALVADOR | PMS/SMS/FUNDO MUNICIPAL DE SAUDE | 36000715311202500 | 2.057.500,00 | 71060006 | 2.057.500,00 | 1030251182E900029 | 6385907 | 2.057.500,00 |
+| MG | SAO JOAO NEPOMUCENO | FUNDO MUNICIPAL DE SAUDE DE SAO JOAO NEPOMUCENO | 36000712478202500 | 100.000,00 | 71140001 | 100.000,00 | 1030251182E900031 | 6599109 | 100.000,00 |
+| PB | BARRA DE SANTANA | FUNDO MUNICIPAL DE SAUDE BARRA DE SANTANA | 36000708977202500 | 465.000,00 | 71160010 | 465.000,00 | 1030251182E900025 | 5673518 | 465.000,00 |
+| TO | FORMOSO DO ARAGUAIA | FUNDO MUNICIPAL DE SAUDE DO MUNICIPIO DE FORMOSO DO ARAGUAIA | 36000712913202500 | 1.800.000,00 | 71280002 | 1.800.000,00 | 1030251182E900017 | 6387535 | 1.800.000,00 |
+| TOTAL | 5 PROPOSTAS | 5.422.500,00 |  |  |  |  |  |  |  |

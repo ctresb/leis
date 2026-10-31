@@ -1,0 +1,238 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.859, DE 6 DE AGOSTO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Segunda Diretoria/Gerência-Geral de Alimentos"
+tipo: "Resolução"
+numero: "2859"
+data: 2020-08-06
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 10/08/2020, seção 1, p. 69"
+data_publicacao: 2020-08-10
+edicao: "152"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.859-de-6-de-agosto-de-2020-271229262"
+sha256_html_fonte: 6615468a7688685c722404657b12f860cb0fa5b79452943b1138651d060ca41e
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 2.859, DE 6 DE AGOSTO DE 2020
+
+RESOLUÇÃO-RE Nº 2.859, DE 6 DE AGOSTO DE 2020
+
+A Gerente-Geral de Alimentos, no uso das atribuições que lhe confere o art. 126, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:
+
+**Art.1º** Deferir as petições relacionadas à Gerência-Geral de Alimentos, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+THALITA ANTONY DE SOUZA LIMA
+
+## ANEXO
+
+Relatório de Conferência de Alimentos. Publicação nr.: 480020
+
+NOME DA EMPRESA CNPJ
+
+NOME DO PRODUTO UF
+
+NUMERO DO PROCESSO NUMERO DE REGISTRO
+
+EMBALAGEM VALIDADE PRODUTO
+
+CLASS/CAT DESCRIÇÃO VALIDADE REGISTRO
+
+MARCA DO PRODUTO
+
+ASSUNTO PETIÇÃO
+
+-----------------------------------------------
+
+ALTHAIA S.A INDÚSTRIA FARMACÊUTICA 48.344.725/0007-19
+
+SUPLEMENTO ALIMENTAR DE LACTASE EM COMPRIMIDOS MASTIGÁVEIS
+
+25351.731394/2019-19 6.7397.0001.001-1
+
+METALICA 24 Meses
+
+Suplementos Alimentares Contendo Probióticos e/ou Enzimas 08/2025
+
+EQUALIV LACTASE/ DROGA RAIA LACTASE / RAIA LACTASE/ DROGASIL LACTASE/ PANVEL VITA LACTASE/ NEEDS LACTASE/ GONUTRI LACTASE/ SAUDAV LACTASE/ SAUDALIV LACTASE/ VIVACITA LACTASE/ ANIMATIV LACTASE/ NUTRI VITALEY LACTASE/ YOUVITA LACTASE/ VIT2YOU LACTASE/ MULTIMIX LACTASE / POSITIVE LACTASE / COMPLETUS VITA LACTASE / EFFECTIVE VITA LACTASE
+
+4077 Registro de Suplementos Alimentares Contendo Probióticos e/ou Enzimas
+
+-----------------------------------------------
+
+DANONE LTDA. 23.643.315/0115-10
+
+FÓRMULA PEDIÁTRICA PARA NUTRIÇÃO ENTERAL - HOLANDA
+
+25351.525228/2009-90 6.6577.0059.002-6
+
+VIDRO 12 Meses
+
+PLASTICO 12 Meses
+
+ALIMENTOS PARA NUTRIÇÃO ENTERAL 03/2025
+
+4097 Revalidação de registro de fórmulas pediátricas para nutrição enteral
+
+456 Alteração de Rotulagem
+
+-----------------------------------------------
+
+LIFE'S INDUSTRIA E COMERCIO DE PRODUTOS ALIMENTICIOS LTDA 09.293.201/0001-07
+
+MODULO DE L-GLUTAMINA PARA NUTRIÇÃO ENTERAL OU ORAL
+
+25351.059839/2015-51 6.6452.0003.001-1
+
+ALIMENTOS PARA NUTRIÇÃO ENTERAL
+
+4055 Cancelamento de Registro de Alimentos - Anvisa
+
+-----------------------------------------------
+
+NESTLE BRASIL LTDA 60.409.075/0001-52
+
+FÓRMULA INFANTIL DE SEGUIMENTO PARA LACTENTES - MEXICO - FORM 1
+
+25004.004985/99 4.0076.1747.002-1
+
+ALIMENTOS INFANTIS
+
+4055 Cancelamento de Registro de Alimentos - Anvisa
+
+FÓRMULA INFANTIL DE SEGUIMENTO PARA LACTENTES - ARAÇATUBA-SP - FORM 1
+
+25004.004985/99 4.0076.1747.003-1
+
+ALIMENTOS INFANTIS
+
+4055 Cancelamento de Registro de Alimentos - Anvisa
+
+FÓRMULA INFANTIL DE SEGUIMENTO PARA LACTENTES - MEXICO - FORM 2
+
+25004.004985/99 4.0076.1747.004-8
+
+ALIMENTOS INFANTIS
+
+4055 Cancelamento de Registro de Alimentos - Anvisa
+
+FÓRMULA INFANTIL DE SEGUIMENTO PARA LACTENTES - ARAÇATUBA-SP - FORM 2
+
+25004.004985/99 4.0076.1747.005-6
+
+ALIMENTOS INFANTIS
+
+4055 Cancelamento de Registro de Alimentos - Anvisa
+
+-----------------------------------------------
+
+NUTRIMED INDUSTRIAL LTDA 72.563.158/0001-80
+
+MÓDULO DE FIBRA SOLÚVEL PARA NUTRIÇÃO ENTERAL OU ORAL
+
+25016.953636/2009-30 5.7419.0038.001-1
+
+ALIMENTOS PARA NUTRIÇÃO ENTERAL
+
+4055 Cancelamento de Registro de Alimentos - Anvisa
+
+-----------------------------------------------
+
+PROBIÓTICA LABORATÓRIOS LTDA 56.307.911/0001-10
+
+MÓDULO DE L-GLUTAMINA PARA NUTRIÇÃO ENTERAL OU ORAL - MORANGO
+
+25004.260062/2009-31 4.9377.0087.001-4
+
+ALIMENTOS PARA NUTRIÇÃO ENTERAL
+
+4055 Cancelamento de Registro de Alimentos - Anvisa
+
+MÓDULO DE L-GLUTAMINA PARA NUTRIÇÃO ENTERAL OU ORAL - LIMÃO
+
+25004.260062/2009-31 4.9377.0087.003-0
+
+ALIMENTOS PARA NUTRIÇÃO ENTERAL
+
+4055 Cancelamento de Registro de Alimentos - Anvisa
+
+MÓDULO DE L-GLUTAMINA PARA NUTRIÇÃO ENTERAL OU ORAL - AÇAÍ COM GUARANÁ
+
+25004.260062/2009-31 4.9377.0087.004-9
+
+ALIMENTOS PARA NUTRIÇÃO ENTERAL
+
+4055 Cancelamento de Registro de Alimentos - Anvisa
+
+-----------------------------------------------
+
+WW SPORTS IMPORTADORA, EXPORTADORA E COMERCIAL LTDA 03.248.412/0004-86
+
+MÓDULO DE L-GLUTAMINA PARA NUTRIÇÃO ENTERAL OU ORAL
+
+25060.001428/2005-17 6.4016.0001.001-1
+
+ALIMENTOS PARA NUTRIÇÃO ENTERAL
+
+4055 Cancelamento de Registro de Alimentos - Anvisa
+
+-----------------------------------------------
+
+YPY INDUSTRIA E DISTRIBUIÇAO DE SORVETES LTDA 01.833.002/0001-24
+
+GELADO COMESTÍVEL DE AMENDOIM COM POLIDEXTROSE
+
+25351.059103/2020-89 6.7427.0004.001-6
+
+PLASTICA 12 Meses
+
+METALICA 12 Meses
+
+ALIMENTOS C/ALEGAÇOES DE PROPRIEDADES FUNCIONAL E OU DE SAUDE 08/2025
+
+PER TUTTI
+
+4045 Registro de Alimentos com Alegações de Propriedade Funcional e/ou de Saúde
+
+GELADO COMESTÍVEL DE AVELÃ COM POLIDEXTROSE
+
+25351.059104/2020-23 6.7427.0005.001-1
+
+PLASTICA 12 Meses
+
+METALICA 12 Meses
+
+ALIMENTOS C/ALEGAÇOES DE PROPRIEDADES FUNCIONAL E OU DE SAUDE 08/2025
+
+PER TUTTI
+
+4045 Registro de Alimentos com Alegações de Propriedade Funcional e/ou de Saúde
+
+GELADO COMESTÍVEL DE CHOCOLATE COM POLIDEXTROSE
+
+25351.059105/2020-78 6.7427.0006.001-7
+
+PLASTICA 12 Meses
+
+METALICA 12 Meses
+
+ALIMENTOS C/ALEGAÇOES DE PROPRIEDADES FUNCIONAL E OU DE SAUDE 08/2025
+
+PER TUTTI
+
+4045 Registro de Alimentos com Alegações de Propriedade Funcional e/ou de Saúde
+
+GELADO COMESTÍVEL DE GIANDUIA COM POLIDEXTROSE
+
+25351.059106/2020-12 6.7427.0007.001-2
+
+PLASTICA 12 Meses
+
+METALICA 12 Meses
+
+ALIMENTOS C/ALEGAÇOES DE PROPRIEDADES FUNCIONAL E OU DE SAUDE 08/2025
+
+PER TUTTI
+
+4045 Registro de Alimentos com Alegações de Propriedade Funcional e/ou de Saúde

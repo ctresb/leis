@@ -1,0 +1,46 @@
+---
+titulo: "Solução de Consulta Cosit nº 98285, de 8 de julho de 2019"
+orgao: "Coordenação-Geral de Tributação"
+tipo: "Solução de Consulta"
+numero: "98285"
+data: "2019-07-08"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 18/07/2019, seção 1, página 28"
+data_publicacao: "2019-07-18"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/102358/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/102358/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "102358"
+sha256_texto: "08645baffecc9403ba5d1dba8a5ab7fab7e8c51e9ebb8fa33421f68e0e0d72d4"
+baixado_em: "2026-10-16"
+---
+# Solução de Consulta Cosit nº 98285, de 8 de julho de 2019
+
+Assunto: Classificação de Mercadorias  
+Código NCM: 9027.50.90  
+Mercadoria: Equipamento detector de gás por infravermelho à base de difusão, utilizado para medir a concentração de gás hidrocarboneto combustível (metano, propano, etileno e butano, individualmente) em um ambiente, capaz de fornecer monitoramento fixo de 0 a 100% do limite inferior de inflamabilidade (LFL), denominado comercialmente "detector de gás hidrocarboneto por infravermelho".  
+Dispositivos Legais: RGI 1 (texto da posição 90.27), RGI 6 (texto da subposição 9027.50) e RGC 1 (texto do item 9027.50.90) da NCM constante da TEC, aprovada pela Res. Camex nº 125, de 2016, e da Tipi, aprovada pelo Dec. nº 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Dec. nº 435, de 1992, e atualizadas pela IN RFB nº 1.788, de 2018, e alterações posteriores.
+
+.
+
+ 01234 67289   
+
+01117341    !"#$% &'$()\*+,\*-.#%/& 
+
+0'&' 12345678239:;< =>?"%% @$&">"%%'! #A=BC#=D EFFGHIJKLMNEFFOPOMEQRJLSTLUTVMESJVOEFL MWXYZ[LHMUK\]^\_`ab^a]^\ UcdefX[dYfK\ghijklmnopq\rnpnspqt\rn\uvw\kqt\joxtlyntmnz{q\|\}lwn\rn\ rjxiw~q\ipjzjlrq\kltl\mnrjt\l\sqosnoptl~q\rn\uvw\{jrtqslt}qonpq\ sqm}iwpynz\mnploq\ktqkloq\npjznoq\n\}iploq\jorjyjrilzmnopn\nm\ im\lm}jnopn\slkl\rn\xqtonsnt\mqojpqtlmnopq\xjq\rn\^\l\^^\rq\ zjmjpn\joxntjqt\rn\joxzlml}jzjrlrn\\rnoqmjolrq\sqmntsjlzmnopn\ rnpnspqt\rn\uvw\{jrtqslt}qonpq\kqt\joxtlyntmnz{qa\\ \ SY[YY[LNcZfYK\\\pnpq\rl\kqwj~q\]^a\_`\\\pnpq\rl\ wi}kqwj~q\]^\_`ab^\n\\\pnpq\rq\jpnm\]^\_`ab^a]^\rl\\ sqowplopn\rl\g\lktqylrl\knzl\nwa\lmn\o\\_b\rn\\_^\n\rl\jkj\ lktqylrl\knzq\nsa\o\a]b^\rn\\_^\n\wi}wrjqw\nptlrqw\rlw\nw{\ lktqylrlw\knzq\nsa\o\b\rn\]]\_\n\lpilzjlrlw\knzl\\\o\à\ rn\\_^\n\lzpntlnw\kqwpntjqtnwaL \
+
+"'&>/
+
+D$!'¡"$&% \_a\ tlpl¢wn\rn\nhijklmnopq\rnpnspqt\rn\uvw\kqt\joxtlyntmnz{q\|\}lwn\rn\rjxiw~q\ ipjzjlrq\kltl\mnrjt\l\sqosnoptl~q\rn\uvw\{jrtqslt}qonpq\sqm}iwpynz\mnploq\ktqkloq\ npjznoq\n\}iploq\jorjyjrilzmnopn\nm\im\lm}jnopn\slkl\rn\xqtonsnt\mqojpqtlmnopq\xjq\ rn\^\l\^^\rq\zjmjpn\joxntjqt\rn\joxzlml}jzjrlrn\\rnoqmjolrq\sqmntsjlzmnopn\ rnpnspqt\rn\uvw\{jrtqslt}qonpq\kqt\joxtlyntmnz{qa\ 
+
+! "##$!%$&$'&()!\*$%$!+#!'(,'$,&)+-.$#!%$!/0#!12%)('+)3(,$&(!'(\*34#&56$7!$\*!4\*+! 8+29+!%$!:;!+!<::;!%(!=>=!"7$!$\*2&$!4\*+!#+5%+!$\*!'())$,&$!$7?&)2'+!@%$!A!+!B:!\*CD! E)(E()'2(,+7!F!\*$%2%+!%$!=>=!G\*+!\*2#&4)+!#(\*$,&$!H4$2\*+)0!#$!+!'(,'$,&)+-I(!%(! '(\*34#&56$7!$#&26$)!$,&)$!(#!72\*2&$#!2,8$)2()!$!#4E$)2()!%$!2,87+\*+3272%+%$!J!72\*2&$!2,8$)2()!%$! 2,87+\*+3272%+%$!?!4\*+!)+KI(!'(\*34#&56$7L!(92%+,&$!+!E+)&2)!%+!H4+7!+!\*2#&4)+!H4$2\*+)0! A! J!+E+)$71(!E(%$!#$)!4#+%(!'(\*(!4\*!%$&$'&()!2,%$E$,%$,&$!(4!'(\*(!E+)&$!%$!4\*! #2#&$\*+!\*+2()!%$!E)(&$-I(!4#+,%(M!E()!$9$\*E7(M!4\*+!4,2%+%$!%$!$9232-I(M!4\*!&)+,#\*2##()! (4!4\*!'(,&)(7+%()!! N! C!'7+##282'+-I(!82#'+7!%$!\*$)'+%()2+#!84,%+\*$,&+O#$!,+#!P$/)+#!Q$)+2#!E+)+!+! R,&$)E)$&+-I(!%(!S2#&$\*+!T+)\*(,2K+%(!@PQRLSTD!%+!U(,6$,-I(!R,&$),+'2(,+7!#(3)$!(!S2#&$\*+! T+)\*(,2K+%(!%$!V$#2/,+-I(!$!%$!U(%282'+-I(!%$!W$)'+%()2+#M!,+#!P$/)+#!Q$)+2#! U(\*E7$\*$,&+)$#!%(!W$)'(#47!@PQULXUWDM!,+#!P$/)+#!Q$)+2#!U(\*E7$\*$,&+)$#!%+!Y2E2! @PQULY2E2DM!,(#!E+)$'$)$#!%$!'7+##282'+-I(!%(!U(\*2&Z!%(!S2#&$\*+!T+)\*(,2K+%(!%+!J)/+,2K+-I(! W4,%2+7!%+#!C%4+,+#!@JWCD!$!,(#!%2&+\*$#!%(!W$)'(#47M!$M!#43#2%2+)2+\*$,&$M!,+#!X(&+#! "9E72'+&26+#!%(!S2#&$\*+!T+)\*(,2K+%(!@X$#1D! [!! C!PQRLST!,\!<!%2#E.$!H4$!(#!&5&47(#!%+#!S$-.$#M!U+E5&47(#!$!S43'+E5&47(#!&Z\*!+E$,+#! 6+7()!2,%2'+&26(M!E+)+!(#!$8$2&(#!7$/+2#M!+!'7+##282'+-I(!?!%$&$)\*2,+%+!E$7(#!&$9&(#!%+#!E(#2-.$#! $!%+#!X(&+#!%$!S$-I(!$!%$!U+E5&47(!$M!%$#%$!H4$!,I(!#$]+\*!'(,&)0)2+#!+(#!&$9&(#!%+#!)$8$)2%+#! E(#2-.$#!$!X(&+#M!E$7+#!P$/)+#!#$/42,&$#!@PQRLST!B!+!ND!C!PQRLST!,\![M!E()!#4+!6$KM!%2#E.$! H4$!+!'7+##282'+-I(!%$!\*$)'+%()2+#!,+#!#43E(#2-.$#!%$!4\*+!\*$#\*+!E(#2-I(!?!%$&$)\*2,+%+M! E+)+!(#!$8$2&(#!7$/+2#M!E$7(#!&$9&(#!%$##+#!#43E(#2-.$#!$!%+#!X(&+#!%$!#43E(#2-I(!)$#E$'&26+#M! $,&$,%$,%(O#$!H4$!+E$,+#!#I(!'(\*E+)06$2#!#43E(#2-.$#!%(!\*$#\*(!,56$7! ^! J!+E+)$71(!'(,#47&+%(!#$!'7+##282'+M!E()!+E72'+-I(!%+!PQR!<M!,+!E(#2-I(!\_:B^`! abcdefghicejdkiklmlfinojdkmlflklcpnqdidkrsdqtldkjgkugshqtldkvmjfkiwihmnjxkmjnlfshiefjdxk firfleyhiefjdxkidmitefyhiefjdxklclnqdlzjfidkzik{ldidkjgkzikrghl|lkvrghjd}~~kqcdefghicejdkik lmlfinojdkmlflkicdlqjdkzikqdtjdqzlzixkmjfjdqzlzixkzqnlel|jxkeicdjkdgmifrqtqlnkjgk dihinolceidkjgkmlflkhizqzldktlnjfqhefqtldxkltdeqtldkjgkrjejhefqtldkvqctngqczjkjdk qczqtlzjfidkzikeihmjkzikiwmjdq|j~khqtfejhjd! ! C#!X$#1!%+!E(#2-I(!\_:B^!$9E72'+\*!#$4!+7'+,'$`! cefikjdkqcdefghicejdkiklmlfinojdktjhmfiiczqzjdkcidelkmjdq|jxkmjzihktqelfdik v~k ~kdklclnqdlzjfidkzik{ldidkjgkzikrghl|ldkvrghjd}~xkugikdjkgeqnqlzjdkmlflk lcpnqdikzik{ldidktjhgdesiqdkjgkzikmfjzgejdkziktjhgdejkv{ldidkugiqhlzjd~k ihkrjfcjdkziktjugixk{ldj{cqjdxklnejdkrjfcjdxkietkikmifhqeihkzjdilfk idmitqlnhiceikjkptqzjktlfycqtjxkjkwqzjktlfycqtjxkjkjwq{cqjxkjkoqzfj{cqjxkjk cqefj{cqjkvljej~kjgkoqzfjtlfjciejdkmlflkghlktjczgelkfltqjclnkzlkrlfqtl|jk dklclnqdlzjfidkinefqtjdkdjkgeqnqlzjdkihkcghifjdldkqczdefqldxkidmitqlnhiceik mlflkhizqfklktjhmjdq|jkzjdkdi{gqceidk{ldidklcqzfqzjktlfycqtjxkwqzjkzik tlfjcjkikoqzfj{cqjxkjwq{cqjxkoqzfj{cqjxklcqzfqzjkdgnrfqtjxk{pdklhjcsltjk v~k
+
+!"#$"%&'$()\*+&,$"\*",-+&,$"./.&\*01,$"/.&."2\*+\*345,"2\*"%.$\*$"67#8"7#98"\*+3:!8" ;.$"%.0\*&'.$"2\*")';.$8"+(;\*'$8"3.;.0'<.4=\*$" "6:::!" >?@ABCDEFGHI JKI LIMCFANOCIJPKQRIFGISGFSCT@UIGVIFDTMCFANWGFXI JPQRKYPKPPI EILZU[AFUSC@GFISGI?UFGFICDISGIBDVUNUI>BDVCF\HI JPQRKQPI EI]@CVU^\_?@UBCFIGIUMU@G[`CFISGIG[G^@CBC@GFGI JPQRKaPI EIbFMGc^@dVG^@CFeIGFMGc^@CBC^dVG^@CFIGI GFMGc^@\_?@UBCFIfDGID^A[AgGVI@USAUNWGFI\_M^AcUFI >hieIjAFkjGAFeIliHI JPQRKmPI EInD^@CFIUMU@G[`CFIGIAZF^@DVGZ^CFIfDGID^A[AgGVI @USAUNWGFI\_M^AcUFI>hieIjAFkjGAFeIliHI JPQRKoPI EInD^@CFIAZF^@DVGZ^CFIGIUMU@G[`CFI JPQRKJPI EIpAc@\_^CVCFqIMU@^GFIGIUcGFF\_@ACFI YPKI nIGfDAMUVGZ^CeIUMGFU@ISGIFG@IcUMUgISGIGVA^A@IDVUIFUkSUIGVIcC@@GZ^GIG[r^@AcUI M@CMC@cACZU[IsI@UgOCIGZ^@GIDVIcCVTDF^kjG[I>?tFI`AS@CcU@TCZG^CHIGICICuASUZ^GeIcCVCI MC@cGZ^U?GVISCI[AVA^GIAZBG@AC@ISGIAZB[UVUTA[ASUSGeIZOCIMCSGIFG@IcCZFASG@USCIDVIUZU[AFUSC@I SGI?tFIM@CM@AUVGZ^GISA^CKInIUZU[AFUSC@ISGI?tFISGjGIFG@IcUMUgISGIVGSA@IUIcCVMCFANOCeI^UZ^CI SGIBC@VUIfDUZ^A^U^AjUIcCVCIfDU[A^U^AjUeISGI?UFGFKI YYKI v@U^UEFGISGIDVIUMU@G[`CISG^Gc^C@ISGI?UFGFIfDGID^A[AgUI@USAUNOCIAZB@UjG@VG[`UKI ][UFFABAcUEFGeIMC@IUM[AcUNOCISUIwxlIyeIZUIFDTMCFANOCIJPQRKmPeIfDGIFGIFDTSAjASGIGVIA^GZFXII JPQRKmPKYPI ]C[C@kVG^@CFI JPQRKmPKQPI zC^dVG^@CFI JPQRKmPKaPI wGB@U^dVG^@CFI JPQRKmPK{PI |UcU@kVG^@CFI JPQRKmPKmPI ]A^dVG^@CISGIB[DuCI JPQRKmPKJPI nD^@CFI YQKI LIc[UFFABAcUNOCIZCFISGFSCT@UVGZ^CFI@G?ACZUAFIrIcCVUZSUSUIMG[UIwG?@UIxG@U[I ]CVM[GVGZ^U@IYISUI}]pI>wx]IYHKIbFFUIwG?@UISG^G@VAZUIfDGeIGVIZkjG[ISGIA^GZFIGIFDTA^GZFeIUI c[UFFABAcUNOCIrI@GU[AgUSUIMG[UFIwG?@UFIxG@UAFISCI|AF^GVUI~U@VCZAgUSCKI YaKI C@IZOCIFGIGZfDUS@U@IZCFIA^GZFIJPQRKmPKYPIUIJPQRKmPKmPeICIGfDAMUVGZ^CIFGIc[UFFABAcUI ZCIA^GVI@GFASDU[IJPQRKmPKJPeIMC@IUM[AcUNOCISUIwx]IYKII  ]CVITUFGIZUFIwG?@UFIxG@UAFIMU@UIlZ^G@M@G^UNOCISCI|AF^GVUI~U@VCZAgUSCIwxlIYI>^Gu^CI SUIMCFANOCIJPKQRHeIwxlIyI>^Gu^CISUIFDTMCFANOCIJPQRKmPHIGIwx]IYI>^Gu^CISCIA^GVIJPQRKmPKJPHISUI }]pIcCZF^UZ^GISUIvb]eIUM@CjUSUIMG[UIwGFKI]UVGuIZIYQmeISGIQPYyeIGISUIvAMAeIUM@CjUSUIMG[CI GcKIZIoKJmPeISGIQPYyeIGIGVIFDTFkSACFIGu^@UkSCFISUFI}GF`eIUM@CjUSUFIMG[CIGcKIZI{ameISGI YJJQeIGIU^DU[AgUSUFIMG[UIl}IwzIZIYKRooeISGIQPYoeIGIU[^G@UNWGFIMCF^G@AC@GFeIUIVG@cUSC@AUI ]L||lzl]LE|bIZCIc\_SA?CI}]pIJPQRKmPKJPKI
+
+!"#$!"$%&'(#)\*+,$ -./01232424506789043:4;0<=76>24.:624?@4A7/B2C4D0<=>E>7F324.:624G0/>2/E24HIJ4<K4LMNOLC4 3:4L?43:42P/E643:4OQLRC4S4=:==9043:4T43:4U76V043:4OQLNM4WE176X7:Y=:4:4.7P6EZ7:Y=:4<0=4>:/B0=4 3042/>M4O[4324\<=>/78904]0/B2>E124HIJ4<K4LM^\_^C43:4[43:4B2E043:4OQL^M4 H:B:>2Y=:404./:=:<>:4./0D:==04S47<E323:43:4U7/E=3E8904.2/24DÈ<DE24304D0<=76:<>:4:4 3:B2E=4./01E3`<DE2=4D2PF1:E=M4
+
+a-==E<2304WEXE>26B:<>:b4 a-==E<2304WEXE>26B:<>:b4 cdefghgijckeglmcnohnjpjc nhfvjwciecneiemfjwcxjgyhz{ewc -qW\ArHYI\5;-s4W-4Ht;t\A-4ItWtH-s4Wr4JH-5\s44 -qW\ArHYI\5;-s4W-4Ht;t\A-4ItWtH-s4Wr4JH-5\s44 utuJHr44 utuJHr44 4 4 a-==E<2304WEXE>26B:<>:b4 a-==E<2304WEXE>26B:<>:b4 w|fhc}ezegcvjpcnhfvjwc ihgmezzecvhf{hz}jcieczhvefihc -qW\ArH-YI\5;-s4W-4Ht;t\A-4ItWtH-s4Wr4JH-5\s44 -qW\ArH-YI\5;-s4W-4Ht;t\A-4ItWtH-s4Wr4JH-5\sc Hts-ArH-4 GHt5\Wt]At4W-4?@4AqHu-4 4 4
+

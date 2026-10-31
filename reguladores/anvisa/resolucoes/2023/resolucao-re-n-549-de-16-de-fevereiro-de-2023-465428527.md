@@ -1,0 +1,120 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 549, DE 16 DE FEVEREIRO DE 2023"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos"
+tipo: "Resolução"
+numero: "549"
+data: 2023-02-16
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 22/02/2023, seção 1, p. 170"
+data_publicacao: 2023-02-22
+edicao: "36"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-549-de-16-de-fevereiro-de-2023-465428527"
+sha256_html_fonte: c18b525ecaa13df8bc9c09cbb2160bb9ff67d06279798c4056ddbdaa5cc58374
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE Nº 549, DE 16 DE FEVEREIRO DE 2023
+
+RESOLUÇÃO-RE Nº 549, DE 16 DE FEVEREIRO DE 2023
+
+A Gerente-Geral substituta de Medicamentos, no uso das atribuições que lhe confere o art. 100, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Cancelar o registro sanitário de medicamentos ou de apresentações, conforme anexo;
+
+**Art. 2º** Esta Resolução entra em vigor 90 (noventa) dias a partir da data de sua publicação.
+
+FLÁVIA NEVES ROCHA ALVES
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+PRINCIPIO(S) ATIVO(S)
+
+----------------------------
+
+AUROBINDO PHARMA INDÚSTRIA FARMACÊUTICA LIMITADA 04301884000175
+
+meropeném tri-hidratado
+
+meropenem 25351.562125/2012-70 03/2025
+
+1429 GENERICO - CANCELAMENTO DE REGISTRO DO MEDICAMENTO POR TRANSFERÊNCIA DE TITULARIDADE 0034317/23-6
+
+1.5167.0045.001-0 24 Meses
+
+500 MG PO SOL INJ CT 01 FA VD TRANS X 15 ML
+
+1.5167.0045.002-9 24 Meses
+
+500 MG PO SOL INJ CT 10 FA VD TRANS X 15 ML
+
+1.5167.0045.003-7 24 Meses
+
+500 MG PO SOL INJ CT 01 FA VD TRANS X 15 ML + AMP PLAS TRANS X 10 ML
+
+1.5167.0045.004-5 24 Meses
+
+500 MG PO SOL INJ CT 01 FA VD TRANS X 15 ML + 01 BOLS PLAS TRANS SIST FECH X 100 ML
+
+1.5167.0045.005-3 24 Meses
+
+500 MG PO SOL INJ CT 10 FA VD TRANS X 15 ML + 10 BOLS PLAS TRANS SIST FECH X 100 ML
+
+1.5167.0045.006-1 24 Meses
+
+1 G PO SOL INJ CT 01 FA VD TRANS X 20 ML
+
+1.5167.0045.007-1 24 Meses
+
+1 G PO SOL INJ CT 10 FA VD TRANS X 20 ML
+
+1.5167.0045.008-8 24 Meses
+
+1 G PO SOL INJ CT 01 FA VD TRANS X 20 ML + 01 BOLS PLAS TRANS SIST FECH X 100 ML
+
+1.5167.0045.009-6 24 Meses
+
+1 G PO SOL INJ CT 10 FA VD TRANS X 20 ML + 10 BOLS PLAS TRANS SIST FECH X 100 ML
+
+----------------------------
+
+NOVA QUIMICA FARMACÊUTICA S/A 72593791000111
+
+cloridrato de ranitidina 25351.049352/2019-22 05/2029
+
+1429 GENERICO - CANCELAMENTO DE REGISTRO DO MEDICAMENTO POR TRANSFERÊNCIA DE TITULARIDADE 0437988/22-8
+
+1.2675.0349.001-5 24 Meses
+
+15 MG/ML XPE CT FR VD AMB X 60 ML + COP
+
+1.2675.0349.002-3 24 Meses
+
+15 MG/ML XPE CT FR VD AMB X 100 ML + COP
+
+1.2675.0349.003-1 24 Meses
+
+15 MG/ML XPE CT FR VD AMB X 120 ML + COP
+
+1.2675.0349.004-1 24 Meses
+
+15 MG/ML XPE CT FR VD AMB X 150 ML + COP
+
+1.2675.0349.005-8 24 Meses
+
+15 MG/ML XPE CT FR VD AMB X 200 ML + COP
+
+1.2675.0349.006-6 24 Meses
+
+15 MG/ML XPE CT FR PLAS AMB X 120 ML + COP

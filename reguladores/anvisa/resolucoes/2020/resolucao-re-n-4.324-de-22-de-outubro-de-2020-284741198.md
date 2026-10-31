@@ -1,0 +1,120 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 4.324, DE 22 DE OUTUBRO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Terceira Diretoria/Gerência de Produtos de Higiene, Perfumes, Cosméticos e Saneantes"
+tipo: "Resolução"
+numero: "4324"
+data: 2020-10-22
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 26/10/2020, seção 1, p. 114"
+data_publicacao: 2020-10-26
+edicao: "205"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.324-de-22-de-outubro-de-2020-284741198"
+sha256_html_fonte: 91e24a989c4f31c38b8ebbfffdd75d1006829a34348158ccbc5f41f6231ec0b6
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 4.324, DE 22 DE OUTUBRO DE 2020
+
+RESOLUÇÃO-RE Nº 4.324, DE 22 DE OUTUBRO DE 2020
+
+O Gerente da Gerência de Produtos de Higiene, Perfumes, Cosméticos e Saneantes, substituto, no uso das atribuições que lhe confere o art. 164, aliado ao disposto no art. 54, I, § 1º do Regimento Interno aprovado nos termos do Anexo I da Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º** Tornar insubsistente a RESOLUÇÃO-RE Nº 3.854 de 24 de SETEMBRO de 2020, única e exclusivamente quanto ao CANCELAMENTO, referente à empresa HIGIDET PRODUTOS DE HIGIENE E LIMPEZA LTDA, Processo nº 25351.658994/2018-36, publicada no Diário Oficial da União nº 186, de 28 de SETEMBRO de 2020, Seção 1, página 588 À 589.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+WEBERT GONÇALVES SANTANA
+
+## ANEXO
+
+NOME DA EMPRESA: HIGIDET PRODUTOS DE HIGIENE E LIMPEZA LTDA
+
+AUTORIZAÇÃO: 3.07555-8
+
+NOME DO PRODUTO E MARCA: DESINFECT PRO HIGIDET
+
+VERSÃO: DESINFECT PRO HIGIDET
+
+NUMERO DE PROCESSO: 25351.658994/2018-36
+
+NUMERO DE REGISTRO: 3.7555.0002.001-7
+
+VENDA E EMPREGO:
+
+VENCIMENTO: 01/2029
+
+APRESENTAÇÃO: FRASCO DE PLASTICO TRANSPARENTE + CAIXA DE PAPELAO
+
+VALIDADE DO PRODUTO: 24 Meses
+
+CATEGORIA: 3205029 DESINFETANTE HOSPITALAR PARA SUPERFÍCIES FIXAS E ARTIGOS NÃO CRÍTICOS
+
+ASSUNTO DA PETIÇÃO: 391 REG. SANEANTES - Cancelamento de Registro de Produto de Risco 2 por Transferência de Titularidade
+
+EXPEDIENTE DA PETIÇÃO: 2619806/20-8
+
+NOME DO PRODUTO E MARCA: DESINFECT PRO HIGIDET
+
+VERSÃO: DESINFECT PRO HIGIDET
+
+NUMERO DE PROCESSO: 25351.658994/2018-36
+
+NUMERO DE REGISTRO: 3.7555.0002.002-5
+
+VENDA E EMPREGO:
+
+VENCIMENTO: 01/2029
+
+APRESENTAÇÃO: GALAO PLASTICO + CAIXA DE PAPELAO
+
+VALIDADE DO PRODUTO: 24 Meses
+
+CATEGORIA: 3205029 DESINFETANTE HOSPITALAR PARA SUPERFÍCIES FIXAS E ARTIGOS NÃO CRÍTICOS
+
+ASSUNTO DA PETIÇÃO: 391 REG. SANEANTES - Cancelamento de Registro de Produto de Risco 2 por Transferência de Titularidade
+
+EXPEDIENTE DA PETIÇÃO: 2619806/20-8
+
+NOME DO PRODUTO E MARCA: DESINFECT PRO HIGIDET
+
+VERSÃO: DESINFECT PRO HIGIDET
+
+NUMERO DE PROCESSO: 25351.658994/2018-36
+
+NUMERO DE REGISTRO: 3.7555.0002.003-3
+
+VENDA E EMPREGO:
+
+VENCIMENTO: 01/2029
+
+APRESENTAÇÃO: BOMBONA PLASTICA
+
+VALIDADE DO PRODUTO: 24 Meses
+
+CATEGORIA: 3205029 DESINFETANTE HOSPITALAR PARA SUPERFÍCIES FIXAS E ARTIGOS NÃO CRÍTICOS
+
+ASSUNTO DA PETIÇÃO: 391 REG. SANEANTES - Cancelamento de Registro de Produto de Risco 2 por Transferência de Titularidade
+
+EXPEDIENTE DA PETIÇÃO: 2619806/20-8
+
+NOME DO PRODUTO E MARCA: DESINFECT PRO HIGIDET
+
+VERSÃO: DESINFECT PRO HIGIDET
+
+NUMERO DE PROCESSO: 25351.658994/2018-36
+
+NUMERO DE REGISTRO: 3.7555.0002.004-1
+
+VENDA E EMPREGO:
+
+VENCIMENTO: 01/2029
+
+APRESENTAÇÃO: BOMBONA PLASTICA OPACA
+
+VALIDADE DO PRODUTO: 24 Meses
+
+CATEGORIA: 3205029 DESINFETANTE HOSPITALAR PARA SUPERFÍCIES FIXAS E ARTIGOS NÃO CRÍTICOS
+
+ASSUNTO DA PETIÇÃO: 391 REG. SANEANTES - Cancelamento de Registro de Produto de Risco 2 por Transferência de Titularidade
+
+EXPEDIENTE DA PETIÇÃO: 2619806/20-8

@@ -1,0 +1,136 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 4.112, DE 4 DE NOVEMBRO DE 2024"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "4112"
+data: 2024-11-04
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 05/11/2024, seção 1, p. 102"
+data_publicacao: 2024-11-05
+edicao: "214"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.112-de-4-de-novembro-de-2024-594037165"
+sha256_html_fonte: 1e8c8a1dae98ae2760943c8b6bf9fe169215072dde845ad8c8b5c7612eea2d18
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE Nº 4.112, DE 4 DE NOVEMBRO DE 2024
+
+RESOLUÇÃO-RE Nº 4.112, DE 4 DE NOVEMBRO DE 2024
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Alterar a Autorização de Funcionamento das Empresas constantes no anexo desta Resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+FARMA CONDE S/A / 71.605.265/0163-27
+
+25351.195708/2021-13 / 7838762
+
+COMÉRCIO: ALIMENTOS PERMITIDOS / COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE / PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)
+
+DISPENSAÇÃO DE MEDICAMENTOS, INCLUSIVE SUJEITOS A CONTROLE ESPECIAL
+
+DISPENSAÇÃO DE PLANTAS MEDICINAIS: -
+
+PRESTAÇÃO DE SERVIÇOS FARMACÊUTICOS: -
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 1510490248
+
+--------------------------------------------------------------------------------------------------------------------------
+
+DROGARIAS DESCONTO FARMA LTDA / 39.155.348/0001-93
+
+25351.190279/2020-15 / 7756676
+
+COMÉRCIO: ALIMENTOS PERMITIDOS / COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE / PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)
+
+DISPENSAÇÃO DE MEDICAMENTOS, INCLUSIVE SUJEITOS A CONTROLE ESPECIAL
+
+DISPENSAÇÃO DE PLANTAS MEDICINAIS: -
+
+FRACIONAMENTO: -
+
+PRESTAÇÃO DE SERVIÇOS FARMACÊUTICOS: -
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 1505665248
+
+---------------------------------------------------------------------------------------------------------------------------
+
+J. C. LEITE JUNIOR DROGARIA / 03.158.697/0001-11
+
+25351.062917/2011-18 / 0742758
+
+COMÉRCIO: ALIMENTOS PERMITIDOS / COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE / PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)
+
+DISPENSAÇÃO DE MEDICAMENTOS, INCLUSIVE SUJEITOS A CONTROLE ESPECIAL
+
+PRESTAÇÃO DE SERVIÇOS FARMACÊUTICOS: -
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 1507452241
+
+---------------------------------------------------------------------------------------------------------------------------
+
+DROGARIA SOL NASCENTE LOANDA LTDA / 05.927.265/0001-53
+
+25351.069755/2003-21 / 0398506
+
+COMÉRCIO: COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE
+
+DISPENSAÇÃO DE MEDICAMENTOS, INCLUSIVE SUJEITOS A CONTROLE ESPECIAL
+
+PRESTAÇÃO DE SERVIÇOS FARMACÊUTICOS: -
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 1505212243
+
+---------------------------------------------------------------------------------------------------------------------------
+
+DROGARIA NASCIMENTO & SANTOS LTDA / 37.130.216/0001-81
+
+25351.011116/2022-39 / 7873254
+
+COMÉRCIO: ALIMENTOS PERMITIDOS / COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE / PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)
+
+DISPENSAÇÃO DE MEDICAMENTOS, INCLUSIVE SUJEITOS A CONTROLE ESPECIAL
+
+PRESTAÇÃO DE SERVIÇOS FARMACÊUTICOS: -
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 1505538246
+
+---------------------------------------------------------------------------------------------------------------------------
+
+FARMACIA REAL DE JUSSIAPE LTDA / 13.638.432/0001-74
+
+25351.563231/2014-84 / 7282538
+
+COMÉRCIO: ALIMENTOS PERMITIDOS / COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE / PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)
+
+DISPENSAÇÃO DE MEDICAMENTOS, INCLUSIVE SUJEITOS A CONTROLE ESPECIAL
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 1505431247
+
+---------------------------------------------------------------------------------------------------------------------------
+
+BRILHO CERTO INDUSTRIA E COMERCIO DE PRODUTOS DE LIMPEZA LTDA / 29.540.387/0001-50
+
+25351.328684/2018-90 / 3080530
+
+ARMAZENAR: SANEANTE DOMIS.
+
+DISTRIBUIR: SANEANTE DOMIS.
+
+EMBALAR: SANEANTE DOMIS.
+
+EXPEDIR: SANEANTE DOMIS.
+
+FABRICAR: SANEANTE DOMIS.
+
+FRACIONAR: SANEANTE DOMIS.
+
+REEMBALAR: SANEANTE DOMIS.
+
+732 - AFE - ALTERAÇÃO - SANEANTES DOMISSANITÁRIOS - RAZÃO SOCIAL / 1506050247

@@ -1,0 +1,166 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.868, DE 6 DE AGOSTO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "2868"
+data: 2020-08-06
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 07/08/2020, seção 1, p. 72"
+data_publicacao: 2020-08-07
+edicao: "151"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.868-de-6-de-agosto-de-2020-270970169"
+sha256_html_fonte: 38ce2dc7c8de2bb3efbb9163b52ffa10c16189569c0005cefed0cc96c81dbe2f
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 2.868, DE 6 DE AGOSTO DE 2020
+
+RESOLUÇÃO-RE Nº 2.868, DE 6 DE AGOSTO DE 2020
+
+A Coordenadora de Autorização de Funcionamento de Empresas, no uso das atribuições que lhe confere o art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º** Conceder Alteração de Autorização de Funcionamento para os estabelecimentos de Farmácias e Drogarias, em conformidade com o anexo desta Resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+PATRICIA AZEVEDO CHAGAS
+
+## ANEXO
+
+ZATTA & DIAS FARMACIA LTDA / 009.612.107/0001-65
+
+25351.560357/2014-05 / 7296571
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 1940349206
+
+25351.560357/2014-05 / 7296571
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 1940385202
+
+--------------------------------------
+
+A.COMERCIAL DE MEDICAMENTOS REISDORFER LTDA / 089.462.295/0005-55
+
+25351.406970/2012-16 / 0862073
+
+70152 - AFE/AE - RECURSO ADMINISTRATIVO - FARMÁCIAS E DROGARIAS / 2038777206
+
+--------------------------------------
+
+DROGAFARMA VIEIRA II LTDA / 021.860.549/0002-07
+
+25351.374489/2014-16 / 7220877
+
+70152 - AFE/AE - RECURSO ADMINISTRATIVO - FARMÁCIAS E DROGARIAS / 2078159208
+
+--------------------------------------
+
+PONTOFARMA DROGARIA LTDA / 032.136.795/0001-56
+
+25351.254213/2019-19 / 7651472
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2091369209
+
+--------------------------------------
+
+MARIA LUCY DE PAULA BONFIM / 004.513.222/0001-69
+
+25351.002696/2003-19 / 0236649
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2091355209
+
+--------------------------------------
+
+DROGARIA GASTE MENOS LTDA / 002.787.240/0001-03
+
+25351.063514/2014-21 / 7104007
+
+70152 - AFE/AE - RECURSO ADMINISTRATIVO - FARMÁCIAS E DROGARIAS / 1998432204
+
+--------------------------------------
+
+drogaria brand ltda me / 006.317.847/0001-80
+
+25351.017379/2015-22 / 7359977
+
+70152 - AFE/AE - RECURSO ADMINISTRATIVO - FARMÁCIAS E DROGARIAS / 2079059207
+
+--------------------------------------
+
+FARMA SAUDE LTDA - ME / 015.487.866/0001-46
+
+25351.116397/2013-24 / 0910843
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2091249208
+
+--------------------------------------
+
+FERNANDA OLIVEIRA CARVALHO LTDA / 006.148.079/0001-89
+
+25351.133195/2019-32 / 7640942
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2091259205
+
+--------------------------------------
+
+FARMACIA ITAJUBA LTDA / 081.538.662/0001-11
+
+25351.492192/2013-42 / 0943988
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2091261207
+
+25351.492192/2013-42 / 0943988
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2091367202
+
+--------------------------------------
+
+FARMACIA TENCATI LTDA - ME / 095.416.061/0001-40
+
+25351.185398/2002-66 / 0079035
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 1006142208
+
+--------------------------------------
+
+DROGAMAJ LTDA / 001.590.146/0001-05
+
+25351.213493/2002-67 / 0254148
+
+70152 - AFE/AE - RECURSO ADMINISTRATIVO - FARMÁCIAS E DROGARIAS / 2029015202
+
+--------------------------------------
+
+DROGARIA NOVA ORLEANS DE JACAREPAGUA LTDA - ME / 000.155.253/0001-34
+
+25351.215959/2002-69 / 0156689
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2091253206
+
+--------------------------------------
+
+FARMACIA PRIMAVERA LTDA - EPP / 001.617.468/0001-92
+
+25351.224927/2015-79 / 7381591
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2091311207
+
+--------------------------------------
+
+REDE FARMACIA POUPE-JA LTDA / 027.573.437/0001-70
+
+25351.528538/2017-81 / 7544168
+
+70152 - AFE/AE - RECURSO ADMINISTRATIVO - FARMÁCIAS E DROGARIAS / 2038782202
+
+25351.528538/2017-81 / 7544168
+
+70152 - AFE/AE - RECURSO ADMINISTRATIVO - FARMÁCIAS E DROGARIAS / 2038808200
+
+--------------------------------------
+
+PHARMAGRAN DROGARIA EIRELI / 000.551.689/0001-42
+
+25351.028953/2014-97 / 7094132
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2091245205

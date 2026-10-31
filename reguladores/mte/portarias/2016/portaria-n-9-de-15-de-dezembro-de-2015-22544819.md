@@ -1,0 +1,26 @@
+---
+titulo: "PORTARIA Nº 9, DE 15 DE DEZEMBRO DE 2015"
+orgao: "Ministério do Trabalho e Previdência Social/SUPERINTENDÊNCIA REGIONAL NA BAHIA"
+tipo: "Portaria"
+numero: "9"
+data: 2015-12-15
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 18/03/2016, seção 1, p. 69"
+data_publicacao: 2016-03-18
+edicao: "53"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-9-de-15-de-dezembro-de-2015-22544819"
+sha256_html_fonte: e3bf0bdd55d3e0c0c4b2d12499ae6ded9596e211b90ee6174ddf9c721f98a1d6
+baixado_em: 2026-10-28
+---
+# PORTARIA Nº 9, DE 15 DE DEZEMBRO DE 2015
+
+PORTARIA Nº 9, DE 15 DE DEZEMBRO DE 2015
+
+O SUPERINTENDENTE REGIONAL DO TRABALHO EEMPREGO NA BAHIA, no uso de suas atribuições legais, tendo emconta a análise proferida no processo nº. 46282.000834/2015-91 homologanos termos dos artigos 1º e 4º da Portaria de nº 2, de 25/5/06,da Secretaria de Relações do Trabalho, o Plano de Cargos e Saláriosdo Magistério Superior do Centro de Ensino Superior de Ilhéus,empresa mantenedora da FACULDADE DE ILHÉUS, inscrita noCNPJ nº:04.245.712/0001-21.
+
+SEVERIANO ALVES DE SOUZA
+
+SEVERIANO ALVES DE SOUZA
+
+Este conteúdo não substitui o publicado na versão certificada.

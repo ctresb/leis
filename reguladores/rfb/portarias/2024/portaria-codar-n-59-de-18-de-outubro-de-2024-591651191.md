@@ -1,0 +1,54 @@
+---
+titulo: "PORTARIA CODAR Nº 59, DE 18 DE OUTUBRO DE 2024"
+orgao: "Ministério da Fazenda/Secretaria Especial da Receita Federal do Brasil/Secretaria-Adjunta/Subsecretaria de Arrecadação, Cadastros e Atendimento/Coordenação-Geral de Arrecadação e Direito Creditório"
+tipo: "Portaria"
+numero: "59"
+data: 2024-10-18
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 22/10/2024, seção 1, p. 45"
+data_publicacao: 2024-10-22
+edicao: "205"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-codar-n-59-de-18-de-outubro-de-2024-591651191"
+sha256_html_fonte: 9ff12fe4bcd7d318d6a9d651a59bf2af713c964e0125d1292b3913823dc360c6
+baixado_em: 2026-10-16
+---
+# PORTARIA CODAR Nº 59, DE 18 DE OUTUBRO DE 2024
+
+PORTARIA CODAR Nº 59, DE 18 DE OUTUBRO DE 2024
+
+Institui equipe de auditoria para atuar na análise de pedidos de ressarcimento e declarações de compensação que tenham por objeto créditos de ressarcimento de PIS e de COFINS com fundamento no art. 3º, §4º da Lei nº 10.147, de 21 de dezembro de 2000.
+
+O COORDENADOR-GERAL DE ARRECADAÇÃO E DE DIREITO CREDITÓRIO, no uso das atribuições que lhe conferem o art. 74, caput, inciso IV, e o art. 358, caput, incisos III e IV, ambos do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto no art. 139 da Instrução Normativa RFB nº 2.055, de 6 de dezembro de 2021, resolve:
+
+**Art. 1º** Esta Portaria institui equipe de auditoria para atuar na análise de pedidos de ressarcimento ou de declarações de compensação que tenham por objeto créditos de ressarcimento de PIS e de COFINS com fundamento no art. 3º, §4º da Lei nº 10.147, de 2000.
+
+**Art. 2º** A equipe de auditoria a que se refere o art. 1º ficará vinculada à Delegacia da Receita Federal do Brasil em São José dos Campos - DRF-SJC, e será composta pelos servidores da Receita Federal do Brasil cujos nomes constam do Anexo I.
+
+**Parágrafo único.** A supervisão dos trabalhos da equipe caberá ao Auditor-Fiscal da Receita Federal do Brasil Anselmo Hikaru Katagi, lotado na DRF-SJC, ao qual compete assinar ofícios e demais expedientes, inclusive em atendimento a requisições, intimações e pedidos de informações, internos ou externos.
+
+**Art. 3º** Compete à equipe de auditoria instituída por esta Portaria:
+
+I - analisar pedidos de ressarcimento ou declarações de compensação que tenham por objeto créditos de ressarcimento de PIS e de COFINS com fundamento no art. 3º, §4º da Lei nº 10.147, de 2000 e emitir despachos decisórios;
+
+II - expedir intimações e notificações;
+
+III - efetuar lançamento constitutivo de crédito tributário decorrente dos trabalhos de auditoria realizados pela equipe; e
+
+IV - formalizar, quando cabível, representação fiscal para fins penais decorrente dos trabalhos de auditoria realizados pela equipe.
+
+**§ 1º** Os trabalhos de auditoria incidirão sobre os PER/DCOMP enumerados no Anexo II desta Portaria disponível em https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/documentos-tecnicos/perdcomp/perdcomps-transferidos.xlsx.
+
+**§ 2º** As atividades não enumeradas no caput serão executadas por Delegacia da Receita Federal do Brasil - DRF, Delegacia Especial da Receita Federal do Brasil ou equipe regional especializada com jurisdição sobre o domicílio tributário do contribuinte.
+
+**Art. 4º** Fica transferida para a equipe de auditoria instituída por esta Portaria, de forma concorrente com a DRF ou a Delegacia Especial da Receita Federal do Brasil com jurisdição sobre o domicílio tributário do contribuinte, a competência para realizar as ações a que se refere o art. 3º.
+
+**Parágrafo único.** A transferência de competência a que se refere o caput aplica-se aos trabalhos de auditoria não iniciados ou não concluídos até a entrada em vigor desta Portaria.
+
+**Art. 5º** Esta Portaria entra em vigor na data de sua publicação no Diário Oficial da União.
+
+ERITON LIMA DE OLIVEIRA
+
+## ANEXO I — EQUIPE DE AUDITORIA DE PER/DCOMP - Créditos de ressarcimento de pis/COFINS (art. 3º, §4º da Lei nº 10.147, de 2000)
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>Nome</p></td>      <td rowspan="1" colspan="1"><p>Cargo</p></td>      <td rowspan="1" colspan="1"><p>Exercício</p></td>      <td rowspan="1" colspan="1"><p>Localização</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Anselmo Hikaru Katagi</p></td>      <td rowspan="1" colspan="1"><p>AFRFB</p></td>      <td rowspan="1" colspan="1"><p>DRF-SJC</p></td>      <td rowspan="1" colspan="1"><p>DRF-SJC</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Brunno Sergio Silva de Andrade</p></td>      <td rowspan="1" colspan="1"><p>AFRFB</p></td>      <td rowspan="1" colspan="1"><p>DRF-JUN</p></td>      <td rowspan="1" colspan="1"><p>DRF-SJC</p></td>     </tr>    </tbody>   </table>

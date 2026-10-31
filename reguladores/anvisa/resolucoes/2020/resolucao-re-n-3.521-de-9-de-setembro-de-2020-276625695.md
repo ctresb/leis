@@ -1,0 +1,218 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.521, DE 9 DE SETEMBRO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "3521"
+data: 2020-09-09
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 10/09/2020, seção 1, p. 109"
+data_publicacao: 2020-09-10
+edicao: "174"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.521-de-9-de-setembro-de-2020-276625695"
+sha256_html_fonte: 8e0d0dc35a4a519fd35e41b3b6b1cdd99d954c4b5743ff1a1439693f5c41d0be
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 3.521, DE 9 DE SETEMBRO DE 2020
+
+RESOLUÇÃO-RE Nº 3.521, DE 9 DE SETEMBRO DE 2020
+
+A Coordenadora de Autorização de Funcionamento de Empresas, no uso das atribuições que lhe confere o Art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º** Conceder Autorização de Funcionamento para os estabelecimentos de Farmácias e Drogarias, em conformidade com o anexo desta Resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+PATRICIA AZEVEDO CHAGAS
+
+## ANEXO
+
+COMERCIO DE MEDICAMENTOS BRAIR LTDA / 88.212.113/0852-53
+
+25351.876649/2020-05 / 7745032
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2904146205
+
+--------------------------------------
+
+DROGARIA GOLD FARMA DA POSSE EIRELI / 32.521.150/0001-37
+
+25351.877917/2020-06 / 7745168
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2905666207
+
+--------------------------------------
+
+FARMACIA UNIAO DE CAXIAS LTDA / 36.261.439/0001-15
+
+25351.872402/2020-10 / 7745001
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2890472209
+
+--------------------------------------
+
+DROGARIA OUTRA FARMA EIRELI / 37.117.851/0002-00
+
+25351.877920/2020-11 / 7745185
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2905672201
+
+--------------------------------------
+
+EMPREENDIMENTOS PAGUE MENOS S/A / 06.626.253/1187-48
+
+25351.872400/2020-12 / 7744990
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2890468201
+
+--------------------------------------
+
+HEITOR FARMA COMERCIO DE MEDICAMENTOS LTDA / 36.655.761/0001-29
+
+25351.779736/2020-15 / 7745046
+
+70152 - AFE/AE - RECURSO ADMINISTRATIVO - FARMÁCIAS E DROGARIAS / 2941530206
+
+--------------------------------------
+
+COMERCIO DE MEDICAMENTOS BRAIR LTDA / 88.212.113/0880-07
+
+25351.876647/2020-16 / 7745029
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2904142202
+
+--------------------------------------
+
+J SERIQUE COTA COMERCIO / 37.627.124/0001-01
+
+25351.763480/2020-16 / 7745050
+
+70152 - AFE/AE - RECURSO ADMINISTRATIVO - FARMÁCIAS E DROGARIAS / 2975077206
+
+--------------------------------------
+
+RSL PRODUTOS FARMACEUTICOS LTDA-ME / 05.127.803/0001-25
+
+25351.823661/2020-17 / 7745081
+
+70152 - AFE/AE - RECURSO ADMINISTRATIVO - FARMÁCIAS E DROGARIAS / 2954597208
+
+--------------------------------------
+
+DROGARIA ERNEGA LTDA - ME / 03.062.992/0002-50
+
+25351.877915/2020-17 / 7745137
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2905662204
+
+--------------------------------------
+
+LIDER ORGANIZAÇÃO COMERCIAL LTDA / 23.879.331/0044-89
+
+25351.862143/2020-19 / 7744895
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2861344209
+
+--------------------------------------
+
+DROGARIA MARIANA RIO PRETO LTDA / 37.075.162/0001-07
+
+25351.872399/2020-26 / 7744986
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2890466204
+
+--------------------------------------
+
+DROGARIA VITORIA DE PILARES LTDA / 19.804.911/0001-08
+
+25351.877916/2020-53 / 7745154
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2905664201
+
+--------------------------------------
+
+FARMACIA POPULAR EIRELI / 31.058.496/0002-69
+
+25351.862144/2020-55 / 7744907
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2861346205
+
+--------------------------------------
+
+DROGARIA MANOEL GAYA VIII LTDA / 37.918.857/0001-03
+
+25351.857302/2020-55 / 7745077
+
+70152 - AFE/AE - RECURSO ADMINISTRATIVO - FARMÁCIAS E DROGARIAS / 2999282206
+
+--------------------------------------
+
+COMERCIO DE MEDICAMENTOS BRAIR LTDA / 88.212.113/0882-79
+
+25351.876646/2020-63 / 7745015
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2903140201
+
+--------------------------------------
+
+MARTINS & ROCHA COMERCIO DE PRODUTOS FARMACEUTICOS LTDA / 36.999.622/0002-01
+
+25351.877921/2020-66 / 7745199
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2905674208
+
+--------------------------------------
+
+TTP COMERCIO DE MEDICAMENTOS E VARIEDADES LTDA / 36.359.823/0001-55
+
+25351.877750/2020-75 / 7745123
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2905021209
+
+--------------------------------------
+
+REDE BELA COMERCIO DE PRODUTOS FARMACEUTICOS E PERFUMARIA LTDA / 35.931.362/0001-80
+
+25351.876651/2020-76 / 7745106
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2904158209
+
+--------------------------------------
+
+DROGARIA CENTRAL DE IBATIBA LTDA / 37.259.145/0001-11
+
+25351.862140/2020-77 / 7744864
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2861338204
+
+--------------------------------------
+
+DROGARIA TOP FARMA DE COPACABANA LTDA / 35.787.965/0001-50
+
+25351.865647/2020-82 / 7744924
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2873242201
+
+--------------------------------------
+
+N. DE SOUZA LINS / 34.746.599/0001-29
+
+25351.865652/2020-95 / 7744941
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2873252209
+
+--------------------------------------
+
+MINHA FARMACIA LTDA / 10.374.002/0025-71
+
+25351.877919/2020-97 / 7745171
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2905670205
+
+--------------------------------------
+
+FARMACIA VICENTINA EIRELI / 28.876.663/0001-93
+
+25351.631405/2020-97 / 7745094
+
+70152 - AFE/AE - RECURSO ADMINISTRATIVO - FARMÁCIAS E DROGARIAS / 2966064205

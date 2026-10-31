@@ -1,0 +1,42 @@
+---
+titulo: "PORTARIA Nº 8, DE 2 DE JANEIRO DE 2013"
+orgao: "Ministério da Justiça/DEPARTAMENTO PENITENCIÁRIO NACIONAL"
+tipo: "Portaria"
+numero: "8"
+data: 2013-01-02
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 16/01/2013, seção 1, p. 17"
+data_publicacao: 2013-01-16
+edicao: "11"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-8-de-2-de-janeiro-de-2013-30160168"
+sha256_html_fonte: 07595e180ca6109452e3d6c20e357c4cb2b68c127775a99a2e680f3be8b6b276
+baixado_em: 2026-10-28
+---
+# PORTARIA Nº 8, DE 2 DE JANEIRO DE 2013
+
+PORTARIA Nº 8, DE 2 DE JANEIRO DE 2013
+
+Tornar pública a necessidade, procedimentose critérios para apresentação de diagnósticosprévios, para a finalidade de obtençãode recursos provenientes do FundoPenitenciário Nacional - FUNPEN no exercíciode 2013, referentes à temática deApoio à Assistência à Saúde para presos,internados e egressos do sistema penitenciário,voltados à execução dos "Projetosde Aquisição de Equipamentos para Centrosde Referência à Saúde Materno-Infantil".
+
+O DIRETOR-GERAL DO DEPARTAMENTO PENITENCIÁRIONACIONAL, no uso de suas atribuições legais, considerando:a Lei nº 7.210, de 11 de julho de 1984 e suas alterações; a LeiComplementar nº 79, de 07 de janeiro de 1994 e suas alterações; oDecreto n.º 1.093, de 03 de março de 1994; a Portaria InterministerialMS/MJ 1.777, de 09 de setembro de 2003; o Decreto nº 6.170, de 25de junho de 2007 e suas alterações; a Lei nº 12.309, de 09 de agostode 2010; a Portaria Interministerial CGU/MF/MPOG nº 507, de 24 denovembro de 2011; e as Resoluções nº 05, de 09 de maio de 2006, nº01, de 29 de abril de 2008, todas do Conselho Nacional de PolíticaCriminal e Penitenciária (CNPCP), aplicáveis no âmbito do DEPEN/MJ,resolve:
+
+**Art. 1º.** Tornar público os procedimentos e critérios para ofinanciamento de projetos, ações ou atividades com recursos provenientesdo Fundo Penitenciário Nacional (FUNPEN), visando àAssistência à Saúde Materno-Infantil nos sistemas penitenciários estaduais,voltados à execução do 3º Ciclo de Implementação dos Projetosde Aquisição de equipamentos para Centros de Referência àSaúde Materno-Infantil.
+
+**§ 1º** - A presente Portaria não possui natureza de concursoou seleção de projetos, mas sim de um chamamento público para queas Unidades da Federação que não participaram do 1º e 2º ciclos daAquisição de Equipamentos para Centros de Referência à Saúde Materno-Infantil,e que possuam interesse em celebrar convênios com oDepartamento Penitenciário Nacional para a execução dos "Projetos",apresentem diagnósticos conforme o modelo disponível no sítio eletrônicodo DEPEN, qual seja, www.mj.gov.br/depen, norteando assim,a política de celebração e distribuição dos recursos a ser implementadaa ser divulgada em portaria específica para apresentação depropostas no exercício de 2013.
+
+**Art. 2º.** Os recursos serão destinados exclusivamente às unidadesfederativas que não contempladas com aparelhamentos de unidadesmaterno-infantis, até o exercício de 2012, a saber: Rio deJaneiro (1.830 custodiadas); Bahia (556 custodiadas), Amapá; Acre(230 custodiadas); Roraima (184 custodiadas); Sergipe (197 custodiadas)e Tocantins (81 custodiadas).
+
+**Art. 3º.** Para os efeitos desta Portaria, considera-se:I -Projetos de aquisição de equipamentos para Centros deReferência à Saúde Materno-Infantil, cujos objetos serão o aparelhamentode Unidades Materno-Infantil, sob a perspectiva de atendermulheres em situações gestacionais, parturientes, nutrizes e seus filhos.II- Ciclo de Implementação: ciclo iniciado pela presentePortaria, que compreenderá o encaminhamento dos diagnósticos; análise;reunião entre os representantes da Coordenação de Apoio àAssistência Jurídica, Social e à Saúde do DEPEN com representantesdas Unidades da Federação interessadas; recebimento e análise preliminardos pré-projetos, publicação de nova portaria com a previsãoorçamentária e descriminação das Unidades da Federação que poderãoapresentar projetos; análise e aprovação das propostas encaminhadas,além do aparelhamento nas Unidades da Federação;Art. 4º. As propostas deverão ser apresentadas exclusivamentepelos órgãos competentes dos Poderes Executivos Estaduaisdas referidas Unidades da Federação.DO ENCAMINHAMENTO DO DIAGNÓSTICOArt. 5º. No exercício de 2013, somente as Unidades da Federaçãoque não participaram e que desejem pleitear recursos para aexecução dos Projetos de Aquisição de Equipamentos para Centros deReferência à Saúde Materno-Infantil deverão apresentar os diagnósticosnos termos previstos nesta Portaria, podendo ser atendidas deacordo com a disponibilidade orçamentária a ser indicada em portariaespecífica para apresentação de propostas.§ 1º - Haja vista que as Unidades Federativas do Rio deJaneiro, Amapá, Bahia, Acre, Roraima, Sergipe e Tocantins não participaramdo 1º e 2º ciclos, somente estas poderão celebrar os convêniosdirecionados ao programa materno-infantil em 2013.DO DIAGNÓSTICOArt. 6º. A Unidade da Federação escolherá até 05 (cinco)estabelecimentos penais que tenham mulheres sob sua custódia pararealizar o levantamento dos dados necessários.Parágrafo Único - Deverá ser encaminhado 01 (um) formuláriode diagnóstico para cada estabelecimento penal escolhido.Art. 7º. Os diagnósticos deverão ser encaminhados apenaspelo Órgão do Poder Executivo Estadual responsável pela AdministraçãoPenitenciária. Caso o diagnóstico seja remetido por outroórgão ou instituição o mesmo não será reconhecido como válido.Art. 8º. Os diagnósticos a serem encaminhados devem seguiros padrões constantes no modelo disponível no sítio eletrônico doDEPEN, qual seja, www.mj.gov.br/depen, no tópico Reintegração Social,respeitando a formatação apresentada e preenchidos em suatotalidade de maneira objetiva e clara, assim como a devida inclusãodas fotos solicitadas.§ 1º - Não serão aceitos diagnósticos apresentados em padrõesdiferentes do estabelecido, preenchidos à mão ou encaminhadospor e-mail.Art. 9º. O ofício de encaminhamento deverá remeter o diagnósticoimpresso e o arquivo digital salvo em programa editor detexto (.doc) gravado em mídia (CD, DVD ou pendrive), por correios,à DIRETORIA DE POLÍTICAS PENITENCIÁRIAS DO DEPARTAMENTOPENITENCIÁRIO NACIONAL, no endereço: ESPLANADADOS MINISTÉRIOS, BLOCO "T", MINISTÉRIO DA JUSTIÇA,ANEXO II, 6º ANDAR, SALA 627 - BRASÍLIA/DF, CEP:70.064-900, no período de 02 de janeiro de 2012 a 15 de fevereiro de2013, sob pena de serem desconsiderados.§ 1º - Também serão considerados válidos os ofícios deencaminhamento que remetam o diagnóstico impresso e o arquivodigital salvo em programa editor de texto (doc) gravado em mídia(CD, DVD ou pendrive) que, no período designado, venham a serentregues diretamente no Protocolo do Edifício Sede do Ministério daJustiça ou no Protocolo do Departamento Penitenciário Nacional, no6º andar do Anexo II do Ministério da Justiça.§ 2º - Para fins de comprovação, no caso de correspondênciasserá levada em consideração a data posta no carimbo doscorreios e, no caso de entrega direta nos protocolos citados no § 1º,a data do recebimento do referido setor.Art. 10º. Com o intuito de facilitar o preenchimento e encaminhamentodos diagnósticos por parte das Unidades da Federação,o Departamento Penitenciário Nacional disponibilizará em seu sítioeletrônico www.mj.gov.br/depen, no link Reintegração Social, o arquivodo formulário de diagnóstico para download.Parágrafo Único - Caso a Unidade da Federação tenha dificuldadesem obter o arquivo por intermédio do sitio eletrônico doDEPEN, o arquivo poderá ser solicitado por e-mail a ser encaminhadoaos cuidados da Coordenação de Apoio à Assistência Jurídica,Social e à Saúde para coars@mj.gov.br.DAS DISPOSIÇÕES GERAISArt. 11. Os diagnósticos encaminhados tempestivamente serãoanalisados pela Coordenação de Apoio à Assistência Jurídica,Social e à Saúde da Coordenação-Geral de Reintegração Social eEnsino deste Departamento, oportunidade em que as impressões sobreos documentos analisados serão remetidas aos Estados para ciência.
+
+**Art. 12.** Os casos omissos ou de natureza específica serãoresolvidos pelo Diretor-Geral do Departamento Penitenciário Nacionaldo Ministério da Justiça.
+
+**Art. 13.** Revogam-se todas as disposições em contrário.
+
+**Art. 14.** Esta Portaria entra em vigor na data de sua publicação.
+
+AUGUSTO EDUARDO DE SOUZA ROSSINI
+
+AUGUSTO EDUARDO DE SOUZA ROSSINI
+
+Este conteúdo não substitui o publicado na versão certificada.

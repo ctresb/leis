@@ -1,0 +1,158 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 4.220, DE 16 DE OUTUBRO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "4220"
+data: 2020-10-16
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 19/10/2020, seção 1, p. 63"
+data_publicacao: 2020-10-19
+edicao: "200"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.220-de-16-de-outubro-de-2020-283500153"
+sha256_html_fonte: 2b359d1fc53c5255032949ceb02679a6b0c65d007e8faa71a20576bca6e86427
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 4.220, DE 16 DE OUTUBRO DE 2020
+
+RESOLUÇÃO-RE Nº 4.220, DE 16 DE OUTUBRO DE 2020
+
+O Coordenador de Autorização de Funcionamento de Empresas, substituto, no uso das atribuições que lhe confere o art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º.** Conceder Autorização de Funcionamento para Empresas constantes no anexo desta Resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+SOLUÇÃO MAT. LIMPEZA, HIGIENE, FERRAMENTAS E EPI EIRELI / 22.633.039/0001-89
+
+25351.904832/2020-08 / 3097258
+
+740 - AFE - CONCESSÃO - SANEANTES DOMISSANITÁRIOS - DISTRIBUIDORA (SOMENTE MATRIZ) / 2983770206
+
+--------------------------------------
+
+RAIA DROGASIL S/A / 61.585.865/2422-44
+
+25351.904807/2020-16 / 8207776
+
+856 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - DISTRIBUIDORA / 2983740200
+
+--------------------------------------
+
+BRASPRESS TRANSPORTES URGENTES LTDA / 48.740.351/0034-23
+
+25351.899463/2020-16 / 8207759
+
+862 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - TRANSPORTADORA / 2969025205
+
+--------------------------------------
+
+Shuttle Logistica Integrada LTDA / 04.711.147/0012-01
+
+25351.899269/2020-31 / 8207731
+
+862 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - TRANSPORTADORA / 2968822209
+
+--------------------------------------
+
+ESCUDO VERDE COMERCIO VAREJISTA E SUVENIRES EIRELI / 31.561.367/0001-08
+
+25351.899251/2020-39 / 3097244
+
+735 - AFE - CONCESSÃO - SANEANTES DOMISSANITÁRIOS - IMPORTADORA (SOMENTE MATRIZ) / 2968803204
+
+--------------------------------------
+
+HEROPEçAS LTDA / 10.685.231/0001-30
+
+25351.904745/2020-42 / 8207780
+
+860 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - VAREJISTA / 2983670201
+
+--------------------------------------
+
+COMERCIAL CIRURGICA RIOCLARENSE LTDA / 67.729.178/0006-53
+
+25351.897887/2020-46 / 8207701
+
+856 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - DISTRIBUIDORA / 2966760207
+
+--------------------------------------
+
+PEDRO CURCIO JUNIOR / 23.864.144/0001-91
+
+25351.899272/2020-54 / 8207745
+
+862 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - TRANSPORTADORA / 2968826204
+
+25351.899226/2020-55 / 1243556
+
+701 - AFE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA (SOMENTE MATRIZ) / 2968776207
+
+--------------------------------------
+
+ELIT INDÚSTRIA DE TINTAS E REVESTIMENTOS LTDA / 22.038.548/0004-06
+
+25351.904775/2020-59 / 4024468
+
+721 - AFE - CONCESSÃO - COSMÉTICOS, PERFUMES E PRODUTOS PARA HIGIENE - INDÚSTRIA (SOMENTE MATRIZ) / 2983704203
+
+--------------------------------------
+
+L.J. SERAFIM / 34.979.158/0001-77
+
+25351.899168/2020-60 / 4024437
+
+723 - AFE - CONCESSÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - DISTRIBUIDORA (SOMENTE MATRIZ) / 2968708201
+
+--------------------------------------
+
+flash prestações de serviços eirelli epp / 19.458.719/0002-80
+
+25351.894096/2020-64 / 8207699
+
+860 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - VAREJISTA / 2954186208
+
+--------------------------------------
+
+QUIMICANOBRE INDUSTRIA E COMERCIO DE PRODUTOS QUIMICOS LTDA. / 36.900.631/0001-04
+
+25351.801756/2020-71 / 3097231
+
+712 - AFE - CONCESSÃO - SANEANTES - INDÚSTRIA (SOMENTE MATRIZ) / 2682803202
+
+--------------------------------------
+
+PROCIFAR DISTRIBUIDORA DE MATERIAL HOSPITALAR S/A / 14.722.938/0001-20
+
+25351.899166/2020-71 / 4024423
+
+723 - AFE - CONCESSÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - DISTRIBUIDORA (SOMENTE MATRIZ) / 2968704206
+
+-------------------------------------
+
+JOSE ITALO ANGELO DA SILVA / 37.019.876/0001-90
+
+25351.899215/2020-75 / 8207714
+
+856 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - DISTRIBUIDORA / 2968765205
+
+--------------------------------------
+
+PE DE APOIO PRODUTOS MEDICOS E HOSPITALARES EIRELI / 35.886.714/0001-23
+
+25351.904707/2020-90 / 8207762
+
+860 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - VAREJISTA / 2983608204
+
+--------------------------------------
+
+PEDRO CURCIO JUNIOR / 23.864.144/0001-91
+
+25351.899268/2020-96 / 4024441
+
+728 - AFE - CONCESSÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - TRANSPORTADORA (SOMENTE MATRIZ) / 2968821202

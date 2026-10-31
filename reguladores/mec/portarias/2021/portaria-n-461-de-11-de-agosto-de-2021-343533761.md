@@ -1,0 +1,24 @@
+---
+titulo: "PORTARIA Nº 461, DE 11 DE AGOSTO DE 2021"
+orgao: "Ministério da Educação/Universidade Federal Rural do Semi-Árido"
+tipo: "Portaria"
+numero: "461"
+data: 2021-08-11
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 09/09/2021, seção 1, p. 48"
+data_publicacao: 2021-09-09
+edicao: "171"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-461-de-11-de-agosto-de-2021-343533761"
+sha256_html_fonte: 6776c7f997553b66e53fb4f4b7ee270f54c8db273bdcfbb5ca80f298880a6a02
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 461, DE 11 DE AGOSTO DE 2021
+
+PORTARIA Nº 461, DE 11 DE AGOSTO DE 2021
+
+A Reitora da Universidade Federal Rural do Semi-Árido, no uso de suas atribuições, conferidas pelo Decreto de 21 de agosto de 2020, publicado na edição extra no Diário Oficial da União de 21 de agosto de 2020, e tendo em vista o que estabelece o artigo 44, incisos VI, XVII e XIX, do Estatuto da universidade; o art. 58, incisos VII, XVII e XIX, do Regimento da Ufersa; o Decreto nº 10.139, de 28 de novembro de 2019, alterado pelos Decreto nº 10.310, de 2 de abril de 2020, que conferiu novos prazos para a realização dos trabalhos de revisão e consolidação dos atos normativos e Decreto nº 10.437, de 22 de julho de 2020; a Portaria nº 388, de 12 de julho de 2021, da Ufersa, resolve:
+
+Instituir Grupos de Trabalho - GT de revisão e consolidação dos atos normativos, doravante denominado apenas GT dos atos normativos, com o objetivo de propor diretrizes para a realização do trabalho de revisão e consolidação de atos normativos e executá-las, nos termos do Decreto 10.139, de 28 de novembro de 2019, com as alterações dos prazos previstos no Decreto nº 10.310, de 2 de abril de 2020, e eventuais alterações posteriores. São competências dos GT dos atos normativos: I - definir os grupos de pertinência temática para realização do trabalho de revisão e consolidação dos atos normativos inferiores a decreto na forma da legislação vigente; II - propor o cronograma para publicação dos atos normativos revisados e consolidados, observados os prazos definidos no decreto e suas alterações; III - definir os procedimentos e rotinas para execução e monitoramento dos trabalhos de revisão e consolidação, no âmbito da universidade; IV - divulgar no site da universidade a listagem com os atos normativos inferiores a decreto; V - propor minutas de portaria para a publicação dos atos inferiores a decreto consolidados pelo GT; VI - executar a triagem e o exame dos atos normativos expedidos pela universidade, propondo minutas de novos atos visando a consolidação ou revogação de atos antigos, conforme previsto no decreto e suas alterações; VII - executar outras atividades destinadas ao pleno cumprimento do decreto e suas alterações. Os GT dos atos normativos, será composto por três servidores, sendo um coordenador e dois membros. A coordenação e orientação dos GT dos atos normativos serão realizadas em conjunto com representantes do Gabinete da Reitoria da universidade, designados pela Portaria nº 388, de 12 de julho de 2021, sendo suas decisões adotadas mediante consenso. Os GT dos atos normativos poderão convidar representantes de outras unidades administrativas da universidade, quando necessário, para o cumprimento das finalidades específicas do GT, assegurado o interesse público. A eventual necessidade de substituição de membros do GT dos atos normativos poderá ser feita mediante solicitação, por e-mail, ao Gabinete da Reitoria, com exposição de motivos para a autoridade máxima da universidade. Compete a Coordenação dos Grupos de Trabalhos de revisão e consolidação de atos normativos, fornecer o apoio administrativo necessário ao desenvolvimento dos trabalhos e à convocação das reuniões, elaboração de atas e encaminhamento dos documentos produzidos ao Gabinete da Reitoria. Os GT de revisão e consolidação de atos normativos executarão suas atribuições observando os prazos previstos no decreto e suas alterações posteriores, bem como eventuais solicitações das autoridades competentes. Os GT de revisão e consolidação de atos normativos têm caráter permanente, devendo manter a consolidação normativa por meio da: I - realização de alteração das normas consolidadas cada vez que novo ato com temática aderente a ela for editado; e II - repetição dos procedimentos de revisão e consolidação normativa previstos no decreto e suas alterações posteriores no início do primeiro ano de cada mandato presidencial, com término até o segundo ano do referido mandato. Os GT de revisão e consolidação de atos normativos, ao finalizar cada uma das fases de que trata o art. 11 do Decreto, apresentarão relatórios detalhados das atividades realizadas, resultados alcançados e propostas formuladas ao Gabinete da Reitoria, para conhecimento e providências cabíveis. Esta Portaria entra em vigor na data de sua publicação.
+
+Ludimilla Carvalho Serafim de Oliveira

@@ -1,0 +1,130 @@
+---
+titulo: "RESOLUÇÃO RE Nº 831, DE 16 DE Março DE 2022"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "831"
+data: 2022-03-16
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 17/03/2022, seção 1, p. 92"
+data_publicacao: 2022-03-17
+edicao: "52"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-831-de-16-de-marco-de-2022-386460784"
+sha256_html_fonte: 09a791f30e7ba65261644594b32a9bfa215ddb45ab1e07a9b0cf26fd74f3dc85
+baixado_em: 2026-10-20
+---
+# RESOLUÇÃO RE Nº 831, DE 16 DE Março DE 2022
+
+RESOLUÇÃO RE Nº 831, DE 16 DE Março DE 2022
+
+O Coordenador de Autorização de Funcionamento de Empresas, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Conceder Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria nº. 344 de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+LICITE SAUDE COMERCIO DE PRODUTOS HOSPITALARES LTDA / 34.223.536/0001-98
+
+25351.151195/2022-10 / 1271355
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0943915228
+
+--------------------------------------
+
+JOMED TRANSPORTES E LOGISTICA EIRELI / 60.319.985/0001-44
+
+25351.125740/2022-12 / 1271324
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0811224228
+
+--------------------------------------
+
+provip distribuidora hospitalar / 20.202.872/0002-20
+
+25351.125758/2022-14 / 1271338
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0811333221
+
+--------------------------------------
+
+S A XINGU LTDa / 22.312.374/0001-85
+
+25351.151221/2022-18 / 1271386
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0944083226
+
+--------------------------------------
+
+NOS NACIONAL ESTETICA LTDA / 40.792.385/0001-91
+
+25351.110386/2022-21 / 1271216
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0715998226
+
+--------------------------------------
+
+DISMATH DISTRIBUIDORA DE MATERIAIS MEDICOS E HOSPITALARES LTDA / 34.180.445/0001-12
+
+25351.097273/2022-23 / 1271187
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0652456227
+
+--------------------------------------
+
+JETLOG LOGÍSTICA LTDA / 12.723.621/0006-97
+
+25351.110361/2022-28 / 1271233
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0715822225
+
+--------------------------------------
+
+LABORATÓRIO ANALÍTICO FARMACÊUTICO LTDA-ME / 08.804.710/0001-86
+
+25351.097232/2022-37 / 1271160
+
+70309 - AE - CONCESSÃO - LABORATÓRIOS OU INSTITUIÇÕES DE PESQUISA (EXCETO INDÚSTRIA E FARMÁCIA DE MANIPULAÇÃO) / 0652267220
+
+--------------------------------------
+
+RCM COMERCIO VETERINARIO LTDA / 34.964.755/0001-28
+
+25351.137649/2022-40 / 1271311
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 0885418221
+
+--------------------------------------
+
+EUROFARMA LABORATORIOS S.A. / 61.190.096/0011-64
+
+25351.117393/2022-54 / 1271506
+
+731 - AE - CONCESSÃO - INDÚSTRIA DE MEDICAMENTOS / 0770293221
+
+--------------------------------------
+
+SERVIMED DISTRIBUIDORA E SERVIÇOS LTDA / 23.486.068/0001-28
+
+25351.151250/2022-71 / 1271401
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0944240224
+
+--------------------------------------
+
+RMSA DISTRIBUIDORA LTDA / 44.025.964/0001-60
+
+25351.110346/2022-80 / 1271220
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0715757229
+
+--------------------------------------
+
+DROGARIA MILANEZ LTDA - ME / 09.544.292/0001-06
+
+25351.088362/2022-89 / 1271281
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 0597875221

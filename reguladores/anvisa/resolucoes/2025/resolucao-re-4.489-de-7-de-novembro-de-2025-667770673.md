@@ -1,0 +1,194 @@
+---
+titulo: "RESOLUÇÃO-RE 4.489, DE 7 DE novembro DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: ""
+data: 2025-11-07
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 10/11/2025, seção 1, p. 119"
+data_publicacao: 2025-11-10
+edicao: "214"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-4.489-de-7-de-novembro-de-2025-667770673"
+baixado_em: 2026-10-16
+sha256_html_fonte: 4ee2e32c44fccf0e2afa46d618a61fe1dd36b97dfc928d27c481ed15bc419097
+---
+# RESOLUÇÃO-RE 4.489, DE 7 DE novembro DE 2025
+
+RESOLUÇÃO-RE 4.489, DE 7 DE novembro DE 2025
+
+A GERENTE-GERAL SUBSTITUTA DE INSPEÇÃO E FISCALIZAÇÃO SANITÁRIA DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, e
+
+considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:
+
+**Art. 1º** Renovar a Certificação de Boas Práticas de Fabricação de Medicamentos das empresas constantes no ANEXO.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+fernanda maciel rebelo
+
+## ANEXO
+
+EMPRESA FABRICANTE: FERRER INTERNACIONAL S.A.
+
+ENDEREÇO: C/ JOAN BUSCALLÀ, 1-9, 08173, SANT CUGAT DEL VALLÈS, BARCELONA - PAÍS: ESPANHA - CÓDIGO ÚNICO: A.000226
+
+EMPRESA SOLICITANTE: Laboratórios Bagó do Brasil S/A - CNPJ: 04.748.181/0009-47
+
+AUTORIZ/MS: 1056264 - EXPEDIENTE(s): 0754040/25-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas; Granulados
+
+Data de vencimento: 11/12/2027
+
+.........................................
+
+EMPRESA FABRICANTE: MONTE VERDE S.A.
+
+ENDEREÇO: RUTA NACIONAL N°40, S/Nº, ESQ. CALLE 8, DEPARTAMENTO DE POCITO, PROVÍNCIA DE SAN JUAN. - PAÍS: ARGENTINA - CÓDIGO ÚNICO: A.000695
+
+EMPRESA SOLICITANTE: ADIUM S.A. - CNPJ: 55.980.684/0001-27
+
+AUTORIZ/MS: 1022141 - EXPEDIENTE(s): 0656939/25-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos; Comprimidos Revestidos
+
+Data de vencimento: 11/12/2027
+
+.........................................
+
+EMPRESA FABRICANTE: GLAND PHARMA LIMITED
+
+ENDEREÇO: SURVEY 143-148, 150 & 151 NEAR GANDIMAISAMMA CROSS ROADS, D.P.PALLY, DUNDIGAL POST, DUNDIGAL-GANDIMAISAMMA MANDAL, MEDCHAL-MALKAJGIRI DISTRICT, HYDERABAD - 500 043, TELANGANA - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.000257
+
+EMPRESA SOLICITANTE: ANTIBIÓTICOS DO BRASIL LTDA - CNPJ: 05.439.635/0001-03
+
+AUTORIZ/MS: 1055622 - EXPEDIENTE(s): 0771482/25-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+Data de vencimento: 11/12/2027
+
+.........................................
+
+EMPRESA: INDÚSTRIA E COMÉRCIO ZAMBON BERNARDI LTDA - CNPJ: 61.553.947/0001-14 - AUTORIZ/MS: 1011201
+
+ENDEREÇO: RUA TOLEDO BARBOSA, Nº 666/690
+
+MUNICÍPIO: SÃO PAULO - UF: SP - EXPEDIENTE: 0785093/25-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem primária; Granel): Sabonetes
+
+Data de vencimento: 11/12/2027
+
+.........................................
+
+EMPRESA FABRICANTE: CSL BEHRING AUSTRALIA PTY LTD
+
+ENDEREÇO: 189-209 CAMP ROAD, BROADMEADOWS, VICTORIA 3047 - PAÍS: AUSTRÁLIA - CÓDIGO ÚNICO: A.000175
+
+EMPRESA SOLICITANTE: CSL BEHRING COMÉRCIO DE PRODUTOS FARMACÊUTICOS LTDA - CNPJ: 62.969.589/0001-98
+
+AUTORIZ/MS: 1001510 - EXPEDIENTE(s): 0425158/25-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados
+
+Data de vencimento: 11/12/2027
+
+.........................................
+
+EMPRESA FABRICANTE: ABBOTT BIOLOGICALS B.V.
+
+ENDEREÇO: VEERWEG 12, OLST, 8121 AA - PAÍS: HOLANDA (PAÍSES BAIXOS) - CÓDIGO ÚNICO: A.000592
+
+EMPRESA SOLICITANTE: MERCK S/A - CNPJ: 33.069.212/0001-84
+
+AUTORIZ/MS: 1000898 - EXPEDIENTE(s): 0707119/25-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+Data de vencimento: 11/12/2027
+
+.........................................
+
+EMPRESA FABRICANTE: NOVO NORDISK A/S
+
+ENDEREÇO: HAGEDORNSVEJ 1, DK-2820, GENTOFTE - PAÍS: DINAMARCA - CÓDIGO ÚNICO: A.000443
+
+EMPRESA SOLICITANTE: NOVO NORDISK FARMACÊUTICA DO BRASIL LTDA - CNPJ: 82.277.955/0001-55
+
+AUTORIZ/MS: 1017662 - EXPEDIENTE(s): 0728359/25-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+Data de vencimento: 11/12/2027
+
+.........................................
+
+EMPRESA FABRICANTE: GLAXOSMITHKLINE, LLC.
+
+ENDEREÇO: 1011 NORTH ARENDELL AVENUE, ZEBULON, NORTH CAROLINA (NC) 27597 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000275
+
+EMPRESA SOLICITANTE: GLAXOSMITHKLINE BRASIL LTDA - CNPJ: 33.247.743/0001-10
+
+AUTORIZ/MS: 1001071 - EXPEDIENTE(s): 0442953/25-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Pós Sólidos não estéreis (Granel): Comprimidos Revestidos
+
+Data de vencimento: 11/12/2027
+
+.........................................
+
+EMPRESA FABRICANTE: JANSSEN PHARMACEUTICA N.V.
+
+ENDEREÇO: TURNHOUTSEWEG, 30, B-2340, BEERSE - PAÍS: BÉLGICA - CÓDIGO ÚNICO: A.000330
+
+EMPRESA SOLICITANTE: JANSSEN-CILAG FARMACÊUTICA LTDA - CNPJ: 51.780.468/0001-87
+
+AUTORIZ/MS: 1012361 - EXPEDIENTE(s): 0791441/25-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Adesivos
+
+Data de vencimento: 11/12/2027
+
+.........................................
+
+EMPRESA FABRICANTE: RESILIENCE US, INC
+
+ENDEREÇO: 8814 TRADE PORT DRIVE, WEST CHESTER, OHIO (OH) 45071 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000799
+
+EMPRESA SOLICITANTE: ASTRAZENECA DO BRASIL LTDA - CNPJ: 60.318.797/0001-00
+
+AUTORIZ/MS: 1016181 - EXPEDIENTE(s): 0697647/25-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+Data de vencimento: 11/12/2027
+
+.........................................
+
+EMPRESA FABRICANTE: JANSSEN PHARMACEUTICA N.V.
+
+ENDEREÇO: TURNHOUTSEWEG, 30, B-2340, BEERSE - PAÍS: BÉLGICA - CÓDIGO ÚNICO: A.000330
+
+EMPRESA SOLICITANTE: JANSSEN-CILAG FARMACÊUTICA LTDA - CNPJ: 51.780.468/0001-87
+
+AUTORIZ/MS: 1012361 - EXPEDIENTE(s): 0599667/25-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Soluções; Suspensões
+
+Data de vencimento: 11/12/2027
+
+.........................................
+
+EMPRESA FABRICANTE: ADVANCED ACCELERATOR APPLICATIONS (ITALY) S.R.L.
+
+ENDEREÇO: VIA CRESCENTINO - 13040 SALUGGIA (VC) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.001623
+
+EMPRESA SOLICITANTE: NOVARTIS BIOCIENCIAS S.A - CNPJ: 56.994.502/0001-30
+
+AUTORIZ/MS: 1000685 - EXPEDIENTE(s): 0713361/25-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Radiofármacos): Pós Liofilizados
+
+Data de vencimento: 11/12/2027

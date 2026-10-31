@@ -1,0 +1,274 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 4.408, DE 29 DE OUTUBRO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Segunda Diretoria/Gerência-Geral de Alimentos"
+tipo: "Resolução"
+numero: "4408"
+data: 2020-10-29
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 03/11/2020, seção 1, p. 539"
+data_publicacao: 2020-11-03
+edicao: "209"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.408-de-29-de-outubro-de-2020-285774900"
+sha256_html_fonte: f11dc9a298bd90d93cacb8d5718cc4bf8adc804e3f5431f097cb00257d8c98c3
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 4.408, DE 29 DE OUTUBRO DE 2020
+
+RESOLUÇÃO-RE Nº 4.408, DE 29 DE OUTUBRO DE 2020
+
+A Gerente-Geral de Alimentos, no uso das atribuições que lhe confere o art. 126, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:
+
+**Art.1º** Deferir as petições relacionadas à Gerência-Geral de Alimentos, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+THALITA ANTONY DE SOUZA LIMA
+
+## ANEXO
+
+Relatório de Conferência de Alimentos. Publicação nr.: 689420
+
+NOME DA EMPRESA CNPJ
+
+NOME DO PRODUTO UF
+
+NUMERO DO PROCESSO NUMERO DE REGISTRO
+
+EMBALAGEM VALIDADE PRODUTO
+
+CLASS/CAT DESCRIÇÃO VALIDADE REGISTRO
+
+MARCA DO PRODUTO
+
+ASSUNTO PETIÇÃO
+
+----------------------------------------------
+
+DANISCO BRASIL LTDA 46.278.016/0001-61
+
+BIFIDOBACTERIUM LACTIS, LACTOBACILLUS ACIDOPHILUS, LACTOBACILLUS PARACASEI E BIFIDOBACTERIUM BIFIDUM EM CÁPSULAS - ESTADOS UNIDOS (MADISON)
+
+25004.260029/2010-35 4.7076.0368.003-1
+
+METALICA 24 Meses
+
+PLASTICA 24 Meses
+
+SUBSTANCIAS BIOATIVAS E PROBIOTICOS ISOLADOS COM ALEGAÇÃO DE PROP. FUNC. E/OU DE SAUDE. 01/2021
+
+4051 Inclusão de Unidade Fabril
+
+BIFIDOBACTERIUM LACTIS, LACTOBACILLUS ACIDOPHILUS, LACTOBACILLUS PARACASEI E BIFIDOBACTERIUM BIFIDUM EM CÁPSULAS - ITAPEVI/SP
+
+25004.260029/2010-35 4.7076.0368.004-1
+
+METALICA 24 Meses
+
+PLASTICA 24 Meses
+
+SUBSTANCIAS BIOATIVAS E PROBIOTICOS ISOLADOS COM ALEGAÇÃO DE PROP. FUNC. E/OU DE SAUDE. 01/2021
+
+4051 Inclusão de Unidade Fabril
+
+----------------------------------------------
+
+DANONE LTDA. 23.643.315/0115-10
+
+FÓRMULA PEDIÁTRICA PARA NUTRIÇÃO ENTERAL - HOLANDA
+
+25351.528346/2009-81 6.6577.0030.001-1
+
+ALIMENTOS PARA NUTRIÇÃO ENTERAL
+
+4124 Cancelamento de Registro de Apresentação
+
+----------------------------------------------
+
+FARMOQUÍMICA S/A 33.349.473/0001-58
+
+MÓDULO DE L-GLUTAMINA PARA NUTRIÇÃO ENTERAL E ORAL
+
+25351.210636/2020-61 6.7239.0017.001-4
+
+PLASTICA 24 Meses
+
+METALICA 24 Meses
+
+CELULOSICA 24 Meses
+
+ALIMENTOS PARA NUTRIÇÃO ENTERAL 11/2025
+
+GLUTAFLORA / INVICTUS / GLUTASER / GLUTAMINASER / GLUTAMIN
+
+4061 Registro de módulo para nutrição enteral
+
+LACTOBACILLUS ACIDOPHILUS E BIFIDOBACTERIUM LACTIS EM COMPRIMIDOS - RIO DE JANEIRO/RJ
+
+25351.467950/2015-74 6.7239.0009.002-9
+
+METALICA 24 Meses
+
+PLASTICA 24 Meses
+
+SUBSTANCIAS BIOATIVAS E PROBIOTICOS ISOLADOS COM ALEGAÇÃO DE PROP. FUNC. E/OU DE SAUDE. 11/2021
+
+483 Inclusão de Rótulo
+
+----------------------------------------------
+
+FRESENIUS KABI BRASIL LTDA 49.324.221/0001-04
+
+FÓRMULA MODIFICADA PARA NUTRIÇÃO ENTERAL - ALEMANHA
+
+25351.689808/2017-20 6.2047.9993.001-4
+
+PLASTICA 12 Meses
+
+ALIMENTOS PARA NUTRIÇÃO ENTERAL 10/2023
+
+4083 Alteração de fórmula de fórmula modificada para nutrição enteral
+
+456 Alteração de Rotulagem
+
+----------------------------------------------
+
+L.V. FABRICAÇÃO DE ALIMENTOS LTDA 34.128.468/0001-88
+
+SOPINHA DE FEIJÃO COM MASSA CABELO DE ANJO, CARNE E LEGUMES
+
+25351.693119/2020-15 6.7504.0001.001-5
+
+PLASTICA 03 Meses
+
+ALIMENTOS INFANTIS 11/2025
+
+AMARMITINHAS GASTRONOMIA
+
+4065 Registro de alimentos de transição para lactentes e crianças de primeira infância
+
+SOPINHA - CREME DE AIPIM, LENTILHA E LEGUMES
+
+25351.693120/2020-40 6.7504.0002.001-0
+
+PLASTICA 03 Meses
+
+ALIMENTOS INFANTIS 11/2025
+
+AMARMITINHAS GASTRONOMIA
+
+4065 Registro de alimentos de transição para lactentes e crianças de primeira infância
+
+----------------------------------------------
+
+MYRALIS INDÚSTRIA FARMACÊUTICA LTDA 17.440.261/0001-25
+
+SUPLEMENTO ALIMENTAR DE BIFIDOBACTERIUM LACTIS COM VITAMINA E E FRUTOOLIGOSSACARÍDEOS EM PÓ - VOTORANTIM/SP
+
+25351.001950/2015-06 6.7089.0017.002-9
+
+PLASTICA 24 Meses
+
+METALICA 24 Meses
+
+Suplementos Alimentares Contendo Probióticos e/ou Enzimas 12/2024
+
+4051 Inclusão de Unidade Fabril
+
+----------------------------------------------
+
+NESTLE BRASIL LTDA 60.409.075/0001-52
+
+CEREAIS PARA ALIMENTAÇÃO INFANTIL COM BIFIDOBACTERIUM LACTIS - MULTICEREAIS - SÃO JOSÉ DO RIO PARDO/SP - EMBALAGEM 1
+
+25004.330117/2008-37 4.0076.1929.001-2
+
+METALICA 09 Meses
+
+PLASTICO 09 Meses
+
+ALIMENTOS INFANTIS 11/2025
+
+4091 Revalidação de registro de cereais para alimentação infantil
+
+CEREAIS PARA ALIMENTAÇÃO INFANTIL COM BIFIDOBACTERIUM LACTIS - MULTICEREAIS - SÃO JOSÉ DO RIO PARDO/SP - EMBALAGEM 2
+
+25004.330117/2008-37 4.0076.1929.003-9
+
+CELULOSICA 09 Meses
+
+ELASTOMERICA 09 Meses
+
+VIDRO 09 Meses
+
+ALIMENTOS INFANTIS 11/2025
+
+4091 Revalidação de registro de cereais para alimentação infantil
+
+CEREAIS PARA ALIMENTAÇÃO INFANTIL COM BIFIDOBACTERIUM LACTIS - MULTICEREAIS - FEIRA DE SANTANA/BA - EMBALAGEM 1
+
+25004.330117/2008-37 4.0076.1929.004-7
+
+PLASTICO 09 Meses
+
+METALICA 09 Meses
+
+ALIMENTOS INFANTIS 11/2025
+
+4091 Revalidação de registro de cereais para alimentação infantil
+
+CEREAIS PARA ALIMENTAÇÃO INFANTIL COM BIFIDOBACTERIUM LACTIS - MULTICEREAIS - FEIRA DE SANTANA/BA - EMBALAGEM 2
+
+25004.330117/2008-37 4.0076.1929.005-5
+
+VIDRO 09 Meses
+
+ELASTOMERICA 09 Meses
+
+CELULOSICA 09 Meses
+
+ALIMENTOS INFANTIS 11/2025
+
+4091 Revalidação de registro de cereais para alimentação infantil
+
+FÓRMULA INFANTIL PARA RECÉM-NASCIDOS PRÉ-TERMO E/OU DE ALTO RISCO
+
+25351.308159/2020-72 6.5965.0132.001-5
+
+METALICA 24 Meses
+
+PLASTICA 24 Meses
+
+ELASTOMERICA 24 Meses
+
+CELULOSICA 24 Meses
+
+ALIMENTOS INFANTIS 11/2025
+
+MARCAS INCLUÍDAS: NAN / NESTLÉ / PRE / PRE NAN / ALPREM / ESTÁGIO 1 / HOSPITALAR / STAGE 1 / 1 / PRE NAN 1
+
+MARCA NÃO APROVADA: PREMATURO
+
+4071 Registro de fórmulas infantis destinadas a necessidades dietoterápicas específicas
+
+----------------------------------------------
+
+SUPPORT PRODUTOS NUTRICIONAIS LTDA 01.107.391/0001-00
+
+FÓRMULA PEDIÁTRICA PARA NUTRIÇÃO ENTERAL E ORAL - INGLATERRA
+
+25351.325242/2013-75 6.5930.0001.001-9
+
+CELULOSICA 18 Meses
+
+METALICA 18 Meses
+
+PLASTICA 18 Meses
+
+ELASTOMERICA 18 Meses
+
+ALIMENTOS PARA NUTRIÇÃO ENTERAL 04/2025
+
+4097 Revalidação de registro de fórmulas pediátricas para nutrição enteral
+
+456 Alteração de Rotulagem

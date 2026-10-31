@@ -1,0 +1,148 @@
+---
+titulo: "RESOLUÇÃO-RE nº 3.070, DE 31 DE OUTUBRO DE 2019"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "3070"
+data: 2019-10-31
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 04/11/2019, seção 1, p. 175"
+data_publicacao: 2019-11-04
+edicao: "213"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.070-de-31-de-outubro-de-2019-225245092"
+sha256_html_fonte: 5600df3c75596820a142f3c07f72e2bec585ce47a1937f1b68267435242b0381
+baixado_em: 2026-10-27
+---
+# RESOLUÇÃO-RE nº 3.070, DE 31 DE OUTUBRO DE 2019
+
+RESOLUÇÃO-RE nº 3.070, DE 31 DE OUTUBRO DE 2019
+
+A Coordenadora de Autorização de Funcionamento de Empresas, Substituta, no uso das atribuições que lhe confere o art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º.** Alterar Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+PATRICIA AZEVEDO CHAGAS
+
+## ANEXO
+
+EMPRESA: GIRO CERTO ENCOMENDAS LTDA - EPP
+
+ENDEREÇO: Avenida Ápio Cardoso, 100, Galpão 03 Arm A e B
+
+BAIRRO: CINCÃO CEP: 32371615 - CONTAGEM/MG
+
+CNPJ: 03.083.948/0001-46
+
+PROCESSO: 25351.463549/2014-05 AUTORIZ/MS: 1.11242.9
+
+ATIVIDADE/CLASSE
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS/MEDICAMENTO
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS/MEDICAMENTO
+
+----------------------------------------------------
+
+EMPRESA: TIDIMAR COMÉRCIO DE PRODUTOS MÉDICOS HOSPITALARES LTDA - EPP
+
+ENDEREÇO: R DOUTOR COSTA REIS 951 galpao
+
+BAIRRO: ipiranga CEP: 36032580 - JUIZ DE FORA/MG
+
+CNPJ: 25.296.849/0001-85
+
+PROCESSO: 25351.067814/2014-16 AUTORIZ/MS: 1.00650.4
+
+ATIVIDADE/CLASSE
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+----------------------------------------------------
+
+EMPRESA: PONTIFICE COMERCIO DE MEDICAMENTOS LTDA. - EPP
+
+ENDEREÇO: Avenida Governador Jose Lindoso, 107 - Letra A
+
+BAIRRO: Segunda Etapa CEP: 69117000 - RIO PRETO DA EVA/AM
+
+CNPJ: 26.757.202/0001-76
+
+PROCESSO: 25351.181287/2017-16 AUTORIZ/MS: 1.16476.0
+
+ATIVIDADE/CLASSE
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+----------------------------------------------------
+
+EMPRESA: SMART DISTRIBUIDORA DE MEDICAMENTOS LTDA
+
+ENDEREÇO: R RAUL CABRAL DE MENEZES 316 TERREO
+
+BAIRRO: CENTRO CEP: 94415610 - VIAMÃO/RS
+
+CNPJ: 28.804.863/0001-30
+
+PROCESSO: 25351.033901/2018-66 AUTORIZ/MS: 1.17413.8
+
+ATIVIDADE/CLASSE
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+----------------------------------------------------
+
+EMPRESA: JETLOG LOGÍSTICA LTDA - ME
+
+ENDEREÇO: AV SEBASTIAO LEMES VIANA SN QUADRA10 LOTE 4A GALPAO C E D
+
+BAIRRO: PAR IND VICE-PRES JOSE ALENCAR CEP: 74993550 - APARECIDA DE GOIÂNIA/GO
+
+CNPJ: 12.723.621/0001-82
+
+PROCESSO: 25351.442363/2014-71 AUTORIZ/MS: 1.11043.1
+
+ATIVIDADE/CLASSE
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS/MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS/MEDICAMENTO
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS/MEDICAMENTO
+
+----------------------------------------------------
+
+EMPRESA: A DAINERS MEDICAL EIRELI
+
+ENDEREÇO: PC C 109 NÚMERO 88 QD 214 LOTE 09 CASA 2
+
+BAIRRO: JARDIM AMÉRICA CEP: 74255430 - GOIÂNIA/GO
+
+CNPJ: 16.849.094/0001-08
+
+PROCESSO: 25351.389212/2019-94 AUTORIZ/MS: 1.19109.1
+
+ATIVIDADE/CLASSE
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO

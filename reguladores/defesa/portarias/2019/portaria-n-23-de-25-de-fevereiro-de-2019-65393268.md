@@ -1,0 +1,28 @@
+---
+titulo: "PORTARIA Nº 23, DE 25 DE FEVEREIRO DE 2019"
+orgao: "Ministério da Defesa/Comando do Exército/Secretaria de Economia e Finanças"
+tipo: "Portaria"
+numero: "23"
+data: 2019-02-25
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 28/02/2019, seção 1, p. 19"
+data_publicacao: 2019-02-28
+edicao: "42"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-23-de-25-de-fevereiro-de-2019-65393268"
+sha256_html_fonte: da77b7184497282aa8f072a056e02eff07c6871fd2b6263ab9de3c7035e2ac41
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 23, DE 25 DE FEVEREIRO DE 2019
+
+PORTARIA Nº 23, DE 25 DE FEVEREIRO DE 2019
+
+O SECRETÁRIO DE ECONOMIA E FINANÇAS, no uso da competência que lhe foi delegada pelas letras h) e i), do inciso X, do artigo 1º, da Portaria nº 1.700, de 8 de dezembro de 2017, e Portaria nº 102, de 31 de janeiro de 2019, ambas do Comandante do Exército, combinados com os artigos 4º, 6º, caput do 7º, 10 e 12, da Portaria nº 15, de 19 de março de 2018, do Secretário de Economia e Finanças, resolve:
+
+**Art. 1º** Conceder autonomia administrativa, a contar de 1º de janeiro de 2019, ao 6º Batalhão de Polícia do Exército (6º BPE), CODOM 01232-3 - CODUG 160034, por motivo de sua ativação por transformação da 4ª Companhia de Guarda (4ª Cia Gd), CODOM 03590-7, ambos com sede na cidade de Salvador-BA.
+
+**Art. 2º** Determinar às Organizações Militares Diretamente Subordinadas (OMDS) à SEF que adotem, em suas áreas de competência, as providências decorrentes.
+
+**Art. 3º** Estabelecer que esta portaria entre em vigor na data de sua publicação.
+
+Gen Ex MARCOS ANTONIO AMARO DOS SANTOS

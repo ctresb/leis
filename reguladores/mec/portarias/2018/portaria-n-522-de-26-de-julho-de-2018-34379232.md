@@ -1,0 +1,102 @@
+---
+titulo: "PORTARIA Nº 522, DE 26 DE JULHO DE 2018"
+orgao: "Ministério da Educação/Secretaria de Regulação e Supervisão da Educação Superior"
+tipo: "Portaria"
+numero: "522"
+data: 2018-07-26
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 27/07/2018, seção 1, p. 33"
+data_publicacao: 2018-07-27
+edicao: "144"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-522-de-26-de-julho-de-2018-34379232"
+sha256_html_fonte: 886fac7b2520727636222fa5730a1e38eca613ae1f70687823bb831e42e26821
+baixado_em: 2026-10-27
+---
+# PORTARIA Nº 522, DE 26 DE JULHO DE 2018
+
+PORTARIA Nº 522, DE 26 DE JULHO DE 2018
+
+O SECRETÁRIO DE REGULAÇÃO E SUPERVISÃO DA EDUCAÇÃO SUPERIOR, no uso da atribuição que lhe confere o Decreto n° 9.005, de 14 de março de 2017, e tendo em vista o Decreto n° 9.235, de 15 de dezembro de 2017, e as Portarias Normativas n° 20 e nº 23, de 21 de dezembro de 2017, do Ministério da Educação, e considerando o disposto nos processos e-MEC listados na planilha anexa, resolve:
+
+**Art. 1º** Ficam reconhecidos, para fins de expedição e registro de diplomas, os cursos superiores constantes da tabela do Anexo desta Portaria, ministrados pelas Instituições de Educação Superior citadas, nos termos do disposto no art. 10, do Decreto nº 9.235, de 2017.
+
+**Parágrafo único.** O reconhecimento a que se refere esta Portaria é válido exclusivamente para o curso ofertado nos endereços citados na tabela constante do Anexo desta Portaria.
+
+**Art. 2º** Encerra-se, a pedido das respectivas instituições, a oferta dos cursos reconhecidos por esta Portaria.
+
+**Art. 3º** Esta Portaria entra em vigor na data de sua publicação.
+
+HENRIQUE SARTORI DE ALMEIDA PRADO
+
+ANEXO (Reconhecimento de Cursos)
+
+<table><tr></tr><tr><td><p>Nº de</p><p>Ordem</p></td><td><p>Registro</p><p>e-MEC nº</p></td><td><p>Curso</p></td><td><p>Nº de vagas totais anuais</p></td><td><p>IES</p></td><td><p>Mantenedora</p></td><td><p>Endereço de funcionamento do curso</p></td></tr><tr><td><p>1</p></td><td><p>200713009</p></td><td><p>SISTEMAS PARA INTERNET (Tecnológico)</p></td><td><p>240 (duzentas e quarenta)</p></td><td><p>CENTRO UNIVERSITÁRIO MAURÍCIO DE NASSAU</p></td><td><p>SER EDUCACIONAL S.A.</p></td><td><p>RUA JOÃO FERNANDES VIEIRA, Nº 130, BOA VISTA, RECIFE/PE</p></td></tr><tr><td><p>2</p></td><td><p>200900530</p></td><td><p>GESTÃO DE TECNOLOGIA DA INFORMAÇÃO (Sequencial)</p></td><td><p>100 (cem)</p></td><td><p>CENTRO UNIVERSITÁRIO MOURA LACERDA</p></td><td><p>INSTITUICAO UNIVERSITARIA MOURA LACERDA</p></td><td><p>RUA PADRE EUCLIDES, 995, CAMPOS ELÍSIOS, RIBEIRÃO PRETO/SP</p></td></tr><tr><td><p>3</p></td><td><p>200901898</p></td><td><p>REDES DE COMPUTADORES (Tecnológico)</p></td><td><p>100 (cem)</p></td><td><p>FACULDADE DOCTUM DE JOÃO MONLEVADE</p></td><td><p>INSTITUTO ENSINAR BRASIL</p></td><td><p>RUA 16, 24, VILA TANQUE, JOÃO MONLEVADE/MG</p></td></tr><tr><td><p>4</p></td><td><p>200902790</p></td><td><p>GESTÃO DE SEGURANÇA PRIVADA (Tecnológico)</p></td><td><p>90 (noventa)</p></td><td><p>UNIVERSIDADE ANHANGUERA DE SÃO PAULO</p></td><td><p>ANHANGUERA EDUCACIONAL PARTICIPACOES S/A</p></td><td><p>AVENIDA DR. RUDGE RAMOS, 1501, RUDGE RAMOS, SÃO BERNARDO DO CAMPO/SP</p></td></tr><tr><td><p>5</p></td><td><p>200912623</p></td><td><p>BELEZA, ESTÉTICA E IMAGEM PESSOAL (Tecnológico)</p></td><td><p>160 (cento e sessenta)</p></td><td><p>UNIVERSIDADE ESTÁCIO DE SÁ</p></td><td><p>SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA</p></td><td><p>AV. DOM HÉLDER CÂMARA, 4740-5840, PILARES, RIO DE JANEIRO/RJ</p></td></tr><tr><td><p>6</p></td><td><p>201000323</p></td><td><p>ESTÉTICA CAPILAR (Tecnológico)</p></td><td><p>50 (cinquenta)</p></td><td><p>UNIVERSIDADE LUTERANA DO BRASIL</p></td><td><p>ASSOCIACAO EDUCACIONAL LUTERANA DO BRASIL - AELBRA</p></td><td><p>BR 285, KM 335, S/Nº, OURO PRETO, CARAZINHO/RS</p></td></tr><tr><td><p>7</p></td><td><p>201005794</p></td><td><p>ESTÉTICA E COSMÉTICA (Tecnológico)</p></td><td><p>200 (duzentas)</p></td><td><p>UNIVERSIDADE ESTÁCIO DE SÁ</p></td><td><p>SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA</p></td><td><p>AV. PRESIDENTE VARGAS, 2560, LADO PAR, 1306, CIDADE NOVA, RIO DE JANEIRO/RJ</p></td></tr><tr><td><p>8</p></td><td><p>201011892</p></td><td><p>COMUNICAÇÃO SOCIAL - PUBLICIDADE E PROPAGANDA (Bacharelado)</p></td><td><p>60 (sessenta)</p></td><td><p>CENTRO UNIVERSITÁRIO GERALDO DI BIASE</p></td><td><p>FUNDACAO EDUCACIONAL ROSEMAR PIMENTEL</p></td><td><p>RUA DEPUTADO GERALDO DI BIASE, Nº 81, ATERRADO, VOLTA REDONDA/RJ</p></td></tr><tr><td><p>9</p></td><td><p>201202656</p></td><td><p>FARMÁCIA (Bacharelado)</p></td><td><p>40 (quarenta)</p></td><td><p>UNIVERSIDADE DE VASSOURAS</p></td><td><p>FUNDACAO EDUCACIONAL SEVERINO SOMBRA</p></td><td><p>AVENIDA EXPEDICIONÁRIO OSWALDO DE ALMEIDA RAMOS, 208, BLOCO 7 CENTRO, VASSOURAS/RJ</p></td></tr><tr><td><p>10</p></td><td><p>201305782</p></td><td><p>CIÊNCIA DA COMPUTAÇÃO (Bacharelado)</p></td><td><p>100 (cem)</p></td><td><p>FACULDADE ANHANGUERA PITÁGORAS VOTORANTIM</p></td><td><p>PITAGORAS - SISTEMA DE EDUCACAO SUPERIOR SOCIEDADE LTDA</p></td><td><p>AV. JUSCELINO KUBISTCHEK DE OLIVEIRA, 279, CENTRO, VOTORANTIM/SP</p></td></tr><tr><td><p>11</p></td><td><p>201306547</p></td><td><p>SERVIÇO SOCIAL (Bacharelado)</p></td><td><p>25 (vinte e cinco)</p></td><td><p>FACULDADE DE CIÊNCIAS SOCIAIS E AGRÁRIAS DE ITAPEVA</p></td><td><p>SOCIEDADE CULTURAL E EDUCACIONAL DE ITAPEVA S/S LTDA</p></td><td><p>RODOVIA FRANCISCO ALVES NEGRÃO (SP 258), KM 285, PILÃO D'ÁGUA, ITAPEVA/SP</p></td></tr><tr><td><p>12</p></td><td><p>201306977</p></td><td><p>GESTÃO FINANCEIRA (Tecnológico)</p></td><td><p>270 (duzentas e setenta)</p></td><td><p>CENTRO UNIVERSITÁRIO ANHANGUERA DE SÃO PAULO</p></td><td><p>ANHANGUERA EDUCACIONAL PARTICIPACOES S/A</p></td><td><p>RUA BELA VISTA, 739, SANTO AMARO, SÃO PAULO/SP</p></td></tr><tr><td><p>13</p></td><td><p>201306978</p></td><td><p>LOGÍSTICA (Tecnológico)</p></td><td><p>270 (duzentas e setenta)</p></td><td><p>CENTRO UNIVERSITÁRIO ANHANGUERA DE SÃO PAULO</p></td><td><p>ANHANGUERA EDUCACIONAL PARTICIPACOES S/A</p></td><td><p>RUA BELA VISTA, 739, SANTO AMARO, SÃO PAULO/SP</p></td></tr><tr><td><p>14</p></td><td><p>201306979</p></td><td><p>MARKETING (Tecnológico)</p></td><td><p>270 (duzentas e setenta)</p></td><td><p>CENTRO UNIVERSITÁRIO ANHANGUERA DE SÃO PAULO</p></td><td><p>ANHANGUERA EDUCACIONAL PARTICIPACOES S/A</p></td><td><p>RUA BELA VISTA, 739, SANTO AMARO, SÃO PAULO/SP</p></td></tr><tr><td><p>15</p></td><td><p>201307071</p></td><td><p>MARKETING (Tecnológico)</p></td><td><p>90 (noventa)</p></td><td><p>UNIVERSIDADE ANHANGUERA DE SÃO PAULO</p></td><td><p>ANHANGUERA EDUCACIONAL PARTICIPACOES S/A</p></td><td><p>RUA AFONSO CELSO, 235, VILA MARIANA, SÃO PAULO/SP</p></td></tr><tr><td><p>16</p></td><td><p>201358057</p></td><td><p>ANÁLISE E DESENVOLVIMENTO DE SISTEMAS (Tecnológico)</p></td><td><p>120 (cento e vinte)</p></td><td><p>FACULDADE AVEC DE VILHENA</p></td><td><p>REDE GONZAGA DE ENSINO SUPERIOR - REGES</p></td><td><p>AVENIDA LILIANA GONZAGA, 1265, BELA VISTA, VILHENA/RO</p></td></tr><tr><td><p>17</p></td><td><p>201358218</p></td><td><p>SISTEMA DE INFORMAÇÃO (Tecnológico)</p></td><td><p>100 (cem)</p></td><td><p>INSTITUTO BELO HORIZONTE DE ENSINO SUPERIOR</p></td><td><p>ASSUPERO - ENSINO SUPERIOR S/S LTDA.</p></td><td><p>AVENIDA DO CONTORNO, 9.384, BARRO PRETO, BELO HORIZONTE/MG</p></td></tr><tr><td><p>18</p></td><td><p>201408434</p></td><td><p>ESTÉTICA (Bacharelado)</p></td><td><p>200 (duzentas)</p></td><td><p>UNIVERSIDADE DO VALE DO ITAJAÍ</p></td><td><p>FUNDACAO UNIVERSIDADE DO VALE DO ITAJAI</p></td><td><p>RODOVIA SC 401, 5025, 2º ANDAR, SACO GRANDE, FLORIANÓPOLIS/SC</p></td></tr><tr><td><p>19</p></td><td><p>201408541</p></td><td><p>GASTRONOMIA (Bacharelado)</p></td><td><p>30 (trinta)</p></td><td><p>CENTRO UNIVERSITÁRIO DA FUNDAÇÃO EDUCACIONAL DE BARRETOS</p></td><td><p>FUNDACAO EDUCACIONAL DE BARRETOS</p></td><td><p>AVENIDA PROFESSOR ROBERTO FRADE MONTE, 389, AEROPORTO, BARRETOS/SP</p></td></tr><tr><td><p>20</p></td><td><p>201502443</p></td><td><p>COMUNICAÇÃO SOCIAL - PUBLICIDADE E PROPAGANDA E MÍDIAS DIGITAIS (Bacharelado)</p></td><td><p>80 (oitenta)</p></td><td><p>UNIVERSIDADE CÂNDIDO MENDES</p></td><td><p>ASSOCIACAO SOCIEDADE BRASILEIRA DE INSTRUCAO</p></td><td><p>RUA JOANA ANGÉLICA, 63, IPANEMA, RIO DE JANEIRO/RJ</p></td></tr><tr><td><p>21</p></td><td><p>201505699</p></td><td><p>SEGURANÇA NO TRÂNSITO (Tecnológico)</p></td><td><p>120 (cento e vinte)</p></td><td><p>CENTRO UNIVERSITÁRIO DE CARATINGA</p></td><td><p>FUNDACAO EDUCACIONAL DE CARATINGA FUNEC</p></td><td><p>RUA NITERÓI, S/N, BAIRRO DAS GRAÇAS, CARATINGA/MG</p></td></tr><tr><td><p>22</p></td><td><p>201505922</p></td><td><p>JOGOS DIGITAIS (Tecnológico)</p></td><td><p>120 (cento e vinte)</p></td><td><p>CENTRO UNIVERSITÁRIO DE BRASÍLIA</p></td><td><p>CENTRO DE ENSINO UNIFICADO DE BRASILIA CEUB</p></td><td><p>EQN 707/907, CONJUNTO C, S/N, CAMPUS DO CEUB, ASA NORTE, BRASÍLIA/DF</p></td></tr><tr><td><p>23</p></td><td><p>201506147</p></td><td><p>LETRAS - LÍNGUA PORTUGUESA (Licenciatura)</p></td><td><p>40 (quarenta)</p></td><td><p>UNIVERSIDADE DO OESTE DE SANTA CATARINA</p></td><td><p>FUNDACAO UNIVERSIDADE DO OESTE DE SANTA CATARINA</p></td><td><p>RUA DIRCEU GIORDANI, 696, JARDIM UNIVERSITÁRIO, XANXERÊ/SC</p></td></tr><tr><td><p>24</p></td><td><p>201600267</p></td><td><p>LETRAS - ESPANHOL (Licenciatura)</p></td><td><p>80 (oitenta)</p></td><td><p>UNIVERSIDADE DO PLANALTO CATARINENSE</p></td><td><p>FUNDACAO DAS ESCOLAS UNIDAS DO PLANALTO CATARINENSE</p></td><td><p>RUA SERVIDÃO DIOMAR, S/N, ANEXO AO NÚCLEO DE APRENDIZAGEM MARIA MARIANO, CENTRO, BOM RETIRO/SC</p></td></tr><tr><td><p>25</p></td><td><p>201600269</p></td><td><p>QUÍMICA (Licenciatura)</p></td><td><p>100 (cem)</p></td><td><p>UNIVERSIDADE DO PLANALTO CATARINENSE</p></td><td><p>FUNDACAO DAS ESCOLAS UNIDAS DO PLANALTO CATARINENSE</p></td><td><p>AVENIDA CASTELO BRANCO, 170, UNIVERSITÁRIO, LAGES/SC</p></td></tr><tr><td><p>26</p></td><td><p>200913572</p></td><td><p>ANÁLISE E DESENVOLVIMENTO DE SISTEMAS (Tecnológico)</p></td><td><p>300 (trezentas)</p></td><td><p>CENTRO UNIVERSITÁRIO ANHANGUERA DE SANTO ANDRÉ</p></td><td><p>ANHANGUERA EDUCACIONAL PARTICIPAÇÕES S/A</p></td><td><p>AVENIDA INDUSTRIAL, Nº 3.300, CAMPESTRE, SANTO ANDRÉ/SP</p></td></tr><tr><td><p>27</p></td><td><p>201414431</p></td><td><p>GASTRONOMIA (Tecnológico)</p></td><td><p>40 (quarenta)</p></td><td><p>INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO MARANHÃO - IFMA</p></td><td><p>INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO MARANHÃO</p></td><td><p>RODOVIA MA - 225, KM 04, POVOADO SANTA CRUZ, BARREIRINHAS/MA</p></td></tr><tr><td><p>28</p></td><td><p>201408391</p></td><td><p>PEDAGOGIA (Licenciatura)</p></td><td><p>50 (cinquenta)</p></td><td><p>UNIVERSIDADE FEDERAL DO MARANHÃO</p></td><td><p>FUNDAÇÃO UNIVERSIDADE FEDERAL DO MARANHÃO</p></td><td><p>AVENIDA PROFETA ISAÍAS, CENTRO, ALTO ALEGRE DO PINDARÉ/MA</p></td></tr><tr><td><p>29</p></td><td><p>200900384</p></td><td><p>HISTÓRIA (Bacharelado)</p></td><td><p>60 (sessenta)</p></td><td><p>UNIVERSIDADE FEDERAL DE RORAIMA</p></td><td><p>UNIVERSIDADE FEDERAL DE RORAIMA</p></td><td><p>AVENIDA CAPITÃO ENE GARCEZ, 2413, AEROPORTO, BOA VISTA/RR</p></td></tr><tr><td><p>30</p></td><td><p>201604000</p></td><td><p>GESTÃO FINANCEIRA (Tecnológico)</p></td><td><p>200 (duzentas)</p></td><td><p>FACULDADE DE SANTO ANDRÉ</p></td><td><p>UNIESP S.A</p></td><td><p>RUA DELFIM MOREIRA, Nº 40, CENTRO, SANTO ANDRÉ/SP</p></td></tr><tr><td><p>31</p></td><td><p>201209135</p></td><td><p>JORNALISMO (Bacharelado)</p></td><td><p>60 (sessenta)</p></td><td><p>UNIVERSIDADE FEDERAL DO CEARÁ</p></td><td><p>UNIVERSIDADE FEDERAL DO CEARÁ</p></td><td><p>AVENIDA DA UNIVERISDADE, Nº 3.890, BENFICA, FORTALEZA/CE</p></td></tr><tr><td><p>32</p></td><td><p>201606705</p></td><td><p>COMÉRCIO EXTERIOR (Tecnológico)</p></td><td><p>150 (cento e cinquenta)</p></td><td><p>FACULDADE DE SUMARÉ</p></td><td><p>UNIESP S.A</p></td><td><p>RUA JOSÉ MARIA MIRANDA, Nº 480, CENTRO, SUMARÉ/SP</p></td></tr></table>
+
+PORTARIA Nº 523, DE 26 DE JULHO DE 2018
+
+O SECRETÁRIO DE REGULAÇÃO E SUPERVISÃO DA EDUCAÇÃO SUPERIOR, no uso da atribuição que lhe confere o Decreto n° 9.005, de 14 de março de 2017, e tendo em vista o Decreto n° 9.235, de 15 de dezembro de 2017, e as Portarias Normativas n° 20 e nº 23, de 21 de dezembro de 2017, do Ministério da Educação, e considerando o disposto no processo SEI nº 23000.020233/2018-61, resolve:
+
+**Art. 1º** Ficam reconhecidos, para fins de expedição e registro de diplomas dos alunos concluintes até o final do ano de 2018, os cursos superiores constantes da tabela do Anexo desta Portaria, ministrados pelas Instituições de Educação Superior citadas, nos termos do disposto no art. 10, do Decreto nº 9.235, de 2017.
+
+**Parágrafo único.** O reconhecimento a que se refere esta Portaria é válido exclusivamente para o curso ofertado nos endereços citados na tabela constante do Anexo desta Portaria.
+
+**Art. 2º** Encerra-se, a pedido das respectivas instituições, a oferta dos cursos reconhecidos por esta Portaria.
+
+**Art. 3º** Esta Portaria entra em vigor na data de sua publicação.
+
+HENRIQUE SARTORI DE ALMEIDA PRADO
+
+ANEXO (Reconhecimento de Cursos)
+
+<table><tr></tr><tr><td><p>Nº de</p><p>Ordem</p></td><td><p>Registro</p><p>e-MEC nº</p></td><td><p>Curso</p></td><td><p>Nº de vagas totais anuais</p></td><td><p>IES</p></td><td><p>Mantenedora</p></td><td><p>Endereço de funcionamento do curso</p></td></tr><tr><td><p>1</p></td><td><p>23000.020233/2018-61</p></td><td><p>LETRAS - PORTUGUÊS E ESPANHOL (Licenciatura) - Cód. 104284</p></td><td><p>50 (cinquenta)</p></td><td><p>FUNDACAO UNIVERSIDADE FEDERAL DO PAMPA - UNIPAMPA</p></td><td><p>FUNDAÇÃO UNIVERSIDADE FEDERAL DO PAMPA - UNIPAMPA</p></td><td><p>AVENIDA MARIA ANUNCIAÇÃO GOMES DE GODOY, 1650, INDUSTRIAL I, MALAFAIA, BAGÉ/RS</p></td></tr><tr><td><p>2</p></td><td><p>23000.020233/2018-61</p></td><td><p>LETRAS - PORTUGUÊS E INGLÊS (Licenciatura) - cód.104288</p></td><td><p>50 (cinquenta)</p></td><td><p>FUNDACAO UNIVERSIDADE FEDERAL DO PAMPA - UNIPAMPA</p></td><td><p>FUNDAÇÃO UNIVERSIDADE FEDERAL DO PAMPA - UNIPAMPA</p></td><td><p>AVENIDA MARIA ANUNCIAÇÃO GOMES DE GODOY, 1650, INDUSTRIAL I, MALAFAIA, BAGÉ/RS</p></td></tr></table>
+
+PORTARIA Nº 524, DE 26 DE JULHO DE 2018
+
+O SECRETÁRIO DE REGULAÇÃO E SUPERVISÃO DA EDUCAÇÃO SUPERIOR, no uso da atribuição que lhe confere o Decreto n° 9.005, de 14 de março de 2017, e tendo em vista o Decreto n° 9.235, de 15 de dezembro de 2017, e as Portarias Normativas n° 20 e 23, de 21 de dezembro de 2017, do Ministério da Educação, e considerando o disposto nos processos e-MEC listados na planilha anexa, resolve:
+
+**Art. 1º** Ficam reconhecidos os cursos superiores constantes da tabela do Anexo desta Portaria, ministrados pelas Instituições de Educação Superior citadas, nos termos do disposto no art. 10, do Decreto nº 9.235, de 2017.
+
+**Parágrafo único.** O reconhecimento a que se refere esta Portaria é válido exclusivamente para o curso ofertado nos endereços citados na tabela constante do Anexo desta Portaria.
+
+**Art. 2º** O reconhecimento a que se refere esta Portaria é válido até o ciclo avaliativo seguinte.
+
+**Art. 3º** Os cursos reconhecidos por esta Portaria deverão passar por avaliação in loco quando da próxima renovação de reconhecimento.
+
+**Art. 4º** Esta Portaria entra em vigor na data de sua publicação.
+
+HENRIQUE SARTORI DE ALMEIDA PRADO
+
+ANEXO (Reconhecimento de Cursos)
+
+<table><tr></tr><tr><td><p>Nº de</p><p>Ordem</p></td><td><p>Registro</p><p>e-MEC nº</p></td><td><p>Curso</p></td><td><p>Nº de vagas totais anuais</p></td><td><p>Mantida</p></td><td><p>Mantenedora</p></td><td><p>Endereço de funcionamento do curso</p></td></tr><tr><td><p>1</p></td><td><p>201001926</p></td><td><p>LETRAS - PORTUGUÊS E LITERATURAS DE LÍNGUA PORTUGUESA (Licenciatura) - cód.123405</p></td><td><p>50 (cinquenta)</p></td><td><p>FUNDACAO UNIVERSIDADE FEDERAL DO PAMPA - UNIPAMPA</p></td><td><p>FUNDAÇÃO UNIVERSIDADE FEDERAL DO PAMPA - UNIPAMPA</p></td><td><p>AVENIDA MARIA ANUNCIAÇÃO GOMES DE GODOY, 1650, INDUSTRIAL I, MALAFAIA, BAGÉ/RS</p></td></tr><tr><td><p>2</p></td><td><p>201206461</p></td><td><p>NUTRIÇÃO (Bacharelado)</p></td><td><p>50 (cinquenta)</p></td><td><p>FACULDADE DE SÃO LOURENÇO - FASAMA</p></td><td><p>UNISEPE UNIAO DAS INSTITUICOES DE SERVICO, ENSINO E PESQUISA LTDA</p></td><td><p>RUA MADAME SCHIMIDT, Nº 90, FEDERAL, SÃO LOURENÇO/MG</p></td></tr></table>
+
+PORTARIA Nº 525, DE 26 DE JULHO DE 2018
+
+O SECRETÁRIO DE REGULAÇÃO E SUPERVISÃO DA EDUCAÇÃO SUPERIOR, no uso da atribuição que lhe confere o Decreto n° 9.005, de 14 de março de 2017, e tendo em vista o Decreto n° 9.235, de 15 de dezembro de 2017, e as Portarias Normativas n° 20 e 23, de 21 de dezembro de 2017, do Ministério da Educação, e considerando o disposto nos processos e-MEC listados na planilha anexa, resolve:
+
+**Art. 1º** Ficam reconhecidos os cursos superiores constantes da tabela do Anexo desta Portaria, ministrados pelas Instituições de Educação Superior citadas, nos termos do disposto no art. 10, do Decreto nº 9.235, de 2017.
+
+**Parágrafo único.** O reconhecimento a que se refere esta Portaria é válido exclusivamente para o curso ofertado no endereço citado na tabela constante do Anexo desta Portaria.
+
+**Art. 2º** O reconhecimento a que se refere esta Portaria é válido até o ciclo avaliativo seguinte.
+
+**Art. 3º** Esta Portaria entra em vigor na data de sua publicação.
+
+HENRIQUE SARTORI DE ALMEIDA PRADO
+
+ANEXO (Reconhecimento de Cursos)
+
+<table><tr></tr><tr><td><p>Nº de</p><p>Ordem</p></td><td><p>Registro</p><p>e-MEC nº</p></td><td><p>Curso</p></td><td><p>Nº de vagas totais anuais</p></td><td><p>Mantida</p></td><td><p>Mantenedora</p></td><td><p>Endereço de funcionamento do curso</p></td></tr><tr><td><p>1</p></td><td><p>201357263</p></td><td><p>LETRAS - ESPANHOL (Licenciatura)</p></td><td><p>26 (vinte e seis)</p></td><td><p>UNIVERSIDADE FEDERAL DO PARÁ</p></td><td><p>UNIVERSIDADE FEDERAL DO PARÁ</p></td><td><p>RUA MANOEL DE ABREU, S/Nº, MULTIRÃO, ABAETETUBA/PA</p></td></tr><tr><td><p>2</p></td><td><p>201306442</p></td><td><p>DIREÇÃO DE ARTE (Bacharelado)</p></td><td><p>30 (trinta)</p></td><td><p>UNIVERSIDADE FEDERAL DE GOIÁS</p></td><td><p>UNIVERSIDADE FEDERAL DE GOIÁS</p></td><td><p>RODOVIA GOIÂNIA NERÓPOLIS, KM 12, CAMPUS SAMAMBAIA, GOIÂNIA/GO</p></td></tr><tr><td><p>3</p></td><td><p>201206910</p></td><td><p>FISIOTERAPIA (Bacharelado)</p></td><td><p>200 (duzentas)</p></td><td><p>FACULDADE SANTO ANTÔNIO</p></td><td><p>SEEA-SOCIEDADE DE ESTUDOS EMPRESARIAIS DE ALAGOINHAS LTDA</p></td><td><p>RUA CONSELHEIRO JUNQUEIRA, S/N, RUA DO CATU, ALAGOINHAS/BA</p></td></tr><tr><td><p>4</p></td><td><p>201405998</p></td><td><p>ENGENHARIA CIVIL (Bacharelado)</p></td><td><p>80 (oitenta)</p></td><td><p>UNIVERSIDADE FEDERAL DE ALAGOAS - UFAL</p></td><td><p>UNIVERSIDADE FEDERAL DE ALAGOAS</p></td><td><p>CAMPUS DO SERTÃO - RODOVIA AL 145, KM 3, S/N, DELMIRO GOUVEIA/AL</p></td></tr><tr><td><p>5</p></td><td><p>201405039</p></td><td><p>ENGENHARIA CIVIL (Bacharelado)</p></td><td><p>100 (cem)</p></td><td><p>FACULDADE ESAMC SOROCABA - ESAMC</p></td><td><p>ESCOLA SUPERIOR DE GESTAO DE NEGOCIOS LTDA</p></td><td><p>RUA ARTHUR GOMES, Nº 51, CENTRO, SOROCABA/SP</p></td></tr></table>
+
+PORTARIA Nº 526, DE 26 DE JULHO DE 2018
+
+O SECRETÁRIO DE REGULAÇÃO E SUPERVISÃO DA EDUCAÇÃO SUPERIOR, no uso da atribuição que lhe confere o Decreto n° 9.005, de 14 de março de 2017, e tendo em vista o Decreto n° 9.235, de 15 de dezembro de 2017, e as Portarias Normativas n° 20 e nº 23, de 21 de dezembro de 2017, do Ministério da Educação, e considerando o disposto no processo e-MEC 201708744, resolve:
+
+**Art. 1º** Fica reconhecido, em caráter experimental, com base no artigo 81 da Lei n° 9.394/1996, no art. 44 do Decreto 9.235/2017 e no art. 27 da Portaria Normativa nº 23/2017, o Curso Superior de Tecnologia em Gestão de Micro e Pequenas Empresas, com 80 (oitenta) vagas totais anuais, ofertado pela Universidade do Vale do Taquari, na Rua Avelino Tallini, 171, Universitário, Lajeado/RS, mantida pela Fundação Vale do Taquari de Educação e Desenvolvimento Social - FUVATES.
+
+**Parágrafo único.** O reconhecimento a que se refere esta Portaria é válido exclusivamente para o curso ofertado no endereço citado neste artigo.
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação.
+
+HENRIQUE SARTORI DE ALMEIDA PRADO

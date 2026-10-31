@@ -1,0 +1,32 @@
+---
+titulo: "PORTARIA Nº 998, DE 24 DE NOVEMBRO DE 2020"
+orgao: "Ministério da Educação/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "998"
+data: 2020-11-24
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 25/11/2020, seção 1, p. 113"
+data_publicacao: 2020-11-25
+edicao: "225"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-998-de-24-de-novembro-de-2020-290038956"
+sha256_html_fonte: 84a1064a1405db47208e8c83cc772ced90bbf010a37e63fc5c02c61e71fae04b
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 998, DE 24 DE NOVEMBRO DE 2020
+
+PORTARIA Nº 998, DE 24 DE NOVEMBRO DE 2020
+
+O MINISTRO DE ESTADO DA EDUCAÇÃO, no uso de suas atribuições, tendo em vista o art. 2º da Lei nº 9.131, de 24 de novembro de 1995; o art. 4º da Lei nº 10.870, de 19 de maio de 2004; o Decreto nº 9.235, de 15 de dezembro de 2017; o Decreto n° 9.057, de 25 de maio de 2017; as Portarias Normativas nº 20 e 23, republicadas em 03 de setembro de 2018 e a Portaria Normativa n° 11, de 20 de junho de 2017, resolve:
+
+**Art. 1º** Homologar o Parecer nº 453/2020, da Câmara de Educação Superior do Conselho Nacional de Educação, referente ao processo e-MEC nº 201805752.
+
+**Art. 2º** Credenciar a Faculdade Barão de Jequiriça (FBJ Digital) para a oferta de cursos superiores na modalidade a distância, com sede à Rua José Ricardo Queiroz Alves, s/n, bairro Novo Horizonte, no município de Valença, no estado da Bahia, mantida pela Arque Consultoria Educacional Ltda. - ME, com sede no município de Valença, no estado da Bahia (CNPJ 08.688.000/0001-38).
+
+**Art. 3º** As atividades presenciais serão desenvolvidas na sede da instituição e em polos EaD constantes do Cadastro e-MEC, em conformidade com o art. 16, do Decreto nº 9.057, de 25 de maio de 2017 e art. 12, da Portaria Normativa MEC nº 11, de 21 de junho de 2017.
+
+**Art. 4º** O credenciamento de que trata o art. 2º é válido pelo prazo de 4 (quatro) anos, conforme previsto na Portaria Normativa nº 1, de 3 de janeiro de 2017.
+
+**Art. 5º** Esta Portaria entra em vigor na data de sua publicação.
+
+MILTON RIBEIRO

@@ -1,0 +1,1694 @@
+---
+titulo: "INSTRUÇÃO NORMATIVA Nº 4, DE 30 DE NOVEMBRO DE 2017"
+orgao: "Ministério da Cultura/Gabinete do Ministro"
+tipo: "Instrução Normativa"
+numero: "4"
+data: 2017-11-30
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 01/12/2017, seção 1, p. 6-7-48"
+data_publicacao: 2017-12-01
+edicao: "230"
+fonte: "https://www.in.gov.br/web/dou/-/instrucao-normativa-n-4-de-30-de-novembro-de-2017-650734"
+sha256_html_fonte: 0be82a7e42443f8e42b52bf080a8c00358718113753bf01cb402c14f0eebf309
+baixado_em: 2026-10-28
+---
+# INSTRUÇÃO NORMATIVA Nº 4, DE 30 DE NOVEMBRO DE 2017
+
+O MINISTRO DE ESTADO DA CULTURA, no uso da atribuição prevista no inciso II do parágrafo único do art. 87 da Constituição, com base nas disposições da Lei nº 8.313, de 23 de dezembro de 1991, e do art. 6º do Decreto nº 5.761, de 27 de abril de 2006, resolve:
+
+#### CAPÍTULO I — DOS PRINCÍPIOS, DOS OBJETIVOS, DA ABRANGÊNCIA E DA COMPETÊNCIA
+
+**Art. 1º** Esta Instrução Normativa regula os procedimentos de apresentação, recebimento, análise, aprovação, execução, acompanhamento, prestação de contas e avaliação de resultados dos projetos culturais apresentados com vistas à autorização para captação de recursos por meio do mecanismo de incentivo a projetos culturais do Programa Nacional de Apoio à Cultura - Pronac - previsto na Lei nº 8.313, de 23 de dezembro de 1991.
+
+**§ 1º** Reger-se-á pelos princípios da legalidade, impessoalidade, moralidade, publicidade, eficiência e transparência, estando os proponentes dos projetos sujeitos à Constituição Federal e às demais leis brasileiras.
+
+**§ 2º** Tem por objetivo ampliar o acesso da população aos bens e serviços culturais, apoiar a produção e a expressão cultural, fortalecendo a economia criativa, contribuindo para o desenvolvimento do país.
+
+**§ 3º** Os projetos enquadrados nos objetivos desta lei não poderão ser objeto de apreciação subjetiva quanto ao seu valor artístico ou cultural, conforme disposto no art. 22 da Lei nº 8.313, de 1991.
+
+**§ 4º** Sempre que indicado pela normatização pertinente, os proponentes deverão utilizar os mecanismos da classificação indicativa etária.
+
+**§ 5º** O incentivo e o fomento abrangerão as seguintes áreas culturais: Artes Cênicas, Audiovisual, Música, Artes Visuais, Patrimônio Cultural Material e Imaterial, Museus e Memória e Humanidades, conforme detalhamento do Anexo IV.
+
+**§ 6º** Os recursos captados e depositados na Conta Vinculada do projeto tornam-se renúncia fiscal e adquirem natureza pública, não se sujeitando a sigilo fiscal.
+
+**§ 7º** Os recursos captados não serão computados na base de cálculo do Imposto sobre a Renda - IR, da Contribuição Social sobre o Lucro Líquido - CSLL, da Contribuição para o Programa de Integração Social - PIS, da Contribuição para o Financiamento da Seguridade Social - COFINS e do Imposto sobre Serviços de Qualquer Natureza - ISSQN, desde que tenham sido exclusivamente utilizados na execução de projetos culturais, o que não constituirá despesa ou custo para fins de apuração do IR e da CSLL e não constituirá direito a crédito de PIS e COFINS.
+
+**§ 8º** Os conceitos e definições utilizados nesta Instrução Normativa são aqueles contidos em seus anexos.
+
+**§ 9º** Compete à Secretaria de Fomento e Incentivo à Cultura ? Sefic e à Secretaria do Audiovisual - SAv planejar, coordenar e supervisionar a operacionalização do mecanismo de incentivo a projetos culturais do Pronac realizando, dentre outras atividades:
+
+I - o recebimento de propostas;
+
+II - a tramitação de propostas e projetos;
+
+III - o encaminhamento para parecer técnico e monitoramento das análises;
+
+IV - o acompanhamento da execução dos projetos culturais; e
+
+V - a análise de prestações de contas e avaliação de resultados dos projetos.
+
+**§ 10º** Compete aos titulares da Sefic e da SAv distribuir internamente as competências decorrentes deste Capítulo não previstas em regimento interno, nesta Instrução Normativa ou em portaria do Ministro de Estado da Cultura.
+
+**§ 11º** Quando da necessidade de análise subsidiária de propostas e projetos por outros órgãos do sistema MinC, compete aos titulares da Sefic e da SAv a decisão quanto a sua continuidade.
+
+#### CAPÍTULO II — DAS PROPOSTAS CULTURAIS
+
+##### Seção I — Da Apresentação
+
+**Art. 2º** As ações culturais e suas documentações correspondentes serão apresentadas e incentivadas, por pessoas físicas ou jurídicas, por intermédio do Sistema de Apoio às Leis de Incentivo à Cultura - Salic, acessível no sítio eletrônico do MinC.
+
+**§ 1º** No ato de inscrição, o proponente deverá comprovar a sua experiência em atividades culturais, salvo na primeira proposta, bem como a natureza cultural, no caso de pessoa jurídica, por meio da existência, nos registros do CNPJ da instituição, de código de Classificação Nacional de Atividades Econômicas ? CNAE, referente à área cultural.
+
+**§ 2º** O período para apresentação de propostas culturais é de 1º de fevereiro até 30 de novembro de cada ano.
+
+**§ 3º** As propostas culturais deverão ser apresentadas, no mínimo, com 90 (noventa) dias de antecedência da data prevista para o início de sua pré-produção.
+
+##### Seção II — Dos Planos Anuais e Plurianuais de Atividades
+
+**Art. 3º** As instituições culturais sem fins lucrativos poderão apresentar propostas culturais visando ao custeio de atividades permanentes, na forma de plano anual ou plurianual de atividades.
+
+**§ 1º** Aos planos anuais e plurianuais de atividades são aplicáveis as previsões do Anexo III, no que se refere às pessoas jurídicas sem fins lucrativos.
+
+**§ 2º** As propostas deverão ser apresentadas até o dia 30 de setembro do ano anterior ao do início do cronograma do plano anual ou plurianual de atividades, assim como seu Custo Total (Anexo I) adequado para a execução no prazo de 12 (doze), 24 (vinte e quatro), 36 (trinta e seis) ou 48 (quarenta e oito) meses, coincidentes com anos fiscais subsequentes.
+
+**§ 3º** No caso de aprovação de planos anuais ou plurianuais de atividades, novas propostas para o(s) mesmo(s) ano(s) fiscal(is) serão admitidas somente em caráter de excepcionalidade, devidamente justificadas pelo proponente e desde que o orçamento não se sobreponha a itens orçamentários já incluídos e aprovados.
+
+#### CAPÍTULO III — DAS CONDIÇÕES E LIMITES
+
+##### Seção I — Do Princípio da Não Concentração
+
+**Art. 4º** Para o cumprimento do princípio da não concentração, disposto no § 8º do art. 19 da Lei nº 8.313, de 1991, serão adotados:
+
+I ? limites de quantidades e valores de projetos por proponente:
+
+a) para Empreendedor Individual - EI, com enquadramento Microempreendedor Individual ? MEI, e para pessoa física até 4 (quatro) projetos, totalizando R$ 1.500.000,00 (um milhão e quinhentos mil reais);
+
+b) para os demais enquadramentos de Empreendedor Individual ? EI, até 8 (oito) projetos, totalizando R$ 7.500.000,00 (sete milhões e quinhentos mil reais); e
+
+c) para Empresa Individual de Responsabilidade Limitada - EIRELI, Sociedades Limitadas - Ltda., Organizações da Sociedades Civil de Interesse Público - OSCIP e demais pessoas jurídicas, até 16 (dezesseis) projetos, totalizando R$ 60.000.000,00 (sessenta milhões de reais).
+
+II - o custo per capta, ou seja o Valor por Pessoa Beneficiada (Anexo I) do produto, dos bens e/ou serviços culturais será de até R$ 375,00 (trezentos e setenta e cinco reais), podendo ser computados os quantitativos totais previstos para os produtos secundários, excetuando-se sítio da internet e TV aberta;
+
+**§ 1º** Considera-se um mesmo proponente a pessoa física que também se constitua como tipos empresariais EI e EIRELI ou sócio das demais pessoas jurídicas ou as pessoas jurídicas que possuam sócios em comum ou que participem do mesmo grupo empresarial.
+
+**§ 2º** Os limites do inciso I do caput não serão aplicados a projetos de:
+
+I - planos anuais e plurianuais de atividades;
+
+II ? conservação e restauração de imóveis, monumentos, logradouros, sítios, espaços e demais objetos, inclusive naturais, tombados por qualquer das esferas de poder, desde que apresentada documentação comprobatória, conforme regulamento;
+
+III - preservação de acervos e exposições organizadas com acervos museológicos de reconhecido valor cultural pela área técnica do MinC.
+
+IV - construção e implantação de equipamentos culturais de reconhecido valor cultural pela respectiva área técnica do MinC.
+
+**§ 3º** Alcançados os limites previstos no inciso I do caput, novos projetos a serem integralmente realizados em equipamentos ou espaços públicos poderão ser acrescidos aos limites, respectivamente em 2 (dois) projetos na alínea "a", 3 (três) na alínea "b" e 4 (quatro) na alínea "c", mantidos os limites orçamentários previstos no inciso I.
+
+**§ 4º** O limite definido no inciso II do caput não se aplica às propostas que visem à proteção do patrimônio material ou imaterial e de acervos, planos anuais ou plurianuais de atividades, obras e restauração, capacitação, cursos, oficinas, fóruns ou seminários de formação, óperas, prêmios, pesquisas, projetos museológicos, educativos, de manutenção de corpos estáveis, projetos de inclusão da pessoa com deficiência, desfiles festivos, produção de obras audiovisuais, construção de salas de cinema e teatro em municípios com menos de 100.000 (cem mil) habitantes, bem como projetos realizados em espaços com até 150 (cento e cinquenta) lugares.
+
+**Art. 5º** Será permitido acréscimo dos limites previstos no inciso I do art. 4º para novos projetos a serem integralmente executados, de até 25% (vinte e cinco por cento) para a Região Sul e para os estados de Espírito Santo e Minas Gerais e de até 50% (cinquenta por cento) para as Regiões Norte, Nordeste ou Centro-Oeste.
+
+##### Seção II — Do Regramento dos Projetos Culturais
+
+**Art. 6º** Os percentuais das etapas de Custos Vinculados (Anexo I) serão calculados sobre o Valor do Projeto (Anexo I), e detalhadamente comprovados quando de suas execuções, equivalendo ao somatório das seguintes etapas:
+
+I - pré-produção;
+
+II - produção;
+
+III - pós-produção;
+
+IV - recolhimentos; e
+
+V - assessoria contábil e jurídica.
+
+**§ 1º** São considerados custos vinculados para fins desse artigo:
+
+a) custos de administração; e
+
+b) custos de divulgação.
+
+**§ 2º** É obrigatória a contratação de contador com o registro no conselho de classe para a execução de todos os projetos, podendo o proponente utilizar o profissional de sua empresa.
+
+**§ 3º** É obrigatória a previsão de serviços advocatícios para todos os projetos, ainda que posteriormente o item não venha a ser executado.
+
+**Art. 7º** O projeto que simultaneamente contenha ações contempladas pelos artigos 18 e 26 da Lei nº 8.313, de 1991, será enquadrado em apenas um dos dispositivos, de acordo com o produto principal do projeto, nos termos do Anexo IV.
+
+**Art. 8º** Os valores admitidos para remuneração para todo aquele que realize a captação de recursos ficam limitados a 10% (dez por cento) do valor do Custo do Projeto (Anexo I) e ao teto de R$ 150.000,00 (cento e cinquenta mil reais).
+
+**§ 1º** Para projetos a serem integralmente executados nas Regiões Norte, Nordeste ou Centro-Oeste, o percentual previsto no caput será ampliado a 15% (quinze por cento) do valor do Custo do Projeto (Anexo I) e 12,5% (doze e meio por cento) para a Região Sul e para os estados de Espírito Santo e Minas Gerais.
+
+**§ 2º** Os valores destinados à remuneração para captação de recursos somente poderão ser pagos proporcionalmente às parcelas já captadas.
+
+**Art. 9º** Os custos de divulgação não poderão ultrapassar 30% (trinta por cento) do Valor do Projeto de até R$ 300.000,00 (trezentos mil reais) e não poderão ultrapassar 20% (vinte por cento) para os demais projetos.
+
+**Art. 10.** Os custos administrativos não poderão ultrapassar o limite de 15% (quinze por cento) do Valor do Projeto (Anexo I), sendo admitidas como despesas de administração para os fins do Decreto nº 5.761, de 2006:
+
+I - material de consumo para escritório;
+
+II - locação de imóvel durante a execução do projeto a fim de abrigar exclusivamente atividades administrativas;
+
+III - serviços de postagem e correios;
+
+IV - transporte e insumos destinados a pessoal administrativo;
+
+V - contas de telefone, água, luz ou de internet, durante a execução do projeto;
+
+VI - pagamentos de pessoal administrativo e demais atividades meio do projeto cultural, bem como os respectivos encargos sociais, trabalhistas e previdenciários, exceto se expressamente considerados como indispensáveis à execução das atividades-fim do projeto; e
+
+VII - outras despesas com bens e serviços não diretamente relacionadas à atividade finalística do projeto, desde que pertinentes ao seu objeto.
+
+**Parágrafo único.** Quando utilizado acima de 50% (cinquenta por cento) do valor dos custos de administração em única rubrica, será necessária justificativa de economicidade.
+
+**Art. 11.** O proponente poderá ser remunerado com recursos decorrentes de renúncia fiscal, desde que preste serviço ao projeto previsto no orçamento analítico e desde que o valor desta remuneração, ainda que por diversos serviços, não ultrapasse 50% (cinquenta por cento) do Custo do Projeto.
+
+**§ 1º** os pagamentos efetuados por serviços realizados por cônjuge, companheiro, parentes em linha reta ou colateral até o segundo grau, parentes com vínculo de afinidade com o proponente e em benefício de empresa coligada ou que tenha sócio em comum serão computados no limite do proponente previsto no caput.
+
+**§ 2º** a limitação disposta no caput não se aplica a grupos artísticos familiares que atuem na execução do projeto e corpos estáveis.
+
+**§ 3º** um mesmo fornecedor poderá ter pagamento acima de 50% (cinquenta por cento) do Custo do Projeto (Anexo I), quando se tratar de projetos de execução de obras e restauros.
+
+**Art. 12.** O limite para pagamento de cachês artísticos com recursos incentivados, por apresentação, será de:
+
+a) R$ 45.000,00 (quarenta e cinco mil reais) para artista ou modelo solo;
+
+b) R$ 90.000,00 (noventa mil reais) para grupos artísticos e para grupos de modelos de desfiles de moda, exceto orquestras; e
+
+c) R$ 2.250,00 (dois mil, duzentos e cinquenta reais) por músico e R$ 45.000,00 (quarenta e cinco mil reais) para o maestro, no caso de orquestras.
+
+**Parágrafo único.** A aprovação de valores superiores aos definidos neste artigo dependerá de ato motivado do plenário da Comissão Nacional de Incentivo à Cultura - CNIC, considerando as justificativas apresentadas pelo proponente e pela área técnica.
+
+**Art. 13.** Os valores relativos aos direitos autorais e conexos no orçamento dos projetos deverão ter compatibilidade com os preços praticados no mercado regional da produção.
+
+**§ 1º** A previsão de custeio, com recursos captados, dos direitos autorais decorrentes de execução pública de música ou fonograma recolhidos a entidades de gestão coletiva destes direitos somente será autorizada quando não houver cobrança de ingressos.
+
+**§ 2º** Para projetos da área do audiovisual, os custos relativos aos direitos de exibição cinematográfica no orçamento dos projetos serão limitados a duas vezes o valor previsto no caput deste artigo.
+
+**Art. 14.** A aquisição de material permanente somente será permitida quando comprovadamente representar a opção de maior economicidade ou constituir item indispensável à execução do objeto da proposta cultural, em detrimento da locação, devendo o proponente, em qualquer caso, realizar cotação prévia de preços no mercado, observados os princípios da impessoalidade e da moralidade, bem como declarar a destinação cultural para o bem, observando o inciso XII do art. 48.
+
+**Art. 15.** Os projetos culturais do audiovisual deverão estar de acordo com os valores parametrizados pela Agência Nacional do Cinema - ANCINE.
+
+##### Seção III — Das Vedações
+
+**Art. 16.** É vedada a apresentação de propostas:
+
+I - que envolvam a difusão da imagem de agente político; ou
+
+II - por pessoa física ou pessoa jurídica de direito privado que, respectivamente, seja ou tenha como dirigentes, administradores, controladores ou membros de seus conselhos:
+
+a) agente político de Poder ou do Ministério Público, bem como dirigente de órgão ou entidade da administração pública de qualquer esfera governamental, ou respectivo cônjuge ou companheiro; e
+
+b) servidor público do Ministério da Cultura ou de suas entidades vinculadas, bem como seu respectivo cônjuge ou companheiro.
+
+**Parágrafo único.** A vedação mencionada na alínea "a" do inciso II deste artigo não se aplica a entidades sem fins lucrativos desde que observado o disposto no inciso II do art. 17, inclusive no que se refere ao cônjuge ou companheiro.
+
+**Art. 17.** É vedada a realização de despesas:
+
+I ? a título de elaboração de proposta cultural, de taxa de administração, de gerência, de gestor ou similar;
+
+II - em benefício de agente público ou agente político, integrante de quadro de pessoal de órgão ou entidade pública da administração direta ou indireta, por quaisquer tipos de serviços, salvo nas hipóteses previstas na Lei de Diretrizes Orçamentárias ou em leis específicas;
+
+III - com a elaboração de convites personalizados ou destinados à circulação restrita, com recepções, festas, coquetéis, serviços de bufê ou similares, excetuados os gastos com refeições dos profissionais ou em ações educativas, quando necessário à consecução dos objetivos da proposta;
+
+IV - referente à compra de passagens em primeira classe ou classe executiva, salvo em situações excepcionais em que a necessidade seja comprovada ou nas hipóteses autorizadas no art. 27 do Decreto nº 71.733, de 18 de janeiro de 1973;
+
+V - com serviços de captação, nos casos de proposta cultural:
+
+a) com patrocínio exclusivo de edital; ou
+
+b) apresentada por instituição cultural criada pelo patrocinador, na forma do art. 27, § 2º, da Lei nº 8.313, de 1991.
+
+VI - com taxas bancárias, multas, juros ou correção monetária, inclusive referentes a pagamentos ou recolhimentos fora dos prazos; e
+
+VII - com a aquisição de espaço para veiculação de programas de rádio e TV, no caso de propostas na área de audiovisual, exceto quando se tratar de inserções publicitárias para promoção e divulgação do produto principal do projeto.
+
+#### CAPÍTULO IV — DA ACESSIBILIDADE, DEMOCRATIZAÇÃO, DO ACESSO E
+
+DAS AÇÕES COMPLEMENTARES
+
+##### Seção I — Da Acessibilidade
+
+**Art. 18.** As propostas culturais apresentadas ao mecanismo de incentivo a projetos culturais do Pronac deverão conter medidas de acessibilidade compatíveis com as características do objeto sempre que tecnicamente possível, conforme a Lei nº 13.146/15.
+
+**§ 1º** Havendo custos com as ações de acessibilidade, estes devem estar previstos no orçamento analítico do projeto.
+
+**§ 2º** Todo material de divulgação dos produtos culturais gerados pelo projeto deve conter informações sobre a disponibilização das medidas de acessibilidade adotadas para o produto.
+
+**Art. 19.** Será permitido ao proponente oferecer medidas alternativas devidamente motivadas, sujeitas à prévia aprovação do MinC, para assegurar o atendimento às medidas de acessibilidade previstas na Lei nº 13.146/2015.
+
+##### Seção II — Da Ampliação do Acesso
+
+**Art. 20.** A proposta cultural deverá conter um Plano de Distribuição detalhado, visando assegurar a ampliação do acesso aos produtos, bens e serviços culturais produzidos.
+
+I - estimativa da quantidade total de ingressos ou produtos culturais previstos, observados os seguintes limites:
+
+a) mínimo de 10% (dez por cento) exclusivamente para distribuição gratuita com caráter social, educativo ou formação artística;
+
+b) até 10 % (dez por cento) para distribuição gratuita por patrocinadores;
+
+c) até 10 % (dez por cento) para distribuição gratuita promocional pelo proponente em ações de divulgação do projeto;
+
+d) mínimo de 20% (vinte por cento) para comercialização em valores que não ultrapassem R$ 75,00 (setenta e cinco reais), estabelecido no art. 8º da Lei nº 12.761, de 27 de dezembro de 2012;
+
+e) a comercialização em valores a critério do proponente será limitada a 50% (cinquenta por cento) do quantitativo de produtos culturais, sendo o preço médio do ingresso ou produto de R$ 225,00 (duzentos e vinte e cinco reais), excetuando-se projetos com transmissão ao vivo em TV aberta; e
+
+f) parametrização do sistema para atender entendimentos consolidados dos órgãos de controle (Anexo I).
+
+**Art. 21.** Em complemento, o proponente deverá prever a adoção de, pelo menos, uma das seguintes medidas de ampliação do acesso:
+
+I - doar, além do previsto no inciso I, do art. 44, do Decreto 5.761, de 2006, no mínimo, 20% (vinte por cento) dos produtos resultantes da execução do projeto a escolas públicas, bibliotecas, museus ou equipamentos culturais de acesso franqueado ao público, devidamente identificados;
+
+II - oferecer transporte gratuito ao público, prevendo acessibilidade à pessoa com deficiência ou com mobilidade reduzida e aos idosos;
+
+III - disponibilizar na Internet registros audiovisuais dos espetáculos, exposições, atividades de ensino e outros eventos de caráter presencial, sem prejuízo do disposto no § 2º do art. 22;
+
+IV - permitir a captação de imagens das atividades e de espetáculos ou autorizar sua veiculação por redes públicas de televisão e outras mídias;
+
+V - realizar, gratuitamente, atividades paralelas aos projetos, tais como ensaios abertos, estágios, cursos, treinamentos, palestras, exposições, mostras e oficinas, além da previsão do art. 22;
+
+VI - oferecer bolsas de estudo ou estágio a estudantes da rede pública ou privada de ensino em atividades educacionais, profissionais ou de gestão cultural e artes desenvolvidas na proposta cultural;
+
+VII ? realizar ação cultural voltada ao público infantil ou infantojuvenil;
+
+VIII - estabelecer parceria visando à capacitação de agentes culturais em iniciativas financiadas pelo poder público; ou
+
+IX - outras medidas sugeridas pelo proponente a serem apreciadas pelo MinC.
+
+##### Seção III — Da Realização das Ações Educativas
+
+**Art. 22.** As propostas culturais de planos anuais e plurianuais deverão apresentar ações educativas em suas atividades ou equivalente, em território brasileiro, com rubricas orçamentárias próprias, apresentadas no Plano de Distribuição do projeto como produto acessório da atividade principal.
+
+**§ 1º** O mínimo de 50% (cinquenta por cento) das ações educativas deverão ser destinadas a estudantes e professores de instituições públicas de ensino.
+
+**§ 2º** O número de beneficiados das ações educativas deve corresponder, no mínimo, a 10% (dez por cento) das pessoas beneficiadas e previstas no Plano de Distribuição, contemplando o mínimo de 20 (vinte) beneficiários, podendo, a critério do proponente, se limitar a 500 (quinhentos) beneficiários.
+
+#### CAPÍTULO V — DA ANÁLISE DAS PROPOSTAS CULTURAIS
+
+**Art. 23.** As propostas culturais apresentadas no Salic passarão por análise de admissibilidade, composta pelas seguintes etapas:
+
+I - exame preliminar de admissibilidade da proposta, sendo arquivada pelo MinC a proposta que:
+
+a) contrarie qualquer regulamentação relativa ao uso do incentivo fiscal;
+
+b) tenha objeto e cronograma similar a proposta ou projeto ativo do mesmo proponente; e
+
+c) as mesmas características que levaram ao indeferimento de proposta ou projeto similares apresentados nos últimos 12 (doze) meses, ainda que por proponente diverso.
+
+II - análise das informações da proposta cultural, abrangendo a verificação:
+
+a) da definição do enquadramento do projeto, segundo o Anexo IV; e
+
+b) quanto à previsão das medidas de acessibilidade, democratização do acesso e das ações complementares de conscientização para a importância da arte e da cultura, considerando as características do projeto cultural.
+
+**§ 1º** Em caso de indeferimento da proposta, caberá pedido de reconsideração no prazo de 10 (dez) dias, improrrogáveis, cabendo ser decidido pela unidade competente.
+
+**§ 2º** O prazo máximo de análise das propostas culturais é de 60 (sessenta) dias, podendo ser ampliado para até 120 (cento e vinte dias), quando se tratar de projetos de restauração do patrimônio histórico ou construção de imóveis, conforme a característica do projeto e a complexidade da obra.
+
+**Art. 24.** Após o exame de admissibilidade, a proposta será enquadrada nos arts. 18 ou 26 da Lei nº 8.313, de 1991, de acordo com o segmento definido no Anexo IV.
+
+**§ 1º** a proposta será disponibilizada, por meio do Salic, para conhecimento e manifestação da CNIC, se for o caso, em até 5 (cinco) dias.
+
+**§ 2º** a ausência de manifestação do comissário no prazo estabelecido no § 1º ensejará aprovação tácita do enquadramento realizado pela área técnica.
+
+**Art. 25.** A captação poderá ser iniciada imediatamente após a fase de admissibilidade, tão logo seja publicada a Portaria de Autorização para Captação de Recursos Incentivados no Diário Oficial da União.
+
+**§ 1º** As despesas executadas no período entre o dia da publicação da Portaria de Autorização Para Captação de Recursos e a homologação da execução do projeto poderão ser ressarcidas, respeitando-se os ajustes ocorridos nas unidades vinculadas e na CNIC.
+
+**§ 2º** Os projetos não homologados que executaram despesas neste período não serão ressarcidos.
+
+**§ 3º** Despesas ocorridas anteriores à publicação da Portaria de Autorização para Captação de Recursos Incentivados não serão ressarcidas.
+
+**Art. 26.** Após a captação mínima de 10% (dez por cento) do valor autorizado, o proponente poderá, no prazo de 30 (trinta) dias, adequar o projeto à realidade de execução, conforme fluxo do Anexo IX.
+
+**§ 1º** Não são passíveis de alteração o objeto e o enquadramento.
+
+**§ 2º** O projeto será encaminhado à unidade técnica de análise, após a decisão do proponente quanto à adequação a realidade de execução ou o decurso de prazo.
+
+**§ 3º** Considera-se para encaminhamento à análise técnica sem necessidade de captação prévia os projetos de proteção do patrimônio material ou imaterial e de acervos, os museológicos, de planos anuais e plurianuais de atividades, de manutenção de corpos estáveis, de equipamentos culturais, os aprovados em editais públicos ou privados com termo de parceria, ou os que possuam contratos de patrocínios ou termo de compromisso de patrocínio, que garantam o alcance do percentual previsto no caput ou projetos apresentados por instituições criadas pelo patrocinador na forma do § 2º do art. 27 da Lei nº 8.313, de 1991.
+
+**§ 4º** O prazo máximo para a conclusão do exame da adequação é de 30 (trinta) dias, podendo ser ampliado para até 60 (sessenta) dias no caso de projetos que envolvam o patrimônio histórico ou construção de imóveis.
+
+**Art. 27.** Superadas as fases dos arts. 23 a 26, o projeto será encaminhado para unidade de análise técnica, a qual deverá apreciá-lo no prazo de 30 (trinta) dias do recebimento.
+
+**§ 1º** O prazo previsto do caput poderá ser prorrogado por mais 120 (cento e vinte) dias quando se tratar de projeto de recuperação de patrimônio histórico ou construção de imóveis, conforme a característica do projeto e a complexidade da obra.
+
+**§ 2º** Nos casos de projetos culturais que tenham como objeto a preservação de bens culturais tombados ou registrados pelos poderes públicos, em âmbito federal, estadual, distrital ou municipal, será obrigatória, também, a apreciação pelo órgão responsável pelo respectivo tombamento ou registro, cabendo ao proponente sua apresentação junto ao MinC.
+
+**Art. 28.** Após emissão do parecer técnico, o projeto cultural será encaminhado à CNIC para apreciação, com vistas a homologação da execução.
+
+**§ 1º** Havendo a decisão de não homologação da execução do projeto, será facultada a transferência dos recursos captados para um único projeto aprovado do mesmo proponente, desde que sejam acolhidas as justificativas do proponente e apresentada(s) a(s) anuência(s) do(s) incentivador(es) pessoa(s) jurídica(s), e dada ciência ao(s) incentivador(es) pessoa(s) física(s), o que implicará no arquivamento definitivo do projeto transferidor.
+
+**§ 2º** Quando se tratar de projetos do Patrimônio Cultural, Museus e Memória, mantida a decisão de indeferimento do projeto, os recursos captados desde a aprovação poderão ser transferidos para outro(s) projeto(s) já aprovado(s) do mesmo proponente ou para outro(s) projetos de proponente(s) diversos, desde que seja(m) apresentada(s) anuência(s) formalizada(s) pelo proponente do projeto transferidor e pelo(s) incentivador(es), e que seja(m) analisado(s) e aprovado(s) pelo IPHAN ou IBRAM.
+
+**§ 3º** Caso o pleito não seja aprovado ou não ocorra o pedido, em um prazo de até 30 (trinta) dias, os recursos serão recolhidos ao Fundo Nacional de Cultura ? FNC, dispensada a anuência do proponente.
+
+#### CAPÍTULO VI — DA EXECUÇÃO DO PROJETO
+
+##### Seção I — Da Liberação e Movimentação dos Recursos
+
+**Art. 29.** Os recursos serão captados em Conta Vinculada e movimentados por meio de cartão magnético ou gerenciador financeiro.
+
+**§ 1º** Em caso de bloqueio judicial ou penhora na Conta Vinculada, independente do motivo, deverá o proponente, no prazo de até 60 (sessenta) dias, promover o desbloqueio ou a restituição dos valores devidamente atualizados à Conta Vinculada, identificando o tipo de depósito e justificando a operação no Salic.
+
+**§ 2º** No caso de não atendimento dentro do prazo estipulado, será o proponente considerado inadimplente, com os efeitos do art. 58 desta Instrução Normativa.
+
+**§ 3º** Antes da emissão do cartão e do início da execução financeira do projeto, será facultado ao proponente requerer a transferência dos recursos captados, nos moldes dos dispostos nos §§ 1º e 2º, do art. 28.
+
+**Art. 30.** Os recursos oriundos de patrocínio ou doação somente serão captados após publicação da Portaria de Autorização para Captação de Recursos Incentivados e serão movimentados quando atingidos 20% (vinte por cento) do custo do projeto homologado, podendo-se computar para o alcance desse índice o Valor de Aplicação Financeira.
+
+**§ 1º** Os recursos serão depositados na Conta Vinculada por meio de depósito identificado, com as informações obrigatórias quanto ao CPF ou CNPJ dos depositantes e quanto ao tipo de depósito - doação ou patrocínio; ou Transferência Eletrônica Disponível ? TED; ou Documento de Operação de Crédito - DOC, identificando os depositantes e os tipos de depósitos.
+
+**§ 2º** No caso de projeto classificado como plano anual ou plurianual de atividades, os recursos captados poderão ser transferidos para carga no cartão, quando atingido 1/12 ou 1/24 do orçamento global, respectivamente, desde que o projeto já tenha sido homologado.
+
+**§ 3º** Projetos já homologados poderão ter a movimentação de recursos autorizada antes de atingidos os limites previstos neste artigo, nas seguintes situações:
+
+I ? medidas urgentes relativas à restauração de bem imóvel visando estancar prejuízos irreparáveis ou de difícil reparação ao bem ou para preservar a segurança das pessoas poderão ser adotadas desde que os recursos captados sejam suficientes para sustar os motivos da urgência e deverão ser robustamente justificadas, documentadas e enviadas para convalidação da Secretaria;
+
+II - projetos contemplados em seleções públicas, respaldados por contrato de patrocínio ou termo de compromisso de patrocínio, que garantam o percentual mínimo estipulado;
+
+III - projetos que obtenham outras fontes de recursos, desde que comprovadas, que garantam o percentual mínimo estipulado e mediante solicitação de alteração das fontes de financiamento por meio do Salic;
+
+IV - valores de outras fontes poderão ser considerados para atingimento do limite de 20% para liberação da movimentação financeira, desde que seja reduzido do valor total autorizado para captação;
+
+V - comprovantes de patrocínios realizados por empresas de produtos fumígenos resultarão em comunicação do fato à Receita Federal do Brasil para cancelamento do benefício fiscal eventualmente usufruído pelo incentivador, ressalvada a possibilidade de doações.
+
+**Art. 31.** A primeira movimentação para o Cartão da Conta Vinculada será efetuada pelo MinC após consulta da regularidade dos proponentes, por meio de trilhas de controle, para pessoas físicas ou jurídicas e seus dirigentes, junto ao Salic, e por meio da Certidão Negativa de Débitos Relativos aos Tributos Federais - CQTF e do Cadastro Informativo de Créditos Não Quitados do Setor Público Federal - CADIN, sendo que as demais movimentações dos recursos captados posteriormente, para projetos na modalidade de Conta Vinculada, dar-se-ão por este Ministério, de forma automática.
+
+**§ 1º** Quando for inviável o pagamento por meio do cartão ou transferência bancária, o proponente terá direito a saques diários de até R$ 1.000,00 (mil reais), para pagamento de despesas limitadas a este valor, devendo as demais despesas serem realizadas por meio de transferência bancária identificada, cartão magnético ou qualquer outro meio eletrônico de pagamento que assegure a identificação do fornecedor do bem ou serviço.
+
+**§ 2º** Os recursos oriundos de captações ou movimentações bancárias não autorizadas, realizadas fora do prazo ou do valor definido na portaria de autorização serão desconsiderados para sua utilização no projeto e, caso não justificado(s) o(s) equívoco(s) para o(s) devido(s) estorno(s), em um prazo máximo de até 30 (trinta) dias, tais recursos serão recolhidos ao Fundo Nacional da Cultura - FNC, dispensada a anuência do proponente, sem prejuízo ao incentivador quanto ao benefício fiscal.
+
+**§ 3º** Depósitos equivocados na Conta Vinculada, quando devidamente identificados e justificados, poderão ter o estorno autorizado pelo MinC, para o devido ajuste, a pedido do proponente.
+
+**§ 4º** Na hipótese do § 3º, o MinC comunicará o fato à Receita Federal do Brasil, para eventual fiscalização tributária na forma do art. 36 da Lei nº 8.313, de 1991, e do art. 12 da Instrução Normativa Conjunta MinC/MF nº 1, de 13 de junho de 1995.
+
+**Art. 32.** A Conta Vinculada do projeto, isenta de tarifas bancárias, conforme o Anexo VI, será vinculada ao CPF ou ao CNPJ do proponente para o qual o projeto tenha sido aprovado.
+
+**§ 1º** A Conta Vinculada somente poderá ser operada após a regularização cadastral, pelos respectivos titulares, na agência bancária onde tenha sido aberta.
+
+**§ 2º** Os recursos depositados na Conta Vinculada, enquanto não empregados em sua finalidade, serão automaticamente aplicados em fundo de aplicação financeira de curto prazo, ou operação de mercado aberto lastreada em título da dívida pública federal.
+
+**§ 3º** Os rendimentos da aplicação financeira só poderão ser utilizados no próprio projeto cultural, dentro dos parâmetros já aprovados pelo MinC, estando sujeitos às condições de prestação de contas dos recursos captados, observado o disposto no art. 37. Caso os recursos provenientes de aplicações financeiras não sejam utilizados no projeto cultural, serão recolhidos ao FNC.
+
+**§ 4º** Ao término da execução do projeto cultural, os saldos remanescentes da Conta Vinculada serão recolhidos ao FNC, nos moldes do art. 5º, V, da Lei nº 8.313, de 1991, dispensada a anuência do proponente.
+
+##### Seção II — Dos Prazos de Captação e Execução
+
+**Art. 33.** O prazo para captar recursos iniciará na data de publicação da Portaria de Autorização para Captação de Recursos Incentivados e é limitado ao término do exercício fiscal em que foi publicada a portaria, obtendo uma prorrogação automática e uma por solicitação do proponente.
+
+**§ 1º** O prazo máximo de captação, com eventuais prorrogações, será de 36 (trinta e seis) meses a partir da data de publicação da Portaria de Autorização para Captação de Recursos Incentivados, exceto nos seguintes casos:
+
+I - ocorrência de caso fortuito ou de força maior, devidamente comprovado; e
+
+II - projetos de recuperação de patrimônio histórico ou construção de imóveis, conforme a característica do projeto e a complexidade da obra, desde que não exceda 6 (seis) exercícios fiscais.
+
+**§ 2º** Não serão concedidas prorrogações de captação aos projetos realizados referentes a planos anuais e plurianuais de atividades, a projetos com calendários específicos, considerando seus cronogramas previamente informados ou historicamente definidos.
+
+**§ 3º** Projetos com recursos captados em conta terão prorrogação automática limitada ao prazo do § 1º.
+
+**Art. 34.** A solicitação de prorrogação do prazo de captação deverá ser sinalizada no cadastramento da proposta e será concedida por este Ministério, de forma automática, considerando o período de execução proposto, sendo que, para projetos que não possuem o registro no Salic de prorrogação automática, as solicitações de prorrogações de prazos de captação e de execução devem ser registradas no Salic com as devidas atualizações no cronograma de execução, com antecedência mínima de 30 (trinta) dias da data prevista para seu encerramento.
+
+**Art. 35.** O prazo de execução do projeto será registrado no Salic, não estando limitado ao exercício fiscal corrente, mas sim ao cronograma de execução apresentado pelo proponente, sendo que o prazo de execução abrangerá a fase de pós-produção do projeto, limitada a 60 (sessenta) dias, exceto no caso de produção audiovisual, que poderá ocorrer em até 120 (cento e vinte) dias.
+
+##### Seção III — Das Alterações
+
+**Art. 36.** O projeto cultural poderá ser alterado na fase de execução, mediante solicitação do proponente, registrada e justificada por meio do Salic, no mínimo, 30 (trinta) dias antes do início da execução da meta ou ação a ser alterada; somente serão objeto de análise após a liberação para movimentação dos recursos, salvo o disposto no art. 41.
+
+**§ 1º** Para alteração do nome do projeto, deverá ser apresentada anuência do autor da obra correspondente, se for o caso.
+
+**§ 2º** No caso de alteração do espaço físico ou novo local do projeto, o proponente não poderá infringir o disposto no art. 5º, devendo apresentar, se for o caso:
+
+I - planilha orçamentária adequada à nova realidade;
+
+II - ajuste do Plano de Distribuição, de ampliação de acesso e acessibilidade; e
+
+III - cronograma de execução atualizado.
+
+**§ 3º** Não havendo manifestação contrária do MinC, no prazo de 30 (trinta) dias, considerar-se-á aprovada a alteração.
+
+**Art. 37.** Serão permitidos ajustes entre os itens de orçamento do projeto cultural, bem como a utilização dos rendimentos de aplicação financeira, nos termos deste artigo.
+
+**§ 1º** Prescindirão da prévia autorização do MinC as alterações de valores de itens orçamentários do projeto, dentro do limite de 50% (cinquenta por cento) do valor do item inicialmente aprovado.
+
+**§ 2º** Os ajustes de valores que impliquem alterações acima do limite de 50% (cinquenta por cento) do valor do item ou que impliquem em inclusão de novos itens orçamentários, ainda que não alterem o Custo Total do projeto (Anexo I), devem ser submetidos previamente ao MinC para análise, por meio do Salic, acompanhados de justificativa e não recaiam sobre itens do orçamento que tenham sido retirados na análise inicial.
+
+**§ 3º** Os ajustes de valores não poderão implicar aumento do valor aprovado para os grupos de despesas que possuem limites percentuais máximos estabelecidos nesta Instrução Normativa.
+
+**§ 4º** Os pedidos de ajuste orçamentário somente poderão ser encaminhados após a captação de 20% (vinte por cento) do valor aprovado do projeto, ressalvados os projetos contemplados em seleções públicas, respaldados por contrato de patrocínio ou termo de compromisso de patrocínio.
+
+**§ 5º** Os valores utilizados em desconformidade com o previsto neste artigo estarão sujeitos à restituição ao FNC.
+
+**§ 6º** Readequações orçamentárias da mesma natureza poderão ser solicitadas uma vez, sendo possível apresentar nova solicitação somente quando comprovada a ocorrência de caso fortuito ou de força maior, a restrição não se aplica a projetos de planos anuais ou plurianuais de atividades e projetos de recuperação de patrimônio histórico ou construção de imóveis, observadas suas características e a complexidade da obra.
+
+**Art. 38.** O proponente poderá solicitar complementação do Custo Total do projeto para captação (Anexo I), desde que comprovada sua necessidade e que tenha captado, pelo menos, 50% (cinquenta por cento) e que não exceda 50% (cinquenta por cento) do valor já aprovado, considerando o valor da aplicação financeira, apresentando: justificativa da complementação e detalhamento dos custos referentes às etapas a serem complementadas.
+
+**§ 1º** Os pedidos de complementação do valor do projeto serão decididos pelo titular da Secretaria competente.
+
+**§ 2º** Quando aprovado o procedimento do caput, será publicada nova Portaria de Autorização de Captação de Recursos Incentivados.
+
+**Art. 39** - O proponente poderá solicitar a redução do valor do projeto, após a captação de 20% (vinte por cento) do Custo Total do projeto (Anexo I), ressalvados os projetos contemplados em seleções públicas, respaldados por contrato de patrocínio ou termo de compromisso de patrocínio, desde que não comprometa a execução do objeto nem represente redução superior a 40% (quarenta por cento) do Custo Total do projeto (Anexo I), apresentando justificativa da necessidade de redução do valor do projeto, detalhamento dos itens a serem retirados ou reduzidos, com seus respectivos valores e redimensionamento do escopo do projeto.
+
+**Art. 40.** Conforme sua complexidade, os pedidos de ajustes dos valores autorizados para captação poderão, por decisão da área técnica competente, ser submetidos a parecer técnico da unidade de análise e encaminhados à CNIC, antes da decisão final da autoridade máxima da Secretaria competente.
+
+**Parágrafo único.** A análise dos pedidos indicados no caput, incluídas aquelas submetidas também à CNIC, não poderá exceder o prazo de 60 (sessenta) dias.
+
+**Art. 41.** A alteração de proponente somente será permitida desde que devidamente justificada, mediante requerimento do proponente atual, que contenha a anuência formal do substituto, quando for o caso, observados os anexos II e III, e desde que:
+
+I - não caracterize a intermediação de que trata o art. 28 da Lei nº 8.313, de 1991; e
+
+II - seja o pedido submetido à análise técnica quanto ao preenchimento dos demais requisitos previstos na Lei nº 8.313, de 1991, no Decreto nº 5.761, de 2006, e nesta Instrução Normativa.
+
+**Art. 42.** A transferência de recursos remanescentes não utilizados para outro projeto aprovado pelo Ministério da Cultura se aplica para planos anuais e plurianuais de atividades ou projeto de ação continuada do mesmo proponente, desde que o projeto anterior seja encerrado, declarado o valor transferido em campo específico do novo projeto, que será computado como valor captado no projeto receptor.
+
+**§ 1º** No caso de aprovação do pleito, o saldo transferido deverá somar-se aos recursos já captados para fins de atingimento dos limites de movimentação financeira do projeto vigente.
+
+**§ 2º** Caso o pleito não seja aprovado ou não ocorra o pedido em um prazo de até 30 (trinta) dias, os recursos serão recolhidos ao Fundo Nacional de Cultura ? FNC, dispensada a anuência do proponente.
+
+#### CAPÍTULO VII — DO ACOMPANHAMENTO, DA FISCALIZAÇÃO E DA AVALIAÇÃO DE RESULTADOS
+
+##### Seção I — Do Acompanhamento da Execução dos Projetos Culturais
+
+**Art. 43.** Os projetos culturais terão sua execução acompanhada de forma a assegurar a consecução do seu objeto, permitida a delegação, conforme previsto no art. 8º do Decreto nº 5.761, de 2006.
+
+**§ 1º** O acompanhamento previsto no caput será realizado por meio de monitoramento, mediante comprovação da execução pelo proponente no Salic ao longo do projeto, e da disponibilidade de informações de consumo no Portal da Transparência, contemplando as etapas de execução do objeto, de acordo com o que foi estabelecido no plano de execução.
+
+**§ 2º** A análise também se dará por sistema de verificação de trilhas de controle disponibilizadas pelos órgãos de controle, que fará a indicação daqueles projetos que se encontram com a execução fora da curva programada.
+
+**§ 3º** Os modelos de trilhas serão disponibilizados pelos órgãos de controle para implementação na fase de execução e comprovação das ações, conforme Anexo VII.
+
+**§ 4º** A avaliação da comprovação realizada durante a fase de execução será feita pela unidade técnica responsável pelo acompanhamento da execução atuando nos desvios apontados pelo Salic.
+
+**§ 5º** Em caso de denúncias, demandas de órgãos de controle ou indícios de irregularidades, o projeto poderá ser encaminhado ao setor competente para análise de alcance de resultados, que atuará nos desvios apontados pelo Salic, podendo o proponente ser notificado para que apresente esclarecimentos no prazo não superior a 5 (cinco) dias, sob pena de imediata suspensão da execução do projeto.
+
+**§ 6º** Quando o proponente deixar de realizar alguma comprovação prevista no § 1º, o MinC o notificará, uma única vez, para que, no prazo de 20 (vinte) dias, regularize a situação do projeto, sob pena de registro de inadimplência na forma do art. 58.
+
+**§ 7º** Após a execução do projeto, a área competente atestará no Salic a conformidade ou desconformidade das etapas realizadas com as previstas.
+
+**§ 8º** Verificados indícios de vantagem financeira indevida ou material ao incentivador durante a execução do projeto, notificar-se-á o proponente para que apresente esclarecimentos em prazo não superior a 5 (cinco) dias, sob pena de imediata suspensão do projeto, bem como da aplicação das sanções do art. 30 da Lei nº 8.313, de 1991.
+
+**§ 9º** Na fase de execução, verificadas impropriedades no cumprimento das medidas de acessibilidade, de democratização do acesso ou do plano de distribuição, o proponente poderá oferecer medida compensatória, para ser concretizada dentro do prazo de execução do projeto, com aderência ao objeto aprovado.
+
+**Art. 44.** Para os efeitos do § 1º do art. 23 da Lei 8.313, de 1991, não configuram vantagem indevida as seguintes práticas realizadas de comum acordo entre incentivadores e proponentes, desde que comprovadamente estipuladas em negócio jurídico pré-existente não condicionado à fruição do benefício fiscal:
+
+I - veiculação da imagem institucional ou nome do incentivador em peças de divulgação além das aprovadas pelo Ministério da Cultura;
+
+II - fornecimento de produtos ou serviços do incentivador ao projeto cultural, desde que comprovada a maior economicidade ou exclusividade;
+
+III - programas de relacionamento e ações similares de prospecção de potenciais incentivadores individuais e quaisquer ações de ativação de marcas, desde que realizadas com recursos próprios do patrocinador;
+
+IV - concessão de acesso a ensaios, apresentações, visitas ou quaisquer atividades associadas ao projeto cultural;
+
+V - comercialização do produto cultural em condições mais favoráveis a público determinado em função do incentivador; e
+
+VI - delimitação de espaços a público determinado em função do incentivador.
+
+##### Seção II — Da Fiscalização
+
+**Art. 45.** O MinC poderá, a qualquer tempo e de ofício, realizar acompanhamento da execução do projeto, por meio de vistoria in loco, com o objetivo de esclarecer dúvidas acerca da sua evolução física e financeira, por atuação definida a partir de amostragem ou, ainda, para apuração de eventuais denúncias, quando será emitido relatório circunstanciado e conclusivo, via Salic, contendo as informações colhidas pelos técnicos durante a realização dos trabalhos, bem como as orientações repassadas ao proponente.
+
+**§ 1º** As vistorias serão realizadas diretamente pelo MinC, por suas entidades vinculadas, representações regionais, pareceristas credenciados, ou mediante parceria com outros órgãos federais, estaduais e municipais.
+
+**§ 2º** Na hipótese de realização de vistoria in loco, a imposição de obstáculos ao livre acesso da equipe às entidades inspecionadas, o não atendimento da requisição de arquivos ou documentos comprobatórios, bem como quaisquer condutas que visem inviabilizar total ou parcialmente o referido acompanhamento ensejarão o registro de inadimplência do proponente.
+
+**Art. 46.** O MinC poderá realizar visitas ou encontros técnicos com o objetivo de orientar o proponente quanto à correta utilização dos recursos repassados e regular execução das etapas previstas, além de prestar esclarecimentos acerca da legislação aplicável a projetos culturais.
+
+##### Seção III — Da Comprovação e do Relatório Final do Proponente
+
+**Art. 47.** As doações e os patrocínios captados pelos proponentes em razão do mecanismo de incentivo, decorrentes de renúncia fiscal tornam-se recursos públicos, e os projetos culturais estão sujeitos ao acompanhamento e à avaliação de resultados.
+
+**§ 1º** A comprovação financeira no Salic deverá ser feita pelo proponente, à medida que os correspondentes débitos tiverem sido lançados no extrato bancário, com a respectiva anexação de documentos comprobatórios, podendo constituir-se de:
+
+I - cópia dos despachos adjudicatórios e homologações das licitações realizadas ou justificativa para sua dispensa ou inexigibilidade, com o respectivo embasamento legal, quando o proponente pertencer à administração pública;
+
+II - cópia das cotações de preços, nas hipóteses previstas nesta Instrução Normativa;
+
+III - cópias das notas fiscais, recibos diversos, recibo de pagamento ao contribuinte individual - RPCI, faturas, contracheques, entre outros;
+
+IV - memória de cálculo do rateio das despesas, quando for o caso; e
+
+V - comprovante do recolhimento ao FNC de eventual saldo não utilizado na execução do projeto, incluídos os rendimentos da aplicação financeira.
+
+**§ 2º** A memória de cálculo referida no inciso IV do §1º deverá conter a indicação do valor integral da despesa e o detalhamento da divisão de custos, especificando a fonte de custeio de cada fração, vedada a duplicidade ou a sobreposição de fontes, cuja soma exceda o custo total de um item de despesa.
+
+**§ 3º** Caso o proponente deixe de realizar as comprovações financeiras na forma do § 1º, será diligenciado para regularização no prazo de vinte dias, sob pena de registro de inadimplência na forma do art. 58.
+
+**Art. 48.** Findo o prazo de execução aprovado para o projeto, o proponente deverá finalizar no Salic, no prazo máximo de 60 (sessenta) dias, relatório final que contemple a síntese das seguintes informações, em plena conformidade com eventuais fiscalizações, orientações e ajustes autorizados pelo MinC:
+
+I - comprovação da realização do objeto proposto, acompanhada das evidências de sua efetiva realização;
+
+II - comparativo de metas propostas com os resultados alcançados, a partir do cronograma físico constante do plano de trabalho;
+
+III - comprovação dos produtos e serviços por meio de exemplar de produto, apresentação de fotos, listas de presença, arquivos digitais, registro audiovisual, entre outros compatíveis com a natureza dos produtos;
+
+IV - descrição das etapas de execução do objeto com os respectivos comprovantes das despesas realizadas, de acordo com o que foi estabelecido no Plano de Execução e na Planilha Orçamentária e respectivos ajustes autorizados pelo MinC;
+
+V - demonstrações das medidas adotadas pelo proponente para garantir a acessibilidade ao produto cultural, nos termos aprovados pelo MinC;
+
+VI - demonstrações das medidas adotadas pelo proponente para garantir a democratização do acesso, nos termos aprovados pelo MinC;
+
+VII - amostras e/ou registros fotográficos/videográficos das peças previstas no plano de divulgação do projeto;
+
+VIII - relação dos bens móveis e obras de arte adquiridos, produzidos ou construídos, juntamente com comprovante de realização da cotação de preços prevista no art. 15, desta Instrução Normativa;
+
+IX - relação dos bens imóveis adquiridos, produzidos ou construídos;
+
+X - cópia do termo de aceitação definitiva da obra, quando o projeto objetivar a execução de obra ou serviço de engenharia; e
+
+XI - recibo do destinatário, no caso de direcionamento de bem ou material permanente a outra entidade de natureza cultural, por parte do proponente.
+
+**§ 1º** Caso o proponente deixe de apresentar o relatório final no período indicado no caput deste artigo, será lançada a inabilitação do proponente no Salic, e o proponente será diligenciado para que, no prazo de 20 (vinte) dias, regularize a situação, sob pena de reprovação das contas por omissão.
+
+**§ 2º** No caso de projeto que resulte em obra cinematográfica ou outro produto que não possa ser anexado ao Salic, a comprovação de que trata o inciso III do caput deverá ser entregue à Secretaria competente, no suporte em que a obra ou produto foi originalmente produzido, para fins de preservação e integração aos acervos do ministério.
+
+**§ 3º** A entrega de que trata o § 2º não substitui o depósito da obra no órgão ou entidade competente, sempre que exigido em legislação específica.
+
+##### Seção IV — Da Avaliação de Resultados
+
+**Art. 49.** Encerrado o prazo de execução do projeto, o MinC procederá ao bloqueio da conta e avaliará os seus resultados conforme o art. 7º do Decreto nº 5.761, de 2006, com base na documentação e nas informações inseridas pelo proponente no Salic a título de prestação de contas.
+
+**Art. 50.** A avaliação de resultados será composta pela análise do objeto e a análise financeira e seguirá o formato abaixo:
+
+I - avaliação do objeto e das ações preponderantes do projeto;
+
+II - avaliação das não conformidades, apontadas pelo Salic, quando da comprovação do plano orçamentário e metas físicas e financeiras pactuadas; e
+
+III - procedimento de análise pormenorizada, em caso de denúncia de irregularidade, sujeita a juízo de admissibilidade pelo MinC.
+
+IV ? será obrigatório a apresentação de estudos de impactos econômicos nos projetos com o Custo Total (Anexo I) igual ou superior a R$ 3.000.000,00 (três milhões de reais), mensurando externalidades positivas como emprego, renda, PIB, dentre outros, cujo valor do referido estudo poderá ser lançado na planilha orçamentária.
+
+**§ 1º** No caso de projetos de Patrimônio Cultural, Museus e Memória, as análises de objeto e financeira serão realizadas pelo IPHAN ou IBRAM, respectivamente.
+
+**§ 2º** A análise do objeto deverá considerar a captação parcial de recursos, quando for o caso, avaliando os requisitos mínimos de alcance do objeto e de suas finalidades, além da proporcionalidade entre o captado e o executado, bem como as contrapartidas pactuadas.
+
+##### Seção V — Da Aprovação, Da Aprovação com Ressalva, Da Reprovação e Do Arquivamento
+
+**Art. 51.** A avaliação de resultados considerará a prestação de contas como:
+
+I - aprovada, quando:
+
+a) verificada a integral execução do objeto ou a execução parcial adequada à captação parcial de recursos; e
+
+b) não apontadas inadequações na execução financeira;
+
+II - aprovada com ressalvas, quando houver:
+
+a) alterações no projeto cultural, no decorrer de sua execução, sem a anuência do MinC, desde que não caracterize descumprimento do objeto;
+
+b) não atendimento ao Manual de Identidade Visual do Ministério da Cultura;
+
+c) não apresentação de autorização de uso ou reprodução de obras protegidas por direitos autorais ou conexos;
+
+d) alteração do conteúdo do produto principal, desde que caracterize o alcance da ação cultural projetada, sem desvio de finalidade;
+
+e) alterações no Plano de Distribuição desde que não acarrete descumprimento das medidas de democratização ao acesso público e do objeto;
+
+f) ocorrências de ordem financeira que não caracterizem descumprimento do objeto ou dano ao erário; ou
+
+g) valor de devolução ínfimo hipótese em que a aprovação estará condicionada ao ressarcimento.
+
+III - reprovada, nas hipóteses de:
+
+a) omissão no dever de prestar contas;
+
+b) descumprimento do objeto pactuado; ou
+
+c) descumprimento na execução financeira em decorrência da não observância aos requisitos contidos nesta Instrução Normativa.
+
+**Parágrafo único.** A aprovação, com ou sem ressalvas, não exime o proponente de eventuais obrigações em relação a terceiros.
+
+**Art. 52.** Será arquivado o projeto que, ao término do prazo de execução, não tiver captado recursos suficientes para a sua realização ou iniciada a sua execução, tampouco solicitado a transferência para outro projeto cultural nos termos do § 3º art. 30, sendo os recursos recolhidos ao FNC quando do bloqueio da conta na forma do art. 50, dispensada a anuência do proponente.
+
+**Parágrafo único.** A decisão de arquivamento não importa em registro de aprovação ou reprovação do projeto, atestando meramente sua inexecução por justa causa.
+
+**Art. 53.** O proponente será cientificado do Laudo Final de Avaliação de resultados do projeto cultural juntamente com o teor da avaliação de resultados, sem prejuízo da publicação no Diário Oficial da União ? DOU e do registro da decisão no Salic, da seguinte forma:
+
+I - nos casos de aprovação e arquivamento, disponibilização no Salic; e
+
+II - nos casos de aprovação com ressalva e reprovação, por correspondência com aviso de recebimento, mensagem via correio eletrônico e disponibilização no Salic.
+
+**Art. 54.** Quando a decisão de que trata o art. 51 for pela reprovação da prestação de contas, a cientificação do proponente conterá intimação para, no prazo de 20 (vinte) dias, a contar do dia seguinte ao registro da decisão no Salic:
+
+I - recolher os recursos que tenham sido irregularmente aplicados, atualizados desde a data do término do prazo de captação pelo índice oficial da caderneta de poupança; ou
+
+II - apresentar proposta de ações compensatórias para conclusão do objeto de projeto com execução regularmente iniciada.
+
+**§ 1º** O prazo de que trata o caput é preclusivo para o inciso II, sendo vedada a apresentação de proposta em momento posterior.
+
+**§ 2º** As propostas de ações compensatórias serão aprovadas após oitiva da CNIC, no prazo de 60 (sessenta) dias, desde que seu prazo de execução não ultrapasse 180 (cento e oitenta) dias.
+
+**§ 3º** O proponente deverá apresentar comprovação da realização da medida compensatória, nos termos em que foi aprovada, em no máximo 30 (trinta) dias após o fim do seu prazo de execução.
+
+**§ 4º** A CNIC avaliará a execução da medida compensatória e, no prazo máximo de 60 (sessenta) dias, submeterá Parecer Técnico conclusivo à autoridade máxima da secretaria competente, que se manifestará quanto à aprovação ou reprovação definitiva das contas do projeto.
+
+**§ 5º** Quando a decisão prevista no § 4º for pela reprovação da medida compensatória, o proponente será cientificado a, no prazo de 20 (vinte) dias, recolher os recursos que tenham sido irregularmente aplicados, atualizados desde a data do término do prazo de captação pelo índice oficial da caderneta de poupança.
+
+**§ 6º** Ficarão suspensas todas as penalidades do proponente durante o prazo de análise, aprovação e execução das ações compensatórias.
+
+**Art. 55.** Da decisão de reprovação das contas caberá recurso, no prazo de 10 (dez) dias a contar do dia seguinte ao registro da decisão no Salic, ao Ministro de Estado da Cultura, que proferirá decisão em até 60 (sessenta) dias, a contar da data da interposição do recurso.
+
+**§ 1º** O recurso tempestivo suspende os efeitos da reprovação, inclusive no que tange à análise e ao prazo do § 1º do art. 55, salvo nos casos de comprovada má-fé.
+
+**§ 2º** A critério do Presidente da CNIC, nos termos do art. 56, inciso VI, do Decreto 5.761, de 2006, o recurso poderá ser submetido à CNIC para que esta se manifeste sobre as razões do recorrente.
+
+**§ 3º** Indeferido o recurso, o proponente será novamente intimado para, no prazo de 20 (vinte) dias, a contar do dia seguinte ao registro do indeferimento no Salic, recolher os recursos que tenham sido irregularmente aplicados, na forma do art. 54, inciso I.
+
+**§ 4º** A apresentação de proposta compensatória não obsta a interposição ou a tramitação de recurso, sendo facultado ao proponente a apresentação de ambos conjuntamente, desde que observado o prazo do caput.
+
+**Art. 56.** Esgotado o prazo para o recolhimento dos recursos sem o cumprimento das exigências, será constituído em mora o proponente devedor, e a recomposição do valor devido se dará com base na taxa referencial do Sistema Especial de Liquidação e Custódia - Selic - acumulada mensalmente desde o mês seguinte ao da última consolidação do valor impugnado, até o último dia do mês anterior ao do pagamento, mais um por cento no mês do pagamento.
+
+**Parágrafo único.** Constatada a hipótese do caput, caberá ao MinC adotar as medidas administrativas para inscrição do débito no Sistema Integrado de Administração Financeira - SIAFI e, conforme as normas específicas aplicáveis, providenciar:
+
+I - a inscrição do devedor no Cadastro Informativo de Créditos Não Quitados do Setor Público Federal ? CADIN;
+
+II - a instauração de Tomada de Contas Especial - TCE - para reposição do dano ao erário; e
+
+III - a comunicação à Receita Federal do Brasil para que esta proceda à fiscalização tributária de que trata o art. 36 da Lei nº 8.313, de 1991, e o art. 12 da Instrução Normativa Conjunta MINC/MF nº 1, de 1995.
+
+**Art. 57.** Transcorrido o prazo de 5 (cinco) anos, contados da apresentação dos documentos previstos no art. 49, fica caracterizada a prescrição para aplicação das sanções previstas nesta Instrução Normativa bem como para guarda dos documentos, ressalvada a imprescritibilidade do ressarcimento dos danos ao erário, conforme art. 37, § 5º, da Constituição Federal.
+
+**Parágrafo único.** A prestação de contas no Salic estará à disposição para consulta pública e poderá ser objeto de questionamento até os 5 (cinco) anos seguintes da data de conclusão da avaliação de resultados pelo MinC.
+
+#### CAPÍTULO VIII — DAS SANÇÕES
+
+**Art. 58.** Durante qualquer fase do projeto, o MinC poderá:
+
+I ? declarar a inadimplência do proponente, caracterizada pela sua omissão no atendimento às diligências, o que ensejará:
+
+a) o bloqueio da conta do projeto;
+
+b) a impossibilidade de prorrogação dos prazos de captação e execução do projeto; e
+
+c) a impossibilidade de apresentação de novas propostas e suspensão de publicação de autorização para captação de novos projetos.
+
+II ? declarar a inabilitação cautelar do proponente, por meio de decisão da autoridade máxima da Secretaria competente, caso sejam detectados indícios de irregularidades no projeto, com as seguintes consequências:
+
+a) suspensão dos projetos ativos do proponente com o bloqueio de suas contas, impedindo a captação de novos patrocínios ou doações, bem como movimentação de recursos;
+
+b) impossibilidade de prorrogação dos prazos de captação e execução dos projetos;
+
+c) impossibilidade de apresentação de novas propostas;
+
+d) cancelamento de propostas e arquivamento de projetos sem captação; e
+
+e) impossibilidade de recebimento de recursos decorrentes de outros mecanismos do Pronac previstos no art. 2º da Lei nº 8.313, de 1991.
+
+III ? aplicar a multa de que trata o art. 38 da Lei nº 8.313, de 1991, sempre que identificada conduta dolosa do incentivador ou do proponente.
+
+**§ 1º** Aplicada a inabilitação cautelar, o proponente será imediatamente notificado a apresentar esclarecimentos ou sanar a irregularidade no prazo de 20 (vinte) dias.
+
+**§ 2º** Decorrido o prazo do § 1º sem o devido atendimento da notificação, o MinC adotará as demais providências necessárias para a apuração de responsabilidades e o ressarcimento dos recursos ao erário.
+
+**§ 3º** As sanções deste artigo perdurarão enquanto não for regularizada a situação que lhe deu origem, e o projeto que permanecer suspenso por inadimplência ou inabilitação cautelar do proponente até o final do prazo de execução será encaminhado para a avaliação de resultados e Laudo Final de Avaliação, estando sujeito a arquivamento, aprovação com ressalvas ou reprovação, conforme a situação.
+
+**Art. 59.** Após a reprovação da prestação de contas ou em casos de omissão ao dever de prestar contas, o MinC determinará a inabilitação do proponente, o que, sem prejuízo de outras restrições ou sanções administrativas, ensejará a impossibilidade de:
+
+I - apresentação de novas propostas;
+
+II - prorrogação dos prazos de captação dos seus projetos em execução; e
+
+III - autorização para captação de novos recursos, o que importa em:
+
+a) cancelamento de propostas em análise;
+
+b) arquivamento de projetos sem movimentação de conta liberada; e
+
+c) suspensão de projetos ativos, com o bloqueio de suas contas.
+
+IV - recebimento de recursos decorrentes de outros mecanismos do Pronac previstos no art. 2º da Lei nº 8.313, de 1991.
+
+**§1º** Para os fins deste artigo, considera-se inabilitação a sanção administrativa restritiva de direito, na forma do art. 20, § 1º, da Lei nº 8.313, de 1991, aplicável sobre a pessoa física ou jurídica proponente, bem como seus dirigentes, cuja prestação de contas tenha sido reprovada ou em cuja conduta tenha sido comprovado dolo, fraude ou simulação.
+
+**§ 2º** A sanção de inabilitação terá duração de 3 (três) anos.
+
+**§ 3º** A sanção de inabilitação será automaticamente aplicada vinte dias após a publicação do ato referido no art. 51, inciso III, exceto se houver recolhimento dos recursos devidos ao FNC, na forma do art. 54, ou interposição de recurso com efeito suspensivo.
+
+**Art. 60.** A sanção de inabilitação de que trata o art. 59 será publicada em Diário Oficial e conterá, no mínimo:
+
+I - identificação do projeto e número Pronac;
+
+II - identificação do proponente e respectivo registro no CNPJ ou no CPF;
+
+III - descrição do objeto do projeto;
+
+IV - período da inabilitação; e
+
+V - fundamento legal.
+
+**Art. 61.** A inabilitação será registrada na base de dados do Salic e servirá de parâmetro de consulta da regularidade do proponente junto ao Programa Nacional de Apoio à Cultura - Pronac.
+
+**Art. 62.** O recolhimento ao FNC, pelo proponente, dos recursos irregularmente aplicados e apurados na avaliação de resultados, reverte o registro de inadimplência e a sanção de inabilitação, desde que não tenham decorrido de outras irregularidades.
+
+**Art. 63.** Para projetos aprovados na vigência desta instrução normativa, a cada 5 (cinco) aprovações com ressalvas, conforme art. 51, inciso II, no período de 3 (três) anos, ficará o proponente impedido de apresentar propostas de projetos culturais por 1 (um) ano.
+
+**Parágrafo único.** Em caso de reincidência da motivação da aprovação com ressalvas, a sanção prevista no caput será aplicada independentemente do período de ocorrência.
+
+#### CAPÍTULO IX — DO PARCELAMENTO DE DÉBITOS
+
+**Art. 64.** Após a decisão de reprovação da prestação de contas, o proponente poderá requerer o parcelamento do débito, em até 60 (sessenta) parcelas mensais não inferiores a R$ 2.000,00 (dois mil reais), observado o disposto na Lei nº 10.522, de 19 de julho de 2002, e nesta Instrução Normativa para a consolidação do débito.
+
+**§ 1º** O pagamento da primeira parcela importa em confissão de dívida e reverte o registro de inadimplência e a sanção de inabilitação do proponente no Salic, desde que não tenham decorrido de outras irregularidades.
+
+**§ 2º** O atraso de 3 (três) parcelas, consecutivas ou não, implicará na imediata suspensão do parcelamento, restaurando-se o registro de inadimplência e a sanção de inabilitação do proponente no Salic, sem prejuízo das medidas previstas nos arts. 66 e 67, no Capítulo X desta Instrução Normativa.
+
+**§ 3º** A restauração da inabilitação somente é possível dentro do período de cinco anos previsto no art. 57, desta Instrução Normativa, respeitado o período eventualmente já cumprido em momento anterior ao parcelamento.
+
+#### CAPÍTULO X — DA TOMADA DE CONTAS ESPECIAL
+
+**Art. 65.** Esgotadas as medidas administrativas de ressarcimento espontâneo previstas nesta Instrução Normativa, os débitos apurados e não quitados serão objeto de inscrição em Dívida Ativa da União (DAU) ou instauração de Tomada de Contas Especial (TCE), conforme o valor, a certeza e a liquidez do débito.
+
+**§ 1º** O encaminhamento para inscrição em dívida ativa e a instauração de tomada de contas especial exigem registro no Sistema Integrado de Administração Financeira do Governo Federal - SIAFI pela unidade setorial do Sistema de Contabilidade Federal no Ministério, sem prejuízo do registro no Salic pela secretaria gestora do projeto.
+
+**§ 2º** O parcelamento ou pagamento de débito já encaminhado para inscrição em dívida ativa ou tomada de contas deve ser requerido e demonstrado perante as autoridades competentes da Procuradoria-Geral da Fazenda Nacional ou do Tribunal de Contas da União, conforme o caso.
+
+**Art. 66.** Caso haja necessidade de apuração de improbidade administrativa ou de dano ao erário não quantificável em sede de prestação de contas, o fato será comunicado à Procuradoria-Geral da União, via Consultoria Jurídica, para adoção das medidas judiciais cabíveis.
+
+#### CAPÍTULO XI — DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+
+**Art. 67.** Aplicam-se aos procedimentos previstos nesta Instrução Normativa as disposições da Lei nº 9.784, de 1999, em especial quanto aos prazos, recursos e à comunicação de atos e decisões.
+
+**Art. 68.** A ciência dada ao proponente por meio do Salic é considerada como comunicação oficial na forma do § 3º do art. 26 da Lei nº 9.784, de 1999.
+
+**Parágrafo único.** Serão considerados válidos e atuais os endereços eletrônicos e físicos informados pelo proponente no registro feito no Salic.
+
+**Art. 69.** As áreas técnicas do MinC poderão solicitar documentos ou informações complementares, devendo para tanto comunicar o proponente informando o prazo de 20 (vinte) dias para resposta.
+
+**Parágrafo único.** O não atendimento da diligência no prazo estabelecido implicará:
+
+I - o cancelamento automático da proposta no Salic;
+
+II - o arquivamento do projeto cultural sem movimentação de conta, com registro da ocorrência no Salic; e
+
+III - a inadimplência do projeto, quando se tratar de diligências durante as fases de execução e avaliação de resultados.
+
+**Art. 70.** As disposições desta Instrução Normativa aplicam-se aos projetos em andamento, respeitados os direitos adquiridos.
+
+**Art. 71.** Por meio de portarias específicas, em razão da demanda do setor e da política cultural, o Ministro de Estado da Cultura definirá novas diretrizes em função:
+
+I - da previsão de auditoria externa; e
+
+II - dos históricos de patrocínios da base do Salic, para a criação de novas regras para os editais de incentivo fiscal, visando fortalecer a produção cultural e a manutenção dos Centros de Artes e Esportes Unificados - CEUs instituídos pela Portaria Interministerial MP/MinC/ME/MDS/MJ/MTE nº 401, de 9 de setembro de 2010, e regulamentados pela Portaria nº 49, de 18 de maio de 2011, do Ministério da Cultura.
+
+**Art. 72.** Esta Instrução Normativa entra em vigor na data de sua publicação.
+
+**Art. 73.** Ficam revogadas as seguintes normas do Ministério da Cultura:
+
+I - Instrução Normativa nº 1, de 20 de março de 2017; e
+
+II - Instrução Normativa nº 2, de 27 de junho de 2017.
+
+GLOSSÁRIO
+
+I - Ação de Conscientização para a Importância da Arte e da Cultura: falas, preleções ou atividades que contextualizem o produto cultural (resultado do projeto cultural) com as poéticas contemporâneas, as linguagens artísticas, o cenário social, ambiental, econômico, cultural e artístico local e a história da arte. Essa contextualização será a base da ação de conscientização que objetiva evidenciar a ligação dos múltiplos aspectos da vida na contemporaneidade com as vanguardas, os movimentos artísticos e o conhecimento ao longo da história de modo a revelar a importância da arte e da cultura como continentes de identidade, significado e informação. Esta ação deverá guardar relação com os recursos humanos, materiais e físicos disponíveis no ambiente da produção do projeto cultural.
+
+II - Auditoria Externa: fornecimento de informações de controle para avaliar com segurança as receitas e despesas da ação cultural realizada.
+
+III - Capacidade técnico-financeira: aptidão administrativa, financeira e operacional dos proponentes para garantir o planejamento, a execução dos objetivos pactuados, a gestão dos recursos financeiros disponibilizados, bem como a prestação de contas de seus projetos culturais.
+
+IV - Conta Captação: conta bancária vinculada ao CPF ou CNPJ do proponente com a identificação do respectivo projeto aprovado, a ser utilizada exclusivamente para crédito dos recursos captados junto aos patrocinadores ou doadores, bem como para eventual devolução de recursos.
+
+V - Conta Movimento: conta bancária vinculada ao CPF ou CNPJ do proponente com a identificação do projeto aprovado, a ser utilizada para livre movimentação, visando à sua execução.
+
+VI - Conta Vinculada: conta bancária vinculada ao CPF ou CNPJ do proponente com a identificação do respectivo projeto aprovado, a ser utilizada para crédito dos recursos captados junto aos patrocinadores ou doadores e para movimentação visando à execução dos projetos, bem como para eventual devolução de recursos.
+
+VII - Contrato de Patrocínio: documento firmado pelo patrocinador e pelo proponente que formaliza o patrocínio em determinado projeto cultural, não apresentando condicionantes para o desembolso de recursos que gerem expectativa de patrocínio e que possa não se concretizar por parte unilateral do patrocinador, devendo conter para análise das demandas previstas neste instrumento que exijam sua apresentação:
+
+a) Referência ao patrocinador, ao proponente e ao projeto (com o número da Proposta ou Projeto);
+
+b) Descrição do valor;
+
+c) Data de validade; e
+
+d) Cronograma de desembolso.
+
+VIII - Controle e Assessoria: serviços contábeis, advocatícios e de auditoria externa indispensáveis à correta gestão do projeto cultural.
+
+IX - Coprodução: é uma estratégia em que a definição dos bens e serviços a serem produzidos pela administração pública exige um processo democrático e participativo que envolva os cidadãos. Em caso de coprodução internacional de produção de obra audiovisual deverá obedecer ao disposto no Art. 1°, inciso V, alínea "c" da Medida Provisória n° 2.228-1/2001 e na IN n° 106 da ANCINE ou seus substitutivos.
+
+X - Corpos Estáveis: Companhias artísticas com mais de 05 (cinco) anos de atuação, que mantenham atividades durante todo o ano fiscal e que mantenham sob contrato profissionais da área cultural para a execução de suas atividades.
+
+XI - Custo do Projeto: compreende o somatório do Valor do Projeto e Custos Vinculados.
+
+XII - Custo Global: compreende o somatório Custo Total e Valor da Aplicação.
+
+XIII - Custo Total: compreende o somatório de Custo do Projeto, Valores de Outras Leis e Valores de Outras Fontes.
+
+XIV - Custos Vinculados: compreende o somatório da Assessoria para Elaboração do Projeto, os Custos Administrativos, a Divulgação, a Remuneração por Captação e o Controle e Auditoria.
+
+XV - Democratização do acesso: medidas presentes na proposta cultural que promovam ou ampliem a possibilidade de fruição dos bens, produtos e ações culturais, em especial às camadas da população menos assistidas ou excluídas do exercício de seus direitos culturais por sua condição socioeconômica ou por quaisquer outras circunstâncias.
+
+XVI - Desfiles festivos: Desfiles de caráter musical e cênico que tenham relação com festividades regionais, com confecções de fantasias, adereços ou material cenográficos.
+
+XVII - Diligência: solicitação de informações ou documentos, a proponentes ou terceiros, com o objetivo de sanar pendências e irregularidades, bem como esclarecer ou confirmar informações.
+
+XVIII - Equipamentos públicos: Museus, bibliotecas, auditórios, salas de teatro ou outros espaços públicos de quaisquer dos entes federados.
+
+XIX - Espaços públicos: espaços ou sistemas destinados ao uso coletivo e de frequência pública, geridos por instituições públicas, orientados prioritariamente para acolhimento, prática, criação, produção, difusão e fruição de bens, produtos e serviços culturais, assim como ações de salvaguarda dos bens culturais.
+
+XX - Execução compartilhada: aquela em que dois ou mais proponentes firmam entre si contrato ou acordo de cooperação técnica, somando suas competências para executar o projeto cultural.
+
+XXI - Finalidade Cultural: é o alcance da fruição do produto principal em proveito para a sociedade, conforme previsto no projeto aprovado.
+
+XXII - Formação de plateias: ações preferencialmente presenciais e gratuitas, destinadas a alunos e professores de instituições de ensino de qualquer nível ou jovens indicados por instituições sem fins lucrativos, que visem a conscientização para a importância da arte e da cultura por intermédio do produto do projeto cultural. As ações educativas dos projetos realizados pelos proponentes ou pelas instituições receptoras dos projetos são consideradas ações de formação de plateia.
+
+XXIII - Intermediação: apresentação de proposta por proponente cuja participação em sua execução será irrelevante, acessória ou nula ou em que a atividade técnico-financeira ou de gestão tenha sido delegada a terceiros.
+
+XXIV - Medidas de acessibilidade: medidas presentes na proposta cultural que busquem oferecer à pessoa com deficiência, idosa ou com mobilidade reduzida espaços, atividades e bens culturais acessíveis, favorecendo sua fruição de maneira autônoma, por meio da adaptação de espaços, assistência pessoal, mediação ou utilização de tecnologias assistivas, cumprindo as exigências que lhe forem aplicáveis contidas na Lei 13.146 de 06 de julho de 2015.
+
+XXV - Monitoramento: análise e avaliação da comprovação físico-financeira registrada pelo proponente no Salic durante a execução do projeto cultural.
+
+XXVI - Objeto: produto do projeto cultural conjugado ao cumprimento das finalidades do PRONAC (art. 1º, Lei nº. 8.313/91 e art. 2º, Decreto nº. 5.761/06) previamente assumido pelo proponente.
+
+XXVII - Orçamento detalhado ou analítico: aquele que apresenta o conjunto de composições de custos unitários para cada um dos itens constantes da planilha orçamentária.
+
+XXVIII - Parecer técnico: documento emitido por servidor público ou parecerista contendo manifestação objetiva, conclusiva e pormenorizada do objeto analisado.
+
+XXIX - Patrimônio cultural imaterial: saberes e modos de fazer, celebrações, formas de expressão, lugares e línguas que grupos sociais reconhecem como referências culturais organizadoras de sua identidade, por transmissão de tradições entre gerações, com especial destaque aos bens culturais registrados na forma do art. 1º do Decreto nº 3.551, de 4 de agosto de 2000.
+
+XXX - Patrimônio cultural material: conjunto de bens culturais classificados como patrimônio histórico e artístico nacional nos termos do Decreto-lei nº 25, de 30 de novembro de 1937, compreendidos como bens móveis ou imóveis, construídos ou naturais, representativos da diversidade cultural brasileira em todo o período histórico ou pré-histórico, cuja conservação e proteção são de interesse público, quer sua vinculação a fatos memoráveis da história do Brasil, quer por seu excepcional valor arqueológico ou etnográfico, bibliográfico ou artístico.
+
+XXXI - Plano Anual ou Bienal de Atividades: projeto cultural apresentado por pessoa jurídica sem fins lucrativos que contemple, por um período de doze ou vinte e quatro meses coincidente(s) com o(s) ano(s) fiscal(ais), a manutenção da instituição e das suas atividades culturais de caráter permanente e continuado, bem como os projetos e ações constantes do seu planejamento, nos termos do art. 24 do Decreto nº 5.761, de 2006.
+
+XXXII - Plano de distribuição: detalhamento da forma como serão doados ou vendidos os ingressos ou produtos culturais resultantes do projeto, com descrição detalhada dos preços, a distribuição por categorias de acesso ou produção.
+
+XXXIII - Plano de divulgação: conjunto de ações em mídia impressa ou digital, redes sociais ou suportes diversos destinadas à divulgação de projeto cultural e dos produtos dele resultantes.
+
+XXXIV - Plano de execução: detalhamento das metas, etapas de trabalho, orçamento, cronograma de execução e produtos resultantes, elaborado em formulário próprio inserido no Salic.
+
+XXXV - Plano museológico: ferramenta básica de planejamento estratégico, de sentido global e integrador, indispensável para a identificação da vocação da instituição museológica para a definição, o ordenamento e a priorização dos objetivos e das ações de cada uma de suas áreas de funcionamento, bem como para fundamentar a criação ou a fusão de museus, constituindo instrumento basilar para a sistematização do trabalho interno e para a atuação dos museus na sociedade.
+
+XXXVI - Prazo de captação: período estabelecido na Portaria de Autorização publicada no Diário Oficial da União para captação de recursos de projeto cultural, contemplando o período de execução.
+
+XXXVII - Prazo de execução: período para a realização do projeto cultural proposto e vinculado às metas físicas e financeiras constantes do orçamento aprovado pelo Ministério da Cultura e aderente às etapas de trabalho. A prorrogação de prazo de execução não renova o prazo de captação.
+
+XXXVIII - Produto principal: resultado preponderante do projeto, assim entendido o evento, atividade ou bem cultural primordial, finalístico ou essencial, podendo ser determinado pela pauta mais extensa ou custo mais elevado.
+
+XXXIX Produto secundário: demais resultados do projeto cultural, abrangendo eventos, atividades ou bens culturais que dependem, derivam ou se vinculam ao produto principal do projeto.
+
+XL - Projeto ativo: qualquer projeto cultural compreendido desde o recebimento do número de registro no Pronac até a apresentação da prestação de contas final pelo proponente.
+
+XLI - Projeto cultural de produção independente:
+
+a) na área da produção audiovisual, aquele cujo proponente não exerça as funções de distribuição ou exibição de obra audiovisual, ou que não seja concessionário de serviços de radiodifusão de sons ou sons e imagens ou a ele coligado, controlado ou controlador;
+
+b) na área da produção musical, aquele cujo proponente não exerça, cumulativamente, as funções de fabricação e distribuição de qualquer suporte fonográfico, ou que não detenha a posse ou propriedade de casas de espetáculos ou espaços de apresentações musicais;
+
+c) na área da produção editorial, aquele cujo proponente não exerça, cumulativamente, pelo menos duas das seguintes funções: fabricação de livros ou de qualquer insumo necessário à sua fabricação; distribuição de livros ou conteúdos editoriais, inclusive em formatos digitais; ou comercialização de livros ou conteúdos editoriais, inclusive em formatos digitais;
+
+d) nas artes cênicas, aquele cujo proponente não detenha a posse ou propriedade de espaços cênicos ou salas de apresentação, excetuadas as companhias artísticas que desenvolvam atividades continuadas assim definidas em regulamento;
+
+e) na área de artes visuais, aquele cujo proponente não acumule a função de expositor e comercializador de obra de arte, bem como não detenha posse ou propriedade de espaços de exposições; e
+
+f) nas demais áreas culturais e artísticas, aquele definido pelo Ministério da Cultura por meio de regulamento.
+
+XLII - Projeto cultural: conjunto de atividades interrelacionadas e coordenadas para alcançar objetivos específicos, dentro dos limites de um orçamento e tempo determinados e que tenham sido admitidos pelo MinC após etapa de análise de admissibilidade de proposta cultural, recebendo número de registro no Pronac.
+
+XLIII - Projeto de ação continuada: projeto cuja ação ocorra de forma contínua ou em edições, tais como festivais e feiras literárias.
+
+XLIV - Projeto de preservação e conservação do patrimônio cultural material: projeto elaborado por técnicos especializados, com vistas à realização de ações de restauração, preservação e conservação em monumentos e bens de valor histórico e cultural, elementos artísticos e integrados, acervos de bens móveis e imóveis, bem como reconhecimento, valorização, difusão e fomento dos processos e bens culturais mediante ações educativas, necessariamente precedidos de pesquisa histórica, diagnóstico do estado de conservação, mapeamento de danos, perícias e ensaios, projeto de arquitetura e complementares de engenharia.
+
+XLV - Projeto de preservação e salvaguarda do patrimônio cultural imaterial: projetos relativos a bens culturais imateriais transmitidos há, pelo menos, três gerações, que digam respeito à história, memória e identidade de grupos formadores da sociedade brasileira, que contenham a anuência comprovada de representação reconhecida da base social detentora, a participação direta de detentores no planejamento e na realização do projeto e que apresentem proposta de geração de benefícios materiais, sociais ou ambientais, devendo ainda desenvolver ações que visem um ou mais dos seguintes objetivos gerais:
+
+a) a execução de processos participativos de identificação e documentação do patrimônio cultural imaterial (mapeamentos, inventários, dossiês, diagnósticos, entre outros);
+
+b) a melhoria das condições de produção e reprodução da prática cultural pelos seus detentores (adequação de espaços físicos, oficinas de transmissão de saberes, fortalecimento de cadeias produtivas, entre outros);
+
+c) a mobilização de segmentos sociais envolvidos com a produção e reprodução para o fortalecimento da gestão da salvaguarda (capacitação de quadros para esta gestão, realização de reuniões, fóruns, seminários, fortalecimento de redes de articulação, entre outros); e
+
+d) a difusão e valorização do bem cultural junto aos próprios detentores e à sociedade de forma geral (por meio da constituição, conservação e disponibilização de acervos, produção e distribuição de materiais de difusão, ações educativas, realização de prêmios e concursos, entre outros).
+
+XLVI - Projeto educativo: projeto voltado à formação de público na área cultural com plano pedagógico próprio e público alvo composto prioritariamente por estudantes de qualquer nível escolar ou beneficiários de baixa renda.
+
+XLVII - Projeto pedagógico: documento integrante de propostas voltadas para formação, capacitação, especialização e aperfeiçoamento na área da cultura, que contenha, pelo menos, os objetivos gerais e específicos da proposta, sua justificativa, carga horária completa, público-alvo, metodologias de ensino, material didático a ser utilizado, conteúdos a serem ministrados e profissionais envolvidos.
+
+XLVIII - Proponente: Pessoa física com atuação na área cultural, ou pessoa jurídica de direito público ou privado, com ou sem fins lucrativos, cujo ato constitutivo ou instrumento congênere disponha sobre sua finalidade cultural e com atuação na área, responsável por apresentar, realizar e responder por projeto cultural no âmbito do Pronac.
+
+XLIX - Proposta cultural: requerimento apresentado por proponente, por meio do sistema informatizado do Ministério da Cultura ? MinC, denominado Sistema de Apoio às Leis de Incentivo à Cultura ? Salic, visando a obtenção dos benefícios do mecanismo incentivo a projetos culturais, nos termos da Lei nº 8.313, de 1991.
+
+L - Salic: sistema informatizado do MinC destinado à apresentação, recebimento e análise de propostas culturais, assim como à aprovação, execução, acompanhamento, prestação de contas e avaliação de resultados de projetos culturais.
+
+LI - Termo de Compromisso de Patrocínio: documento firmado pelo patrocinador e pelo proponente, devendo conter para análise:
+
+a) Referência ao patrocinador, ao proponente e ao projeto (com o número da Proposta ou Projeto); e
+
+b) Data de validade.
+
+LII - Usuário do Salic: pessoa física detentora de chave de validação para inserção e edição de propostas e projetos culturais, podendo ser o próprio proponente, seu representante legal ou procurador legalmente constituído pelo proponente.
+
+LIII - Valor de Aplicação Financeira: campo de preenchimento automático com o somatório dos valores obtidos na aplicação financeira.
+
+LIV - Valor de Outras Leis: compreende o somatório dos recursos públicos de fontes diretas ou indiretas das 3 esferas de Poder.
+
+LV - Valor do Projeto: compreende o somatório das etapas de pré-produção, produção, pós-produção, recolhimentos e controle.
+
+LVI - Valor por Pessoa Beneficiada: é o quociente entre o somatório do Custo do Projeto e o quantitativo de beneficiários do produto principal. Os beneficiários de produtos secundários poderão ser computados, desde que não se constituam nos mesmos beneficiários do produto principal. O produto sítio de internet poderá ser computado integralmente quando constituir o produto principal.
+
+LVII - Valores de Outras Fontes: compreende recursos não incentivados próprios ou de terceiros, os quais deverão ser declarados quando da prestação de contas.
+
+LVIII - Visita Técnica: ações realizadas junto aos proponentes com o objetivo de orientar quanto à correta utilização dos recursos repassados, a regular execução das etapas previstas e prestar esclarecimentos acerca da legislação aplicável a projetos culturais.
+
+LIX - Vistoria in loco: acompanhamento da execução dos projetos culturais, in loco, a fim de comprovar se o objeto previsto está sendo realizado em conformidade com as especificações estabelecidas, incluindo as medidas de acessibilidade, democratização do acesso, contrapartidas sociais e os planos de divulgação e distribuição.
+
+DECLARAÇÃO DE RESPONSABILIDADE
+
+DECLARO para todos os fins de direito, estar ciente da obrigatoriedade de:
+
+TER CONHECIMENTO:
+
+\- sobre a legislação referente ao benefício fiscal pretendido e das normas relativas à utilização de recursos públicos e respectivos regulamentos em especial às vedações, a ser acessado no site do MinC ? www.cultura.gov.br/legislacao;
+
+\- que a gestão de recursos captados é decisão única e exclusiva do proponente, a partir da qual a responsabilização pela utilização desses recursos públicos torna-se indissociável e para a qual deve levar em conta a real possibilidade de captação futura com vistas ao cumprimento total do objeto pactuado;
+
+\- que a incorreta utilização dos recursos do incentivo sujeita o incentivador ou proponente ou ambos, às sanções penais e administrativas, previstas na Lei nº 8.313, de 1991, e na Legislação do Imposto de Renda e respectivos regulamentos; e
+
+\- sobre o conteúdo do Portal da Lei Rouanet, disponível no endereço rouanet.cultura.gov.br.
+
+MANTER:
+
+\- comprovantes documentais das informações constantes no cadastro das propostas culturais, assim como das fases subsequentes de aprovação, execução e avaliação de resultados; e
+
+\- os dados cadastrais atualizados junto ao banco de dados do Sistema MinC.
+
+PERMANECER em situação de regularidade fiscal, tributária e previdenciária (seguridade social) durante toda a tramitação da proposta e do projeto cultural;
+
+ACATAR os valores definidos pelo Ministério da Cultura na divulgação oficial do resultado da apreciação da CNIC ou, em caso de discordância, formalizar pedido de reconsideração em até 10 (dez) dias, conforme o disposto nesta Instrução.
+
+PROMOVER a execução do objeto do projeto na forma e prazos estabelecidos e aplicar os recursos captados exclusivamente na consecução do objeto, comprovando seu bom e regular emprego, bem como os resultados alcançados;
+
+PERMITIR E FACILITAR o acesso a toda documentação, dependências e locais do projeto, à fiscalização por meio de auditorias, vistorias in loco, visitas técnicas e demais diligências, que serão realizadas diretamente pelo MinC, por suas entidades vinculadas, ou mediante parceria com outros órgãos federais, estaduais, distrital e municipais;
+
+DAR PUBLICIDADE, na promoção e divulgação do projeto, ao apoio do Ministério da Cultura, com observância dos modelos constantes do Manual de Uso das Marcas do Pronac, disponível no portal do Ministério da Cultura (www.cultura.gov.br) tendo em vista que a divulgação da Lei Rouanet é fundamental para o controle social, para o conhecimento do público em geral, para a motivação e o engajamento de novos patrocinadores e doadores, bem como para a evolução e a expansão do mecanismo;
+
+PRESTAR CONTAS dos valores captados, depositados e aplicados, bem como dos resultados do projeto, nas condições e prazos fixados ou sempre que for solicitado;
+
+DEVOLVER em valor atualizado, o saldo dos recursos captados e não utilizados na execução do projeto, mediante recolhimento ao Fundo Nacional da Cultura (FNC), conforme instruções dispostas no portal do Ministério da Cultura (www.cultura.gov.br).
+
+Assim, COMPROMETO-ME a:
+
+ACOMPANHAR e SANAR tempestivamente qualquer solicitação das áreas técnicas do Ministério da Cultura;
+
+APLICAR E PROMOVER A DIVULGAÇÃO da classificação indicativa para exibição de obras, espetáculos, eventos, shows e conteúdo audiovisual, conforme Portaria nº 368, de 11 de fevereiro de 2014, do Ministério da Justiça.
+
+OBTER E APRESENTAR AO MINC antes do início de execução do projeto, alvará(s) ou autorização(ões) equivalente(s) emitida(s) pelo(s) órgão(s) público(s) competente(s), caso alguma(s) da(s) atividade(s) decorrentes do projeto sejam executadas em espaços públicos;
+
+OBTER E APRESENTAR AO MINC, antes do início de execução do projeto, declaração de autorização dos titulares dos direitos autorais, conexos e de imagem em relação aos acervos, às obras e imagens de terceiros como condição para utilizá-los no projeto; e
+
+Por fim, ATESTO serem fidedignas as informações prestadas no preenchimento dos formulários, assim como de outras documentações juntadas ao longo da tramitação do projeto, e que responderei por eventuais infrações que vierem a ser cometidas.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Proponente
+
+DOCUMENTOS OBRIGATÓRIOS
+
+APENAS PARA PESSOA FÍSICA:
+
+a) currículo ou portfólio atualizado, com destaque para as atividades na área cultural objeto da proposta, certificados que atestem sua participação e função nos mesmos, matérias em jornais, revistas, sites ou outro tipo de mídia onde mencione sua participação ou quaisquer outros meios de comprovação, tais como folders, cartazes, panfletos, outdoor, busdoor, etc. Nos materiais mencionados, deverá conter o nome do proponente para melhor comprovação de suas atividades culturais. Não serão aceitos materiais gráficos que contenham qualquer tipo de manipulação/alteração na imagem;
+
+b) cópia de documento legal de identificação que contenha foto e assinatura, número da Carteira de Identidade e do CPF; e
+
+c) cédula de identidade de estrangeiro emitida pela República Federativa do Brasil, se for o caso.
+
+APENAS PARA PESSOA JURÍDICA DE DIREITO PÚBLICO OU PRIVADO, COM OU SEM FINS LUCRATIVOS:
+
+a) relatório atualizados das ações de natureza cultural na área objeto da proposta;
+
+b) no caso de a instituição possuir menos de dois anos de constituição ou não possuir ações de natureza cultural realizadas, anexar, no Salic, a versão atualizada do currículo ou portfólio, comprovando as atividades culturais de seus dirigentes na área objeto da proposta, certificados que atestem sua participação e função nos mesmos, matérias em jornais, revistas, sites ou outro tipo de mídia onde mencione sua participação ou quaisquer outros meios de comprovação, tais como folders, cartazes, panfletos, outdoor, busdoor, etc. Nos materiais mencionados deverão conter o nome do proponente, para melhor comprovação de suas atividades culturais. Não serão aceitos materiais gráficos que contenham qualquer tipo de manipulação/alteração na imagem;
+
+c) comprovante de inscrição e situação cadastral no CNPJ;
+
+d) cópia atualizada do Estatuto Social, Contrato Social, Certificado de Microempreendedor Individual ou Requerimento do empresário e respectivas alterações posteriores devidamente registradas no órgão competente ou do ato legal de sua constituição;
+
+OBS.: Anexar todas as páginas/cópias do Estatuto/Contrato Social ou o último Estatuto/Contrato consolidado.
+
+e) cópia da ata de eleição da atual diretoria, do termo de posse de seus dirigentes, devidamente registrado, ou do ato de nomeação de seus dirigentes; e
+
+f) cópia de documento legal de identificação do(s) dirigente(s) responsável(eis) por administrar a instituição que contenha: foto, assinatura, número da Carteira de Identidade e do CPF.
+
+PARA PESSOAS FÍSICAS E JURÍDICAS:
+
+1\. procuração que traga firma reconhecida;
+
+2\. cópia dos documentos de identificação dos procuradores que contenha foto, assinatura, número da Carteira de Identidade e do CPF.
+
+INFORMAÇÕES RELACIONADAS A PROPOSTAS QUE CONTEMPLEM ESPETÁCULO DE ARTES CÊNICAS
+
+a) Contrato de Direito Autoral ou Carta de Anuência, contendo a assinatura do autor, autorizando a empresa/instituição a apresentar o texto de sua autoria para realização do espetáculo de artes cênicas.
+
+INFORMAÇÕES RELACIONADAS A PROPOSTAS EM GERAL
+
+a) Os documentos, quando encaminhados em idioma estrangeiro, deverão ser acompanhados de tradução contendo a assinatura, o número do CPF e do RG do tradutor, exceto nos casos de tradução juramentada.
+
+INFORMAÇÕES RELACIONADAS A QUALQUER PROPOSTA CULTURAL:
+
+a) Carta de anuência assinada pelo próprio artista ou representante legal quando seu nome é determinante para execução do objeto proposto.
+
+INFORMAÇÕES RELACIONADAS ÀS PROPOSTAS QUE CONTEMPLEM EXPOSIÇÕES DE ARTE TEMPORÁRIAS E DE ACERVOS:
+
+a) proposta museográfica da exposição, documentação indispensável para conclusão da admissibilidade da proposta;
+
+OBS.: Proposta museográfica é um projeto com layout, detalhamento e especificações das soluções técnicas de montagem (uso das paredes, forro, laje de cobertura internas e externas, haverá apoio para as estruturas, entre outros).
+
+b) ficha técnica, com currículo dos curadores e dos artistas, quando for o caso; e
+
+c) relatório das obras que serão expostas, quando já definidas.
+
+INFORMAÇÕES RELACIONADAS ÀS PROPOSTAS QUE CONTEMPLEM MOSTRAS, FESTIVAIS COMPETITIVOS OU NÃO, OFICINAS E WORKSHOPS:
+
+a) beneficiários do produto da proposta e forma de seleção;
+
+b) justificativa acerca do conteúdo ou acervo indicado para o segmento de público a ser atingido, no caso de mostra;
+
+c) detalhamento dos objetivos, das atividades e do formato do evento; e
+
+d) indicação do curador, dos componentes de júri, da comissão julgadora ou congênere, quando houver;
+
+e) projeto pedagógico com currículo do responsável, no caso de proposta que preveja a instalação e manutenção de cursos de caráter cultural ou artístico, destinados à formação, à capacitação, à especialização e ao aperfeiçoamento de pessoal da área da cultura;
+
+f) plano de execução contendo carga horária e conteúdo programático no caso de oficinas, de workshops e de outras atividades de curta duração;
+
+g) relação dos títulos a serem exibidos no caso de proposta na área de audiovisual, sendo permitida a sua apresentação até o início da execução do projeto, porém, é necessário que seja informado o quantitativo e o formato das obras a serem exibidas;
+
+INFORMAÇÕES RELACIONADAS ÀS PROPOSTAS NA ÁREA DE PATRIMÔNIO CULTURAL MATERIAL, CONFORME O CASO:
+
+a) definição prévia dos bens em caso de proposta que vise à identificação, à documentação e ao inventário de bem material histórico;
+
+b) propostas de pesquisa, levantamento de informação, organização e formação de acervo e criação de banco de dados;
+
+c) termo de compromisso atestando que o resultado ou produto resultante do projeto será integrado, sem ônus, ao banco de dados do Instituto do Patrimônio Histórico e Artístico Nacional - Iphan;
+
+d) inventário do acervo e parecer ou laudo técnico, em caso de proposta que vise à restauração de acervos documentais; e
+
+e) plano básico de sustentabilidade com indicação das ações de manutenção, em caso de proposta que trate dos processos de patrimonialização do bem.
+
+INFORMAÇÕES RELACIONADAS A PROPOSTAS NA ÁREA DE EDUCAÇÃO PATRIMONIAL:
+
+a) o projeto deverá considerar Educação Patrimonial como processos educativos formais e não formais, construídos de forma coletiva e dialógica, que têm como foco o patrimônio cultural socialmente apropriado como recurso para a compreensão sociohistórica das referências culturais, a fim de colaborar para seu reconhecimento, valorização e preservação;
+
+b) os processos educativos deverão primar pelo diálogo permanente entre os agentes sociais e pela participação efetiva das comunidades;
+
+c) os projetos deverão considerar as seguintes diretrizes da Educação Patrimonial, presentes na Portaria Iphan 137 de 28 de abril de 2017:
+
+1\. incentivar a participação social na formulação, implementação e execução das ações educativas, de modo a estimular o protagonismo dos diferentes grupos sociais;
+
+2\. integrar as práticas educativas ao cotidiano, associando os bens culturais aos espaços de vida das pessoas;
+
+3\. valorizar o território como espaço educativo, passível de leituras e interpretações por meio de múltiplas estratégias educacionais;
+
+4\. favorecer as relações de afetividade e estima inerentes à valorização e preservação do patrimônio cultural;
+
+5\. considerar que as práticas educativas e as políticas de preservação estão inseridas num campo de conflito e negociação entre diferentes segmentos, setores e grupos sociais;
+
+6\. considerar a intersetorialidade das ações educativas, de modo a promover articulações das políticas de preservação e valorização do patrimônio cultural com as de cultura, turismo, meio ambiente, educação, saúde, desenvolvimento urbano e outras áreas correlatas; e
+
+7\. incentivar a associação das políticas de patrimônio cultural às ações de sustentabilidade local, regional e nacional.
+
+d) os projetos que preveem a elaboração de projetos pedagógicos deverão utilizar a estrutura mínima de:
+
+1\. diagnóstico contextualizado, identificando a situação atual da localidade em relação ao tema da preservação do patrimônio cultural;
+
+2\. objetivos gerais e específicos, identificando quais mudanças e impactos serão gerados com o projeto na realidade local;
+
+3\. justificativa, explicando porque o projeto é importante e como ele contribui para mudar a realidade local;
+
+4\. definição do público-participante, esclarecendo o processo de seleção do referido público;
+
+5\. principais ações/atividades. É importante que a descrição dessas ações seja relacionada com o orçamento do projeto e com o diagnóstico contextualizado;
+
+6\. estratégias, explicando como essas ações serão realizadas e indicar quais as principais parcerias;
+
+7\. monitoramento, definindo como as ações serão acompanhadas;
+
+8\. estrutura curricular do conteúdo, a carga horária, as disciplinas e quadro de docentes
+
+9\. Base conceitual e metodologias relativas à Educação Patrimonial; e
+
+10\. avaliação, descrevendo como será implementado o plano de avaliação (avaliações processuais, auto avaliações, avaliação do processo de desenvolvimento do público participante etc.)".
+
+"INFORMAÇÕES RELACIONADAS A PROPOSTAS QUE CONTEMPLEM ELABORAÇÃO DE PROJETOS DE RESTAURO (ARQUITETURA E COMPLEMENTARES) PARA PRESERVAÇÃO DE BENS CULTURAIS MATERIAIS TOMBADOS PELOS PODERES PÚBLICOS, FEDERAL, ESTADUAL, MUNICIPAL OU DISTRITAL:
+
+a) o projeto de restauro (arquitetura e complementares).
+
+INFORMAÇÕES RELACIONADAS A PROPOSTAS QUE CONTEMPLEM ELABORAÇÃO DE PROJETOS DE RESTAURO (ARQUITETURA E COMPLEMENTARES DE ENGENHARIA), PARA BENS CULTURAIS MATERIAIS TOMBADOS PELOS PODERES PÚBLICOS, FEDERAL, ESTADUAL, MUNICIPAL OU DISTRITAL:
+
+a) identificação e conhecimento do bem:
+
+1\. pesquisa histórica;
+
+2\. levantamento físico;
+
+2.1. levantamento cadastral;
+
+2.1.1. planta de situação;
+
+2.1.2. planta de locação;
+
+2.1.3. plantas baixas;
+
+2.1.4. fachadas;
+
+2.1.5. cortes;
+
+2.1.6. plantas de cobertura;
+
+2.2. topografia do terreno;
+
+2.3. documentação fotográfica; e
+
+2.4. elementos artísticos integrados.
+
+3\. análise tipológica, identificação de materiais e sistema construtivo;
+
+4\. Prospecções:
+
+4.1. arquitetônica;
+
+4.2. estrutural e do sistema construtivo; e
+
+4.3. arqueológica.
+
+b) diagnóstico:
+
+1\. mapeamento de danos;
+
+2\. análises do estado de conservação;
+
+3\. estudos geotécnicos; e
+
+4\. ensaios e testes.
+
+c) proposta de intervenção:
+
+1\. estudo preliminar;
+
+2\. projeto básico de intervenção; e
+
+3\. projeto executivo.
+
+INFORMAÇÕES RELACIONADAS ESPECIFICAMENTE A PROPOSTAS NA ÁREA ARQUIVÍSTICA, EM CASO DE TRATAMENTO FÍSICO, ORGANIZAÇÃO, ACONDICIONAMENTO E GUARDA:
+
+a) diagnóstico situacional com informações sobre:
+
+1\. dimensão do acervo, respeitando regras de mensuração praticadas para cada conjunto específico de gêneros e suportes documentais;
+
+2\. estado de organização, conservação e guarda de cada conjunto de suportes documentais;
+
+3\. ambientes de armazenamento;
+
+4\. existência de instrumentos de pesquisa e bases de dados; e
+
+5\. histórico de intervenções anteriores.
+
+INFORMAÇÕES RELACIONADAS ESPECIFICAMENTE A PROPOSTAS NA ÁREA ARQUIVÍSTICA, EM CASO DE REPRODUÇÃO (DIGITALIZAÇÃO, MICROFILMAGEM E AFINS) DE ACERVO:
+
+a) comprovação de que os documentos originais estejam devidamente identificados, descritos, acondicionados, armazenados e referenciados em base de dados, ou, não tendo sido ainda cumprida esta etapa, declaração de que ela será concluída antes ou concomitantemente aos processos de reprodução, sob pena de inabilitação; e
+
+b) declaração de que os documentos originais não serão eliminados após sua digitalização ou microfilmagem e de que permanecerão em boas condições de preservação e armazenamento, sob pena de inabilitação.
+
+INFORMAÇÕES RELACIONADAS ESPECIFICAMENTE A PROPOSTAS NA ÁREA ARQUIVÍSTICA, EM CASO DE DESENVOLVIMENTO DE BASES DE DADOS:
+
+a) comprovação de que os documentos originais estejam devidamente identificados, descritos, acondicionados e armazenados, ou, não tendo sido ainda cumprida esta etapa, declaração de que ela será concluída antes ou concomitantemente à elaboração das bases de dados, sob pena de inabilitação.
+
+INFORMAÇÕES RELACIONADAS ESPECIFICAMENTE A PROPOSTAS NA ÁREA ARQUIVÍSTICA, EM CASO DE AQUISIÇÃO DE ACERVO:
+
+a) histórico de procedência e de propriedade dos itens a serem adquiridos, acompanhado de declaração de intenção de venda do proprietário ou do detentor dos direitos;
+
+b) diagnóstico situacional do acervo na forma da alínea "a", do inciso IX, deste artigo;
+
+c) justificativa para a aquisição;
+
+d) inventário do acervo a ser adquirido;
+
+e) laudo técnico com avaliação de pelo menos dois especialistas sobre o valor de mercado do acervo;
+
+f) parecer de autenticidade do acervo; e
+
+g) declaração da entidade recebedora de que o acervo adquirido será incorporado ao seu acervo permanente.
+
+INFORMAÇÕES RELACIONADAS ESPECIFICAMENTE A PROPOSTAS NA ÁREA ARQUIVÍSTICA, EM CASO DE DESENVOLVIMENTO DE PESQUISA HISTÓRICA SOBRE OS ACERVOS:
+
+a) projetos de pesquisa com metodologia adequada ao desenvolvimento de seus objetivos;
+
+b) levantamento preliminar de fontes que embasem o projeto e revisão da literatura sobre o seu objeto;
+
+c) delimitação do grupo de entrevistados e de sua relevância para o projeto, em caso de utilização de entrevistas orais;
+
+d) demonstração da relevância social e cultural do projeto a ser desenvolvido;
+
+e) descrição das equipes e da exequibilidade do cronograma; e
+
+f) comprovação da qualificação técnica do proponente e de outros profissionais envolvidos.
+
+INFORMAÇÕES RELACIONADAS A PROPOSTAS NA ÁREA DE PATRIMÔNIO CULTURAL IMATERIAL:
+
+a) o projeto deverá ser desenvolvido sob a ótica da sustentabilidade social, econômica, cultura, ecológica e ambiental e necessariamente incluir na equipe realizadora detentores dos bens culturais imateriais objeto da proposta de preservação e salvaguarda;
+
+b) o projeto deverá demonstrar os investimentos diretos ou quaisquer outros benefícios concretos para os detentores do bem em questão de modo a favorecer condições para que eles mantenham as tradições associadas à sua prática cultural;
+
+c) deverá ser apresentada anuência prévia e informada, obtida junto aos grupos ou comunidades detentores de bens culturais ou junto a segmento representativo desta coletividade e deverá ser considerado principalmente aqueles grupos ou comunidades que serão diretamente envolvidos na realizada da proposta;
+
+d) projetos que preveem pesquisa e documentação deverão: explicitar a metodologia utilizada; informar os locais onde será desenvolvido o trabalho de campo ou documental; conter compromisso de que o resultado será repassado ao Iphan, que poderá utilizar-se dele desde que sem fins comerciais, e a outras instituições relacionadas, de modo a tornar esses resultados de amplo acesso ao público;
+
+e) deverão ser apresentados documentos comprobatórios da qualificação técnica do proponente e dos técnicos envolvidos; e, no caso de pessoa jurídica, deverá ser apresentado dossiê que demonstre atuação na área objeto da proposta ou junto à comunidade que será beneficiária das ações do projeto;
+
+f) no caso de propostas que contemplem a utilização ou a divulgação de expressões originais e referências culturais de artistas, grupos, povos e comunidades representativas da diversidade cultural brasileira serão ainda exigidos:
+
+1\. consentimento prévio do artista, do grupo ou da comunidade sobre a proposta no que tange à utilização de suas expressões culturais;
+
+2\. declaração acerca da contrapartida aos artistas, aos grupos ou às comunidades, em virtude dos benefícios materiais decorrentes da execução do projeto; e
+
+3\. declaração da forma como será dado o crédito à expressão cultural em que os produtos do projeto têm origem.
+
+g) indicação da rede de parceiros envolvidos, definindo as responsabilidades na consolidação e sustentabilidade das atividades do projeto;
+
+h) eventos, publicações e edições patrocinados com recursos dos projetos não poderão ter fins lucrativos;
+
+i) projetos que visem à realização de eventos deverão demonstrar sua relevância para a comunidade produtora de pelo menos um bem cultural, além de ter um caráter de divulgação e de formação de público;
+
+j) projetos que preveem ações educativas deverão favorecer tanto a livre fruição do conhecimento para a sociedade em geral, quanto as condições para a inclusão social dos detentores dos bens em questão;
+
+k) recursos administrativos do projeto não poderão ser alocados para a manutenção ou benefício da instituição proponente, limitando-se à dimensão administrativa da execução das atividades propostas no projeto;
+
+l) além dos itens acima especificados, o projeto deverá apresentar as informações específicas relativas às áreas de patrimônio cultural material, audiovisual, arquivística, entre outras, quando for o caso;
+
+m) lista de bens, em caso de propostas que visem à identificação, à documentação ou ao inventário de bem imaterial;
+
+n) proposta de pesquisa, levantamento de informação, organização e formação de acervo e criação de bancos de dados;
+
+o) termo de compromisso atestando que o resultado ou produto resultante do projeto será integrado, sem ônus, ao banco de dados do Iphan.
+
+INFORMAÇÕES RELACIONADAS A PROPOSTAS QUE CONTEMPLEM CONSTRUÇÃO OU INTERVENÇÃO EM ESPAÇOS CULTURAIS:
+
+a) projetos arquitetônicos e complementares detalhados da intervenção ou construção pretendida, contendo o endereço da edificação e o nome, a assinatura e o número de inscrição do responsável técnico no Conselho de Arquitetura e Urbanismo - CAU, bem como a assinatura do proprietário ou detentor do direito de uso;
+
+b) memorial descritivo detalhado, assinado pelo responsável técnico, bem como orçamento analítico completo apresentado em acordo as normas da Associação Brasileira de Normas Técnicas - ABNT, especialmente no que diz respeito ao sequenciamento as etapas;
+
+c) especificações técnicas dos materiais e equipamentos utilizados, assinado pelo autor da proposta cultural e pelo responsável técnico do projeto arquitetônico;
+
+d) cronograma físico-financeiro das obras;
+
+e) escritura do imóvel ou de documento comprobatório de sua situação fundiária, quando a proposta envolver intervenção em bens imóveis;
+
+f) autorização do proprietário do imóvel ou comprovação da posse do imóvel, por interesse público ou social, condicionadas à garantia subjacente de uso pelo prazo mínimo de vinte anos;
+
+g) registro documental fotográfico ou videográfico da situação atual dos bens a receberem a intervenção;
+
+h) ato de tombamento ou de outra forma de acautelamento, quando se tratar de bens tombados ou protegidos por legislação específica;
+
+i) proposta de intervenção aprovado pelo órgão responsável pelo tombamento, quando for o caso;
+
+j) levantamento arquitetônico do edifício e planialtimétrico do terreno, devidamente cotados e em escala adequada, especificando os possíveis danos existentes quando se tratar de bens tombados ou protegidos por legislação que vise sua preservação; e
+
+k) termo de compromisso de conservação do imóvel objeto da proposta, pelo prazo mínimo de 20 (vinte) anos devidamente assinado pelo proponente.
+
+INFORMAÇÕES RELACIONADAS ESPECIFICAMENTE A PROPOSTAS QUE CONTEMPLEM RESTAURAÇÃO, PRESERVAÇÃO E CONSERVAÇÃO DE BENS IMÓVEIS TOMBADOS PELOS PODERES PÚBLICOS OU PROTEGIDOS POR LEGISLAÇÃO ESPECÍFICA MEDIANTE OUTRAS FORMAS DE ACAUTELAMENTO:
+
+a) levantamento cadastral do edifício;
+
+b) pesquisa histórica;
+
+c) levantamento fotográfico do estado atual do bem;
+
+d) diagnóstico sobre o estado atual do imóvel contendo informações das causas dos danos, devidamente cotadas;
+
+e) planta de situação do imóvel;
+
+f) projeto arquitetônico e projetos complementares detalhados da intervenção pretendida, aprovado pelo órgão responsável pelo tombamento, contendo:
+
+1\. nome, assinatura e número de inscrição do autor no CREA;
+
+2\. endereço da edificação;
+
+3\. memorial descritivo;
+
+4\. especificações técnicas;
+
+5\. levantamento completo dos danos existentes; e
+
+6\. previsão de acessibilidade a pessoas com deficiência e limitações físicas, conforme a Lei nº 10.098, de 19 de dezembro de 2000, o Decreto nº 5.296, de 2 de dezembro de 2004 e a Instrução Normativa nº 1, de 25 de novembro de 2003, do IPHAN; e
+
+g) ato de tombamento ou de outra forma de acautelamento.
+
+h) além de anexar, nos campos disponibilizados do Sistema Salic, a documentação elencada acima, o proponente deverá encaminhar ao MinC, via meio físico, CD contendo todas as plantas e projetos arquitetônicos.
+
+INFORMAÇÕES RELACIONADAS ESPECIFICAMENTE A PROPOSTAS QUE CONTEMPLEM A ELABORAÇÃO DE PROJETO ARQUITETÔNICO E RESTAURO, BEM COMO PROJETOS COMPLEMENTARES DE BENS IMÓVEIS TOMBADOS OU ACAUTELADOS:
+
+a) escritura do imóvel ou de documento comprobatório de sua situação de titularidade quando a proposta envolver intervenção em bens imóveis;
+
+b) autorização do proprietário do imóvel ou comprovação de sua posse, por interesse público ou social, condicionadas à garantia subjacente de uso pelo prazo mínimo de 20 anos;
+
+c) ato de tombamento ou outra forma de acautelamento;
+
+d) levantamento cadastral do edifício;
+
+e) pesquisa histórica;
+
+f) levantamento fotográfico do estado atual do bem;
+
+g) diagnóstico sobre o estado atual do imóvel contendo informações das causas dos danos, devidamente cotadas;
+
+h) planta de situação do imóvel;
+
+i) memorial descritivo detalhado das ações e procedimentos previstos devidamente validados por parecer técnico, emitido pela instituição pública responsável pelo tombamento, que indique critérios e orientações à serem observados pelo proponente;
+
+j) o prosseguimento do projeto cultural ficará condicionado à apresentação de sua aprovação pela instituição responsável pelo tombamento;
+
+k) as exigências previstas nas alíneas ''a'', ''b'', ''c'', ''g'' e ''i'', poderão ser excepcionadas quando se tratar de bem tombado.
+
+INFORMAÇÕES RELACIONADAS A PROPOSTAS NA ÁREA MUSEOLÓGICA:
+
+a) em caso de restauração:
+
+1\. listagem com os itens a serem restaurados;
+
+2\. justificativa técnica para a restauração, incluindo laudo de especialista atestando o estado de conservação da obra, do acervo, do objeto ou do documento;
+
+3\. currículo do restaurador; e
+
+4\. orçamento específico por obra.
+
+b) em caso de aquisição de acervo:
+
+1\. lista dos itens a serem adquiridos, acompanhada de ficha técnica completa;
+
+2\. justificativa para a aquisição, atestando a pertinência e a relevância da incorporação dos itens ao acervo da instituição;
+
+3\. histórico de procedência e de propriedade dos itens a serem adquiridos, acompanhado de declaração de intenção de venda do proprietário ou detentor dos direitos;
+
+4\. laudo técnico com avaliação de pelo menos dois especialistas sobre o valor de mercado dos itens;
+
+5\. parecer de autenticidade das obras;
+
+6\. declaração de que o item adquirido será incorporado ao acervo permanente da instituição;
+
+7\. laudo técnico de especialista, com diagnóstico do estado de conservação das obras; e
+
+8\. comprovação de que o local que abrigará o acervo que se pretende adquirir possui condições adequadas de armazenamento e acondicionamento.
+
+c) em caso de exposição com acervo da própria instituição:
+
+1\. listagem com os itens de acervo que irão compor a exposição;
+
+2\. ficha técnica dos itens do acervo (título, data, técnica, dimensões, crédito de propriedade);
+
+3\. projeto museográfico, com proposta conceitual, local e período da exposição, planta baixa, mobiliário, projeto luminotécnico, disposição dos itens no espaço expositivo etc., ou, caso o projeto ainda não esteja definido, descrição de como se dará tal proposta, incluindo o conceito básico da exposição, os itens, textos e objetos que serão expostos, local e período da exposição;
+
+4\. currículo do(s) curador(es) e do(s) artista(s), quando for o caso; e
+
+5\. proposta para ações educativas, se for o caso.
+
+d) em caso de exposição com obras emprestadas de outras instituições ou coleções particulares:
+
+1\. todos os documentos listados na alínea "c" deste inciso;
+
+2\. declaração da instituição ou pessoa física que emprestará o acervo atestando a intenção de empréstimo no prazo estipulado;
+
+3\. proposta de seguro para os itens; e
+
+4\. número previsto e exemplos de possíveis obras que integrarão a mostra, quando não for possível a apresentação de lista definitiva.
+
+e) em caso de exposição itinerante:
+
+1\. todos os documentos listados nas alíneas ?c? e ?d? deste inciso;
+
+2\. lista das localidades atendidas, com menção dos espaços expositivos; e
+
+3\. declaração das instituições que irão receber a exposição atestando estarem de acordo e terem as condições necessárias para a realização da mostra em seu espaço.
+
+f) em caso de criação de museus:
+
+1\. Plano Museológico, conforme estabelecido nos art. 45, 46 e 47 da Lei nº 11.904/2009 e em consonância com o § 1º do art. 8º da referida Lei ou, caso ainda não tenha sido elaborado, apresentar na planilha orçamentária rubrica/profissional para produzir o referido documento;
+
+2\. Plano básico de sustentabilidade com indicação das ações de manutenção, em caso de proposta que trate da criação de acervos ou museus;
+
+3\. Todos os documentos listados nas alíneas "b" e "c" desse inciso, quando for o caso;
+
+4\. Todos os documentos listados no inciso XVIII dessa Instrução Normativa, quando se tratar de construção de espaço para abrigar o museu;
+
+5\. Todos os documentos listados no inciso XIX dessa Instrução Normativa, quando se tratar de restauração de imóvel tombado para abrigar o museu.
+
+g) ações socioeducativas em museus:
+
+1) Projeto pedagógico do museu;
+
+2) Currículo dos profissionais.
+
+h) quando o proponente não for a própria instituição museológica, deverá ser apresentada declaração do representante da instituição atestando sua concordância com a realização do projeto.
+
+INFORMAÇÕES RELACIONADAS ÀS PROPOSTAS NA ÁREA DE AUDIOVISUAL:
+
+a) breve currículo dos principais membros da equipe técnica especificando a função que cada integrante irá exercer no projeto;
+
+b) Termo de compromisso dos titulares da proposta e dos detentores dos direitos da obra cinematográfica, de entrega de um máster do produto resultante do projeto, para preservação na Cinemateca Brasileira. O máster deverá estar em um dos formatos a seguir: BETACAM DIGITAL, HDCAM SR, HDCAM Standard, HD EXTERNO (HD externo com conexão USB 2.0 ou IEEE1394 (FireWire), não vinculado a software proprietário para ser reconhecido) ou Fita de dados LTO ? 5.
+
+c) laudo técnico do estado de conservação das obras a serem restauradas para projetos que contemplem restauração ou preservação de acervo audiovisual, emitido por profissional ou Instituição devidamente especializada na área;
+
+d) argumento cinematográfico contendo a estratégia de abordagem, lista de locações e personagens documentados e a ideia cinematográfica do projeto que deve conter em si uma visão sobre os fenômenos abordados (não se trata de descrição do tema ou de sua importância), no caso de produção de documentário de curta ou média metragem;
+
+e) roteiro dividido por sequências, contendo o desenvolvimento dos diálogos e com o respectivo certificado de registro de roteiro na Fundação Biblioteca Nacional, para produção de obra de ficção de curta ou média metragem;
+
+f) Proposta de produção, incluindo Plano de produção, Detalhamento técnico, Estratégia de produção, dentre outras informações consideradas relevantes para o filme, no caso de produção de documentário de curta ou média metragem;
+
+g) Plano de direção: apresentação dos procedimentos estilísticos que se pretende utilizar no filme, a ser redigido pelo diretor, descrevendo como será a linguagem da obra cinematográfica e fazendo menção aos diversos setores do filme, no caso de produção de curta ou média metragem;
+
+h) storyboard ou concept art acompanhado dos documentos mencionados na alínea "e", para produção de obra de animação de curta ou média metragem; e
+
+i) estrutura e formato do programa de Rádio e TV a ser produzido, contendo sua duração, periodicidade e número de programas e manifestação de interesse de emissoras em veicular o programa, sendo vedada a previsão de despesas vinculadas a aquisição de espaços para a sua veiculação, respeitada a excepcionalidade disposta no inciso IX do Art. 45.
+
+INFORMAÇÕES RELACIONADAS ÀS PROPOSTAS QUE CONTEMPLEM SÍTIO DE INTERNET, JOGOS ELETRÔNICOS, APLICATIVOS OU TRANSMIDIÁTICOS:
+
+a) no caso do sítio de internet informar a descrição das páginas, com definição de conteúdo, incluindo pesquisas e sua organização e roteiros;
+
+b) no caso de jogos eletrônicos apresentar a descrição das fases do jogo, ambientes e objetivos;
+
+c) no caso do aplicativo para diferentes sistemas operacionais apresentar a descrição do aplicativo e sua funcionalidade;
+
+d) no caso de proposta transmidiáticas apresentar a definição e descrição do universo explorado, plano de trabalho dos diferentes meios de distribuição, fruição e consumo, e definição dos diferentes conteúdos audiovisuais desenvolvidos e da forma que se relacionam com o objetivo de explorar diversos aspectos da narrativa proposta; e
+
+e) no caso de propostas que contemplem projetos de instalações ou intervenções audiovisuais e ambientes de imersão e performances audiovisuais apresentar a descrição da ação, justificativa e proposta técnica.
+
+SEGMENTOS CULTURAIS ENQUADRADOS NO ART. 18, § 3º, DA LEI Nº 8.313, DE 1991.
+
+OS INCENTIVADORES DE PROJETOS QUE SE ENQUADREM NA LISTAGEM DESTE ANEXO FARÃO JUS AO BENEFÍCIO DE QUE TRATA O § 1º DO ART. 18 DA LEI Nº 8.313, DE 1991. PARA OS DEMAIS PROJETOS, ENQUADRADOS NO ART. 25. DA LEI, OS INCENTIVADORES FARÃO JUS AO BENEFÍCIO DO ART. 26.
+
+I - ARTES CÊNICAS
+
+a) circo; (art. 18, § 3º, alínea a)
+
+b) dança; (art. 18, § 3º, alínea a)
+
+c) mímica; (art. 18, § 3º, alínea a)
+
+d) ópera; (art. 18, § 3º, alínea a)
+
+e) teatro; (art. 18, § 3º, alínea a)
+
+f) teatro de formas animadas, de mamulengos, bonecos e congêneres; (art. 18, § 3º, alínea a)
+
+g) desfile de escola de samba ou festivos de caráter musical e cênico que tenham relação com festividades regionais, com confecções de fantasias, adereços ou material cenográficos; (art. 18, § 3º, alínea a)
+
+h) construção e manutenção de salas de teatro ou centros culturais comunitários em municípios com menos de 100.000 (cem mil) habitantes; (art. 18, § 3º, alínea h)
+
+i) ações de capacitação e treinamento de pessoal; e (art. 18, § 3º, alínea a)
+
+j) teatro musical, quando sua encenação se estabelece por meio de dramaturgia, compreendendo danças e canções. (art. 18, § 3º, alínea a)
+
+II - AUDIOVISUAL
+
+a) produção audiovisual de curta e média metragem, incluindo rádios e TVs educativas e culturais; (art. 18, § 3º, alínea f)
+
+b) difusão de acervo audiovisual nos diversos meios e suportes; (art. 18, § 3º, alínea f)
+
+c) restauração e preservação de acervos audiovisuais; (art. 18, § 3º, alínea f)
+
+d) doação de acervos audiovisuais para cinematecas; (art. 18, § 3º, alínea e)
+
+e) ações de capacitação e treinamento de pessoal; (art. 18, § 3º, alínea e)
+
+f) aquisição de equipamentos para manutenção de acervos audiovisuais públicos e cinematecas; e (art. 18, § 3º, alínea e)
+
+g) construção e manutenção de salas de cinema que poderão funcionar também como centros culturais comunitários em municípios com menos de 100.000 (cem mil) mil habitantes. (art. 18, § 3º, alínea h)
+
+III ? MÚSICA
+
+a) erudita; (art. 18, § 3º, alínea c)
+
+b) instrumental; (art. 18, § 3º, alínea c)
+
+c) canto coral; e (art. 18, § 3º, alínea c)
+
+d) ações de capacitação e treinamento de pessoal; (art. 18, § 3º, alínea c)
+
+IV - ARTES VISUAIS
+
+a) exposição de artes visuais que possua em sua concepção tratamento artístico e curatorial, em quaisquer suportes abrangendo as seguintes categorias: pintura, desenho, gravura, fotografia, escultura, objeto, grafite, instalação, performances, vídeo-arte, artes digitais, arte eletrônica, design, arquitetura, moda, arte cibernética e artes gráficas, que poderão se organizar sob a forma de exposições, feiras, festivais, mostras, circuitos artísticos; e (art. 18, § 3º, alínea d)
+
+b) ações de capacitação e treinamento de pessoal que resultem em exposição de artes visuais; (art. 18, § 3º, alínea d)
+
+V - PATRIMÔNIO CULTURAL MATERIAL E IMATERIAL
+
+a) doações ou aquisições de acervos culturais em geral para arquivos públicos e instituições culturais; (art. 18, § 3º, alínea g)
+
+b) preservação, restauração, conservação, salvaguarda, identificação, registro, educação patrimonial e acervos do patrimônio cultural material e imaterial; (art. 18, § 3º, alínea g)
+
+c) ações de documentação ou digitalização de acervo bibliográfico e arquivístico; pesquisa; sistematização de informação; (art. 18, § 3º, alínea g)
+
+d) preservação, restauração, manutenção, readequação ou revitalização de equipamentos culturais ou edificações destinadas a preservação de patrimônio cultural; (art. 18, § 3º, alínea g)
+
+e) ações de segurança para preservação de patrimônio cultural ou de acervos; (art. 18, § 3º, alínea g)
+
+f) ações educativo-culturais, inclusive seminários, oficinas e palestras, visando a preservação do patrimônio material, imaterial ou de acervos de valor cultural; (art. 18, § 3º, alínea g)
+
+g) treinamento de pessoal ou aquisição de equipamentos para manutenção de acervos, arquivos públicos e instituições congêneres; (art. 18, § 3º, alínea g)
+
+h) elaboração de projetos de arquitetura e urbanismo; e (art. 18, § 3º, alínea g)
+
+i) elaboração de projetos de restauro (arquitetura e complementares) destinados à preservação de bens culturais materiais tombados pelos Poderes Públicos, federal, estadual, municipal ou distrital. (art. 18, § 3º, alínea g)
+
+VI - MUSEUS E MEMÓRIA
+
+a) doação ou aquisição de acervos para museus e instituições de preservação da memória; (art. 18, § 3º, alínea g)
+
+b) preservação, restauração, conservação, identificação, registro e promoção; (art. 18, § 3º, alínea g)
+
+c) documentação e digitalização de acervos; sistemas de informações; (art. 18, § 3º, alínea g)
+
+d) ações de segurança para preservação de acervos; (art. 18, § 3º, alínea g)
+
+e) planos anuais de atividades e elaboração de planos museológicos; (art. 18, § 3º, alínea g)
+
+f) exposições realizadas em museus, exposições organizadas com acervos de museus e museografia; (art. 18, § 3º, alíneas d ou g)
+
+g) pesquisa; sistematização de informações; (art. 18, § 3º, alínea g)
+
+h) ação educativo-cultural, inclusive seminários, congressos, palestras; (art. 18, § 3º, alínea g)
+
+i) criação e implantação (projetos, construção, restauração e reforma); (art. 18, § 3º, alínea g)
+
+j) ações de capacitação e treinamento de pessoal; e (art. 18, § 3º, alínea g)
+
+k) aquisição de equipamentos para a preservação e manutenção de acervos. (art. 18, § 3º, alínea g)
+
+VII ? HUMANIDADES
+
+a) livros ou obras de referência, impressos ou eletrônicos, de valor artístico, literário ou humanístico; (art. 18, § 3º, alínea b)
+
+b) manutenção, preservação ou restauração de acervos bibliográficos e arquivísticos compreendidos por livros ou obras de referência, impressos ou eletrônicos, de valor artístico, literário ou humanístico; (art. 18, § 3º, alínea b)
+
+c) eventos literários e ações educativo-culturais voltados para a promoção do livro e da criação literária, e para o incentivo à leitura; (art. 18, § 3º, alínea b)
+
+d) doação ou aquisição de acervos para bibliotecas públicas, museus, arquivos públicos, cinematecas; (art. 18, § 3º, alínea b)
+
+e) ações de capacitação, treinamento de pessoal, oficinas e aquisição de equipamentos, que tenham como finalidade a manutenção de acervos de bibliotecas públicas, museus, arquivos públicos e cinematecas; e (art. 18, § 3º, alínea b)
+
+f) construção de bibliotecas desde que esteja prevista a implantação de espaço destinado a apresentações de teatro, exibição de filmes e outras atividades culturais em municípios com menos de 100.000 (cem mil) habitantes". (art. 18, § 3º, alínea h)
+
+TIPOLOGIAS
+
+PRONAC- Patrimônio Imaterial
+
+Critérios para enquadramento de projetos na alínea "g" parágrafo 3°, Artigo 18 da LEI 8.313/91
+
+1\. Itens que devem constar no sub segmento "Patrimônio Imaterial". Com base nas legislações ? Decreto 3.551/2000, que instituiu o Registro de Bens Culturais de Natureza Imaterial, Decreto Legislativo 22, de 08 de março de 2006, que aprova o texto da Convenção para a Salvaguarda do Patrimônio Cultural Imaterial, Resolução 001/2006, de 03 de agosto de 2006, que trata da instrução do processo administrativo de Registro de Bens Culturais de Natureza Imaterial, Resolução 1, de 18 de julho de 2013, que trata da Revalidação do título de Patrimônio Cultural do Brasil, Portaria 200, de 18 de maio de 2016, que regulamenta Programa Nacional do Patrimônio Imaterial ? PNPI e o Inventário Nacional de Referências Culturais ? INRC:
+
+Celebrações-ocasiões diferenciadas de sociabilidade ? atividades que participam fortemente da produção de sentidos específicos de lugar e de território, nas quais se incluem os principais ritos e festividades associados à religiosidade, à civilidade e aos ciclos do calendário.
+
+Saberes e modos de fazer ? atividades desenvolvidas por atores sociais reconhecidos como conhecedores de técnicas e de matérias-primas que identificam um grupo social ou uma localidade. Referem-se aos conhecimentos tradicionais associados à produção de objetos e /ou prestação de serviços que tenham sentidos práticos ou rituais.
+
+Formas de expressão ? Formas não linguísticas de comunicação associadas a determinado grupo social ou região, desenvolvidas por atores sociais reconhecidos pela comunidade e em relação as quais o costume define normas, expectativas e padrões de qualidade.
+
+Lugares ? lugares que possuem sentido cultural diferenciado para a população local. São espaços apropriados por práticas e atividades de naturezas diversas, tanto cotidianas quanto excepcionais, tanto vernaculares quanto oficiais. Podem ser conceituados como lugares focais da vida social de uma localidade, cujos atributos são reconhecidos e tematizados em representações simbólicas e narrativas.
+
+Edificações ? estruturas físicas associadas a certos usos, a significações históricas e de memória e às imagens que se tem de certos lugares, que as tornam bens de interesse diferenciado para determinado grupo social, independentemente de sua qualidade arquitetônica ou artística. São relevantes, além dos aspectos físico-arquitetônicos, as representações sociais associadas a edificações, as narrativas que se conversam e seu respeito, os bens móveis que elas abrigam e determinados usos que nelas se desenvolvem.
+
+Diversidade Linguística - as Línguas faladas por comunidades brasileiras objetivando a valorização e a promoção da diversidade linguística brasileira que, além do português e de suas variedades, somando-se as indígenas, de imigração, crioulas, de sinais, etc., o Decreto 7.387, de 9 de dezembro de 2010, instituiu o Inventário Nacional da Diversidade Linguística.
+
+2\. Enquadram-se na rubrica "Patrimônio Imaterial" projetos que desenvolvam ações como as listadas abaixo e que sejam relacionadas à identificação, documentação, reconhecimento, difusão e fomento dos processos culturais que sejam referenciais de e para comunidades tradicionais, povos indígenas, afrodescendentes, e demais comunidades constituintes da sociedade brasileira.
+
+2.1 Projetos de mapeamento, documentação e inventário, instrução de processo e construção de dossiê de Registro conforme procedimentos da Resolução nº 001, de 03 de agosto de 2016;
+
+2.2 Projetos que visem à constituição, conservação e divulgação de acervos etnográficos e documentais e/ou bancos (bases) de dados sobre o patrimônio imaterial;
+
+2.3 Projetos que promovam e divulguem, preferencialmente, bens culturais imateriais inventariados e/ou Registrados pelos poderes públicos em nível federal, estatual ou municipal;
+
+2.4 Projetos que tragam a público, através de publicações, exposições, edições fono audiovisuais resultados de pesquisas e inventários sobre patrimônio imaterial;
+
+2.5 Projetos que incentivem ou fomentem os processos de produção, reprodução e transmissão dos conhecimentos relacionados ao patrimônio imaterial, favorecendo as condições materiais e simbólicas para livre exercício das práticas culturais de diferentes grupos portadores de saberes e fazeres tradicionais a fim de que possam ser conhecidos e valorizados em seus contextos sociais específicos;
+
+2.6 Projetos que contribuam para a organização comunitária e gerencial de produtores ou detentores de bens culturais;
+
+2.7 Projetos que visem a proteger a propriedade intelectual e direitos culturais coletivos de detentores de conhecimentos e formas de expressão tradicionais;
+
+2.8 Projetos que estimulem a formação de pesquisadores e agentes de políticas públicas quanto a ações de salvaguarda de bens culturais de natureza imaterial;
+
+2.9 Projetos que promovam ações educativas que visem à sensibilização da população para a importância da identificação e do reconhecimento do patrimônio imaterial.
+
+2.10. Apoio à produção de conhecimento e documentação sobre diversidade linguística;
+
+2.11. Execução das ações de valorização e promoção das línguas reconhecidas;
+
+2.12. Fomento à preservação e disponibilização de acervos documentais e bibliográficos de interesse para a salvaguarda da diversidade linguística;
+
+2.13 atender a necessidades de fortalecimento da língua apontadas no Dossiê de Inclusão no INDL;
+
+2.14. Atendimento de demandas específicas, não contempladas pelo INDL;
+
+2.15. Desenvolvimento de ações amplas de promoção da diversidade linguística.
+
+3\. Objetos e produtos preferenciais nos projetos PRONAC no âmbito do patrimônio imaterial (não são excludentes em um mesmo projeto).
+
+3.1. Pesquisas, mapeamentos, inventários participativos (com inclusão de pessoas oriundas dos universos pesquisados nas equipes). Produtos: documentação textual e audiovisual, relatórios, textos analíticos, diagnósticos e proposições de políticas;
+
+3.2. Capacitação de quadros técnicos para a implementação e gestão de políticas para o patrimônio. Produtos: oficinas, aulas, encontros, seminários, similares;
+
+3.3. Mobilização de segmentos sociais envolvidos diretamente na produção e reprodução cultural do bem cultural imaterial, com vistas à discussão, elaboração e gestão de política de salvaguarda. Produtos: oficiais, seminários, encontros, similares;
+
+3.4. Transmissão de saberes relativos ao sistema cultural em foco no âmbito exclusivo do contexto tradicional ou ordinário intrínseco à comunidade produtora dos bens culturais. Produto: oficinas, aulas, encontros, similares;
+
+TARIFAS BANCÁRIAS
+
+Todas as contas cadastradas no sistema corporativo do Banco do Brasil, vinculadas a projetos beneficiados pelos incentivos fiscais ao amparo da Lei 8.313/91 (Lei Rouanet), possuem isenção das seguintes tarifas:
+
+PESSOA FÍSICA E JURÍDICA
+
+MANUTENÇÃO C/C ATIVA - PF E PJ
+
+GERENCIADOR FINANCEIRO - CONEXÃO
+
+CADASTRO PF E PJ - CONFECÇÃO
+
+CADASTRO PF E PJ - RENOVAÇÃO SEMESTRAL
+
+TRANSFERÊNCIA ENTRE CONTAS CORRENTES (ORIGEM PF E PJ) - RPG
+
+TRANSFERÊNCIA ELETRÔNICA (DOC/TED) - RPG
+
+CARTÃO MANUTENÇÃO PF E PJ
+
+EXTRATOS TAA - TERMINAL DE AUTOATENDIMENTO
+
+EXTRATOS DE INTERNET
+
+AGENDA FINANCEIRA
+
+TRILHAS DE CONTROLE
+
+I. Regularidade do proponente e sócios.
+
+II. Regularidade da Classificação Nacional de Atividades Econômicas - CNAE do proponente e fornecedor.
+
+III. Princípio da não concentração.
+
+IV. Itens concentrados por fornecedores.
+
+V. Notas fiscais eletrônicas.
+
+VI. Beneficiários de ingressos gratuitos.
+
+VII. Incentivadores inativos.
+
+VIII. Regularidade de captadores de recursos.
+
+<table><tr></tr><tr><td><p>ANEXO VIII</p></td></tr><tr><td><p>ARTES CÊNICAS</p></td></tr><tr><td><p>Segmento Cultural</p></td><td><p>CNAE</p></td></tr><tr><td><p>Circo</p></td><td><p>Produção de espetáculos circenses, de marionetes e similares - 9001-9/04</p></td></tr><tr><td></td><td><p>Gestão de espaços para artes cênicas, espetáculos e outras atividades artísticas - 9003-5/00</p></td></tr><tr><td><p>Dança</p></td><td><p>Produção de espetáculos de dança - 9001-9/03</p></td></tr><tr><td></td><td><p>Gestão de espaços para artes cênicas, espetáculos e outras atividades artísticas - 9003-5/00</p></td></tr><tr><td><p>Mímica</p></td><td><p>Produção de espetáculos circenses, de marionetes e similares - 9001-9/04</p></td></tr><tr><td></td><td><p>Gestão de espaços para artes cênicas, espetáculos e outras atividades artísticas - 9003-5/00</p></td></tr><tr><td><p>Ópera</p></td><td><p>Produção teatral - 9001-9/01</p></td></tr><tr><td></td><td><p>Artes cênicas, espetáculos e atividades complementares não especificados anteriormente - 9001-9/99</p></td></tr><tr><td><p>Teatro</p></td><td><p>Gestão de espaços para artes cênicas, espetáculos e outras atividades artísticas - 9003-5/00</p></td></tr><tr><td></td><td><p>Produção teatral - 9001-9/01</p></td></tr><tr><td></td><td><p>Artes cênicas, espetáculos e atividades complementares não especificados anteriormente - 9001-9/99</p></td></tr><tr><td></td><td><p>Gestão de espaços para artes cênicas, espetáculos e outras atividades artísticas - 9003-5/00</p></td></tr><tr><td><p>Teatro de formas animadas, de mamulengos, bonecos e congêneres.</p></td><td><p>Produção de espetáculos circenses, de marionetes e similares - 9001-9/04</p></td></tr><tr><td></td><td><p>Artes cênicas, espetáculos e atividades complementares não especificados anteriormente - 9001-9/99</p></td></tr><tr><td></td><td><p>Produção teatral - 9001-9/01</p></td></tr><tr><td><p>Desfile coreográfico e apresentações de expressões da cultura popular que contenham relevante presença de elementos cênicos ou dramáticos</p></td><td><p>Artes cênicas, espetáculos e atividades complementares não especificados anteriormente - 9001-9/99</p></td></tr><tr><td><p>Construção e manutenção de salas de teatro ou centros culturais comunitários em municípios com menos de 100.000 (cem mil) habitantes;</p></td><td><p>Gestão de espaços para artes cênicas, espetáculos e outras atividades artísticas - 9003-5/00</p></td></tr><tr><td></td><td><p>Serviços de engenharia - 7112-0/00</p></td></tr><tr><td></td><td><p>Serviços de arquitetura - 7111-1/00</p></td></tr><tr><td></td><td><p>Atividades técnicas relacionadas à engenharia e arquitetura não especificadas anteriormente - 7119-7/99</p></td></tr><tr><td></td><td><p>Gestão de espaços para artes cênicas, espetáculos e outras atividades artísticas - 9003-5/00</p></td></tr><tr><td></td><td><p>Serviços de engenharia - 7112-0/00</p></td></tr><tr><td></td><td><p>Serviços de arquitetura - 7111-1/00</p></td></tr><tr><td></td><td><p>Atividades técnicas relacionadas à engenharia e arquitetura não especificadas anteriormente - 7119-7/99</p></td></tr><tr><td></td><td><p>Atividades de organizações associativas ligadas à cultura e a arte - 9493-6</p></td></tr><tr><td><p>Ações de capacitação e treinamento de pessoal</p></td><td><p>Ensino de arte e cultura não especificado anteriormente - 8592-9/99</p></td></tr><tr><td></td><td><p>Ensino de dança - 8592-9/01</p></td></tr><tr><td></td><td><p>Ensino de artes cênicas, exceto dança - 8592-9/02</p></td></tr><tr><td><p>Teatro musical, assim entendida a produção teatral cuja representação combina enredo, diálogos, dança e canções.</p></td><td><p>Produção teatral - 9001-9/01</p></td></tr><tr><td></td><td><p>Artes cênicas, espetáculos e atividades complementares não especificados anteriormente - 9001-9/99</p></td></tr><tr><td></td><td><p>Gestão de espaços para artes cênicas, espetáculos e outras atividades artísticas - 9003-5/00</p></td></tr><tr><td><p>ARTES VISUAIS</p></td></tr><tr><td><p>Segmento Cultural</p></td><td><p>CNAE</p></td></tr><tr><td><p>Exposição de Artes</p></td><td><p>Atividades de artistas plásticos, jornalistas independentes e escritores - 9002-7/01</p></td></tr><tr><td></td><td><p>Gestão de espaços para artes cênicas, espetáculos e outras atividades artísticas - 9003-5/00</p></td></tr><tr><td></td><td><p>Atividades de design não especificadas anteriormente - 7410-2/99</p></td></tr><tr><td></td><td><p>Laboratórios fotográficos - 7420-0/03</p></td></tr><tr><td></td><td><p>Atividades de produção de fotografias aéreas e submarinas - 7420-0/02</p></td></tr><tr><td></td><td><p>Atividades de produção de fotografias, exceto aérea e submarina - 7420-0/01</p></td></tr><tr><td></td><td><p>Design de interiores - 7410-2/02</p></td></tr><tr><td></td><td><p>Design de produto - 7410-2/03</p></td></tr><tr><td></td><td><p>Atividades de design não especificadas anteriormente - 7410-2/99</p></td></tr><tr><td><p>Produção fotográfica</p></td><td><p>Laboratórios fotográficos - 7420-0/03</p></td></tr><tr><td></td><td><p>Atividades de produção de fotografias aéreas e submarinas - 7420-0/02</p></td></tr><tr><td></td><td><p>Atividades de produção de fotografias, exceto aérea e submarina - 7420-0/01</p></td></tr><tr><td><p>Design</p></td><td><p>Design de interiores - 7410-2/02</p></td></tr><tr><td></td><td><p>Design de produto - 7410-2/03</p></td></tr><tr><td></td><td><p>Atividades de design não especificadas anteriormente - 7410-2/99</p></td></tr><tr><td><p>Artes Plásticas</p></td><td><p>Atividades de artistas plásticos, jornalistas independentes e escritores - 9002-7/01</p></td></tr><tr><td><p>Artes Gráficas</p></td><td><p>Atividades de artistas plásticos, jornalistas independentes e escritores - 9002-7/01</p></td></tr><tr><td></td><td><p>Fabricação de outros brinquedos e jogos recreativos não especificados anteriormente - 3240-0/99</p></td></tr><tr><td><p>Moda</p></td><td><p>Design de produto - 7410-2/03</p></td></tr><tr><td></td><td><p>Atividades de design não especificadas anteriormente - 7410-2/99</p></td></tr><tr><td><p>Gravuras</p></td><td><p>Atividades de artistas plásticos, jornalistas independentes e escritores - 9002-7/01</p></td></tr><tr><td><p>Desenho</p></td><td><p>Atividades de artistas plásticos, jornalistas independentes e escritores - 9002-7/01</p></td></tr><tr><td><p>Escultura</p></td><td><p>Atividades de artistas plásticos, jornalistas independentes e escritores - 9002-7/01</p></td></tr><tr><td><p>Instalação</p></td><td><p>Atividades de design não especificadas anteriormente - 7410-2/99</p></td></tr><tr><td></td><td><p>Atividades de artistas plásticos, jornalistas independentes e escritores - 9002-7/01</p></td></tr><tr><td></td><td><p>Design de interiores - 7410-2/02</p></td></tr><tr><td><p>Filatelia</p></td><td><p>Atividades de artistas plásticos, jornalistas independentes e escritores - 9002-7/01</p></td></tr><tr><td></td><td><p>Design de produto - 7410-2/03</p></td></tr><tr><td></td><td><p>Atividades de design não especificadas anteriormente - 7410-2/99</p></td></tr><tr><td><p>Formação Técnica e Artística de Profissionais</p></td><td><p>Ensino de arte e cultura não especificado anteriormente - 8592-9/99</p></td></tr><tr><td><p>Projetos educativos orientados à fruição e produtos de artes visuais</p></td><td><p>Ensino de arte e cultura não especificado anteriormente - 8592-9/99</p></td></tr><tr><td></td><td><p>Outras atividades de ensino não especificadas anteriormente - 8599-6/99</p></td></tr><tr><td><p>Projetos de Fomento à Cadeia Produtiva das artes visuais</p></td><td><p>Ensino de arte e cultura não especificado anteriormente - 8592-9/99</p></td></tr><tr><td></td><td><p>Serviços de organização de feiras, congressos, exposições e festas - 8230-0/01</p></td></tr><tr><td><p>AUDIOVISUAL</p></td></tr><tr><td><p>Segmento Cultural</p></td><td><p>CNAE</p></td></tr><tr><td><p>Produção cinematográfica de curta metragem</p></td><td><p>Atividades de produção cinematográfica, de vídeos e de programas de televisão - 5911-1</p><p>Atividades de pós-produção cinematográfica, de vídeos e de programas de televisão - 5912-0.</p></td></tr><tr><td><p>Produção cinematográfica de média metragem</p></td><td></td></tr><tr><td><p>Produção televisiva (não seriada)</p></td><td></td></tr><tr><td><p>Produção radiofônica</p></td><td><p>Atividades de rádio - 6010-1/00;</p></td></tr><tr><td><p>Ações de capacitação e treinamento de pessoal;</p></td><td><p>Ensino de arte e cultura não especificado anteriormente - 8592-9/99;</p></td></tr><tr><td></td><td><p>Atividades de produção cinematográfica, de vídeos e de programas de televisão - 5911-1/99;</p><p>Atividades de pós-produção cinematográfica, de vídeos e de programas de televisão - 5912-0/99.</p></td></tr><tr><td><p>Construção de salas de cinema ou centros comunitários congêneres em municípios com menos de cem mil habitantes</p></td><td><p>Serviços de arquitetura - 7111-1/00;</p><p>Serviços de engenharia - 7112-0/00;</p><p>Atividades técnicas relacionadas à engenharia e arquitetura não especificadas anteriormente - 7119-7/99.</p></td></tr><tr><td><p>Manutenção de salas de cinema ou centros comunitários congêneres em municípios com menos de cem mil habitantes;</p></td><td></td></tr><tr><td><p>Difusão de acervo audiovisual </p></td><td><p>Atividades de exibição cinematográfica - 5914-6/00; Atividade de organização, produção e promoção de eventos culturais - 9231-2</p></td></tr><tr><td><p>Preservação de acervo audiovisual </p></td><td><p>Restauração, manutenção de filmes cinematográficos - 5912-0/99;</p></td></tr><tr><td><p>Restauração de acervo audiovisual; </p></td><td><p>Atividades de produção cinematográfica, de vídeos e de programas de televisão - 5911-1/99;</p><p>Atividades de pós-produção cinematográfica, de vídeos e de programas de televisão - 5912-0/99.</p></td></tr><tr><td><p>Jogos eletrônicos;</p></td><td><p>Atividades de rádio - 6010-1/00; Atividades de produção cinematográfica, de vídeos e de programas de televisão - 5911-1; Atividades de pós-produção cinematográfica, de vídeos e de programas de televisão - 5912-0</p></td></tr><tr><td><p>Projetos audiovisuais transmidiáticos</p></td><td><p>Desenvolvimento de programas de computador sob encomenda - 6201-5/01;</p></td></tr><tr><td></td><td><p>Desenvolvimento e licenciamento de programas de computador não ­customizáveis - 6203­-1/­00;</p><p>Suporte técnico, manutenção e outros serviços em tecnologia da informação - 6209-1/00.</p></td></tr></table>
+
+<table><tr></tr><tr><td><p>MÚSICA</p></td></tr><tr><td><p>Segmento Cultural</p></td><td><p>CNAE</p></td></tr><tr><td><p>Música Erudita</p></td><td><p>Ensino de música - 8592-9/03</p></td></tr><tr><td></td><td><p>Produção musical - 9001-9/02</p></td></tr><tr><td></td><td><p>Gestão de espaços para artes cênicas, espetáculos e outras atividades artísticas - 9003-5/00</p></td></tr><tr><td></td><td><p>Fabricação de instrumentos musicais, peças e acessórios - 3220-5/00</p></td></tr><tr><td></td><td><p>Atividades de gravação de som e de edição de música - 5920-1/00</p></td></tr><tr><td><p>Música Instrumental</p></td><td><p>Ensino de música - 8592-9/03</p></td></tr><tr><td></td><td><p>Produção musical - 9001-9/02</p></td></tr><tr><td></td><td><p>Gestão de espaços para artes cênicas, espetáculos e outras atividades artísticas - 9003-5/00</p></td></tr><tr><td></td><td><p>Fabricação de instrumentos musicais, peças e acessórios - 3220-5/00</p></td></tr><tr><td></td><td><p>Atividades de gravação de som e de edição de música - 5920-1/00</p></td></tr><tr><td></td><td><p>Não se aplica</p></td></tr><tr><td></td><td><p>Ensino de música - 8592-9/03</p></td></tr><tr><td></td><td><p>Produção musical - 9001-9/02</p></td></tr><tr><td></td><td><p>Gestão de espaços para artes cênicas, espetáculos e outras atividades artísticas - 9003-5/00</p></td></tr><tr><td></td><td><p>Fabricação de instrumentos musicais, peças e acessórios - 3220-5/00</p></td></tr><tr><td></td><td><p>Atividades de gravação de som e de edição de música - 5920-1/00</p></td></tr><tr><td></td><td><p>Gestão de espaços para artes cênicas, espetáculos e outras atividades artísticas - 9003-5/00</p></td></tr><tr><td></td><td><p>Fabricação de instrumentos musicais, peças e acessórios - 3220-5/00</p></td></tr><tr><td></td><td><p>Atividades de gravação de som e de edição de música - 5920-1/00</p></td></tr><tr><td><p>Canto Coral</p></td><td><p>Ensino de música - 8592-9/03</p></td></tr><tr><td></td><td><p>Produção musical - 9001-9/02</p></td></tr><tr><td></td><td><p>Gestão de espaços para artes cênicas, espetáculos e outras atividades artísticas - 9003-5/00</p></td></tr><tr><td></td><td><p>Atividades de gravação de som e de edição de música - 5920-1/00</p></td></tr><tr><td><p>Música em geral</p></td><td><p>Ensino de música - 8592-9/03</p></td></tr><tr><td></td><td><p>Produção musical - 9001-9/02</p></td></tr><tr><td></td><td><p>Gestão de espaços para artes cênicas, espetáculos e outras atividades artísticas - 9003-5/00</p></td></tr><tr><td></td><td><p>Fabricação de instrumentos musicais, peças e acessórios - 3220-5/00</p></td></tr><tr><td></td><td><p>Atividades de gravação de som e de edição de música - 5920-1/00</p></td></tr><tr><td><p>HUMANIDADES</p></td></tr><tr><td><p>Segmento Cultural</p></td><td><p>CNAE</p></td></tr><tr><td><p>Aquisição, manutenção, preservação ou restauração de acervos bibliográficos e arquivísticos, compreendidos por livros ou obras de referência, impressos ou eletrônicos, de valor artístico, literário ou humanístico.</p></td><td><p>Atividades de bibliotecas e arquivos - 9101-5/00</p></td></tr><tr><td><p>Eventos Literários</p></td><td><p>Serviços de organização de feiras, congressos, exposições e festas - 8230-0/01</p></td></tr><tr><td></td><td><p>Edição de livros - 5811-5/00</p></td></tr><tr><td><p>Festival literário</p></td><td><p>Serviços de organização de feiras, congressos, exposições e festas - 8230-0/01</p></td></tr><tr><td></td><td><p>Edição de livros - 5811-5/00</p></td></tr><tr><td><p>Treinamento de pessoal, oficinas, demais ações de capacitação e aquisição de equipamentos para manutenção de acervos de bibliotecas públicas, museus, arquivos públicos e cinematecas.</p></td><td><p>Atividades de bibliotecas e arquivos - 9101-5/00</p></td></tr><tr><td></td><td><p>Ensino de arte e cultura não especificado anteriormente - 8592-9/99</p></td></tr><tr><td><p>Livros ou obras de referência, impressos ou eletrônicos, de valor artístico, literário ou humanístico</p></td><td><p>Atividades de artistas plásticos, jornalistas independentes e escritores - 9002-7/01</p></td></tr><tr><td></td><td><p>Edição integrada à impressão de livros - 5821-2/00</p></td></tr><tr><td></td><td><p>Edição de livros - 5811-5/00</p></td></tr><tr><td><p>Eventos e ações educativas de incentivo à leitura relacionadas aos livros de valor artístico, literário e humanístico</p></td><td><p>Serviços de organização de feiras, congressos, exposições e festas - 8230-0/01</p></td></tr><tr><td></td><td><p>Edição de livros - 5811-5/00</p></td></tr><tr><td><p>Periódicos e Outras Publicações</p></td><td><p>Atividades de artistas plásticos, jornalistas independentes e escritores - 9002-7/01</p></td></tr><tr><td></td><td><p>Edição integrada à impressão de revistas - 5823-9/00</p></td></tr><tr><td></td><td><p>Edição integrada à impressão de jornais não diários - 5822-1/02</p></td></tr><tr><td></td><td><p>Edição integrada à impressão de jornais diários - 5822-1/01</p></td></tr><tr><td></td><td><p>Edição de revistas - 5813-1/00</p></td></tr><tr><td></td><td><p>Edição de jornais não diários - 5812-3/02</p></td></tr><tr><td></td><td><p>Edição de jornais diários - 5812-3/01</p></td></tr><tr><td><p>Ações de formação e capacitação em geral incluindo gestão e empreendedorismo cultural.</p></td><td><p>Ensino de arte e cultura não especificado anteriormente - 8592-9/99</p></td></tr><tr><td></td><td><p>Outras atividades de ensino não especificadas anteriormente - 8599-6/99</p></td></tr><tr><td><p>Doação de acervos para bibliotecas públicas, museus, arquivos públicos, cinematecas, instituições públicas ou privadas acessíveis ao público em geral.</p></td><td><p>Não se aplica</p></td></tr><tr><td><p>Construção e manutenção de salas de teatro e cinema, que poderão funcionar também como centros culturais comunitários em municípios com menos de cem mil habitantes, conforme censo do IBGE.</p></td><td><p>Construção de obras-de-arte especiais - 4212-0/00</p></td></tr><tr><td></td><td><p>Gestão de espaços para artes cênicas, espetáculos e outras atividades artísticas - 9003-5/00</p></td></tr><tr><td></td><td><p>Serviços de engenharia - 7112-0/00</p></td></tr><tr><td></td><td><p>Serviços de arquitetura - 7111-1/00</p></td></tr><tr><td></td><td><p>Atividades técnicas relacionadas à engenharia e arquitetura não especificadas anteriormente - 7119-7/99</p></td></tr><tr><td><p>PATRIMÔNIO CULTURAL MATERIAL E IMATERIAL</p></td></tr><tr><td><p>Segmento Cultural</p></td><td><p>CNAE</p></td></tr><tr><td><p>Doações ou aquisições de acervos culturais em geral para museus, arquivos públicos, instituições e entidades culturais congêneres. </p></td><td><p>Não se aplica</p></td></tr><tr><td><p>Preservação, restauração, conservação, salvaguarda, identificação, registro, educação patrimonial e acervos do patrimônio cultural material e imaterial.</p></td><td></td></tr><tr><td><p>Ações de documentação ou digitalização de acervo, museológica, bibliográfica e arquivística; pesquisa museológica; sistematização de informação.</p></td><td><p>Atividades de bibliotecas e arquivos - 9101-5/00</p></td></tr><tr><td></td><td><p>Atividades de museus e de exploração de lugares e prédios históricos e atrações similares - 9102-3/01</p></td></tr><tr><td></td><td><p>Atividades de organizações associativas ligadas à cultura e a arte - 9493-6</p></td></tr><tr><td><p>Construção, preservação, restauração, manutenção, readequação ou revitalização de equipamentos culturais ou edificações destinadas a preservação de acervos de valor cultural.</p></td><td><p>Construção de obras-de-arte especiais - 4212-0/00</p></td></tr><tr><td></td><td><p>Serviços de engenharia - 7112-0/00</p></td></tr><tr><td></td><td><p>Serviços de arquitetura - 7111-1/00</p></td></tr><tr><td></td><td><p>Atividades técnicas relacionadas à engenharia e arquitetura não especificadas anteriormente - 7119-7/99</p></td></tr><tr><td></td><td><p>Serviços de desenho técnico relacionados à arquitetura e engenharia - 7119-7/03</p></td></tr><tr><td></td><td><p>Atividades de museus e de exploração de lugares e prédios históricos e atrações similares - 9102-3/01</p></td></tr><tr><td></td><td><p>Restauração e conservação de lugares e prédios históricos - 9102-3/02</p></td></tr><tr><td></td><td><p>Restauração de obras de arte - 9002-7/02</p></td></tr><tr><td></td><td><p>Atividades de bibliotecas e arquivos - 9101-5/00</p></td></tr><tr><td><p>Ações de segurança para preservação de patrimônio cultural ou de acervos</p></td><td><p>Atividades de museus e de exploração de lugares e prédios históricos e atrações similares - 9102-3/01</p></td></tr><tr><td></td><td><p>Atividades de bibliotecas e arquivos - 9101-5/00</p></td></tr><tr><td></td><td><p>Atividades de organizações associativas ligadas à cultura e a arte - 9493-6</p></td></tr><tr><td><p>Planos anuais de atividades de instituições dedicadas a preservação do patrimônio material, imaterial ou de acervos de valor cultural;</p></td><td><p>Atividades de museus e de exploração de lugares e prédios históricos e atrações similares - 9102-3/01</p></td></tr><tr><td></td><td><p>Atividades de bibliotecas e arquivos - 9101-5/00</p></td></tr><tr><td></td><td><p>Restauração e conservação de lugares e prédios históricos - 9102-3/02</p></td></tr><tr><td></td><td><p>Atividades de organizações associativas ligadas à cultura e a arte - 9493-6</p></td></tr><tr><td><p>Ações educativo-culturais, inclusive seminários, oficinas e palestras, visando a preservação do patrimônio material, imaterial ou de acervos de valor cultural.</p></td><td><p>Ensino de arte e cultura não especificado anteriormente - 8592-9/99</p></td></tr><tr><td></td><td><p>Outras atividades de ensino não especificadas anteriormente - 8599-6/99</p></td></tr><tr><td></td><td><p>Atividades de organizações associativas ligadas à cultura e a arte - 9493-6</p></td></tr><tr><td><p>Treinamento de pessoal ou aquisição de equipamentos para manutenção de acervos de museus, arquivos públicos e instituições congêneres; e</p></td><td><p>Atividades de bibliotecas e arquivos - 9101-5/00</p></td></tr><tr><td><p>Elaboração de projetos de arquitetura e urbanismo.</p></td><td><p>Serviços de engenharia - 7112-0/00</p></td></tr><tr><td></td><td><p>Serviços de arquitetura - 7111-1/00</p></td></tr><tr><td></td><td><p>Atividades técnicas relacionadas à engenharia e arquitetura não especificadas anteriormente - 7119-7/99</p></td></tr><tr><td></td><td><p>Serviços de desenho técnico relacionados à arquitetura e engenharia - 7119-7/03</p></td></tr><tr><td><p>Ações relativas a culturas indígenas;</p></td><td><p>Não se aplica</p></td></tr><tr><td><p>Ações relativas a culturas afrodescendentes;</p></td><td></td></tr><tr><td><p>Ações relativas a culturas tradicionais; </p></td><td></td></tr><tr><td><p>Gastronomia de valor cultural (típica brasileira);</p></td><td></td></tr><tr><td><p>Artesanato de valor cultural (origem tradicional);</p></td><td></td></tr><tr><td><p>Arquitetura de (reconhecido) valor cultural;</p></td><td></td></tr><tr><td><p>Outras ações de capacitação</p></td><td><p>Ensino de arte e cultura não especificado anteriormente - 8592-9/99</p></td></tr><tr><td></td><td><p>Outras atividades de ensino não especificadas anteriormente - 8599-6/99</p></td></tr><tr><td><p>Manutenção de equipamentos culturais em geral</p></td><td><p>Atividades de organizações associativas ligadas à cultura e a arte - 9493-6</p></td></tr><tr><td></td><td><p>Serviços de engenharia - 7112-0/00</p></td></tr><tr><td></td><td><p>Serviços de arquitetura - 7111-1/00</p></td></tr><tr><td></td><td><p>Atividades técnicas relacionadas à engenharia e arquitetura não especificadas anteriormente - 7119-7/99</p></td></tr><tr><td></td><td><p>Atividades de museus e de exploração de lugares e prédios históricos e atrações similares - 9102-3/01</p></td></tr><tr><td></td><td><p>Restauração e conservação de lugares e prédios históricos - 9102-3/02</p></td></tr><tr><td><p>MUSEU E MEMÓRIA</p></td></tr><tr><td><p>Segmento Cultural</p></td><td><p>CNAE</p></td></tr><tr><td><p>Aquisição de acervo</p></td><td><p>Atividades de bibliotecas e arquivos - 9101-5/00</p></td></tr><tr><td></td><td><p>Atividades de museus e de exploração de lugares e prédios históricos e atrações similares - 9102-3/01</p></td></tr><tr><td><p>Documentação</p></td><td><p>Atividades de bibliotecas e arquivos - 9101-5/00</p></td></tr><tr><td></td><td><p>Atividades de museus e de exploração de lugares e prédios históricos e atrações similares - 9102-3/01</p></td></tr><tr><td><p>Preservação/conservação (inclusive plano anual)</p></td><td><p>Atividades de museus e de exploração de lugares e prédios históricos e atrações similares - 9102-3/01</p></td></tr><tr><td></td><td><p>Restauração e conservação de lugares e prédios históricos - 9102-3/02</p></td></tr><tr><td></td><td><p>Atividades de organizações associativas ligadas à cultura e a arte - 9493-6</p></td></tr><tr><td><p>Segurança</p></td><td><p>Atividades de museus e de exploração de lugares e prédios históricos e atrações similares - 9102-3/01</p></td></tr><tr><td><p>Restauração</p></td><td><p>Restauração e conservação de lugares e prédios históricos - 9102-3/02</p></td></tr><tr><td></td><td><p>Restauração de obras de arte - 9002-7/02</p></td></tr><tr><td><p>Exposições/museografia</p></td><td><p>Atividades de museus e de exploração de lugares e prédios históricos e atrações similares - 9102-3/01</p></td></tr><tr><td></td><td><p>Atividades de organizações associativas ligadas à cultura e a arte - 9493-6</p></td></tr><tr><td><p>Pesquisa</p></td><td><p>Atividades de museus e de exploração de lugares e prédios históricos e atrações similares - 9102-3/01</p></td></tr><tr><td><p>Ação educativo-cultural</p></td><td><p>Ensino de arte e cultura não especificado anteriormente - 8592-9/99</p></td></tr><tr><td></td><td><p>Outras atividades de ensino não especificadas anteriormente - 8599-6/99</p></td></tr><tr><td><p>Sistemas de informação </p></td><td><p>Não se aplica</p></td></tr><tr><td><p>Espaços museais</p></td><td><p>Atividades de museus e de exploração de lugares e prédios históricos e atrações similares - 9102-3/01</p></td></tr><tr><td></td><td><p>Atividades de organizações associativas ligadas à cultura e a arte - 9493-6</p></td></tr><tr><td><p>Arquitetura (construção, restauração e/ou reforma do imóvel)</p></td><td><p>Construção de obras-de-arte especiais - 4212-0/00</p></td></tr><tr><td></td><td><p>Serviços de engenharia - 7112-0/00</p></td></tr><tr><td></td><td><p>Serviços de arquitetura - 7111-1/00</p></td></tr><tr><td></td><td><p>Atividades técnicas relacionadas à engenharia e arquitetura não especificadas anteriormente - 7119-7/99</p></td></tr><tr><td></td><td><p>Serviços de desenho técnico relacionados à arquitetura e engenharia - 7119-7/03</p></td></tr><tr><td></td><td><p>Restauração e conservação de lugares e prédios históricos - 9102-3/02</p></td></tr></table>

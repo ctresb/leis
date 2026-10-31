@@ -1,0 +1,36 @@
+---
+titulo: "RESOLUÇÃO - RE N° 3.350, DE 15 DE DEZEMBRO DE 2016(*)"
+orgao: "Ministério da Saúde/AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA/DIRETORIA DE CONTROLE E MONITORAMENTO SANITÁRIOS GERÊNCIA-GERAL DE INSPEÇÃO E FISCALIZAÇÃO SANITÁRIA"
+tipo: "Resolução"
+numero: "3350"
+data: 2016-12-15
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 19/12/2016, seção 1, p. 88"
+data_publicacao: 2016-12-19
+edicao: "242"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3-350-de-15-de-dezembro-de-2016-24785417"
+sha256_html_fonte: 08a13eddc19aa1a9ebdf2a8d8589f928acaeb9483c11ce681923945408b97434
+baixado_em: 2026-10-28
+---
+# RESOLUÇÃO - RE N° 3.350, DE 15 DE DEZEMBRO DE 2016(*)
+
+RESOLUÇÃO - RE N° 3.350, DE 15 DE DEZEMBRO DE 2016(\*)
+
+O Gerente-Geral de Inspeção e Fiscalização Sanitária no usodas atribuições que lhe foram conferidas pela Portaria nº 2.198, de 30de novembro de 2016, aliado ao disposto no art. 54, I, § 1º doRegimento Interno aprovado nos termos do Anexo I da Resolução daDiretoria Colegiada - RDC nº 61, de 3 de fevereiro de 2016;
+
+Considerando o cumprimento dos requisitos de Boas Práticasde Distribuição e/ou Armazenagem preconizados em legislação vigente,para a área de Medicamentos, resolve:
+
+**Art. 1º** Conceder à(s) empresa(s) constante(s) no anexo, aCertificação de Boas Práticas de Distribuição e/ou Armazenagem deMedicamentos.
+
+**Art. 2º** A presente Certificação terá validade de 2 (dois) anosa partir da sua publicação.
+
+**Art. 3°** Esta Resolução entra em vigor na data de sua publicação.
+
+MARCELO VOGLER DE MORAES
+
+(\*) Esta Resolução e o anexo a que se refere serão publicados emsuplemento à presente edição.
+
+MARCELO VOGLER DE MORAES
+
+Este conteúdo não substitui o publicado na versão certificada.

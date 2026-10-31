@@ -1,0 +1,144 @@
+{
+  "estado": "preparado_sem_aplicar",
+  "manifesto": "reguladores/_fonte/auditorias/dou-separacao-piloto-20261016/manifesto.json",
+  "sha256_manifesto": "a89eb448e7e5c98977cb48b240694b4449d122f75d1e81174c3353a0132ad724",
+  "script": "scripts/preparar_dou_separacao_piloto.py",
+  "sha256_script": "c52f84732964296236ad0298464f1de3a38d65c4b2e45919bad3330a83f558b8",
+  "arquivos": [
+    {
+      "path": "reguladores/_fonte/auditorias/dou-separacao-piloto-20261016/candidatos/portaria-alf-dca-n-36-de-21-de-julho-de-2025.md",
+      "sha256": "8fc4237e8ca370a7681b486b1f606a37d04ee279730d9ae13cfa71a640cbb983"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/dou-separacao-piloto-20261016/candidatos/portaria-alf-dca-n-37-de-24-de-julho-de-2025.md",
+      "sha256": "b4fe1554a40ccd870eca17aaa4eb892f7938de6367c35076cd236188c58777e9"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/dou-separacao-piloto-20261016/candidatos/resolucao-interna-anatel-n-460-de-4-de-julho-de-2025.md",
+      "sha256": "71e0edb49c5d609390a72171023665c415dea63eaf78d9d8e0d8d763f52f0569"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/dou-separacao-piloto-20261016/candidatos/resolucao-interna-anatel-n-461-de-4-de-julho-de-2025.md",
+      "sha256": "570a5b612a0175ffcc6105648b80c01405dd07cdf38aee8de3434db622bd63a9"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/dou-separacao-piloto-20261016/candidatos/resolucao-re-n-2-403-de-26-de-junho-de-2025.md",
+      "sha256": "92fc5bb8f5f15a533821dd9b7c435f5d81caa2a8e411729c3822b5d20e560785"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/dou-separacao-piloto-20261016/candidatos/resolucao-re-n-2-404-de-26-de-junho-de-2025.md",
+      "sha256": "161018dab01855abf896fee8b3f0db0cf5c06e151a40f4e83567006b7bf5c4e0"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/dou-separacao-piloto-20261016/dedup-2403-prova-editorial.json",
+      "sha256": "85d3c899fe2bb1e37b90315ce8bcdb20364ecc22d22b1fb8cc121a038e2eb98f"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/dou-separacao-piloto-20261016/delta-sequencia-anterior-candidatos.json",
+      "sha256": "1a9dd0de14d6d054b5d1cc4f97c3822a4ef2d061044d1e614d27f1bd6dc1f7f5"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/dou-separacao-piloto-20261016/entrada-revisada.json",
+      "sha256": "4a11cda05bf34ce9d7f0b4519eeb592c02d9879887215ba5157d5e21906f3436"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/dou-separacao-piloto-20261016/fonte-37019f38d3f6bb3d99d02119ce6bb67b428bf9622b09ac4b96c808dc24d80795.html.gz",
+      "sha256": "15273e02da4c1996234f3a75944ed5b07f6638757f13e40d28e119b52b9d8f21"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/dou-separacao-piloto-20261016/fonte-92039c5dc3c4876b5f8925d4b4a7e8438101ce13e52d18169b0e8591eda70e10.html.gz",
+      "sha256": "672a9c9f55cc8a40d117460c8329da8ab75bcd2880e5ae75d9ea5fe0d8b79ab9"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/dou-separacao-piloto-20261016/fonte-cca71e8d42403148d544b7d9b6e2ac5614ad720f092e88937391f7bdabfb7e4e.html.gz",
+      "sha256": "309a7f3ba865fd15cd39f0e1e70f213bfd8f4ede1bdde83784e7f6db1617272b"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/dou-separacao-piloto-20261016/fonte-d1734479223834b95fdbbd70de395696e51afe7d0e75068fe9a0e3bd85951a9b.html.gz",
+      "sha256": "63fc4bf67fd68ab50c9a75b1bfab1933d517363f7a69b391d366d7f59ebdc82e"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/dou-separacao-piloto-20261016/fragmentos/1857880b44cf9ef2b5168370d0ea32c97b8fa79a4aec321451c326ba2bbd0928.html",
+      "sha256": "1857880b44cf9ef2b5168370d0ea32c97b8fa79a4aec321451c326ba2bbd0928"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/dou-separacao-piloto-20261016/fragmentos/21a62717debe040dce0f53e4fc1a70937bb33e8a682a6465faf89b524e689f88.html",
+      "sha256": "21a62717debe040dce0f53e4fc1a70937bb33e8a682a6465faf89b524e689f88"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/dou-separacao-piloto-20261016/fragmentos/3aca20f93ebec6f1a6d320589e1432c5dc699bc21221ee6caaed48daa1eca8bc.html",
+      "sha256": "3aca20f93ebec6f1a6d320589e1432c5dc699bc21221ee6caaed48daa1eca8bc"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/dou-separacao-piloto-20261016/fragmentos/9ecfb1457c9df1d939ce70a426ea9c1c23b36003fbab636f19e6569a456f512b.html",
+      "sha256": "9ecfb1457c9df1d939ce70a426ea9c1c23b36003fbab636f19e6569a456f512b"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/dou-separacao-piloto-20261016/fragmentos/a62ac7359f224371da2e1e218aeca9375e4612e96d866a913586202d289456e7.html",
+      "sha256": "a62ac7359f224371da2e1e218aeca9375e4612e96d866a913586202d289456e7"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/dou-separacao-piloto-20261016/fragmentos/e671118c2446f0b0a4ff128c55d240eaaa91e3cd72fc169f936aa295077ab552.html",
+      "sha256": "e671118c2446f0b0a4ff128c55d240eaaa91e3cd72fc169f936aa295077ab552"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/dou-separacao-piloto-20261016/html2md-bb85371750359042e0636ae0adc206cb0c353c6b6586c8d46e60a5257633ed3c.py",
+      "sha256": "bb85371750359042e0636ae0adc206cb0c353c6b6586c8d46e60a5257633ed3c"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/dou-separacao-piloto-20261016/manifesto-congelamento-anterior-61e65a11b51986bd6b1c7510c50feaa98f8a87aed00ac315fd5d64109b8a0993.json",
+      "sha256": "61e65a11b51986bd6b1c7510c50feaa98f8a87aed00ac315fd5d64109b8a0993"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/dou-separacao-piloto-20261016/manifesto.json",
+      "sha256": "a89eb448e7e5c98977cb48b240694b4449d122f75d1e81174c3353a0132ad724"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/dou-separacao-piloto-20261016/md-anterior-5aaa46c2c800171657234957262fab3d0844943c02257f6abde620e9a140c0b6.md.gz",
+      "sha256": "94057036dfedb72dc284ec36d54f5718049ca3fabd6162ef83bd1b2b701388b0"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/dou-separacao-piloto-20261016/md-anterior-6d689ceabfebd1e0a1b8f43fa85d87dc45f29672fd7020fa034e6cb559a1b642.md.gz",
+      "sha256": "3545f6616420e7959aa6df7f157f6781ee833026ba080b42580d8f0d6c914d22"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/dou-separacao-piloto-20261016/md-anterior-82dc2e7843090b42bc33e0e2a53c3fda18a68c8ad9b8c814d16ed551f2cd4697.md.gz",
+      "sha256": "30351f9f3705ac9f640167f9e2e75d444e19f2d456a329ddbd806a4461a1ab79"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/dou-separacao-piloto-20261016/md-anterior-e77aea67171679e0c0ccfe6785e2d8eb9936946e695dbf1c72df264afd6cb217.md.gz",
+      "sha256": "d6725b093209a7b24769d87363c64d4986dd5aa1b60800d56a63cbb039b7d606"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/dou-separacao-piloto-20261016/presenca-head.json",
+      "sha256": "a22e0e520fd5786961353332b3c8cc37b879b3caa0f7ccc0a13394ae4fab932b"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/dou-separacao-piloto-20261016/prova-sequencia-fonte.json",
+      "sha256": "930c1626c405e882ac09f27bbf265413801de261efd75d66309b3c34227d3d9d"
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/dou-separacao-piloto-20261016/validacao-piloto.json",
+      "sha256": "ae0fbc0fa1005c82f038b4712320a3e8e89eaa5275be2b22f982d83557130c7d"
+    },
+    {
+      "path": "scripts/preparar_dou_separacao_piloto.py",
+      "sha256": "c52f84732964296236ad0298464f1de3a38d65c4b2e45919bad3330a83f558b8"
+    }
+  ],
+  "validacao": {
+    "replay_auditar": true,
+    "formato_6_zero_erros_zero_avisos": true,
+    "fonte_fragmentos": true,
+    "sequencia_anterior_candidatos": true,
+    "gates_negativos_funcao_real": 5,
+    "http": 0,
+    "aplicados": 0
+  },
+  "saldo_publico": null,
+  "limites": [
+    "Somente IDs0,6,324; não autoriza206fontes nem decisões individuais.",
+    "Dedup exige identidade própria e corpo/estrutura; caso2403 com régua editorial retido.",
+    "Delta3→6 é estrutural do worktree;7paths únicos ausentes emHEAD112ce2d60b337b7f953e63263fa79aa16ac185be; saldo publicado depende do index/lote."
+  ]
+}

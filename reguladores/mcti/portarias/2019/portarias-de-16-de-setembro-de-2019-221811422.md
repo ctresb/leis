@@ -1,0 +1,48 @@
+---
+titulo: "PORTARIAS DE 16 DE SETEMBRO DE 2019"
+orgao: "Ministério da Ciência, Tecnologia, Inovações e Comunicações/Secretaria de Radiodifusão/Departamento de Radiodifusão Educativa, Comunitária e de Fiscalização"
+tipo: "Portaria"
+numero: ""
+data: ""
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 15/10/2019, seção 1, p. 20"
+data_publicacao: 2019-10-15
+edicao: "200"
+fonte: "https://www.in.gov.br/web/dou/-/portarias-de-16-de-setembro-de-2019-221811422"
+sha256_html_fonte: 0f26f648a9a40c9dddbeb9b4def8ddb64c33c0afeedaf56d6a2d39438749dd70
+baixado_em: 2026-10-27
+---
+# PORTARIAS DE 16 DE SETEMBRO DE 2019
+
+PORTARIAS DE 16 DE SETEMBRO DE 2019
+
+O DIRETOR DO DEPARTAMENTO DE RADIODIFUSÃO EDUCATIVA, COMUNITÁRIA E DE FISCALIZAÇÃO, no uso das atribuições que lhe confere o artigo 46, X do Regimento Interno da Secretaria de Radiodifusão, aprovado pela Portaria MCTIC nº 217, de 25 de janeiro de 2019, e tendo em vista o que consta no processo abaixo, resolve:
+
+**Art. 1º** Aplicar às Entidades, abaixo relacionadas, a penalidade de multa.
+
+**Art. 2º** Estas Portarias entram em vigor na data de suas publicações.
+
+<table><tr></tr><tr><td><p>N° do Processo</p></td><td><p>Entidade</p></td><td><p>Serviço</p></td><td><p>Município</p></td><td><p>UF</p></td><td><p>Sanção</p></td><td><p>Valor (R$)</p></td><td><p>Enquadramento Legal</p></td><td><p>Portaria</p></td><td><p>Embasamento da Portaria de Multa</p></td></tr><tr><td><p>01250.008336/2017</p></td><td><p>Organização Cultural E Ecológica De Missal (Orcemis)</p></td><td><p>RADCOM</p></td><td><p>Missal</p></td><td><p>PR</p></td><td><p>Multa</p></td><td><p>935,06</p></td><td><p>Art. 11 da Lei n° 9.612/98.</p></td><td><p>Portaria DECEF n° 949 de 16/09/2019</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 294/2015</p></td></tr><tr><td><p>01250.009055/2017</p></td><td><p>Associação Comunitaria Barra - Cordense</p></td><td><p>RADCOM</p></td><td><p>Barra do Corda</p></td><td><p>MA</p></td><td><p>Multa</p></td><td><p>1.870,13</p></td><td><p>Art. 11 da Lei n° 9.612/98.</p></td><td><p>Portaria DECEF n° 950 de 16/09/2019</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 294/2015</p></td></tr><tr><td><p>01250.015095/2017</p></td><td><p>Associação Comunitária Calmonense</p></td><td><p>RADCOM</p></td><td><p>Miguel Calmon</p></td><td><p>BA</p></td><td><p>Multa</p></td><td><p>935,06</p></td><td><p>Art. 11 da Lei n° 9.612/98.</p></td><td><p>Portaria DECEF n° 951 de 16/09/2019</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 294/2015</p></td></tr><tr><td><p>01250.016806/2017</p></td><td><p>Associação Artística Virtulino Antônio Mairink - Jovens Unidos De Iguaba Grande</p></td><td><p>RADCOM</p></td><td><p>Iguaba Grande</p></td><td><p>RJ</p></td><td><p>Multa</p></td><td><p>935,06</p></td><td><p>Art. 11 da Lei n° 9.612/98.</p></td><td><p>Portaria DECEF n° 953 de 16/09/2019</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 294/2015</p></td></tr><tr><td><p>01250.028245/2017</p></td><td><p>Associação Dos Moradores Da Rua Medina E Adjacencias</p></td><td><p>RADCOM</p></td><td><p>Nanuque</p></td><td><p>MG</p></td><td><p>Multa</p></td><td><p>935,06</p></td><td><p>Art. 11 da Lei n° 9.612/98.</p></td><td><p>Portaria DECEF n° 954 de 16/09/2019</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 294/2015</p></td></tr><tr><td><p>01250.065631/2017</p></td><td><p>Associação Família Fonte De Vida</p></td><td><p>RADCOM</p></td><td><p>Guanambi</p></td><td><p>BA</p></td><td><p>Multa</p></td><td><p>935,06</p></td><td><p>Art. 11 da Lei n° 9.612/98.</p></td><td><p>Portaria DECEF n° 955 de 16/09/2019</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 294/2015</p></td></tr><tr><td><p>01250.065745/2017</p></td><td><p>Associação Comunitária E Cultural De Maravilha - Alagoas</p></td><td><p>RADCOM</p></td><td><p>Maravilha</p></td><td><p>AL</p></td><td><p>Multa</p></td><td><p>935,06</p></td><td><p>Art. 11 da Lei n° 9.612/98.</p></td><td><p>Portaria DECEF n° 956 de 16/09/2019</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 294/2015</p></td></tr></table>
+
+O DIRETOR DO DEPARTAMENTO DE RADIODIFUSÃO EDUCATIVA, COMUNITÁRIA E DE FISCALIZAÇÃO, no uso das atribuições que lhe confere o artigo 46, X do Regimento Interno da Secretaria de Radiodifusão, aprovado pela Portaria MCTIC nº 217, de 25 de janeiro de 2019, e tendo em vista o que consta no processo abaixo, resolve:
+
+**Art. 1º** Arquivar os processos sem aplicação de sanção.
+
+Art. Estas Portarias entram em vigor na data de suas publicações.
+
+<table><tr></tr><tr><td><p>N° do Processo</p></td><td><p>Entidade</p></td><td><p>Serviço</p></td><td><p>Município</p></td><td><p>UF</p></td><td><p>Portaria</p></td></tr><tr><td><p>53900.040098/2016</p></td><td><p>Prefeitura Municipal De São João Del Rei</p></td><td><p>RTV</p></td><td><p>São João del Rei</p></td><td><p>MG</p></td><td><p>Portaria DECEF n° 1361 de 16/09/2019</p></td></tr><tr><td><p>53900.040041/2016</p></td><td><p>Associação Comunitária E Educacional De Pirapora</p></td><td><p>RTV</p></td><td><p>Pirapora</p></td><td><p>MG</p></td><td><p>Portaria DECEF n° 1364 de 16/09/2019</p></td></tr><tr><td><p>53900.039313/2016</p></td><td><p>Televisão Independente De São José Do Rio Preto Ltda</p></td><td><p>RTV</p></td><td><p>Congonhas</p></td><td><p>MG</p></td><td><p>Portaria DECEF n° 1365 de 16/09/2019</p></td></tr><tr><td><p>53000.052157/2013</p></td><td><p>Prefeitura Municipal De Lajeado</p></td><td><p>RTV</p></td><td><p>Lajeado</p></td><td><p>RS</p></td><td><p>Portaria DECEF n° 1366 de 16/09/2019</p></td></tr><tr><td><p>53900.053268/2016</p></td><td><p>Tv Maranhão Central Ltda</p></td><td><p>RTV</p></td><td><p>Presidente Dutra</p></td><td><p>MA</p></td><td><p>Portaria DECEF n° 1367 de 16/09/2019</p></td></tr><tr><td><p>01250.007697/2016</p></td><td><p>Rede Santanense De Comunicação Ltda</p></td><td><p>RTV</p></td><td><p>Macapá</p></td><td><p>AP</p></td><td><p>Portaria DECEF n° 1368 de 16/09/2019</p></td></tr><tr><td><p>01250.031842/2017</p></td><td><p>Comunicações Dunamis Ltda</p></td><td><p>RTV</p></td><td><p>Campo Grande</p></td><td><p>MS</p></td><td><p>Portaria DECEF n° 1369 de 16/09/2019</p></td></tr><tr><td><p>01250.038975/2017</p></td><td><p>Jet Radiodifusão Ltda</p></td><td><p>RTV</p></td><td><p>Batalha</p></td><td><p>PI</p></td><td><p>Portaria DECEF n° 1370 de 16/09/2019</p></td></tr><tr><td><p>01250.050882/2017</p></td><td><p>Televisão Tambaú Ltda</p></td><td><p>RTV</p></td><td><p>João Pessoa</p></td><td><p>PB</p></td><td><p>Portaria DECEF n° 1371 de 16/09/2019</p></td></tr><tr><td><p>01250.016246/2017</p></td><td><p>Sistema Alecrim De Comunicações Ltda</p></td><td><p>RTV</p></td><td><p>Caxias</p></td><td><p>MA</p></td><td><p>Portaria DECEF n° 1373 de 16/09/2019</p></td></tr><tr><td><p>01250.016201/2017</p></td><td><p>Radiodifusão E Tv Caxias Limitada</p></td><td><p>RTV</p></td><td><p>Caxias</p></td><td><p>MA</p></td><td><p>Portaria DECEF n° 1374 de 16/09/2019</p></td></tr><tr><td><p>01250.028616/2017</p></td><td><p>Televisão Independente De São José Do Rio Preto</p></td><td><p>RTV</p></td><td><p>Itaituba</p></td><td><p>PA</p></td><td><p>Portaria DECEF n° 1375 de 16/09/2019</p></td></tr><tr><td><p>53000.028061/2013</p></td><td><p>Associacao De Moradores Da Praia Do Canto</p></td><td><p>RADCOM</p></td><td><p>Vitória</p></td><td><p>ES</p></td><td><p>Portaria DECEF n° 4671 de 16/09/2019</p></td></tr><tr><td><p>53000.049960/2013</p></td><td><p>Associacao Comunitaria Unidos Por Faxinal</p></td><td><p>RADCOM</p></td><td><p>Faxinal dos Guedes</p></td><td><p>SC</p></td><td><p>Portaria DECEF n° 4672 de 16/09/2019</p></td></tr><tr><td><p>53000.049976/2013</p></td><td><p>Associação Comunitária E De Defesa Do Ecossistema Da Bacia Do Rio Araguaia</p></td><td><p>RADCOM</p></td><td><p>Aruanã</p></td><td><p>GO</p></td><td><p>Portaria DECEF n° 4673 de 16/09/2019</p></td></tr></table>
+
+MARCUS VINÍCIUS PAOLUCCI
+
+PORTARIAS DE 17 DE SETEMBRO DE 2019
+
+O DIRETOR DO DEPARTAMENTO DE RADIODIFUSÃO EDUCATIVA, COMUNITÁRIA E DE FISCALIZAÇÃO, no uso das atribuições que lhe confere o artigo 46, X do Regimento Interno da Secretaria de Radiodifusão, aprovado pela Portaria MCTIC nº 217, de 25 de janeiro de 2019, e tendo em vista o que consta no processo abaixo, resolve:
+
+**Art. 1º** Aplicar às Entidades, abaixo relacionadas, a penalidade de multa e/ou advertência..
+
+**Art. 2º** Estas Portarias entram em vigor na data de suas publicações.
+
+<table><tr></tr><tr><td><p>N° do Processo</p></td><td><p>Entidade</p></td><td><p>Serviço</p></td><td><p>Município</p></td><td><p>UF</p></td><td><p>Sanção</p></td><td><p>Valor (R$)</p></td><td><p>Enquadramento Legal</p></td><td><p>Portaria</p></td><td><p>Embasamento da Portaria de Multa</p></td></tr><tr><td><p>53000.015515/2014</p></td><td><p>Associação Cultural E Desportiva De Sao Bento</p></td><td><p>RADCOM</p></td><td><p>São Bento</p></td><td><p>MA</p></td><td><p>Multa e advertência</p></td><td><p>1.028,10</p></td><td><p>Art. 40, VII, XII e XV do Decreto n° 2.615/98</p></td><td><p>Portaria DECEF n° 1416 de 17/09/2019</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53569.003346/2014</p></td><td><p>Fundação Radio Fm Educadora Itaguary N. S. Da Conceição</p></td><td><p>RADCOM</p></td><td><p>São Sebastião da Boa Vista</p></td><td><p>PA</p></td><td><p>Multa</p></td><td><p>1.427,91</p></td><td><p>Item 34, do art. 122, do Decreto nº 52.795/63, e art. 2º, da Portaria MC nº 26/96.</p></td><td><p>Portaria DECEF n° 1512 de 17/09/2019</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr></table>
+
+MARCUS VINÍCIUS PAOLUCCI

@@ -1,0 +1,436 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.296, DE 27 DE AGOSTO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Segunda Diretoria/Gerência-Geral de Medicamentos e Produtos Biológicos"
+tipo: "Resolução"
+numero: "3296"
+data: 2020-08-27
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 31/08/2020, seção 1, p. 149"
+data_publicacao: 2020-08-31
+edicao: "167"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.296-de-27-de-agosto-de-2020-274892890"
+sha256_html_fonte: 238f0500684d8bf83b2b770f92800866bc88d41404564393b1f092d100e9c993
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 3.296, DE 27 DE AGOSTO DE 2020
+
+RESOLUÇÃO-RE Nº 3.296, DE 27 DE AGOSTO DE 2020
+
+O Gerente-Geral de Medicamentos e Produtos Biológicos, no uso das atribuições que lhe confere o art. 130, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º** Conceder a revalidação automática do registro dos medicamentos similares, genéricos, novos, específicos, dinamizados, fitoterápicos, biológicos e dos Insumos Farmacêuticos Ativos (IFAs) sob o nº de processos constantes do anexo desta Resolução, nos termos do § 6º do art. 12 da Lei nº. 6.360, de 1976.
+
+**Art. 2º** A revalidação abrange os pedidos que ainda não foram objetos de qualquer manifestação por parte da Anvisa.
+
+**Parágrafo único.** Não constam do anexo desta Resolução os expedientes protocolados fora do prazo estabelecido nos termos da Lei nº. 6360, de 1976.
+
+**Art. 3º** A revalidação automática não impedirá a continuação da análise da petição de renovação de registro requerida, podendo a Administração, se for o caso, indeferir o pedido de renovação e cancelar o registro que tenha sido automaticamente revalidado, ou ratificá-lo deferindo o pedido de renovação.
+
+**Art. 4º** Os medicamentos revalidados podem ser consultados, assim como suas apresentações válidas no link: https://consultas.anvisa.gov.br/#/medicamentos/
+
+**Art. 5º** Será considerada a data de revalidação do registro contada a partir do final da vigência do período de validade anterior, de modo que não há interrupção na regularidade do registro.
+
+**Art. 6º** Esta Resolução entra em vigor na data de sua publicação.
+
+GUSTAVO MENDES LIMA SANTOS
+
+## ANEXO
+
+RAZÃO SOCIAL
+
+NOME DO PRODUTO VALIDADE DO REGISTRO
+
+NÚMERO DO PROCESSO NÚMERO DO EXPEDIENTE
+
+----------------------------
+
+ABBOTT LABORATÓRIOS DO BRASIL LTDA - 56998701000116
+
+CREON 01/2030
+
+25351260931201141 0414492199
+
+----------------------------
+
+Aché Laboratórios Farmacêuticos S.A - 60659463002992
+
+HEMAX ERITRON 05/2030
+
+25351693799201852 2664093197
+
+----------------------------
+
+AMGEN BIOTECNOLOGIA DO BRASIL LTDA. - 18774815000193
+
+NPLATE 04/2030
+
+25351142776201529 0576483191
+
+----------------------------
+
+AMGEN BIOTECNOLOGIA DO BRASIL LTDA. - 18774815000193
+
+VECTIBIX 04/2030
+
+25351137296201526 0576529193
+
+----------------------------
+
+AMGEN BIOTECNOLOGIA DO BRASIL LTDA. - 18774815000193
+
+NEULASTIM 08/2030
+
+25351471357201503 2263912198
+
+----------------------------
+
+AMGEN BIOTECNOLOGIA DO BRASIL LTDA. - 18774815000193
+
+ARANESP 08/2030
+
+25351434164201554 2525373195
+
+----------------------------
+
+BAYER S.A. - 18459628000115
+
+XOFIGO 07/2030
+
+25351056733201354 3175176198
+
+----------------------------
+
+BLAU FARMACÊUTICA S.A. - 58430828000160
+
+FILGRASTINE 03/2030
+
+25351193564200206 2197780191
+
+----------------------------
+
+BLAU FARMACÊUTICA S.A. - 58430828000160
+
+ALFAEPOETINA 04/2030
+
+25351195167200261 2422763193
+
+----------------------------
+
+BLAU FARMACÊUTICA S.A. - 58430828000160
+
+BLAUBIMAX 06/2030
+
+250000043319962 2650458198
+
+----------------------------
+
+CELLTRION HEALTHCARE DISTRIBUICAO DE PRODUTOS FARMACEUTICOS DOS BRASIL LTDA - 05452889000161
+
+Remsima 04/2030
+
+25351635089201297 2234746191
+
+----------------------------
+
+COMISSAO NACIONAL DE ENERGIA NUCLEAR - 00402552000126
+
+RADIOGLIC 06/2030
+
+25351180226201494 0044010208
+
+----------------------------
+
+CSL BEHRING COMÉRCIO DE PRODUTOS FARMACÊUTICOS LTDA - 62969589000198
+
+RHOPHYLAC 01/2030
+
+25351708521200815 0390147195
+
+----------------------------
+
+CSL BEHRING COMÉRCIO DE PRODUTOS FARMACÊUTICOS LTDA - 62969589000198
+
+Alburex 20 02/2030
+
+25351641622200807 0469664196
+
+----------------------------
+
+CSL BEHRING COMÉRCIO DE PRODUTOS FARMACÊUTICOS LTDA - 62969589000198
+
+TETANOGAMMA 03/2030
+
+2599100838780 0559699198
+
+----------------------------
+
+CSL BEHRING COMÉRCIO DE PRODUTOS FARMACÊUTICOS LTDA - 62969589000198
+
+BIOSTATE 04/2030
+
+25351156942200858 1916054192
+
+----------------------------
+
+CSL BEHRING COMÉRCIO DE PRODUTOS FARMACÊUTICOS LTDA - 62969589000198
+
+FLUAD 03/2030
+
+25351.633984/2019-79 2130650198
+
+----------------------------
+
+FUNDAÇÃO OSWALDO CRUZ - 33781055000135
+
+ALFAEPOETINA 04/2030
+
+25351023036200525 2005732196
+
+----------------------------
+
+FUNDAÇÃO OSWALDO CRUZ - 33781055000135
+
+VACINA ROTAVÍRUS HUMANO G1P[8] (ATENUADA) 05/2030
+
+25351209199200846 2272966196
+
+----------------------------
+
+FUNDAÇÃO OSWALDO CRUZ - 33781055000135
+
+Vacina sarampo, caxumba, rubéola e varicela (atenuada) 07/2030
+
+25351651678201417 3040642191
+
+----------------------------
+
+FUNDAÇÃO OSWALDO CRUZ - 33781055000135
+
+BIO MANGUINHOS INFLIXIMABE 06/2030
+
+25351264986201527 3359393191
+
+----------------------------
+
+GEYER MEDICAMENTOS S.A. - 92670801000182
+
+BIOVICERIN 01/2030
+
+2599201319652 1812464190
+
+----------------------------
+
+GLAXOSMITHKLINE BRASIL LTDA - 33247743000110
+
+ROTARIX 07/2030
+
+25351084741200418 2332977197
+
+----------------------------
+
+INSTITUTO BUTANTAN - 61821344000156
+
+VACINA PAPILOMAVIRUS HUMANO 6, 11, 16 E 18 (RECOMBINANTE) 03/2030
+
+25351789275201446 2099199191
+
+----------------------------
+
+JANSSEN-CILAG FARMACÊUTICA LTDA - 51780468000187
+
+SYLVANT 05/2030
+
+25351310710201486 1940273192
+
+----------------------------
+
+LABORATÓRIO QUÍMICO FARMACÊUTICO BERGAMO LTDA - 61282661000141
+
+BOTULIFT 01/2030
+
+25351395509200836 0587309196
+
+----------------------------
+
+LABORATÓRIO QUÍMICO FARMACÊUTICO BERGAMO LTDA - 61282661000141
+
+HORMOTROP 01/2030
+
+250000210889810 0596074196
+
+----------------------------
+
+MERCK S/A - 33069212000184
+
+PERGOVERIS 07/2030
+
+25351532814200913 3471087196
+
+----------------------------
+
+NATULAB LABORATÓRIO S.A - 02456955000183
+
+FLORATIL 02/2030
+
+25351134035201919 0188619193
+
+----------------------------
+
+NOVARTIS BIOCIENCIAS S.A - 56994502000130
+
+Ilaris 02/2030
+
+25351129584200996 0587277194
+
+----------------------------
+
+NOVO NORDISK FARMACÊUTICA DO BRASIL LTDA - 82277955000155
+
+LEVEMIR 02/2030
+
+25351051219200450 0633014192
+
+----------------------------
+
+NOVO NORDISK FARMACÊUTICA DO BRASIL LTDA - 82277955000155
+
+VICTOZA 04/2030
+
+25351765063200844 2110694191
+
+----------------------------
+
+OCTAPHARMA BRASIL LTDA - 02552927000160
+
+OCTALBIN 03/2030
+
+250000035469560 2070144196
+
+----------------------------
+
+OCTAPHARMA BRASIL LTDA - 02552927000160
+
+OCTAGAM 07/2030
+
+250000072559640 2624571190
+
+----------------------------
+
+PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. - 33009945000123
+
+GAZYVA 03/2030
+
+25351430353201303 0642218197
+
+----------------------------
+
+PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. - 33009945000123
+
+AVASTIN 05/2030
+
+25351255514200483 2366953195
+
+----------------------------
+
+PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. - 33009945000123
+
+PULMOZYME 08/2030
+
+250000132499389 3520011191
+
+----------------------------
+
+SANOFI MEDLEY FARMACÊUTICA LTDA - 10588595001092
+
+APIDRA 02/2030
+
+25351.189999/2019-96 0486916198
+
+----------------------------
+
+SANOFI MEDLEY FARMACÊUTICA LTDA - 10588595001092
+
+FluQuadri 01/2030
+
+25351189715201961 0368834198
+
+----------------------------
+
+SANOFI MEDLEY FARMACÊUTICA LTDA - 10588595001092
+
+FABRAZYME 04/2030
+
+25351189509201951 1965710192
+
+----------------------------
+
+SANOFI MEDLEY FARMACÊUTICA LTDA - 10588595001092
+
+THYROGEN 04/2030
+
+25351189441201919 2008632196
+
+----------------------------
+
+SANOFI MEDLEY FARMACÊUTICA LTDA - 10588595001092
+
+TOUJEO 06/2030
+
+25351189466201912 2493806198
+
+----------------------------
+
+TAKEDA PHARMA LTDA. - 60397775000174
+
+ENTYVIO 05/2030
+
+25351596045201401 2236422196
+
+----------------------------
+
+TAKEDA PHARMA LTDA. - 60397775000174
+
+BRONCHO-VAXOM 08/2030
+
+250000137689011 3520140191
+
+----------------------------
+
+TEVA FARMACÊUTICA LTDA. - 05333542000108
+
+TEVAGRASTIM 02/2030
+
+25351014128200786 0505882191
+
+----------------------------
+
+TEVA FARMACÊUTICA LTDA. - 05333542000108
+
+LONQUEX 04/2030
+
+25351702966201326 0635166192
+
+----------------------------
+
+TRB PHARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA LTDA - 61455192000115
+
+SYGEN 06/2030
+
+2500102678084 3446644194
+
+----------------------------
+
+WYETH INDÚSTRIA FARMACÊUTICA LTDA - 61072393000133
+
+SOMAVERT 04/2030
+
+25351190293201977 2254167195
+
+----------------------------
+
+WYETH INDÚSTRIA FARMACÊUTICA LTDA - 61072393000133
+
+PREVENAR 13 04/2030
+
+25351422219201925 2365566196

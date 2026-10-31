@@ -1,0 +1,80 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 4.503, DE 4 DE NOVEMBRO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Segunda Diretoria/Gerência-Geral de Alimentos"
+tipo: "Resolução"
+numero: "4503"
+data: 2020-11-04
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 09/11/2020, seção 1, p. 75"
+data_publicacao: 2020-11-09
+edicao: "213"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.503-de-4-de-novembro-de-2020-286970022"
+sha256_html_fonte: 0c4d1f83a530bca63c467b0489c84b00c9ee9d2e755a22efe10962b4a441bc42
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 4.503, DE 4 DE NOVEMBRO DE 2020
+
+RESOLUÇÃO-RE Nº 4.503, DE 4 DE NOVEMBRO DE 2020
+
+A Gerente-Geral de Alimentos, no uso das atribuições que lhe confere o art. 126, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:
+
+**Art.1º** Indeferir as petições de avaliação relacionadas à Gerência-Geral de Alimentos, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+THALITA ANTONY DE SOUZA LIMA
+
+## ANEXO
+
+RELATÓRIO DE CONFERÊNCIA DE ALIMENTOS. PUBLICAÇÃO NR.: 700720
+
+NOME DA EMPRESA CNPJ
+
+NOME DO PRODUTO UF
+
+NUMERO DO PROCESSO NUMERO DE REGISTRO
+
+EMBALAGEM VALIDADE PRODUTO
+
+CLASS/CAT DESCRIÇÃO VALIDADE REGISTRO
+
+MARCA DO PRODUTO
+
+ASSUNTO PETIÇÃO
+
+---------------------------------------
+
+INFINITI PHARMACEUTICAL COMERCIAL E DISTRIBUIDORA DE SUPLEMENTOS MINERAIS LTDA EPP 10.976.750/0001-57
+
+EXTRATO DE WITHANIA SOMNIFERA
+
+25351.045344/2020-41
+
+NOVOS ALIMENTOS E NOVOS INGREDIENTES
+
+4109 AVALIAÇÃO DE SEGURANÇA E EFICÁCIA DE PROPRIEDADES FUNCIONAL OU DE SAÚDE DE NOVOS ALIMENTOS E NOVOS INGREDIENTES, EXCETO PROBIÓTICOS E ENZIMAS
+
+---------------------------------------
+
+LABORATÓRIO GILEADE LAB LTDA - EPP 13.802.488/0001-12
+
+MACA ANDINA
+
+25351.491295/2019-81
+
+NOVOS ALIMENTOS E NOVOS INGREDIENTES
+
+4109 AVALIAÇÃO DE SEGURANÇA E EFICÁCIA DE PROPRIEDADES FUNCIONAL OU DE SAÚDE DE NOVOS ALIMENTOS E NOVOS INGREDIENTES, EXCETO PROBIÓTICOS E ENZIMAS
+
+---------------------------------------
+
+VIDA FORTE INDUSTRIA E COMERCIO DE PRODUTOS NATURAIS 07.455.576/0001-92
+
+KLUYVEROMYCES MARXIANUS B0399
+
+25351.452797/2019-96
+
+ALIMENTOS C/ALEGAÇOES DE PROPRIEDADES FUNCIONAL E OU DE SAUDE
+
+4107 AVALIAÇÃO DE SEGURANÇA E EFICÁCIA DE PROPRIEDADES FUNCIONAL OU DE SAÚDE DE PROBIÓTICOS

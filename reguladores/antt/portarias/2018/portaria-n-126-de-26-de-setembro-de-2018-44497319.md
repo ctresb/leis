@@ -1,0 +1,32 @@
+---
+titulo: "PORTARIA Nº 126, DE 26 DE SETEMBRO DE 2018"
+orgao: "Ministério dos Transportes, Portos e Aviação Civil/Agência Nacional de Transportes Terrestres/Superintendência de Serviços de Transportes de Passageiros"
+tipo: "Portaria"
+numero: "126"
+data: 2018-09-26
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 09/10/2018, seção 1, p. 101"
+data_publicacao: 2018-10-09
+edicao: "195"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-126-de-26-de-setembro-de-2018-44497319"
+sha256_html_fonte: 5b2a1beab7502d5f4bbe4ee721994f31f290f0fa36cadd548adfea78dc8f3b64
+baixado_em: 2026-10-27
+---
+# PORTARIA Nº 126, DE 26 DE SETEMBRO DE 2018
+
+PORTARIA Nº 126, DE 26 DE SETEMBRO DE 2018
+
+O Superintendente de Serviços de Transportes de Passageiros, no uso de suas atribuições, previstas no art. 40 da Resolução nº 5810, de 03 de maio de 2018, fundamentado no que dispõe o art. 6 da Resolução nº 4.998, de 13 de janeiro de 2016 e no que consta do processo n° 50501.326878/2018-37;
+
+Considerando os prazos estabelecidos no art. 3º, inciso I, da Resolução n° 4.998/2016 para autorização de utilização de veículo de terceiros, resolve:
+
+**Art. 1º** Autorizar a empresa AUTO VIAÇÃO CATARINENSE LTDA., CNPJ 82.647.884/0001-35, a utilizar os veículos constantes da tabela subsequente, nos períodos de 10 a 17 de outubro de 2018, de 01 a 22 de novembro de 2018 e de 15 de dezembro de 2018 a 10 de janeiro de 2019, nas operações de todas as linhas interestaduais ativas sob sua responsabilidade, bem como, caso necessário, a utilização dos motoristas das empresas cedentes:
+
+<table><tr></tr><tr><td><p>Autorizatária: S.L. DE JESUS TRANSPORTES EIRELI - ME</p><p>CNPJ: 22.493.394/0001-08</p></td></tr><tr><td><p>Veículos: MFS-2526 e MFH-6898</p></td></tr></table>
+
+**Art. 2º** O porte de cópia da Portaria no veículo é obrigatório, quando da operação das linhas.
+
+**Art. 3º** Esta Portaria entra em vigor na data de sua publicação.
+
+JOÃO PAULO DE SOUZA

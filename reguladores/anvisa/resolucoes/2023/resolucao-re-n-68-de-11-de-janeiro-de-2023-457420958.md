@@ -1,0 +1,194 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 68, DE 11 DE JANEIRO DE 2023"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "68"
+data: 2023-01-11
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 12/01/2023, seção 1, p. 53"
+data_publicacao: 2023-01-12
+edicao: "9"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-68-de-11-de-janeiro-de-2023-457420958"
+sha256_html_fonte: 71aea148533488e450fc1efe090dec802c20b07835af4c9ae31a391bf29a5d8a
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE Nº 68, DE 11 DE JANEIRO DE 2023
+
+RESOLUÇÃO-RE Nº 68, DE 11 DE JANEIRO DE 2023
+
+A Coordenadora substituta de Autorização de Funcionamento de Empresas, no uso das atribuições que lhe confere o art. 144, II, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Alterar a Autorização de Funcionamento das Empresas constantes no anexo desta Resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+TACIANE PIMENTEL DA SILVA
+
+## ANEXO
+
+DROGARIA CENTRAL VZP LTDA / 35.131.462/0001-22
+
+25351.664498/2019-01 / 7693218
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0015225232
+
+--------------------------------------
+
+INOVEN INDUSTRIA, COMERCIO E IMPORTACAO LTDA / 07.826.504/0001-04
+
+25351.215940/2020-02 / 8209061
+
+829 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - RAZÃO SOCIAL / 0019207239
+
+--------------------------------------
+
+FARMACIA SANTA TEREZINHA MAIS SAUDE LTDA / 07.856.043/0001-12
+
+25351.241170/2014-05 / 7181458
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0027127231
+
+--------------------------------------
+
+AR 2 COMERCIO DE MEDICAMENTOS LTDA / 47.116.898/0001-21
+
+25351.202970/2022-11 / 7921978
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0015288234
+
+--------------------------------------
+
+J V DA SILVA LTDA / 08.181.246/0001-19
+
+25351.589601/2014-11 / 7298949
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0024811238
+
+--------------------------------------
+
+DROGARIA MOTA OLIVEIRA LTDA / 01.292.672/0001-80
+
+25351.290907/2014-13 / 7186469
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0023725231
+
+--------------------------------------
+
+KM COMERCIO DE PRODUTOS HOSPITALARES LTDA / 34.577.379/0001-19
+
+25351.330162/2015-14 / 1140995
+
+70800 - AFE - ALTERAÇÃO - MEDICAMENTOS E/OU INSUMOS FARMACÊUTICOS - RAZÃO SOCIAL / 0023825235
+
+--------------------------------------
+
+DROGARIA GUIMARAES FARMA LTDA / 33.947.421/0001-83
+
+25351.699873/2019-25 / 7697069
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0019648235
+
+--------------------------------------
+
+O M DA C NETA LTDA / 42.616.184/0001-69
+
+25351.161965/2022-32 / 8244870
+
+829 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - RAZÃO SOCIAL / 0019057237
+
+--------------------------------------
+
+FARMACIL COMERCIO VAREJISTA DE PRODUTOS FARMACEUTICOS LTDA / 12.245.200/0001-93
+
+25351.110024/2013-40 / 0897282
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0019615230
+
+--------------------------------------
+
+FARMAVIP PRINCESA DROGARIA LTDA. / 08.958.855/0001-31
+
+25351.159687/2014-43 / 7138758
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0014887231
+
+--------------------------------------
+
+NICOLIN & LIRA LTDA / 00.648.244/0001-85
+
+25351.205252/2002-44 / 0271127
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0020248237
+
+--------------------------------------
+
+FARMACIA CENTRAL DO BAIRRO DA PENHA LTDA / 02.514.440/0001-92
+
+25351.044009/2016-49 / 7454625
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0024227234
+
+--------------------------------------
+
+TOP FARMA LTDA / 44.378.592/0001-55
+
+25351.017675/2022-52 / 7877731
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0015153231
+
+--------------------------------------
+
+M N SANTOS ROCHA / 40.659.533/0001-02
+
+25351.673200/2021-60 / 7829164
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 4910665221
+
+--------------------------------------
+
+L. T. DROGARIA MEDFARMA - LTDA / 41.374.470/0001-00
+
+25351.306110/2021-66 / 7798551
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0020242239
+
+--------------------------------------
+
+SAFIRA SAFE COMERCIO, IMPORTACAO E EXPORTACAO DE PRODUTOS HOSPITALARES LTDA / 25.422.607/0001-90
+
+25351.388951/2019-69 / 8184470
+
+829 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - RAZÃO SOCIAL / 0015044238
+
+--------------------------------------
+
+M G FARMACIA E DROGARIA LTDA / 26.466.117/0001-59
+
+25351.071906/2022-73 / 7880359
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0020955235
+
+--------------------------------------
+
+BELPHARMA COMERCIO, IMPORTACOES E EXPORTACOES LTDA / 12.149.542/0001-00
+
+25351.526846/2011-75 / 1090435
+
+70800 - AFE - ALTERAÇÃO - MEDICAMENTOS E/OU INSUMOS FARMACÊUTICOS - RAZÃO SOCIAL / 0024882232
+
+--------------------------------------
+
+KM COMERCIO DE PRODUTOS HOSPITALARES LTDA / 34.577.379/0001-19
+
+25351.601492/2015-79 / 3066099
+
+732 - AFE - ALTERAÇÃO - SANEANTES DOMISSANITÁRIOS - RAZÃO SOCIAL / 0024680231
+
+--------------------------------------
+
+HOSPIX PRODUTOS MEDICOS E HOSPITALARES LTDA / 25.291.158/0001-99
+
+25351.828173/2020-98 / 3096985
+
+732 - AFE - ALTERAÇÃO - SANEANTES DOMISSANITÁRIOS - RAZÃO SOCIAL / 0023630230

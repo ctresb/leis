@@ -1,0 +1,412 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.726, DE 25 DE JULHO DE 2024"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/3ª Diretoria/Gerência de Produtos de Higiene, Perfumes, Cosméticos e Saneantes"
+tipo: "Resolução"
+numero: "2726"
+data: 2024-07-25
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 29/07/2024, seção 1, p. 191"
+data_publicacao: 2024-07-29
+edicao: "144"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.726-de-25-de-julho-de-2024-574771091"
+sha256_html_fonte: c9a847214ee30046a070410beca19f8372885c7e82284ee1ec30c203124c1874
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE Nº 2.726, DE 25 DE JULHO DE 2024
+
+RESOLUÇÃO-RE Nº 2.726, DE 25 DE JULHO DE 2024
+
+O GERENTE DE PRODUTOS DE HIGIENE, PERFUMES, COSMÉTICOS E SANEANTES DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 129, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art.1º** Deferir os registros e as petições dos produtos de higiene pessoal, cosméticos e perfumes, conforme relação anexa.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+RODRIGO JOSÉ VIANA OTTONI
+
+## ANEXO
+
+NOME DA EMPRESA / CNPJ
+
+NOME DO PRODUTO E MARCA
+
+NÚMERO DO PROCESSO / REGISTRO
+
+PETIÇÃO(ÕES) / EXPEDIENTE(S)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+A&A GOLD PHARMA INDUSTRIA LTDA ME / 07.415.503/0001-77
+
+SPRAY REPELENTE DE INSETOS 4H DE PROTEÇÃO ACTION
+
+25351.074648/2024-49 / 437170001
+
+2113 - REG. COSMÉTICOS - Inclusão de fabricante / 0832285/24-2
+
+--------------------------------------
+
+ANCLA´S INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA - EPP / 19.138.182/0001-90
+
+ALERGO SUN FPS 60 PROTETOR SOLAR FACIAL E CORPORAL
+
+25351.037907/2024-51 / 275470109
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 0195928/24-5
+
+--------------------------------------
+
+ATHENAS INDÚSTRIA E TERCERIZAÇÃO DE COSMÉTICOS LTDA EPP / 01.287.021/0001-00
+
+MEU BEBÊ SONINHO ÁGUA DE COLÔNIA JEQUITI
+
+25351.011592/2017-05 / 266700108
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 0788845/24-1
+
+--------------------------------------
+
+BASSI INDÚSTRIA DE COSMÉTICOS LTDA. / 22.524.028/0001-60
+
+PROTETOR SOLAR MARSHMALLOW CAROLA COSMETICS
+
+25351.678318/2023-46 / 409680005
+
+2112 - REG. COSMÉTICOS - Inclusão de apresentação / 0987657/24-1
+
+--------------------------------------
+
+BOTICA COMERCIAL FARMACEUTICA LTDA. / 77.388.007/0001-57
+
+BOTI.SUN ACQUA FLUIDO PROTETOR FACIAL FPS 70 COR 04
+
+25351.073155/2024-91 / 205441628
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 0260063/24-0
+
+--------------------------------------
+
+COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. / 61.082.426/0002-07
+
+EPISOL COLOR STICK FPS50 CLARO
+
+25351.202365/2023-12 / 200030897
+
+2113 - REG. COSMÉTICOS - Inclusão de fabricante / 0906153/24-7
+
+EPISOL COLOR STICK FPS50 MÉDIO
+
+25351.202668/2023-35 / 200030898
+
+2113 - REG. COSMÉTICOS - Inclusão de fabricante / 0906096/24-3
+
+EPISOL COLOR STICK FPS50 MÉDIO ESCURO
+
+25351.202711/2023-62 / 200030899
+
+2113 - REG. COSMÉTICOS - Inclusão de fabricante / 0906097/24-0
+
+EPISOL INTENSE STICK FPS 50
+
+25351.241708/2023-64 / 200030900
+
+2113 - REG. COSMÉTICOS - Inclusão de fabricante / 0906151/24-4
+
+--------------------------------------
+
+INDÚSTRIA E COMÉRCIO DE COSMÉTICOS FLORES & VEGETAIS LTDA. / 00.027.304/0001-42
+
+PROTETOR SOLAR CORPORAL FPS 50 FLORES & VEGETAIS
+
+25351.296599/2013-36 / 224880074
+
+2112 - REG. COSMÉTICOS - Inclusão de apresentação / 0030304/24-5
+
+--------------------------------------
+
+INDUSTRIA E COMERCIO DE COSMETICOS NATURA LTDA / 00.190.373/0001-72
+
+NATURA FOTOEQUILÍBRIO FPS UVB 60 PROTETOR SOLAR CORPORAL
+
+25351.812274/2021-28 / 205671555
+
+2112 - REG. COSMÉTICOS - Inclusão de apresentação / 0854373/24-1
+
+--------------------------------------
+
+Itajuba Industria Quimica e comercio LTDA / 41.637.990/0001-50
+
+Álcool Gel 70º INPM Itajuba
+
+25351.135947/2022-03 / 439720001
+
+2112 - REG. COSMÉTICOS - Inclusão de apresentação / 0136541/24-1
+
+--------------------------------------
+
+LABORATORIO INDUSTRIAL FARMACÊUTICO LIFAR LTDA / 92.928.951/0001-43
+
+PROTETOR SOLAR INFANTIL PANVEL KIDS FPS 60
+
+25351.589520/2021-32 / 238680111
+
+2112 - REG. COSMÉTICOS - Inclusão de apresentação / 0926468/24-3
+
+PROTETOR SOLAR PANVEL FPS 30
+
+25351.589721/2021-30 / 238680112
+
+2112 - REG. COSMÉTICOS - Inclusão de apresentação / 0926693/24-7
+
+--------------------------------------
+
+LABORATÓRIOS EXPANSCIENCE COMÉRCIO IMPORTAÇÃO E EXPORTAÇÃO DE PRODUTOS PARA A SAÚDE LTDA / 08.160.941/0001-02
+
+MUSTELA SOIN CROÛTES DE LAIT
+
+25351.382726/2018-38 / 262190054
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 0930463/24-2
+
+--------------------------------------
+
+LABORATÓRIOS PIERRE FABRE DO BRASIL LTDA / 33.051.491/0001-59
+
+Très Haute Protection Spray Enfant 50+ SPF - AVÈNE
+
+25351.139745/2014-59 / 205580345
+
+2113 - REG. COSMÉTICOS - Inclusão de fabricante / 0854349/24-3
+
+--------------------------------------
+
+LIPSON COSMETICOS LTDA / 61.610.515/0001-06
+
+JEQUITI LIGA DA JUSTIÇA SEM LIMITES BATMAN INCRÍVEL SHAMPOO 2 EM 1
+
+25351.003116/2011-62 / 212392641
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 0986604/24-1
+
+JEQUITI MEU BEBÊ FOFINHO SHAMPOO
+
+25351.280357/2017-51 / 212392821
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 0986549/24-0
+
+JEQUITI MEU BEBÊ FOFINHO CONDICIONADOR
+
+25351.280359/2017-15 / 212392822
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 0986557/24-2
+
+JEQUITI MEU BEBÊ FOFINHO ÁGUA DE COLÔNIA
+
+25351.280365/2017-14 / 212392816
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 0986505/24-2
+
+JEQUITI MEU BEBÊ SONINHO SABONETE LÍQUIDO GLICERINADO DA CABEÇA AOS PÉS
+
+25351.444461/2014-96 / 212392806
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 0986464/24-4
+
+JEQUITI MEU BEBÊ SONINHO ÁGUA DE COLÔNIA
+
+25351.444548/2014-47 / 212392811
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 0986480/24-0
+
+JEQUITI MEU BEBÊ SONINHO SHAMPOO
+
+25351.444575/2014-15 / 212392807
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 0990532/24-1
+
+JEQUITI MEU BEBÊ ÁGUA DE COLÔNIA
+
+25351.550760/2013-32 / 212392775
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 0986304/24-7
+
+JEQUITI MEU BEBÊ CONDICIONADOR
+
+25351.550876/2013-23 / 212392776
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 0986281/24-7
+
+JEQUITI MEU BEBÊ LOÇÃO HIDRATANTE
+
+25351.571007/2013-31 / 212392777
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 0986314/24-2
+
+JEQUITI MEU BEBÊ SHAMPOO
+
+25351.592328/2013-11 / 212392785
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 0986347/24-8
+
+JEQUITI MEU BEBÊ SABONETE LÍQUIDO GLICERINADO DA CABEÇA AOS PÉS
+
+25351.603849/2013-80 / 212392779
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 0986391/24-7
+
+--------------------------------------
+
+MAPPEL INDÚSTRIA DE EMBALAGENS S.A. / 01.233.103/0001-64
+
+FILTRUM HIDRAT FPS30 PROTEÇÃO SOLAR UVA/UVB HIDRATAÇÃO INTENSA COM ÁCIDO HIALURÔNICO CREME
+
+25351.308456/2013-34 / 226070079
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 0947208/24-1
+
+--------------------------------------
+
+PASTEUR COSMIATRIA LTDA / 87.727.277/0001-07
+
+PROTETOR SOLAR FPS 30 - AEROSSOL - EVERYOU
+
+25351.107172/2024-30 / 214850496
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 0323563/24-4
+
+PROTETOR SOLAR FPS 70 - AEROSSOL - EVERYOU
+
+25351.107352/2024-11 / 214850497
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 0323763/24-3
+
+PROTETOR SOLAR FPS 50 - AEROSSOL - EVERYOU
+
+25351.107366/2024-35 / 214850498
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 0323777/24-4
+
+PROTETOR SOLAR FACIAL FPS 30 - RENAGGE SOLAR
+
+25351.449603/2014-18 / 214850290
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 0942156/24-2
+
+PROTETOR SOLAR FPS 30 - RENAGGE SOLAR
+
+25351.449641/2014-24 / 214850291
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 0942148/24-0
+
+--------------------------------------
+
+WELEDA DO BRASIL LABORATÓRIO E FARMÁCIA LTDA / 56.992.217/0001-80
+
+CREME DENTAL DE CALÊNDULA - WELEDA
+
+25351.001066/2014-37 / 201410106
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 0914199/24-2
+
+2 EM 1 SHAMPOO E SABONETE DE LARANJA - WELEDA
+
+25351.023126/2018-31 / 201410108
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 0913958/24-7
+
+CALENDULA SHAMPOO &BODY WASH
+
+25351.033466/2010-97 / 201410087
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 0913979/24-4
+
+CALÊNDULA BABYCREME WELEDA
+
+25351.103844/2007-37 / 201410084
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 0914034/24-3
+
+CREME FIRMADOR DE ROMÃ PARA A NOITE WELEDA
+
+25351.175302/2011-71 / 201410092
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 0914508/24-5
+
+CREME FIRMADOR DE ROMÃ PARA O DIA WELEDA
+
+25351.175304/2011-29 / 201410091
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 0914538/24-1
+
+SERUM FIRMADOR DE ROMÃ WELEDA
+
+25351.185178/2011-39 / 201410094
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 0915424/24-0
+
+SABONETE DE CALÊNDULA WELEDA
+
+25351.210406/2007-24 / 201410086
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 0915416/24-7
+
+ÓLEO PARA PREVENÇÃO DE ESTRIAS WELEDA
+
+25351.241035/2010-25 / 201410090
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 0915392/24-1
+
+ÓLEO DE BÉTULA PARA CELULITE WELEDA
+
+25351.245231/2005-12 / 201410081
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 0915260/24-7
+
+ROMÃ ÓLEO REGENERADOR CORPORAL WELEDA
+
+25351.271593/2010-07 / 201410088
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 0915301/24-5
+
+CREME FIRMADOR DE ROMÃ PARA A REGIÃO DOS OLHOS WELEDA
+
+25351.300321/2011-11 / 201410093
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 0914521/24-1
+
+CALÊNDULA ÓLEO HIDRATANTE PARA BEBÊ - WELEDA
+
+25351.318970/2013-46 / 201410101
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 0914182/24-2
+
+CALÊNDULA LOÇÃO HIDRATANTE CORPORAL - WELEDA
+
+25351.319483/2013-06 / 201410100
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 0914104/24-1
+
+ROSMARINUS LOÇÃO CAPILAR REVITALIZANTE - WELEDA
+
+25351.570000/2013-40 / 201410102
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 0914615/24-6
+
+CREME FACIAL DE CALÊNDULA PARA BEBÊS - WELEDA
+
+25351.661354/2014-01 / 201410107
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 0914450/24-7
+
+CALÊNDULA BANHO HIDRATANTE - WELEDA
+
+25351.704437/2013-51 / 201410103
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 0914039/24-5
+
+CREME DENTAL DE RATÂNIA - WELEDA
+
+25351.750057/2013-77 / 201410104
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 0914461/24-9

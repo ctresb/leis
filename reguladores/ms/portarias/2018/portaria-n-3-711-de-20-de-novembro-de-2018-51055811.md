@@ -1,0 +1,62 @@
+---
+titulo: "PORTARIA Nº 3.711, DE 20 DE NOVEMBRO DE 2018"
+orgao: "Ministério da Saúde/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "3711"
+data: 2018-11-20
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 21/11/2018, seção 1, p. 129"
+data_publicacao: 2018-11-21
+edicao: "223"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-3-711-de-20-de-novembro-de-2018-51055811"
+sha256_html_fonte: f73c108db9a66cb839a46285a9070f4795a8f09cda5f534880916f4df30428a1
+baixado_em: 2026-10-27
+---
+# PORTARIA Nº 3.711, DE 20 DE NOVEMBRO DE 2018
+
+PORTARIA Nº 3.711, DE 20 DE NOVEMBRO DE 2018
+
+Habilita o Estado, Município ou Distrito Federal a receber recursos destinados à aquisição de equipamentos e materiais permanentes para estabelecimentos de saúde.
+
+O MINISTRO DE ESTADO DA SAÚDE, no uso das atribuições que lhe conferem os incisos I e II do parágrafo único do art. 87 da Constituição, e
+
+Considerando a Lei Complementar nº 141, de 13 de janeiro de 2012, que regulamenta o § 3º do art. 198 da Constituição Federal para dispor sobre os valores mínimos a serem aplicados anualmente pela União, Estados, Distrito Federal e Municípios em ações e serviços públicos de saúde; estabelece os critérios de rateio dos recursos de transferências para a saúde e as normas de fiscalização, avaliação e controle das despesas com saúde nas 3 (três) esferas de governo; revoga dispositivos das Leis nos 8.080, de 19 de setembro de 1990, e 8.689, de 27 de julho de 1993, e dá outras providências;
+
+Considerando a Lei nº 8.080, de 19 de setembro de 1990, que dispõe sobre as condições para a promoção, proteção e recuperação da saúde, a organização e o funcionamento dos serviços correspondentes e dá outras providências;
+
+Considerando a Lei nº 8.142, de 28 de dezembro de 1990, que dispõe sobre a participação da comunidade na gestão do Sistema Único de Saúde (SUS) e sobre as transferências intergovernamentais de recursos financeiros na área da saúde e dá outras providências;
+
+Considerando a Lei nº 13.587, de 2 de janeiro de 2018, que estima a receita e fixa a despesa da União para o exercício financeiro de 2018;
+
+Considerando o Decreto nº 1.232, de 30 de agosto de 1994, que dispõe sobre as condições e a forma de repasse regular e automático de recursos do Fundo Nacional de Saúde para os Fundos de Saúde Estaduais, Municipais e do Distrito Federal;
+
+Considerando o Decreto nº 7.507, de 27 de junho de 2011, que dispõe sobre a movimentação de recursos federais transferidos a Estados, Distrito Federal e Municípios, em decorrência das leis citadas;
+
+Considerando a Portaria nº 2.500/GM/MS, de 03 de outubro de 2017, que dispõe sobre a elaboração, a proposição, a tramitação e a consolidação de atos normativos no âmbito do SUS;
+
+Considerando a Portaria de Consolidação nº 6/GM/MS, de 03 de outubro de 2017, que trata da consolidação das normas sobre o financiamento e a transferência dos recursos federais para as ações e os serviços de saúde do Sistema Único de Saúde;
+
+Considerando a Portaria GM/MS 3.992, de 28 de dezembro de 2017, que altera a Portaria de Consolidação nº 6/GM/MS, de 03 de outubro de 2017, para dispor sobre o financiamento e a transferência dos recursos federais para as ações e os serviços públicos de saúde do Sistema Único de Saúde;
+
+Considerando a Portaria de Consolidação nº 2/GM/MS, de 03 de outubro de 2017, que trata da consolidação das normas sobre as políticas de saúde do Sistema Único de Saúde; resolve:
+
+**Art. 1º** Fica habilitado o Estado, Município ou Distrito Federal descrito no anexo a esta Portaria, a receber os recursos federais destinados à aquisição de equipamentos e material permanente para estabelecimentos de saúde.
+
+**Art. 2º** Os recursos desta Portaria serão organizados e transferidos na forma do Bloco de Investimento na Rede de Serviços Públicos de Saúde, nos termos do anexo.
+
+**Art. 3º** As propostas de que tratam essa portaria serão processadas no Sistema de Cadastro de Propostas Fundo a Fundo, disponível no sítio eletrônico do Fundo Nacional de Saúde www.fns.saude.gov.br.
+
+**Art. 4º** O Fundo Nacional de Saúde adotará as medidas necessárias para as transferências de recursos estabelecidos nesta Portaria aos respectivos Fundos de Saúde, em parcela única e em conformidade com os processos de pagamento instruídos, após atendidas as condições previstas para essa modalidade de transferência.
+
+**Art. 5º** A prestação de contas sobre a aplicação dos recursos será realizada por meio do Relatório Anual de Gestão -RAG do respectivo ente federativo beneficiado.
+
+**Art. 6º** Esta Portaria entra em vigor na data de sua publicação.
+
+GILBERTO OCCHI
+
+## ANEXO
+
+ENTES HABILITADOS A RECEBEREM RECURSOS FEDERAIS DESTINADOS A AQUISIÇÃO DE EQUIPAMENTOS E MATERIAIS PERMANENTES
+
+<table><tr></tr><tr><td><p>UF</p></td><td><p>MUNICÍPIO</p></td><td><p>ENTIDADE</p></td><td><p>Nº DA PROPOSTA</p></td><td><p>VALOR TOTAL DA PROPOSTA (R$)</p></td><td><p>PROGRAMA ORÇAMENTÁRIO</p></td><td><p>FUNCIONAL PROGRAMÁTICA</p></td></tr><tr><td><p>AL</p></td><td><p>MESSIAS</p></td><td><p>FUNDO MUNICIPAL DE SAUDE DO MUNICIPIO DE MESSIAS</p></td><td><p>11292555000118004</p></td><td><p>13.500,00</p></td><td><p>0000</p></td><td><p>10301201585810001</p></td></tr><tr><td><p>AL</p></td><td><p>MURICI</p></td><td><p>FUNDO MUNICIPAL DE SAUDE</p></td><td><p>11120699000118002</p></td><td><p>13.500,00</p></td><td><p>0000</p></td><td><p>10301201585810001</p></td></tr><tr><td><p>AM</p></td><td><p>ITACOATIARA</p></td><td><p>FUNDO MUNICIPAL DE SAUDE DE ITACOATIARA</p></td><td><p>13639469000118013</p></td><td><p>13.500,00</p></td><td><p>0000</p></td><td><p>10301201585810001</p></td></tr><tr><td><p>BA</p></td><td><p>SENHOR DO BONFIM</p></td><td><p>FUNDO MUNICIPAL DE SAUDE DE SENHOR DO BONFIM</p></td><td><p>08546934000118012</p></td><td><p>13.500,00</p></td><td><p>0000</p></td><td><p>10301201585810001</p></td></tr><tr><td><p>ES</p></td><td><p>JAGUARE</p></td><td><p>FUNDO MUNICIPAL DE SAUDE DE JAGUARE</p></td><td><p>11822633000118005</p></td><td><p>13.500,00</p></td><td><p>0000</p></td><td><p>10301201585810001</p></td></tr><tr><td><p>MA</p></td><td><p>SAO JOAO DO SOTER</p></td><td><p>FUNDO MUNICIPAL DE SAUDE</p></td><td><p>11285716000118001</p></td><td><p>13.500,00</p></td><td><p>0000</p></td><td><p>10301201585810001</p></td></tr><tr><td><p>PA</p></td><td><p>MOJU</p></td><td><p>FUNDO MUNICIPAL DE SAUDE</p></td><td><p>19296848000118006</p></td><td><p>13.500,00</p></td><td><p>0000</p></td><td><p>10301201585810001</p></td></tr><tr><td><p>PA</p></td><td><p>TUCURUI</p></td><td><p>FUNDO MUNICIPAL DE SAUDE</p></td><td><p>11193159000118001</p></td><td><p>13.500,00</p></td><td><p>0000</p></td><td><p>10301201585810001</p></td></tr><tr><td><p>PB</p></td><td><p>JOAO PESSOA</p></td><td><p>FUNDO MUNICIPAL DE SAUDE</p></td><td><p>08715618000118003</p></td><td><p>13.500,00</p></td><td><p>0000</p></td><td><p>10301201585810001</p></td></tr><tr><td><p>PB</p></td><td><p>SAO JOSE DE PIRANHAS</p></td><td><p>FUNDO MUNICIPAL DE SAUDE</p></td><td><p>11602227000118005</p></td><td><p>13.500,00</p></td><td><p>0000</p></td><td><p>10301201585810001</p></td></tr><tr><td><p>RS</p></td><td><p>SAO MARCOS</p></td><td><p>FUNDO MUNICIPAL DE SAUDE DE SAO MARCOS - RS</p></td><td><p>12117217000118002</p></td><td><p>13.500,00</p></td><td><p>0000</p></td><td><p>10301201585810001</p></td></tr><tr><td><p>SC</p></td><td><p>TUBARAO</p></td><td><p>FUNDO MUNICIPAL DE SAUDE DE TUBARAO</p></td><td><p>09240588000118001</p></td><td><p>13.500,00</p></td><td><p>0000</p></td><td><p>10301201585810001</p></td></tr><tr><td><p>SP</p></td><td><p>RIO CLARO</p></td><td><p>FUNDO MUNICIPAL DE SAUDE DE RIO CLARO</p></td><td><p>11211126000118012</p></td><td><p>13.500,00</p></td><td><p>0000</p></td><td><p>10301201585810001</p></td></tr><tr><td><p>TO</p></td><td><p>ARAGUANA</p></td><td><p>FUNDO MUNICIPAL DE SAUDE</p></td><td><p>12035302000118004</p></td><td><p>13.500,00</p></td><td><p>0000</p></td><td><p>10301201585810001</p></td></tr><tr><td><p>TO</p></td><td><p>DIANOPOLIS</p></td><td><p>FUNDO MUNICIPAL DE SAUDE</p></td><td><p>11301094000118007</p></td><td><p>13.500,00</p></td><td><p>0000</p></td><td><p>10301201585810001</p></td></tr><tr><td><p>TO</p></td><td><p>PALMAS</p></td><td><p>FUNDO MUNICIPAL DE SAUDE - FMS</p></td><td><p>11320420000118001</p></td><td><p>13.500,00</p></td><td><p>0000</p></td><td><p>10301201585810001</p></td></tr><tr><td><p>TOTAL</p></td><td><p>16 PROPOSTAS</p></td><td><p>216.000,00</p></td><td></td><td></td></tr></table>

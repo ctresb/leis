@@ -1,0 +1,32 @@
+---
+titulo: "PORTARIA Nº 2.637, DE 10 DE JUNHO DE 2019"
+orgao: "Ministério da Agricultura, Pecuária e Abastecimento/Secretaria de Política Agrícola"
+tipo: "Portaria"
+numero: "2637"
+data: 2019-06-10
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 12/06/2019, seção 1, p. 3"
+data_publicacao: 2019-06-12
+edicao: "112"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-2.637-de-10-de-junho-de-2019-163109696"
+sha256_html_fonte: ef3d1cccf4419e7f50de2c8a9303c20cda5290d1a41fee8623453dc4d84ba4e3
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 2.637, DE 10 DE JUNHO DE 2019
+
+PORTARIA Nº 2.637, DE 10 DE JUNHO DE 2019
+
+O SECRETÁRIO DE POLÍTICA AGRÍCOLA, no uso de suas atribuições, de acordo com o disposto na lei 10.420, de 10 de abril de 2002; e no Decreto 4.962, de 22 de janeiro de 2004; e considerando que os pagamentos de benefícios seguem às condições vigentes na data de adesão do agricultor, conforme o artigo 9º do Decreto 4.962/2004, de 22 de janeiro de 2004, resolve:
+
+**Art. 1º** Autorizar o pagamento dos benefícios relativos a safra 2017/2018 aos agricultores (as) que aderiram ao Garantia-Safra nos municípios constante no anexo.
+
+**Art. 2º** Os pagamentos serão realizados a partir do mês de junho de 2019, nas mesmas datas definidas pelo calendário de pagamento de benefícios sociais da Caixa Econômica Federal.
+
+**Art. 3º** Esta Portaria entra em vigor na data de sua publicação.
+
+EDUARDO SAMPAIO MARQUES
+
+## ANEXO I — RELAÇÃO DOS MUNICÍPIOS FOLHA JUNHO 2019 (Safra 2017/2018)
+
+<table> 	<tbody> 		<tr> 		</tr> 		<tr> 			<td> 			<p>UF</p> 			</td> 			<td> 			<p>Município</p> 			</td> 			<td> 			<p>IBGE</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>MG</p> 			</td> 			<td> 			<p>Berilo</p> 			</td> 			<td> 			<p>3106507</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>MG</p> 			</td> 			<td> 			<p>Santo Antônio do Retiro</p> 			</td> 			<td> 			<p>3160454</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>PB</p> 			</td> 			<td> 			<p>Congo</p> 			</td> 			<td> 			<p>2504702</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>PB</p> 			</td> 			<td> 			<p>Parari</p> 			</td> 			<td> 			<p>2510659</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>PB</p> 			</td> 			<td> 			<p>São João do Cariri</p> 			</td> 			<td> 			<p>2514008</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>PB</p> 			</td> 			<td> 			<p>Barra de Santana</p> 			</td> 			<td> 			<p>2501575</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>PB</p> 			</td> 			<td> 			<p>Barra de São Miguel</p> 			</td> 			<td> 			<p>2501708</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>PB</p> 			</td> 			<td> 			<p>Gado Bravo</p> 			</td> 			<td> 			<p>2506251</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>PB</p> 			</td> 			<td> 			<p>Itabaiana</p> 			</td> 			<td> 			<p>2506905</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>PB</p> 			</td> 			<td> 			<p>Itatuba</p> 			</td> 			<td> 			<p>2507200</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>PB</p> 			</td> 			<td> 			<p>Montadas</p> 			</td> 			<td> 			<p>2509503</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>PB</p> 			</td> 			<td> 			<p>Natuba</p> 			</td> 			<td> 			<p>2509909</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>PB</p> 			</td> 			<td> 			<p>Queimadas</p> 			</td> 			<td> 			<p>2512507</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>PB</p> 			</td> 			<td> 			<p>Umbuzeiro</p> 			</td> 			<td> 			<p>2517001</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>PE</p> 			</td> 			<td> 			<p>Betânia</p> 			</td> 			<td> 			<p>2601805</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>PE</p> 			</td> 			<td> 			<p>Calumbi</p> 			</td> 			<td> 			<p>2603405</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>PE</p> 			</td> 			<td> 			<p>Carnaubeira da Penha</p> 			</td> 			<td> 			<p>2603926</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>PE</p> 			</td> 			<td> 			<p>Custódia</p> 			</td> 			<td> 			<p>2605103</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>PE</p> 			</td> 			<td> 			<p>Flores</p> 			</td> 			<td> 			<p>2605608</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>PE</p> 			</td> 			<td> 			<p>Granito</p> 			</td> 			<td> 			<p>2606309</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>PE</p> 			</td> 			<td> 			<p>Ouricuri</p> 			</td> 			<td> 			<p>2609907</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>PE</p> 			</td> 			<td> 			<p>Petrolândia</p> 			</td> 			<td> 			<p>2611002</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>PE</p> 			</td> 			<td> 			<p>Quixaba</p> 			</td> 			<td> 			<p>2611533</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>PE</p> 			</td> 			<td> 			<p>Santa Cruz da Baixa Verde</p> 			</td> 			<td> 			<p>2612471</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>PE</p> 			</td> 			<td> 			<p>Sertânia</p> 			</td> 			<td> 			<p>2614105</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>PE</p> 			</td> 			<td> 			<p>Solidão</p> 			</td> 			<td> 			<p>2614402</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>PE</p> 			</td> 			<td> 			<p>Triunfo</p> 			</td> 			<td> 			<p>2615706</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>PE</p> 			</td> 			<td> 			<p>Verdejante</p> 			</td> 			<td> 			<p>2616100</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>PE</p> 			</td> 			<td> 			<p>Belo Jardim</p> 			</td> 			<td> 			<p>2601706</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>PE</p> 			</td> 			<td> 			<p>Cachoeirinha</p> 			</td> 			<td> 			<p>2603108</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>PE</p> 			</td> 			<td> 			<p>Caetés</p> 			</td> 			<td> 			<p>2603207</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>PE</p> 			</td> 			<td> 			<p>Garanhuns</p> 			</td> 			<td> 			<p>2606002</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>PE</p> 			</td> 			<td> 			<p>Ibirajuba</p> 			</td> 			<td> 			<p>2606705</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>PE</p> 			</td> 			<td> 			<p>Itaíba</p> 			</td> 			<td> 			<p>2607505</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>PE</p> 			</td> 			<td> 			<p>Jucati</p> 			</td> 			<td> 			<p>2608255</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>PE</p> 			</td> 			<td> 			<p>Jupi</p> 			</td> 			<td> 			<p>2608305</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>PE</p> 			</td> 			<td> 			<p>Lajedo</p> 			</td> 			<td> 			<p>2608800</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>PE</p> 			</td> 			<td> 			<p>Paranatama</p> 			</td> 			<td> 			<p>2610301</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>PE</p> 			</td> 			<td> 			<p>São Bento do Una</p> 			</td> 			<td> 			<p>2613008</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>PE</p> 			</td> 			<td> 			<p>Terezinha</p> 			</td> 			<td> 			<p>2615102</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>PE</p> 			</td> 			<td> 			<p>Tupanatinga</p> 			</td> 			<td> 			<p>2615805</p> 			</td> 		</tr> 	</tbody> </table>

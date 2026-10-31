@@ -1,0 +1,36 @@
+---
+titulo: "PORTARIA No 328, DE 6 DE JULHO DE 2016"
+orgao: "Ministério de Minas e Energia/GABINETE DO MINISTRO"
+tipo: "Portaria"
+numero: "328"
+data: 2016-07-06
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 07/07/2016, seção 1, p. 60"
+data_publicacao: 2016-07-07
+edicao: "129"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-no-328-de-6-de-julho-de-2016-23172567"
+sha256_html_fonte: 4c996313963a505a49231044b34bfb6bca06492ff1ca7195530ee56a43c9aec4
+baixado_em: 2026-10-28
+---
+# PORTARIA No 328, DE 6 DE JULHO DE 2016
+
+PORTARIA No 328, DE 6 DE JULHO DE 2016
+
+O MINISTRO DE ESTADO DE MINAS E ENERGIA, nouso das atribuições que lhe confere o art. 87, parágrafo único, incisosII e IV, da Constituição, tendo em vista o disposto nos arts. 2o , § 2oe 4o , § 1o , do Decreto no 5.163, de 30 de julho de 2004, na PortariaMME no 463, de 3 de dezembro de 2009, e o que consta no Processono48000.000258/2016-16, resolve:
+
+**Art. 1o** Definir em 0,96 MW médios o montante de garantiafísica de energia da Central Geradora Hidrelétrica denominada CGHLimoeiro, registrada sob o Código Único do Empreendimento de Geração- CEG: CGH.PH.MG.030983-4.01, com potência instalada de1,25 MW, de titularidade da empresa Limoeiro Energia S.A., inscritano CNPJ/MF sob o no 10.938.296/0001-40, localizada no Rio Cachoeirinha,Município de Bueno Brandão, Estado de Minas Gerais.
+
+§ 1o O montante de garantia física de energia da CGH Limoeirorefere-se ao Ponto de Conexão da Usina.
+
+§ 2o Para efeitos de comercialização de energia elétrica, asperdas elétricas do Ponto de Conexão até o Centro de Gravidade doreferido Submercado deverão ser abatidas do montante de garantiafísica de energia definido nesta Portaria, observando as Regras deComercialização de Energia Elétrica vigentes.
+
+**Art. 2o** Para todos os efeitos, o montante de garantia física de ener giada CGH Limoeiro poderá ser revisado com base na legislação vigente.
+
+**Art. 3o** Esta Portaria entra em vigor na data de sua publicação.
+
+FERNANDO COELHO FILHO
+
+FERNANDO COELHO FILHO
+
+Este conteúdo não substitui o publicado na versão certificada.

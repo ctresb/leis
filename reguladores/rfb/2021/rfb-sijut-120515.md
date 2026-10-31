@@ -1,0 +1,97 @@
+---
+titulo: "Ato Declaratório Executivo DRF/BHE nº 54, de 15 de setembro de 2021"
+orgao: "Delegacia da Receita Federal do Brasil em Belo Horizonte"
+tipo: "Ato Declaratório Executivo"
+numero: "54"
+data: "2021-09-15"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 17/09/2021, seção 1, página 33"
+data_publicacao: "2021-09-17"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/120515/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/120515/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "120515"
+sha256_texto: "483c085619f166a4232dd90a9c44f610c8f7ad53b7c62fb1bd1d4fb74a3bafb5"
+baixado_em: "2026-10-16"
+---
+# Ato Declaratório Executivo DRF/BHE nº 54, de 15 de setembro de 2021
+
+Atualiza o Ato Declaratório Executivo DRF/BHE nº 57 de produtor incluindo a relação de produtos vinculados ao Registro Especial de Bebidas
+
+O DELEGADO DA RECEITA FEDERAL DO BRASIL EM BELO HORIZONTE/MG, no exercício das atribuições regimentais definidas pelo art. 364, inciso VI, do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, publicada no Diário Oficial da União de 27 de julho de 2020 e pelo art. 3º da Instrução Normativa RFB nº 1.432, de 26 de dezembro de 2013, e conforme documentos integrantes do Dossiê nº 13609.727615/2020-31, declara:
+
+**Art. 1º** - Ficam incluídos no Registro Especial de Bebidas nº 06101/236 concedido através do Ato Declaratório Executivo nº 57, de 20 de agosto de 2020, publicado no DOU de 24/08/2020, pertencente ao estabelecimento da empresa Lamas Destilaria e Cervejaria Artesanal Ltda, CNPJ nº 32.797.397/0001-80, na atividade de PRODUTOR de bebidas alcoólicas, as seguintes marcas comerciais e em recipientes abaixo discriminados:
+
+Art. 1°
+
+| Classificação Fiscal | Produto | Marca Comercial | Tipo Recipiente | Cap. Rec. (ml) | Registro no MAPA |
+| --- | --- | --- | --- | --- | --- |
+| 22.08.60.00 | Vodka não Aromatizada | HUMMEL | Não Retornável | 750 | MG 001256-4.000003 |
+| 22.08.60.00 | Vodka não Aromatizada | LAMAS DESTILARIA | Não Retornável | 750 | MG 001256-4.000003 |
+| 22.08.60.00 | Vodka não Aromatizada | SENSUS | Não Retornável | 750 | MG 001256-4.000003 |
+| 22.08.50.00 | Dry Gin | LONDON | Não Retornável | 750 | MG 001256-4.000004 |
+| 22.08.50.00 | Dry Gin | OLYMPUS GIN | Não Retornável | 750 | MG 001256-4.000004 |
+| 22.08.50.00 | Dry Gin | LAMAS DESTILARIA | Não Retornável | 750 | MG 001256-4.000004 |
+| 22.08.50.00 | Dry Gin | VIRTUS | Não Retornável | 750 | MG 001256-4.000004 |
+| 22.08.30.00 | Whisky Puro Malte Maturado em Barril de Carvalho Americano | PLENUS | Não Retornável | 1000 | MG 001256-4.000012 |
+| 22.08.30.00 | Whisky Puro Malte Maturado em Barril de Carvalho Americano | LAMAS DESTILARIA | Não Retornável | 1000 | MG 001256-4.000012 |
+| 22.08.30.00 | Whisky Puro Malte Maturado em Barril de Carvalho Americano | CABURÉ | Não Retornável | 750 | MG 001256-4.000012 |
+| 22.08.30.00 | Whisky Puro Malte Maturado em Barril de Carvalho Americano | KABURÉ | Não Retornável | 750 | MG 001256-4.000012 |
+| 22.08.30.00 | Whisky Puro Malte Maturado em Barril de Carvalho Americano | LE MAC | Não Retornável | 1000 | MG 001256-4.000012 |
+| 22.08.30.00 | Whisky Puro Malte Maturado em Barril de Carvalho Americano | OUROPRETANA | Não Retornável | 1000 | MG 001256-4.000012 |
+| 22.08.30.00 | Whisky Puro Malte Maturado em Barril de Carvalho Americano e em Barril de Vinho do Porto | LAMAS DESTILARIA | Não Retornável | 1000 | MG 001256-4.000013 |
+| 22.08.30.00 | Whisky Puro Malte Maturado em Barril de Carvalho Americano e em Barril de Vinho do Porto | MACENA | Não Retornável | 1000 | MG 001256-4.000013 |
+| 22.08.30.00 | Whisky Puro Malte Maturado em Barril de Carvalho Americano e em Barril de Vinho do Porto | VERUS | Não Retornável | 1000 | MG 001256-4.000013 |
+| 22.08.30.00 | Whisky Puro Malte Defumado Maturado em Barril de Carvalho Americano | SMOKED | Não Retornável | 1000 | MG 001256-4.000014 |
+| 22.08.30.00 | Whisky Puro Malte Defumado Maturado em Barril de Carvalho Americano | LAMAS DESTILARIA | Não Retornável | 1000 | MG 001256-4.000014 |
+| 22.08.30.00 | Whisky Puro Malte Defumado Maturado em Barril de Carvalho Americano | MACENA OUTLANDER | Não Retornável | 1000 | MG 001256-4.000014 |
+| 22.08.30.00 | Whisky Puro Malte Defumado Maturado em Barril de Carvalho Americano | MACENA | Não Retornável | 1000 | MG 001256-4.000014 |
+| 22.08.30.00 | Whisky Puro Malte Defumado Maturado em Barril de Carvalho Americano | NIMBUS | Não Retornável | 1000 | MG 001256-4.000014 |
+| 22.08.30.00 | Whisky Puro Malte Defumado Maturado em Barril de Carvalho Americano | SÉCULO 7 | Não Retornável | 1000 | MG 001256-4.000014 |
+| 22.08.30.00 | Whisky Puro Malte Defumado Maturado em Barril de Carvalho Americano | CALEDÔNIA | Não Retornável | 1000 | MG 001256-4.000015 |
+| 22.08.30.00 | Whisky Blended Maturado em Barril de Carvalho Americano | CANEM | Não Retornável | 1000 | MG 001256-4.000016 |
+| 22.08.30.00 | Whisky Blended Maturado em Barril de Carvalho Americano | CARBON | Não Retornável | 1000 | MG 001256-4.000016 |
+| 22.08.30.00 | Whisky Blended Maturado em Barril de Carvalho Americano | LAMAS DESTILARIA | Não Retornável | 1000 | MG 001256-4.000016 |
+| 22.08.30.00 | Whisky Blended Maturado em Barril de Carvalho Americano | MACGYVER | Não Retornável | 1000 | MG 001256-4.000016 |
+| 22.08.50.00 | Dry Gin | JASMINE GIN | Não Retornável | 750 | MG 001256-4.000018 |
+| 22.08.50.00 | Dry Gin | YELLOW GIN | Não Retornável | 750 | MG 001256-4.000018 |
+| 22.08.50.00 | Dry Gin | RUBY | Não Retornável | 750 | MG 001256-4.000018 |
+| 22.08.50.00 | Dry Gin | ROJO | Não Retornável | 750 | MG 001256-4.000018 |
+| 22.08.50.00 | Dry Gin | ROSE GIN | Não Retornável | 750 | MG 001256-4.000019 |
+| 22.08.50.00 | Dry Gin | CERISE | Não Retornável | 750 | MG 001256-4.000019 |
+| 22.08.50.00 | Dry Gin | RED GIN | Não Retornável | 750 | MG 001256-4.000019 |
+| 22.08.50.00 | Dry Gin | CELESTE | Não Retornável | 750 | MG 001256-4.000020 |
+| 22.08.50.00 | Dry Gin | BLUE | Não Retornável | 750 | MG 001256-4.000020 |
+| 22.08.50.00 | Dry Gin | PINK GIN | Não Retornável | 750 | MG 001256-4.000020 |
+| 22.08.50.00 | Dry Gin | IRIS | Não Retornável | 750 | MG 001256-4.000020 |
+| 22.08.50.00 | Dry Gin | NUBE | Não Retornável | 750 | MG 001256-4.000020 |
+| 22.08.50.00 | Dry Gin | BALM | Não Retornável | 750 | MG 001256-4.000021 |
+| 22.08.50.00 | Dry Gin | BALM WOOD GIN | Não Retornável | 750 | MG 001256-4.000021 |
+| 22.08.50.00 | Dry Gin | BALM GIN | Não Retornável | 750 | MG 001256-4.000021 |
+| 22.08.50.00 | Dry Gin | BIG BEN | Não Retornável | 750 | MG 001256-4.000022 |
+| 22.08.50.00 | Dry Gin | RIO | Não Retornável | 750 | MG 001256-4.000022 |
+| 22.08.50.00 | Dry Gin | THE ORIGINAL RIO | Não Retornável | 750 | MG 001256-4.000022 |
+| 22.08.30.00 | Whisky Single Malte | AMBURANA | Não Retornável | 1000 | MG 001256-4.000024 |
+| 22.08.30.00 | Whisky Single Malte | MAGNUS | Não Retornável | 1000 | MG 001256-4.000024 |
+| 22.08.30.00 | Whisky Single Malte | SMOKED | Não Retornável | 1000 | MG 001256-4.000024 |
+| 22.08.40.00 | Aguardente de Cana | BILLY COUNTRY | Não Retornável | 670 | MG 001256-4.000027 |
+| 22.08.40.00 | Aguardente de Cana | LAMAS DESTILARIA | Não Retornável | 670 | MG 001256-4.000027 |
+| 22.08.40.00 | Aguardente de Cana | LIBERTAS ARMAZENADA EM AMBURANA | Não Retornável | 670 | MG 001256-4.000027 |
+| 22.08.40.00 | Aguardente de Cana | LIBERTAS ARMAZENADA EM CARVALHO | Não Retornável | 670 | MG 001256-4.000027 |
+| 22.08.40.00 | Aguardente de Cana | LIBERTAS ARMAZENADA EM CARVALHO MISTO BALSAMO | Não Retornável | 670 | MG 001256-4.000027 |
+| 22.08.40.00 | Aguardente de Cana | LIBERTAS ARMAZENADA EM JEQUITIBÁ ROSA | Não Retornável | 670 | MG 001256-4.000027 |
+| 22.08.40.00 | Aguardente de Cana | VILA SUIÇA | Não Retornável | 670 | MG 001256-4.000027 |
+| 22.08.40.00 | Rum Leve | LAMAS DESTILARIA | Não Retornável | 750 | MG 001256-4.000028 |
+| 22.08.40.00 | Rum Leve | MUNHOZ OURO | Não Retornável | 750 | MG 001256-4.000028 |
+| 22.08.40.00 | Rum Leve | MUNHOZ PRATA | Não Retornável | 750 | MG 001256-4.000028 |
+| 22.08.40.00 | Rum Leve | NORMA OURO | Não Retornável | 750 | MG 001256-4.000028 |
+| 22.08.40.00 | Rum Leve | NORMA CRISTAL | Não Retornável | 750 | MG 001256-4.000028 |
+
+**Art. 2º** - O estabelecimento acima identificado deverá cumprir as obrigações estabelecidas pela Instrução Normativa RFB nº 1.432, de 26 de dezembro de 2013 e suas alterações posteriores, bem como observar os demais atos legais e normativos, sob pena de ter este registro especial cancelado.
+
+**Art. 3º** - Este Ato Declaratório Executivo entra em vigor na data de sua publicação.
+
+FLÁVIO ANTÔNIO SOUZA ABREU

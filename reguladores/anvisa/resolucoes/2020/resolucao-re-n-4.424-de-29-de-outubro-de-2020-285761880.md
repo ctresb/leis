@@ -1,0 +1,154 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 4.424, DE 29 DE OUTUBRO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "4424"
+data: 2020-10-29
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 03/11/2020, seção 1, p. 550"
+data_publicacao: 2020-11-03
+edicao: "209"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.424-de-29-de-outubro-de-2020-285761880"
+sha256_html_fonte: 19e412c5042c9ff1a818eaa7359b07602e457a81de2863778bc5770da65f167e
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 4.424, DE 29 DE OUTUBRO DE 2020
+
+RESOLUÇÃO-RE Nº 4.424, DE 29 DE OUTUBRO DE 2020
+
+O Coordenador de Autorização de Funcionamento de Empresas, Substituto, no uso das atribuições que lhe confere o art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º.** Alterar a Autorização de Funcionamento das Empresas constantes no anexo desta Resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+FP COMERCIO E SERVIÇO EIRELI / 07.366.605/0001-40
+
+25351.068452/2011-00 / 8073072
+
+867 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 3231039207
+
+--------------------------------------
+
+STOCK MED PRODUTOS MEDICO-HOSPITALARES LTDA. / 06.106.005/0001-80
+
+25025.000007/2009-01 / 8060785
+
+7056 - AFE/AE - Recurso Administrativo - DEMAIS EMPRESAS (exceto farmácia e drogaria) / 3586526202
+
+--------------------------------------
+
+W M DOS SANTOS INSTRUMENTOS MÉDICOS / 29.326.422/0001-33
+
+25351.968806/2020-08 / 8208356
+
+867 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 3166715207
+
+--------------------------------------
+
+Mouragro Comércio de Produtos Agropecuários e Agronegócios - EIRELI / 19.219.732/0001-03
+
+25351.031304/2020-11 / 3091926
+
+716 - AFE - ALTERAÇÃO - SANEANTES DOMISSANITÁRIOS - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 3231084202
+
+--------------------------------------
+
+SUPER DIAGNOSTICA PRODS HOSP LTDA EPP / 27.437.056/0001-64
+
+25351.395851/2017-14 / 8154177
+
+866 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - ENDEREÇO / 3245718209
+
+--------------------------------------
+
+DDF INDUSTRIA DE COSMETICOS LTDA / 23.231.422/0001-73
+
+25351.728160/2017-14 / 2098499
+
+724 - AFE - ALTERAÇÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - RAZÃO SOCIAL / 3231103207
+
+25351.728160/2017-14 / 2098499
+
+751 - AFE - ALTERAÇÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - ENDEREÇO MATRIZ / 3231047200
+
+--------------------------------------
+
+ELLO DISTRIBUIDORA DE MEDICAMENTOS EIRELI / 03.748.673/0001-12
+
+25351.033399/2020-16 / 3093225
+
+714 - AFE - ALTERAÇÃO - SANEANTES DOMISSANITÁRIOS - ENDEREÇO MATRIZ / 3245757204
+
+--------------------------------------
+
+LLS LOGÍSTICA LTDA ME / 20.330.046/0001-86
+
+25351.050215/2016-17 / 1154672
+
+7127 - AFE - ALTERAÇÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - ARMAZENADORA - ENDEREÇO MATRIZ / 3231160201
+
+--------------------------------------
+
+reaw industria e comercio de produtos odontologicos ltda - me / 11.959.613/0001-77
+
+25351.340572/2011-18 / 8077273
+
+866 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - ENDEREÇO / 1666720204
+
+--------------------------------------
+
+FENIX COMERCIO DE PRODUTOS HOSPITALARES LTDA / 33.398.831/0001-12
+
+25351.626742/2019-29 / 1196071
+
+7072 - AFE - ALTERAÇÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA - REDUÇÃO DE CLASSES / 3245728204
+
+--------------------------------------
+
+TESTA TRANSPORTES EIRELI / 01.385.726/0001-52
+
+25351.817788/2016-62 / 1151541
+
+7120 - AFE - ALTERAÇÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA - ENDEREÇO MATRIZ / 3245996209
+
+25351.817788/2016-62 / 1151541
+
+7119 - AFE - ALTERAÇÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA - RAZÃO SOCIAL / 3245828209
+
+--------------------------------------
+
+LLS LOGÍSTICA LTDA ME / 20.330.046/0001-86
+
+25351.050226/2016-68 / 2086795
+
+751 - AFE - ALTERAÇÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - ENDEREÇO MATRIZ / 3230962206
+
+--------------------------------------
+
+THALMEC - MED COMERCIAL LTDA - ME / 20.699.933/0001-26
+
+25351.176382/2015-75 / 3063118
+
+716 - AFE - ALTERAÇÃO - SANEANTES DOMISSANITÁRIOS - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 3245831200
+
+--------------------------------------
+
+vale diagnosticos ltda - epp / 23.980.789/0001-90
+
+25351.338813/2016-82 / 8141615
+
+867 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 3231170206
+
+--------------------------------------
+
+UNIMED NORDESTE PAULISTA FEDERAÇÃO INTRAFEDERATIVA DAS COOPERATIVAS MEDICAS / 01.559.455/0001-04
+
+25000.049508/99-22 / 1045890
+
+7152 - AFE - ALTERAÇÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA - AMPLIAÇÃO DE ATIVIDADES / 3231148201

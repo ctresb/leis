@@ -1,0 +1,178 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 1.717, DE 15 DE MAIO DE 2023"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "1717"
+data: 2023-05-15
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 16/05/2023, seção 1, p. 102"
+data_publicacao: 2023-05-16
+edicao: "92"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.717-de-15-de-maio-de-2023-483426531"
+sha256_html_fonte: cb4421dce134163d651e1ca8ccb795b09eab83707b56f341571917b4b0464c7f
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE Nº 1.717, DE 15 DE MAIO DE 2023
+
+RESOLUÇÃO-RE Nº 1.717, DE 15 DE MAIO DE 2023
+
+O Coordenador de Autorização de Funcionamento de Empresas, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Alterar a Autorização de Funcionamento das Empresas constantes no anexo desta Resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+MODELO COMÉRCIO DE MATERIAL HOSPITALAR LTDA - EPP / 05.900.468/0001-56
+
+25351.686915/2017-04 / 2098087
+
+7170 - AFE - ALTERAÇÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 0269319239
+
+--------------------------------------
+
+TA & TALY DROGARIA LTDA / 02.438.335/0001-11
+
+25351.080798/2014-10 / 7110657
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0487253230
+
+--------------------------------------
+
+SANTO ANTONIO COMERCIO DE MEDICAMENTOS LTDA / 23.693.521/0001-77
+
+25351.192664/2016-11 / 7465749
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0487545231
+
+--------------------------------------
+
+TM CARGAS AEREAS E REPRESENTACOES LTDA - EPP / 01.491.071/0002-88
+
+25351.734045/2014-15 / 8115604
+
+866 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - ENDEREÇO / 0263873234
+
+--------------------------------------
+
+URTIFARMA COMERCIO DE INSTRUMENTOS E MATERIAIS PARA USO MEDICO LTDA / 01.366.497/0001-29
+
+25351.050873/2023-17 / 8264244
+
+867 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 0263943232
+
+--------------------------------------
+
+SUPERNOVA INDUSTRIA COMERCIO E SERVICOS LTDA / 10.936.347/0001-02
+
+25351.366325/2015-17 / 2081341
+
+751 - AFE - ALTERAÇÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - ENDEREÇO MATRIZ / 0264402235
+
+--------------------------------------
+
+DROGARIA CINTRA FARMA LTDA / 05.973.252/0001-10
+
+25351.677802/2008-19 / 0568989
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0487501233
+
+--------------------------------------
+
+JOAO VICTOR M DE ALMEIDA LTDA / 20.004.553/0001-20
+
+25351.511876/2014-31 / 7281424
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0481971238
+
+--------------------------------------
+
+JANAINA P. DE ALMEIDA PEREIRA LTDA / 08.069.226/0001-50
+
+25351.403950/2006-37 / 0476821
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0488266238
+
+--------------------------------------
+
+DROGARIA VENANCIO OLIVEIRA LTDA / 41.681.214/0001-58
+
+25351.001374/2003-44 / 0277241
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0480938237
+
+--------------------------------------
+
+GALLAXXYFARMA COMERCIO DE PRODUTOS FARMACEUTICOS LTDA / 22.262.173/0001-10
+
+25351.949898/2016-46 / 1153234
+
+70800 - AFE - ALTERAÇÃO - MEDICAMENTOS E/OU INSUMOS FARMACÊUTICOS - RAZÃO SOCIAL / 0486932231
+
+--------------------------------------
+
+GP COMERCIO DE PRODUTOS FARMACEUTICOS LTDA / 27.885.808/0001-50
+
+25351.590600/2017-54 / 7549780
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0481637231
+
+--------------------------------------
+
+GREEN MED DISTRIBUIDORA LTDA / 21.233.670/0001-28
+
+25351.583102/2017-55 / 8157935
+
+866 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - ENDEREÇO / 0269025235
+
+--------------------------------------
+
+DROGARIA VITAL SAUDE LTDA / 26.112.492/0002-81
+
+25351.570896/2019-59 / 7683532
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0481172238
+
+--------------------------------------
+
+DROGARIA DO TRABALHADOR LTDA / 33.508.173/0001-74
+
+25351.215777/2020-70 / 7715891
+
+70800 - AFE - ALTERAÇÃO - MEDICAMENTOS E/OU INSUMOS FARMACÊUTICOS - RAZÃO SOCIAL / 0482188235
+
+--------------------------------------
+
+TTM MEDICAL PRODUTOS MEDICOS LTDA / 41.454.359/0001-16
+
+25351.088124/2022-73 / 8243462
+
+867 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 0264847237
+
+--------------------------------------
+
+DENTAL ASTRAL PRODUTOS ODONTOLOGICOS LTDA / 38.613.149/0001-19
+
+25351.491785/2022-82 / 8247831
+
+866 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - ENDEREÇO / 0269026231
+
+--------------------------------------
+
+M G PROD E MED FARMACEUTICOS LTDA / 17.100.899/0001-17
+
+25351.221713/2013-89 / 0940674
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0487416236
+
+--------------------------------------
+
+SUBLIME DENTAL HOSPITALAR LTDA / 40.782.227/0001-50
+
+25351.524626/2021-91 / 8224421
+
+829 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - RAZÃO SOCIAL / 0487378237

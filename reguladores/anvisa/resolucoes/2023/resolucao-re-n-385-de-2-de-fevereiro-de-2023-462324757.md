@@ -1,0 +1,152 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 385, DE 2 DE FEVEREIRO DE 2023"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos"
+tipo: "Resolução"
+numero: "385"
+data: 2023-02-02
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 06/02/2023, seção 1, p. 59"
+data_publicacao: 2023-02-06
+edicao: "26"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-385-de-2-de-fevereiro-de-2023-462324757"
+sha256_html_fonte: dd11c230ccf8820ad5ece5f1c7a068912170abc1fdfb547e8b993cf3690728b6
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE Nº 385, DE 2 DE FEVEREIRO DE 2023
+
+RESOLUÇÃO-RE Nº 385, DE 2 DE FEVEREIRO DE 2023
+
+A Gerente-Geral substituta de Medicamentos, no uso das atribuições que lhe confere o art. 100, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Cancelar o registro sanitário de medicamentos e insumos farmacêuticos, ou de apresentações, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor a partir da data de sua publicação.
+
+FLÁVIA NEVES ROCHA ALVES
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+PRINCIPIO(S) ATIVO(S)
+
+----------------------------
+
+GERMED FARMACEUTICA LTDA 45992062000165
+
+glimepirida 25351.067425/2019-68 01/2030
+
+10088 GENERICO - CANCELAMENTO DE REGISTRO DO MEDICAMENTO - ANVISA 0076109/23-5
+
+1.0583.0966.001-4 24 Meses
+
+4MG COM CT BL AL PLAS OPC X 15
+
+1.0583.0966.002-2 24 Meses
+
+4MG COM CT BL AL PLAS OPC X 30
+
+1.0583.0966.003-0 24 Meses
+
+4MG COM CT BL AL PLAS OPC X 60
+
+1.0583.0966.004-9 24 Meses
+
+4MG COM CT BL AL PLAS OPC X 250
+
+1.0583.0966.005-7 24 Meses
+
+1MG COM CT BL AL PLAS OPC X 7
+
+1.0583.0966.006-5 24 Meses
+
+1MG COM CT BL AL PLAS OPC X 15
+
+1.0583.0966.007-3 24 Meses
+
+1MG COM CT BL AL PLAS OPC X 30
+
+1.0583.0966.008-1 24 Meses
+
+1MG COM CT BL AL PLAS OPC X 60
+
+1.0583.0966.009-1 24 Meses
+
+1MG COM CT BL AL PLAS OPC X 100 (EMB FRAC)
+
+1.0583.0966.010-3 24 Meses
+
+1MG COM CT BL AL PLAS OPC X 120
+
+1.0583.0966.011-1 24 Meses
+
+1MG COM CT BL AL PLAS OPC X 250
+
+1.0583.0966.012-1 24 Meses
+
+1MG COM CT BL AL PLAS OPC X 450
+
+1.0583.0966.013-8 24 Meses
+
+2MG COM CT BL AL PLAS OPC X 7
+
+1.0583.0966.014-6 24 Meses
+
+2MG COM CT BL AL PLAS OPC X 15
+
+1.0583.0966.015-4 24 Meses
+
+2MG COM CT BL AL PLAS OPC X 30
+
+1.0583.0966.016-2 24 Meses
+
+2MG COM CT BL AL PLAS OPC X 60
+
+1.0583.0966.017-0 24 Meses
+
+2MG COM CT BL AL PLAS OPC X 100 (EMB FRAC)
+
+1.0583.0966.018-9 24 Meses
+
+2MG COM CT BL AL PLAS OPC X 120
+
+1.0583.0966.019-7 24 Meses
+
+2MG COM CT BL AL PLAS OPC X 250
+
+1.0583.0966.020-0 24 Meses
+
+2MG COM CT BL AL PLAS OPC X 450
+
+----------------------------
+
+UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A 60665981000118
+
+DIMENIDRINATO + CLORIDRATO DE PIRIDOXINA
+
+NAUSICALM B6 25000.026042/97-15 05/2028
+
+10087 SIMILARES - CANCELAMENTO DE REGISTRO DO MEDICAMENTO - ANVISA 0085759/23-9
+
+1.0497.1128.002-7 24 Meses
+
+50 MG/ML + 50 MG/ML SOL INJ CT 50 AMP VD TRANS X 1 ML
+
+1.0497.1128.003-5 24 Meses
+
+50 MG/ML + 50 MG/ML SOL INJ CT 6 AMP VD TRANS X 1 ML
+
+1.0497.1128.004-3 24 Meses
+
+25 MG/ML + 5 MG/ML SOL OR CT FR GOT PLAS OPC X 20 ML

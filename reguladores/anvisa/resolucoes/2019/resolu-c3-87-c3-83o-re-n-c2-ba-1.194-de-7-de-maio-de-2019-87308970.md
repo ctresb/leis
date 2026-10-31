@@ -1,0 +1,80 @@
+---
+titulo: "RESOLUÇÃO-RE nº 1.194, DE 7 DE MAIO DE 2019"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "1194"
+data: 2019-05-07
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 08/05/2019, seção 1, p. 95"
+data_publicacao: 2019-05-08
+edicao: "87"
+fonte: "https://www.in.gov.br/web/dou/-/resolu%C3%87%C3%83o-re-n%C2%BA-1.194-de-7-de-maio-de-2019-87308970"
+sha256_html_fonte: 6c00c72c28fd5bbb7ddf49f1243de9050369ed326c58ac16d62f4e6fb4fb6f5f
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE nº 1.194, DE 7 DE MAIO DE 2019
+
+RESOLUÇÃO-RE nº 1.194, DE 7 DE MAIO DE 2019
+
+O Gerente-Geral de Inspeção e Fiscalização Sanitária, no uso das atribuições que lhe confere o art. 171, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018; resolve:
+
+**Art. 1º** Adotar a(s) medida(s) cautelar(es) contante(s) no ANEXO.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+RONALDO LUCIO Ponciano gomes
+
+## anexo
+
+1\. Empresa: Desconhecida - CNPJ:
+
+Produto - Apresentação (Lote): UNARO PECAN(LOTES A PARTIR DE 01/01/2018);
+
+Tipo de Produto: Medicamento
+
+Expediente nº: 0402423/19-1
+
+Assunto: 70351 - MEDIDA CAUTELAR- Ações de Fiscalização em Vigilância Sanitária
+
+Ações de fiscalização: Proibição - Comercialização, Distribuição, Fabricação, Propaganda, Uso
+
+Motivação: Considerando a comprovação da (http://unaropecanoficial.com.br/) do produto sem registro, notificação ou cadastro da ANVISA, em desacordo com os Arts° 12, 50 e 59 da Lei n° 6.360, de 23 de setembro de 1976.
+
+.........................................
+
+2\. Empresa: EMS S/A - CNPJ: 57.507.378/0003-65
+
+Produto - Apresentação (Lote): BRASART - 80MG COM REV CT BL AL AL X 30(0P2051 E 0Q4750);BRASART - 160MG COM REV CT BL AL AL X 30(0P2053);BRASART - 160MG COM REV CT BL AL AL X 30(0P8484);BRASART - 160MG COM REV CT BL AL AL X 30(0Q4751);BRASART - 320 MG COM REV. CT BL AL/AL X 30(0O0607);BRASART - 320 MG COM REV. CT BL AL/AL X 30(0R3122);BRASART - 320 MG COM REV. CT BL AL/AL X 30(0S4124);BRASART BCC - 160 MG + 5 MG COM REV CT BL AL AL X 10(0Q4806);BRASART BCC - 160 MG + 5 MG COM REV CT BL AL AL X 10(0R5752);BRASART BCC - 160 MG + 5 MG COM REV CT BL AL AL X 60(0Q4796 E 0S5558);BRASART BCC - 320 MG + 5 MG COM REV CT BL AL AL X 10(0M7466);BRASART BCC - 320 MG + 5 MG COM REV CT BL AL AL X 30(0L8510);BRASART BCC - 320 MG + 5 MG COM REV CT BL AL AL X 30(0N9443);BRASART BCC - 320 MG + 5 MG COM REV CT BL AL AL X 30(0Q5026);BRASART BCC - 320 MG + 5 MG COM REV CT BL AL AL X 60(0L6399);BRASART BCC - 320 MG + 10 MG COM REV CT BL AL AL X 30(0K18449);BRASART BCC - 320 MG + 10 MG COM REV CT BL AL AL X 30(0M9215);BRASART HCT - 160 MG + 12,5 MG COM REV CT BL AL AL X 30(0R9971);BRASART HCT - 160 MG + 12,5 MG COM REV CT BL AL AL X 90(0P7277);BRASART HCT - 160 MG + 25 MG COM REV CT BL AL AL X 30(0Q4761);BRASART HCT - 160 MG + 25 MG COM REV CT BL AL AL X 30(0K1902);BRASART HCT - 160 MG + 25 MG COM REV CT BL AL AL X 30(0M9187);BRASART HCT - 160 MG + 25 MG COM REV CT BL AL AL X 30(0R5663);BRASART HCT - 320 MG + 12,5 MG COM REV CT BL AL AL X 30(0M9208);BRASART HCT - 320 MG + 12,5 MG COM REV CT BL AL AL X 30(0N5025);BRASART HCT - 320 MG + 12,5 MG COM REV CT BL AL AL X 30(0O0572);BRASART HCT - 320 MG + 12,5 MG COM REV CT BL AL AL X 30(0P2093);BRASART HCT - 320 MG + 12,5 MG COM REV CT BL AL AL X 30(OQ4784);BRASART HCT - 320 MG + 12,5 MG COM REV CT BL AL AL X 30(0R3634);BRASART HCT - 320 MG + 25 MG COM REV CT BL AL AL X 30(0K1905);BRASART HCT - 320 MG + 25 MG COM REV CT BL AL AL X 30(0N5020);BRASART HCT - 320 MG + 25 MG COM REV CT BL AL AL X 30(0N5021);BRASART HCT - 320 MG + 25 MG COM REV CT BL AL AL X 30(0P2073);BRASART HCT - 320 MG + 25 MG COM REV CT BL AL AL X 30(0P2074);BRASART HCT - 320 MG + 25 MG COM REV CT BL AL AL X 30(0Q4760);BRASART HCT - 320 MG + 25 MG COM REV CT BL AL AL X 30(0Q4758);BRASART HCT - 320 MG + 25 MG COM REV CT BL AL AL X 30(0Q4759);VALSARTANA - 80MG COM REV CT BL AL AL X 30(0P1483);VALSARTANA - 80MG COM REV CT BL AL AL X 30(0Q4432);VALSARTANA - 80MG COM REV CT BL AL AL X 30(0R5429);VALSARTANA - 160MG COM REV CT BL AL AL X 30(0Q4435);VALSARTANA - 160MG COM REV CT BL AL AL X 30(0Q4436);VALSARTANA - 160MG COM REV CT BL AL AL X 30(0Q4437);VALSARTANA - 160MG COM REV CT BL AL AL X 30(0Q4438);VALSARTANA - 160MG COM REV CT BL AL AL X 30(0R1000);VALSARTANA - 160MG COM REV CT BL AL AL X 30(0R5948);VALSARTANA - 160MG COM REV CT BL AL AL X 30(0R5950);VALSARTANA - 320 MG COM REV CT BL AL AL X 30(0J5245);VALSARTANA - 320 MG COM REV CT BL AL AL X 30(0K1133);VALSARTANA - 320 MG COM REV CT BL AL AL X 30(0M8461);VALSARTANA - 320 MG COM REV CT BL AL AL X 30(0N4738);VALSARTANA - 320 MG COM REV CT BL AL AL X 30(0N4739);VALSARTANA - 320 MG COM REV CT BL AL AL X 30(0P1493);VALSARTANA - 320 MG COM REV CT BL AL AL X 30(0P1494);VALSARTANA - 320 MG COM REV CT BL AL AL X 30(0P8392);VALSARTANA - 320 MG COM REV CT BL AL AL X 30(0R5440);VALSARTANA - 320 MG COM REV CT BL AL AL X 30(0R5441);VALSARTANA - 320 MG COM REV CT BL AL AL X 30(0R5443);VALSARTANA - 320 MG COM REV CT BL AL AL X 30(0S4126);VALSARTANA - 320 MG COM REV CT BL AL AL X 30(0R5439);VALSARTANA - 320 MG COM REV CT BL AL AL X 30(0S4125);VALSARTANA - 80MG COM REV CT BL AL AL X 30(0P1758 E 0Q4544);VALSARTANA - 160MG COM REV CT BL AL AL X 30(0P1780 E 0Q4550);VALSARTANA - 160MG COM REV CT BL AL AL X 30(0Q4551 E 0R0999);VALSARTANA - 160MG COM REV CT BL AL AL X 30(0R3585 E 0R6329);VALSARTANA - 320 MG COM REV. CT BL AL/AL X 30(0K1369 E 0L2550);VALSARTANA - 320 MG COM REV. CT BL AL/AL X 30(0P1782 E 0P1784);VALSARTANA - 320 MG COM REV. CT BL AL/AL X 30(0R6332 E 0R6333);VALSARTANA - 320 MG COM REV. CT BL AL/AL X 30(0R6334 E 0S4128);VALSARTANA - 160MG COM REV CT BL AL AL X 30(0Q4627 E 0R6030);VALSARTANA - 80MG COM REV CT BL AL AL X 30(0P7264);VALSARTANA - 160MG COM REV CT BL AL AL X 30(0Q4603 E 0R6225);VALSARTANA - 320 MG COM REV. CT BL AL/AL X 30(0Q4608 E 0R6235);
+
+Tipo de Produto: Medicamento
+
+Expediente nº: 0402581/19-4
+
+Assunto: 70351 - MEDIDA CAUTELAR- Ações de Fiscalização em Vigilância Sanitária
+
+Ações de fiscalização: Recolhimento - Voluntário
+
+Suspensão - Comercialização, Distribuição, Fabricação, Uso
+
+Motivação: Considerando o comunicado voluntário em razão da utilização da matéria prima Valsartana proveniente do fornecedor Mylan Laboratories Ltd.
+
+.........................................
+
+3\. Empresa: ERVANATUS - NUTRITOP COMÉRCIO DE PRODUTOS NATURAIS LTDA - CNPJ: 08234765000106
+
+Produto - Apresentação (Lote): GINGKO BILOBA();
+
+Tipo de Produto: Medicamento
+
+Expediente nº: 0317703/19-3
+
+Assunto: 70351 - MEDIDA CAUTELAR- Ações de Fiscalização em Vigilância Sanitária
+
+Ações de fiscalização: Apreensão
+
+Inutilização
+
+Proibição - Armazenamento, Comercialização, Distribuição, Fabricação, Propaganda, Uso
+
+Motivação: Considerando a comprovação da divulgação do produto sem registro por meio do sítio eletrônico http://www.nutritop.com.br, em desacordo com o Arts. 12, 50 e 59 da Lei nº 6.360, de 23 de setembro de 1976.

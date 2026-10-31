@@ -1,0 +1,66 @@
+---
+titulo: "PORTARIA GM/MS Nº 8.661, DE 5 DE NOVEMBRO DE 2025"
+orgao: "Ministério da Saúde/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "8661"
+data: 2025-11-05
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 06/11/2025, seção 1, p. 162"
+data_publicacao: 2025-11-06
+edicao: "212"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-gm/ms-n-8.661-de-5-de-novembro-de-2025-667110747"
+baixado_em: 2026-10-16
+---
+# PORTARIA GM/MS Nº 8.661, DE 5 DE NOVEMBRO DE 2025
+
+PORTARIA GM/MS Nº 8.661, DE 5 DE NOVEMBRO DE 2025
+
+Autoriza o Estado, Município ou Distrito Federal a receber recursos financeiros destinados à aquisição de equipamentos e materiais permanentes para estabelecimentos de saúde.
+
+O MINISTRO DE ESTADO DA SAÚDE, no uso das atribuições que lhe conferem os incisos I e II do parágrafo único do art. 87 da Constituição, em observância a Lei nº 15.121, de 10 de abril de 2025, Lei Complementar nº 141, de 13 de janeiro de 2012, Lei nº 8.080, de 19 de setembro de 1990, resolve:
+
+**Art. 1º** Ficam autorizados os Estados, os Municípios ou Distrito Federal no anexo desta Portaria a receberem recursos financeiros destinados à aquisição de equipamentos e materiais permanentes para estabelecimentos de saúde.
+
+**Art. 2º** As propostas de que tratam esta portaria serão processadas no InvestSUS, disponível no portalfns.saude.gov.br.
+
+**Art. 3º** O Fundo Nacional de Saúde adotará as medidas necessárias para as transferências de recursos financeiros estabelecidos nesta Portaria aos respectivos Fundos de Saúde, em parcela única, em conformidade com os processos de pagamento instruídos pelas Secretarias Finalísticas, após atendidas as condições previstas para essa modalidade de transferência.
+
+**Art. 4º** A prestação de contas sobre a aplicação dos recursos financeiros será realizada por meio do Relatório Anual de Gestão - RAG, aprovado pelo respectivo Conselho local de saúde, nos termos dos artigos 34 a 36 da Lei Complementar nº 141, de 14 de janeiro de 2012.
+
+**Art. 5º** Esta Portaria entra em vigor na data de sua publicação.
+
+ALEXANDRE ROCHA SANTOS PADILHA
+
+## ANEXO
+
+Entes federados autorizados a receberem recursos financeiros federais destinados à aquisição de equipamentos e materiais permanentes.
+
+| UF | MUNICÍPIO | ENTIDADE | Nº DA PROPOSTA | CÓD. EMENDA | VALOR POR PARLAMENTAR (R$) | VALOR TOTAL DA PROPOSTA (R$) | FUNCIONAL PROGRAMÁTICA |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| GO | CRISTALINA | FUNDO MUNICIPAL DE SAUDE DE CRISTALINA | 11290797000125002 | 19600001 | 199.889,00 | 199.889,00 | 10302511885350052 |
+| GO | RIALMA | FUNDO MUNICIPAL DE SAUDE | 10459591000125001 | 19600001 | 199.980,00 | 199.980,00 | 10302511885350052 |
+| MS | BANDEIRANTES | FUNDO MUNICIPAL DE SAUDE DE BANDEIRANTES MS | 18229151000125001 | 40860001 | 1.499.918,00 | 1.499.918,00 | 10302511885350054 |
+| MS | CASSILANDIA | FUNDO MUNICIPAL DE SAUDE DE CASSILANDIA-MS | 14540893000125006 | 40860001 | 771.446,00 | 771.446,00 | 10302511885350054 |
+| MT | ALTO BOA VISTA | FUNDO MUNICIPAL DE SAUDE DE ALTO BOA VISTA | 11747427000125002 | 38050007 | 385.723,00 | 385.723,00 | 10302511885350051 |
+| MT | JUSCIMEIRA | FUNDO MUNICIPAL DE SAUDE | 12197647000125001 | 38050007 | 460.000,00 | 460.000,00 | 10302511885350051 |
+| PA | NOVO REPARTIMENTO | FUNDO MUNICIPAL DE SAUDE | 09555110000125002 | 40270004 | 272.600,00 | 272.600,00 | 10302511885359277 |
+| PA | OUREM | FUNDO MUNICIPAL DE SAUDE DE OUREM | 09649183000125002 | 43900002 | 355.500,00 | 355.500,00 | 10302511885350015 |
+| PB | ESPERANCA | FUNDO MUNICIPAL DE SAUDE | 12011984000125001 | 12830004 | 314.200,00 | 314.200,00 | 10302511885350025 |
+| PR | AMAPORA | FUNDO MUNICIPAL DE SAUDE | 09149520000125001 | 28740009 | 199.049,00 | 199.049,00 | 10302511885350041 |
+| PR | SIQUEIRA CAMPOS | FUNDO DE SAUDE DO MUNICIPIO DE SIQUEIRA CAMPOS | 09353968000125004 | 30840004 | 646.625,00 | 646.625,00 | 10302511885350041 |
+| RN | JARDIM DO SERIDO | FUNDO MUNICIPAL DE SAUDE DE JARDIM DO SERIDO | 11341171000125001 | 39940020 | 385.723,00 | 385.723,00 | 10302511885350024 |
+| RO | NOVA MAMORE | FUNDO MUNICIPAL DE SAUDE DE NOVA MAMORE | 22992304000125002 | 43310007 | 314.200,00 | 314.200,00 | 10302511885350011 |
+| RO | PRESIDENTE MEDICI | FUNDO MUNICIPAL DE SAUDE | 08460326000125006 | 92240004 | 566.774,00 | 566.774,00 | 10302511885350011 |
+| RS | HUMAITA | FUNDO MUNICIPAL DE SAUDE | 11842908000125007 | 30770003 | 314.200,00 | 314.200,00 | 10302511885350043 |
+| RS | NOVA HARTZ | FUNDO MUNICIPAL DE SAUDE DE NOVA HARTZ | 12094862000125020 | 43080001 | 385.723,00 | 385.723,00 | 10302511885350043 |
+| RS | PARAISO DO SUL | FUNDO MUNICIPAL DE SAUDE | 12991728000125003 | 41160004 | 314.200,00 | 314.200,00 | 10302511885350043 |
+| RS | SAO JOSE DO NORTE | FUNDO MUNICIPAL DE SAUDE | 12071532000125007 | 41160004 | 249.906,00 | 249.906,00 | 10302511885350043 |
+| SC | BENEDITO NOVO | FUNDO MUNICIPAL DE SAUDE DE BENEDITO NOVO | 10624466000125004 | 44010004 | 385.723,00 | 385.723,00 | 10302511885350042 |
+| SC | MACIEIRA | FUNDO MUNICIPAL DE SAUDE DE MACIEIRA | 01996270000125003 | 40620004 | 314.200,00 | 314.200,00 | 10302511885350042 |
+| SP | DIADEMA | FUNDO MUNICIPAL DE SAUDE DE DIADEMA | 11862440000125002 | 41710014 | 999.960,00 | 999.960,00 | 10302511885350035 |
+| SP | PIRASSUNUNGA | FUNDO MUNICIPAL DE SAUDE | 12094290000125001 | 31600016 | 385.723,00 | 385.723,00 | 10302511885350035 |
+| SP | PIRATININGA | FUNDO MUNICIPAL DE SAUDE DE PIRATININGA | 11951695000125010 | 25170009 | 385.723,00 | 385.723,00 | 10302511885350035 |
+| SP | SARAPUI | FUNDO MUNICIPAL DE SAUDE DE SARAPUI | 97530536000125009 | 37770002 | 385.723,00 | 385.723,00 | 10302511885350035 |
+| TO | ARAPOEMA | FUNDO MUNICIPAL DE SAUDE | 11379774000125001 | 43050001 | 385.723,00 | 385.723,00 | 10302511885350017 |
+| TOTAL | 25 PROPOSTAS |  | 11.078.431,00 |  |  |  |  |

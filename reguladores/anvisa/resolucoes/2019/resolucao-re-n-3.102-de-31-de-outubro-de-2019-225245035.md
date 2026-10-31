@@ -1,0 +1,202 @@
+---
+titulo: "RESOLUÇÃO-RE nº 3.102, de 31 de outubro de 2019"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "3102"
+data: 2019-10-31
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 04/11/2019, seção 1, p. 166"
+data_publicacao: 2019-11-04
+edicao: "213"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.102-de-31-de-outubro-de-2019-225245035"
+sha256_html_fonte: 1ddc6373604a8e5b6130b55ef392f20e61f1da359b276d3fc6e0560e32942f3a
+baixado_em: 2026-10-27
+---
+# RESOLUÇÃO-RE nº 3.102, de 31 de outubro de 2019
+
+RESOLUÇÃO-RE nº 3.102, de 31 de outubro de 2019
+
+O Gerente-Geral de Inspeção e Fiscalização Sanitária, no uso das atribuições que lhe confere o art. 171, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018,
+
+considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:
+
+**Art. 1º** Conceder à(s) Empresa(s) constante(s) no ANEXO, a Certificação de Boas Práticas de Fabricação de Medicamentos.
+
+**Art. 2º** A presente Certificação terá validade de 2 (dois) anos a partir da sua publicação.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+RONALDO LUCIO PONCIANO GOMES
+
+## ANEXO
+
+EMPRESA FABRICANTE: CATALENT BELGIUM S.A.
+
+ENDEREÇO: FONT SAINT LANDRY 10, BRUXELAS, 1120 - PAÍS: BÉLGICA - CÓDIGO ÚNICO: A.0131
+
+EMPRESA SOLICITANTE: Samsung Bioepis br Pharmaceutical ltda. - CNPJ: 24.563.776/0001-88
+
+AUTORIZ/MS: 1159210 - EXPEDIENTE(s): 0417369/19-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: JANSSEN CILAG S.P.A.
+
+ENDEREÇO: VIA C.JANSSEN (LOC. BORGO S. MICHELE) - 04100 LATINA (LT) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.0327
+
+EMPRESA SOLICITANTE: BIOGEN BRASIL PRODUTOS FARMACÊUTICOS LTDA - CNPJ: 07.986.222/0001-74
+
+AUTORIZ/MS: 1069938 - EXPEDIENTE(s): 0347081/19-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas
+
+.........................................
+
+EMPRESA FABRICANTE: MERCK S.A DE C.V
+
+ENDEREÇO: CALLE 5, Nº 7, COL. FRACCIONAMIENTO INDUSTRIAL ALCE BLANCO, C.P.53370, NAUCALPAN DE JUÁREZ, NAUCALPAN - PAÍS: MÉXICO - CÓDIGO ÚNICO: A.0406
+
+EMPRESA SOLICITANTE: PROCTER & GAMBLE DO BRASIL LTDA - CNPJ: 59.476.770/0001-58
+
+AUTORIZ/MS: 1021422 - EXPEDIENTE(s): 0458736/19-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: ANDERSONBRECON (UK) LIMITED
+
+ENDEREÇO: UNITS 2-7, WYE VALLEY BUSINESS PARK, BRECON ROAD, HAY-ON-WYE, HEREFORD, HR3 5PG - PAÍS: REINO UNIDO - CÓDIGO ÚNICO: A.0834
+
+EMPRESA SOLICITANTE: PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. - CNPJ: 33.009.945/0001-23
+
+AUTORIZ/MS: 1001004 - EXPEDIENTE(s): 0417385/19-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem primária; Embalagem secundária): Cápsulas
+
+.........................................
+
+EMPRESA FABRICANTE: NANJING KING-FRIEND BIOCHEMICAL PHARMACEUTICAL CO., LTD
+
+ENDEREÇO: NO. 16 XUEFU ROAD, NANJING HIGH & NEW TECHNOLOGY DEVELOPMENT ZONE, NANJING, JIANGSU 210061 - PAÍS: CHINA, REPÚBLICA POPULAR - CÓDIGO ÚNICO: A.0424
+
+EMPRESA SOLICITANTE: CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. - CNPJ: 44.734.671/0001-51
+
+AUTORIZ/MS: 1002981 - EXPEDIENTE(s): 0419280/19-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: BAXTER ONCOLOGY GMBH
+
+ENDEREÇO: KANTSTRASSE 2, 33790 HALLE/ WESTFALEN - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.0080
+
+EMPRESA SOLICITANTE: AMGEN BIOTECNOLOGIA DO BRASIL LTDA. - CNPJ: 18.774.815/0001-93
+
+AUTORIZ/MS: 1102440 - EXPEDIENTE(s): 1346423/19-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Pós Liofilizados
+
+.........................................
+
+EMPRESA FABRICANTE: ACTAVIS ITALY S.P.A.
+
+ENDEREÇO: VIA PASTEUR, 10 - 20014 NERVIANO (MI) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.0013
+
+EMPRESA SOLICITANTE: AMGEN BIOTECNOLOGIA DO BRASIL LTDA. - CNPJ: 18.774.815/0001-93
+
+AUTORIZ/MS: 1102440 - EXPEDIENTE(s): 0305476/19-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Pós Liofilizados
+
+.........................................
+
+EMPRESA FABRICANTE: INDUSTRIAS FARMACÉUTICAS ALMIRALL S.L.
+
+ENDEREÇO: CTRA. NACIONAL II, KM 593 - 08740 - SANT ANDREU DE LA BARCA - BARCELONA -ES. - PAÍS: ESPANHA - CÓDIGO ÚNICO: A.0754
+
+EMPRESA SOLICITANTE: ASTRAZENECA DO BRASIL LTDA - CNPJ: 60.318.797/0001-00
+
+AUTORIZ/MS: 1016181 - EXPEDIENTE(s): 0408454/19-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Pós
+
+.........................................
+
+EMPRESA FABRICANTE: FARMACEUTICI FORMENTI S.P.A
+
+ENDEREÇO: VIA DI VITTORIO 2 - 21040 ORIGGIO (VA) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.0224
+
+EMPRESA SOLICITANTE: Samsung Bioepis br Pharmaceutical ltda. - CNPJ: 24.563.776/0001-88
+
+AUTORIZ/MS: 1159210 - EXPEDIENTE(s): 0292037/19-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: CATALENT PHARMA SOLUTIONS LLC
+
+ENDEREÇO: 1100 ENTERPRISE DRIVE, WINCHESTER, KENTUCKY (KY) 40391 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.0136
+
+EMPRESA SOLICITANTE: PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. - CNPJ: 33.009.945/0001-23
+
+AUTORIZ/MS: 1001004 - EXPEDIENTE(s): 0417371/19-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Cápsulas
+
+.........................................
+
+EMPRESA FABRICANTE: FRESENIUS KABI NORGE AS
+
+ENDEREÇO: SVINESUNDSVEIEN 80 AND SVINESUNDSVEIEN 336, HALDEN, NO - 1788 - PAÍS: NORUEGA - CÓDIGO ÚNICO: A.0235
+
+EMPRESA SOLICITANTE: FRESENIUS KABI BRASIL LTDA - CNPJ: 49.324.221/0001-04
+
+AUTORIZ/MS: 1000410 - EXPEDIENTE(s): 0419620/19-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+.........................................
+
+EMPRESA FABRICANTE: ASPEN NOTRE DAME DE BONDEVILLE
+
+ENDEREÇO: 1, RUE DE L'ABBAYE, 76960 NOTRE DAME DE BONDEVILLE - PAÍS: FRANÇA - CÓDIGO ÚNICO: A.0261
+
+EMPRESA SOLICITANTE: GLAXOSMITHKLINE BRASIL LTDA - CNPJ: 33.247.743/0001-10
+
+AUTORIZ/MS: 1001071 - EXPEDIENTE(s): 0143540/19-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+.........................................
+
+EMPRESA FABRICANTE: EUGIA PHARMA SPECIALITES LIMITED
+
+ENDEREÇO: SURVEY NOS. 550,551 E 552,KOLTHUR VILLAGE,SHAMIRPET MANDAL, MEDCHAL-MALKAJGIRI DISTRICT, TELANGANA - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.1350
+
+EMPRESA SOLICITANTE: AUROBINDO PHARMA INDÚSTRIA FARMACÊUTICA LIMITADA - CNPJ: 04.301.884/0001-75
+
+AUTORIZ/MS: 1051679 - EXPEDIENTE(s): 1117897/18-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Hormônios): Cápsulas Moles
+
+Sólidos não estéreis (Citotóxicos): Cápsulas; Cápsulas Moles; Comprimidos; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: EUGIA PHARMA SPECIALITES LIMITED
+
+ENDEREÇO: SURVEY NOS. 550,551 E 552,KOLTHUR VILLAGE,SHAMIRPET MANDAL, MEDCHAL-MALKAJGIRI DISTRICT, TELANGANA - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.1350
+
+EMPRESA SOLICITANTE: AUROBINDO PHARMA INDÚSTRIA FARMACÊUTICA LIMITADA - CNPJ: 04.301.884/0001-75
+
+AUTORIZ/MS: 1051679 - EXPEDIENTE(s): 1117930/18-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Hormônios): Suspensões com Preparação Asséptica
+
+Produtos estéreis (Citotóxicos): Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Esterilização Terminal; Soluções Parenterais de Pequeno Volume com Preparação Asséptica

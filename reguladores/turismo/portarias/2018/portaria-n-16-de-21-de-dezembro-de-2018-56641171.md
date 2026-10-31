@@ -1,0 +1,28 @@
+---
+titulo: "PORTARIA nº 16, de 21 de dezembro de 2018"
+orgao: "Ministério do Turismo/Secretaria Nacional de Estruturação do Turismo"
+tipo: "Portaria"
+numero: "16"
+data: 2018-12-21
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 24/12/2018, seção 1, p. 162"
+data_publicacao: 2018-12-24
+edicao: "246"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-16-de-21-de-dezembro-de-2018-56641171"
+sha256_html_fonte: 7da4281da2b072c65186fdf9c3cdd40747d8b4f1343e2863390e53e261a5b47d
+baixado_em: 2026-10-27
+---
+# PORTARIA nº 16, de 21 de dezembro de 2018
+
+PORTARIA nº 16, de 21 de dezembro de 2018
+
+O SECRETÁRIO NACIONAL DE ESTRUTURAÇÃO DO TURISMO, no uso das atribuições que lhe confere a Portaria/SE/MTur nº 84, de 7 de outubro de 2015, publicada no Diário Oficial da União de 9 de outubro de 2015, resolve:
+
+**Art. 1º** Fica prorrogado, até 01 de março de 2019, o prazo para cumprimento das cláusulas suspensivas do Termo de Compromisso n.º 0412.718-82/2013 conforme o subitem 3 do item 7 do Manual de Instruções para Celebração e Execução dos Termos de Compromisso do Ministério do Turismo inseridos no Programa de Aceleração do Crescimento-PAC, visando à implementação de infraestrutura turística.
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação.
+
+PAULO ROBERTO ANDRÉ
+
+Substituto

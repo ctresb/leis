@@ -1,0 +1,36 @@
+---
+titulo: "PORTARIA Nº 1.182, DE 26 DE JUNHO DE 2019"
+orgao: "Poder Judiciário/Tribunal de Justiça do Distrito Federal e dos Territórios/Presidência"
+tipo: "Portaria"
+numero: "1182"
+data: 2019-06-26
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 01/07/2019, seção 1, p. 217"
+data_publicacao: 2019-07-01
+edicao: "124"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-1.182-de-26-de-junho-de-2019-180689928"
+sha256_html_fonte: 140508c3e2e58b169c6a35a0515e040969ebe96b7813c9880da4f535b6c67c9c
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 1.182, DE 26 DE JUNHO DE 2019
+
+PORTARIA Nº 1.182, DE 26 DE JUNHO DE 2019
+
+O PRESIDENTE DO TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS, no uso de sua competência legal, com fundamento no parágrafo único do artigo 24 da Lei n. 11.416, de 15 de dezembro de 2006, publicada no Diário Oficial da União, Seção 1, do dia 19 de dezembro de 2006, tendo em vista o disposto na Portaria Conjunta n. 69, de 21 de junho de 2019, publicada no Diário de Justiça Eletrônico do dia 25 de junho de 2019 e o contido no PA n. 10.852/2019, resolve:
+
+**Art. 1º** Remanejar as Funções Comissionadas e os Cargos em Comissão abaixo relacionados, conforme quadro a seguir:
+
+<table><tr></tr><tr><td><p>item</p></td><td><p>código FC/CJ</p></td><td><p>nível, descrição e origem FC/CJ</p></td><td><p>nível, descrição e destino FC/CJ</p></td></tr><tr><td><p>1</p></td><td><p>2743</p></td><td><p>FC-05 de Oficial de Gabinete, destinada ao Secretário do Juiz da 1ª Vara de Execução de Títulos Extrajudiciais da Circunscrição Judiciária de Brasília.</p></td><td><p>FC-05 de Oficial de Gabinete da 1ª Vara de Execução de Títulos Extrajudiciais da Circunscrição Judiciária de Brasília.</p></td></tr><tr><td><p>2</p></td><td><p>2816</p></td><td><p>FC-05 de Oficial de Gabinete, destinada ao Substituto do Diretor de Secretaria da 1ª Vara de Execução de Títulos Extrajudiciais da Circunscrição Judiciária de Brasília.</p></td><td><p>FC-05 de Oficial de Gabinete da 1ª Vara de Execução de Títulos Extrajudiciais da Circunscrição Judiciária de Brasília.</p></td></tr><tr><td><p>3</p></td><td><p>2670</p></td><td><p>CJ-03 de Diretor de Secretaria da 1ª Vara de Execução de Títulos Extrajudiciais da Circunscrição Judiciária de Brasília.</p></td><td><p>CJ-03 de Assessor da 1ª Vara de Execução de Títulos Extrajudiciais da Circunscrição Judiciária de Brasília.</p></td></tr><tr><td><p>4</p></td><td><p>2744</p></td><td><p>FC-05 de Oficial de Gabinete, destinada ao Secretário do Juiz da 2ª Vara de Execução de Títulos Extrajudiciais da Circunscrição Judiciária de Brasília.</p></td><td><p>FC-05 de Oficial de Gabinete da 2ª Vara de Execução de Títulos Extrajudiciais da Circunscrição Judiciária de Brasília.</p></td></tr><tr><td><p>5</p></td><td><p>2817</p></td><td><p>FC-05 de Oficial de Gabinete, destinada ao Substituto do Diretor de Secretaria da 2ª Vara de Execução de Títulos Extrajudiciais da Circunscrição Judiciária de Brasília.</p></td><td><p>FC-05 de Oficial de Gabinete da 2ª Vara de Execução de Títulos Extrajudiciais da Circunscrição Judiciária de Brasília.</p></td></tr><tr><td><p>6</p></td><td><p>2671</p></td><td><p>CJ-03 de Diretor de Secretaria da 2ª Vara de Execução de Títulos Extrajudiciais da Circunscrição Judiciária de Brasília.</p></td><td><p>CJ-03 de Assessor da 2ª Vara de Execução de Títulos Extrajudiciais da Circunscrição Judiciária de Brasília.</p></td></tr><tr><td><p>7</p></td><td><p>2745</p></td><td><p>FC-05 de Oficial de Gabinete, destinada ao Secretário do Juiz da 3ª Vara de Execução de Títulos Extrajudiciais da Circunscrição Judiciária de Brasília.</p></td><td><p>FC-05 de Oficial de Gabinete da 3ª Vara de Execução de Títulos Extrajudiciais da Circunscrição Judiciária de Brasília.</p></td></tr><tr><td><p>8</p></td><td><p>2818</p></td><td><p>FC-05 de Oficial de Gabinete, destinada ao Substituto do Diretor de Secretaria da 3ª Vara de Execução de Títulos Extrajudiciais da Circunscrição Judiciária de Brasília.</p></td><td><p>FC-05 de Oficial de Gabinete da 3ª Vara de Execução de Títulos Extrajudiciais da Circunscrição Judiciária de Brasília.</p></td></tr><tr><td><p>9</p></td><td><p>2672</p></td><td><p>CJ-03 de Diretor de Secretaria da 3ª Vara de Execução de Títulos Extrajudiciais da Circunscrição Judiciária de Brasília.</p></td><td><p>CJ-03 de Assessor da 3ª Vara de Execução de Títulos Extrajudiciais da Circunscrição Judiciária de Brasília.</p></td></tr><tr><td><p>10</p></td><td><p>5448</p></td><td><p>CJ-01 de Assessor do Gabinete da Corregedoria.</p></td><td><p>CJ-01 de Coordenador da Secretaria do Cartório Judicial Único - Varas de Execução de Títulos Extrajudiciais da Circunscrição Judiciária de Brasília.</p></td></tr></table>
+
+**Art. 2º** Agregar os valores abaixo relacionados, conforme quadro a seguir:
+
+<table><tr></tr><tr><td><p>item</p></td><td><p>nível/descrição/origem</p></td><td><p>valor R$</p></td></tr><tr><td><p>1</p></td><td><p>FC-03 de Assistente da 1ª Vara de Execução de Títulos Extrajudiciais da Circunscrição Judiciária de Brasília (sequencial 2889)</p></td><td><p>R$ 1.379,07</p></td></tr><tr><td><p>2</p></td><td><p>FC-03 de Assistente da 2ª Vara de Execução de Títulos Extrajudiciais da Circunscrição Judiciária de Brasília (sequencial 2890)</p></td><td><p>R$ 1.379,07</p></td></tr><tr><td><p>3</p></td><td><p>FC-03 de Assistente da 3ª Vara de Execução de Títulos Extrajudiciais da Circunscrição Judiciária de Brasília (sequencial 2891)</p></td><td><p>R$ 1.379,07</p></td></tr><tr><td><p>4</p></td><td><p>FC-03 de Assistente das Varas aguardando instalação a ser definida (sequencial 4605)</p></td><td><p>R$ 1.379,07</p></td></tr><tr><td><p>5</p></td><td><p>saldo decorrente do remanejamento efetuado pela Portaria GPR n. 1077, de 11/06/2019, publicada no DOU de 14/06/2019, Seção 1, fls. 129.</p></td><td><p>R$ 226,39</p></td></tr><tr><td><p>total</p></td><td><p>R$ 5.742,67</p></td></tr></table>
+
+**Art. 3º** Utilizar o valor total especificado no artigo 2º para criação das Funções Comissionadas abaixo relacionadas, destinado-as conforme quadro a seguir:
+
+<table><tr></tr><tr><td><p>item</p></td><td><p>nível e descrição FC</p></td><td><p>localização FC</p></td><td><p>valor R$</p></td></tr><tr><td><p>1</p></td><td><p>FC-01 de Executante</p></td><td><p>Cartório Judicial Único - Varas de Execução de Títulos Extrajudiciais da Circunscrição Judiciária de Brasília.</p></td><td><p>R$ 1.019,17</p></td></tr><tr><td><p>2</p></td><td><p>FC-01 de Executante</p></td><td><p>Cartório Judicial Único - Varas de Execução de Títulos Extrajudiciais da Circunscrição Judiciária de Brasília.</p></td><td><p>R$ 1.019,17</p></td></tr><tr><td><p>3</p></td><td><p>FC-03 de Assistente</p></td><td><p>Cartório Judicial Único - Varas de Execução de Títulos Extrajudiciais da Circunscrição Judiciária de Brasília.</p></td><td><p>R$ 1.379,07</p></td></tr><tr><td><p>4</p></td><td><p>FC-05 de Oficial de Gabinete</p></td><td><p>Cartório Judicial Único - Varas de Execução de Títulos Extrajudiciais da Circunscrição Judiciária de Brasília.</p></td><td><p>R$ 2.232,38</p></td></tr><tr><td><p>total</p></td><td><p>R$ 5.649,79</p></td></tr><tr><td><p>saldo</p></td><td><p>R$ 92,88</p></td></tr></table>
+
+**Art. 4º** Esta Portaria entra em vigor na data de sua publicação.
+
+Des. ROMÃO C. OLIVEIRA

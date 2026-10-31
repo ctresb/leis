@@ -1,0 +1,26 @@
+---
+titulo: "PORTARIA Nº 12, DE 21 DE SETEMBRO DE 2020"
+orgao: "Ministério do Turismo/Instituto do Patrimônio Histórico e Artístico Nacional/Superintendência em Sergipe"
+tipo: "Portaria"
+numero: "12"
+data: 2020-09-21
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 01/10/2020, seção 1, p. 871"
+data_publicacao: 2020-10-01
+edicao: "189"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-12-de-21-de-setembro-de-2020-280525839"
+sha256_html_fonte: 5c4383e92a7ec80c41f01140d2f7a87ea419fad04d41fe82c287eb18981217e0
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 12, DE 21 DE SETEMBRO DE 2020
+
+PORTARIA Nº 12, DE 21 DE SETEMBRO DE 2020
+
+O SUPERINTENDENTE DO INSTITUTO DO PATRIMÔNIO HISTÓRICO E ARTÍSTICO NACIONAL IPHAN/SE, no uso das atribuições que lhe confere a Portaria nº 581, de 20 de agosto de 2020, publicada no DOU em 21 de agosto de 2020, e; CONSIDERANDO o disposto na Instrução Normativa 001/2015, em seu Art. 19 § 2º; resolve:
+
+**Art.1º** Determinar o arquivamento do Processo nº 01504.000262/2018-01, referente ao não atendimento da solicitação de complementação no prazo estabelecido, sem a devida justificativa.
+
+**Art.2º** Esta Portaria entra em vigor na data de sua publicação.
+
+DIEGO AMARANTE SANTOS PASSOS

@@ -1,0 +1,91 @@
+---
+titulo: "Ato Declaratório Executivo DRF/UBB nº 22, de 19 de setembro de 2016"
+orgao: "Delegacia da Receita Federal do Brasil em Uberaba"
+tipo: "Ato Declaratório Executivo"
+numero: "22"
+data: "2016-09-19"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 23/09/2016, seção 1, página 24"
+data_publicacao: "2016-09-23"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/77650/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/77650/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "77650"
+sha256_texto: "1870cf670b7de3087e788aec258f249d1f584e9c6dbee8a7efd55a2720e3933e"
+baixado_em: "2026-10-16"
+---
+# Ato Declaratório Executivo DRF/UBB nº 22, de 19 de setembro de 2016
+
+Declara inapta as inscrições das pessoas jurídicas, no Cadastro Nacional da Pessoa Jurídica, por omissão de declarações.
+
+O DELEGADO DA DELEGACIA DA RECEITA FEDERAL DO BRASIL EM UBERABA, no uso das competências que lhe confere o artigo 302 do Regimento Interno da Receita Federal do Brasil, aprovado pela Portaria MF n 203, de 14 de maio de 2012, considerando o que consta no processo administrativo n 13646.720272/2016-51 e, em cumprimento ao estabelecido no artigo 41, § 2, da Instrução Normativa RFB n 1.634, de 06 de maio de 2016, decide:
+
+Art 1 Declarar INAPTA as inscrições das pessoas jurídicas, abaixo relacionadas, desde a publicação deste Ato, no Cadastro Nacional da Pessoa Jurídica - CNPJ, em razão de omissão de declarações e demonstrativos.
+
+| NOME | CNPJ |
+| --- | --- |
+| A MONCAP LTDA - ME | 68.551.415/0001-97 |
+| AGUIMAR CARNEIRO DA SILVA - ME | 20.027.389/0001-76 |
+| ANGELA MARIA DA SILVA - ME | 41.812.553/0001-26 |
+| ASSOCIACAO ATLETICA BANCO DO BRASIL | 18.165.837/0001-56 |
+| ASSOCIACAO DE ASSISTENCIA A INFANCIA E MATERNIDADE IBIA | 20.054.201/0001-89 |
+| ASSOCIACAO DOS FUNCIONARIOS DO HOSPITAL DOM BOSCO | 26.041.202/0001-75 |
+| AUTA ABADIA DE CASTRO - ME | 21.335.567/0001-99 |
+| BORGES E RESENDE LTDA - ME | 16.554.732/0001-63 |
+| CAIXA ESCOLAR MUNICIPAL JOAQUIM DOMINGOS DA SILVA | 19.755.628/0001-25 |
+| CALIXTO BENEDITO RODRIGUES DA SILVA &CIA LTDA - ME | 41.895.632/0001-48 |
+| CENTRO EDUCACIONAL DE ARAXA S/C LTDA ME | 20.059.481/0001-18 |
+| CLUBE SOCIAL DE CAMPOS ALTOS | 20.045.100/0001-41 |
+| CLUBE SOCIAL E RECREATIVO DE PERDIZES | 20.030.425/0001-50 |
+| COMERCIAL DE ROUPAS CARMENSE LTDA - ME | 86.587.656/0001-78 |
+| COMERCIAL GUIMARAES AGROVETERINARIOS LTDA - ME | 22.597.157/0001-89 |
+| COOPERATIVA HABITACIONAL PARQUE DAS FLORES LTDA | 64.457.013/0001-77 |
+| DIVINO SANTOS REIS LEMOS - ME | 16.907.909/0001-68 |
+| DROGALOU LTDA | 20.501.540/0001-66 |
+| ELZA FERREIRA DO VALE - ME | 42.799.650/0001-99 |
+| ESCRITORIO DESPACHANTE SAO GOTARDO LTDA | 18.464.222/0001-20 |
+| G C BARCELOS E CIA LTDA - ME | 25.888.595/0001-94 |
+| GLORIA CANDIDA OLIVEIRA - ME | 19.535.210/0001-02 |
+| JOAO LUCIO DA SILVA NETO - ME | 23.882.590/0001-29 |
+| JOSE ANTONIO LUIZ FILHO - ME | 42.806.786/0001-89 |
+| JOSE DOS REIS BORGES - ME | 19.993.161/0001-51 |
+| JOSE NUNES DE FREITAS - ME | 65.094.526/0001-23 |
+| JOSE ROCHA - ME | 25.301.300/0001-31 |
+| JUAREZ PEREIRA BORGES | 23.367.261/0001-40 |
+| LADISLAU FERREIRA NETO | 25.502.717/0001-62 |
+| LANTERNAGEM E PINTURA ALMEIDA LTDA - ME | 17.839.853/0001-14 |
+| LOJA DE CONVENIENCIA FONTE DOS CALCADOS LTDA - ME | 20.020.020/0001-31 |
+| LOJA MACONICA XIII DE DEZEMBRO N 118 | 20.045.704/0001-98 |
+| LUGAR NENHUM BAR E RESTAURANTE LTDA ME | 71.344.246/0001-29 |
+| M.VIDEOS LTDA - ME | 41.841.750/0001-73 |
+| MADEIREIRA IBIA LTDA - ME | 23.754.740/0001-19 |
+| MAGALHAES &MONTEIRO LTDA | 17.807.488/0001-66 |
+| MAGOTEL-COMERCIO E REPRESENTACOES GOULART LTDA - ME | 41.916.438/0001-00 |
+| MARCENARIA E CARPINTARIA IRMAOS MOURA LIMITADA - ME | 18.444.448/0001-60 |
+| MARMORARIA ARAXA LTDA - ME | 20.017.778/0001-10 |
+| MELO &CARMO LTDA - ME | 71.030.373/0001-53 |
+| MILTON RUBENS DE FREITAS - ME | 21.737.366/0001-18 |
+| PALUSTRIS MOVEIS E MADEIRAS LTDA - ME | 17.137.094/0001-48 |
+| PANIFICADORA E MERCEARIA IBIA LTDA - ME | 17.627.712/0001-38 |
+| PERDIZES TENIS CLUBE | 20.030.409/0001-68 |
+| PERDIZES TRANSPORTES COM DE CEREAIS E REPRESENT LTDA - ME | 66.211.053/0001-60 |
+| PNEUS TRIANGULO LIMITADA - ME | 16.819.930/0001-01 |
+| RENATO FERREIRA DE MENEZES - ME | 20.432.993/0001-88 |
+| RENOVARPNEUS LTDA - ME | 41.840.588/0001-79 |
+| REPRESENTACAO COMERCIAL ALVES &SOBRINHO LTDA | 71.326.805/0001-78 |
+| REPRESENTACOES GERALDO MARTINS LTDA | 21.680.814/0001-94 |
+| RODOVIARIO PERDIZES LTDA - ME | 25.535.576/0001-84 |
+| RONALDO VITORINO DE MORAIS - ME | 64.441.173/0001-28 |
+| SANTA CASA DE MISERICORDIA DE SANTA JULIANA | 20.031.209/0001-20 |
+| SINDICATO DOS TRABALHADORES RURAIS DE CAMPOS ALTOS | 23.369.705/0001-86 |
+| TRINK UNIFORMES PROFISSIONAIS LTDA - ME | 64.303.779/0001-05 |
+| VIACAO ALTO PARANAIBA LTDA - EPP | 66.298.928/0001-02 |
+| WANDER ALVES REPRESENTACOES LTDA | 41.951.740/0001-90 |
+| WANDERLEY PRUDENCIANO DOS REIS - ME | 38.674.800/0001-60 |
+
+**Art. 2** Considera-se inidôneos, não produzindo efeitos tributários em favor de terceiros interessados, os documentos emitidos pelos contribuintes acima referidos, a partir da publicação desta Ato, nos termos do art. 47 da Instrução Normativa RFB n 1.634, de 2016.
+
+MAURO LUIZ DE OLIVEIRA

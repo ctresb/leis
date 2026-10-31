@@ -1,0 +1,26 @@
+---
+titulo: "PORTARIAS DE 3 DE NOVEMBRO DE 2020"
+orgao: "Ministério das Comunicações/Secretaria de Radiodifusão/Departamento de Inovação, Regulamentação e Fiscalização"
+tipo: "Portaria"
+numero: ""
+data: ""
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 17/11/2020, seção 1, p. 22"
+data_publicacao: 2020-11-17
+edicao: "219"
+fonte: "https://www.in.gov.br/web/dou/-/portarias-de-3-de-novembro-de-2020-288461886"
+sha256_html_fonte: 791696fa45f9739ac4c9f8e7dfc846d001f1bbfd0b3ed965d1b8dcf2189d5943
+baixado_em: 2026-10-21
+---
+# PORTARIAS DE 3 DE NOVEMBRO DE 2020
+
+PORTARIAS DE 3 DE NOVEMBRO DE 2020
+
+O DIRETOR DO DEPARTAMENTO DE INOVAÇÃO, REGULAMENTAÇÃO E FISCALIZAÇÃO, no uso de suas atribuições, observados os critérios e parâmetros estabelecidos pelas Portarias n° 112, de 22 de abril de 2013, e n° 294, de 30 de janeiro de 2015, e tendo em vista o que consta no processo abaixo, resolve:
+
+**Art. 1º** Aplicar às Entidades, abaixo relacionadas, a penalidade de multa e/ou suspensão, que por este ato fica convertida em multa.
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>N° do Processo</p></td>      <td rowspan="1" colspan="1"><p>Entidade</p></td>      <td rowspan="1" colspan="1"><p>Serviço</p></td>      <td rowspan="1" colspan="1"><p>Município</p></td>      <td rowspan="1" colspan="1"><p>UF</p></td>      <td rowspan="1" colspan="1"><p>Sanção</p></td>      <td rowspan="1" colspan="1"><p>Valor (R$)</p></td>      <td rowspan="1" colspan="1"><p>Enquadramento Legal</p></td>      <td rowspan="1" colspan="1"><p>Portaria</p></td>      <td rowspan="1" colspan="1"><p>Embasamento da Portaria de Multa</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>53900.048356/2016</p></td>      <td rowspan="1" colspan="1"><p>Rádio Difusora De Serrinha S/A</p></td>      <td rowspan="1" colspan="1"><p>OM</p></td>      <td rowspan="1" colspan="1"><p>Serrinha</p></td>      <td rowspan="1" colspan="1"><p>BA</p></td>      <td rowspan="1" colspan="1"><p>Multa</p></td>      <td rowspan="1" colspan="1"><p>3.272,72</p></td>      <td rowspan="1" colspan="1"><p>Art. 62 da Lei n° 4.117/62</p></td>      <td rowspan="1" colspan="1"><p>Portaria DECEF n° 223 de 03/11/2020</p></td>      <td rowspan="1" colspan="1"><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 294/2015</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>53504.008644/2017</p></td>      <td rowspan="1" colspan="1"><p>Associação Dos Moradores Amigos De Cabrália Paulista</p></td>      <td rowspan="1" colspan="1"><p>RADCOM</p></td>      <td rowspan="1" colspan="1"><p>Cabrália Paulista</p></td>      <td rowspan="1" colspan="1"><p>SP</p></td>      <td rowspan="1" colspan="1"><p>Multa</p></td>      <td rowspan="1" colspan="1"><p>1.202,23</p></td>      <td rowspan="1" colspan="1"><p>Art. 40, XIV e XIX, do Decreto n° 2.615/98</p></td>      <td rowspan="1" colspan="1"><p>Portaria DECEF n° 889 de 03/11/2020</p></td>      <td rowspan="1" colspan="1"><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 294/2015</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>53900.004556/2014</p></td>      <td rowspan="1" colspan="1"><p>Fundação Joca Motta</p></td>      <td rowspan="1" colspan="1"><p>FME</p></td>      <td rowspan="1" colspan="1"><p>União</p></td>      <td rowspan="1" colspan="1"><p>PI</p></td>      <td rowspan="1" colspan="1"><p>Multa</p></td>      <td rowspan="1" colspan="1"><p>3.238,50</p></td>      <td rowspan="1" colspan="1"><p>Art. 38,"e", e 62 da Lei nº 4.117/62, e art. 3º da Portaria Interministerial n° 651/99.</p></td>      <td rowspan="1" colspan="1"><p>Portaria DECEF n° 918 de 03/11/2020</p></td>      <td rowspan="1" colspan="1"><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 294/2015</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>53900.052935/2015</p></td>      <td rowspan="1" colspan="1"><p>Associação Comunitária Pró-Campus</p></td>      <td rowspan="1" colspan="1"><p>RADCOM</p></td>      <td rowspan="1" colspan="1"><p>Caxias do Sul</p></td>      <td rowspan="1" colspan="1"><p>RS</p></td>      <td rowspan="1" colspan="1"><p>Multa</p></td>      <td rowspan="1" colspan="1"><p>1.068,64</p></td>      <td rowspan="1" colspan="1"><p>Art. 40, VII e XXIX, do Decreto n° 2.615/98</p></td>      <td rowspan="1" colspan="1"><p>Portaria DECEF n° 1061 de 03/11/2020</p></td>      <td rowspan="1" colspan="1"><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 294/2015</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>53900.053373/2015</p></td>      <td rowspan="1" colspan="1"><p>Associação De Desenvolvimento E Integração Social Frutuosense - ADISF</p></td>      <td rowspan="1" colspan="1"><p>RADCOM</p></td>      <td rowspan="1" colspan="1"><p>Frutuoso Gomes</p></td>      <td rowspan="1" colspan="1"><p>RN</p></td>      <td rowspan="1" colspan="1"><p>Multa</p></td>      <td rowspan="1" colspan="1"><p>1.068,64</p></td>      <td rowspan="1" colspan="1"><p>Art. 40, XXIX, do Decreto n° 2.615/98</p></td>      <td rowspan="1" colspan="1"><p>Portaria DECEF n° 1063 de 03/11/2020</p></td>      <td rowspan="1" colspan="1"><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 294/2015</p></td>     </tr>    </tbody>   </table>
+
+RODRIGO CRUZ GEBRIM

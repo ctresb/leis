@@ -1,0 +1,222 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 4.125, DE 9 DE OUTUBRO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "4125"
+data: 2020-10-09
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 13/10/2020, seção 1, p. 84"
+data_publicacao: 2020-10-13
+edicao: "196"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.125-de-9-de-outubro-de-2020-282197272"
+sha256_html_fonte: 483f5e86d6294a246a532a55081c6f41a679727131c6198433702eeb4c24eef7
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 4.125, DE 9 DE OUTUBRO DE 2020
+
+RESOLUÇÃO-RE Nº 4.125, DE 9 DE OUTUBRO DE 2020
+
+O Coordenador de Autorização de Funcionamento de Empresas, substituto, no uso das atribuições que lhe confere o Art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º** Conceder Alteração de Autorização de Funcionamento para os estabelecimentos de Farmácias e Drogarias, em conformidade com o anexo desta Resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+FARMACIA E LABORATORIO ALIEN LTDA / 12.977.039/0001-42
+
+25351.355233/2014-00 / 7213330
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2970127209
+
+--------------------------------------
+
+BISPO E LOBO LTDA-ME / 23.531.180/0001-33
+
+25351.145632/2017-07 / 7508852
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2969903207
+
+25351.145632/2017-07 / 7508852
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 2955567201
+
+--------------------------------------
+
+FARMACIA ADONAI LTDA - EPP / 03.029.677/0001-40
+
+25351.008923/2003-10 / 0276020
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2669229205
+
+--------------------------------------
+
+FAVENI DROGARIA LTDA - ME / 19.224.868/0001-01
+
+25351.192809/2014-11 / 7149408
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2984834202
+
+--------------------------------------
+
+DROGARIA ROBRU LTDA-ME / 21.557.436/0001-56
+
+25351.366587/2017-14 / 7527511
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2966778200
+
+--------------------------------------
+
+DROGARIA SANTOSRIOS LTDA / 13.407.751/0002-50
+
+25351.108533/2018-17 / 7571004
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 2984868207
+
+--------------------------------------
+
+DROGARIA GIFARMA LTDA / 33.412.333/0001-87
+
+25351.270163/2019-17 / 7652845
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2969943206
+
+--------------------------------------
+
+EMPREENDIMENTOS PAGUE MENOS S/A / 06.626.253/0538-67
+
+25351.075448/2014-31 / 7108239
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 2955571200
+
+--------------------------------------
+
+DROGARIA RAPIDA DE SÃO CRISTÓVÃO LTDA / 08.014.267/0001-40
+
+25351.257464/2006-31 / 0464781
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 2969827208
+
+--------------------------------------
+
+ALEX DOUGLAS DA SILVA - ME / 15.773.363/0001-37
+
+25351.598717/2014-33 / 7300669
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2766461209
+
+--------------------------------------
+
+BIA FARMACIA LTDA - ME / 11.131.493/0001-15
+
+25351.700432/2009-45 / 0635855
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2984828208
+
+--------------------------------------
+
+A PADROEIRA DROGARIA LTDA - ME / 17.921.274/0001-16
+
+25351.571539/2017-46 / 7548614
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2969969200
+
+--------------------------------------
+
+GARCIA & STOPASSOLLI LTDA - EPP / 75.847.699/0001-29
+
+25351.716403/2013-48 / 7062683
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2984852201
+
+--------------------------------------
+
+EMPREENDIMENTOS PAGUE MENOS S/A / 06.626.253/0042-20
+
+25351.034811/2014-51 / 7132573
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 2955569208
+
+--------------------------------------
+
+DROGARIA E PERFUMARIA ALEX LTDA ME / 10.421.366/0001-98
+
+25351.709465/2010-51 / 0713936
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 2969809200
+
+--------------------------------------
+
+ALMIRO ALVES DE MELO LTDA / 07.819.047/0001-20
+
+25351.251083/2014-58 / 7170491
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2984826201
+
+--------------------------------------
+
+DIMED S/A DISTRIBUIDORA DE MEDICAMENTOS / 92.665.611/0164-13
+
+25351.200386/2014-62 / 7176934
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2970212207
+
+--------------------------------------
+
+JP COMERCIO DE MEDICAMENTO EIRELI / 30.252.017/0001-05
+
+25351.169211/2020-69 / 7713902
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 2984860201
+
+--------------------------------------
+
+CRISTINA A. ARRAIS / 31.583.072/0001-32
+
+25351.023862/2019-70 / 7632492
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2969855203
+
+--------------------------------------
+
+DENISE GAROUFO DE ANDRADE CAVASINI EPP / 69.136.448/0001-33
+
+25351.212346/2002-70 / 0135097
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2984843201
+
+--------------------------------------
+
+DROGARIA JANAUBA LTDA / 13.498.533/0001-97
+
+25351.583907/2013-75 / 0936789
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2969821209
+
+--------------------------------------
+
+DROGARIA ITAIM PAULISTA LTDA ME / 47.327.424/0001-29
+
+25351.618923/2014-77 / 7307437
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2970304202
+
+--------------------------------------
+
+RENATA VIEIRA DE SOUSA / 37.207.436/0001-66
+
+25351.713915/2020-81 / 7736747
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 2940684206
+
+--------------------------------------
+
+PETROLINA COMERCIAL DE PRODUTOS FARMACEUTICOS E HOSPITALARES DO NORDESTE LTDA - ME / 41.093.535/0001-31
+
+25351.683678/2013-98 / 7050209
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2984824205

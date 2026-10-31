@@ -1,0 +1,74 @@
+---
+titulo: "PORTARIA MCID Nº 624, DE 27 DE JUNHO DE 2025"
+orgao: "Ministério das Cidades/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "624"
+data: 2025-06-27
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 30/06/2025, seção 1, p. 23"
+data_publicacao: 2025-06-30
+edicao: "120"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-mcid-n-624-de-27-de-junho-de-2025-638687962"
+baixado_em: 2026-10-16
+---
+# PORTARIA MCID Nº 624, DE 27 DE JUNHO DE 2025
+
+PORTARIA MCID Nº 624, DE 27 DE JUNHO DE 2025
+
+Autoriza a contratação de propostas selecionadas no âmbito do Programa Minha Casa, Minha Vida Entidades - MCMV-Entidades, objeto do processo seletivo instituído pela Portaria MCID nº 862, de 4 de julho de 2023.
+
+O MINISTRO DE ESTADO DAS CIDADES, no uso das atribuições que lhe confere o art. 87, parágrafo único, incisos I e II, da Constituição Federal, e tendo em vista o disposto no art. 20 da Lei nº 14.600, de 19 de junho de 2023, no art. 1º do Anexo I do Decreto nº 11.468, de 5 de abril de 2023, nos arts. 11, inciso I, e 20 da Lei nº 14.620, de 13 de julho de 2023, na Resolução CCFDS nº 214, de 15 de dezembro de 2016, na Instrução Normativa MCID nº 28, de 4 de julho de 2023, e na Portaria MCID nº 862, de 4 de julho de 2023, resolve:
+
+**Art. 1º** Fica autorizada a contratação das propostas relacionadas no Anexo desta Portaria, em conformidade com a Portaria MCID nº 355, de 9 de abril de 2024, que divulgou as propostas selecionadas para contratação no âmbito do Programa Minha Casa, Minha Vida Entidades - MCMV-Entidades, objeto do processo seletivo instituído pela Portaria MCID nº 862, de 4 de julho de 2023.
+
+**Parágrafo único.** O Agente Operador e o Agente Financeiro deverão observar o prazo para a contratação das propostas previsto no art. 2º da Portaria MCID nº 355, de 9 de abril de 2024, e suas eventuais prorrogações, e cumprir todas as condições técnicas, institucionais e jurídicas necessárias para a formalização das contratações.
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação.
+
+JADER FONTENELLE BARBALHO FILHO
+
+## ANEXO
+
+| UF | MUNICIPIO | Nº DE IDENTIFICAÇÃO DA PROPOSTA | APF | NOME DA ENTIDADE | CNPJ | UH |
+| --- | --- | --- | --- | --- | --- | --- |
+| AM | Manaus | d26a875c-3c80-437a-bc94-7c46114b0d62 | 63797149 | INSTITUTO DE PROMOÇÃO DA SAÚDE E BEM ESTAR SOCIAL DA AMAZÔNIA OCIDENTAL | 20.420.783/0001-70 | 160 |
+| BA | Itagi | 4dfb2ab2-6b9d-4256-9241-667bcf0b973f | 63514932 | ASSOCIACAO MORANDO MELHOR | 07.006.069/0001-71 | 50 |
+| BA | Itagi | 0e8eb6c8-ea9c-4f4d-b829-57863b63afbb | 63515073 | ASSOCIACAO MORANDO MELHOR | 07.006.069/0001-71 | 50 |
+| BA | João dourado | 509d0037-033c-4d5b-a328-d1488ccb90ca | 63515523 | ASSOCIAÇÃO COMUNITARIA SANTO ANTONIO | 13.758.081/0001-35 | 100 |
+| BA | Paramirim | e0d2504d-660e-4c64-87a6-703d45395804 | 63516215 | ASSOCIAÇÃO BRASILEIRA DE COMBATE A POBREZA | 01.037.984/0001-48 | 58 |
+| BA | Santa Terezinha | 06c531a0-93a9-4f5e-8b21-f1954008c121 | 63517012 | ASSOCIAÇÃO COMUNITÁRIA DA LAGOA DO CANTO | 05.581.512/0001-02 | 50 |
+| BA | Tucano | 8847341b-06e6-43e7-8809-32b4553aae67 | 63517126 | SEVERINA CONSTRUINDO CIDADANIA | 11.285.674/0001-04 | 100 |
+| CE | Barreira | 063432e6-b888-4d0d-97d2-269430dd68dd | 63517564 | ORGANIZACAO BARREIRA AMIGOS SOLIDARIOS | 04.433.866/0001-47 | 50 |
+| CE | Barreira | 15156fa6-f5e4-46fd-9495-4c8d42324110 | 63517678 | ORGANIZACAO BARREIRA AMIGOS SOLIDARIOS | 04.433.866/0001-47 | 50 |
+| CE | Independência | 450598ca-853c-4451-809f-b365ea7b9e29 | 63518037 | INSTITUTO PAJU DE DESENVOLVIMENTO E SOCIOECONOMIA SOLIDARIA | 05.666.032/0001-44 | 50 |
+| CE | Independência | 84b17c32-195b-44f5-9000-5bedecabd292 | 63518141 | INSTITUTO PAJU DE DESENVOLVIMENTO E SOCIOECONOMIA SOLIDARIA | 05.666.032/0001-44 | 50 |
+| CE | Independência | dce708dd-6ee7-473b-9b1c-452f4ce85475 | 63518256 | INSTITUTO PAJU DE DESENVOLVIMENTO E SOCIOECONOMIA SOLIDARIA | 05.666.032/0001-44 | 50 |
+| CE | Iracema | a18307da-c54b-49e0-acd1-40e7fa3318e9 | 63518474 | IGEPAS - INSTITUTO DE GESTÃO PÚBLICA. AMBIENTAL E DE ASSISTENCIA SOCIAL | 10.502.457/0001-58 | 50 |
+| CE | Itapipoca | ec972235-d0ed-4bdf-8d56-c295a9911ee1 | 63518706 | INSTITUTO PAJU DE DESENVOLVIMENTO E SOCIOECONOMIA SOLIDARIA | 05.666.032/0001-44 | 124 |
+| CE | São Luís do Curu | 45e6ecc6-97c8-4984-be86-2bea9a55bbbf | 63519167 | INSTITUTO PAJU DE DESENVOLVIMENTO E SOCIOECONOMIA SOLIDARIA | 05.666.032/0001-44 | 50 |
+| GO | Cristalina | ebd841e3-3f4c-446f-ad85-51a503b3308b | 63797922 | ASSOCIACAO DOS EXCLUIDOS DE HABITACAO DO DISTRITO FEDERAL - ASSEH-DF | 15.335.330/0001-05 | 50 |
+| GO | Luziânia | eb22cc4b-d379-47ff-b968-ad8365e00ec8 | 63520415 | HABITAT ASSOCIAÇÃO DE CRÉDITO PARA HABITAÇÃO E PROJETOS SOCIAIS | 08.529.206/0001-15 | 432 |
+| GO | Novo Gama | 5906857f-7455-45c4-bb90-fe74eeacff5b | 63520967 | CENTRO DE ESTUDOS ARTICULAÇÃO E REFERENCIA SOBRE ASSENTAMENTOS HUMANOS CEARAH PERIFERIA | 63.476.055/0001-92 | 64 |
+| MA | Jenipapo dos Vieiras | a8af35a3-74d0-4422-9e4b-a4e78657b946 | 63795765 | INSTITUTO SER | 03.624.205/0001-36 | 50 |
+| MA | Matões | a7aaf793-a0fa-4c99-8966-ece212088739 | 63796342 | INSTITUTO DE REFERENCIA SOCIAL. CONSULTORIA. ASSESSORIA. PLANEJAMENTO E CAPACITAÇÃO-IRSCAPC | 07.547.363/0001-90 | 50 |
+| MG | Buritizeiro | 6e00d1a7-0824-4e9c-8daf-b54763283331 | 63526447 | ASSOCIAÇÃO COMUNITARIA ALU FERRERA - ACAF | 08.343.255/0001-69 | 100 |
+| MG | Monte Sião | 80ae2104-d13f-4783-acb5-a2b3233037e3 | 63527026 | ASSOCIAÇÃO MINEIRA DE HABITAÇÃO | 06.295.432/0001-53 | 22 |
+| MG | Olhos-D'Água | 3495c046-90f9-44cd-9707-f1cb401673da | 63527463 | ASSOCIAÇÃO COMUNITARIA ALU FERRERA - ACAF | 08.343.255/0001-69 | 50 |
+| PA | Ananindeua | 781343fe-1ecf-4b98-abbc-99c568da9751 | 63797818 | INSTITUTO EDUCACIONAL. CULTURAL E DESENVOLVIMENTOSUPPORTHIS - IECDS | 07.492.284/0001-20 | 144 |
+| PA | Benevides | 56e58213-1736-4b0a-8783-54f8b6008736 | 63529399 | GASCOPA - GRUPO ASSOCIATIVO DE LUTA PELA HABITAÇÃO. PESCA ART E AGRIC FAMILIAR DO ESTADO DO PARÁ | 07.352.413/0001-84 | 100 |
+| PA | Palestina do Pará | 0f803462-df51-4a0e-b79c-8cbe73a2b075 | 63529954 | ASSOCIAÇÃO DO DESENVOLVIMENTO SUSTENTÁVEL DE PALESTINA DO PARÁ | 09.617.639/0001-95 | 50 |
+| PB | Campina Grande | e4bbf9a0-197d-4aab-b57d-02bccb547378 | 63531008 | UNIÃO CAMPINENSE DAS EQUIPES SOCIAIS - UCES | 09.369.414/0001-67 | 208 |
+| PB | Sobrado | f9ab6c42-f80f-4722-a719-33df7353d6ff | 63811714 | COLONIA DE PESCADORES E AQUICULTORES Z-86 DE SOBRADO - CPASZ-86-PB | 41.804.680/0001-83 | 50 |
+| PE | Poção | 17ea50e4-6517-42b1-9c4a-cae02f1de1ba | 63536015 | ASSOCIAÇÃO COMUNITÁRIA RURAL DOS SÍTIOS RUZIO E IGREJINHA | 11.364.794/0001-99 | 50 |
+| PE | Recife | a4760bbd-73df-4eca-828c-728d3705b620 | 63536671 | ASSOCIAÇÃO DE APOIO AOS SEM TETO DA REGIÃO NORDESTE | 05.859.096/0001-61 | 192 |
+| PE | Tacaratu | 83f21461-d2d8-4b96-9e2a-ba8fce8e7ec9 | 63536902 | COOPERATIVA HABITACIONAL DE PERNAMBUCO - COOPERCASA | 19.242.530/0001-74 | 100 |
+| PI | Oeiras | e55e38de-bfbb-4900-9b3e-04da5098e311 | 63537477 | ASSOCIAÇÃO DE MORADORES E AMIGOS DO BAIRRO DO ROSÁRIO | 10.274.688/0001-51 | 100 |
+| PR | Medianeira | bd151fa5-3ff3-4b82-8689-8ac2ffc50fcd | 63533485 | AMASMI - ASSOCIAÇÃO HABITACIONAL DE INTERESSE SOCIAL | 08.493.145/0001-83 | 120 |
+| RN | Açu | 8f6a4afc-a106-4d6f-8335-2a24ac964431 | 63538942 | INSTITUTO DE DESENVOLVIMENTO HABITACIONAL CANAÃ - IDEHAC | 10.547.422/0001-35 | 100 |
+| RN | Francisco dantas | 48df6820-4c27-43a2-9556-3a6826071b89 | 63539521 | INSTITUTO DE DESENVOLVIMENTO HABITACIONAL CANAÃ - IDEHAC | 10.547.422/0001-35 | 23 |
+| RS | Júlio de Castilhos | 830b7b11-ee44-40c0-808b-d36a422bf90a | 63795213 | COOPERATIVA DE TRABALHO E HABITAÇÃO COOPERUNIÃO | 07.801.466/0001-35 | 50 |
+| RS | Uruguaiana | a3beee00-7bac-4f45-ba7e-e0ccb97a0241 | 63543721 | ASSOCIACAO DE MORADORES DO BAIRRO SANTA ROSA | 93.240.315/0001-97 | 301 |
+| SP | Mauá | f6f77b15-93e3-4c0d-af2b-2282caf5d750 | 63544851 | MOVIMENTO DE LUTA NOS BAIRROS. VILAS E FAVELAS | 07.058.129/0001-08 | 200 |
+| SP | São José do Rio Pardo | 9a99fec5-9bf2-4b56-885a-0b27353b1e84 | 63545660 | ASSOCIAÇÃO ESMERALDA EM DEFESA DOS DIREITO SOCIAIS | 74.635.798/0001-84 | 94 |
+| TO | Itapiratins | 0864d23c-5b1c-493c-aa38-c693e2a0f85f | 63549202 | INSTITUTO DE DESENVOLVIMENTO AMBIENTAL E HUMANO DA REGIÃO AMAZÔNICA | 12.371.283/0001-67 | 50 |

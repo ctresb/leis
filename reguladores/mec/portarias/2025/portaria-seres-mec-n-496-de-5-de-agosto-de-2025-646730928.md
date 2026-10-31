@@ -1,0 +1,63 @@
+---
+titulo: "PORTARIA SERES/MEC Nº 496, DE 5 de agosto de 2025"
+orgao: "Ministério da Educação/Secretaria de Regulação e Supervisão da Educação Superior"
+tipo: "Portaria"
+numero: "496"
+data: 2025-08-05
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 06/08/2025, seção 1, p. 52"
+data_publicacao: 2025-08-06
+edicao: "147"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-seres/mec-n-496-de-5-de-agosto-de-2025-646730928"
+baixado_em: 2026-10-16
+---
+# PORTARIA SERES/MEC Nº 496, DE 5 de agosto de 2025
+
+PORTARIA SERES/MEC Nº 496, DE 5 de agosto de 2025
+
+A SECRETÁRIA DE REGULAÇÃO E SUPERVISÃO DA EDUCAÇÃO SUPERIOR, no uso da atribuição que lhe confere o Decreto nº 11.691, de 5 de setembro de 2023, e tendo em vista o Decreto n° 9.235, de 15 de dezembro de 2017, e as Portarias Normativas n° 20 e nº 23, de 21 de dezembro de 2017, do Ministério da Educação, e considerando o disposto no(s) processo(s) e-MEC listado(s) na planilha anexa, resolve:
+
+**Art. 1º** Fica renovado o reconhecimento do(s) curso(s) superior(es) de graduação constante(s) da tabela do anexo desta Portaria, ministrado(s) pela(s) Instituição(ões) de Educação Superior citada(s), nos termos do disposto no art. 10, do Decreto nº 9.235/2017.
+
+**Art. 2º** A renovação de reconhecimento a que se refere esta Portaria é válida exclusivamente para o curso ministrado no endereço citado na tabela constante do anexo.
+
+**Art. 3º** A renovação de reconhecimento a que se refere esta Portaria é válida até o ciclo avaliativo seguinte.
+
+**Art. 4º** Esta Portaria entra em vigor na data de sua publicação.
+
+MARTA ABRAMO
+
+ANEXO (Renovação de Reconhecimento de Cursos)
+
+| Nº de Ordem | Registro e-MEC nº | Curso | Nº de vagas totais anuais | Mantida | Mantenedora | Endereço de funcionamento do curso |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | 202207213 | ESTÉTICA (Bacharelado) | 70 (setenta) | CENTRO UNIVERSITÁRIO DA FUNDAÇÃO HERMINIO OMETTO | FUNDACAO HERMINIO OMETTO | AVENIDA DOUTOR MAXIMILIANO BARUTO, 500, JARDIM UNIVERSITÁRIO, ARARAS/SP |
+| 2 | 202209617 | ENFERMAGEM (Bacharelado) | 100 (cem) | Centro Universitário de Itapira Uniesi | CESC ENSINO SUPERIOR DE CAMPINAS LTDA. | RODOVIA SP 147, KM 40,7, 1381, PRADOS, BAIRRO DOS PRADOS, ITAPIRA/SP |
+| 3 | 202209616 | FISIOTERAPIA (Bacharelado) | 100 (cem) | Centro Universitário de Itapira Uniesi | CESC ENSINO SUPERIOR DE CAMPINAS LTDA. | RODOVIA SP 147, KM 40,7, 1381, PRADOS, BAIRRO DOS PRADOS, ITAPIRA/SP |
+| 4 | 202207231 | ENGENHARIA CIVIL (Bacharelado) | 80 (oitenta) | Centro Universitário de Tecnologia de Curitiba | ESCOLA TECNOLOGICA DE CURITIBA LTDA - EPP | RUA ITACOLOMI, 450, SEDE, PORTÃO, CURITIBA/PR |
+| 5 | 202207449 | BIOMEDICINA (Bacharelado) | 100 (cem) | Centro Universitário do Norte de Minas | FACULDADES UNIDAS DO NORTE LTDA | AVENIDA OSMANE BARBOSA, 11.111, JK, MONTES CLAROS/MG |
+| 6 | 202207234 | ENGENHARIA CIVIL (Bacharelado) | 150 (cento e cinquenta) | CENTRO UNIVERSITÁRIO DO PARANÁ | CESUMAR - CENTRO DE ENSINO SUPERIOR DE MARINGA LTDA | RUA ITAJUBÁ, 673, UNIDADE ITAJUBÁ, BAIRRO PORTÃO, CURITIBA/PR |
+| 7 | 202207094 | FISIOTERAPIA (Bacharelado) | 100 (cem) | Centro Universitário Estácio do Pantanal | CENTRO DE EDUCACAO DO PANTANAL LTDA - EPP | AV AVENIDA SÃO LUIZ - LADO PAR, 2522, , CIDADE NOVA, CÁCERES/MT |
+| 8 | 202207237 | ENFERMAGEM (Bacharelado) | 200 (duzentas) | Centro Universitário Facunicamps Goiânia | DINAMICA ADMINISTRACAO CONSULTORIA & GESTAO S/S LTDA | RUA 234, 371, , , SETOR COIMBRA, GOIÂNIA/GO |
+| 9 | 202207157 | ESTÉTICA E COSMÉTICA (Bacharelado) | 150 (cento e cinquenta) | Centro Universitário FASIPE | FASIPE CENTRO EDUCACIONAL LTDA | RUA CARINE, 11, CAMPUS - SINOP - RESIDENCIAL FLORENCIA, RESIDENCIAL FLORENÇA, SINOP/MT |
+| 10 | 202207230 | ENGENHARIA CIVIL (Bacharelado) | 120 (cento e vinte) | Centro Universitário FIS | SOCIEDADE DE ENSINO SUPERIOR DE SERRA TALHADA - SESST | RUA JOÃO LUIZ DE MELO, 2110, , TANCREDO NEVES, SERRA TALHADA/PE |
+| 11 | 202208017 | ENGENHARIA AMBIENTAL E SANITÁRIA (Bacharelado) | 150 (cento e cinquenta) | CENTRO UNIVERSITÁRIO GAMA E SOUZA | ASSOCIACAO DE CULTURA E EDUCACAO SANTA TERESA | AVENIDA FERNANDO MATTOS, 48, CAMPUS IV - BARRA (SEDE), BARRA DA TIJUCA, RIO DE JANEIRO/RJ |
+| 12 | 202207519 | AGRONOMIA (Bacharelado) | 60 (sessenta) | CENTRO UNIVERSITÁRIO LUTERANO DE SANTARÉM | AELBRA EDUCACAO SUPERIOR - GRADUACAO E POS-GRADUACAO S.A. EM RECUPERACAO JUDICIAL | AVENIDA SERGIO HENN, 1787, DIAMANTINO, SANTARÉM/PA |
+| 13 | 202207520 | ARQUITETURA E URBANISMO (Bacharelado) | 120 (cento e vinte) | CENTRO UNIVERSITÁRIO LUTERANO DE SANTARÉM | AELBRA EDUCACAO SUPERIOR - GRADUACAO E POS-GRADUACAO S.A. EM RECUPERACAO JUDICIAL | AVENIDA SERGIO HENN, 1787, DIAMANTINO, SANTARÉM/PA |
+| 14 | 202207232 | ENGENHARIA CIVIL (Bacharelado) | 100 (cem) | Centro Universitário Mais | CENTRO DE EDUCACAO SUPERIOR MAIS LTDA | AV AVENIDA MONTE ALEGRE, 100, , RESIDENCIAL MONTE ALEGRE, INHUMAS/GO |
+| 15 | 202207143 | FARMÁCIA (Bacharelado) | 100 (cem) | Centro Universitário Mais | CENTRO DE EDUCACAO SUPERIOR MAIS LTDA | AV AVENIDA MONTE ALEGRE, 100, , RESIDENCIAL MONTE ALEGRE, INHUMAS/GO |
+| 16 | 202207083 | FISIOTERAPIA (Bacharelado) | 100 (cem) | CENTRO UNIVERSITÁRIO MARIA MILZA | UNIMAM - UNIDADE DE ENSINO MARIA MILZA LTDA | BR-101; KM 212. ESTRADA DE CRUZ DAS ALMAS-GOVERNADOR MANGABEIRA. ZONA RURAL, S/N, , SUNGAIA, CRUZ DAS ALMAS/BA |
+| 17 | 202207135 | RADIOLOGIA (Tecnológico) | 80 (oitenta) | CENTRO UNIVERSITÁRIO MAURICIO DE NASSAU DE ARACAJU | SOCIEDADE DE ENSINO SUPERIOR E DE PESQUISA DE SERGIPE LTDA - SESPS | AVENIDA AUGUSTO FRANCO, S/N, , SIQUEIRA CAMPOS, ARACAJU/SE |
+| 18 | 202207124 | FARMÁCIA (Bacharelado) | 240 (duzentas e quarenta) | Centro Universitário Maurício de Nassau de Natal | SER EDUCACIONAL S.A. | AVENIDA ENGENHEIRO ROBERTO FREIRE, 1.514, UNIDADE SEDE, CAPIM MACIO, NATAL/RN |
+| 19 | 202207132 | ENGENHARIA DE COMPUTAÇÃO (Bacharelado) | 100 (cem) | Centro Universitário Meta do Amapá | FACULDADE META LTDA | RUA PEDRO SIQUEIRA, 333, , JARDIM MARCO ZERO, MACAPÁ/AP |
+| 20 | 202207422 | ARQUITETURA E URBANISMO (Bacharelado) | 200 (duzentas) | CENTRO UNIVERSITÁRIO RITTER DOS REIS | SOCIEDADE DE EDUCACAO RITTER DOS REIS LTDA. | RUA SANTOS DUMONT, 888, NITEROI, CANOAS/RS |
+| 21 | 202207110 | ARQUITETURA E URBANISMO (Bacharelado) | 120 (cento e vinte) | CENTRO UNIVERSITÁRIO UNIFTEC | CENTRO SUPERIOR DE TECNOLOGIA TECBRASIL LTDA | RUA GUSTAVO RAMOS SEHBE, 107, , CINQÜENTENÁRIO, CAXIAS DO SUL/RS |
+| 22 | 202207567 | FARMÁCIA (Bacharelado) | 50 (cinquenta) | Faculdade ALFAUNIPAC de Almenara | INSTITUTO EDUCACIONAL ALFAUNIPAC S.A. | RUA MÁRIO JOSÉ DE SOUZA, 11, , PARQUE SÃO JOÃO, ALMENARA/MG |
+| 23 | 202207235 | ENGENHARIA DE PRODUÇÃO (Bacharelado) | 90 (noventa) | Faculdade Alis de Itabirito | ASSOCIACAO DE ENSINO SUPERIOR DOS INCONFIDENTES - ASESI | RUA MATOZINHOS, 293, , MATOZINHOS, ITABIRITO/MG |
+| 24 | 202207455 | ARQUITETURA E URBANISMO (Bacharelado) | 200 (duzentas) | FACULDADE ANHANGUERA DE BELO HORIZONTE | ORME SERVICOS EDUCACIONAIS LTDA | AVENIDA PRESIDENTE ANTONIO CARLOS, 4.157, UNIDADE ANTONIO CARLOS, SÃO FRANCISCO, BELO HORIZONTE/MG |
+| 25 | 202207433 | FARMÁCIA (Bacharelado) | 60 (sessenta) | FACULDADE ANHANGUERA DE LINHARES | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A | AVENIDA SÃO MATEUS, 1458, ARAÇÁ, LINHARES/ES |
+| 26 | 202207236 | ENGENHARIA ELÉTRICA (Bacharelado) | 70 (setenta) | Faculdade de Botucatu | UNIBR FACULDADE DE BOTUCATU LTDA. | AVENIDA PAULA VIEIRA, 542, BAIRRO VILA EMA, VILA JAHU, BOTUCATU/SP |
+| 27 | 202208409 | ENGENHARIA ELÉTRICA (Bacharelado) | 120 (cento e vinte) | FACULDADE DE ENGENHARIA DE RESENDE | ASSOCIACAO EDUCACIONAL DOM BOSCO | AVENIDA PROFESSOR ANTONIO ESTEVES, 01, , MORADA DA COLINA, RESENDE/RJ |
+| 28 | 202208408 | ENGENHARIA MECÂNICA (Bacharelado) | 100 (cem) | FACULDADE DE ENGENHARIA DE RESENDE | ASSOCIACAO EDUCACIONAL DOM BOSCO | AVENIDA PROFESSOR ANTONIO ESTEVES, 01, , MORADA DA COLINA, RESENDE/RJ |
+| 29 | 202207451 | NUTRIÇÃO (Bacharelado) | 100 (cem) | FACULDADE DE ENSINO E CULTURA DO CEARÁ | ASCEC ENSINO SUPERIOR CEARENSE LTDA | AVENIDA TREZE DE MAIO, 389, UNIDADE SEDE - FÁTIMA, FÁTIMA, FORTALEZA/CE |

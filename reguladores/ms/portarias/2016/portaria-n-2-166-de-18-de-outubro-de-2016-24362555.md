@@ -1,0 +1,44 @@
+---
+titulo: "PORTARIA Nº 2.166, DE 18 DE OUTUBRO DE 2016"
+orgao: "Ministério da Saúde/GABINETE DO MINISTRO"
+tipo: "Portaria"
+numero: "2166"
+data: 2016-10-18
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 26/10/2016, seção 1, p. 34"
+data_publicacao: 2016-10-26
+edicao: "206"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-2-166-de-18-de-outubro-de-2016-24362555"
+sha256_html_fonte: 89c4bd2702837612449550b33752d5458bbf5555c91994e4feaebec3dfbda8e9
+baixado_em: 2026-10-28
+---
+# PORTARIA Nº 2.166, DE 18 DE OUTUBRO DE 2016
+
+PORTARIA Nº 2.166, DE 18 DE OUTUBRO DE 2016
+
+Estabelece recurso do Bloco da Atenção deMédia e Alta Complexidade Ambulatorial eHospitalar a ser incorporado ao Componentedo Limite Financeiro Anual de Média eAlta Complexidade Ambulatorial e Hospitalardo Estado de Minas Gerais e Municípiode Manhuaçu.
+
+O MINISTRO DE ESTADO DA SAÚDE, no uso das atribuiçõesque lhe conferem os incisos I e II do parágrafo único do art.87 da Constituição, e
+
+Considerando a Portaria nº 343/GM/MS, de 7 de março de2005, que institui mecanismos para a organização e implantação deUnidades de Assistência e Centros de Referência de Alta Complexidadeem Terapia Nutricional, no âmbito do Sistema Único de Saúde- SUS;
+
+Considerando a Portaria nº 204/GM/MS, de 29 de janeiro de2007, que regulamenta o financiamento e a transferência dos recursosfederais para as ações e os serviços de saúde, na forma de bloco definanciamento, com o respectivo monitoramento e controle; e
+
+Considerando a Portaria nº 1.403/GM/MS, de 17 de outubrode 2016, que habilita o Hospital César Leite- CNES 2173166, comoUnidade de Assistência em Alta Complexidade em Terapia NutricionalEnteral e Parenteral, no Município de Manhuaçu (MG), resolve:
+
+**Art.1º** Fica estabelecido recurso do Bloco da Atenção deMédia e Alta Complexidade Ambulatorial e Hospitalar a ser incorporadoao Componente Limite Financeiro da Atenção de Média eAlta Complexidade Ambulatorial e Hospitalar do Estado de Minas
+
+Gerais e Município de Manhuaçu, no montante anual de R$279.192,42 (duzentos e setenta e nove mil cento e noventa e doisreais e quarenta e dois centavos).
+
+**Art. 2º** O Fundo Nacional de Saúde adotará as medidasnecessárias para a transferência regular e automática, do montanteestabelecido no art. 1º, em parcelas mensais, para o Fundo Municipalde Saúde de Manhuaçu- IBGE 313940.
+
+**Art. 3º** Os recursos orçamentários, objeto desta Portaria, correrãopor conta do orçamento do Ministério da Saúde, devendo oneraro Programa de Trabalho 10.302.2015.8585- Atenção à Saúde da Populaçãopara Procedimentos de Média e Alta Complexidade-PlanoOrçamentário 0000.
+
+**Art. 4º** Esta Portaria entra em vigor na data de sua publicação,com efeitos financeiros a partir da 10ª (décima) parcela de2016.
+
+RICARDO BARROS
+
+RICARDO BARROS
+
+Este conteúdo não substitui o publicado na versão certificada.

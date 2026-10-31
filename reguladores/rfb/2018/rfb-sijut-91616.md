@@ -1,0 +1,3132 @@
+---
+titulo: "Ato Declaratório Executivo Decex/RJO nº 35, de 20 de abril de 2018"
+orgao: "Delegacia Especial da Receita Federal do Brasil de Comércio Exterior no Rio de Janeiro"
+tipo: "Ato Declaratório Executivo"
+numero: "35"
+data: "2018-04-20"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 24/04/2018, seção 1, página 30"
+data_publicacao: "2018-04-24"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/91616/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/91616/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "91616"
+sha256_texto: "288ba99a7b415aed4234c404222dfa0ed77f5a6794708844926d1ffea62ca73a"
+baixado_em: "2026-10-16"
+---
+# Ato Declaratório Executivo Decex/RJO nº 35, de 20 de abril de 2018
+
+Declara habilitada a utilizar o regime aduaneiro especial de exportação e de importação de bens destinados às atividades de pesquisa e de lavra das jazidas de petróleo e de gás natural (Repetro) a pessoa jurídica que menciona.
+
+O DELEGADO DA RECEITA FEDERAL DO BRASIL DE COMÉRCIO EXTERIOR - DECEX, no uso da competência prevista no art. 9º da Instrução Normativa RFB nº 1.415, de 4 de dezembro de 2013, declara:
+
+**Art. 1º** Fica habilitada a utilizar o regime aduaneiro especial de exportação e de importação de bens destinados às atividades de pesquisa e de lavra das jazidas de petróleo e de gás natural (Repetro), em razão de o dossiê digital de atendimento nº 10010.032035/1117-16, com fulcro nos artigos 4º, § 1º, inciso I, 6º, 7º, 8º, caput, 9º, 36, caput e § 1º da IN RFB nº 1.415/2013, a operadora PETRÓLEO BRASILEIRO S.A. PETROBRAS, CNPJ (matriz) nº 33.000.167/0001-01, mediante o estabelecimento matriz, extensivo a todas as suas filiais, até o termo final, consignado no Anexo, que não pode ser superior ao prazo disposto no inciso I, alínea “a”, do art. 376 do Decreto nº 6.759/2009 (Regulamento Aduaneiro), devendo ser observado o disposto na citada Instrução Normativa, em especial nos seus arts. 1º a 3º.
+
+**Art. 2º** No caso de descumprimento do regime aplica-se o disposto no art. 311 do Decreto nº 6.759/09, e a multa prevista no art.72, I, da Lei nº 10.833/03, sem prejuízo de outras penalidades cabíveis.
+
+**Art. 3º** Fica mantida a revogação do ADE nº 137, de 11 de outubro de 2017, publicado no Diário Oficial da União, de 13 de outubro de 2017. Fica revogado o ADE nº 2, de 3 de janeiro de 2018, publicado no Diário Oficial da União de 4 de janeiro de 2018, em face de as inclusões das áreas de concessão Lapa, bloco BM-S-9 e Libra, bloco LIBRA\_P1, do campo da Bacia Sedimentar de Santos. Este procedimento decorre da anuência ao pedido da operadora referida, formalizado mediante o processo digital nº 10010.018387/0418-76.
+
+**Art. 4º** Este Ato Declaratório Executivo entra em vigor na data de sua publicação no Diário Oficial da União.
+
+PAULO ROBERTO XIMENES PEDROSA
+
+## ANEXO
+
+Bacia Sedimentar Solimõe Proc. nº 10074.723523/2013-41 \*
+
+BLOCO (ANP)
+
+CAMPO (ANP)
+
+CONTRATO (ANP)
+
+TERMO FINAL
+
+BT-SOL-3
+
+1-BRSA-769-AM
+
+48610.009146/2005-81
+
+11/01/2016
+
+Bacia Sedimentar do Amazonas Proc. nº 10074.723523/2013-41 \*
+
+BLOCO (ANP)
+
+CAMPO (ANP)
+
+CONTRATO (ANP)
+
+TERMO FINAL
+
+AM-T-84 R10
+
+AM-T-84
+
+48610.001508/2009-10
+
+30/04/2016\*
+
+Bacia Sedimentar Foz do Amazonas Proc. nº 10074.723523/2013-41 \*
+
+BLOCO (ANP)
+
+CAMPO (ANP)
+
+CONTRATO (ANP)
+
+TERMO FINAL
+
+BM-FZA-4
+
+FZA-M-217
+
+48610.009498/2003
+
+SUSPENSO
+
+FZA-M-252
+
+48610.009498/2003
+
+SUSPENSO
+
+Bacia Sedimentar do Ceará-Potiguar Proc. nº 10074.723523/2013-41 \*
+
+BLOCO (ANP)
+
+CAMPO (ANP)
+
+CONTRATO (ANP)
+
+TERMO FINAL
+
+BM-CE-2
+
+BM-CE-2
+
+48610.010728/2001
+
+31/10/2016\*
+
+BM-POT-16
+
+POT-M-663
+
+48610.009148/2005-71
+
+04/09/2018
+
+POT-M-760
+
+04/09/2018
+
+BM-POT-17
+
+POT-M-665
+
+48610.009149/2005-15
+
+01/03/2019
+
+POT-M-853
+
+01/03/2019
+
+POT-M-855
+
+01/03/2019
+
+POT-T-613\*
+
+POT-T-613\_R11\*
+
+48610.005393/2013-19\*
+
+05/08/2018\*
+
+POT-T-614\*
+
+POT-T-614\_R11\*
+
+48610.005512/2013-33\*
+
+05/08/2018\*
+
+POT-M-764\*
+
+POT-M-764-R11\*
+
+48610.005476/2013-16\*
+
+28/08/2020\*
+
+Bacia Sedimentar de Sergipe-Alagoas Proc. nº 10074.723523/2013-41 \*
+
+ÁREA DE CONCESSÃO (ANP)
+
+BLOCOS (ANP)
+
+CONTRATO (ANP)
+
+TERMO FINAL
+
+BM-SEAL-4
+
+BM-SEAL-4
+
+48610.003894/2000
+
+30/12/2018\*
+
+BM-SEAL-9
+
+BM-SEAL-9
+
+48610.009222/2002
+
+SUSPENSO
+
+BM-SEAL-10
+
+SEAL-M-347
+
+48610.008022/2004
+
+30/09/2018\*
+
+SEAL-M-424
+
+30/09/2018\*
+
+BM-SEAL-11
+
+SEAL-M-349
+
+48610.008023/2004
+
+30/09/2018\*
+
+SEAL-M-426 (1-BRSA-851-SES)
+
+30/09/2018\*
+
+SEAL-M-497
+
+30/09/2018\*
+
+SEAL-M-569
+
+30/09/2018\*
+
+SEAL-T-61\_R11\*
+
+SEAL-T-61\*
+
+48610.005406/2013-50\*
+
+05/08/2018\*
+
+SEAL-T-67\_R11\*
+
+SEAL-T-67\*
+
+48610.005434/2013-77\*
+
+05/08/2018\*
+
+SEAL-T-112\_R12
+
+SEAL-T-112
+
+48610.000090/2014-91
+
+15/05/2017
+
+SEAL-T-142\_R12
+
+SEAL-T-142
+
+48610.000167/2014-22
+
+15/05/2017
+
+SEAL-T-165\_R12
+
+SEAL-T-165
+
+48610.000164/2014-99
+
+15/05/2017
+
+SEAL-T-177\_R12
+
+SEAL-T-177
+
+48610.000162/2014-08
+
+15/05/2017
+
+SEAL-T-198\_R12
+
+SEAL-T-198
+
+48610.000160/2014-99
+
+15/05/2017
+
+SEAL-T-208\_R12
+
+SEAL-T-208
+
+48610.000174/2014-24
+
+15/05/2017
+
+SEAL-T-229\_R12
+
+SEAL-T-229
+
+48610.000172/2014-24
+
+15/05/2017
+
+SEAL-T-359\_R12
+
+SEAL-T-359
+
+48610.000179/2014-07
+
+15/05/2017
+
+SEAL-T-372\_R12
+
+SEAL-T-372
+
+48610.000177/2014-68
+
+15/05/2017
+
+SEAL-T-383\_R12
+
+SEAL-T-383
+
+48610.000175/2014-79
+
+15/05/2017
+
+SEAL-T-384\_R12
+
+SEAL-T-384 R\_12
+
+48610.000166/2014-88
+
+15/05/2017
+
+SEAL-T-420\_R12
+
+SEAL-T-420
+
+48610.000176/2014-13
+
+15/05/2017
+
+SEAL-T-345\_R12
+
+SEAL-T-345
+
+48610.000173/2014-80
+
+15/05/2017
+
+SEAL-T-346\_R12
+
+SEAL-T-346
+
+48610.000169/2014-11
+
+15/05/2017
+
+SEAL-T-360\_R12
+
+SEAL-T-360
+
+48610.000178/2014-11
+
+15/05/2017
+
+Bacia Sedimentar do Paraná Proc.nº 10074.723523/2013-41
+
+ÁREA DE CONCESSÃO (ANP)
+
+BLOCOS(ANP)
+
+CONTRATO(ANP)
+
+TERMO FINAL
+
+PAR-T-198\_R12
+
+PAR-T-198
+
+48610.000077/2014-31
+
+15/05/2018
+
+PAR-T-218\_R12
+
+PAR-T-218
+
+48610.000081/2014-08
+
+15/05/2018
+
+Bacia Sedimentar do Recôncavo Proc.nº 10074.723523/2013-41
+
+ÁREA DE CONCESSÃO (ANP)
+
+BLOCOS(ANP)
+
+CONTRATO(ANP)
+
+TERMO FINAL
+
+REC-T-32\_R12
+
+REC-T-32
+
+48610.000089/2014-66
+
+15/05/2017
+
+REC-T-40\_R12
+
+REC-T-40
+
+48610.000093/2014-24
+
+15/05/2017
+
+REC-T-50\_R12
+
+REC-T-50
+
+48610.000094/2014-79
+
+15/05/2017
+
+REC-T-52\_R12
+
+REC-T-52
+
+48610.000096/2014-68
+
+15/05/2017
+
+REC-T-60\_R12
+
+REC-T-60
+
+48610.000065/2014-15
+
+15/05/2017
+
+REC-T-61\_R12
+
+REC-T-61
+
+48610.000066/2014-51
+
+15/05/2017
+
+REC-T-70\_R12
+
+REC-T-70
+
+48610.000098/2014-57
+
+15/05/2017
+
+REC-T-80\_R12
+
+REC-T-80
+
+48610.000069/2014-95
+
+15/05/2017
+
+REC-T-89\_R12
+
+REC-T-89
+
+48610.000071/2014-64
+
+15/05/2017
+
+REC-T-194\_R12
+
+REC-T-194
+
+48610.000056/2014-16
+
+15/05/2017
+
+REC-T-208\_R12
+
+REC-T-208
+
+48610.000058/2014-13
+
+15/05/2017
+
+REC-T-225\_R12
+
+REC-T-225
+
+48610.000075/2014-42
+
+15/05/2017
+
+REC-T-239\_R12
+
+REC-T-239
+
+48610.000074/2014-06
+
+15/05/2017
+
+REC-T-240\_R12
+
+REC-T-240
+
+48610.000067/2014-04
+
+15/05/2017
+
+REC-T-253\_R12
+
+REC-T-253
+
+48610.000060/2014-84
+
+15/05/2017
+
+REC-T-254\_R12
+
+REC-T-254
+
+48610.000061/2014-29
+
+15/05/2017
+
+REC-T-268\_R12
+
+REC-T-268
+
+48610.000092/2014-80
+
+15/05/2017
+
+Bacia Sedimentar do Parnaíba Proc. nº 10074.723523/2013-41 \*
+
+ÁREA DE CONCESSÃO (ANP)
+
+BLOCOS (ANP)
+
+CONTRATO (ANP)
+
+TERMO FINAL
+
+BT-PN-3
+
+PN-T-86
+
+48610.001299/2008-23
+
+30/08/2017
+
+PN-T-150\_R11\*
+
+PN-T-150\*
+
+48610.005414/2013-04\*
+
+29/08/2019\*
+
+PN-T-166\_R11\*
+
+PN-T-166\*
+
+48610.005417/2013-30\*
+
+29/08/2019\*
+
+Bacia Sedimentar de Parecis -Alto Xingu Proc. nº 10074.723523/2013-41 \*
+
+ÁREA DE CONCESSÃO (ANP)
+
+BLOCOS (ANP)
+
+CONTRATO (ANP)
+
+TERMO FINAL
+
+PRC-T-106\_R10
+
+PRC-T-106
+
+48610.001512/2009-88
+
+30/05/2016\*
+
+PRC-T-123\_R10
+
+PRC-T-123
+
+48610.001515/2009-11
+
+30/05/2016\*
+
+Bacia Sedimentar do Barreirinhas Proc. nº 10074.723523/2013-41 \*
+
+ÁREA DE CONCESSÃO (ANP)
+
+BLOCOS (ANP)
+
+CONTRATO (ANP)
+
+TERMO FINAL
+
+BM-BAR-1
+
+BM-BAR-1
+
+48610.010730/2001
+
+31/12/2016
+
+BM-BAR-3
+
+BM-BAR-3
+
+48610.009212/2002
+
+SUSPENSO
+
+1-DEV-14A-MAS
+
+SUSPENSO
+
+BM-BAR-4
+
+BAR-M-377
+
+48610.009502/2003
+
+SUSPENSO
+
+BM-BAR-5
+
+BAR-M-175
+
+48610.007966/2004
+
+SUSPENSO\*
+
+Bacia Sedimentar de Camamu-Almada Proc. nº 10074.723523/2013-41 \*
+
+ÁREA DE CONCESSÃO (ANP)
+
+BLOCOS (ANP)
+
+CONTRATO (ANP)
+
+TERMO FINAL
+
+BM-CAL-5
+
+1-BRSA-637D-BAS
+
+48610.010718/2001
+
+SUSPENSO
+
+BM-CAL-9
+
+CAL-M-188
+
+48610.007969/2004
+
+SUSPENSO\*
+
+BM-CAL-11
+
+CAL-M-248
+
+48610.007971/2004
+
+SUSPENSO\*
+
+CAL-M-372
+
+SUSPENSO\*
+
+BM-CAL-10
+
+CAL-M-3
+
+48610.007970/2004
+
+SUSPENSO
+
+CAL-M-58
+
+SUSPENSO
+
+CAL-M-60
+
+SUSPENSO
+
+Bacia Sedimentar do Pará-Maranhão Proc. nº 10074.723523/2013-41 \*
+
+ÁREA DE CONCESSÃO (ANP)
+
+BLOCOS (ANP)
+
+CONTRATO (ANP)
+
+TERMO FINAL
+
+BM-PAMA-3
+
+BM-PAMA-3
+
+48610.010709/2001
+
+06/04/2017\*
+
+BM-PAMA-8
+
+PAMA-M-192
+
+48610.007989/2004
+
+SUSPENSO
+
+PAMA-M-194
+
+SUSPENSO
+
+Bacia Sedimentar do Jequitinhonha Proc. nº 10074.723523/2013-41 \*
+
+ÁREA DE CONCESSÃO (ANP)
+
+BLOCOS (ANP)
+
+CONTRATO (ANP)
+
+TERMO FINAL
+
+BM-J-3A
+
+1-BRSA-669-BAS
+
+48610.009217/2002A
+
+SUSPENSO\*
+
+1-BRSA-768-BAS
+
+SUSPENSO\*
+
+BM-J-4
+
+J-M-3
+
+48610.009496/2003
+
+SUSPENSO\*
+
+J-M-5
+
+SUSPENSO\*
+
+J-M-63
+
+SUSPENSO\*
+
+J-M-115
+
+SUSPENSO\*
+
+J-M-165
+
+SUSPENSO\*
+
+BM-J-5
+
+J-M-59
+
+48610.007988/2004
+
+SUSPENSO\*
+
+J-M-61
+
+48610.007988/2004
+
+SUSPENSO\*
+
+Bacia Sedimentar do Pernambuco-Paraíba
+
+ÁREA DE CONCESSÃO (ANP)
+
+BLOCOS (ANP)
+
+CONTRATO (ANP)
+
+TERMO FINAL
+
+BM-PEPB-1
+
+PEPB-M-783
+
+48610.001410/2008-81
+
+SUSPENSO
+
+BM-PEPB-3
+
+PEPB-M-839
+
+48610.001412/2008-71
+
+SUSPENSO
+
+Bacia Sedimentar do Pelotas
+
+ÁREA DE CONCESSÃO (ANP)
+
+BLOCOS (ANP)
+
+CONTRATO (ANP)
+
+TERMO FINAL
+
+BM-P-2
+
+P-M-1269
+
+48610.007990/2004
+
+SUSPENSO
+
+P-M-1271
+
+SUSPENSO
+
+P-M-1351
+
+SUSPENSO
+
+P-M-1353
+
+SUSPENSO
+
+Bacia Sedimentar do Espírito Santo Proc. nº 10074.723523/2013-41 \*
+
+ÁREA DE CONCESSÃO (ANP)
+
+BLOCOS (ANP)
+
+CONTRATO (ANP)
+
+TERMO FINAL
+
+BM-ES-5
+
+1-BRSA-650D-ESS
+
+48610.010724/2001
+
+SUSPENSO\*
+
+BM-ES-21
+
+ES-M-414
+
+48610.007977/2004
+
+31/12/2018\*
+
+BM-ES-22A
+
+ES-M-527
+
+48610.007978/2004A
+
+27/12/2017
+
+BM-ES-23
+
+ES-M-525
+
+48610.007979/2004
+
+22/05/2017\*
+
+BM-ES-26
+
+ES-M-413
+
+48610.009196/2005-69
+
+SUSPENSO\*
+
+BM-ES-27
+
+ES-M-411
+
+SUSPENSO
+
+ES-M-436
+
+48610.009195/2005-14
+
+SUSPENSO
+
+ES-M-437
+
+SUSPENSO
+
+BM-ES-32
+
+ES-M-594
+
+48610.009168/2005-41
+
+31/12/2020
+
+ES-T-485\_R11\*
+
+ES-T-485\*
+
+48610.005484/2013-54
+
+05/08/2018\*
+
+ES-T-486\_R11\*
+
+ES-T-486\*
+
+48610.005403/2013-16\*
+
+05/08/2018\*
+
+ES-T-495\_R11\*
+
+ES-T-495\*
+
+48610.005458/2013-26\*
+
+05/08/2018\*
+
+ES-M-596\_R11\*
+
+ES-M-596\*
+
+48610.005468/2013-61\*
+
+30/08/2020\*
+
+ES-M-669\_R11\*
+
+ES-M-669\*
+
+48610.005472/2013-20
+
+30/08/2020\*
+
+Bacia Sedimentar de Campos Proc. nº 10074.723523/2013-41 \*
+
+ÁREA DE CONCESSÃO (ANP)
+
+BLOCOS
+
+CONTRATO
+
+TERMO FINAL
+
+(ANP)
+
+(ANP)
+
+(ANP)
+
+BC-400
+
+BC-400
+
+48000.003566/97-25
+
+AJUIZAMENTO
+
+BM-C-28
+
+1-BRSA-619-RJS
+
+C-M-333
+
+48610.009499/2003
+
+SUSPENSO
+
+BM-C-35
+
+C-M-535
+
+48610.009209/2005-16
+
+31/12/2020
+
+BM-C-14A\*
+
+1-BRSA-665-RJS\*
+
+48610.010727/2001A\*
+
+02/05/2018\*
+
+Bacia Sedimentar de Santos Proc. nº 10074.723523/2013-41 \*
+
+ÁREA DE CONCESSÃO (ANP)
+
+BLOCOS (ANP)
+
+CONTRATO (ANP)
+
+TERMO FINAL
+
+BM-S-8
+
+1-BRSA-532-A SPS
+
+4-BRSA-971-B-SPS
+
+48610.003883/2000
+
+01/03/2018\*
+
+BMS-24
+
+1-BRSA-559A-RJS
+
+48610.010733/2001
+
+31/12/2020
+
+S-M-324
+
+30/06/2016\*
+
+S-M-417
+
+30/06/2016\*
+
+BM-S-50
+
+S-M-623
+
+48610.009180/2005-56
+
+31/08/2017
+
+BM-S-51
+
+S-M-619
+
+48610.009181/2005-17
+
+23/09/2018\*
+
+CAMPOS DE EXPLORAÇÃO
+
+Bacia Sedimentar de Ceará-Potiguar Proc. nº 10074.723523/2013-41 \*
+
+BLOCO (ANP)
+
+CAMPO (ANP)
+
+CONTRATO (ANP)
+
+TERMO FINAL
+
+Acauã\*
+
+48610.003901/2000
+
+31/12/2020
+
+Agulha\*
+
+48000.003779/97-66
+
+31/12/2020
+
+Alto do Rodrigues\*
+
+48000.003784/97-04
+
+31/12/2020
+
+Angico\*
+
+48000003484/97-62
+
+31/12/2020
+
+Arabaiana\*
+
+48000.003913/97-47
+
+31/12/2020
+
+Aratum\*
+
+48000.003780/97-45
+
+31/12/2020
+
+Asa Branca\*
+
+48000.003482/97-37
+
+31/12/2020
+
+Atum\*
+
+48000.003775/97-13
+
+31/12/2020
+
+Baixa do Algodão\*
+
+48000.003785/97-69
+
+31/12/2020
+
+Baixa do Juazeiro\*
+
+48000.003914/97-18
+
+31/12/2020
+
+Barrinha\*
+
+48000.003786/97-21
+
+31/12/2020
+
+Barrinha Leste\*
+
+48610.003901/2000
+
+31/12/2020
+
+Barrinha Sudoeste\*
+
+48610.003901/2000
+
+31/12/2020
+
+Benfica\*
+
+48610.004003/98
+
+31/12/2020
+
+Boa Esperança\*
+
+48000.003787/97-94
+
+31/12/2020
+
+Boa Vista\*
+
+48000.003788/97-57
+
+31/12/2020
+
+Brejinho\*
+
+48000.003789/97-10
+
+31/12/2020
+
+Cachoeirinha\*
+
+48000.003791/97-61
+
+31/12/2020
+
+Canto do Amaro\*
+
+48000.003792/97-24
+
+31/12/2020
+
+Cioba (RNS-035)\*
+
+48000.003906/97-81
+
+31/12/2020
+
+Curimã\*
+
+48000.003776/97-78
+
+31/12/2020
+
+Espada\*
+
+48000.003777/97-31
+
+31/12/2020
+
+Estreito\*
+
+48000.003793/97-97
+
+31/12/2020
+
+Fazenda Belém\*
+
+48000.003795/97-12
+
+31/12/2020
+
+Fazenda Canaã\*
+
+48000.003796/97-85
+
+31/12/2020
+
+Fazenda Curral\*
+
+48000.003797/97-48
+
+31/12/2020
+
+Fazenda Junco\*
+
+48000.003915/97-72
+
+31/12/2020
+
+Sibite
+
+48610.009225/2002
+
+31/12/2020
+
+Fazenda Malaquias\*
+
+48000.003798/97-19
+
+31/12/2020
+
+Fazenda Pocinho\*
+
+48000.003799/97-73
+
+31/12/2020
+
+Guajá\*
+
+48000.003481/97-74
+
+31/12/2020
+
+Guamaré\*
+
+48000.003800/97-51
+
+31/12/2020
+
+Guamaré Sudeste\*
+
+48610.009155/2005-12
+
+31/12/2020
+
+Icapui\*
+
+48000.003801/97-13
+
+31/12/2020
+
+Iraúna\*
+
+48610.008001/2000
+
+31/12/2020
+
+Jaçanã\*
+
+48610.009225/2002
+
+31/12/2020
+
+Jandui\*
+
+48000.003802/97-86
+
+31/12/2020
+
+Juazeiro\*
+
+48000.003803/97-49
+
+31/12/2020
+
+Lagoa Aroeira\*
+
+48000.003804/97-10
+
+31/12/2020
+
+Leste de Poço Xavier\*
+
+48610.004000/98
+
+31/12/2020
+
+Livramento\*
+
+48000.003805/97-74
+
+31/12/2020
+
+Lorena\*
+
+48000.003807/97-08
+
+31/12/2020
+
+Macau\*
+
+48000.003808/97-62
+
+31/12/2020
+
+Monte Alegre\*
+
+48000.003809/97-25
+
+31/12/2020
+
+Morrinho\*
+
+48000.003810/97-12
+
+31/12/2020
+
+Mossoró\*
+
+48000.003811/97-77
+
+31/12/2020
+
+Oeste Urubarana (RNS-071)\*
+
+48000.003910/97-59
+
+31/12/2020
+
+Pajeú\*
+
+48000.003813/97-01
+
+31/12/2020
+
+Patativa\*
+
+48610.009226/2002
+
+31/12/2020
+
+Pedra Sentada\*
+
+48610.004001/98
+
+31/12/2020
+
+Pescada\*
+
+48000.003912/97-84
+
+31/12/2020
+
+Pintassilgo\*
+
+48610.003901/2000
+
+31/12/2020
+
+Poço Verde\*
+
+48000.003814/97-65
+
+31/12/2020
+
+Poço Xaxier\*
+
+48000.003815/97-28
+
+31/12/2020
+
+Ponta do Mel\*
+
+48000.003816/97-91
+
+31/12/2020
+
+Porto Carão\*
+
+48000.003817/97-53
+
+31/12/2020
+
+Redonda\*
+
+48000.003818/97-16
+
+31/12/2020
+
+Redonda Profundo\*
+
+48000.003819/97-89
+
+31/12/2020
+
+Riacho da Forquilha\*
+
+48000.003821/97-21
+
+31/12/2020
+
+Rio Mossoró\*
+
+48000.003824/97-19
+
+31/12/2020
+
+Sabiá\*
+
+48000.003916/97-35
+
+31/12/2020
+
+Sanhaçu\*
+
+48610.007998/2004
+
+31/12/2020
+
+Salina Cristal\*
+
+48000.003825/97-81
+
+31/12/2020
+
+Serra (RNS-105)\*
+
+48000.003781/97-16
+
+31/12/2020
+
+Serra do Mel\*
+
+48000.003828/97-70
+
+31/12/2020
+
+Serra Vermelha\*
+
+48000.003829/97-32
+
+31/12/2020
+
+Serraria\*
+
+48000.003830/97-11
+
+31/12/2020
+
+Siri\*
+
+48000.003479/97-22
+
+31/12/2020
+
+Três Marias\*
+
+48000.003832/97-47
+
+31/12/2020
+
+Trinca Ferro\*
+
+48610.008001/2004
+
+31/12/2020
+
+Ubarana\*
+
+48000.003782/97-71
+
+31/12/2020
+
+Upanema\*
+
+48000.003833/97-18
+
+31/12/2020
+
+Varginha\*
+
+48610.004002/98
+
+31/12/2020
+
+Várzea Redonda\*
+
+48000.003790/97-07
+
+31/12/2020
+
+Xaréu\*
+
+48000.003778/97-01
+
+31/12/2020
+
+Maçarico\*
+
+48610.001502/2009-42
+
+31/12/2020
+
+Paturi\*
+
+48610.001503/2009-97
+
+31/12/2020
+
+Bacia Sedimentar de Sergipe-Alagoas Proc. nº 10074.723523/2013-41 \*
+
+BLOCO (ANP)
+
+CAMPO (ANP)
+
+CONTRATO (ANP)
+
+TERMO FINAL
+
+Atalaia Sul\*
+
+48000.003845/97-99
+
+31/12/2020
+
+Arapaçu\*
+
+48610.001547/2009-17
+
+31/12/2020
+
+Aruari\*
+
+48000.003844/97-26
+
+31/12/2020
+
+Angelim\*
+
+48000.003843/97-63
+
+31/12/2020
+
+Aguilhada\*
+
+48000.003842/97-09
+
+31/12/2020
+
+Anambé\*
+
+48610.003892/2000
+
+31/12/2020
+
+Tatuí (Área SES-019)\*
+
+48000.003834/97-72
+
+31/12/2020
+
+Brejo Grande\*
+
+48000.003846/97-51
+
+31/12/2020
+
+Caioba\*
+
+48000.003836/97-06
+
+31/12/2020
+
+Camorim\*
+
+48000.003837/97-61
+
+31/12/2020
+
+Carmópolis\*
+
+Carmópolis Noroeste\*
+
+Carmópolis Sudoeste\*
+
+48000.003847/97-14
+
+48610.009197/2005-11
+
+48610.009197/2005-11
+
+31/12/2020
+
+Castanhal\*
+
+48000.003848/97-87
+
+31/12/2020
+
+Cidade S. Miguel Campos\*
+
+48000.003850/97-29
+
+31/12/2020
+
+Dourado\*
+
+48000.003838/97-23
+
+31/12/2020
+
+Furado\*
+
+48000.003854/97-80
+
+31/12/2020
+
+Guaricema\*
+
+48000.003839/97-96
+
+31/12/2020
+
+Ilha Pequena\*
+
+48000.003855/97-42
+
+31/12/2020
+
+Japuaçu\*
+
+48610.003892/2000
+
+31/12/2020
+
+Mato Grosso\*
+
+Mato Grosso Noroeste\*
+
+Mato Grosso Norte\*
+
+Mato Grosso Sudoeste\*
+
+Mato Grosso Sul\*
+
+48000.003857/97-78
+
+48610.009197/2005-11
+
+31/12/2020
+
+31/12/2020
+
+Paru\*
+
+48000.003840/97-75
+
+31/12/2020
+
+Pilar\*
+
+48000.003859/97-01
+
+31/12/2020
+
+Piranema\*
+
+48000.003495/97-89
+
+31/12/2020
+
+Piranema Sul\*
+
+48610.008022/2004
+
+31/12/2020
+
+Salgo\*
+
+48000.003841/97-38
+
+31/12/2020
+
+Riachuelo\*
+
+48000.003860/97-82
+
+31/12/2020
+
+São Miguel dos Campos\*
+
+48000.03861/97-45
+
+31/12/2020
+
+Siririzinho\*
+
+Sirizinho Oeste\*
+
+Sirizinho Sul\*
+
+48000.003862/97-16
+
+48610.009197/2005-11
+
+48000.003862/97-16
+
+31/12/2020
+
+Sirizinho Sul\*
+
+48000.003862/97-16
+
+31/12/2020
+
+Japacanim\*
+
+48610.001547/2009-17
+
+31/12/2020
+
+Bacia Sedimentar de Camamu-Almada Proc. nº 10074.723523/2013-41 \*
+
+BLOCO (ANP)
+
+CAMPO (ANP)
+
+CONTRATO (ANP)
+
+TERMO FINAL
+
+Camarão Norte\*
+
+48000.003519/97-82
+
+31/12/2020
+
+Dom João Mar\*
+
+48000.003645/97-08
+
+31/12/2020
+
+Manati\*
+
+48000.003518/97-82
+
+31/12/202
+
+Sardinha\*
+
+48000.003875/97-50
+
+31/12/2020
+
+Bacia Sedimentar de Solimões Proc. nº 10074.723523/2013-41 \*
+
+BLOCO (ANP)
+
+CAMPO (ANP)
+
+CONTRATO (ANP)
+
+TERMO FINAL
+
+Araracanga\*
+
+48000.003455/97-64
+
+31/12/2020
+
+Arara Azul
+
+48610.009146/2005-81
+
+31/12/2020
+
+Carapanaúba\*
+
+48000.003868/97-94
+
+31/12/2020
+
+Cupiúba\*
+
+48000.003869/97-57
+
+31/12/2020
+
+Juruá\*
+
+48000.003870/97-36
+
+31/12/2020
+
+Jandaia Sul
+
+48610.000095/2014-13
+
+31/12/2020
+
+Leste de Urucu\*
+
+48000.003627/97-18
+
+31/12/2020
+
+Rio Urucu\*
+
+48000.003628/97-81
+
+31/12/2020
+
+Sudoeste de Urucu\*
+
+48000.003873/97-24
+
+31/12/2020
+
+Bacia Sedimentar de Amazonas Proc. nº 10074.723523/2013-41 \*
+
+BLOCO (ANP)
+
+CAMPO (ANP)
+
+CONTRATO (ANP)
+
+TERMO FINAL
+
+Japiim\*
+
+48000.003460/97-02
+
+31/12/2020
+
+Azulão\*
+
+48000.003460/97-02
+
+31/12/2020
+
+Bacia Sedimentar do Recôncavo Proc. nº 10074.723523/2013-41 \*
+
+BLOCO (ANP)
+
+CAMPO (ANP)
+
+CONTRATO (ANP)
+
+TERMO FINAL
+
+Água Grande\*
+
+48000.003629/97-43
+
+31/12/2020
+
+Apraiús\*
+
+48000.003630/97-22
+
+31/12/2020
+
+Araçás\*
+
+48000.003631/97-95
+
+31/12/2020
+
+Aratu\*
+
+48000.003632/97-58
+
+31/12/2020
+
+Biriba\*
+
+48000.003672/97-72
+
+31/12/2020
+
+Bonsucesso\*
+
+48000.003658/97-41
+
+31/12/2020
+
+Brejinho\*
+
+48000.003636/97-17
+
+31/12/2020
+
+Buracica\*
+
+48000.003635/97-46
+
+31/12/2020
+
+Camaçari\*
+
+48000.003881/97-52
+
+31/12/2020
+
+Cambacica\*
+
+48610.009228/2002
+
+31/12/2020
+
+Canabrava\*
+
+48000.003637/97-71
+
+31/12/2020
+
+Candeias\*
+
+48000.003638/97-34
+
+31/12/2020
+
+Cantagalo\*
+
+48000.003639/97-05
+
+31/12/2020
+
+Cassarongongo\*
+
+48000.003640/97-86
+
+31/12/2020
+
+Cexis\*
+
+48000.003641/97-49
+
+31/12/2020
+
+Cidade entre Rios\*
+
+48000.003642/97-10
+
+31/12/2020
+
+Conceição\*
+
+48000.003702/97-31
+
+31/12/2020
+
+Dom João\*
+
+48000.003644/97-37
+
+31/12/2020
+
+Fazenda Alto das Pedras\*
+
+48610.004004/98
+
+31/12/2020
+
+Fazenda Alvorada\*
+
+48000.003646/97-62
+
+31/12/2020
+
+Fazenda Azevedo\*
+
+48000.003647/97-25
+
+31/12/2020
+
+Fazenda Bálsamo\*
+
+48000.003648/97-98
+
+31/12/2020
+
+Fazenda Belém\*
+
+48000.003649/97-51
+
+31/12/2020
+
+Fazenda Boa Esperança\*
+
+48000.003650/97-30
+
+31/12/2020
+
+Fazenda Imbé\*
+
+48000.003651/97-01
+
+31/12/2020
+
+Fazenda Matinha\*
+
+48000.003891/97-14
+
+31/12/2020
+
+Fazenda Onça\*
+
+48000.003652/97-65
+
+31/12/2020
+
+Fazenda Panelas\*
+
+48000.003653/97-28
+
+31/12/2020
+
+Fazenda Santa Rosa\*
+
+48000.003883/97-88
+
+31/12/2020
+
+Guanambi\*
+
+48610.008017/2004
+
+31/12/2020
+
+Gomo\*
+
+48000.003656/97-16
+
+31/12/2020
+
+Guriatã
+
+48610.000069/2014-95
+
+31/12/2020
+
+Ilha Bimbarra\*
+
+48000.003657/97-89
+
+31/12/2020
+
+Itaparica\*
+
+48000.003659/97-12
+
+31/12/2020
+
+Jacuípe\*
+
+48000.003660/97-93
+
+31/12/2020
+
+Jandaia\*
+
+48000.009488/2003
+
+31/12/2020
+
+Jandaia Sul
+
+48610.000095/2014-13
+
+31/12/2020
+
+Lagoa Branca\*
+
+48000.003893/97-31
+
+31/12/2020
+
+Lamarão\*
+
+48000.003664/97-44
+
+31/12/2020
+
+Leodório\*
+
+48000.003665/97-15
+
+31/12/2020
+
+Malombé\*
+
+48000.003666/97-70
+
+31/12/2020
+
+Mandacaru\*
+
+48000.003667/97-32
+
+31/12/2020
+
+Mapele\*
+
+48000.003633/97-11
+
+31/12/2020
+
+Massapé\*
+
+48000.003668/97-03
+
+31/12/2020
+
+Massuí\*
+
+48000.003669/97-68
+
+31/12/2020
+
+Mata de São João\*
+
+48000.003670/97-47
+
+31/12/2020
+
+Miranga\*
+
+48000.003673/97-35
+
+31/12/2020
+
+Miranga Norte\*
+
+48000.003676/97-23
+
+31/12/2020
+
+Norte Fazenda Caruaçu\*
+
+48000.003677/97-96
+
+31/12/2020
+
+Pariri\*
+
+48610.001557/2009-52
+
+31/12/2020
+
+Pedrinhas\*
+
+48000.003678/97-59
+
+31/12/2020
+
+Pojuca\*
+
+48000.003679/97-11
+
+31/12/2020
+
+Pojuca Norte\*
+
+48000.003680/97-09
+
+31/12/2020
+
+Quererá\*
+
+48000.003894/97-02
+
+31/12/2020
+
+Remanso\*
+
+48000.003671/97-18
+
+31/12/2020
+
+Riacho da Barra\*
+
+48000.003682/97-26
+
+31/12/2020
+
+Riacho Ouricuri\*
+
+48000.003683/97-99
+
+31/12/2020
+
+Riacho São Pedro\*
+
+48000.003684/97-51
+
+31/12/2020
+
+Rio do Bu\*
+
+48000.003686/97-87
+
+31/12/2020
+
+Rio dos Ovos\*
+
+48000.003687/97-40
+
+31/12/2020
+
+Rio Itariri\*
+
+48000.003688/97-11
+
+31/12/2020
+
+Rio Piriri\*
+
+48000.003674/97-06
+
+31/12/2020
+
+Rio Pojuca\*
+
+48000.003689/97-75
+
+31/12/2020
+
+Rio Sauípe\*
+
+48000.003690/97-54
+
+31/12/2020
+
+Rio da Serra\*
+
+48000.003685/97-14
+
+31/12/2020
+
+Rio Subaúma\*
+
+48000.003691/97-17
+
+31/12/2020
+
+São Domingos\*
+
+48000.003693/97-42
+
+31/12/2020
+
+São Pedro\*
+
+48000.003694/97-13
+
+31/12/2020
+
+Sesmaria\*
+
+48000.003696/97-31
+
+31/12/2020
+
+Socorro\*
+
+48000.003697/97-01
+
+31/12/2020
+
+Socorro Extensão\*
+
+48000.003698/97-66
+
+31/12/2020
+
+Sussuarana\*
+
+48000.003699/97-29
+
+31/12/2020
+
+Tangará\*
+
+48610.009488/2003
+
+31/12/2020
+
+Tapiranga\*
+
+48610.001430/2008-52
+
+31/12/2020
+
+Tapiranga Norte\*
+
+48610.001429/2008-28
+
+31/12/2020
+
+Taquipe\*
+
+48000.003700/97-14
+
+31/12/2020
+
+Bacia Sedimentar do Espirito Santo Proc. nº 10074.723523/2013-41 \*
+
+BLOCO (ANP)
+
+CAMPO (ANP)
+
+CONTRATO (ANP)
+
+TERMO FINAL
+
+Baleia Anã\*
+
+48000.003560/97-49
+
+31/12/2020
+
+Baleia Azul\*
+
+48000.003560/97-49
+
+31/12/2020
+
+Baleia Franca\*
+
+48000.003560/97-49
+
+31/12/2020
+
+Barra do Ipiranga\*
+
+48000.003756/97-61
+
+31/12/2020
+
+Biguá\*
+
+48610.007984/2004
+
+31/12/2020
+
+Cachalote\*
+
+48000.003560/97-49
+
+31/12/2020
+
+Cacimbas\*
+
+48000.003736/97-53
+
+31/12/2020
+
+Camarupim\*
+
+48000.003535/97-00
+
+31/12/2020
+
+Camarupim Norte\*
+
+48610.010724/2001
+
+31/12/2020
+
+Campo Grande\*
+
+48000.003737/97-16
+
+31/12/2020
+
+Canapu\*
+
+48000.003535/97-00
+
+31/12/2020
+
+Cancã\*
+
+48610.009491/2003
+
+31/12/2020
+
+Cangoá\*
+
+48000.003902/97-21
+
+31/12/2020
+
+Córrego Cedro Norte\*
+
+48000.003738/97-89
+
+31/12/2020
+
+Córrego Cedro .Norte Oeste
+
+48610.009188/2005-12
+
+31/12/2020
+
+Córrego Cedro Norte Sul\*
+
+48610.009188/2005-12
+
+31/12/2020
+
+Córrego das Pedras\*
+
+48000.003739/97-41
+
+31/12/2020
+
+Córrego Dourado\*
+
+48000.003740/97-21
+
+31/12/2020
+
+Fazenda Alegre\*
+
+48000.003742/97-56
+
+31/12/2020
+
+Fazenda Cedro\*
+
+48000.003743/97-19
+
+31/12/2020
+
+Fazenda Cedro Norte\*
+
+48000.003745/97-44
+
+31/12/2020
+
+Fazenda Queimados\*
+
+48000.003744/97-81
+
+31/12/2020
+
+Fazenda Santa Luzia\*
+
+48000.003746/97-15
+
+31/12/2020
+
+Fazenda São Jorge\*
+
+48000.003747/97-70
+
+31/12/2020
+
+Fazenda São Rafael\*
+
+48000.003750/97-84
+
+31/12/2020
+
+Guriri\*
+
+48000.003751/97-47
+
+31/12/2020
+
+Golfinho\*
+
+48000.003535/97-00
+
+31/12/2020
+
+Inhambu\*
+
+48610.010735/2001
+
+31/12/2020
+
+Jacupemba\*
+
+48610.007986/2004
+
+31/12/2020
+
+Jacutinga\*
+
+48610.009492/2003
+
+31/12/2020
+
+Jacutinga Norte\*
+
+48610.009188/2005-12
+
+31/12/2020
+
+Jubarte\*
+
+48000.003560/97-49
+
+31/12/2020
+
+Lagoa Bonita\*
+
+48000.003748/97-32
+
+31/12/2020
+
+Lagoa Parda\*
+
+48000.003752/97-18
+
+31/12/2020
+
+Lagoa Parda Norte\*
+
+48000.003754/97-35
+
+31/12/2020
+
+Lagoa Piabanha\*
+
+48000.003755/97-06
+
+31/12/2020
+
+Lagoa Suruaca\*
+
+48000.003757/97-23
+
+31/12/2020
+
+Mariricu\*
+
+48000.003758/97-96
+
+31/12/2020
+
+Mariricu Norte\*
+
+48000.003760/97-38
+
+31/12/2020
+
+Mariricu Oeste\*
+
+48000.003759/97-59
+
+31/12/2020
+
+Mosquito\*
+
+48000.003541/97-02
+
+31/12/2020
+
+Nativo Oeste\*
+
+48000.003761/97-09
+
+31/12/2020
+
+Peroá\*
+
+48000.003903/97-93
+
+31/12/2020
+
+Rio Barra Seca\*
+
+48000.003765/97-51
+
+31/12/2020
+
+Rio Itaúnas\*
+
+48000.003766/97-14
+
+31/12/2020
+
+Rio Itaúnas Leste\*
+
+48000.003767/97-87
+
+31/12/2020
+
+Rio Preto\*
+
+48000.003769/97-11
+
+31/12/2020
+
+Rio Preto Oeste\*
+
+48000.003770/97-91
+
+31/12/2020
+
+Rio Preto Sudeste\*
+
+48610.009188/2005-12
+
+31/12/2020
+
+Rio Preto Sul\*
+
+48000.003771/97-54
+
+31/12/2020
+
+Rio São Mateus\*
+
+48000.003772/97-17
+
+31/12/2020
+
+Rio São Mateus Oeste\*
+
+48610.009188/2005-12
+
+31/12/2020
+
+São Mateus\*
+
+48000.003773/97-80
+
+31/12/2020
+
+São Mateus Leste\*
+
+48610.009188/2005-12
+
+31/12/2020
+
+Saíra\*
+
+48610.010735/2001
+
+31/12/2020
+
+Seriema\*
+
+48610.007984/2004
+
+31/12/2020
+
+Tabuiaiá\*
+
+48610.007986/2004
+
+31/12/2020
+
+Bacia Sedimentar de Campos Proc. nº 10074.723523/2013-41 \*
+
+BLOCO (ANP)
+
+CAMPO (ANP)
+
+CONTRATO (ANP)
+
+TERMO FINAL
+
+Albacora\*
+
+48000.003703/97-02
+
+31/12/2020
+
+Albacora Leste\*
+
+48000.003895/97-67
+
+31/12/2020
+
+Anequim\*
+
+48000.003730/97-77
+
+31/12/2020
+
+Badejo\*
+
+48000.003705/97-20
+
+31/12/2020
+
+Bagre\*
+
+48000.003726/97-08
+
+31/12/2020
+
+Barracuda\*
+
+48000.003897/97-92
+
+31/12/2020
+
+Bicudo\*
+
+48000.003717/97-17
+
+31/12/2020
+
+Bonito\*
+
+48000.003718/97-71
+
+31/12/2020
+
+Carapeba\*
+
+48000.003711/97-22
+
+31/12/2020
+
+Carapicu\*
+
+48000.003557/97-34
+
+31/12/2020
+
+Caxaréu\*
+
+48000.003560/97-49
+
+31/12/2020
+
+Caratinga
+
+48000.003898/97-55
+
+31/12/2020
+
+Cherne\*
+
+48000.003727/97-62
+
+31/12/2020
+
+Congro\*
+
+48000.003714/97-11
+
+31/12/2020
+
+Corvina\*
+
+48000.003715/97-83
+
+31/12/2020
+
+Enchova\*
+
+48000.003719/97-34
+
+31/12/2020
+
+Enchova Oeste\*
+
+48000.003720/97-13
+
+31/12/2020
+
+Espadarte\*
+
+48000.003899/97-18
+
+31/12/2020
+
+Garoupa\*
+
+48000.003721/97-86
+
+31/12/2020
+
+Garoupinha\*
+
+48000.003722/97-49
+
+31/12/2020
+
+Linguado\*
+
+48000.003706/97-92
+
+31/12/2020
+
+Malhado\*
+
+48000.003716/97-46
+
+31/12/2020
+
+Marimbá\*
+
+48000.003732/97-01
+
+31/12/2020
+
+Marlim\*
+
+48000.003723/97-10
+
+31/12/2020
+
+Marlim Leste\*
+
+48000.003900/97-03
+
+31/12/2020
+
+Marlim Sul\*
+
+48000.003724/97-74
+
+31/12/2020
+
+Maromba\*
+
+48000.003556/97-71
+
+31/12/2020
+
+Namorado\*
+
+48000.003728/97-25
+
+31/12/2020
+
+Pampo\*
+
+48000.003707/97-55
+
+31/12/2020
+
+Papa Terra\*
+
+48000.003556/97-71
+
+31/12/2020
+
+Parati\*
+
+48000.003731/97-30
+
+31/12/2020
+
+Pargo\*
+
+48000.003712/97-95
+
+31/12/2020
+
+Pirambú\*
+
+48000.003560/97-49
+
+31/12/2020
+
+Piraúna\*
+
+48000.003733/97-65
+
+31/12/2020
+
+Roncador\*
+
+48000.003901/97-68
+
+31/12/2020
+
+Tambuatá
+
+48000.003577/97-41
+
+31/12/2020
+
+Tartaruga Mestiça\*
+
+48610.009156/2005-17
+
+31/12/2020
+
+Tartaruga Verde\*
+
+48610.009156/2005-17
+
+31/12/2020
+
+Trilha\*
+
+48000.003708/97-18
+
+31/12/2020
+
+Vermelho\*
+
+48000.003713/97-58
+
+31/12/2020
+
+Viola\*
+
+48000.003734/97-28
+
+31/12/2020
+
+Voador\*
+
+48000.003704/97-67
+
+31/12/2020
+
+Bacia Sedimentar de Santos (\*) Processo nº 10768.000474/2012-85 e Proc. nº 10074.723523/2013-41 \*\*
+
+BLOCO (ANP)
+
+CAMPO (ANP)
+
+CONTRATO (ANP)
+
+TERMO FINAL
+
+Berbigão
+
+48610.003886/2000
+
+31/12/2020
+
+Lagosta\*\*
+
+48000.003570/97-01
+
+31/12/2020
+
+Lula\*\*
+
+48610.003886/2000
+
+31/12/2020
+
+Merluza\*\*
+
+48000.003866/97-69
+
+31/12/2020
+
+Mexilhão\*\*
+
+48000.003576/97-89
+
+31/12/2020
+
+Oeste de Atapu
+
+48610.003886/2000
+
+31/12/2020
+
+Sururu
+
+48610.003886/2000
+
+31/12/2020
+
+Sapinho\*
+
+48610.003884/2000
+
+31/12/2020
+
+Tamba\*
+
+48000.003577/97-41
+
+31/12/2020
+
+Uruguá\*
+
+48000.003577/97-41
+
+31/12/2020
+
+Baúna (\*)\*\*
+
+48610.009494/2003
+
+31/12/2020
+
+Piracaba (\*)\*\*
+
+48610.009494/2003
+
+31/12/2020
+
+Baúna Sul\*\*
+
+48610.009493/2003
+
+31/12/2020
+
+Bacia Sedimentar de Santos Proc. nº 10074.723523/2013-41 \*\*
+
+BLOCO
+
+CAMPO
+
+CONTRATO (ANP)
+
+TERMO FINAL
+
+CAMPO DE ITAPU
+
+40610.012913/2010-05
+
+31/12/2020 \*
+
+BÚZIOS\*\*
+
+48610.012913/2010-05
+
+31/12/2020 \*
+
+CAMPO SUL DE SAPINHOÁ
+
+48610.012913/2010-05
+
+31/12/2020 \*
+
+NORTE DE SURURU
+
+48610.012913/2010-05
+
+31/12/2020 \*
+
+SUL DE BERBIGÃO
+
+48610.012913/2010-05
+
+31/12/2020 \*
+
+SUL DE SURURU
+
+48610.012913/2010-05
+
+31/12/2020 \*
+
+NORTE DE BERBIGÃO
+
+48610.012913/2010-05
+
+31/12/2020 \*
+
+ATAPU
+
+48610.012913/2010-05
+
+31/12/2020 \*
+
+CAMPO DE SEPIA
+
+48610.012913/2010-05
+
+31/12/2020 \*
+
+SUL DE LULA\*\*
+
+48610.012913/2010-05
+
+31/12/2020 \*
+
+CAMPO DE SÉPIA LESTE
+
+48610.010733/2001-05
+
+31/12/2020
+
+Bacia Sedimentar de Santos Proc. nº 10010.018387/0418-76
+
+BLOCO
+
+CAMPO
+
+CONTRATO (ANP)
+
+TERMO FINAL
+
+BM-S-9
+
+Lapa
+
+48610.003884/2000
+
+31/12/2020
+
+LIBRA\_P1
+
+Libra
+
+48610.011150/2013-10
+
+31/12/2020
+
+\*o campo de Golfinho encontra-se em fase de exploração, sem interrupção da atividade, desde a publicação do ADE nº 32, de 30 de março de 2016, publicado no DOU de 07/04/2016.

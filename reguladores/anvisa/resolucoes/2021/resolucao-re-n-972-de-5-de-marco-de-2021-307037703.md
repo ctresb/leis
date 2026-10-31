@@ -1,0 +1,240 @@
+---
+titulo: "RESOLUÇÃO RE Nº 972, DE 5 DE Março DE 2021"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/3ª Diretoria/Gerência-Geral de Toxicologia"
+tipo: "Resolução"
+numero: "972"
+data: 2021-03-05
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 08/03/2021, seção 1, p. 140"
+data_publicacao: 2021-03-08
+edicao: "44"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-972-de-5-de-marco-de-2021-307037703"
+sha256_html_fonte: 7114f6b69f47b02e2dc444adf3cdb8f3a4a574b7078ea1670d91a8e223a03a8a
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO RE Nº 972, DE 5 DE Março DE 2021
+
+RESOLUÇÃO RE Nº 972, DE 5 DE Março DE 2021
+
+O Gerente-Geral de Toxicologia no uso das atribuições que lhe confere o art. 149, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º** Aprovar a avaliação toxicológica preliminar para fins de Registro Especial Temporário (RET), conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+CARLOS ALEXANDRE OLIVEIRA GOMES
+
+## ANEXO
+
+EMPRESA/CNPJ
+
+PROCESSO
+
+FASE DO EXPERIMENTO
+
+-----------------------------
+
+ANDERMATT DO BRASIL SOLUÇÕES BIOLÓGICAS LTDA. - 12.842.216/0001-83
+
+25351.867163/2020-78
+
+## ANEXO III — -----------------------------
+
+BAYER S.A. - 18.459.628/0001-15
+
+25351.839164/2020-22
+
+FASE I
+
+-----------------------------
+
+BASF S/A - 48.539.407/0001-18
+
+25351.625879/2020-08
+
+FASE II
+
+25351.625895/2020-92
+
+FASE II
+
+25351.625897/2020-81
+
+FASE II
+
+25351.625922/2020-27
+
+FASE II
+
+25351.625955/2020-77
+
+FASE II
+
+25351.626016/2020-40
+
+FASE II
+
+25351.626067/2020-71
+
+FASE II
+
+25351.626068/2020-16
+
+FASE II
+
+25351.626072/2020-84
+
+FASE II
+
+25351.626132/2020-69
+
+FASE II
+
+25351.626150/2020-41
+
+FASE II
+
+25351.626163/2020-10
+
+FASE II
+
+25351.626181/2020-00
+
+FASE II
+
+25351.633351/2020-02
+
+FASE II
+
+25351.633386/2020-33
+
+FASE II
+
+25351.633402/2020-98
+
+FASE II
+
+25351.633586/2020-96
+
+FASE II
+
+25351.633607/2020-73
+
+FASE II
+
+25351.633660/2020-74
+
+FASE II
+
+25351.633698/2020-47
+
+FASE II
+
+25351.633700/2020-88
+
+FASE II
+
+-----------------------------
+
+BIO CONTROLE - MÉTODOS DE CONTROLE DE PRAGAS LTDA - 01.841.604/0001-23
+
+25351.532258/2020-73
+
+## ANEXO III — 25351.509353/2020-73
+
+## ANEXO III — -----------------------------
+
+BIOTROP SOLUÇÕES BIOLÓGICAS LTDA - 30.284.246/0001-01
+
+25351.567361/2020-34
+
+## ANEXO III — -----------------------------
+
+BIOVALENS LTDA. ME - 19.558.896/0002-38
+
+25351.644814/2020-53
+
+## ANEXO III — 25351.644816/2020-42
+
+## ANEXO III — 25351.645215/2020-57
+
+## ANEXO III — -----------------------------
+
+COOPERATIVA MISTA DE DESENVOLVIMENTO DO AGRONEGÓCIO - 11.407.499/0004-15
+
+25351.332834/2020-84
+
+## ANEXO III — -----------------------------
+
+CROSS LINK CONSULTORIA E COMÉRCIO LTDA - 67.148.692/0001-90
+
+25351.621259/2020-91
+
+FASE III
+
+-----------------------------
+
+FMC QUÍMICA DO BRASIL LTDA. - 04.136.367/0001-98
+
+25351.440641/2020-04
+
+## ANEXO III — 25351.491016/2020-12
+
+## ANEXO III — 25351.491126/2020-84
+
+## ANEXO III — 25351.491195/2020-98
+
+## ANEXO III — -----------------------------
+
+GÊNICA INOVAÇÃO BIOTECNOLÓGICA LTDA. - 23.255.514/0002-74
+
+25351.524800/2020-14
+
+## ANEXO III — -----------------------------
+
+ISK BIOSCIENCES DO BRASIL DEFENSIVOS AGRÍCOLAS LTDA - 02.657.037/0001-12
+
+25351.540252/2020-70
+
+FASE III
+
+-----------------------------
+
+INNOVAK DO BRASIL PRODUTOS AGRÍCOLAS LTDA. - EPP - 28.798.763/0001-49
+
+25351.332928/2020-53
+
+## ANEXO III — -----------------------------
+
+MANEOGENE AGROCIENCIAS S.A. - 20.220.461/0002-68
+
+25351.567301/2020-11
+
+## ANEXO III — 25351.567465/2020-49
+
+## ANEXO III — -----------------------------
+
+MITSUI BRASILEIRA IMPORTAÇÃO E EXPORTAÇÃO S.A. - 61.139.697/0001-70
+
+25351.540102/2020-66
+
+## ANEXO III — -----------------------------
+
+SUMITOMO CHEMICAL DO BRASIL REPRESENTACOES LTDA - 42.462.952/0001-77
+
+25351.332713/2020-32
+
+## ANEXO III — -----------------------------
+
+SYNTECH RESEARCH LABORATORIO BRASIL LTDA - 24.950.006/0002-79
+
+25351.524773/2020-80
+
+## ANEXO III — -----------------------------
+
+TIDE DO BRASIL LTDA - 11.642.108/0001-02
+
+25351.540081/2020-89
+
+## ANEXO III

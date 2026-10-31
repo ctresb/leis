@@ -1,0 +1,64 @@
+---
+titulo: "PORTARIA SERES/MEC Nº 344, DE 17 de junho de 2025"
+orgao: "Ministério da Educação/Secretaria de Regulação e Supervisão da Educação Superior"
+tipo: "Portaria"
+numero: "344"
+data: 2025-06-17
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 18/06/2025, seção 1, p. 65"
+data_publicacao: 2025-06-18
+edicao: "114"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-seres/mec-n-344-de-17-de-junho-de-2025-636861379"
+baixado_em: 2026-10-16
+---
+# PORTARIA SERES/MEC Nº 344, DE 17 de junho de 2025
+
+PORTARIA SERES/MEC Nº 344, DE 17 de junho de 2025
+
+A SECRETÁRIA DE REGULAÇÃO E SUPERVISÃO DA EDUCAÇÃO SUPERIOR, no uso da atribuição que lhe confere o Decreto nº 11.691, de 5 de setembro de 2023, e tendo em vista o Decreto n° 9.235, de 15 de dezembro de 2017, e as Portarias Normativas n° 20 e nº 23, de 21 de dezembro de 2017, do Ministério da Educação, e considerando o disposto no(s) processo(s) e-MEC listado(s) na planilha anexa, resolve:
+
+**Art. 1º** Fica(m) reconhecido(s) o(s) curso(s) superior(es) de graduação constante(s) da tabela do anexo desta Portaria, ministrado(s) pela(s) Instituição(ões) de Educação Superior citada(s), nos termos do disposto no art. 10, do Decreto nº 9.235/2017.
+
+**Art. 2º** O reconhecimento a que se refere esta Portaria é válido exclusivamente para o curso ministrado no endereço citado na tabela constante do anexo.
+
+**Art. 3º** O reconhecimento a que se refere esta Portaria é válido até o ciclo avaliativo seguinte.
+
+**Art. 4º** Esta Portaria entra em vigor na data de sua publicação.
+
+MARTA ABRAMO
+
+ANEXO (Reconhecimento de Cursos)
+
+| Nº de Ordem | Registro e-MEC nº | Curso | Nº de vagas totais anuais | Mantida | Mantenedora | Endereço de funcionamento do curso |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | 202304892 | ARQUITETURA E URBANISMO (Bacharelado) | 114 (cento e quatorze) | Centro de Ensino Superior SOCIESC de Jaraguá do Sul | BRASIL EDUCACAO S/A | AVENIDA GETÚLIO VARGAS, 268, GARDEN SHOPPING CENTER, CENTRO, JARAGUÁ DO SUL/SC |
+| 2 | 202300509 | MARKETING E PUBLICIDADE (Bacharelado) | 30 (trinta) | CENTRO UNIVERSITÁRIO ANTÔNIO EUFRÁSIO DE TOLEDO DE PRESIDENTE PRUDENTE - TOLEDO PRUDENTE | ASSOCIACAO EDUCACIONAL TOLEDO | PRAÇA RAUL FURQUIM, 09, , VILA FURQUIM, PRESIDENTE PRUDENTE/SP |
+| 3 | 202220435 | NUTRIÇÃO (Bacharelado) | 60 (sessenta) | CENTRO UNIVERSITÁRIO BARÃO DE MAUÁ | ORGANIZACAO EDUCACIONAL BARAO DE MAUA | RUA RAMOS DE AZEVEDO, 423, , JARDIM PAULISTA, RIBEIRÃO PRETO/SP |
+| 4 | 202222195 | ENGENHARIA DE PRODUÇÃO (Bacharelado) | 80 (oitenta) | CENTRO UNIVERSITÁRIO DAS FACULDADES INTEGRADAS DE OURINHOS | FUNDACAO EDUCACIONAL MIGUEL MOFARREJ | RODOVIA BR-153, KM 338 + 420 M, S/N, , ÁGUA DO CATETO, OURINHOS/SP |
+| 5 | 202119258 | AGRONOMIA (Bacharelado) | 80 (oitenta) | CENTRO UNIVERSITÁRIO DE BELO HORIZONTE | IEDUC - INSTITUTO DE EDUCACAO E CULTURA S/A | AVENIDA PROF. MÁRIO WERNECK, 1685, CAMPUS BURITIS - UNIDADE SEDE, ESTORIL, BELO HORIZONTE/MG |
+| 6 | 202019891 | RADIOLOGIA (Tecnológico) | 80 (oitenta) | Centro Universitário de Ciências e Tecnologia do Maranhão | GRUPO EDUCA LTDA | RUA AARÃO REIS, 1000, CENTRO, CAXIAS/MA |
+| 7 | 202300414 | GESTÃO DE RECURSOS HUMANOS (Tecnológico) | 100 (cem) | Centro Universitário de Iporá | CENTRO DE ENSINO SUPERIOR DE IPORA LTDA - EPP | RUA SERRA CANA BRAVA - QUADRA 02 - LOTE 04, 512, , JARDIM NOVO HORIZONTE II, IPORÁ/GO |
+| 8 | 202303083 | ZOOTECNIA (Bacharelado) | 150 (cento e cinquenta) | CENTRO UNIVERSITÁRIO DE RIO PRETO | SOCIEDADE DE EDUCACAO E CULTURA DE SAO JOSE DO RIO PRETO LTDA. | RUA YVETTE GABRIEL ATIQUE, 45, UNIDADE SEDE, BOA VISTA, SÃO JOSÉ DO RIO PRETO/SP |
+| 9 | 202309582 | GESTÃO DE RECURSOS HUMANOS (Tecnológico) | 100 (cem) | Centro Universitário de Tecnologia de Curitiba | ESCOLA TECNOLOGICA DE CURITIBA LTDA - EPP | RUA ITACOLOMI, 450, SEDE, PORTÃO, CURITIBA/PR |
+| 10 | 202004758 | BIOMEDICINA (Bacharelado) | 240 (duzentas e quarenta) | CENTRO UNIVERSITÁRIO DO INSTITUTO DE EDUCAÇÃO SUPERIOR DE BRASÍLIA - IESB | CESB - CENTRO DE EDUCACAO SUPERIOR DE BRASILIA LTDA | SGAS QUADRA 613/614 - AV. L2 SUL, S/N, UNIDADE - ASA SUL, ASA SUL, BRASÍLIA/DF |
+| 11 | 202219958 | ODONTOLOGIA (Bacharelado) | 120 (cento e vinte) | Centro Universitário do Rio São Francisco Unirios | ORGANIZACAO SETE DE SETEMBRO DE CULTURA E ENSINO LTDA | RUA VEREADOR JOSÉ MOREIRA, 1000, , PERPÉTUO SOCORRO, PAULO AFONSO/BA |
+| 12 | 202300471 | FISIOTERAPIA (Bacharelado) | 80 (oitenta) | Centro Universitário Estácio de São Paulo | IREP SOCIEDADE DE ENSINO SUPERIOR, MEDIO E FUNDAMENTAL LTDA. | AVENIDA ENGENHEIRO ARMANDO DE ARRUDA PEREIRA, 673, - ATÉ 1651 - LADO ÍMPAR, JABAQUARA, SÃO PAULO/SP |
+| 13 | 202300463 | ENGENHARIA MECÂNICA (Bacharelado) | 200 (duzentas) | Centro Universitário Facimp Wyden | A. REGIAO TOCANTINA DE EDUCACAO E CULTURA LTDA. | AVENIDA PRUDENTE DE MORAES, S/N, , RESIDENCIAL KUBITSCHEK, IMPERATRIZ/MA |
+| 14 | 202300464 | PSICOLOGIA (Bacharelado) | 100 (cem) | Centro Universitário Facimp Wyden | A. REGIAO TOCANTINA DE EDUCACAO E CULTURA LTDA. | AVENIDA PRUDENTE DE MORAES, S/N, , RESIDENCIAL KUBITSCHEK, IMPERATRIZ/MA |
+| 15 | 202118404 | BIOMEDICINA (Bacharelado) | 120 (cento e vinte) | Centro Universitário FAMA | INSTITUTO METROPOLITANO DE EDUCACAO E CULTURA LTDA - ME | AVENIDA FERNANDO COSTA, 49, VILA JAIARA, ANÁPOLIS/GO |
+| 16 | 202300364 | EDUCAÇÃO FÍSICA (Bacharelado) | 200 (duzentas) | Centro Universitário FIS | SOCIEDADE DE ENSINO SUPERIOR DE SERRA TALHADA - SESST | RUA JOÃO LUIZ DE MELO, 2110, , TANCREDO NEVES, SERRA TALHADA/PE |
+| 17 | 202223790 | PSICOLOGIA (Bacharelado) | 100 (cem) | Centro Universitário FMABC | FUNDACAO DO ABC | AVENIDA LAURO GOMES, 2000, CENTRO UNIVERSITÁRIO FMABC, VILA SACADURA CABRAL, SANTO ANDRÉ/SP |
+| 18 | 202222108 | PSICOLOGIA (Bacharelado) | 100 (cem) | Centro Universitário Invest | INSTITUTO INVEST DE EDUCACAO CONSULTORIA E ASSESSORIA LTDA | RUA ADAUTO BOTELHO, 55, CAMPUS COXIPO, COOPHEMA, CUIABÁ/MT |
+| 19 | 202223648 | ENGENHARIA DE COMPUTAÇÃO (Bacharelado) | 80 (oitenta) | CENTRO UNIVERSITÁRIO JORGE AMADO | ASBEC-SOCIEDADE BAIANA DE EDUCACAO E CULTURA LTDA | AVENIDA LUIS VIANNA FILHO, 6775, CAMPUS PARALELA - SALVADOR (SEDE), PARALELA, SALVADOR/BA |
+| 20 | 202309859 | GESTÃO DA TECNOLOGIA DA INFORMAÇÃO (Tecnológico) | 100 (cem) | CENTRO UNIVERSITÁRIO SÃO JUDAS TADEU | INSTITUTO DE EDUCACAO, CULTURA E ENSINO SUPERIOR S/A | AVENIDA RANGEL PESTANA, 99, CAMPUS UNIMONTE, VILA MATHIAS, SANTOS/SP |
+| 21 | 202304618 | DESIGN DE ANIMAÇÃO (Tecnológico) | 100 (cem) | CENTRO UNIVERSITÁRIO SENAC | SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC | RUA SCIPIÃO, 67, , LAPA, SÃO PAULO/SP |
+| 22 | 202303101 | DESIGN GRÁFICO (Tecnológico) | 100 (cem) | CENTRO UNIVERSITÁRIO SENAC | SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC | AV. ENGENHEIRO EUSÉBIO STEVAUX, Nº 823, , JURUBATUBA, SÃO PAULO/SP |
+| 23 | 202219213 | CIÊNCIA ECONÔMICA (Bacharelado) | 60 (sessenta) | CENTRO UNIVERSITÁRIO SOCIESC | IEDUC - INSTITUTO DE EDUCACAO E CULTURA S/A | RUA GOTHARD KAESEMODEL, 833, CAMPUS MARQUÊS DE OLINDA - SEDE, ANITA GARIBALDI, JOINVILLE/SC |
+| 24 | 202219233 | GESTÃO DA TECNOLOGIA DA INFORMAÇÃO (Tecnológico) | 50 (cinquenta) | Centro Universitário UNA de Contagem | BRASIL EDUCACAO S/A | AVENIDA MARIA DA GLÓRIA ROCHA, 175, , BITÁCULA OU 40 ALQUEIRES, CONTAGEM/MG |
+| 25 | 202223992 | NUTRIÇÃO (Bacharelado) | 75 (setenta e cinco) | Escola de Ensino Superior do Agreste Paraibano | CENTRO EDUCACIONAL TRES MARIAS LTDA | RUA OTACÍLIO LIRA CABRAL, 1300, UNIDADE SHOPPING, CONJ. CLOVIS BEZERRA, GUARABIRA/PB |
+| 26 | 202301016 | CIÊNCIAS ECONÔMICAS (Bacharelado) | 50 (cinquenta) | ESCOLA SUPERIOR DE ENGENHARIA E GESTÃO DE SÃO PAULO | Etapa Educacional - Eireli | RUA VERGUEIRO, 1951, VILA MARIANA, SÃO PAULO/SP |
+| 27 | 202222953 | ENFERMAGEM (Bacharelado) | 113 (cento e treze) | Faculdade Anclivepa São Paulo | UNI-A EDUCACAO LTDA | RUA TIJUCO PRETO, 193,201,205,209, SEDE - RUA TIJUCO PRETO, TATUAPÉ, SÃO PAULO/SP |
+| 28 | 202303837 | MEDICINA VETERINÁRIA (Bacharelado) | 135 (cento e trinta e cinco) | Faculdade Anhanguera De Divinópolis | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A | RUA SANTOS DUMONT, 1.001, , DO CARMO, DIVINÓPOLIS/MG |
+| 29 | 202119306 | ENGENHARIA ELÉTRICA (Bacharelado) | 161 (cento e sessenta e uma) | FACULDADE ANHANGUERA DE FEIRA DE SANTANA | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A | AVENIDA JOSÉ FALCÃO DA SILVA, 1283, , BARAÚNA, FEIRA DE SANTANA/BA |
+| 30 | 202204601 | ENGENHARIA CIVIL (Bacharelado) | 100 (cem) | Faculdade Anhanguera Franca | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A | AVENIDA PROFESSOR MOACIR VIEIRA COELHO, 3125, CAMPUS PRINCIPAL, RESIDENCIAL NOSSO LAR, FRANCA/SP |

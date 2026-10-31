@@ -1,0 +1,50 @@
+---
+titulo: "PORTARIA CADE Nº 411, DE 23 DE DEZEMBRO DE 2020"
+orgao: "Ministério da Justiça e Segurança Pública/Conselho Administrativo de Defesa Econômica"
+tipo: "Portaria"
+numero: "411"
+data: 2020-12-23
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 24/12/2020, seção 1, p. 140"
+data_publicacao: 2020-12-24
+edicao: "246"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-cade-n-411-de-23-de-dezembro-de-2020-296159267"
+sha256_html_fonte: d0eb5ce726817b419622747ba6f4f461d2427f42609f5e0de40e334a1fe204a0
+baixado_em: 2026-10-21
+---
+# PORTARIA CADE Nº 411, DE 23 DE DEZEMBRO DE 2020
+
+PORTARIA CADE Nº 411, DE 23 DE DEZEMBRO DE 2020
+
+Divulga a Tabela de Atividades do Programa de Gestão no âmbito do Conselho Administrativo de Defesa Econômica - Cade.
+
+O PRESIDENTE DO CONSELHO ADMINISTRATIVO DE DEFESA ECONÔMICA - CADE, no uso das atribuições que lhe são conferidas pelo art. 10, inciso IX da Lei nº 12.529, de 30 de novembro de 2011; pelo art. 18, inciso IX, do Regimento Interno do Cade, aprovado pela Resolução nº 22, de 19 de junho de 2019; bem como o disposto no art. 3º da Lei nº 13.848, de 25 de junho de 2019;
+
+Considerando a Instrução Normativa nº 65, de 30 de julho de 2020, publicada pelo Ministério da Economia, que estabelece orientações, critérios e procedimentos gerais a serem observados pelos órgãos e entidades integrantes do Sistema de Pessoal Civil da Administração Federal - SIPEC relativos à implementação de Programa de Gestão;
+
+Considerando a Portaria nº 636, de 23 de novembro de 2020, publicada pelo Ministério da Justiça e Segurança Pública, que autoriza a implementação do Programa de Gestão no âmbito do Conselho Administrativo de Defesa Econômica - Cade;
+
+Considerando o disposto no art. 20 da Portaria Cade nº 395, de 04 de dezembro de 2020, que institui o Programa de Gestão no âmbito do Conselho Administrativo de Defesa Econômica - Cade, resolve:
+
+**Art. 1º** O Plano de Trabalho de que trata o art. 6º da Portaria nº 395, de 4 de dezembro de 2020, observará a Tabela de Grupos de Atividades; a Tabela de Faixas de Complexidade; a Tabela de Parâmetros; e a Tabela de Atividades, dispostas nos Anexos desta Portaria.
+
+**Art. 2º** Esta Portaria entra em vigor em 4 de janeiro de 2021.
+
+ALEXANDRE BARRETO DE SOUZA
+
+## ANEXO I — TABELA DE GRUPO DE ATIVIDADES
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>Descrição do Grupo de Atividades</p></td>      <td rowspan="1" colspan="1"><p>Código</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Assegurar a efetividade do controle de fusões e aquisições</p></td>      <td rowspan="1" colspan="1"><p>GA1</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Garantir a eficiência do combate a cartéis e a abuso de posição dominante</p></td>      <td rowspan="1" colspan="1"><p>GA2</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Fortalecer a cultura da concorrência</p></td>      <td rowspan="1" colspan="1"><p>GA3</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Gerir desenvolvimento e inovação institucional</p></td>      <td rowspan="1" colspan="1"><p>GA4</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Gerir estratégia organizacional</p></td>      <td rowspan="1" colspan="1"><p>GA5</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Gerir informação corporativa</p></td>      <td rowspan="1" colspan="1"><p>GA6</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Gerir comunicação institucional</p></td>      <td rowspan="1" colspan="1"><p>GA7</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Gerir a efetividade das decisões do Cade</p></td>      <td rowspan="1" colspan="1"><p>GA8</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Promover a cooperação governamental internacional para controle de concentrações e combate a condutas anticompetitivas</p></td>      <td rowspan="1" colspan="1"><p>GA9</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Gerir controles institucionais</p></td>      <td rowspan="1" colspan="1"><p>GA10</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Gerir pessoas</p></td>      <td rowspan="1" colspan="1"><p>GA11</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Gerir logística</p></td>      <td rowspan="1" colspan="1"><p>GA12</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Gerir patrimônio</p></td>      <td rowspan="1" colspan="1"><p>GA13</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Gerir transferência de recursos públicos</p></td>      <td rowspan="1" colspan="1"><p>GA14</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Gerir tecnologia da informação e comunicações</p></td>      <td rowspan="1" colspan="1"><p>GA15</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Gerir contabilidade pública</p></td>      <td rowspan="1" colspan="1"><p>GA16</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Gerir administração financeira</p></td>      <td rowspan="1" colspan="1"><p>GA17</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Gerir consultoria jurídica institucional</p></td>      <td rowspan="1" colspan="1"><p>GA18</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Outros Macroprocessos</p></td>      <td rowspan="1" colspan="1"><p>GA0</p></td>     </tr>    </tbody>   </table>
+
+## ANEXO II — TABELA DE FAIXAS DE COMPLEXIDADE
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>Faixa de Complexidade</p></td>      <td rowspan="1" colspan="1"><p>Valor em horas</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>A</p></td>      <td rowspan="1" colspan="1"><p>1</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>B</p></td>      <td rowspan="1" colspan="1"><p>2</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>C</p></td>      <td rowspan="1" colspan="1"><p>4</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>D</p></td>      <td rowspan="1" colspan="1"><p>6</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>E</p></td>      <td rowspan="1" colspan="1"><p>8</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>F</p></td>      <td rowspan="1" colspan="1"><p>12</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>G</p></td>      <td rowspan="1" colspan="1"><p>16</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>H</p></td>      <td rowspan="1" colspan="1"><p>20</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>I</p></td>      <td rowspan="1" colspan="1"><p>24</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>J</p></td>      <td rowspan="1" colspan="1"><p>32</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>K</p></td>      <td rowspan="1" colspan="1"><p>40</p></td>     </tr>    </tbody>   </table>
+
+## ANEXO III — TABELA DE PARÂMETROS
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>Faixa de Complexidade</p></td>      <td rowspan="1" colspan="1"><p>Descrição dos parâmetros adotados</p></td>      <td rowspan="1" colspan="1"><p>Atividades relacionadas</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>A</p></td>      <td rowspan="1" colspan="1"><p>Esforço estimado para a realização da atividade em 1 hora</p></td>      <td rowspan="1" colspan="1"><p>A0 a A299</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>B</p></td>      <td rowspan="1" colspan="1"><p>Esforço estimado para a realização da atividade em 2 horas</p></td>      <td rowspan="1" colspan="1"><p>A0 a A299</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>C</p></td>      <td rowspan="1" colspan="1"><p>Esforço estimado para a realização da atividade em 4 horas</p></td>      <td rowspan="1" colspan="1"><p>A0 a A299</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>D</p></td>      <td rowspan="1" colspan="1"><p>Esforço estimado para a realização da atividade em 6 horas</p></td>      <td rowspan="1" colspan="1"><p>A0 a A299</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>E</p></td>      <td rowspan="1" colspan="1"><p>Esforço estimado para a realização da atividade em 8 horas</p></td>      <td rowspan="1" colspan="1"><p>A0 a A299</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>F</p></td>      <td rowspan="1" colspan="1"><p>Esforço estimado para a realização da atividade em 12 horas</p></td>      <td rowspan="1" colspan="1"><p>A0 a A299</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>G</p></td>      <td rowspan="1" colspan="1"><p>Esforço estimado para a realização da atividade em 16 horas</p></td>      <td rowspan="1" colspan="1"><p>A0 a A299</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>H</p></td>      <td rowspan="1" colspan="1"><p>Esforço estimado para a realização da atividade em 20 horas</p></td>      <td rowspan="1" colspan="1"><p>A0 a A299</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>I</p></td>      <td rowspan="1" colspan="1"><p>Esforço estimado para a realização da atividade em 24 horas</p></td>      <td rowspan="1" colspan="1"><p>A0 a A299</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>J</p></td>      <td rowspan="1" colspan="1"><p>Esforço estimado para a realização da atividade em 32 horas</p></td>      <td rowspan="1" colspan="1"><p>A0 a A299</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>K</p></td>      <td rowspan="1" colspan="1"><p>Esforço estimado para a realização da atividade em 40 horas</p></td>      <td rowspan="1" colspan="1"><p>A0 a A299</p></td>     </tr>    </tbody>   </table>
+
+## ANEXO IV — TABELA DE ATIVIDADES
+
+Em cumprimento ao previsto no § 1º do art. 10 da Instrução Normativa nº 65, de 30 de julho de 2020, a tabela de atividades do Programa de Gestão do Conselho Administrativo de Defesa Econômica - Cade está disponível no endereço eletrônico: https://www.gov.br/cade/pt-br/assuntos/programa-de-gestao

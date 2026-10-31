@@ -1,0 +1,70 @@
+---
+titulo: "PORTARIA GM/MS Nº 8.331, DE 6 DE OUTUBRO DE 2025"
+orgao: "Ministério da Saúde/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "8331"
+data: 2025-10-06
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 07/10/2025, seção 1, p. 93"
+data_publicacao: 2025-10-07
+edicao: "191"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-gm/ms-n-8.331-de-6-de-outubro-de-2025-660714472"
+baixado_em: 2026-10-16
+---
+# PORTARIA GM/MS Nº 8.331, DE 6 DE OUTUBRO DE 2025
+
+PORTARIA GM/MS Nº 8.331, DE 6 DE OUTUBRO DE 2025
+
+Autoriza o Estado, Município ou Distrito Federal a receber recursos referentes ao incremento temporário ao custeio dos serviços de Atenção Especializada à Saúde.
+
+O MINISTRO DE ESTADO DA SAÚDE, no uso das atribuições que lhe conferem os incisos I e II do parágrafo único do art. 87 da Constituição, em observância a Lei nº 15.121, de 10 de abril de 2025, Lei Complementar nº 141, de 13 de janeiro de 2012, Lei nº 8.080, de 19 de setembro de 1990, resolve:
+
+**Art. 1º** Ficam autorizados os Estados, o Distrito Federal e os Municípios descritos no anexo desta Portaria a receberem recursos financeiros referentes ao incremento temporário para o custeio dos serviços de Atenção Especializada à Saúde.
+
+**Art. 2º** Os recursos financeiros tratados nesta Portaria referem-se à aplicação das emendas parlamentares para incremento temporário ao custeio dos serviços de Atenção Especializada à Saúde.
+
+**Art. 3º** As propostas de que tratam esta portaria serão processadas no InvestSUS, disponível no portalfns.saude.gov.br.
+
+**Art. 4º** O Fundo Nacional de Saúde adotará as medidas necessárias para as transferências de recursos financeiros estabelecidas nesta Portaria aos respectivos Fundos de Saúde, em parcela única, em conformidade com os processos de pagamento instruídos pela Secretaria Finalística, após atendidas as condições previstas para essa modalidade de transferência.
+
+**Art. 5º** A prestação de contas sobre a aplicação dos recursos financeiros será realizada por meio do Relatório Anual de Gestão - RAG, aprovado pelo respectivo Conselho local de saúde, nos termos dos artigos 34 a 36 da Lei Complementar nº 141, de 14 de janeiro de 2012.
+
+**Art. 6º** Esta Portaria entra em vigor na data de sua publicação.
+
+ALEXANDRE ROCHA SANTOS PADILHA
+
+## ANEXO
+
+Entes federados autorizados a receberem recursos financeiros federais de emendas destinados ao incremento temporário ao custeio dos serviços de Atenção Especializada à Saúde.
+
+| UF | MUNICÍPIO | ENTIDADE | Nº DA PROPOSTA | VALOR TOTAL DA PROPOSTA (R$) | CÓD. EMENDA | VALOR POR EMENDA (R$) | FUNCIONAL PROGRAMÁTICA | CNES | VALOR (R$) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| AM | HUMAITA | FUNDO MUNICIPAL DE SAUDE DO MUNICIPIO DE HUMAITA - AMAZONAS | 36000698051202500 | 1.940.514,00 | 50410002 | 1.940.514,00 | 1030251182E900001 | 6764711 | 1.940.514,00 |
+| AM | MANAUS | FUNDO ESTADUAL DE SAUDE - FES | 36000704457202500 | 500.000,00 | 60060004 | 500.000,00 | 1030251182E900001 | 6546242 | 500.000,00 |
+| AM | MANAUS | FUNDO ESTADUAL DE SAUDE - FES | 36000708836202500 | 1.000.000,00 | 60060004 | 1.000.000,00 | 1030251182E900001 | 6546242 | 1.000.000,00 |
+| BA | CABACEIRAS DO PARAGUACU | FUNDO MUNICIPAL DE SAUDE | 36000701133202500 | 1.300.000,00 | 60060004 | 1.300.000,00 | 1030251182E900001 | 6600484 | 1.300.000,00 |
+| BA | SAO GABRIEL | FUNDO MUNICIPAL DE SAUDE DE SAO GABRIEL | 36000701865202500 | 500.000,00 | 60060004 | 500.000,00 | 1030251182E900001 | 5067944 | 500.000,00 |
+| ES | SAO MATEUS | FUNDO MUNICIPAL DE SAUDE DE SAO MATEUS | 36000705189202500 | 1.000.000,00 | 60060004 | 1.000.000,00 | 1030251182E900001 | 9286594 | 1.000.000,00 |
+| GO | INDIARA | FUNDO MUNICIPAL DE SAUDE | 36000701198202500 | 300.000,00 | 50410002 | 300.000,00 | 1030251182E900001 | 6554652 | 300.000,00 |
+| GO | MAMBAI | FUNDO MUNICIPAL DE SAUDE DE MAMBAI - GO | 36000701150202500 | 200.000,00 | 60060004 | 200.000,00 | 1030251182E900001 | 6562418 | 200.000,00 |
+| MA | SANTA LUZIA DO PARUA | FUNDO MUNICIPAL DE SAUDE DO MUNICIPIO DE SANTA LUZIA DO PARUA | 36000704682202500 | 500.000,00 | 60060004 | 500.000,00 | 1030251182E900001 | 6510442 | 500.000,00 |
+| MA | SANTANA DO MARANHAO | FUNDO MUNICIPAL DE SAUDE | 36000707898202500 | 300.000,00 | 60060004 | 300.000,00 | 1030251182E900001 | 6549160 | 300.000,00 |
+| MG | BARBACENA | FUNDO MUNICIPAL DE SAUDE | 36000701155202500 | 120.000,00 | 50410002 | 120.000,00 | 1030251182E900001 | 6522076 | 120.000,00 |
+| MG | BELO HORIZONTE | FUNDO MUNICIPAL DE SAUDE | 36000709859202500 | 300.000,00 | 50410002 | 300.000,00 | 1030251182E900001 | 0026794 | 300.000,00 |
+| MG | BELO HORIZONTE | FUNDO MUNICIPAL DE SAUDE | 36000709875202500 | 250.070,00 | 50410002 | 250.070,00 | 1030251182E900001 | 0027014 | 250.070,00 |
+| MG | SANTA LUZIA | FUNDO MUNICIPAL DE SAUDE DE SANTA LUZIA | 36000709308202500 | 1.000.000,00 | 60060004 | 1.000.000,00 | 1030251182E900001 | 6827071 | 1.000.000,00 |
+| MG | SANTOS DUMONT | FUNDO MUNICIPAL DE SAUDE | 36000710241202500 | 200.000,00 | 50410002 | 200.000,00 | 1030251182E900001 | 6529445 | 200.000,00 |
+| PE | ABREU E LIMA | FUNDO MUNICIPAL DE SAUDE | 36000704370202500 | 400.000,00 | 50410002 | 400.000,00 | 1030251182E900001 | 6503977 | 400.000,00 |
+| PE | BREJINHO | FUNDO MUNICIPAL DE SAUDE | 36000710720202500 | 76.927,00 | 50410002 | 76.927,00 | 1030251182E900001 | 6559220 | 76.927,00 |
+| PE | BREJINHO | FUNDO MUNICIPAL DE SAUDE | 36000710728202500 | 179.497,00 | 50410002 | 179.497,00 | 1030251182E900001 | 2711907 | 179.497,00 |
+| PR | CAMBIRA | FUNDO MUNICIPAL DE SAUDE | 36000701466202500 | 300.000,00 | 50410002 | 300.000,00 | 1030251182E900001 | 6761879 | 300.000,00 |
+| SC | GUARAMIRIM | FUNDO MUNICIPAL DE SAUDE | 36000710152202500 | 500.000,00 | 60060004 | 500.000,00 | 1030251182E900001 | 5425735 | 500.000,00 |
+| SC | JOINVILLE | FUNDO MUNICIPAL DE SAUDE DE JOINVILLE | 36000709780202500 | 400.000,00 | 60060004 | 400.000,00 | 1030251182E900001 | 3678385 | 400.000,00 |
+| SE | ITABAIANA | FUNDO MUNICIPAL DE SAUDE DE ITABAIANA SERGIPE | 36000710210202500 | 2.500.000,00 | 50410002 | 2.500.000,00 | 1030251182E900001 | 3471403 | 2.500.000,00 |
+| SP | SAO PAULO | FUNDO ESTADUAL DE SAUDE - FUNDES | 36000710675202500 | 500.000,00 | 60060004 | 500.000,00 | 1030251182E900001 | 5869412 | 500.000,00 |
+| SP | SAO PAULO | FUNDO ESTADUAL DE SAUDE - FUNDES | 36000710710202500 | 800.000,00 | 60060004 | 800.000,00 | 1030251182E900001 | 2090236 | 800.000,00 |
+| SP | SAO PAULO | FUNDO ESTADUAL DE SAUDE - FUNDES | 36000710726202500 | 321.739,00 | 60060004 | 321.739,00 | 1030251182E900001 | 2083051 | 321.739,00 |
+| TO | ARAGUAINA | FUNDO MUNICIPAL DE SAUDE | 36000710009202500 | 2.943.478,00 | 60060004 | 2.943.478,00 | 1030251182E900001 | 2649284 | 2.943.478,00 |
+| TO | MIRANORTE | FUNDO MUNICIPAL DE SAUDE | 36000707760202500 | 500.000,00 | 60060004 | 500.000,00 | 1030251182E900001 | 6622682 | 500.000,00 |
+| TOTAL | 27 PROPOSTAS | 18.832.225,00 |  |  |  |  |  |  |  |

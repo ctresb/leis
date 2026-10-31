@@ -1,0 +1,202 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 347, DE 1 DE FEVEREIRO DE 2023"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "347"
+data: 2023-02-01
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 02/02/2023, seção 1, p. 51"
+data_publicacao: 2023-02-02
+edicao: "24"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-347-de-1-de-fevereiro-de-2023-461731856"
+sha256_html_fonte: d21e2edb2becf9710af9efcc5ea9ff10e375bc38965229ceb45f2ab50605c423
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE Nº 347, DE 1 DE FEVEREIRO DE 2023
+
+RESOLUÇÃO-RE Nº 347, DE 1 DE FEVEREIRO DE 2023
+
+A Coordenadora substituta de Autorização de Funcionamento de Empresas, no uso das atribuições que lhe confere o Art. 144, II, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Conceder Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344 de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+TACIANE PIMENTEL DA SILVA
+
+## ANEXO
+
+DNA MEDICAL DISTRIBUIDORA LTDA / 43.689.429/0001-40
+
+25351.625751/2022-06 / 1285492
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 5031910224
+
+--------------------------------------
+
+FARMACIA HOMEOPATIA NATURAL LTDA / 47.430.569/0001-50
+
+25351.001719/2023-11 / 1285566
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 0002691230
+
+--------------------------------------
+
+FARMÁCIAS MAIA LTDA / 43.492.581/0001-39
+
+25351.658200/2022-11 / 1285353
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 5088767226
+
+--------------------------------------
+
+ONCOVIT DISTRIBUIDORA DE MEDICAMENTOS LTDA / 10.586.940/0003-20
+
+25351.641205/2022-12 / 1285630
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 5060695221
+
+--------------------------------------
+
+GRIGORIO MEDICAMENTOS LTDA / 48.030.203/0001-57
+
+25351.624996/2022-16 / 1285461
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 5031085223
+
+--------------------------------------
+
+UNIÃO MED LTDA / 47.259.102/0001-90
+
+25351.605680/2022-17 / 1285504
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 4998812220
+
+--------------------------------------
+
+V & P PHARMA LTDA / 47.377.838/0001-62
+
+25351.669620/2022-22 / 1285444
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 5106293227
+
+--------------------------------------
+
+MED PORTO COMERCIO DE PRODUTOS MEDICOS HOSPITALARES LTDA / 45.653.770/0001-71
+
+25351.614510/2022-23 / 1285371
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 5012673221
+
+--------------------------------------
+
+AMAZONAS HOSPITALAR LTDA / 46.090.934/0001-62
+
+25351.646118/2022-43 / 1285612
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 5069160222
+
+--------------------------------------
+
+guerra & guerra pharmacia de manipulaçao e homeopatia ltda / 08.705.599/0001-70
+
+25351.007664/2023-45 / 1285570
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 0011334231
+
+--------------------------------------
+
+GMB TRANSPORTES E LOGISTICA EIRELI / 11.666.089/0001-46
+
+25351.629891/2022-45 / 1285535
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 5039146221
+
+--------------------------------------
+
+BRASPRESS TRANSPORTES URGENTES LTDA / 48.740.351/0051-24
+
+25351.641189/2022-50 / 1285597
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 5060678229
+
+--------------------------------------
+
+NNF FARMACIA DE MANIPULAÇÃO PET LTDA / 45.278.655/0001-64
+
+25351.659454/2022-56 / 1285400
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 5090520224
+
+--------------------------------------
+
+NUTRI INFINITY COMÉRCIO DE PRODUTOS FARMACÊUTICOS E SERVIÇOS HOSPITALARES LTDA / 12.934.157/0002-54
+
+25351.659300/2022-64 / 1285398
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 5090351228
+
+--------------------------------------
+
+PIAUILINO SANTOS E CIA LTDA / 37.827.258/0001-76
+
+25351.662263/2022-71 / 1285413
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 5095012227
+
+--------------------------------------
+
+MRN COMÉRCIO E SERVIÇOS DE LOCAÇÃO DE MÁQUINAS E EQUIPAMENTOS LTDA - ME / 12.934.157/0003-35
+
+25351.659267/2022-72 / 1285384
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 5090316228
+
+--------------------------------------
+
+PLAY PHARMA COMERCIO DE PRODUTOS HOSPITALARES EIRELI / 32.321.488/0001-45
+
+25351.614409/2022-72 / 1285367
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 5012571223
+
+--------------------------------------
+
+farmacia h natural ltda / 45.806.188/0001-06
+
+25351.002188/2023-76 / 1285583
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 0003197239
+
+--------------------------------------
+
+FARMACIA DE MANIPULACAO ERVA DOCE LTDA / 44.705.460/0001-90
+
+25351.478443/2022-77 / 1285427
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 4875086227
+
+--------------------------------------
+
+CATALAO FARMACIA ARTESANAL LTDA / 42.968.728/0001-51
+
+25351.656786/2022-89 / 1285340
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 5085997221
+
+--------------------------------------
+
+ATTIVA FARMACIA DE MANIPULACAO LTDA / 45.845.171/0001-50
+
+25351.672198/2022-92 / 1285431
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 5109504229
+
+--------------------------------------
+
+De Paula Farmácia de Manipulação LTDA / 47.941.967/0001-31
+
+25351.672737/2022-93 / 1285552
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 5110140227

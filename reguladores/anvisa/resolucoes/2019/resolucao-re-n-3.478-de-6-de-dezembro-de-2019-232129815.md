@@ -1,0 +1,294 @@
+---
+titulo: "RESOLUÇÃO RE Nº 3.478, DE 6 DE DEZEMBRO DE 2019"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Terceira Diretoria/Gerência-Geral de Toxicologia"
+tipo: "Resolução"
+numero: "3478"
+data: 2019-12-06
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 09/12/2019, seção 1, p. 113"
+data_publicacao: 2019-12-09
+edicao: "237"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.478-de-6-de-dezembro-de-2019-232129815"
+sha256_html_fonte: 6ff36ac7ca02e555933b6be688388e8649c298f67d2e9af9e026d8945baf88a0
+baixado_em: 2026-10-27
+---
+# RESOLUÇÃO RE Nº 3.478, DE 6 DE DEZEMBRO DE 2019
+
+RESOLUÇÃO RE Nº 3.478, DE 6 DE DEZEMBRO DE 2019
+
+O Gerente-Geral de Toxicologia, Substituto, no uso das atribuições que lhe confere o art. 149, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º** Aprovar a avaliação toxicológica preliminar para fins de Registro Especial Temporário (RET).
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+CARLOS ALEXANDRE OLIVEIRA GOMES
+
+## ANEXO
+
+EMPRESA - CNPJ
+
+PROCESSO
+
+FASE DO EXPERIMENTO
+
+-----------------------------
+
+ADAMA BRASIL S/A - 02.290.510/0001-76
+
+25351.482187/2019-01
+
+FASE II
+
+-----------------------------
+
+AUGUST DO BRASIL ASSESSORIA INTERNACIONAL LTDA - 09.721.963/0001-59
+
+25351.593175/2019-17
+
+FASE I
+
+25351.593176/2019-61
+
+FASE I
+
+-----------------------------
+
+BASF S/A - 48.539.407/0001-18
+
+25351.529716/2019-53
+
+FASE I
+
+25351.559819/2019-48
+
+FASE III
+
+-----------------------------
+
+BAYER S.A. - 18.459.628/0001-15
+
+25351.494143/2019-30
+
+FASE III
+
+-----------------------------
+
+DOW AGROSCIENCES INDUSTRIAL LTDA - 47.180.625/0001-46
+
+25351.458919/2019-58
+
+FASE III
+
+-----------------------------
+
+IHARABRAS S.A INDÚSTRIAS QUÍMICAS - 61.142.550/0001-30
+
+25351.474222/2019-24
+
+FASE I
+
+25351.474147/2019-00
+
+FASE III
+
+25351.600891/2019-68
+
+## ANEXO III — -----------------------------
+
+ISK BIOSCIENCES DO BRASIL DEFENSIVOS AGRÍCOLAS LTDA - 02.657.037/0001-12
+
+25351.496273/2019-15
+
+FASE II
+
+25351.496264/2019-16
+
+FASE II
+
+25351.551268/2019-74
+
+FASE I
+
+25351.575846/2019-68
+
+FASE II
+
+-----------------------------
+
+LUXEMBOURG BRASIL COMÉRCIO DE PRODUTOS QUÍMICOS LTDA. - 05.777.338/0001-78
+
+25351.506897/2019-40
+
+FASE III
+
+25351.593237/2019-91
+
+FASE III
+
+-----------------------------
+
+NICHINO DO BRASIL AGROQUÍMICOS LTDA - 20.664.619/0001-08
+
+25351.593211/2019-42
+
+FASE III
+
+-----------------------------
+
+NORTOX S/A - 75.263.400/0001-99
+
+25351.581577/2019-79
+
+## ANEXO III — -----------------------------
+
+OROAGRI BRASIL PRODUTOS PARA AGRICULTURA LTDA - 10.549.479/0002-54
+
+25351.519594/2019-97
+
+FASE I
+
+25351.519584/2019-51
+
+FASE I
+
+-----------------------------
+
+PROMIP COMÉRCIO PESQUISAS E DESENVOLVIMENTO DE AGENTES BIOLÓGICOS LTDA. - 08.256.226/0001-60
+
+25351.579223/2019-64
+
+FASE I
+
+25351.579205/2019-82
+
+FASE I
+
+25351.579160/2019-46
+
+FASE I
+
+-----------------------------
+
+RIZOBACTER DO BRASIL LTDA - 02.517.482/0001-87
+
+25351.600883/2019-11
+
+## ANEXO III — -----------------------------
+
+SYNCROS ASSESSORIA E COMERCIO DE PRODUTOS AGRÍCOLAS LTDA - 06.876.953/0001-02
+
+25351.545097/2019-44
+
+FASE I
+
+-----------------------------
+
+SYNGENTA PROTEÇÃO DE CULTIVOS LTDA - 60.744.463/0001-90
+
+25351.420953/2019-50
+
+FASE I
+
+25351.485869/201981
+
+FASE I
+
+25351.501291/2019-18
+
+FASE I
+
+25351.519682/2019-99
+
+FASE I
+
+25351.519377/2019-05
+
+FASE III
+
+25351.519379/2019-96
+
+FASE III
+
+25351.519744/2019-62
+
+FASE III
+
+25351.528503/2019-12
+
+FASE III
+
+25351.528594/2019-88
+
+FASE III
+
+25351.528661/2019-64
+
+FASE III
+
+25351.528769/2019-57
+
+FASE III
+
+25351.557365/2019-71
+
+FASE I
+
+25351.557340/2019-77
+
+FASE I
+
+25351.557317/2019-82
+
+FASE I
+
+25351.600880/2019-88
+
+FASE III
+
+25351.607615/2019-21
+
+FASE I
+
+25351.615752/2019-39
+
+FASE I
+
+-----------------------------
+
+UPL DO BRASIL INDÚSTRIA E COMÉRCIO DE INSUMOS AGROPECUÁRIOS S.A. - 02.974.733/0001-52
+
+25351.508622/2019-41
+
+FASE III
+
+25351.508619/2019-27
+
+FASE III
+
+25351.508618/2019-82
+
+FASE III
+
+25351.508607/2019-01
+
+FASE III
+
+25351.508612/2019-13
+
+FASE III
+
+25351.531662/2019-96
+
+FASE III
+
+25351.531528/2019-95
+
+FASE III
+
+25351.605139/2019-11
+
+## ANEXO III — 25351.605523/2019-14
+
+## ANEXO III

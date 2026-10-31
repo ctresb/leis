@@ -1,0 +1,70 @@
+---
+titulo: "PORTARIA GM/MS Nº 8.717, DE 7 DE NOVEMBRO DE 2025"
+orgao: "Ministério da Saúde/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "8717"
+data: 2025-11-07
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 10/11/2025, seção 1, p. 75"
+data_publicacao: 2025-11-10
+edicao: "214"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-gm/ms-n-8.717-de-7-de-novembro-de-2025-667770987"
+baixado_em: 2026-10-16
+---
+# PORTARIA GM/MS Nº 8.717, DE 7 DE NOVEMBRO DE 2025
+
+PORTARIA GM/MS Nº 8.717, DE 7 DE NOVEMBRO DE 2025
+
+Autoriza o Estado, Município ou Distrito Federal a receber recursos referentes ao incremento temporário ao custeio dos serviços de Atenção Especializada à Saúde.
+
+O MINISTRO DE ESTADO DA SAÚDE SUBSTITUTO, no uso das atribuições que lhe conferem os incisos I e II do parágrafo único do art. 87 da Constituição, em observância a Lei nº 15.121, de 10 de abril de 2025, Lei Complementar nº 141, de 13 de janeiro de 2012, Lei nº 8.080, de 19 de setembro de 1990, resolve:
+
+**Art. 1º** Ficam autorizados os Estados, o Distrito Federal e os Municípios descritos no anexo desta Portaria a receberem recursos financeiros referentes ao incremento temporário para o custeio dos serviços de Atenção Especializada à Saúde.
+
+**Art. 2º** Os recursos financeiros tratados nesta Portaria referem-se à aplicação das emendas parlamentares para incremento temporário ao custeio dos serviços de Atenção Especializada à Saúde.
+
+**Art. 3º** As propostas de que tratam esta portaria serão processadas no InvestSUS, disponível no portalfns.saude.gov.br.
+
+**Art. 4º** O Fundo Nacional de Saúde adotará as medidas necessárias para as transferências de recursos financeiros estabelecidas nesta Portaria aos respectivos Fundos de Saúde, em parcela única, em conformidade com os processos de pagamento instruídos pela Secretaria Finalística, após atendidas as condições previstas para essa modalidade de transferência.
+
+**Art. 5º** A prestação de contas sobre a aplicação dos recursos financeiros será realizada por meio do Relatório Anual de Gestão - RAG, aprovado pelo respectivo Conselho local de saúde, nos termos dos artigos 34 a 36 da Lei Complementar nº 141, de 14 de janeiro de 2012.
+
+**Art. 6º** Esta Portaria entra em vigor na data de sua publicação.
+
+ADRIANO MASSUDA
+
+## ANEXO
+
+Entes federados autorizados a receberem recursos financeiros federais de emendas destinados ao incremento temporário ao custeio dos serviços de Atenção Especializada à Saúde.
+
+| UF | MUNICÍPIO | ENTIDADE | Nº DA PROPOSTA | VALOR TOTAL DA PROPOSTA (R$) | CÓD. EMENDA | VALOR POR EMENDA (R$) | FUNCIONAL PROGRAMÁTICA | CNES | VALOR (R$) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| AM | URUCARA | FUNDO MUNICIPAL DE SAUDE DO MUNICIPIO DE URUCARA | 36000708108202500 | 1.000.000,00 | 71040006 | 1.000.000,00 | 1030251182E900013 | 7458703 | 1.000.000,00 |
+| BA | IRARA | FUNDO MUNICIPAL DE SAUDE DE IRARA | 36000712272202500 | 500.000,00 | 71060006 | 500.000,00 | 1030251182E900029 | 3997480 | 500.000,00 |
+| MG | ITAUNA | FUNDO MUNICIPAL DE SAUDE | 36000715950202500 | 1.000.000,00 | 71140001 | 1.000.000,00 | 1030251182E900031 | 2144492 | 1.000.000,00 |
+| MG | ITAUNA | FUNDO MUNICIPAL DE SAUDE | 36000715957202500 | 200.000,00 | 71140001 | 200.000,00 | 1030251182E900031 | 2105780 | 200.000,00 |
+| MG | JABOTICATUBAS | FUNDO MUNICIPAL DE SAUDE | 36000708199202500 | 258.438,00 | 71140001 | 258.438,00 | 1030251182E900031 | 6596487 | 258.438,00 |
+| MG | JUIZ DE FORA | FUNDO MUNICIPAL DE SAUDE DE JUIZ DE FORA | 36000715986202500 | 311.114,00 | 71140001 | 311.114,00 | 1030251182E900031 | 2153742 | 311.114,00 |
+| MG | MONTES CLAROS | FUNDO MUNICIPAL DE SAUDE | 36000703445202500 | 300.000,00 | 71140001 | 300.000,00 | 1030251182E900031 | 7366108 | 300.000,00 |
+| PA | MAE DO RIO | FUNDO MUNICIPAL DE SAUDE DE MAE DO RIO | 36000702133202500 | 1.000.000,00 | 71150001 | 1.000.000,00 | 1030251182E900015 | 6049915 | 1.000.000,00 |
+| PA | ORIXIMINA | FUNDO MUNICIPAL DE SAUDE DE ORIXIMINA | 36000702693202500 | 1.000.000,00 | 71150001 | 1.000.000,00 | 1030251182E900015 | 6738451 | 1.000.000,00 |
+| PA | OUREM | FUNDO MUNICIPAL DE SAUDE DE OUREM | 36000698070202500 | 1.000.000,00 | 71150001 | 1.000.000,00 | 1030251182E900015 | 2313855 | 1.000.000,00 |
+| PB | ALAGOINHA | FUNDO MUNICIPAL DE SAUDE DE ALAGOINHA | 36000709741202500 | 400.000,00 | 71160010 | 400.000,00 | 1030251182E900025 | 6427375 | 400.000,00 |
+| PB | CAMPINA GRANDE | FUNDO MUNICIPAL DE SAUDE DE CAMPINA GRANDE | 36000709464202500 | 800.000,00 | 71160010 | 800.000,00 | 1030251182E900025 | 7018010 | 800.000,00 |
+| PE | CONDADO | FUNDO MUNICIPAL DE SAUDE | 36000711258202500 | 911.000,00 | 71180004 | 911.000,00 | 1030251182E900026 | 6574386 | 911.000,00 |
+| PE | GARANHUNS | FUNDO MUNICIPAL DE SAUDE | 36000712101202500 | 165.720,00 | 71180004 | 165.720,00 | 1030251182E900026 | 6375111 | 165.720,00 |
+| PE | SAO JOSE DO BELMONTE | FUNDO MUNICIPAL DE SAUDE | 36000707739202500 | 331.400,00 | 71180004 | 331.400,00 | 1030251182E900026 | 6565190 | 331.400,00 |
+| PI | PALMEIRAIS | FUNDO MUNICIPAL DE SAUDE DE PALMEIRAIS - PI | 36000704767202500 | 230.000,00 | 71190006 | 230.000,00 | 1030251182E900022 | 6952968 | 230.000,00 |
+| RJ | SAO JOAO DE MERITI | FUNDO MUNICIPAL DE SAUDE DE SAO JOAO DE MERITI | 36000712039202500 | 1.500.000,00 | 71200001 | 1.500.000,00 | 1030251182E900033 | 2283972 | 1.500.000,00 |
+| RO | PORTO VELHO | FUNDO MUNICIPAL DE SAUDE | 36000709696202500 | 8.909.000,00 | 71230005 | 8.909.000,00 | 1030251182E900011 | 6482732 | 8.909.000,00 |
+| RS | PORTO ALEGRE | FUNDO ESTADUAL DE SAUDE | 36000698996202500 | 83.000,00 | 71220001 | 83.000,00 | 1030251182E900043 | 5699525 | 83.000,00 |
+| RS | PORTO ALEGRE | FUNDO ESTADUAL DE SAUDE | 36000699507202500 | 3.844.500,00 | 71220001 | 3.844.500,00 | 1030251182E900043 | 2263858 | 3.844.500,00 |
+| SC | ALFREDO WAGNER | FUNDO MUNICIPAL DE SAUDE DE ALFREDO WAGNER | 36000714232202500 | 184.719,00 | 71260001 | 184.719,00 | 1030251182E900042 | 6567045 | 184.719,00 |
+| SC | BLUMENAU | FUNDO MUNICIPAL DE SAUDE DE BLUMENAU | 36000712530202500 | 500.000,00 | 71260001 | 500.000,00 | 1030251182E900042 | 2558246 | 500.000,00 |
+| SC | CORUPA | FUNDO MUNICIPAL DE SAUDE DE CORUPA | 36000703954202500 | 200.000,00 | 71260001 | 200.000,00 | 1030251182E900042 | 2300109 | 200.000,00 |
+| SC | CRICIUMA | FUNDO MUNICIPAL DE SAUDE DE CRICIUMA/SC | 36000715889202500 | 774.178,00 | 71260001 | 774.178,00 | 1030251182E900042 | 6507506 | 774.178,00 |
+| SE | ARACAJU | FUNDO ESTADUAL DE SAUDE | 36000712666202500 | 7.940.877,00 | 71270010 | 7.940.877,00 | 1030251182E900028 | 2421518 | 7.940.877,00 |
+| TO | DOIS IRMAOS DO TOCANTINS | FUNDO MUNICIPAL DE SAUDE | 36000713554202500 | 120.000,00 | 71280002 | 120.000,00 | 1030251182E900017 | 6378234 | 120.000,00 |
+| TO | FATIMA | FUNDO MUNICIPAL DE SAUDE DO MUNICIPIO DE FATIMA | 36000714112202500 | 50.000,00 | 71280002 | 50.000,00 | 1030251182E900017 | 6665233 | 50.000,00 |
+| TOTAL | 27 PROPOSTAS | 33.513.946,00 |  |  |  |  |  |  |  |

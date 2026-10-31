@@ -1,0 +1,36 @@
+---
+titulo: "PORTARIA Nº 567, DE 16 DE DEZEMBRO DE 2019"
+orgao: "Ministério da Educação/Secretaria de Regulação e Supervisão da Educação Superior"
+tipo: "Portaria"
+numero: "567"
+data: 2019-12-16
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 18/12/2019, seção 1, p. 48"
+data_publicacao: 2019-12-18
+edicao: "244"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-567-de-16-de-dezembro-de-2019-234039395"
+sha256_html_fonte: 8b390e20b8b2d04417f2f5ebbcb51c93faf24ba725067067b46e99448da05983
+baixado_em: 2026-10-27
+---
+# PORTARIA Nº 567, DE 16 DE DEZEMBRO DE 2019
+
+PORTARIA Nº 567, DE 16 DE DEZEMBRO DE 2019
+
+O SECRETÁRIO DE REGULAÇÃO E SUPERVISÃO DA EDUCAÇÃO SUPERIOR, no uso da atribuição que lhe confere o Decreto nº 9.665, de 02 de janeiro de 2019, e tendo em vista os Decretos nº 9.235, de 15 de dezembro de 2017, e nº 9.057, de 25 de maio de 2017, as Portarias Normativas MEC nºs20 e 23, de 21 de dezembro de 2017, e nº 11, de 22 de junho de 2017, e conforme consta dos processos e-MEC listados na planilha anexa, resolve:
+
+**Art. 1º** Ficam autorizados os cursos superiores na modalidade a distância, relacionados no Anexo desta Portaria, com as vagas totais anuais nele estabelecidas, nos termos do disposto no art. 10, do Decreto nº 9.235, de 2017.
+
+**Art. 2º** Os endereços utilizados para as atividades presenciais do curso neste ato autorizado são, exclusivamente, aqueles constantes do Cadastro e-MEC, nos termos do art. 16, do Decreto nº 9.057, de 2017.
+
+**Art. 3º** As instituições deverão solicitar reconhecimento dos cursos, neste ato autorizados, nos termos do art. 46 do Decreto nº 9.235, de 2017.
+
+**Art. 4º** Esta portaria entra em vigor na data de sua publicação.
+
+RICARDO BRAGA
+
+## ANEXO
+
+(Autorização de Cursos)
+
+<table><tr></tr><tr><td><p>ORDEM</p></td><td><p>Nº PROCESSO</p></td><td><p>IES (SIGLA)</p></td><td><p>MANTENEDORA</p></td><td><p>CURSO (GRAU)</p></td><td><p>VAGAS</p></td></tr><tr><td><p>1</p></td><td><p>201702082</p></td><td><p>FACULDADE IMESMERCOSUR (IMESMERCOSUR)</p></td><td><p>INSTITUTO MINEIRO DE EDUCAÇÃO SUPERIOR</p></td><td><p>PEDAGOGIA (LICENCIATURA)</p></td><td><p>5.000 (CINCO MIL)</p></td></tr><tr><td><p>2</p></td><td><p>201717826</p></td><td><p>FACULDADE DE EDUCAÇÃO MEMORIAL ADELAIDE FRANCO (FEMAF)</p></td><td><p>SOESPE SOCIEDADE DE EDUCAÇÃO SUPERIOR DE PEDREIRAS LTDA.</p></td><td><p>SERVIÇO SOCIAL (BACHARELADO</p></td><td><p>200 (DUZENTAS)</p></td></tr><tr><td><p>3</p></td><td><p>201717835</p></td><td><p>FACULDADE DE EDUCAÇÃO MEMORIAL ADELAIDE FRANCO (FEMAF)</p></td><td><p>SOESPE SOCIEDADE DE EDUCAÇÃO SUPERIOR DE PEDREIRAS LTDA.</p></td><td><p>CIÊNCIAS CONTÁBEIS (BACHARELADO)</p></td><td><p>200 (DUZENTAS)</p></td></tr><tr><td><p>4</p></td><td><p>201717829</p></td><td><p>FACULDADE DE EDUCAÇÃO MEMORIAL ADELAIDE FRANCO (FEMAF)</p></td><td><p>SOESPE SOCIEDADE DE EDUCAÇÃO SUPERIOR DE PEDREIRAS LTDA.</p></td><td><p>ADMINISTRAÇÃO (BACHARELADO)</p></td><td><p>200 (DUZENTAS)</p></td></tr><tr><td><p>5</p></td><td><p>201714493</p></td><td><p>FGW - FACULDADE DE GESTÃO WOLI (WOLI)</p></td><td><p>INSTITUTO EDUCACIONAL WOLI LTDA.</p></td><td><p>LOGÍSTICA (TECNOLÓGICO)</p></td><td><p>1.000 (MIL)</p></td></tr><tr><td><p>6</p></td><td><p>201714496</p></td><td><p>FGW - FACULDADE DE GESTÃO WOLI (WOLI)</p></td><td><p>INSTITUTO EDUCACIONAL WOLI LTDA.</p></td><td><p>ADMINISTRAÇÃO (BACHARELADO)</p></td><td><p>1.000 (MIL)</p></td></tr><tr><td><p>7</p></td><td><p>201714494</p></td><td><p>FGW - FACULDADE DE GESTÃO WOLI (WOLI)</p></td><td><p>INSTITUTO EDUCACIONAL WOLI LTDA.</p></td><td><p>GESTÃO COMERCIAL (TECNOLÓGICO)</p></td><td><p>1.000 (MIL)</p></td></tr><tr><td><p>8</p></td><td><p>201714491</p></td><td><p>FGW - FACULDADE DE GESTÃO WOLI (WOLI)</p></td><td><p>INSTITUTO EDUCACIONAL WOLI LTDA.</p></td><td><p>GESTÃO DE RECURSOS HUMANOS (TECNOLÓGICO)</p></td><td><p>1.000 (MIL)</p></td></tr><tr><td><p>9</p></td><td><p>201607794</p></td><td><p>FACULDADE UNIBF</p></td><td><p>UNIÃO BRASILEIRA DE FACULDADES (UNIBF)</p></td><td><p>GESTÃO DE RECURSOS HUMANOS (TECNOLÓGICO)</p></td><td><p>200 (DUZENTAS)</p></td></tr><tr><td><p>10</p></td><td><p>201604738</p></td><td><p>CENTRO UNIVERSITÁRIO DAS FACULDADES INTEGRADAS DE OURINHOS (UNIFIO)</p></td><td><p>FUNDACÃO EDUCACIONAL MIGUEL MOFARREJ</p></td><td><p>ADMINISTRAÇÃO (BACHARELADO)</p></td><td><p>200 (DUZENTAS)</p></td></tr><tr><td><p>11</p></td><td><p>201601421</p></td><td><p>FACULDADE DE BALSAS (UNIBALSAS)</p></td><td><p>UNIBALSAS EDUCACIONAL LTDA.</p></td><td><p>GESTÃO PÚBLICA (TECNOLÓGICO)</p></td><td><p>200 (DUZENTAS)</p></td></tr><tr><td><p>12</p></td><td><p>201508241</p></td><td><p>FACULDADE DE TECNOLOGIA CNA (FATECNA)</p></td><td><p>INSTITUTO CNA</p></td><td><p>GESTÃO AMBIENTAL (TECNOLÓGICO)</p></td><td><p>420 (QUATROCENTAS E VINTE)</p></td></tr><tr><td><p>13</p></td><td><p>201508246</p></td><td><p>FACULDADE DE TECNOLOGIA CNA (FATECNA)</p></td><td><p>INSTITUTO CNA</p></td><td><p>PROCESSOS GERENCIAIS (TECNOLÓGICO)</p></td><td><p>338 (TREZENTAS E TRINTA E OITO)</p></td></tr><tr><td><p>14</p></td><td><p>201609864</p></td><td><p>FACULDADE IMPACTA DE TECNOLOGIA (FIT)</p></td><td><p>UNIÃO EDUCACIONAL, CULTURAL E TECNOLÓGICA IMPACTA (UNI.IMPACTA)</p></td><td><p>ANÁLISE E DESENVOLVIMENTO DE SISTEMAS (TECNOLÓGICO)</p></td><td><p>800 (OITOCENTAS)</p></td></tr><tr><td><p>15</p></td><td><p>201603361</p></td><td><p>CENTRO UNIVERSITÁRIO DE JOÃO PESSOA (UNIPÊ)</p></td><td><p>IPÊ EDUCACIONAL LTDA.</p></td><td><p>GESTÃO DA QUALIDADE (TECNOLÓGICO)</p></td><td><p>1.000 (MIL)</p></td></tr><tr><td><p>16</p></td><td><p>201604289</p></td><td><p>CENTRO UNIVERSITÁRIO FARIAS BRITO</p></td><td><p>ORGANIZAÇÃO EDUCACIONAL FARIAS BRITO LTDA.</p></td><td><p>GESTÃO DE RECURSOS HUMANOS (TECNOLÓGICO)</p></td><td><p>600 (SEISCENTAS)</p></td></tr><tr><td><p>17</p></td><td><p>201820410</p></td><td><p>ESCOLA DE ENSINO SUPERIOR FABRA (FABRA)</p></td><td><p>CENTRO DE ENSINO SUPERIOR FABRA</p></td><td><p>EMPREENDEDORISMO (TECNOLÓGICO)</p></td><td><p>300 (TREZENTAS)</p></td></tr><tr><td><p>18</p></td><td><p>201809033</p></td><td><p>FACULDADE DO MACIÇO DO BATURITÉ (FMB)</p></td><td><p>IESTEC- INSTITUTO DE ENSINO SUPERIOR TEOLÓGICO CRISTÃO - ME</p></td><td><p>ADMINISTRAÇÃO (BACHARELADO)</p></td><td><p>2.000 (DUAS MIL)</p></td></tr><tr><td><p>19</p></td><td><p>201717214</p></td><td><p>FACULDADE AUDEN EDUCACIONAL (FAED)</p></td><td><p>AUDEN EDUCAÇÃO LTDA.</p></td><td><p>ADMINISTRAÇÃO (BACHARELADO)</p></td><td><p>300 (TREZENTAS)</p></td></tr><tr><td><p>20</p></td><td><p>201717215</p></td><td><p>FACULDADE AUDEN EDUCACIONAL (FAED)</p></td><td><p>AUDEN EDUCAÇÃO LTDA.</p></td><td><p>CIÊNCIAS CONTÁBEIS (BACHARELADO)</p></td><td><p>300 (TREZENTAS)</p></td></tr><tr><td><p>21</p></td><td><p>201717911</p></td><td><p>FACULDADE EVOLUÇÃO ALTO OESTE POTIGUAR (FACEP)</p></td><td><p>FACEP - FACULDADE EVOLUÇÃO ALTO OESTE POTIGUAR LTDA. - ME</p></td><td><p>CIÊNCIAS CONTÁBEIS (BACHARELADO)</p></td><td><p>225 (DUZENTAS E VINTE E CINCO)</p></td></tr><tr><td><p>22</p></td><td><p>201717864</p></td><td><p>FACULDADE EVOLUÇÃO ALTO OESTE POTIGUAR</p></td><td><p>FACEP-FACULDADE EVOLUÇÃO ALTO OESTE POTIGUAR LTDA - ME</p></td><td><p>PEDAGOGIA (LICENCIATURA)</p></td><td><p>225 (DUZENTAS E VINTE E CINCO)</p></td></tr></table>

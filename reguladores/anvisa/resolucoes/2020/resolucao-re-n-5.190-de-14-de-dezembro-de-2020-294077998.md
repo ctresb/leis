@@ -1,0 +1,142 @@
+---
+titulo: "RESOLUÇÃO RE Nº 5.190, DE 14 DE Dezembro DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "5190"
+data: 2020-12-14
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 15/12/2020, seção 1, p. 270"
+data_publicacao: 2020-12-15
+edicao: "239"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-5.190-de-14-de-dezembro-de-2020-294077998"
+sha256_html_fonte: b06baaa4c93ada53f63cdabea4c8417651991442199793c6fd85b213f7d7e05f
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO RE Nº 5.190, DE 14 DE Dezembro DE 2020
+
+RESOLUÇÃO RE Nº 5.190, DE 14 DE Dezembro DE 2020
+
+O Coordenador de Autorização de Funcionamento de Empresas, Substituto, no uso das atribuições que lhe confere o art. 169, aliado ao art. 54, I, §1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º.** Alterar a Autorização de Funcionamento das Empresas constantes no anexo desta Resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+MMCS DISTRIBUICAO E TRANSPORTES LTDA / 13.659.757/0001-33
+
+25351.140544/2017-02 / 3074137
+
+732 - AFE - ALTERAÇÃO - SANEANTES DOMISSANITÁRIOS - RAZÃO SOCIAL / 3929539209
+
+--------------------------------------
+
+INFAN INDUSTRIA QUIMICA FARMACEUTICA NACIONAL S/A / 08.939.548/0001-03
+
+25351.717803/2017-02 / 8161788
+
+867 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 1837940207
+
+--------------------------------------
+
+PIU BELLA CENTRO DE ESTETICA EIRELI - EPP / 07.080.151/0001-46
+
+25351.387938/2016-02 / 2089561
+
+751 - AFE - ALTERAÇÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - ENDEREÇO MATRIZ / 3929541203
+
+--------------------------------------
+
+AUDAX MED PRODUTOS MEDICOS HOSPITALARES LTDA - EPP / 21.881.617/0001-33
+
+25351.366219/2015-03 / 8122821
+
+7056 - AFE/AE - Recurso Administrativo - DEMAIS EMPRESAS (exceto farmácia e drogaria) / 4026170209
+
+--------------------------------------
+
+MARIMED - FABRICAÇÃO, COMÉRCIO, IMPORTAÇÃO E EXPORTAÇÃO LTDA / 10.433.259/0001-80
+
+25351.622359/2014-06 / 8113591
+
+867 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 3740017201
+
+--------------------------------------
+
+IGI INTEGRACAO E LOGISTICA LTDA - ME / 05.584.207/0001-74
+
+25351.608752/2013-06 / 2071380
+
+751 - AFE - ALTERAÇÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - ENDEREÇO MATRIZ / 3929491206
+
+--------------------------------------
+
+DENTAL SET COMERCIO DE PRODUTOS ODONTOLOGICOS EIRELI / 23.503.822/0001-90
+
+25351.881909/2016-09 / 8133745
+
+866 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - ENDEREÇO / 3669981209
+
+--------------------------------------
+
+PETERSON AFONSO MARTINS - EIRELI / 05.276.771/0001-20
+
+25023.077514/2010-13 / 3043181
+
+714 - AFE - ALTERAÇÃO - SANEANTES DOMISSANITÁRIOS - ENDEREÇO MATRIZ / 2954106204
+
+--------------------------------------
+
+HOPE MED COMERCIO E IMPORTAÇÃO DE MATERIAL MEDICO EIRELI - ME / 22.109.538/0001-71
+
+25351.750545/2015-13 / 8131120
+
+867 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 1907812202
+
+--------------------------------------
+
+DMTS SOLUÇÕES EM LOGÍSTICA EIRELI / 30.500.373/0001-92
+
+25351.637360/2018-40 / 1181002
+
+7119 - AFE - ALTERAÇÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA - RAZÃO SOCIAL / 3622179201
+
+25351.637360/2018-40 / 1181002
+
+7120 - AFE - ALTERAÇÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA - ENDEREÇO MATRIZ / 3621924205
+
+--------------------------------------
+
+CLIMAO COMERCIO DE ARTIGOS DE CAMA, MESA E BANHO - EIRELI / 11.485.437/0001-89
+
+25351.171026/2011-62 / 2058505
+
+751 - AFE - ALTERAÇÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - ENDEREÇO MATRIZ / 2954045205
+
+--------------------------------------
+
+SOMED SOLUÇÕES MÉDICAS LTDA / 00.088.709/0001-90
+
+25351.120031/2018-64 / 8165486
+
+829 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - RAZÃO SOCIAL / 3669760202
+
+--------------------------------------
+
+PMED IMPORTAÇÃO E EXPORTAÇÃO DE MATERIAL MEDICO CIRURGICOS E HOSPITALAR EIRELI / 25.357.049/0001-27
+
+25351.833678/2020-74 / 8207043
+
+867 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 2777294208
+
+--------------------------------------
+
+PETERSON AFONSO MARTINS - EIRELI / 05.276.771/0001-20
+
+25351.135823/2012-84 / 1091796
+
+7155 - AFE - ALTERAÇÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA - ENDEREÇO MATRIZ / 2954105208

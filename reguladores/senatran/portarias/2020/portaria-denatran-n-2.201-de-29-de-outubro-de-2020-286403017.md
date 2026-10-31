@@ -1,0 +1,26 @@
+---
+titulo: "PORTARIA (DENATRAN) Nº 2.201, DE 29 DE OUTUBRO DE 2020"
+orgao: "Ministério da Infraestrutura/Secretaria Nacional de Transportes Terrestres/Departamento Nacional de Trânsito"
+tipo: "Portaria"
+numero: "2201"
+data: 2020-10-29
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 05/11/2020, seção 1, p. 125"
+data_publicacao: 2020-11-05
+edicao: "211"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-denatran-n-2.201-de-29-de-outubro-de-2020-286403017"
+sha256_html_fonte: 3e1b140a8dc73883d6fc445f6d1e5fe44539808b04e1e25bdce93e6517e0afc3
+baixado_em: 2026-10-21
+---
+# PORTARIA (DENATRAN) Nº 2.201, DE 29 DE OUTUBRO DE 2020
+
+PORTARIA (DENATRAN) Nº 2.201, DE 29 DE OUTUBRO DE 2020
+
+O DIRETOR-GERAL DO DEPARTAMENTO NACIONAL DE TRÂNSITO (DENATRAN), no uso da competência que lhe conferem os incisos VI e VII do art. 19 do Código de Trânsito Brasileiro (CTB), a Resolução CONTRAN nº 718, de 7 de dezembro de 2017 e a Portaria DENATRAN nº 1, de 02 de janeiro de 2017, e com base no que consta no processo administrativo nº 50000.029324/2020-50, resolve:
+
+**Art. 1º** Esta Portaria concede, por dois anos, a partir da data de sua publicação, nos termos do art. 7º da Portaria DENATRAN nº 1, de 02 de janeiro de 2017, renovação do credenciamento da pessoa jurídica ICE CARTÕES ESPECIAIS LTDA., CNPJ: 01.175.647/0001-17, situada na Avenida Jornalista Paulo Zingg, nº 417, Jardim Jaraguá, São Paulo/SP, CEP: 05157-030, para produzir a Carteira Nacional de Habilitação (CNH) e a Permissão Internacional para Dirigir (PID).
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação.
+
+FREDERICO DE MOURA CARNEIRO

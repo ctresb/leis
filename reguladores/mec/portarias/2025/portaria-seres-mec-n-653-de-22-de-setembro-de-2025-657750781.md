@@ -1,0 +1,64 @@
+---
+titulo: "PORTARIA SERES/MEC Nº 653, DE 22 de setembro de 2025"
+orgao: "Ministério da Educação/Secretaria de Regulação e Supervisão da Educação Superior"
+tipo: "Portaria"
+numero: "653"
+data: 2025-09-22
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 23/09/2025, seção 1, p. 735"
+data_publicacao: 2025-09-23
+edicao: "181"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-seres/mec-n-653-de-22-de-setembro-de-2025-657750781"
+baixado_em: 2026-10-16
+---
+# PORTARIA SERES/MEC Nº 653, DE 22 de setembro de 2025
+
+PORTARIA SERES/MEC Nº 653, DE 22 de setembro de 2025
+
+A SECRETÁRIA DE REGULAÇÃO E SUPERVISÃO DA EDUCAÇÃO SUPERIOR, no uso da atribuição que lhe confere o Decreto nº 11.691, de 5 de setembro de 2023, e tendo em vista o Decreto n° 9.235, de 15 de dezembro de 2017, e as Portarias Normativas n° 20 e nº 23, de 21 de dezembro de 2017, do Ministério da Educação, e considerando o disposto no(s) processo(s) e-MEC listado(s) na planilha anexa, resolve:
+
+**Art. 1º** Fica(m) reconhecido(s) o(s) curso(s) superior(es) de graduação constante(s) da tabela do anexo desta Portaria, ministrado(s) pela(s) Instituição(ões) de Educação Superior citada(s), nos termos do disposto no art. 10, do Decreto nº 9.235/2017.
+
+**Art. 2º** O reconhecimento a que se refere esta Portaria é válido exclusivamente para o curso ministrado no endereço citado na tabela constante do anexo.
+
+**Art. 3º** O reconhecimento a que se refere esta Portaria é válido até o ciclo avaliativo seguinte.
+
+**Art. 4º** Esta Portaria entra em vigor na data de sua publicação.
+
+MARTA ABRAMO
+
+ANEXO (Reconhecimento de Cursos)
+
+| Nº de Ordem | Registro e-MEC nº | Curso | Nº de vagas totais anuais | Mantida | Mantenedora | Endereço de funcionamento do curso |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | 202329234 | NUTRIÇÃO (Bacharelado) | 80 (oitenta) | Faculdade de Educação Superior de Sete Lagoas | BRASIL EDUCACAO S/A | AVENIDA SECRETÁRIO DIVINO PADRÃO, 1411, A, SANTO ANTÔNIO, SETE LAGOAS/MG |
+| 2 | 202329922 | GESTÃO DA TECNOLOGIA DA INFORMAÇÃO (Tecnológico) | 160 (cento e sessenta) | FACULDADE DE PRINCÍPIOS MILITARES | FACULDADE DE PRINCIPIOS MILITARES - FPM LTDA | RUA 10, S/N, FACULDADE DA POLÍCIA MILITAR - FPM, SETOR OESTE, GOIÂNIA/GO |
+| 3 | 201927603 | RELAÇÕES INTERNACIONAIS (Bacharelado) | 160 (cento e sessenta) | FACULDADE ESAMC JUNDIAÍ | CENTRO DE ESTUDOS DE ADMINISTRACAO E MARKETING CEAM LTDA | RUA CORONEL BOAVENTURA MENDES PEREIRA, 211, , VILA BOAVENTURA, JUNDIAÍ/SP |
+| 4 | 202327269 | ENGENHARIA CIVIL (Bacharelado) | 200 (duzentas) | FACULDADE ESTÁCIO DE TERESINA | CENTRO DE ENSINO UNIFICADO DE TERESINA | AVENIDA DOS EXPEDICIONÁRIOS, 790, SÃO JOÃO, TERESINA/PI |
+| 5 | 202330355 | EDUCAÇÃO FÍSICA (Bacharelado) | 80 (oitenta) | Faculdade Galileu | FRB- FACULDADES REUNIDAS DE BOTUCATU LTDA | AVENIDA MARGINAL 200, 680, ISAAC NEWTON, VILA REAL, BOTUCATU/SP |
+| 6 | 202330233 | GESTÃO DE RECURSOS HUMANOS (Tecnológico) | 90 (noventa) | FACULDADES INTEGRADAS POTENCIAL | ASSOCIACAO POTENCIAL DE ENSINO | RUA JOSÉ AUGUSTO PEDROSO, 44, FIP CAMPUS COTIA, VILA SÃO FRANCISCO DE ASSIS, COTIA/SP |
+| 7 | 202330223 | ADMINISTRAÇÃO (Bacharelado) | 57 (cinquenta e sete) | Faculdade UNA de Conselheiro Lafaiete | IEDUC - INSTITUTO DE EDUCACAO E CULTURA S/A | RUA MELVIN JONES, 90, , CAMPO ALEGRE, CONSELHEIRO LAFAIETE/MG |
+| 8 | 202329242 | GESTÃO DE RECURSOS HUMANOS (Tecnológico) | 80 (oitenta) | Faculdade Una de Pouso Alegre | FACEB EDUCACAO LTDA | RUA JOÃO BASÍLIO, 420, , CENTRO, POUSO ALEGRE/MG |
+| 9 | 202329245 | GESTÃO FINANCEIRA (Tecnológico) | 60 (sessenta) | Faculdade Una de Sete Lagoas | BRASIL EDUCACAO S/A | AVENIDA SECRETÁRIO DIVINO PADRÃO, 1.411, A, SANTO ANTÔNIO, SETE LAGOAS/MG |
+| 10 | 202320536 | ENGENHARIA MECÂNICA (Bacharelado) | 120 (cento e vinte) | FACULDADE UNINASSAU CABO | SER EDUCACIONAL S.A. | SHOPPING CENTER COSTA DOURADA, 3200, RODOVIA PE 60, LJ 129, CIDADE GARAPU, CABO DE SANTO AGOSTINHO/PE |
+| 11 | 202331381 | FARMÁCIA (Bacharelado) | 75 (setenta e cinco) | FACULDADE UNISE | UNISE EDUCACIONAL LTDA | RUA XV DE NOVEMBRO, 1609, CAMPUS XV DE NOVEMBRO, CENTRO, CAMPO LARGO/PR |
+| 12 | 202331477 | ADMINISTRAÇÃO (Bacharelado) | 120 (cento e vinte) | Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa de Brasília | INSTITUTO BRASILEIRO DE ENSINO, DESENVOLVIMENTO E PESQUISA IDP - LTDA | QUADRA SGAN 609 MÓDULO A, S/N, , ASA NORTE, BRASÍLIA/DF |
+| 13 | 202331478 | CIÊNCIAS ECONÔMICAS (Bacharelado) | 120 (cento e vinte) | Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa de Brasília | INSTITUTO BRASILEIRO DE ENSINO, DESENVOLVIMENTO E PESQUISA IDP - LTDA | QUADRA SGAN 609 MÓDULO A, S/N, , ASA NORTE, BRASÍLIA/DF |
+| 14 | 202331479 | JORNALISMO (Bacharelado) | 120 (cento e vinte) | Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa de Brasília | INSTITUTO BRASILEIRO DE ENSINO, DESENVOLVIMENTO E PESQUISA IDP - LTDA | QUADRA SGAN 609 MÓDULO A, S/N, , ASA NORTE, BRASÍLIA/DF |
+| 15 | 202331480 | PUBLICIDADE E PROPAGANDA (Bacharelado) | 120 (cento e vinte) | Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa de Brasília | INSTITUTO BRASILEIRO DE ENSINO, DESENVOLVIMENTO E PESQUISA IDP - LTDA | QUADRA SGAN 609 MÓDULO A, S/N, , ASA NORTE, BRASÍLIA/DF |
+| 16 | 202330224 | ENGENHARIA ELÉTRICA (Bacharelado) | 114 (cento e quatorze) | Instituto Universitário São Judas de São Bernardo do Campo | AMC - SERVICOS EDUCACIONAIS LTDA | AVENIDA PEREIRA BARRETO, 1479, , CENTRO/BAETA NEVES, SÃO BERNARDO DO CAMPO/SP |
+| 17 | 202331605 | LETRAS - PORTUGUÊS E INGLÊS (Licenciatura) | 25 (vinte e cinco) | PONTIFÍCIA UNIVERSIDADE CATÓLICA DE SÃO PAULO | FUNDACAO SAO PAULO | RUA MONTE ALEGRE, 984, SÃO PAULO - SEDE - CAMPUS MONTE ALEGRE, PERDIZES, SÃO PAULO/SP |
+| 18 | 202320646 | ENFERMAGEM (Bacharelado) | 240 (duzentas e quarenta) | UNAMA FACULDADE DA AMAZÔNIA DE PORTO VELHO | SER EDUCACIONAL S.A. | RUA RAFAEL VAZ E SILVA, 1225, ENDEREÇO PRINCIPAL, NOSSA SENHORA DAS GRAÇAS, PORTO VELHO/RO |
+| 19 | 202301919 | SERVIÇO SOCIAL (Bacharelado) | 150 (cento e cinquenta) | UNIVERSIDADE DE VASSOURAS | FUNDACAO EDUCACIONAL SEVERINO SOMBRA | AVENIDA EXPEDICIONÁRIO OSWALDO DE ALMEIDA RAMOS, 280, BLOCO 7, CENTRO, VASSOURAS/RJ |
+| 20 | 202331784 | CIÊNCIAS DA RELIGIÃO (Licenciatura) | 80 (oitenta) | UNIVERSIDADE DO EXTREMO SUL CATARINENSE | FUNDACAO EDUCACIONAL DE CRICIUMA | AVENIDA UNIVERSITÁRIA, 1105, BLOCO ADMINISTRATIVO, UNIVERSITÁRIO, CRICIÚMA/SC |
+| 21 | 202332835 | MARKETING (Tecnológico) | 80 (oitenta) | UNIVERSIDADE DO SUL DE SANTA CATARINA | FUNDACAO UNIVERSIDADE DO SUL DE SANTA CATARINA-UNISUL | AVENIDA PEDRA BRANCA, 25, , PEDRA BRANCA, PALHOÇA/SC |
+| 22 | 202327288 | MEDICINA VETERINÁRIA (Bacharelado) | 100 (cem) | UNIVERSIDADE ESTÁCIO DE SÁ | SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA | RUA BINGEN, 50, PETRÓPOLIS, BINGEN, PETRÓPOLIS/RJ |
+| 23 | 202327286 | MEDICINA VETERINÁRIA (Bacharelado) | 100 (cem) | UNIVERSIDADE ESTÁCIO DE SÁ | SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA | RUA PAULO LINS, 101, , JARDIM VINTE E CINCO DE AGOSTO, DUQUE DE CAXIAS/RJ |
+| 24 | 202327083 | ANÁLISE E DESENVOLVIMENTO DE SISTEMAS (Tecnológico) | 104 (cento e quatro) | UNIVERSIDADE PARANAENSE | UNIPAR - SOCIEDADE EMPRESARIAL LTDA. | AVENIDA JÚLIO ASSIS CAVALHEIRO - 1100/1101 AO FIM, 2000, , INDUSTRIAL, FRANCISCO BELTRÃO/PR |
+| 25 | 202328186 | ADMINISTRAÇÃO (Bacharelado) | 75 (setenta e cinco) | Universidade Pitágoras Unopar Anhanguera | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A | AVENIDA AMÉRICO DEOLINDO GARLA, 224, , PACAEMBU, LONDRINA/PR |
+| 26 | 202330362 | GESTÃO FINANCEIRA (Tecnológico) | 80 (oitenta) | UNIVERSIDADE POTIGUAR | APEC - SOCIEDADE POTIGUAR DE EDUCACAO E CULTURA LTDA | AVENIDA SENADOR SALGADO FILHO, 1.610, , LAGOA NOVA, NATAL/RN |
+| 27 | 202330361 | LOGÍSTICA (Tecnológico) | 80 (oitenta) | UNIVERSIDADE POTIGUAR | APEC - SOCIEDADE POTIGUAR DE EDUCACAO E CULTURA LTDA | AVENIDA SENADOR SALGADO FILHO, 1.610, , LAGOA NOVA, NATAL/RN |
+| 28 | 202328774 | MEDICINA VETERINÁRIA (Bacharelado) | 400 (quatrocentas) | UNIVERSIDADE SALGADO DE OLIVEIRA | ASSOCIACAO SALGADO DE OLIVEIRA DE EDUCACAO E CULTURA | RUA LAMBARI, 10, TÉRREO, TRINDADE, SÃO GONÇALO/RJ |
+| 29 | 202327028 | ANÁLISE E DESENVOLVIMENTO DE SISTEMAS (Tecnológico) | 200 (duzentas) | UNIVERSIDADE SANTA CECÍLIA | INSTITUTO SUPERIOR DE EDUCACAO SANTA CECILIA | RUA OSWALDO CRUZ, 266, , BOQUEIRÃO, SANTOS/SP |
+| 30 | 202211253 | GESTÃO DA TECNOLOGIA DA INFORMAÇÃO (Tecnológico) | 100 (cem) | UNIVERSIDADE SÃO JUDAS TADEU | AMC - SERVICOS EDUCACIONAIS LTDA | AVENIDA VITAL BRASIL, 1000, UNIDADE BUTANTÃ, BUTANTÃ, SÃO PAULO/SP |

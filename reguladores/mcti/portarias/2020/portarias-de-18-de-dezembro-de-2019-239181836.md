@@ -1,0 +1,60 @@
+---
+titulo: "PORTARIAS DE 18 DE DEZEMBRO DE 2019"
+orgao: "Ministério da Ciência, Tecnologia, Inovações e Comunicações/Secretaria de Radiodifusão/Departamento de Radiodifusão Educativa, Comunitária e de Fiscalização"
+tipo: "Portaria"
+numero: ""
+data: ""
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 22/01/2020, seção 1, p. 7"
+data_publicacao: 2020-01-22
+edicao: "15"
+fonte: "https://www.in.gov.br/web/dou/-/portarias-de-18-de-dezembro-de-2019-239181836"
+sha256_html_fonte: 35c11e755ef130734466149663c87e3a95e2dfeb243919c0b262cf4e7c976287
+baixado_em: 2026-10-21
+---
+# PORTARIAS DE 18 DE DEZEMBRO DE 2019
+
+PORTARIAS DE 18 DE DEZEMBRO DE 2019
+
+O DIRETOR DO DEPARTAMENTO DE RADIODIFUSÃO EDUCATIVA, COMUNITÁRIA E DE FISCALIZAÇÃO, no uso das atribuições que lhe confere o artigo 46, X do Regimento Interno da Secretaria de Radiodifusão, aprovado pela Portaria MCTIC nº 217, de 25 de janeiro de 2019, e tendo em vista o que consta no processo abaixo, resolve:
+
+**Art. 1º** Aplicar às Entidades, abaixo relacionadas, as penalidades de multa ou advertência.
+
+**Art. 2º** Estas Portarias entram em vigor na data de suas publicações.
+
+<table><tr></tr><tr><td><p>N° do Processo</p></td><td><p>Entidade</p></td><td><p>Serviço</p></td><td><p>Município</p></td><td><p>UF</p></td><td><p>Sanção</p></td><td><p>Valor (R$)</p></td><td><p>Enquadramento Legal</p></td><td><p>Portaria</p></td><td><p>Embasamento da Portaria de Multa</p></td></tr><tr><td><p>53900.025282/2014</p></td><td><p>Associação De Radiodifusão Comunitária De Malhada Dos Bois - Aracomb</p></td><td><p>RADCOM</p></td><td><p>Malhada dos Bois</p></td><td><p>SE</p></td><td><p>Multa</p></td><td><p>1.068,64</p></td><td><p>Art. 40, XXIX do Decreto n° 2.615/98.</p></td><td><p>Portaria DECEF n° 5361 de 18/12/2019</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 294/2015</p></td></tr><tr><td><p>53900.008898/2014</p></td><td><p>Associação Fidelense De Radiodifusão Comunitária - Afirc</p></td><td><p>RADCOM</p></td><td><p>São Fidélis</p></td><td><p>RJ</p></td><td><p>Multa</p></td><td><p>2.170,42</p></td><td><p>Art. 40, VI, VII e XXIX do Decreto n° 2.615/98.</p></td><td><p>Portaria DECEF n° 5376 de 18/12/2019</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53900.028525/2014</p></td><td><p>Associação Comunitária Do Município De Botuporã</p></td><td><p>RADCOM</p></td><td><p>Botuporã</p></td><td><p>BA</p></td><td><p>Multa</p></td><td><p>456,93</p></td><td><p>Art. 40, XXIX do Decreto n° 2.615/98.</p></td><td><p>Portaria DECEF n° 5437 de 18/12/2019</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53900.032882/2014</p></td><td><p>Associação Comunitária Dos Vaqueiros Do Alto Sertão</p></td><td><p>RADCOM</p></td><td><p>Serrita</p></td><td><p>PE</p></td><td><p>Multa</p></td><td><p>913,86</p></td><td><p>Art. 40, XXIX do Decreto n° 2.615/98.</p></td><td><p>Portaria DECEF n° 5452 de 18/12/2019</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53900.023921/2014</p></td><td><p>Associação Comunitária E Cultural Do Município De Nova Veneza</p></td><td><p>RADCOM</p></td><td><p>Nova Veneza</p></td><td><p>SC</p></td><td><p>Multa</p></td><td><p>913,86</p></td><td><p>Art. 40, XXIX do Decreto n° 2.615/98.</p></td><td><p>Portaria DECEF n° 5479 de 18/12/2019</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53900.004581/2014</p></td><td><p>Associação Comunitária De Desenvolvimento Artístico E Cultural De Afuá - Ascoa</p></td><td><p>RADCOM</p></td><td><p>Afuá</p></td><td><p>PA</p></td><td><p>Multa</p></td><td><p>456,93</p></td><td><p>Art. 40, XXIX do Decreto nº 2.615/98.</p></td><td><p>Portaria DECEF n° 5487 de 18/12/2019</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53900.030361/2014</p></td><td><p>Associação Comunitária E De Amparo Social De Bom Princípio</p></td><td><p>RADCOM</p></td><td><p>Bom Princípio</p></td><td><p>RS</p></td><td><p>Multa</p></td><td><p>913,86</p></td><td><p>Art. 40, XXIX do Decreto nº 2.615/98.</p></td><td><p>Portaria DECEF n° 5496 de 18/12/2019</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53900.022426/2014</p></td><td><p>Associação Comunitária Dos Radiodifusores De Cambira</p></td><td><p>RADCOM</p></td><td><p>Cambira</p></td><td><p>PR</p></td><td><p>Multa</p></td><td><p>913,86</p></td><td><p>Art. 40, XXIX do Decreto nº 2.615/98.</p></td><td><p>Portaria DECEF n° 5549 de 18/12/2019</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53900.030789/2014</p></td><td><p>Rádio São Carlos Ltda.Me</p></td><td><p>OM</p></td><td><p>São Carlos</p></td><td><p>SP</p></td><td><p>Multa</p></td><td><p>8.415,58</p></td><td><p>Art. 62 da Lei n° 4.117/62.</p></td><td><p>Portaria DECEF n° 5582 de 18/12/2019</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53900.024787/2014</p></td><td><p>Associação Comunitária Dos Moradores E Amigos Do Jockey Clube - Lider Fm</p></td><td><p>RADCOM</p></td><td><p>Ponta Porã</p></td><td><p>MS</p></td><td><p>Multa</p></td><td><p>1.202,23</p></td><td><p>Art. 40, XXIX do Decreto nº 2.615/98.</p></td><td><p>Portaria DECEF n° 5633 de 18/12/2019</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53900.005427/2014</p></td><td><p>Associação Comunitária Cultural, Educativa E Esportiva Monsenhor Jadir Brandão Costa</p></td><td><p>RADCOM</p></td><td><p>Felixlândia</p></td><td><p>MG</p></td><td><p>Multa</p></td><td><p>935,06</p></td><td><p>Art. 40, XXIV do Decreto nº 2.615/98.</p></td><td><p>Portaria DECEF n° 5672 de 18/12/2019</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53900.008774/2014</p></td><td><p>Associação Comunitária De Desenvolvimento Artístico E Cultural De Altamira - Assomira</p></td><td><p>RADCOM</p></td><td><p>Altamira</p></td><td><p>PA</p></td><td><p>Multa</p></td><td><p>1.068,64</p></td><td><p>Art. 40, XXIX do Decreto nº 2.615/98.</p></td><td><p>Portaria DECEF n° 5716 de 18/12/2019</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53900.013283/2014</p></td><td><p>Radio Patu De Senador Pompeu Ltda</p></td><td><p>OM</p></td><td><p>Senador Pompeu</p></td><td><p>CE</p></td><td><p>Advertência</p></td><td></td><td><p>Art. 55, do Decreto nº 52.795/63.</p></td><td><p>Portaria DECEF n° 5771 de 18/12/2019</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53900.006325/2014</p></td><td><p>Associação De Radiodifusão Comunitária Do Bairro Nossa Senhora Aparecida</p></td><td><p>RADCOM</p></td><td><p>Manhuaçu</p></td><td><p>MG</p></td><td><p>Multa</p></td><td><p>2.741,59</p></td><td><p>Art. 40, XXIX do Decreto nº 2.615/98.</p></td><td><p>Portaria DECEF n° 5780 de 18/12/2019</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr></table>
+
+MARCUS VINICIUS PAOLUCCI
+
+PORTARIAS DE 23 DE DEZEMBRO DE 2019
+
+O DIRETOR DO DEPARTAMENTO DE RADIODIFUSÃO EDUCATIVA, COMUNITÁRIA E DE FISCALIZAÇÃO, no uso das atribuições que lhe confere o § 1º do artigo 26 da Portaria n° 112, de 22 de abril de 2013, publicada no Diário Oficial da União - DOU de 23 de abril de 2013, e tendo em vista o que consta no processo abaixo, resolve:
+
+**Art. 1º** Arquivar os processos, abaixo relacionados, sem aplicação de sanção.
+
+**Art.2º** Esta Portaria entra em vigor na data de sua publicação.
+
+<table><tr></tr><tr><td><p>N° do Processo</p></td><td><p>Entidade</p></td><td><p>Serviço</p></td><td><p>Município</p></td><td><p>UF</p></td><td><p>Portaria</p></td></tr><tr><td><p>53670.002361/2002</p></td><td><p>Televisao Anhaguera S/A</p></td><td><p>RTV</p></td><td><p>Maiporá</p></td><td><p>GO</p></td><td><p>Portaria DECEF n° 6625 de 23/12/2019</p></td></tr><tr><td><p>01250.007841/2017</p></td><td><p>Televisão Verdes Mares Ltda</p></td><td><p>RTV</p></td><td><p>Potengi</p></td><td><p>CE</p></td><td><p>Portaria DECEF n° 6844 de 23/12/2019</p></td></tr><tr><td><p>01250.002488/2016</p></td><td><p>Associação Radio E Tv Educativa De Guaxupe</p></td><td><p>RTV</p></td><td><p>Guaxupé</p></td><td><p>MG</p></td><td><p>Portaria DECEF n° 6869 de 23/12/2019</p></td></tr><tr><td><p>01250.002623/2016</p></td><td><p>Rádio E Televisão Bandeirantes De Minas Gerais Ltda</p></td><td><p>RTV</p></td><td><p>Barbacena</p></td><td><p>NG</p></td><td><p>Portaria DECEF n° 6913 de 23/12/2019</p></td></tr></table>
+
+O DIRETOR DO DEPARTAMENTO DE RADIODIFUSÃO EDUCATIVA, COMUNITÁRIA E DE FISCALIZAÇÃO, no uso das atribuições que lhe confere o artigo 46, X do Regimento Interno da Secretaria de Radiodifusão, aprovado pela Portaria MCTIC nº 217, de 25 de janeiro de 2019, e tendo em vista o que consta no processo abaixo, resolve:
+
+**Art. 1º** Aplicar às Entidades, abaixo relacionadas, as penalidades de multa.
+
+**Art. 2º** Estas Portarias entram em vigor na data de suas publicações.
+
+<table><tr></tr><tr><td><p>N° do Processo</p></td><td><p>Entidade</p></td><td><p>Serviço</p></td><td><p>Município</p></td><td><p>UF</p></td><td><p>Sanção</p></td><td><p>Valor (R$)</p></td><td><p>Enquadramento Legal</p></td><td><p>Portaria</p></td><td><p>Embasamento da Portaria de Multa</p></td></tr><tr><td><p>53900.014012/2014</p></td><td><p>Rádio Pérola Do Turi Ltda</p></td><td><p>FM</p></td><td><p>Santa Helena</p></td><td><p>MA</p></td><td><p>Multa</p></td><td><p>9.163,63</p></td><td><p>Art. 62 da Lei n° 4.117/62.</p></td><td><p>Portaria DECEF n° 6896 de 23/12/2019</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 294/2015</p></td></tr><tr><td><p>53900.014092/2014</p></td><td><p>Rbs Tv Criciúma Ltda</p></td><td><p>TV</p></td><td><p>Criciúma</p></td><td><p>SC</p></td><td><p>Multa</p></td><td><p>10.472,72</p></td><td><p>Art. 62 da Lei n° 4.117/62.</p></td><td><p>Portaria DECEF n° 6912 de 23/12/2019</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 294/2015</p></td></tr><tr><td><p>53900.038581/2014</p></td><td><p>Radio Comunidade Friburgo</p></td><td><p>RADCOM</p></td><td><p>Nova Friburgo</p></td><td><p>RJ</p></td><td><p>Multa</p></td><td><p>1.068,64</p></td><td><p>Art. 40, XXIX do Decreto n° 2.615/98.</p></td><td><p>Portaria DECEF n° 6914 de 23/12/2019</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 294/2015</p></td></tr></table>
+
+MARCUS VINICIUS PAOLUCCI
+
+PORTARIAS DE 26 DE DEZEMBRO DE 2019
+
+O DIRETOR DO DEPARTAMENTO DE RADIODIFUSÃO EDUCATIVA, COMUNITÁRIA E DE FISCALIZAÇÃO, no uso das atribuições que lhe confere o artigo 46, X do Regimento Interno da Secretaria de Radiodifusão, aprovado pela Portaria MCTIC nº 217, de 25 de janeiro de 2019, e tendo em vista o que consta no processo abaixo, resolve:
+
+**Art. 1º** Aplicar às Entidades, abaixo relacionadas, as penalidades de multa.
+
+**Art. 2º** Estas Portarias entram em vigor na data de suas publicações.
+
+<table><tr></tr><tr><td><p>N° do Processo</p></td><td><p>Entidade</p></td><td><p>Serviço</p></td><td><p>Município</p></td><td><p>UF</p></td><td><p>Sanção</p></td><td><p>Valor (R$)</p></td><td><p>Enquadramento Legal</p></td><td><p>Portaria</p></td><td><p>Embasamento da Portaria de Multa</p></td></tr><tr><td><p>53578.000832/2016</p></td><td><p>Rede Floresta Viva Comunicação Ltda</p></td><td><p>TV</p></td><td><p>Manaus</p></td><td><p>AM</p></td><td><p>Multa</p></td><td><p>21.880,50</p></td><td><p>Art. 62 da Lei n° 4.117/62.</p></td><td><p>Portaria DECEF n° 7121 de 26/12/2019</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 294/2015</p></td></tr><tr><td><p>53542.003606/2016</p></td><td><p>Fundação Ministério Comunidade Cristã</p></td><td><p>TVE</p></td><td><p>Goiânia</p></td><td><p>GO</p></td><td><p>Multa</p></td><td><p>8.515,76</p></td><td><p>Parágrafo Único do art. 13 do Decreto-Lei n° 236/67.</p></td><td><p>Portaria DECEF n° 7122 de 26/12/2019</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 294/2015</p></td></tr></table>
+
+MARCUS VINICIUS PAOLUCCI

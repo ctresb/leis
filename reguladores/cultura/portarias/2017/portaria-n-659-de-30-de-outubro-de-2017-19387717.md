@@ -1,0 +1,96 @@
+---
+titulo: "PORTARIA Nº 659, DE 30 DE OUTUBRO DE 2017"
+orgao: "Ministério da Cultura/SECRETARIA DE FOMENTO E INCENTIVO À CULTURA"
+tipo: "Portaria"
+numero: "659"
+data: 2017-10-30
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 31/10/2017, seção 1, p. 14"
+data_publicacao: 2017-10-31
+edicao: "209"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-659-de-30-de-outubro-de-2017-19387717"
+sha256_html_fonte: cf24fa4a943faf3e51c819c2ace036d5e652ecbe6022e27ed80b37ae58f09391
+baixado_em: 2026-10-28
+---
+# PORTARIA Nº 659, DE 30 DE OUTUBRO DE 2017
+
+PORTARIA Nº 659, DE 30 DE OUTUBRO DE 2017
+
+O SECRETÁRIO DE FOMENTO E INCENTIVO À CULTURA,no uso de suas atribuições legais, que lhe confere a Portarianº 1317, de 01 de julho de 2016 e o art. 4º da Portaria nº 120, de 30de março de 2010, resolve:
+
+**Art. 1.º** - Aprovar o(s) projeto(s) cultural(is), relacionado(s)no(s) anexo(s) desta Portaria, para o(s) qual(is) o(s) proponente(s)fica(m) autorizado(s) a captar recursos, mediante doações ou patrocínios,na forma prevista no § 1º do artigo 18 e no artigo 26 da Lein.º 8.313, de 23 de dezembro de 1991, alterada pela Lei nº 9.874, de23 de novembro de 1999.
+
+**Art. 2.º** - Esta portaria entra em vigor na data de sua publicação.
+
+JOSÉ PAULO SOARES MARTINS
+
+## ANEXO I
+
+ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )176909 - Ação CulturalMAIS AÇÃO PROMOÇÕES E EVENTOS LTDA - MECNPJ/CPF: 19.886.051/0001-90Processo: 01400028307201781Cidade: Belo Horizonte - MG;
+
+Valor Aprovado: R$ 442.125,00Prazo de Captação: 31/10/2017 à 31/12/2017Resumo do Projeto: O Projeto visa a realização de eventos culturais,oferecendo atividades de entretenimento gratuitas, com apresentaçõesde Música Instrumental e Artes circenses.
+
+176917 - Eles Não Usam Black TieISABELLA MACIEL VILLALBACNPJ/CPF: 159.038.867-44Processo: 01400028318201761Cidade: Rio de Janeiro - RJ;Valor Aprovado: R$ 176.622,50Prazo de Captação: 31/10/2017 à 31/12/2017Resumo do Projeto: Eles Não Usam Black Tie é um espetáculomusicado baseado na obra homônima do autorgianfrancesco guarnieride 1958.O projeto promoverá a exibição do espetáculo a todas ascamadas sociais,e posterior debate sobre o processo e a temática doespetáculo, atingindo o maior número de pessoas possível, apostandoassim na diversidade de público, iniciando com ua temporada de ummes.Pretendemos com esta obra promover a reflexão sobre asrelações humanas no cenário econômico e social que, assim como naépoca em que foi concebida, hoje se encontram fragilizadas einseridas em contextos onde a luta pelos direitos e o desejo de justiçaafetam indivíduos e grupos, famílias e amores. ELES NÃO USAMBLACK TIE é a voz de um povo que clama por justiça e que emnossa versão canta a realidade da favela.
+
+176981 - Encantos do NordesteCLAUDIO FONTENELE DE OLIVEIRA FILHOCNPJ/CPF: 17.200.348/0001-25Processo: 01400028474201722Cidade: Fortaleza - CE;
+
+Valor Aprovado: R$ 321.402,00Prazo de Captação: 31/10/2017 à 31/12/2017Resumo do Projeto: Realizar a montagem e a execução deapresentações de contação de histórias do projeto "Encantos doNordeste", executadas pelo Grupo Encantos, com duraçãoaproximadamente de quarenta e cinco minutos, a serem realizadas emespaços culturais, escolas públicas, instituições que atendam pessoascarentes, abertas ao público em geral, sem cobrança de ingressos.
+
+176957 - FLOR E SERNICETE BRUNO PRODUÇÕES ARTISTICAS LTDACNPJ/CPF: 51.703.403/0001-38Processo: 01400028394201777Cidade: São Paulo - SP;Valor Aprovado: R$ 516.516,00Prazo de Captação: 31/10/2017 à 31/12/2017Resumo do Projeto: O projeto "Flor e Ser" foi modelado para realizara circulação de um espetáculo teatral infantil de mesmo nome. Adivulgação ocorrerá de maneira ampla, incluindo a Internet, dandopublicidade Internacional ao projeto. Ao final, terá sido estimulada acultura nacional ao proporcionar, para crianças, a experiência deassistir a uma peça teatral de qualidade, que seja inesquecível na suamemória, utilizando o teatro como ferramenta para sua formaçãocomo ser humano.
+
+176997 - FUERZA BRUTA - LOOK UP!T4F ENTRETENIMENTO S.A.CNPJ/CPF: 02.860.694/0001-62
+
+Processo: 01400028530201729Cidade: São Paulo - SP;Valor Aprovado: R$ 3.562.007,41Prazo de Captação: 31/10/2017 à 31/12/2017Resumo do Projeto: A proposta cultural visa a apresentação doespetáculo argentino interativo "Fuerza Bruta - Look Up!", dacompanhia Fuerza Bruta. O espetáculo traz música, teatro, dança,efeitos visuais, acrobacias e ações circenses em um espetáculo de altorequinte estético e técnico, onde o público também é personagem doshow, sendo convidado a se movimentar pelo espaço e interagir comas ações do espetáculo.
+
+176977 - HendrixCMX ASSOCIADOS LTDA MECNPJ/CPF: 13.637.185/0001-91Processo: 01400028452201762Cidade: Rio de Janeiro - RJ;Valor Aprovado: R$ 605.820,00Prazo de Captação: 31/10/2017 à 31/12/2017Resumo do Projeto: O projeto realizará a estreia e temporadadoespetáculo Hendris que conta a história de um dos mais virtuososguitarristas da história da música, talvez o maior de todos, osagitariano Jimi Hendrix (1942-1970) teve um lar desestruturado,passou fome, escapou da Guerra do Vietnã, lutou, conheceu oestrelato e morreu precocemente aos 27 anos. Misturando infância,adolescência e a vida adulta, o monólogo Hendrix: I just want to play,de Guilherme Scarpa e Silvia Spolidoro, coloca em cena importantespassagens da trajetória do ídolo e seu precioso e breve acervomusical. O diálogo é construído a partir de entrevistas e biografias doastro, que revelam um homem extremamente à frente do tempo,batalhador e pacifista e, ao mesmo tempo, irônico e boêmio.
+
+176724 - Hospitalhaços - Plano anual 2018
+
+Associação HospitalhaçosCNPJ/CPF: 04.852.343/0001-35Processo: 01400028018201782Cidade: Campinas - SP;Valor Aprovado: R$ 2.226.200,00Prazo de Captação: 31/10/2017 à 31/12/2017Resumo do Projeto: O projeto "Hospitalhaços", realizado desde 1999,prevê a manutenção e a ampliação das atividades da AssociaçãoHospitalhaços, ONG sem fins lucrativos, que promove a humanizaçãohospitalar através do teatro e da prática do clown, capacitando eformando mais de 600 voluntários, cuja atuação, beneficiaanualmente, mais de 400.000 pessoas, entre pacientes, acompanhantese profissionais da área da saúde. Atualmente o trabalho é realizadoem 26 hospitais, localizados em 15 cidades do estado de São Paulo,1hospital na cidade de Recife PE e um hospital na cidade do Rio deJaneiro RJ.
+
+176887 - HOTEL MARIANA - MONTAGEM RJGengibre Multimídia Ltda - MECNPJ/CPF: 10.521.166/0001-07Processo: 01400028274201770Cidade: São Paulo - SP;Valor Aprovado: R$ 515.419,20Prazo de Captação: 31/10/2017 à 31/12/2017Resumo do Projeto: Este projeto prevê como produto principal, aprodução de uma temporada em nova montagem do espetáculo HotelMariana, a ser cumprida em uma capital do Brasil. E, como produtosecundário, prevê a realização de 1 (um) workshop gratuíto sobre atécnica de Teatro Verbatim, a ser cumprido no final da temporadaacima mencionada. A peça Hotel Mariana, através da técnica deTeatro verbatim, traça um panorama amplo sobre a tragédia dorompimento das barragens de rejeitos de minérios ocorrido em 2015na cidade de Mariana em Minas Gerais. Verbatim é uma técnica deteatro documental que leva depoimentos reais para o palco.
+
+177043 - MOJÚ MAGÉ MOJUBÁ - SINFONIAS E BATUQUESGREMIO RECREATIVO ESCOLA DE SAMBA INOCENTES DEBELFORD ROXOCNPJ/CPF: 30.646.434/0001-24Processo: 01400028830201716Cidade: Belford Roxo - RJ;Valor Aprovado: R$ 715.456,00Prazo de Captação: 31/10/2017 à 31/12/2017Resumo do Projeto: PRODUÇÃO DO DESFILE DO CARNAVALDE 2018, A ESCOLA VAI CONSTRUIR QUATRO CARROSALEGORICOS EM ESTRUTURAS DE FERRO E MADEIRA,CONJUNTOS CENOGRAFICOS E INSTALAÇÕES ELETRICAS.
+
+176987 - O Dia SeguinteWB Produções Artísticas e Culturais LtdaCNPJ/CPF: 08.775.812/0001-10Processo: 01400028500201712Cidade: Vitória - ES;Valor Aprovado: R$ 800.519,04Prazo de Captação: 31/10/2017 à 31/12/2017Resumo do Projeto: O Dia Seguinte é um texto teatral; uma comédiaromântica livremente inspirada na crônica "O DIA SEGUINTE", quefaz parte do livro "Comédias Brasileiras de Verão". Com este projeto,propomos a montagem e sua circulação por diversas cidadesbrasileiras.
+
+176960 - Sentinela da Tradição circulando por MT
+
+ASSOCIAÇÃO DAS ARTES, COMUNICAÇÃO E CULTURA DEMATO GROSSO - ACENICACNPJ/CPF: 10.655.946/0001-40Processo: 01400028401201731Cidade: Cuiabá - MT;Valor Aprovado: R$ 623.605,50Prazo de Captação: 31/10/2017 à 31/12/2017Resumo do Projeto: O projeto se compõe de oficinas, relacionadas àárea de dança: dança tradicional e dança de salão. Como resultado dascapacitações, um espetáculo de dança a ser apresentado em cidadesde Mato Grosso. Este projeto visa, fundamentalmente, fortalecer edisseminar os valores da cultura tradicional gaúcha no território matogrossense,para isso, contando, ainda, com a leveza e o caráter lúdicoda dança no envolvimento de seus diferentes públicos. Serãoministradas gratuitamente palestras sobre a cultura tradicional gaúchano século XXI nos municípios participantes do projeto.
+
+ÁREA: 3 MÚSICA (Artigo 18 , § 1º )176700 - Arte é VidaDENISE ROTHER PIEDADE PRODUÇÕES CULTURAIS - MECNPJ/CPF: 15.027.419/0001-04Processo: 01400027989201713Cidade: São Paulo - SP;Valor Aprovado: R$ 1.241.272,50Prazo de Captação: 31/10/2017 à 31/12/2017Resumo do Projeto: O projeto trata-se de apresentações de músicainstrumental e contação de histórias para pacientes em tratamentos emhospitais e instituições públicas, especialmete pacientes emtratamento oncolôgico da cidade de São Paulo, sem cobrança deingresso, voltado ao público de crianças, adolescentes e adultos e seusfamiliares, promovendo a arte e a música instrumental como terapiana recuperação e no auxílio ao tratamento destes pacientes. Em cadaapresentação, repertório e temática nova e atividades lúdicas parainteração dos artistas com os pacientes.Serão realizadas palestrasaberta ao púnlico com o maestro John Berman fundador do InstitutoChoro Bluese arte terapeuta sobre musicoterapia. Em duas datasespeciais, que serão decididas juntamente com oshospitais/instituições beneficiadas pelo projeto, haverá apresentaçãode uma grande banda de jazz no hall ou anfiteatro do hospital abertaa todos.
+
+176985 - Temporada Concertos em Pauta 2018T. V. PONTES MONTEIRO - MECNPJ/CPF: 24.924.546/0001-05Processo: 01400028496201792Cidade: Palmas - TO;Valor Aprovado: R$ 191.874,00Prazo de Captação: 31/10/2017 à 31/12/2017Resumo do Projeto: O projeto propõe a realização da temporada 2018da série Concertos em Pauta, que forma público para a música detradição escrita desde 2008, através da realização independente deconcertos com viés didático e histórico para o grande público. Nesteprojeto, os músicos instrumentistas receberão uma verba paraproduzir novos concertos e realizar apresentações dos mesmos aolongo do ano, em apresentações abertas ao público. Ao longo datemporada, os músicos e estudantes de música participantes terãoacesso a masterclasses de música com profissionaisde renomenacional.
+
+ÁREA: 4 ARTES VISUAIS (Artigo 18 , § 1º )176544 - "Os muitos e o um"Tisara Arte Produções Ltda.CNPJ/CPF: 04.177.312/0001-26Processo: 01400027582201788Cidade: Rio de Janeiro - RJ;Valor Aprovado: R$ 3.527.347,00Prazo de Captação: 31/10/2017 à 31/12/2017Resumo do Projeto: O projeto consiste na realização da exposição"Os muitos e o um - Coleção Andrea e José Olympio Pereira", ,organizada pelos curadores Robert Storr e Paulo Miyada a partir deuma das maiores e mais importantes coleções de arte no Brasil:"Coleção Andrea e José Olympio Pereira". Na condução da curadoria,o consagrado crítico norte-americano Robert Storr e o curador doInstituto Tomie Ohtake Paulo Miyada privilegiam as obrasindividualmente vigorosas, com potência própria, independentementede possíveis diálogos que possam estabelecer com os demaistrabalhos e produções reunidos.
+
+ÁREA: 5 PATRIMÔNIO CULTURAL (Artigo 18 , § 1º )176898 - PLANO ANUAL MUSEU DA VIDA 2018SOCIEDADE DE PROMOCAO DA CASA DE OSWALDO CRUZCNPJ/CPF: 31.157.860/0001-67Processo: 01400028290201762Cidade: Rio de Janeiro - RJ;Valor Aprovado: R$ 2.433.753,27Prazo de Captação: 31/10/2017 à 31/12/2017Resumo do Projeto: O projeto visa dar continuidade ao processo dequalificação do serviço de recebpção ao visitante do Museu da Vidada Casa de Oswaldo/Fiocruz, em 2018, por meio de investimento nasua programação, possibilitando a ampliação e aprimoramento doatendimento à população da cidade do Rio de Janeiro, em especial dazona norte e da Baixada Fluminense, ampliando o acesso gratuito abens culturais de qualidade e garantindo que o Museu se estabeleçacomo um espaço para as relações entre cultura e arte da Região.
+
+ÁREA: 6 HUMANIDADES (Artigo 18 , § 1º )176980 - 18ª Feira do Livro de Picada CaféAssociação Cultural de Picada CaféCNPJ/CPF: 02.642.190/0001-76Processo: 01400028467201721Cidade: Picada Café - RS;
+
+Valor Aprovado: R$ 40.025,00Prazo de Captação: 31/10/2017 à 31/12/2017Resumo do Projeto: Picada Café realiza entre 11 e 14 de outubro de2018, a 18ª edição da Feira do Livro, junto ao Parque HistóricoMunicipal Jorge Kuhn. Com o objetivo de enfatizar a importância daleitura na vida das pessoas, oportuniza-se o enriquecimento cultural eo contato com uma variedade de livros, escritores e artistas, atravésde uma vasta programação cultural que valoriza as tradições locais efomenta a literatura gaúcha. E, visando promover o acesso direto aolivro e o desenvolvimento da cadeia produtiva da cultura,desenvolveu-se ao longo dos anos a ação do "Vale-livro". Para issodisponibiliza-se um bônus de vale livros a todos os alunos,professores e universitários de Picada Café.
+
+176708 - Criança que Lê - Ano 1Thiago Lopes Lima NavesCNPJ/CPF: 049.919.876-01Processo: 01400027997201751Cidade: Timóteo - MG;Valor Aprovado: R$ 316.355,00Prazo de Captação: 31/10/2017 à 31/12/2017Resumo do Projeto: "Criança que Lê" é um projeto que visapromover e incentivar a leitura na infância, além do resgate do tempoem família e de brincadeiras que envolvem movimento do corpo etrabalhos manuais. Serão produzidos nessa primeira edição dois livroscom histórias diferentes, abrangendo habilidades e atividadesdiferenciadas para as crianças.
+
+176566 - Produção e Publicação do Livro: Rio, cadê o Rock?Diego Kobylinski de LacerdaCNPJ/CPF: 126.488.817-19Processo: 01400027709201769Cidade: Rio de Janeiro - RJ;Valor Aprovado: R$ 259.697,20Prazo de Captação: 31/10/2017 à 31/12/2017Resumo do Projeto: Produção e Publicação do livro: Rio, cadê oRock?, que terá como conteúdo artigos sobre o cenário do rock noEstado do Rio de Janeiro em seus últimos anos, com base em dadosadquiridos através de pesquisas e entrevistas com músicos, produtorese críticos da música.
+
+176567 - Reedição do livro O Frances que caiu do céuWAGNER RIBEIRO DA COSTACNPJ/CPF: 327.431.657-15Processo: 01400027712201782Cidade: Belo Horizonte - MG;Valor Aprovado: R$ 71.874,43
+
+Prazo de Captação: 31/10/2017 à 31/12/2017Resumo do Projeto: O projeto visa a democratização da leitura nopaís e divulgação do escritor mineiro Wagner Ribeiro da Costa(Wagner Grillo) por meio da reedição do livro de contos "O francêsque caiu do céu" . O livro contará com a adição de dois novos contos,ilustrações e melhoria do projeto gráfico.
+
+ÁREA: 9 MUSEUS E MEMÓRIA (Artigo 18 , § 1º )176766 - Museu da Liturgia - Manutenção e Gestão 2018- Plano AnualAssociação Museu Da LiturgiaCNPJ/CPF: 17.955.945/0001-60Processo: 01400028097201721Cidade: Tiradentes - MG;Valor Aprovado: R$ 828.702,00Prazo de Captação: 31/10/2017 à 31/12/2017Resumo do Projeto: O projeto destina-se à manutenção do Museu daLiturgia da cidade de Tiradentes/MG para o exercício de 2018. OMuseu da Liturgia é o único dedicado ao tema na América Latina eespaço privilegiado para a celebração da intensa devoção religiosa dacidade e de sua região. O presente projeto destina-se à manutenção egestão das atividades desta instituição no ano de 2018. O Museu estáinstalado na antiga Casa Paroquial da Paróquia de Santo Antônio nacidade de Tiradentes (MG), reconhecida pela singularidade de seupatrimônio histórico, cultural e paisagístico. O valioso acervo doMuseu da Liturgia é composto por mais de 400 objetos de arte sacrae peças dos séculos XVIII a XX, além de instalações audiovisuais,terminais multimídia e um amplo programa educativo. Desde suainauguração, em abril de 2012, o Museu já foi visitado por mais de40.000 pessoas.
+
+177024 - Plano Anual 2018 - Programação Cultural Instituto LingInstituto LingCNPJ/CPF: 00.753.867/0001-18Processo: 01400028666201739Cidade: Porto Alegre - RS;Valor Aprovado: R$ 1.857.363,80Prazo de Captação: 31/10/2017 à 31/12/2017Resumo do Projeto: O Plano Anual de atividades para 2018 temcomo objetivo realizar as ações culturais regulares do centro culturalInstituto Ling através de produtos culturais nos seguintes segmentosartísticos: música, literatura, humanidades, dança, cinema e artesvisuais, totalizando mais de 100 atividades culturais promovidas aolongo de 2018.
+
+## ANEXO II
+
+ÁREA: 3 MÚSICA (Artigo 26)176884 - JARDS MACALÉ INEDITOZILLES PRODUÇÕES CULTURAIS LTDACNPJ/CPF: 04.099.637/0001-38Processo: 01400028271201736Cidade: Rio de Janeiro - RJ;Valor Aprovado: R$ 338.989,20Prazo de Captação: 31/10/2017 à 31/12/2017Resumo do Projeto: Jards Macalé Inédito propõe a gravação de umálbum de composições inéditas de Jards Macalé em parceria comoutros artistas renomados. A proposta prevê a produção de um álbumem CD e Vinil, produção de conteúdo audiovisual, e um lançamentocom shows nas cidades de São Paulo e Rio de Janeiro.
+
+ÁREA: 4 ARTES VISUAIS (Artigo 26)176913 - Plano Anual IAE 2018Instituto Arte na EscolaCNPJ/CPF: 03.684.257/0001-06Processo: 01400028313201739Cidade: São Paulo - SP;Valor Aprovado: R$ 3.936.522,98Prazo de Captação: 31/10/2017 à 31/12/2017Resumo do Projeto: Apresenta as atividades realizadas pelaProponente no desenvolvimento da "Rede Arte na Escola", seuprincipal programa, que contempla diversas ações direcionadas àcapacitação de professores de arte de universidades parceiras, comobjetivo de aprimorar o ensino de arte no Brasil, resgatar a memóriae valorizar nosso patrimônio cultural artístico. Dentre as ações,reproduzidas anualmente, destacam-se: Visitas nos Polos da RedeArte na Escola; Manutenção e atualização da Midiateca; Curso EAD"Aprendendo com Arte"; Encontros (regionais/ nacionais);Desenvolvimento de pesquisas com os professores nos Polos da Rede;Realização do "Prêmio Arte na Escola Cidadã"; Produção de 1Documentário por ano; Desenvolvimento e distribuição de material deapoio aos professores; Produção e Publicação de livros: Coleção VIU;Projeto Arte BR (ação de Formação de Plateia) e outras açõespontuais.
+
+ÁREA: 6 HUMANIDADES (Artigo 26)177021 - Plano Anual Academia Brasileira de Letras 2018Academia Brasileira de LetrasCNPJ/CPF: 40.262.404/0001-78Processo: 01400028644201779Cidade: Rio de Janeiro - RJ;Valor Aprovado: R$ 1.439.632,27Prazo de Captação: 31/10/2017 à 31/12/2017Resumo do Projeto: Realizar as atividades culturais da AcademiaBrasileira de Letras - ciclos de conferências, mesas redondas,programação artística do Teatro Raimundo Magalhães Junior,exposições temáticas, entre outras ações durante o ano de 2018.
+
+JOSÉ PAULO SOARES MARTINS
+
+Este conteúdo não substitui o publicado na versão certificada.

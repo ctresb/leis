@@ -1,0 +1,154 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 4.883, DE 26 DE NOVEMBRO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "4883"
+data: 2020-11-26
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 27/11/2020, seção 1, p. 203"
+data_publicacao: 2020-11-27
+edicao: "227"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.883-de-26-de-novembro-de-2020-290850746"
+sha256_html_fonte: 9e75204c968786809c9007a4640d9ed30d286e9223fd936ca7fda5e17d493443
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 4.883, DE 26 DE NOVEMBRO DE 2020
+
+RESOLUÇÃO-RE Nº 4.883, DE 26 DE NOVEMBRO DE 2020
+
+O Coordenador de Autorização de Funcionamento de Empresas, Substituto, no uso das atribuições que lhe confere o art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º.** Conceder Autorização de Funcionamento para Empresas constantes no anexo desta Resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+MATTOS E FEDRIGO TRANSPORTES LTDA / 05.386.687/0001-69
+
+25351.267432/2020-00 / 4026182
+
+728 - AFE - CONCESSÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - TRANSPORTADORA (SOMENTE MATRIZ) / 3637297205
+
+--------------------------------------
+
+BIOMEDICALL - EXPORTAÇÃO E IMPORTAÇÃO COMÉRCIO E DISTRIBUIÇÃO DE ARTIGOS MÉDICOS E ORTOPÉDICOS LTDA - ME / 04.503.961/0001-70
+
+25351.498116/2016-01 / 8144409
+
+859 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - IMPORTADORA / 2104386209
+
+--------------------------------------
+
+PATRONO TRANSPORTES LTDA / 30.422.573/0001-74
+
+25351.934771/2020-03 / 4026211
+
+728 - AFE - CONCESSÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - TRANSPORTADORA (SOMENTE MATRIZ) / 3070955207
+
+--------------------------------------
+
+GIORNO IMPORTADORA INDÚSTRIA E COMÉRCIO DE MALHAS EIRELI. / 28.291.330/0001-00
+
+25351.573849/2020-09 / 4021734
+
+722 - AFE - CONCESSÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - IMPORTADORA (SOMENTE MATRIZ) / 1981743201
+
+--------------------------------------
+
+A.L.V. Distribuidora de Produtos Hospitalares Eireli / 37.140.339/0001-01
+
+25351.909774/2020-09 / 3098271
+
+7056 - AFE/AE - Recurso Administrativo - DEMAIS EMPRESAS (exceto farmácia e drogaria) / 3868183205
+
+--------------------------------------
+
+RG COMÉRCIO E SERVIÇOS LDTA / 37.456.280/0001-57
+
+25351.893978/2020-11 / 8210527
+
+7056 - AFE/AE - Recurso Administrativo - DEMAIS EMPRESAS (exceto farmácia e drogaria) / 3957549205
+
+--------------------------------------
+
+TOTALMED HOSPITALAR LTDA ME / 25.016.182/0001-10
+
+25351.888676/2020-12 / 1245240
+
+7056 - AFE/AE - Recurso Administrativo - DEMAIS EMPRESAS (exceto farmácia e drogaria) / 4066134203
+
+--------------------------------------
+
+JAMEF TRANSPORTES EIRELI / 20.147.617/0005-75
+
+25351.267335/2020-17 / 8210498
+
+862 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - TRANSPORTADORA / 3637149206
+
+--------------------------------------
+
+LIZ COMERCIO ATACADISTA DE PRODUTOS HOSPITALARES EIRELI / 30.008.649/0001-10
+
+25351.267460/2020-19 / 1245284
+
+702 - AFE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA (SOMENTE MATRIZ) / 3637322200
+
+--------------------------------------
+
+VISAO LIMP DESCARTAVEIS HIGIENE E LIMPEZA EIRELI / 19.214.320/0001-72
+
+25351.267500/2020-22 / 3098267
+
+740 - AFE - CONCESSÃO - SANEANTES DOMISSANITÁRIOS - DISTRIBUIDORA (SOMENTE MATRIZ) / 3637363208
+
+--------------------------------------
+
+FOREVER COMPANY COSMETICOS LTDA / 08.958.817/0001-89
+
+25351.216129/2020-31 / 4026208
+
+723 - AFE - CONCESSÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - DISTRIBUIDORA (SOMENTE MATRIZ) / 3533690202
+
+--------------------------------------
+
+ELISANGELA CARDOSO DA SILVA / 16.756.947/0001-67
+
+25351.823296/2020-32 / 4026239
+
+728 - AFE - CONCESSÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - TRANSPORTADORA (SOMENTE MATRIZ) / 2747598209
+
+--------------------------------------
+
+GUSTAVO DE NOVAIS MACHADO / 17.734.125/0001-48
+
+25351.267435/2020-35 / 4026196
+
+723 - AFE - CONCESSÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - DISTRIBUIDORA (SOMENTE MATRIZ) / 3637300206
+
+--------------------------------------
+
+IMPLAND COMERCIO DE PRODUTOS MEDICO HOSPITALARES LTDA / 07.705.222/0001-59
+
+25023.026274/2009-50 / 8060511
+
+862 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - TRANSPORTADORA / 2697464204
+
+--------------------------------------
+
+MATTOS E FEDRIGO TRANSPORTES LTDA / 05.386.687/0001-69
+
+25351.267858/2020-55 / 8210513
+
+862 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - TRANSPORTADORA / 3637625202
+
+--------------------------------------
+
+VISAO LIMP DESCARTAVEIS HIGIENE E LIMPEZA EIRELI / 19.214.320/0001-72
+
+25351.267434/2020-91 / 4026179
+
+723 - AFE - CONCESSÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - DISTRIBUIDORA (SOMENTE MATRIZ) / 3637299208

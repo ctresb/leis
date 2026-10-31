@@ -1,0 +1,43 @@
+---
+titulo: "PORTARIA CONJUNTA Nº 48, DE 12 DE JULHO DE 2016"
+orgao: "Ministério da Educação/SECRETARIA DE EDUCAÇÃO SUPERIOR"
+tipo: "Portaria"
+numero: "48"
+data: 2016-07-12
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 22/07/2016, seção 1, p. 143"
+data_publicacao: 2016-07-22
+edicao: "140"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-conjunta-n-48-de-12-de-julho-de-2016-21774443"
+sha256_html_fonte: 259bab50003d6e273ccf0a4185278b28a4d9e03c0266d15d0bd156cee46dd970
+baixado_em: 2026-10-28
+---
+# PORTARIA CONJUNTA Nº 48, DE 12 DE JULHO DE 2016
+
+PORTARIA CONJUNTA Nº 48, DE 12 DE JULHO DE 2016
+
+O A SECRETÁRIA DE EDUCAÇÃO SUPERIOR SUBSTITUTADO MINISTÉRIO DA EDUCAÇÃOeoSECRETÁRIODE POLÍTICAS E PROGRAMAS DE PESQUISA E DESENVOLVIMENTOSUBSTITUTO DO MINISTÉRIO DA CIÊNCIA, TECNOLOGIAINOVAÇÕES E COMUNICAÇÕES, no uso de suas atribuiçõese considerando as disposições da Lei nº 8.958, de 20 dedezembro de 1994, do Decreto nº 7.423, de 31 de dezembro de 2010e da Portaria Interministerial nº 191, de 13 de março de 2012, combase nas recomendações do Grupo de Apoio Técnico MEC/MCTICapresentadas na reunião ordinária de 28 de junho de 2016 e pelosfundamentos da Informação nº 063/2016-CGLNES/GAB/SESu/MECcmp,resolvem:
+
+**Art. 1º.** Fica autorizada, pelo período de 01 (um) ano, aFundação de Apoio à Pesquisa - FUNAPE, CNPJ nº00.799.205/0001-89, para atuar como fundação de apoio ao InstitutoFederal de Educação, Ciência e Tecnologia de Goiás - IFG, processonº 23000.006293/2016-18.
+
+**Art. 2º.** A validade da autorização fica condicionada, nostermos do art. art. 4º, V da Portaria Interministerial nº 191/2012, àapresentação, em 30 (trinta) dias, a contar da publicação da presentePortaria, do referendo pelo órgão colegiado superior da UniversidadeFederal de Goiás da declaração de concordância da instituição com opedido de autorização da FUNAPE, sob pena de revogação destaPortaria.
+
+**Art. 3º.** Esta Portaria entra em vigor na data de sua publicação
+
+DULCE MARIA TRISTÃO  
+Secretária de Educação Superior do Ministério da Educação  
+Substituta
+
+SÁVIO TÚLIO OSELIERI RAEDER
+
+Secretário de Políticas e Programas de Pesquisa e  
+Desenvolvimento do Ministério da Ciência,  
+Tecnologia, Inovações e Comunicações  
+Substituto
+
+DULCE MARIA TRISTÃO
+
+Secretária de Educação Superior do Ministério da Educação Substituta
+
+Este conteúdo não substitui o publicado na versão certificada.

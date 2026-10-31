@@ -1,0 +1,26 @@
+---
+titulo: "PORTARIA Nº 474, DE 6 DE JULHO DE 2020"
+orgao: "Ministério da Economia/Superintendência Nacional de Previdência Complementar/Diretoria de Licenciamento"
+tipo: "Portaria"
+numero: "474"
+data: 2020-07-06
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 13/07/2020, seção 1, p. 24"
+data_publicacao: 2020-07-13
+edicao: "132"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-474-de-6-de-julho-de-2020-266355922"
+sha256_html_fonte: 835907b7566c1573f961fe3826dd4e985594f228246267a7d6b0341cf2666fb8
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 474, DE 6 DE JULHO DE 2020
+
+PORTARIA Nº 474, DE 6 DE JULHO DE 2020
+
+A DIRETORA DE LICENCIAMENTO, no uso das atribuições que lhe confere o inciso I do art. 33 da Lei Complementar nº 109, de 29 de maio de 2001, e art. 22, inciso I, alínea "a", do Anexo I do Decreto nº 8.992, de 20 de fevereiro de 2017, e considerando as manifestações técnicas exaradas no Processo nº 44011.002739/2020-54, resolve:
+
+**Art. 1º** Aprovar as alterações propostas ao regulamento do Plano Previdencial B, CNPB n° 2003.0019-56, administrado pela Fundação de Previdência dos Servidores do IRB - PREVIRB.
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação.
+
+ANA CAROLINA BAASCH

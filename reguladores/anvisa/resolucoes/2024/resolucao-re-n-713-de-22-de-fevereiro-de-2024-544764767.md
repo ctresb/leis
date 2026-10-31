@@ -1,0 +1,132 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 713, DE 22 DE FEVEREIRO DE 2024"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/3ª Diretoria/Gerência-Geral de Toxicologia"
+tipo: "Resolução"
+numero: "713"
+data: 2024-02-22
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 26/02/2024, seção 1, p. 142"
+data_publicacao: 2024-02-26
+edicao: "38"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-713-de-22-de-fevereiro-de-2024-544764767"
+sha256_html_fonte: 37e5c613ed0312f68f111cadd1dadd093ff6265b43ada2b86b2421cde9d95ddc
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE Nº 713, DE 22 DE FEVEREIRO DE 2024
+
+RESOLUÇÃO-RE Nº 713, DE 22 DE FEVEREIRO DE 2024
+
+A GERENTE-GERAL SUBSTITUTA DE TOXICOLOGIA DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA no uso das atribuições que lhe confere o art.114, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Aprovar os atos de avaliação toxicológica para fins de registro de produtos agrotóxicos, componentes e afins, identificados no anexo, com o respectivo resultado da análise.
+
+**Art. 2º** A publicação do extrato deste informe de avaliação toxicológica não exime a requerente do cumprimento das demais avaliações procedidas pelos órgãos responsáveis pelas áreas de agricultura e de meio ambiente, conforme legislação vigente no país, aplicável ao objeto do requerimento.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIELLE CHRISTINE DE SOUZA FILADELPHO
+
+## ANEXO
+
+RAZÃO SOCIAL - CNPJ
+
+MARCA COMERCIAL
+
+NÚMERO DO PROCESSO
+
+PETIÇÃO(ÕES), EXPEDIENTE(S)
+
+CLASSIFICAÇÃO TOXICOLÓGICA
+
+-----------------------------
+
+NORTOX S/A - 75.263.400/0001-99
+
+ACEFATO MAX NORTOX
+
+25351.716755/2017-27
+
+5065 - PRODUTO FORMULADO COM BASE EM PRODUTO TÉCNICO EQUIVALENTE, 2303238/17-3
+
+CATEGORIA 4 - PRODUTO POUCO TÓXICO
+
+CLOMAZONE NORTOX 360 CS
+
+25351.736589/2018-05
+
+5065 - PRODUTO FORMULADO COM BASE EM PRODUTO TÉCNICO EQUIVALENTE, 1031078/18-1
+
+CATEGORIA 5 - PRODUTO IMPROVÁVEL DE CAUSAR DANO AGUDO
+
+DESTROYER NORTOX
+
+25351.692221/2017-04
+
+5065 - PRODUTO FORMULADO COM BASE EM PRODUTO TÉCNICO EQUIVALENTE, 2268619/17-7
+
+CATEGORIA 5 - PRODUTO IMPROVÁVEL DE CAUSAR DANO AGUDO
+
+-----------------------------
+
+PERTERRA INSUMOS AGROPECUÁRIOS S.A. - 33.824.613/0001-00
+
+BOSCALID 500 WG PERTERRA
+
+25351.009641/2021-01
+
+5120 - REGISTRO SIMPLIFICADO NÍVEL IV - PRODUTO FORMULADO COM BASE EM PRODUTO TÉCNICO EQUIVALENTE, 1605701/21-1
+
+CATEGORIA 5 - PRODUTO IMPROVÁVEL DE CAUSAR DANO AGUDO
+
+-----------------------------
+
+RAINBOW DEFENSIVOS AGRÍCOLAS LTDA. - 10.486.463/0001-69
+
+ACEDEMAR
+
+25351.080944/2016-85
+
+5065 - PRODUTO FORMULADO COM BASE EM PRODUTO TÉCNICO EQUIVALENTE, 1797862/16-9
+
+CATEGORIA 4 - PRODUTO POUCO TÓXICO
+
+-----------------------------
+
+SUMITOMO CHEMICAL BRASIL INDUSTRIA QUIMICA S.A. - 07.467.822/0001-26
+
+MEOTHRIN
+
+25351.486180/2022-70
+
+5002 - PRODUTO FORMULADO - AVALIAÇÃO TOXICOLÓGICA DE PRODUTO COM INGREDIENTE ATIVO JÁ REGISTRADO NO PAÍS, 4885502/22-5
+
+CATEGORIA 2 - PRODUTO ALTAMENTE TÓXICO
+
+PARCERO 240 EC
+
+25351.750642/2018-04
+
+5065 - PRODUTO FORMULADO COM BASE EM PRODUTO TÉCNICO EQUIVALENTE, 1051236/18-5
+
+CATEGORIA 5 - PRODUTO IMPROVÁVEL DE CAUSAR DANO AGUDO
+
+ZETHAMAXX EVO
+
+25351.758173/2020-13
+
+5065 - PRODUTO FORMULADO COM BASE EM PRODUTO TÉCNICO EQUIVALENTE, 4622938/20-1
+
+CATEGORIA 5 - PRODUTO IMPROVÁVEL DE CAUSAR DANO AGUDO
+
+-----------------------------
+
+TOTAL BIOTECNOLOGIA INDUSTRIA E COMERCIO S/A. - 07.483.401/0001-99
+
+BTP 002-18
+
+25351.238725/2023-14
+
+5086 - PRODUTO MICROBIOLÓGICO - AVALIAÇÃO TOXICOLÓGICA DE PRODUTO COM INGREDIENTE ATIVO MICROBIOLÓGICO JÁ REGISTRADO NO PAÍS, 0387878/23-8
+
+CATEGORIA 5 - PRODUTO IMPROVÁVEL DE CAUSAR DANO AGUDO

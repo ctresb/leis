@@ -1,0 +1,60 @@
+---
+titulo: "PORTARIA SERES/MEC Nº 754, DE 16 de outubro de 2025"
+orgao: "Ministério da Educação/Secretaria de Regulação e Supervisão da Educação Superior"
+tipo: "Portaria"
+numero: "754"
+data: 2025-10-16
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 17/10/2025, seção 1, p. 26"
+data_publicacao: 2025-10-17
+edicao: "199"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-seres/mec-n-754-de-16-de-outubro-de-2025-663109708"
+baixado_em: 2026-10-16
+---
+# PORTARIA SERES/MEC Nº 754, DE 16 de outubro de 2025
+
+PORTARIA SERES/MEC Nº 754, DE 16 de outubro de 2025
+
+A SECRETÁRIA DE REGULAÇÃO E SUPERVISÃO DA EDUCAÇÃO SUPERIOR, no uso da atribuição que lhe confere o Decreto nº 11.691, de 5 de setembro de 2023, e tendo em vista os Decretos nº 9.235, de 15 de dezembro de 2017, e nº 12.456, de 19 de maio de 2025, as Portarias Normativas MEC nºs 20 e 23, de 21 de dezembro de 2017, e nº 11, de 22 de junho de 2017, e conforme consta dos processos e-MEC listados na planilha anexa, resolve:
+
+**Art. 1º** Fica(m) indeferido(s) o(s) pedido(s) de autorização de curso superior na modalidade a distância, relacionado(s) no Anexo desta Portaria, conforme disposto nos arts. 10 e 44 do Decreto nº 9.235, de 15 de dezembro de 2017.
+
+**Art. 2º** Esta portaria entra em vigor na data de sua publicação.
+
+MARTA ABRAMO
+
+ANEXO (Autorização de Cursos EaD)
+
+| Nº de Ordem | Registro e-MEC nº | Curso | Nº de vagas totais anuais | Mantida | Mantenedora |
+| --- | --- | --- | --- | --- | --- |
+| 1 | 201932367 | PSICOLOGIA (Bacharelado) | 500 (quinhentas) | CENTRO UNIVERSITÁRIO ARAGUAIA | SOCIEDADE DE EDUCACAO E CULTURA DE GOIAS S/C LTDA |
+| 2 | 201932948 | PSICOLOGIA (Bacharelado) | 300 (trezentas) | CENTRO UNIVERSITÁRIO ATENAS | CENTRO EDUCACIONAL HYARTE-ML LTDA |
+| 3 | 201931502 | PSICOLOGIA (Bacharelado) | 1000 (uma mil) | CENTRO UNIVERSITÁRIO AUTÔNOMO DO BRASIL | COMPLEXO DE ENSINO SUPERIOR DO BRASIL LTDA. |
+| 4 | 201932239 | PSICOLOGIA (Bacharelado) | 1000 (uma mil) | CENTRO UNIVERSITÁRIO CAMPOS DE ANDRADE | ASSOCIACAO DE ENSINO CATEDRA |
+| 5 | 201932382 | PSICOLOGIA (Bacharelado) | 150 (cento e cinquenta) | CENTRO UNIVERSITÁRIO CHRISTUS | IPADE - INSTITUTO PARA O DESENVOLVIMENTO DA EDUCACAO LTDA. |
+| 6 | 202022378 | PSICOLOGIA (Bacharelado) | 400 (quatrocentas) | CENTRO UNIVERSITÁRIO DE EXCELÊNCIA ENIAC | EDVAC SERVICOS EDUCACIONAIS LTDA |
+| 7 | 201932469 | PSICOLOGIA (Bacharelado) | 500 (quinhentas) | CENTRO UNIVERSITÁRIO DE VALENÇA | FUNDACAO EDUCACIONAL D ANDRE ARCOVERDE |
+| 8 | 201931742 | PSICOLOGIA (Bacharelado) | 2000 (duas mil) | CENTRO UNIVERSITÁRIO DO NORTE | CENESUP - CENTRO NACIONAL DE ENSINO SUPERIOR LTDA |
+| 9 | 201931233 | PSICOLOGIA (Bacharelado) | 1930 (uma mil, novecentas e trinta) | CENTRO UNIVERSITÁRIO ESTÁCIO DE RIBEIRÃO PRETO | SOCIEDADE DE ENSINO SUPERIOR ESTACIO RIBEIRAO PRETO LTDA |
+| 10 | 201931240 | PSICOLOGIA (Bacharelado) | 1110 (uma mil, cento e dez) | CENTRO UNIVERSITÁRIO ESTÁCIO DE SANTA CATARINA - ESTÁCIO DE SANTA CATARINA | SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA |
+| 11 | 202015409 | PSICOLOGIA (Bacharelado) | 2000 (duas mil) | CENTRO UNIVERSITÁRIO FAEL | SOCIEDADE TECNICA EDUCACIONAL DA LAPA S/A |
+| 12 | 201931643 | PSICOLOGIA (Bacharelado) | 600 (seiscentas) | CENTRO UNIVERSITÁRIO FAI | UCEFF - UNIDADE CENTRAL DE EDUCACAO FAI FACULDADES LTDA |
+| 13 | 202023137 | PSICOLOGIA (Bacharelado) | 100 (cem) | CENTRO UNIVERSITÁRIO FAMESC | SOCIEDADE METROPOLITANA DE EDUCACAO, CULTURA E TECNOLOGIA SAO CARLOS S/S LTDA - ME |
+| 14 | 202015801 | PSICOLOGIA (Bacharelado) | 100 (cem) | CENTRO UNIVERSITÁRIO GUAIRACÁ | SESG - SOCIEDADE DE EDUCACAO SUPERIOR GUAIRACA LTDA |
+| 15 | 202008396 | PSICOLOGIA (Bacharelado) | 10000 (dez mil) | CENTRO UNIVERSITÁRIO INTA | ASSOCIACAO IGREJA ADVENTISTA MISSIONARIA - AIAMIS |
+| 16 | 202023484 | PSICOLOGIA (Bacharelado) | 2000 (duas mil) | CENTRO UNIVERSITÁRIO MAURÍCIO DE NASSAU DERBY | SER EDUCACIONAL S.A. |
+| 17 | 201932984 | PSICOLOGIA (Bacharelado) | 1500 (uma mil, quinhentas) | CENTRO UNIVERSITÁRIO METROPOLITANO DE MARINGÁ | UNIFAMMA - UNIAO DE FACULDADES METROPOLITANAS DE MARINGA LTDA |
+| 18 | 202013952 | PSICOLOGIA (Bacharelado) | 4300 (quatro mil, trezentas) | CENTRO UNIVERSITÁRIO SANTA MARIA DA GLÓRIA | ASSOCIACAO DE ENSINO EVEREST |
+| 19 | 202023146 | PSICOLOGIA (Bacharelado) | 500 (quinhentas) | CENTRO UNIVERSITÁRIO SETE DE SETEMBRO | SETE DE SETEMBRO ENSINO SUPERIOR LTDA. |
+| 20 | 201931392 | PSICOLOGIA (Bacharelado) | 500 (quinhentas) | CENTRO UNIVERSITÁRIO UNIBTA IM | OYA EDUCACIONAL LTDA |
+| 21 | 202023728 | PSICOLOGIA (Bacharelado) | 1000 (uma mil) | CENTRO UNIVERSITÁRIO ÚNICA | FACULDADE UNICA LTDA |
+| 22 | 202002181 | PSICOLOGIA (Bacharelado) | 500 (quinhentas) | FACULDADE AJES | ACADEMIA JUINENSE DE ENSINO SUPERIOR LTDA - ME |
+| 23 | 201931079 | PSICOLOGIA (Bacharelado) | 1000 (uma mil) | FACULDADE CATÓLICA PAULISTA | ASSOCIACAO EDUCACIONAL LATINO AMERICANA |
+| 24 | 201931836 | PSICOLOGIA (Bacharelado) | 1000 (uma mil) | FACULDADE UNYLEYA | UNYEAD EDUCACIONAL S.A. |
+| 25 | 201931331 | PSICOLOGIA (Bacharelado) | 20000 (vinte mil) | UNIVERSIDADE CESUMAR | CESUMAR - CENTRO DE ENSINO SUPERIOR DE MARINGA LTDA |
+| 26 | 201931638 | PSICOLOGIA (Bacharelado) | 2000 (duas mil) | UNIVERSIDADE CRUZEIRO DO SUL | CRUZEIRO DO SUL EDUCACIONAL S.A. |
+| 27 | 201932667 | PSICOLOGIA (Bacharelado) | 700 (setecentas) | UNIVERSIDADE DE UBERABA | SOCIEDADE EDUCACIONAL UBERABENSE |
+| 28 | 201931231 | PSICOLOGIA (Bacharelado) | 3330 (três mil, trezentas e trinta) | UNIVERSIDADE ESTÁCIO DE SÁ | SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA |
+| 29 | 202013949 | PSICOLOGIA (Bacharelado) | 1000 (uma mil) | UNIVERSIDADE IBIRAPUERA | ASSOCIACAO DE ENSINO IMPERIUM |
+| 30 | 202009025 | PSICOLOGIA (Bacharelado) | 500 (quinhentas) | UNIVERSIDADE TUIUTI DO PARANÁ | SET SOCIEDADE CIVIL EDUCACIONAL TUIUTI LIMITADA |

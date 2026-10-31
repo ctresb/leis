@@ -1,0 +1,40 @@
+---
+titulo: "PORTARIA Nº 194, DE 20 DE JANEIRO DE 2017"
+orgao: "Ministério da Saúde/SECRETARIA DE ATENÇÃO À SAÚDE"
+tipo: "Portaria"
+numero: "194"
+data: 2017-01-20
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 23/01/2017, seção 1, p. 46"
+data_publicacao: 2017-01-23
+edicao: "16"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-194-de-20-de-janeiro-de-2017-20590512"
+sha256_html_fonte: 428ab321dcd2190c18cb09534c12c0f793b6fa9722c868fab628ad3acd2c4dd0
+baixado_em: 2026-10-27
+---
+# PORTARIA Nº 194, DE 20 DE JANEIRO DE 2017
+
+PORTARIA Nº 194, DE 20 DE JANEIRO DE 2017
+
+Defere a Renovação do Certificado de EntidadeBeneficente de Assistência Social,na área de Saúde, da Associação dos Aposentadose Pensionistas dos Institutos eCaixas de Previdência da Bahia, com sedeem Salvador (BA).
+
+O Secretário de Atenção à Saúde, no uso de suas atribuições,
+
+Considerandoa Lei n° 12.101, de 27 de novembro de 2009e suas alterações, que dispõe sobre a certificação das entidades beneficentesde assistência social, regulamentada pelo Decreto nº 8.242,de 23 de maio de 2014;
+
+Considerando a competência prevista no art. 3º da Portaria nº834/GM/MS, de 26 de abril de 2016, que redefine os procedimentosrelativos à certificação das entidades beneficentes de assistência socialna área da saúde; e
+
+Considerando o Parecer Técnico nº 015/2017-CGCER/DCEBAS/SAS/MS,constante do Processo nº 25000.132165/2016-46, queconcluiu pelo atendimento dos requisitos constantes da Portaria nº834/GM/MS, de 26 de abril de 2016, do Decreto nº 8.242, de 23 demaio de 2014 e da Lei nº 12.101, de 27 de novembro de 2009, suasalterações e demais legislações pertinentes, resolve:
+
+**Art. 1º** Fica deferida a Renovação do Certificado de EntidadeBeneficente de Assistência Social, na área de Saúde, pela prestaçãoanual de serviços ao SUS no percentual mínimo de 60% (sessenta porcento), da Associação dos Aposentados e Pensionistas dos Institutos eCaixas de Previdência da Bahia, CNPJ nº 15.243.637/0001-86, comsede em Salvador (BA).
+
+**Parágrafo único.** A Renovação tem validade pelo período de31 de janeiro de 2016 à 30 de dezembro de 2021.
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação.
+
+FRANCISCO DE ASSIS FIGUEIREDO
+
+FRANCISCO DE ASSIS FIGUEIREDO
+
+Este conteúdo não substitui o publicado na versão certificada.

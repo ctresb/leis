@@ -1,0 +1,130 @@
+---
+titulo: "PORTARIA Nº 82, DE 24 DE JULHO DE 2019"
+orgao: "Ministério da Agricultura, Pecuária e Abastecimento/Secretaria de Política Agrícola"
+tipo: "Portaria"
+numero: "82"
+data: 2019-07-24
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 26/07/2019, seção 1, p. 22"
+data_publicacao: 2019-07-26
+edicao: "143"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-82-de-24-de-julho-de-2019-207241905"
+sha256_html_fonte: 97b4ddc34763e4677650fd32e5e2919bf361e1da120095e28d3dc5a387dfa9ba
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 82, DE 24 DE JULHO DE 2019
+
+PORTARIA Nº 82, DE 24 DE JULHO DE 2019
+
+O SECRETÁRIO DE POLÍTICA AGRÍCOLA, no uso de suas atribuições e competências estabelecidas pelo Decreto nº 9.667, de 02 de janeiro de 2019, e observado, no que couber, o contido nas Instruções Normativas nº 2, de 9 de outubro de 2008, publicada no Diário Oficial da União de 13 de outubro de 2008, da Secretaria de Política Agrícola, e nº 16, de 9 de abril de 2018, publicada no Diário Oficial da União de 12 de abril de 2018, do Ministério da Agricultura, Pecuária e Abastecimento, resolve:
+
+**Art. 1º** Aprovar o Zoneamento Agrícola de Risco Climático para a cultura de banana no Estado do Maranhão, conforme anexo.
+
+**Art. 2º** Esta Portaria tem vigência específica para o ano-safra definido no art. 1º e entra em vigor na data de sua publicação.
+
+EDUARDO SAMPAIO MARQUES
+
+## ANEXO
+
+1\. NOTA TÉCNICA
+
+A banana (Musa spp.) é alimento básico para milhões de pessoas no mundo tropical e considerada uma das principais fontes alimentares do mundo. O fruto está presente diariamente na mesa do brasileiro independente da classe social, garantindo emprego e renda para milhares de produtores.
+
+Os elementos climatológicos mais importantes para o desenvolvimento da planta são a temperatura do ar, a umidade relativa do ar, a precipitação, a velocidade do vento e a radiação solar.
+
+O déficit hídrico é prejudicial em todas as fases da planta, porém, se coincidir com os picos de floração e desenvolvimento dos frutos, acarretará em maiores prejuízos implicando em maior redução do potencial produtivo.
+
+A bananeira é uma frutífera perene, ou seja, após a implantação do pomar, está presente e exposta às condições do campo ao longo de todo o ano. Nesse contexto, as fases de implantação do pomar, desenvolvimento inicial e a fase produtiva da cultura, apresentam características e necessidades distintas para as plantas.
+
+Considerando que a composição dos riscos agroclimáticos é distinta, faz-se necessário, portanto, um zoneamento específico para o ciclo anual de produção e, a partir desse, uma delimitação das épocas mais propícias à implantação do pomar.
+
+Importante salientar que é possível a ocorrência de municípios onde o nível de risco climático é viável para o pomar estabelecido, mas é inviável para a implantação. Nesses locais, a implantação do pomar só se viabiliza com irrigação complementar. Portanto, podem ocorrer municípios onde o pomar em produção de sequeiro se viabiliza (Zoneamento de Produção), mas a implantação em condição de sequeiro não é possível (Zoneamento de Implantação). Porém, não pode ocorrer o contrário, ou seja, municípios onde a implantação é viável, mas a produção não, pois a implantação do pomar só faz sentido onde a produção é viável.
+
+Objetivou-se, com este zoneamento agrícola, identificar as áreas aptas e de menor risco climático para o ciclo anual de produção da lavoura de banana, bem como as datas mais favoráveis para a implantação do pomar.
+
+Para esta cultura, os riscos analisados, majoritariamente, foram aqueles associados a condições térmicas e hídricas prejudiciais ou impeditivas à cultura.
+
+I - CICLO E FASES FENOLÓGICAS
+
+I.1 - Ciclo Anual de Produção
+
+As diversas variedades de bananeiras foram agrupadas em três tipos, com características homogêneas.
+
+\- Bananeiras do tipo I ou Grupo Cavendish;
+
+\- Bananeiras do tipo II ou Grupo Maçã;
+
+\- Bananeiras do tipo III ou Grupo Prata;
+
+Foi considerado como período crítico e mais sensível às condições meteorológicas, a fase reprodutiva compreendida desde a floração até o ponto de maturação do fruto. Tipo I (110 dias), Tipo II (110 dias) e Tipo 3 (130 dias). As definições da duração de frutificação se concentraram em valores médios de períodos mais quentes quando os estresses por déficit hídrico são mais relevantes.
+
+I.2 - Implantação do Pomar
+
+As diversas variedades de bananeiras foram classificadas em um único grupo de características homogêneas (Cavendish, Maçã e Prata). Para fins de simulação foram definidas três fases de desenvolvimento.
+
+Fase 1 (Pegamento 30 dias), Fase 2 (Crescimento inicial 60 dias) e Fase 3 (Aceleração do crescimento 90 dias),
+
+II - SOLOS
+
+Os solos foram agrupados em três categorias quanto à capacidade de retenção de água associada à textura: Tipo 1 (textura arenosa), Tipo 2 (textura média) e Tipo 3 (textura argilosa), considerando uma profundidade efetiva média do sistema radicular de 0,6m, a capacidade de armazenamento dos solos foram, respectivamente, 42 mm, 66 mm e 90 mm.
+
+Para delimitação das áreas aptas ao cultivo da banana em condições de baixo risco, considerou-se o índice de satisfação das necessidades de água (ISNA), sendo adotado os seguintes critérios:
+
+II.1 - Ciclo Anual de Produção
+
+O risco hídrico foi quantificado a partir da frequência de ocorrência de anos ou safras cujo período crítico, do florescimento a maturação do fruto, esteve sujeito a uma condição de restrição hídrica, caracterizada pelo índice de satisfação das necessidades de água (ISNA) abaixo de 0,49 para bananeiras do Tipo I (Grupo Cavendish), 0,46 para bananeiras do Tipo II (Grupo Maçã) e 0,41 para bananeiras do Tipo III (Grupo Prata).
+
+Foi utilizado um valor médio e constante para o cultivo da bananeira, em fase de produção, de 0,85 para bananeiras Tipo I; 0,75 para bananeiras Tipo II; e de 1 para bananeiras Tipo III.
+
+II.2 - Implantação do pomar:
+
+O risco hídrico foi quantificado a partir da frequência de ocorrência de anos ou safras em que a Fase 1 ou Fase 3, estivessem sujeitas a uma condição de restrição hídrica, caracterizada pelo índice de satisfação das necessidades de água (ISNA) abaixo de 0,60.
+
+Para classificação do risco, foi observado a frequência de atendimento do parâmetro ISNA e dos limites térmicos, nos anos avaliados, permitindo definir os níveis de risco em 20% (80% dos anos atendidos), 30% (70% dos anos atendidos) e 40% (60% dos anos atendidos).
+
+NOTA:
+
+Entre as doenças que ameaçam a bananicultura, a Sigatoka-negra (Mycosphaerella fijiensis) é uma das mais graves que afetam a cultura, o desenvolvimento de lesões e a disseminação do fungo são influenciados pela umidade do ar, molhamento foliar, temperatura e vento.
+
+Na região amazônica do Brasil, em função da interação com o clima, a doença causa grandes prejuízos, sendo imprescindível a utilização de variedades resistentes de bananeira. Não é recomendado o plantio do tipo Cavendish, em função da elevada sensibilidade e não disponibilidade de variedades resistentes.
+
+2\. TIPOS DE SOLOS APTOS AO CULTIVO
+
+São aptos ao cultivo de banana no Estado os solos dos tipos 1, 2 e 3, observadas as especificações e recomendações contidas na Instrução Normativa nº 2, de 9 de outubro de 2008.
+
+Não são indicadas para o cultivo:
+
+\- áreas de preservação permanente, de acordo com a Lei 12.651, de 25 de maio de 2012;
+
+\- áreas com solos que apresentam profundidade inferior a 50 cm ou com solos muito pedregosos, isto é, solos nos quais calhaus e matacões ocupem mais de 15% da massa e/ou da superfície do terreno.
+
+3\. TABELA DE PERÍODOS DE PLANTIO
+
+<table><tr></tr><tr><td><p>Períodos</p></td><td><p>1</p></td><td><p>2</p></td><td><p>3</p></td><td><p>4</p></td><td><p>5</p></td><td><p>6</p></td><td><p>7</p></td><td><p>8</p></td><td><p>9</p></td><td><p>10</p></td><td><p>11</p></td><td><p>12</p></td></tr><tr><td><p>Datas</p></td><td><p>1º a 10</p></td><td><p>11 a 20</p></td><td><p>21 a 31</p></td><td><p>1º a 10</p></td><td><p>11 a 20</p></td><td><p>21 a 28</p></td><td><p>1º a 10</p></td><td><p>11 a 20</p></td><td><p>21 a 31</p></td><td><p>1º a 10</p></td><td><p>11 a 20</p></td><td><p>21 a 30</p></td></tr><tr><td><p>Meses</p></td><td><p>Janeiro</p></td><td><p>Fevereiro</p></td><td><p>Março</p></td><td><p>Abril</p></td></tr></table>
+
+<table><tr></tr><tr><td><p>Períodos</p></td><td><p>13</p></td><td><p>14</p></td><td><p>15</p></td><td><p>16</p></td><td><p>17</p></td><td><p>18</p></td><td><p>19</p></td><td><p>20</p></td><td><p>21</p></td><td><p>22</p></td><td><p>23</p></td><td><p>24</p></td></tr><tr><td><p>Datas</p></td><td><p>1º a 10</p></td><td><p>11 a 20</p></td><td><p>21 a 31</p></td><td><p>1º a 10</p></td><td><p>11 a 20</p></td><td><p>21 a 30</p></td><td><p>1º a 10</p></td><td><p>11 a 20</p></td><td><p>21 a 31</p></td><td><p>1º a 10</p></td><td><p>11 a 20</p></td><td><p>21 a 31</p></td></tr><tr><td><p>Meses</p></td><td><p>Maio</p></td><td><p>Junho</p></td><td><p>Julho</p></td><td><p>Agosto</p></td></tr></table>
+
+<table><tr></tr><tr><td><p>Períodos</p></td><td><p>25</p></td><td><p>26</p></td><td><p>27</p></td><td><p>28</p></td><td><p>29</p></td><td><p>30</p></td><td><p>31</p></td><td><p>32</p></td><td><p>33</p></td><td><p>34</p></td><td><p>35</p></td><td><p>36</p></td></tr><tr><td><p>Datas</p></td><td><p>1º a10</p></td><td><p>11 a 20</p></td><td><p>21 a 30</p></td><td><p>1º a 10</p></td><td><p>11 a 20</p></td><td><p>21 a 31</p></td><td><p>1º a 10</p></td><td><p>11 a 20</p></td><td><p>21 a 30</p></td><td><p>1º a 10</p></td><td><p>11 a 20</p></td><td><p>21 a 31</p></td></tr><tr><td><p>Meses</p></td><td><p>Setembro</p></td><td><p>Outubro</p></td><td><p>Novembro</p></td><td><p>Dezembro</p></td></tr></table>
+
+4\. MATERIAIS DE PROPAGAÇÃO
+
+Devem ser utilizadas no plantio mudas produzidas em viveiros ou unidades de propagação credenciados em conformidade com a legislação de sementes e mudas (Lei nº10.711, de 5 de agosto de 2003 e Decreto nº 5.153, de 23 de agosto de 2004).
+
+NOTA:
+
+1) Informações específicas sobre as cultivares indicadas devem ser obtidas junto aos respectivos produtores de mudas.
+
+5\. RELAÇÃO DOS MUNICÍPIOS APTOS E PERÍODOS INDICADOS PARA O CICLO DE PRODUÇÃO E IMPLANTAÇÃO DA BANANA
+
+5.1 BANANA TIPO II OU GRUPO MAÇÃ- PRODUÇÃO
+
+<table><tr></tr><tr><td><p><strong>MUNICÍPIOS</strong></p></td><td><p>PERÍODOS INDICADOS PARA MANEJO DURANTE O CICLO ANUAL DE PRODUÇÃO</p></td></tr><tr><td></td><td><p>SOLO 1</p></td><td><p>SOLO 2</p></td><td><p>SOLO 3</p></td></tr><tr><td></td><td><p>RISCO DE 20%</p></td><td><p>RISCO DE 30%</p></td><td><p>RISCO DE 40%</p></td><td><p>RISCO DE 20%</p></td><td><p>RISCO DE 30%</p></td><td><p>RISCO DE 40%</p></td><td><p>RISCO DE 20%</p></td><td><p>RISCO DE 30%</p></td><td><p>RISCO DE 40%</p></td></tr><tr><td><p>Amapá Do Maranhão</p></td><td><p></p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td></tr><tr><td><p>Bacuri</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td><td><p></p></td><td><p>1 a 36</p></td></tr><tr><td><p>Boa Vista Do Gurupi</p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td></tr><tr><td><p>Cândido Mendes</p></td><td><p></p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td></tr><tr><td><p>Carutapera</p></td><td><p></p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Centro Do Guilherme</p></td><td><p></p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td></tr><tr><td><p>Centro Novo Do Maranhão</p></td><td><p></p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td></tr><tr><td><p>Cururupu</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Godofredo Viana</p></td><td><p></p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td></tr><tr><td><p>Governador Nunes Freire</p></td><td><p></p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td></tr><tr><td><p>Junco Do Maranhão</p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Luís Domingues</p></td><td><p></p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td></tr><tr><td><p>Maracaçumé</p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td></tr><tr><td><p>Maranhãozinho</p></td><td><p></p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td></tr><tr><td><p>Mirinzal</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p>1 a 36</p></td></tr><tr><td><p>Nova Olinda Do Maranhão</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td></tr><tr><td><p>Pinheiro</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td><td><p></p></td><td><p>1 a 36</p></td></tr><tr><td><p>Presidente Médici</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td></tr><tr><td><p>Presidente Sarney</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td><td><p></p></td><td><p>1 a 36</p></td></tr><tr><td><p>Santa Helena</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td></tr><tr><td><p>Santa Luzia Do Paruá</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td></tr><tr><td><p>Serrano Do Maranhão</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td><td><p></p></td><td><p>1 a 36</p></td></tr><tr><td><p>Turiaçu</p></td><td><p></p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td></tr><tr><td><p>Turilândia</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td></tr></table>
+
+5.2 BANANA TIPO II OU GRUPO MAÇÃ - IMPLANTAÇÃO
+
+<table><tr></tr><tr><td><p>MUNICÍPIOS</p></td><td><p>PERÍODOS INDICADOS PARA PLANTIO DE MUDAS</p></td></tr><tr><td></td><td><p><strong>SOLO 1</strong></p></td><td><p>SOLO 2</p></td><td><p>SOLO 3</p></td></tr><tr><td></td><td><p>RISCO DE 20%</p></td><td><p>RISCO DE 30%</p></td><td><p>RISCO DE 40%</p></td><td><p>RISCO DE 20%</p></td><td><p>RISCO DE 30%</p></td><td><p>RISCO DE 40%</p></td><td><p>RISCO DE 20%</p></td><td><p>RISCO DE 30%</p></td><td><p>RISCO DE 40%</p></td></tr><tr><td><p>Amapá Do Maranhão</p></td><td><p>1 a 8</p></td><td><p></p></td><td><p>9 + 36</p></td><td><p>1 a 9</p></td><td><p></p></td><td><p>36</p></td><td><p>1 a 9</p></td><td><p></p></td><td><p>10 + 36</p></td></tr><tr><td><p>Boa Vista Do Gurupi</p></td><td><p>1 a 8</p></td><td><p>36</p></td><td><p>9</p></td><td><p>1 a 8</p></td><td><p>36 + 9</p></td><td><p></p></td><td><p>1 a 9</p></td><td><p>36</p></td><td><p>10</p></td></tr><tr><td><p>Cândido Mendes</p></td><td><p>1 a 8</p></td><td><p></p></td><td><p>9 + 36</p></td><td><p>1 a 9</p></td><td><p></p></td><td><p>36</p></td><td><p>1 a 9</p></td><td><p></p></td><td><p>10 + 36</p></td></tr><tr><td><p>Carutapera</p></td><td><p>1 a 8</p></td><td><p>9</p></td><td><p>36</p></td><td><p>1 a 9</p></td><td><p></p></td><td><p>10 + 36</p></td><td><p>1 a 9</p></td><td><p></p></td><td><p>10 + 36</p></td></tr><tr><td><p>Centro Do Guilherme</p></td><td><p>36 a 6</p></td><td><p>7</p></td><td><p>35</p></td><td><p>36 a 7</p></td><td><p>8</p></td><td><p>35</p></td><td><p>36 a 8</p></td><td><p></p></td><td><p>35</p></td></tr><tr><td><p>Centro Novo Do Maranhão</p></td><td><p>35 a 5</p></td><td><p></p></td><td><p>6 + 34</p></td><td><p>35 a 5</p></td><td><p>34 + 6</p></td><td><p></p></td><td><p>35 a 6</p></td><td><p>34 + 7</p></td><td><p></p></td></tr><tr><td><p>Godofredo Viana</p></td><td><p>1 a 8</p></td><td><p>9</p></td><td><p>36</p></td><td><p>1 a 9</p></td><td><p></p></td><td><p>10 + 36</p></td><td><p>1 a 9</p></td><td><p></p></td><td><p>10 + 36</p></td></tr><tr><td><p>Governador Nunes Freire</p></td><td><p>1 a 7</p></td><td><p>36 + 8</p></td><td><p></p></td><td><p>1 a 8</p></td><td><p>36</p></td><td><p>9</p></td><td><p>1 a 8</p></td><td><p>36 + 9</p></td><td><p></p></td></tr><tr><td><p>Junco Do Maranhão</p></td><td><p>1 a 7</p></td><td><p>36 + 8</p></td><td><p></p></td><td><p>1 a 8</p></td><td><p>36 + 9</p></td><td><p></p></td><td><p>1 a 9</p></td><td><p>36</p></td><td><p></p></td></tr><tr><td><p>Luís Domingues</p></td><td><p>1 a 8</p></td><td><p>9</p></td><td><p>36</p></td><td><p>1 a 9</p></td><td><p></p></td><td><p>10 + 36</p></td><td><p>1 a 9</p></td><td><p></p></td><td><p>10 + 36</p></td></tr><tr><td><p>Maracaçumé</p></td><td><p>1 a 7</p></td><td><p>36 + 8</p></td><td><p></p></td><td><p>1 a 8</p></td><td><p>36 + 9</p></td><td><p></p></td><td><p>1 a 9</p></td><td><p>36</p></td><td><p></p></td></tr><tr><td><p>Maranhãozinho</p></td><td><p>1 a 6</p></td><td><p>36 + 7</p></td><td><p>35</p></td><td><p>36 a 7</p></td><td><p>8</p></td><td><p>35</p></td><td><p>36 a 8</p></td><td><p></p></td><td><p>35</p></td></tr><tr><td><p>Turiaçu</p></td><td><p>1 a 8</p></td><td><p></p></td><td><p>36</p></td><td><p>1 a 8</p></td><td><p>9</p></td><td><p>36</p></td><td><p>1 a 9</p></td><td><p></p></td><td><p>36</p></td></tr></table>
+
+5.3 BANANA TIPO III OU GRUPO PRATA - PRODUÇÃO
+
+<table><tr></tr><tr><td><p>MUNICÍPIOS</p></td><td><p>PERÍODOS INDICADOS PARA MANEJO DURANTE O CICLO ANUAL DE PRODUÇÃO</p></td></tr><tr><td></td><td><p>SOLO 1</p></td><td><p>SOLO 2</p></td><td><p>SOLO 3</p></td></tr><tr><td></td><td><p>RISCO DE 20%</p></td><td><p>RISCO DE 30%</p></td><td><p>RISCO DE 40%</p></td><td><p>RISCO DE 20%</p></td><td><p>RISCO DE 30%</p></td><td><p>RISCO DE 40%</p></td><td><p>RISCO DE 20%</p></td><td><p>RISCO DE 30%</p></td><td><p>RISCO DE 40%</p></td></tr><tr><td><p>Boa Vista Do Gurupi</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p>1 a 36</p></td><td><p></p></td><td><p></p></td><td><p>1 a 36</p></td></tr><tr><td><p>Carutapera</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p>1 a 36</p></td></tr><tr><td><p>Centro Novo Do Maranhão</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p>1 a 36</p></td></tr></table>

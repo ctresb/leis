@@ -1,0 +1,41 @@
+---
+titulo: "Solução de Consulta Cosit nº 98191, de 9 de agosto de 2018"
+orgao: "Coordenação-Geral de Tributação"
+tipo: "Solução de Consulta"
+numero: "98191"
+data: "2018-08-09"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 22/08/2018, seção 1, página 23"
+data_publicacao: "2018-08-22"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/94285/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/94285/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "94285"
+sha256_texto: "a9b80a4a3ed8d8f729f2f2bea9a50b3c5a0a19b70459e667d8c6e810d9e3dacd"
+baixado_em: "2026-10-16"
+---
+# Solução de Consulta Cosit nº 98191, de 9 de agosto de 2018
+
+ASSUNTO: Classificação de Mercadorias  
+EMENTA: Código NCM: 8535.10.00 Mercadoria: Fusível tipo cartucho acoplado à sua base, para tensão de 7,2 kV a 17,5 kV, utilizado para proteger o transformador de potencial em caso de curto-circuito.  
+DISPOSITIVOS LEGAIS: RGI 1 (Notas 4 e 5 da Seção XVI e texto da posição 85.35), RGI 6 (texto da subposição 8535.10.00) da NCM constante da TEC, aprovada pela Resolução Camex nº 125, de 15 de dezembro de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 29 de dezembro de 2016, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 1.788, de 2018, e alterações posteriores.
+
+.
+
+  34456789 4 7596759 4  !"#$%&#&'( 
+
+)!! \*+,-./01/+,2345 678  9 7 ! :6;<6= >?:@ABC>9=9>DEA)FGFH>)AH9> I(J:GB$KLK%&M%MM G78!7(!BNO0PQ,R1ST/U-V1OUW/-U/TR-+/X0O-Y-0,ZT-V-1,[0\/+,]Z2 ^\_-4]Z̀^\_ZO1SRSa-+/T-V-TV/1,.,V/1V-[0b/Vc-+/V+,T/1,[US-R,c U-0/+,UOV1/USVUOS1/d )(e((fCJ!(ghij4kl/1-0m,`+-n,o\/p\_j,1,q1/+-T/0So\/ 5`dr`sZhijtk1,q1/+-0OYT/0So\/5`r`d43d33s+-luv U/[01-[1,+- wxuZ-TV/Q-+-T,R-h,0/ROo\/u-c,q[y42`Z+,4`+,+,a,cYV/+,234tZ ,+-wSTSZ-TV/Q-+-T,R/z,UV,1/[y5d\*`3Z+,2\*+,+,a,cYV/+,234tZ, 0OY0P+S/0,q1V-P+/0+-0l,0WZ-TV/Q-+-0T,R/z,UV,1/[ymr`Z+,4\*\*2Z, -1O-RSa-+-0T,R-jlhN{[y4d]55Z+,2345Z,-R1,V-o|,0T/01,VS/V,0d
+
+H!I7(
+
+=!}  2d wV-1-~0,+,bO0PQ,R1ST/U-V1OUW/-U/TR-+/X0O-Y-0,ZT-V-1,[0\/+,]Z2^\_-4]Z̀^\_Z O1SRSa-+/T-V-TV/1,.,V/1V-[0b/Vc-+/V+,T/1,[US-R,cU-0/+,UOV1/USVUOS1/d  2
+
+! "#$%&&'('#%)\*+('&#%$,-.-/#%,+/'%&(01,%.-12%3&-4#+1(+/.-+#%&+41%&5-6/%& 7-/%'&8%/%%912-/8/-2%)\*+,+:'&2-.%;%/.+1'<%,+=579>,%?+1@-1)\*+912-/1%#'+1%$&+A/- +:'&2-.%;%/.+1'<%,+,-B-&'61%)\*+-,-?+,'('#%)\*+,-C-/#%,+/'%&41%&5-6/%&7-/%'& ?+.8$-.-12%/-&,+C-/#+&0$=57?>41%&5-6/%&7-/%'&?+.8$-.-12%/-&,%D'8'=57?ED'8'>4 1+&8%/-#-/-&,-#$%&&'('#%)\*+,+?+.'2F,+:'&2-.%;%/.+1'<%,+,%G/6%1'<%)\*+C01,'%$ ,%&",0%1%&=GC">-1+&,'2%.-&,+C-/#+&0$4-4&0A&','%/'%.-12-41%&H+2%&IJ8$'#%2'@%& ,+:'&2-.%;%/.+1'<%,+=H-&K>! L! "579M4%8$'#N@-$-.2+,+&+&#%&+&4,'&8O-P0-+&2Q20$+&,%&:-)O-&4?%8Q20$+&- :0A#%8Q20$+&2F.%8-1%&@%$+/'1,'#%2'@+R8%/%+&-(-'2+&$-6%'&4%#$%&&'('#%)\*+S,-2-/.'1%,% 8-$+&2-J2+&,%&8+&')O-&-,%&1+2%&,-:-)\*+-,-?%8Q20$+-4,-&,-P0-1\*+&-T%.#+12/N/'%& %+&2-J2+&,%&/-(-/',%&8+&')O-&-1+2%&48-$%&579U%V! W! G#+1&0$-12-&06-/-P0-+(0&Q@-$%#+8$%,+XA%&-&-T%'1#$0Q,+1%8+&')\*+YW!W40.% @-<P0-%(01)\*+8/'1#'8%$,+#+1T012+S8/+2-6-/+&'&2-.%-.#%&+,-#0/2+#'/#0'2+1+ 2/%1&(+/.%,+/,-8+2-1#'%$! V! "&H+2%&L-W,%:-)\*+Z[9,-2-/.'1%.P0-R \]^\_`abcde\_afb\_fghaicb\_ea\_jefkicblme\_dn\_fghaicbo\_onpb\_jecoqiqardb\_dn\_ nsnfncqeo\_dioqicqeo\_tfnofe\_onubvbdeo\_ea\_siwbdeo\_ncqvn\_oi\_uev\_jecdaqeox\_ dioueoiqiyeo\_dn\_qvbcofioomex\_jbkeo\_nszqvijeo\_ea\_eaqveo\_dioueoiqiyeo{x\_dn\_|evfb\_b\_ dnonfunc}bv\_jecpacqbfncqn\_afb\_|aclme\_knf\_dnqnvficbdbx\_jefuvnncdidb\_nf\_ afb\_dbo\_ueoil~no\_de\_burqase\_\\_ea\_de\_burqase\_x\_e\_jecpacqe\_jsbooi|ijb^on\_cb\_ ueoilme\_jevvnouecdncqn\_\_|aclme\_han\_dnonfunc}b]\_ ]^\_bvb\_b\_busijblme\_dnoqbo\_eqbox\_b\_dnceficblme\_fghaicbo\_jefuvnncdn\_ habiohanv\_fghaicbox\_bubvns}eox\_dioueoiqiyeox\_icoqvafncqeo\_n\_fbqnvibio\_diynvoeo\_ jiqbdeo\_cbo\_ueoil~no\_deo\_burqaseo\_\\_ea\_]\_\_ ! "&H-&K/-(-/-12-&XH+2%L,%:-)\*+Z[9,-('1-.R t]]]{\_ usijb^on\_noqb\_eqb\_habcde\_afb\_fghaicb\_ea\_afb\_jefkicblme\_dn\_fghaicbo\_ome\_ jecoqiqardbo\_uev\_nsnfncqeo\_dioqicqeo\_jecjnkideo\_ubvb\_nnjaqbv\_jecpacqbfncqn\_ afb\_|aclme\_knf\_dnqnvficbdb\_icjsardb\_nf\_afb\_dbo\_ueoil~no\_de\_burqase\_\\_eax\_ fbio\_|vnhncqnfncqnx\_de\_burqase\_]\_\_|bqe\_dn\_hanx\_uev\_vb~no\_dn\_jefedidbdnx\_ uev\_nnfusex\_noqno\_nsnfncqeo\_noqnpbf\_onubvbdeo\_ea\_icqnvsiwbdeo\_uev\_jecdaqeo\_tdn\_ bvx\_dn\_wgo\_jefuvifideox\_dn\_snex\_nqj]{x\_dioueoiqiyeo\_dn\_qvbcofioomex\_jbkeo\_ nszqvijeo\_ea\_eaqveo\_dioueoiqiyeox\_cme\_on\_eu~n\_\_jsbooi|ijblme\_de\_jecpacqe\_cb\_ ueoilme\_jevvnouecdncqn\_\_|aclme\_han\_noqn\_nnjaqb]\_ b\_bjnulme\_db\_uvnoncqn\_eqbx\_b\_nuvnoome\_ jecjnkideo\_ubvb\_nnjaqbv\_ jecpacqbfncqn\_afb\_|aclme\_knf\_dnqnvficbdb\_bkvbcwn\_oefncqn\_bo\_fghaicbo\_n\_ jefkicbl~no\_dn\_fghaicbo\_cnjnoogvibo\_ubvb\_vnbsiblme\_db\_|aclme\_uvuvib\_be\_ jecpacqex\_han\_|evfb\_afb\_acidbdn\_|acjiecbsx\_njnqabcde^on\_bo\_fghaicbo\_ea\_ bubvns}eo\_han\_qnc}bf\_|acl~no\_baisibvno\_n\_cme\_jecjevvbf\_ubvb\_b\_|aclme\_de\_ jecpacqe]\_ Y! G#+1T012+&+A#+1&0$2%&-2/%2%,-0.%.NP0'1%41%%#-8)\*+,%H+2%W,%:-)\*+Z[94 #+1&2'20Q,%8+/-$-.-12+&,'&2'12+&=A%&--(0&Q@-$>#+1#-A',+&8%/%-J-#02%/#+1T012%.-12- 0.%(01)\*+A-.,-2-/.'1%,%=8/+2-)\*+,-#'/#0'2+&-$S2/'#+&>'1#$0Q,%1%8+&')\*+YW!W!
+
+! "#$$%&'()%\*+'(%+,-.%/0'1%234567'8%$9#:1%;#/0'<=4>\*'.'?@A?8'.,%$$-&-.%B $#?%+'$-/0'C:!D:\*EA#$#1#$1'F(%#)$AF+'$-/G#$1#+(-)#-('?HI#,J ]^] KLM8N  LM O8MMLPQ R 8SSO T8 R LM8PQ R 78MOUPQ ROVPQ  S 8WQ 78SOMS O 8XMOS YL M 8W8TLRO8MMLM8 RS T 7 M8 RS MZSOMS O RLMZ MO ROTO7 M8 788 Q R LM8 M8 78LOS 788 Q  Y8OTO7 M8 78 7[RT7 78S MM8 88 M  S 8SM8 RSOW 78\ PQ [RLMT8 Q  L8MOM \_\_\_` abbcddd e3fghhi1jkeiji31lhm3fgh abbn eop31jhq abbd e0hii1kl1jhhhjj3r1jh abbsd etkjkejk1u2vkl1jhlhh51h3rjh1jhlhri1lh h51wh2vkl1jhlh1lkx abbyddd ez3j1 5{! |234}#$8%F#,#.#EA#%.,%$$-&-.%/0'1#)#(.%1'(-%$?%$$AF+'$-/G#$1#A)%)#$)% +'$-/0'~1#8#()-?%1%\*+%(%#&#-8'$,#%-$\*+#,'$8#8'$1#$$%$$AF+'$-/G#$#1%$?'8%$1# $AF+'$-/0'(#$+#.8-I%$\*#?8#?1#?1'B$#EA#%+#?%$$0'.')+%(I#-$$AF+'$-/G#$1#)#$)' ?HI#,!)%I#EA#%&A?/0'1'.'?@A?8'~+('8##('.-(.A-8'#,~8(-.'+'()#-'1'&A$HI#,\* .,%$$-&-.%B$#?%$AF+'$-/0'C:D:!5{!{{\*EA#?0'+'$$A-1#$1'F(%)#?8'$(#-'?%-$!   55! ')F%$#?%$2#(%$3#(%-$+%(%4?8#(+(#8%/0'1';-$8#)%%()'?-%1'234567'8%$ 9#:1%;#/0'<=4#8#8'1%+'$-/0'C:!D:>\*234}68#8'1%$AF+'$-/0'C:D:!5{!{{>1% 7.'?$8%?8#1%\*%+('I%1%+#,%2#$',A/0'%)#?5:\*1#5:1#1##)F('1#{5}\* #1%-+-\*%+('I%1%+#,'"#.(#8'?C!:{\*1#1#1##)F('1#{5}\*##)$AF$H1-'$ #8(%H1'$1%$7#$\*%+('I%1%$+#,'"#.(#8'?9D:\*1#5 \*#%8A%,-%1%$+#,%472? 5!CC\*1#{5C\*#%,8#(%/G#$+'$8#(-'(#$\*'%(8#&%8'$'F.'?$A,8%.,%$$-&-.%B$#?'.1-'7 !  ¡¢£¡¢¤¥¦£§¨ |+('I%1%%;',A/0'1#'?$A,8%+#,%D©A()%\*.'?$8-8AH1%+#,%ª'(8%(-%2 ?5!5\*1#5D1#%F(-,1#{5\*«$#$$0'1# 1#%'$8'1#{5C!"-IA,A#B$##+AF,-EA#B$# ?'$8#()'$1'%(8!C1%4?$8(A/0'7'()%8-I%2?5!9}9\*1#C1#)%-'1#{59! 2#)#8%B$#'+(#$#?8#+('.#$$'+%(%.-¬?.-%1'-?8#(#$$%1'#1#)%-$ +('I-1¬?.-%$.%FHI#-$! ­®¯¯°±²³´µ¶°·°̧²¹º»±¸»¼µ ­®¯¯°±²³´µ¶°·°̧²¹º»±¸»¼µ ½¢§¡ ¾¢¿¦ÀÁ§£ ¥ À§¡¢À¢¡¢¦ Â ¨§Ã¢ |A1-8'(B-$.%,1%2#.#-8%#1#(%,1'(%$-, |A1-8'(B-$.%,1%2#.#-8%#1#(%,1'(%$-, #)F('1%D©A()% #)F('1%D©A()%
+
+­®¯¯°±²³´µ¶°·°̧²¹º»±¸»¼µ ­®¯¯°±²³´µ¶°·°̧²¹º»±¸»¼µ Ä§Å¢¢ ¥À§ Æ§¦¢¢§Ã§Ç ¡¢È§¢¡§ |A1-8'(%B-$.%,1%2#.#-8%#1#(%,1'(%$-, |A1-8'(%B-$.%,1%2#.#-8%%#1#(%,1'(%$-, 2#,%8'(% ª(#$-1#?8#1%DA()% µ µ
+

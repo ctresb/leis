@@ -1,0 +1,36 @@
+---
+titulo: "PORTARIA Nº 2.189, DE 20 DE DEZEMBRO DE 2019"
+orgao: "Ministério da Educação/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "2189"
+data: 2019-12-20
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 23/12/2019, seção 1, p. 115"
+data_publicacao: 2019-12-23
+edicao: "247"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-2.189-de-20-de-dezembro-de-2019-234971698"
+sha256_html_fonte: de44c88ec8f44e4c21c7d7911ee545adddf03ed8c771ddcfa39dad63b94c01e5
+baixado_em: 2026-10-27
+---
+# PORTARIA Nº 2.189, DE 20 DE DEZEMBRO DE 2019
+
+PORTARIA Nº 2.189, DE 20 DE DEZEMBRO DE 2019
+
+O MINISTRO DE ESTADO DA EDUCAÇÃO, Substituto, no uso da atribuição que lhe confere o art. 87, parágrafo único, inciso II, da Constituição, considerando o disposto na Lei nº 12.677, de 25 de junho de 2012, publicada no Diário Oficial da União de 26 de junho de 2012, e na Portaria nº 246, de 15 de abril de 2016, publicada no Diário Oficial da União de 18 de abril de 2016, e o que consta do Processo nº 23000.029517/2019-02, resolve:
+
+**Art. 1º** Ficam remanejados, de imediato, do Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP para o Ministério da Educação, os Cargos de Direção constantes do Anexo I a esta Portaria
+
+**Art. 2º** Ficam distribuídos, do Ministério da Educação para as Instituições Federais de Ensino que integram a Rede Federal de Educação Profissional, Científica e Tecnológica, os Cargos de Direção, as Funções Gratificadas e as Funções Comissionadas de Coordenação de Curso a elas referentes, constantes do Anexo II a esta Portaria.
+
+**Art. 3º** Esta Portaria entra em vigor na data de sua publicação.
+
+ANTONIO PAULO VOGEL DE MEDEIROS
+
+## ANEXO I — Da IFE para o MEC
+
+<table><tr></tr><tr><td><p><strong>CÓD.</strong></p></td><td><p><strong>ÓRGÃO</strong></p></td><td><p><strong>CD1</strong></p></td><td><p><strong>CD2</strong></p></td><td><p><strong>CD3</strong></p></td><td><p><strong>CD4</strong></p></td><td><p><strong>FG1</strong></p></td><td><p><strong>FG2</strong></p></td></tr><tr><td><p>26439</p></td><td><p>Instituto Federal de Educação, Ciência e Tecnologia de São Paulo</p></td><td><p></p></td><td><p></p></td><td><p>4</p></td><td><p>1</p></td><td><p></p></td><td><p></p></td></tr><tr><td><p></p></td><td><p><strong>Totais</strong></p></td><td><p><strong>0</strong></p></td><td><p><strong>0</strong></p></td><td><p><strong>4</strong></p></td><td><p><strong>1</strong></p></td><td><p><strong>0</strong></p></td><td><p><strong>0</strong></p></td></tr></table>
+
+## ANEXO II — Do MEC para a IFE
+
+<table><tr></tr><tr><td><p><strong>CÓD.</strong></p></td><td><p><strong>ÓRGÃO</strong></p></td><td><p><strong>CD1</strong></p></td><td><p><strong>CD2</strong></p></td><td><p><strong>CD3</strong></p></td><td><p><strong>CD4</strong></p></td><td><p><strong>FG1</strong></p></td><td><p><strong>FG2</strong></p></td><td><p><strong>FCC</strong></p></td></tr><tr><td><p>26201</p></td><td><p>Colégio Pedro II</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p>1</p></td></tr><tr><td><p>26401</p></td><td><p>Instituto Federal de Educação, Ciência e Tecnologia do Acre</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p>1</p></td></tr><tr><td><p>26403</p></td><td><p>Instituto Federal de Educação, Ciência e Tecnologia do Amazonas</p></td><td><p></p></td><td><p></p></td><td><p>2</p></td><td><p>2</p></td><td><p></p></td><td><p>4</p></td><td><p></p></td></tr><tr><td><p>26405</p></td><td><p>Instituto Federal de Educação, Ciência e Tecnologia do Ceará</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p>12</p></td></tr><tr><td><p>26407</p></td><td><p>Instituto Federal de Educação, Ciência e Tecnologia Goiano</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p>2</p></td></tr><tr><td><p>26409</p></td><td><p>Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p>8</p></td></tr><tr><td><p>26410</p></td><td><p>Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p>8</p></td></tr><tr><td><p>26411</p></td><td><p>Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p>12</p></td></tr><tr><td><p>26414</p></td><td><p>Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p>1</p></td></tr><tr><td><p>26416</p></td><td><p>Instituto Federal de Educação, Ciência e Tecnologia do Pará</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p>7</p></td></tr><tr><td><p>26417</p></td><td><p>Instituto Federal de Educação, Ciência e Tecnologia da Paraíba</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p>10</p></td></tr><tr><td><p>26419</p></td><td><p>Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p>7</p></td></tr><tr><td><p>26421</p></td><td><p>Instituto Federal de Educação, Ciência e Tecnologia de Rondônia</p></td><td><p></p></td><td><p></p></td><td><p>1</p></td><td><p>1</p></td><td><p></p></td><td><p>2</p></td><td><p></p></td></tr><tr><td><p>26424</p></td><td><p>Instituto Federal de Educação, Ciência e Tecnologia do Tocantins</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p>6</p></td></tr><tr><td><p>26426</p></td><td><p>Instituto Federal de Educação, Ciência e Tecnologia do Amapá</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p>3</p></td></tr><tr><td><p>26432</p></td><td><p>Instituto Federal de Educação, Ciência e Tecnologia Paraná</p></td><td><p></p></td><td><p></p></td><td><p>1</p></td><td><p>1</p></td><td><p></p></td><td><p>2</p></td><td><p>21</p></td></tr><tr><td><p>26435</p></td><td><p>Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte</p></td><td><p></p></td><td><p></p></td><td><p>1</p></td><td><p>1</p></td><td><p></p></td><td><p>2</p></td><td><p></p></td></tr><tr><td><p>26439</p></td><td><p>Instituto Federal de Educação, Ciência e Tecnologia de São Paulo</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p>5</p></td></tr><tr><td><p></p></td><td><p><strong>Totais</strong></p></td><td><p><strong>0</strong></p></td><td><p><strong>0</strong></p></td><td><p><strong>5</strong></p></td><td><p><strong>5</strong></p></td><td><p><strong>0</strong></p></td><td><p><strong>10</strong></p></td><td><p><strong>104</strong></p></td></tr></table>

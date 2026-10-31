@@ -1,0 +1,166 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 4.323, DE 22 DE OUTUBRO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Terceira Diretoria/Gerência de Produtos de Higiene, Perfumes, Cosméticos e Saneantes"
+tipo: "Resolução"
+numero: "4323"
+data: 2020-10-22
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 26/10/2020, seção 1, p. 113"
+data_publicacao: 2020-10-26
+edicao: "205"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.323-de-22-de-outubro-de-2020-284741123"
+sha256_html_fonte: e224d859e07c0d4b2b044ed8fbad33a3d911d1675d017ece862fe1159a969029
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 4.323, DE 22 DE OUTUBRO DE 2020
+
+RESOLUÇÃO-RE Nº 4.323, DE 22 DE OUTUBRO DE 2020
+
+O Gerente de Produtos de Higiene, Cosméticos, Perfumes e Saneantes, substituto, no uso das atribuições que lhe confere o art. 164, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º** Deferir as petições de Cancelamento de Notificação de Produto Saneante de Risco 1 por ato de ofício, conforme relação anexa.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+WEBERT GONÇALVES SANTANA
+
+## ANEXO
+
+NOME DA EMPRESA: IVAN P RAMOS PRODUTOS QUIMICOS
+
+AUTORIZAÇÃO: 3.02556-1
+
+NOME DO PRODUTO E MARCA: ÁLCOOL 70º
+
+VERSÃO: [SEM NOME]
+
+NUMERO DE PROCESSO: 25351.237554/2020-63
+
+NUMERO DE REGISTRO: 000
+
+VENDA E EMPREGO: PRODUTO DE VENDA LIVRE
+
+APRESENTAÇÃO: FILME DE POLIETILENO + BOMBONA PLASTICA TRANSPARENTE
+
+VALIDADE DO PRODUTO: 6 Ano(s)
+
+CATEGORIA: 3222021 LIMPADOR DE USO GERAL
+
+ASSUNTO DA PETIÇÃO: 3199 Cancelamento de Notificação de Produto de Risco 1 por ato de ofício.
+
+EXPEDIENTE DA PETIÇÃO: 3538484/20-1
+
+NOME DO PRODUTO E MARCA: ÁLCOOL 70º
+
+VERSÃO: [SEM NOME]
+
+NUMERO DE PROCESSO: 25351.237554/2020-63
+
+NUMERO DE REGISTRO: 000
+
+VENDA E EMPREGO: PRODUTO DE VENDA LIVRE
+
+APRESENTAÇÃO: FILME DE POLIETILENO + FRASCO DE PLASTICO OPACO
+
+VALIDADE DO PRODUTO: 6 Ano(s)
+
+CATEGORIA: 3222021 LIMPADOR DE USO GERAL
+
+ASSUNTO DA PETIÇÃO: 3199 Cancelamento de Notificação de Produto de Risco 1 por ato de ofício.
+
+EXPEDIENTE DA PETIÇÃO: 3538484/20-1
+
+NOME DO PRODUTO E MARCA: ÁLCOOL GEL 70º
+
+VERSÃO: [SEM NOME]
+
+NUMERO DE PROCESSO: 25351.261351/2020-98
+
+NUMERO DE REGISTRO: 000
+
+VENDA E EMPREGO: PRODUTO DE VENDA LIVRE
+
+APRESENTAÇÃO: CAIXA DE PAPELAO + FRASCO DE PLASTICO OPACO
+
+VALIDADE DO PRODUTO: 6 Ano(s)
+
+CATEGORIA: 3222021 LIMPADOR DE USO GERAL
+
+ASSUNTO DA PETIÇÃO: 3199 Cancelamento de Notificação de Produto de Risco 1 por ato de ofício.
+
+EXPEDIENTE DA PETIÇÃO: 3538488/20-3
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NOME DA EMPRESA: NOVA RENKO INDUSTRIAL LTDA - EPP
+
+AUTORIZAÇÃO: 3.03286-3
+
+NOME DO PRODUTO E MARCA: MIRAX FOG
+
+NUMERO DE PROCESSO: 25351.161106/2020-81
+
+NUMERO DE REGISTRO: 000
+
+VENDA E EMPREGO: PRODUTO DE VENDA LIVRE,PRODUTO DE USO PROFISSIONAL OU DE VENDA RESTRITA
+
+APRESENTAÇÃO: MIRAX FOG + BOMBONA PLASTICA + CAIXA DE PAPELAO
+
+VALIDADE DO PRODUTO: 24 Meses
+
+CATEGORIA: 4300213 DETERGENTE PARA USO ESPECÍFICO
+
+ASSUNTO DA PETIÇÃO: 3199 Cancelamento de Notificação de Produto de Risco 1 por ato de ofício.
+
+EXPEDIENTE DA PETIÇÃO: 3568227/20-2
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NOME DA EMPRESA: OH AMBIENTAL E TECNOLOGIA LTDA
+
+AUTORIZAÇÃO: 3.09384-0
+
+NOME DO PRODUTO E MARCA: BELLBAC CLB TAB
+
+NUMERO DE PROCESSO: 25351.872117/2020-91
+
+NUMERO DE REGISTRO: 000
+
+VENDA E EMPREGO: PRODUTO DE USO PROFISSIONAL OU DE VENDA RESTRITA
+
+APRESENTAÇÃO: BELLBAC CLB TAB + BLISTER DE PAPEL / PLASTICO + CAIXA DE CARTOLINA
+
+VALIDADE DO PRODUTO: 24 Meses
+
+CATEGORIA: 3222053 LIMPADOR DE AR CONDICIONADO
+
+ASSUNTO DA PETIÇÃO: 3199 Cancelamento de Notificação de Produto de Risco 1 por ato de ofício.
+
+EXPEDIENTE DA PETIÇÃO: 3353996/20-1
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NOME DA EMPRESA: TEXAS QUÍMICA INDUSTRIA E COMERCIO DE PRODUTOS QUÍMICOS LTDA - ME
+
+AUTORIZAÇÃO: 3.06962-7
+
+NOME DO PRODUTO E MARCA: GEL ANTISSÉPTICO
+
+VERSÃO: [SEM NOME]
+
+NUMERO DE PROCESSO: 25351.200662/2020-81
+
+NUMERO DE REGISTRO: 000
+
+VENDA E EMPREGO: PRODUTO DE VENDA LIVRE
+
+APRESENTAÇÃO: BOMBONA PLASTICA + GALAO PLASTICO
+
+VALIDADE DO PRODUTO: 12 Ano(s)
+
+CATEGORIA: 3222021 LIMPADOR DE USO GERAL
+
+ASSUNTO DA PETIÇÃO: 3199 Cancelamento de Notificação de Produto de Risco 1 por ato de ofício.
+
+EXPEDIENTE DA PETIÇÃO: 3153405/20-8

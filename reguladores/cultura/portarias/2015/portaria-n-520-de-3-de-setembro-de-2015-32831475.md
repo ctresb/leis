@@ -1,0 +1,36 @@
+---
+titulo: "PORTARIA Nº 520, DE 3 DE SETEMBRO DE 2015"
+orgao: "Ministério da Cultura/SECRETARIA DE FOMENTO E INCENTIVO À CULTURA"
+tipo: "Portaria"
+numero: "520"
+data: 2015-09-03
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 04/09/2015, seção 1, p. 6"
+data_publicacao: 2015-09-04
+edicao: "170"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-520-de-3-de-setembro-de-2015-32831475"
+sha256_html_fonte: f116d8ae4b70b521fc9b052f671ed3f93a92674f4305e150af6838622e6ba35c
+baixado_em: 2026-10-28
+---
+# PORTARIA Nº 520, DE 3 DE SETEMBRO DE 2015
+
+PORTARIA Nº 520, DE 3 DE SETEMBRO DE 2015
+
+O SECRETÁRIO DE FOMENTO E INCENTIVO À CULTURA- SUBSTITUTO, no uso de suas atribuições legais, que lheconfere a Portaria nº 77 de 18 de fevereiro de 2015 e o art. 4º daPortaria nº 120, de 30 de março de 2010, resolve:
+
+**Art. 1.º** - Aprovar o(s) projeto(s) cultural(is), relacionado(s)no(s) anexo(s) desta Portaria, para o(s) qual(is) o(s) proponente(s)fica(m) autorizado(s) a captar recursos, mediante doações ou patrocínios,na forma prevista no § 1º do artigo 18 e no artigo 26 da Lein.º 8.313, de 23 de dezembro de 1991, alterada pela Lei nº 9.874, de23 de novembro de 1999.
+
+**Art. 2.º** - Esta portaria entra em vigor na data de sua publicação.
+
+RAPHAEL VALADARES ALVES
+
+## ANEXO I
+
+ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )152450 - Depois da Terceira OndaJARBAS JOSE ALBUQUERQUE CESAR NETO 02437845461CNPJ/CPF: 18.285.954/0001-53Processo: 01400028302201597Cidade: Rio de Janeiro - RJ;Valor Aprovado: R$ 159.642,00Prazo de Captação: 04/09/2015 à 31/12/2015Resumo do Projeto: Esse projeto visa uma temporada de 2 meses (24 apresentações)do espetáculo Depois da Terceira Onda. Tendo inspiração no documentárioLesson Plan - A História da Terceira Onda, dirigido por Philip Neele David H. Jeffery, e no filme alemão A Onda, de Dennis Gansel, o espetáculoDepois da Terceira Onda surge a partir da necessidade dos artistas envolvidosde discutir os sistemas totalitários da atualidade. O projeto visa especular demaneira artística questões que perpassam temas políticos, em especial a ideiade Autocracia. Em 1967 o professor Ron Jones - indagado por um aluno arespeito do Holocausto, sobre como o povo alemão teria sido tão facilmentecooptado por Hitler - cria na Cubberley High School, em Palo Alto, nos EstadosUnidos, o experimento chamado The Third Wave (A Terceira Onda).Esse consistia em um jogo entre ele e sua turma, em que seria recriado153751 - Segunda Temporada Lírica 2015 Theatro Municipal de SãoPauloInstituto Brasileiro de Gestão Cultural - IBGCCNPJ/CPF: 09.300.324/0001-10Processo: 01400044075201547Cidade: São Paulo - SP;Valor Aprovado: R$ 11.434.526,27Prazo de Captação: 04/09/2015 à 31/12/2015Resumo do Projeto: O presente projeto tem por objetivo montar,produzir e apresentar 04 óperas da segunda temporada lírica do TheatroMunicipal de São Paulo durante o segundo semestre do ano de2015, mantendo a excelência, a qualidade e a tradicionalidade domais renomado teatro da cidade e proporcionando a população oacesso a música clássica e erudita de qualidade. Serão ao total 30(trinta) apresentações, sendo 07 (sete) da ópera Thaïs, 08 (oito) daópera MANON LESCAUT, 08 (oito) da ópera LOHENGRIN e 07(sete) da ópera COSÌ FAN TUTTE.153014 - TERTÚLIA CULTURAL DE PELOTASMJ Produtora de Eventos LtdaCNPJ/CPF: 10.911.103/0001-67Processo: 01400029031201597Cidade: Porto Alegre - RS;Valor Aprovado: R$ 418.600,00Prazo de Captação: 04/09/2015 à 31/12/2015Resumo do Projeto: O TERTÚLIA CULTURAL DE PELOTAS tratasede um festival artístico competitivo a ser realizado na cidade dePelotas/RS no mês de outubro de 2015. As modalidades a seremdisputada são DANÇAS TRADICIONAIS GAÚCHAS, CHULA,GAITA (ACORDEOM), VIOLÃO, TROVA e DECLAMAÇÃO. Osmelhores classificados em cada uma das categorias serão contempladoscom premiações em dinheiro e troféus. O evento acontecerá desexta à domingo, com apresentações de importantes grupos de dançado Rio Grande do Sul encerramento cada uma das duas primeirasnoites do evento. Toda a programação terá entrada franca. O eventoserá realizado nas instalações do CTG Cel. Tomaz Luiz Osório.151890 - YermaCAVALO MARINHO PRODUÇÕES ARTÍSTICAS LTDA - MECNPJ/CPF: 13.089.737/0001-74Processo: 01400015822201530Cidade: Rio de Janeiro - RJ;
+
+Valor Aprovado: R$ 876.600,00Prazo de Captação: 04/09/2015 à 31/12/2015Resumo do Projeto: O Projeto visa a realização da montagem etemporada do espetáculo Yerma, de Federico Garcia Lorca, para temporadade 02 meses na cidade do Rio de Janeiro totalizando 32apresentações, com previsão de estreia no segundo semestre de2015.ÁREA: 3 MÚSICA (Artigo 18 , § 1º )153342 - TOQUE INSTRUMENTAL BRASILEIRONACE- NUCLEO DE ACOES CULTURAIS ESTRATEGICAS EIRELLI- MECNPJ/CPF: 19.653.679/0001-46Processo: 01400029744201551Cidade: Salvador - BA;Valor Aprovado: R$ 841.330,00Prazo de Captação: 04/09/2015 à 31/12/2015Resumo do Projeto: O projeto abre um espaço de diálogo da musicainstrumental com o público baiano, solidificando o encontro de grandesartistas em 25 apresentações, sendo 9 grupos convidados de outrosestados, com 2 apresentações para cada um e mais 7 apresentações aserem realizadas pelo pelo grupo base do projeto. Esse grupo base, umsepteto formado por reconhecidos instrumentistas baianos, se revezaráentre Joatan Nascimento, Paulinho Andrade, Luizinho Assis, HamiltinhoPamplona, Cesário Leone, Ricardo Augusto, Victor Brasil, ldsonGalter e Bruno Aranha e será acrescido de artistas locais a seremconvidados a cada noite. Esse projeto, divido em duas partes " ToqueInstrumental Brasileiro -Local " e "Toque Instrumental Brasileiro- Nacional"é um desdobramento do Bossa Jazz CLUB, iniciativa lançadaem 2014, que ficou em cartaz por 4 meses com grande sucesso.ÁREA: 4 ARTES VISUAIS (Artigo 18 , § 1º )150678 - Low RiderCarlos Eduardo Montolar LossoCNPJ/CPF: 281.983.808-17Processo: 01400000901201546Cidade: São Paulo - SP;Valor Aprovado: R$ 560.532,50Prazo de Captação: 04/09/2015 à 31/12/2015Resumo do Projeto: Produção de um livro de arte e exposição sobrea cultura Low Rider no Brasil ? Dos clássicos carros adaptados,pintados e/ou grafitados à estética ?chicana? na música, na moda, nagastronomia e a filosofia de vida.ÁREA: 5 PATRIMÔNIO CULTURAL (Artigo 18 , § 1º )1410285 - Restauração da Igreja Matriz São PedroPRODUTORA CULTURAL ATALAIA DO NORTECNPJ/CPF: 06.321.047/0001-33Processo: 01400060902201469Cidade: São José do Norte - RS;Valor Aprovado: R$ 626.160,00Prazo de Captação: 04/09/2015 à 31/12/2015Resumo do Projeto: A presente proposta prevê o restauro para aIgreja Matriz de São Pedro, atual Catedral São Pedro, tombada peloIPHAN em 1938. Trata-se da igreja matriz do Estado do Rio Grandedo Sul, um bem de suma importância para a cultura sul-rio-grandensee para o Brasil. Aqui está proposto sanar as patologias identificadas eas demandas do parecer 250/2012 do IPHAN em relação às necessidadesde urgência para o restauro da Igreja Matriz de São Pedro.Esta proposta tem por meta custear a elaboração dos projetos específicose complementares. Bem, como prevê o monitoramento daqualidade das obras executadas até a entrega final do restauro.
+
+RAPHAEL VALADARES ALVES
+
+Este conteúdo não substitui o publicado na versão certificada.

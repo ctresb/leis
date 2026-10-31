@@ -1,0 +1,120 @@
+---
+titulo: "RESOLUÇÃO RE Nº 1.101, DE 6 DE Abril DE 2022"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos e Produtos Biológicos"
+tipo: "Resolução"
+numero: "1101"
+data: 2022-04-06
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 07/04/2022, seção 1, p. 112"
+data_publicacao: 2022-04-07
+edicao: "67"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.101-de-6-de-abril-de-2022-391566573"
+sha256_html_fonte: 79413c4ec90a2970a48eef5ed66002106d47619e2de89a5c3d5ff04f64f074c1
+baixado_em: 2026-10-20
+---
+# RESOLUÇÃO RE Nº 1.101, DE 6 DE Abril DE 2022
+
+RESOLUÇÃO RE Nº 1.101, DE 6 DE Abril DE 2022
+
+O Gerente-Geral de Medicamentos e Produtos Biológicos, no uso das atribuições que lhe confere o art. 100, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Deferir petições relacionadas à Gerência-Geral de Medicamentos, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor 90 (noventa) dias a partir da data de sua publicação.
+
+GUSTAVO MENDES LIMA SANTOS
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+PRINCIPIO(S) ATIVO(S)
+
+----------------------------
+
+BLANVER FARMOQUIMICA E FARMACÊUTICA S.A. 53359824000119
+
+FERRIPOLIMALTOSE
+
+NORIPURUM 25351.081008/2021-42 07/2029
+
+11197 ESPECÍFICO - SOLICITAÇÃO DE TRANSFERÊNCIA DE TITULARIDADE DE REGISTRO (OPERAÇÃO COMERCIAL) 7221351/21-0
+
+1.1524.0013.001-1 18 Meses
+
+50 MG/ML SOL OR CT FR GOT PLAS PET AMB X 30 ML
+
+1.1524.0013.002-1 24 Meses
+
+100 MG COM MAST CT BL AL/AL X 20
+
+1.1524.0013.003-8 24 Meses
+
+10 MG/ML XPE CT FR PLAS PET AMB X 100 ML
+
+1.1524.0013.004-6 18 Meses
+
+50 MG/ML SOL OR CT FR GOT PLAS PET AMB X 15 ML
+
+1.1524.0013.005-4 24 Meses
+
+100 MG COM MAST CT BL AL/AL X 30
+
+1.1524.0013.006-2 24 Meses
+
+10 MG/ML XPE CT FR PLAS PET AMB X 120 ML
+
+1.1524.0013.007-0 18 Meses
+
+50 MG/ML SOL OR CT FR GOT PLAS PET AMB X 20 ML
+
+1.1524.0013.008-9 24 Meses
+
+10 MG/ML XPE CT FR PLAS PET AMB X 20 ML
+
+1.1524.0013.009-7 24 Meses
+
+100 MG COM MAST CT BL AL/AL X 10
+
+1.1524.0013.010-0 24 Meses
+
+100 MG COM MAST CT BL AL/AL X 90
+
+NORIPURUM FÓLICO 25351.081011/2021-66 07/2029
+
+11197 ESPECÍFICO - SOLICITAÇÃO DE TRANSFERÊNCIA DE TITULARIDADE DE REGISTRO (OPERAÇÃO COMERCIAL) 7221355/21-5
+
+1.1524.0014.001-7 24 Meses
+
+100 MG + 0,35 MG COM MAST CT BL AL/AL X 20
+
+ÁCIDO FÓLICO + FERRIPOLIMALTOSE
+
+1.1524.0014.002-5 24 Meses
+
+100 MG + 0,35 MG COM MAST CT BL AL/AL X 30
+
+ÁCIDO FÓLICO + FERRIPOLIMALTOSE
+
+1.1524.0014.003-3 24 Meses
+
+100 MG + 0,35 MG COM MAST CT BL AL/AL X 10
+
+FERRIPOLIMALTOSE + ÁCIDO FÓLICO
+
+1.1524.0014.004-1 24 Meses
+
+100 MG + 0,35 MG COM MAST CT BL AL/AL X 90
+
+FERRIPOLIMALTOSE + ÁCIDO FÓLICO

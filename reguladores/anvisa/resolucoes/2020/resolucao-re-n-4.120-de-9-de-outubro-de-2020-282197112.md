@@ -1,0 +1,130 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 4.120, DE 9 DE OUTUBRO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "4120"
+data: 2020-10-09
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 13/10/2020, seção 1, p. 82"
+data_publicacao: 2020-10-13
+edicao: "196"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.120-de-9-de-outubro-de-2020-282197112"
+sha256_html_fonte: 17ef92a2b7e0a02189f4e04e34510bf5a98fc9b350fc006e25c2b1b501403b81
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 4.120, DE 9 DE OUTUBRO DE 2020
+
+RESOLUÇÃO-RE Nº 4.120, DE 9 DE OUTUBRO DE 2020
+
+O Coordenador de Autorização de Funcionamento de Empresas, substituto, no uso das atribuições que lhe confere o Art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º.** Conceder Autorização de Funcionamento para Empresas constantes no anexo desta Resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+STOA INDUSTRIA COSMETICA LTDA / 37.088.088/0001-55
+
+25351.854824/2020-03 / 4024269
+
+721 - AFE - CONCESSÃO - COSMÉTICOS, PERFUMES E PRODUTOS PARA HIGIENE - INDÚSTRIA (SOMENTE MATRIZ) / 2841959201
+
+--------------------------------------
+
+PETONY TRANSPORTES LTDA / 08.375.242/0001-71
+
+25351.854764/2020-11 / 3097076
+
+737 - AFE - CONCESSÃO - SANEANTES DOMISSANITÁRIOS - TRANSPORTADORA (SOMENTE MATRIZ) / 2841795209
+
+--------------------------------------
+
+CRUZ COMERCIO DE MEDICAMENTOS LTDA / 26.748.035/0001-05
+
+25351.854926/2020-11 / 1243283
+
+702 - AFE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA (SOMENTE MATRIZ) / 2842069200
+
+--------------------------------------
+
+NATURAL ERVAS PRODUTOS NATURAIS LTDA / 03.021.976/0001-39
+
+25351.844355/2020-14 / 4024255
+
+721 - AFE - CONCESSÃO - COSMÉTICOS, PERFUMES E PRODUTOS PARA HIGIENE - INDÚSTRIA (SOMENTE MATRIZ) / 2806279208
+
+--------------------------------------
+
+A7 COMERCIAL DISTRIBUIDORA DE MEDICAMENTOS LTDA / 33.256.509/0001-59
+
+25351.854766/2020-18 / 8207239
+
+856 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - DISTRIBUIDORA / 2841797201
+
+--------------------------------------
+
+KURARAY SOUTH AMERICA LTDA / 12.333.284/0003-89
+
+25351.855004/2020-21 / 8207256
+
+859 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - IMPORTADORA / 2842155203
+
+--------------------------------------
+
+HERVAL INDUSTRIA DE MOVEIS COLCHOES E ESPUMAS LTDA / 16.670.753/0001-44
+
+25351.854986/2020-33 / 8207242
+
+861 - AFE - CONCESSÃO - PRODUTO PARA SAÚDE - FABRICANTE / 2842135202
+
+--------------------------------------
+
+ISABELLA FERNANDA LOPES DA SILVA FERNANDES / 35.072.521/0001-39
+
+25351.844354/2020-61 / 8207225
+
+860 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - VAREJISTA / 2806278201
+
+--------------------------------------
+
+EXTRABOM INDUSTRIA E COMERCIO DE PRODUTOS DE LIMPEZA LTDA / 36.672.807/0001-18
+
+25351.855042/2020-83 / 3097093
+
+712 - AFE - CONCESSÃO - SANEANTES - INDÚSTRIA (SOMENTE MATRIZ) / 2842198204
+
+--------------------------------------
+
+ESMALTEC S/A / 02.948.030/0002-30
+
+25351.036839/2020-89 / 8207273
+
+861 - AFE - CONCESSÃO - PRODUTO PARA SAÚDE - FABRICANTE / 3313990207
+
+--------------------------------------
+
+JUCAFARMA DISTRIBUIDORA DE MEDICAMENTOS LTDA ME / 00.524.514/0001-46
+
+25351.416664/2020-90 / 8207211
+
+856 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - DISTRIBUIDORA / 1078518203
+
+--------------------------------------
+
+ESMALTEC S/A / 02.948.030/0001-50
+
+25351.036932/2020-93 / 8207260
+
+861 - AFE - CONCESSÃO - PRODUTO PARA SAÚDE - FABRICANTE / 3314091206
+
+--------------------------------------
+
+RDGS CERRUTI TRANSPORTE E LOGÍSTICA LTDA / 30.300.117/0001-51
+
+25351.854826/2020-94 / 3097080
+
+737 - AFE - CONCESSÃO - SANEANTES DOMISSANITÁRIOS - TRANSPORTADORA (SOMENTE MATRIZ) / 2841961206

@@ -1,0 +1,250 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 4.291, DE 22 DE OUTUBRO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Segunda Diretoria/Gerência-Geral de Medicamentos e Produtos Biológicos"
+tipo: "Resolução"
+numero: "4291"
+data: 2020-10-22
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 26/10/2020, seção 1, p. 87"
+data_publicacao: 2020-10-26
+edicao: "205"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.291-de-22-de-outubro-de-2020-284739029"
+sha256_html_fonte: d42aaa25f22b15f4ffd9d04806b14d961b3840c685beb507ed1358adbf751051
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 4.291, DE 22 DE OUTUBRO DE 2020
+
+RESOLUÇÃO-RE Nº 4.291, DE 22 DE OUTUBRO DE 2020
+
+O Gerente-Geral de Medicamentos e Produtos Biológicos, no uso das atribuições que lhe confere o art. 130, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º** Publicar o cancelamento de registro a pedido dos medicamentos similares, genéricos e novos, sob o nº de expedientes constantes do anexo desta Resolução, nos termos do art. 51 da Lei nº 9.784 de 1999.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+GUSTAVO MENDES LIMA SANTOS
+
+## ANEXO
+
+RAZÃO SOCIAL CNPJ
+
+N° PROCESSO EXPEDIENTE CANCELAMENTO MARCA COMERCIAL M.S.
+
+--------------------------------------------------
+
+1FARMA INDUSTRIA FARMACEUTICA LTDA - 48.113.906/0001-49
+
+25000.003600/93-41 2489903/20-8 NEMOXIL 104810041
+
+--------------------------------------------------
+
+ABBOTT LABORATÓRIOS DO BRASIL LTDA - 56.998.701/0001-16
+
+25351.015844/2004-38 2873061/20-5 NIAR 105530268
+
+--------------------------------------------------
+
+ASTRAZENECA DO BRASIL LTDA - 60.318.797/0001-00
+
+25351.334050/2015-23 3339270/20-6 TAXELINA 116180258
+
+25351.334064/2015-47 3338290/20-5 MINOLA 116180252
+
+--------------------------------------------------
+
+BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A - 05.161.069/0001-10
+
+25351.110311/2016-01 2889749/20-8 LANZACOR 155840525
+
+25351.539103/2011-41 2888969/20-0 NEO FLUOXETIN 155840224
+
+25351.543241/2011-61 3281714/20-2 NEO ITRAX 155840274
+
+25351.596662/2015-16 3462617/20-4 CAPOTRINEO 155840493
+
+25351.980159/2016-18 2889287/20-9 PROXACIN 155840512
+
+25351.542925/2011-04 3313165/20-1 HISTAMIN EXPECTO 155840339
+
+--------------------------------------------------
+
+COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. - 61.082.426/0002-07
+
+25351.748963/2015-23 3622772/20-2 POLARAMINE EXPECTORANTE 178170817
+
+--------------------------------------------------
+
+CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. - 44.734.671/0001-51
+
+25351.359136/2018-10 3333525/20-7 VOLVER 102980473
+
+--------------------------------------------------
+
+EMS S/A - 57.507.378/0003-65
+
+25351.082787/2013-21 2657564/20-7 hemitartarato de zolpidem 102351108
+
+--------------------------------------------------
+
+EMS SIGMA PHARMA LTDA - 00.923.140/0001-31
+
+25351.245420/2007-49 2588828/20-5 pantoprazol sódico sesqui-hidratado 135690461
+
+25351.194649/2002-01 3451975/20-1 ALEXA 135690160
+
+--------------------------------------------------
+
+GERMED FARMACEUTICA LTDA - 45.992.062/0001-65
+
+25351.628268/2007-36 2910116/20-6 BIANCORT 105830703
+
+--------------------------------------------------
+
+GRÜNENTHAL DO BRASIL FARMACÊUTICA LTDA. - 10.555.143/0001-13
+
+25351.078403/2017-03 2306787/20-0 ZURAMPIC 186100008
+
+--------------------------------------------------
+
+JANSSEN-CILAG FARMACÊUTICA LTDA - 51.780.468/0001-87
+
+25992.001915/66 3232304/20-2 ASCARIDIL 112363331
+
+--------------------------------------------------
+
+LABORATORIO FARMACEUTICO DO ESTADO DE PERNAMBUCO GOVERNADOR MIGUEL ARRAES S/A - LAFEPE - 10.877.926/0001-13
+
+25351.002274/01-20 2419747/20-5 LAFEPE-DIDANOSINA 101830114
+
+--------------------------------------------------
+
+LABORATÓRIO QUÍMICO FARMACÊUTICO DO EXÉRCITO - 00.394.452/0001-03
+
+25351.098516/2019-45 3182222/20-3 losartana potássica 112080083
+
+--------------------------------------------------
+
+LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA - 05.044.984/0001-26
+
+25351.392725/2015-59 3464058/20-4 diclofenaco sódico 167730515
+
+25351.488367/2016-60 2778211/20-5 STILRAM SL 167730513
+
+--------------------------------------------------
+
+LEO PHARMA LTDA - 11.424.477/0001-10
+
+25351.711132/2019-20 3184990/20-3 BI-NERISONA 185690013
+
+--------------------------------------------------
+
+LIBBS FARMACÊUTICA LTDA - 61.230.314/0001-75
+
+25351.191782/2006-21 2657915/20-4 FAULDPAMI 100330141
+
+25351.285673/2009-83 3489455/20-1 TEGAN 100330155
+
+--------------------------------------------------
+
+MARJAN INDÚSTRIA E COMÉRCIO LTDA - 60.726.692/0001-81
+
+25000.009810/96-50 3366530/20-3 OSTENAN 101550195
+
+--------------------------------------------------
+
+MERCK S/A - 33.069.212/0001-84
+
+25351.002968/2003-72 2385773/20-1 loratadina 100890298
+
+--------------------------------------------------
+
+MERCK SHARP & DOHME FARMACEUTICA LTDA - 45.987.013/0001-34
+
+25000.002072/97-73 2490228/20-4 PROPECIA 100290019
+
+--------------------------------------------------
+
+MOMENTA FARMACÊUTICA LTDA. - 14.806.008/0001-54
+
+25351.056502/2018-73 3259158/20-6 GENKI XR 194270088
+
+--------------------------------------------------
+
+MULTILAB INDÚSTRIA E COMÉRCIO DE PRODUTOS FARMACÊUTICOS LTDA - 92.265.552/0001-40
+
+25351.725466/2014-76 2717785/20-8 atenolol 118190169
+
+--------------------------------------------------
+
+MYLAN LABORATORIOS LTDA - 11.643.096/0001-22
+
+25351.191716/2017-03 3077275/20-3 cloridrato de ranitidina 188300024
+
+--------------------------------------------------
+
+SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA - 61.286.647/0001-16
+
+25351.117038/2006-65 3138724/20-1 CEFALEXINA 100470441
+
+25351.181912/2002-94 3046140/20-5 lisinopril 100470376
+
+25000.033570/96-12 3140557/20-6 KEFLAXINA 100470241
+
+25351.022586/00-14 3046276/20-2 LISINOVIL 100470326
+
+25351.331688/2009-64 2845848/20-6 simeticona 100470485
+
+--------------------------------------------------
+
+SANOFI MEDLEY FARMACÊUTICA LTDA. - 10.588.595/0010-92
+
+25351.661017/2014-10 3043274/20-0 dropropizina 183260015
+
+25351.666753/2014-32 2810202/20-9 acebrofilina 183260037
+
+25351.680716/2014-29 2807034/20-8 mesilato de doxazosina 183260184
+
+25351.707349/2014-87 2940730/20-3 citrato de sildenafila 183260233
+
+25351.700450/2014-61 2874742/20-9 simeticona 183260232
+
+--------------------------------------------------
+
+SANOFI-AVENTIS FARMACÊUTICA LTDA - 02.685.377/0001-57
+
+25351.723767/2018-99 2939570/20-4 DOGMATIL 113001206
+
+--------------------------------------------------
+
+SUN FARMACÊUTICA DO BRASIL LTDA - 05.035.244/0001-23
+
+25351.200444/2010-99 2518255/20-2 cloridrato de donepezila 146820035
+
+--------------------------------------------------
+
+UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A - 60.665.981/0001-18
+
+25351.416397/2012-36 3417802/20-3 acetato de ciproterona 104971386
+
+25000.031515/97-14 2969178/20-8 PROSTMAN 104971201
+
+--------------------------------------------------
+
+WYETH INDÚSTRIA FARMACÊUTICA LTDA - 61.072.393/0001-33
+
+25351.674055/2017-58 2606217/20-8 succinato de desvenlafaxina monoidratado 121100438
+
+25351.006840/2003-88 2605257/20-1 TOTELLE 121100228
+
+25351.097647/2017-01 2619212/20-8 SOLU-MEDROL 121100425
+
+25351.098015/2017-03 2753539/20-8 FARMORUBICINA 121100402
+
+25351.056924/2017-68 2294324/20-2 IRIMAC 121100346
+
+25351.097503/2017-08 3353682/20-1 TYZEL 121100393
+
+25351.098002/2017-04 2617393/20-0 EUNADES CS 121100406
+
+25351.422511/2019-48 3623230/20-1 tigeciclina 121100471

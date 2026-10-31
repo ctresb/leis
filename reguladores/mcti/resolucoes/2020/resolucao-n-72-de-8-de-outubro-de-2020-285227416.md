@@ -1,0 +1,38 @@
+---
+titulo: "RESOLUÇÃO Nº 72, DE 8 DE OUTUBRO DE 2020"
+orgao: "Ministério da Ciência, Tecnologia e Inovações/Secretaria de Empreendedorismo e Inovação/Comitê  da  Área  de  Tecnologia  da  Informação"
+tipo: "Resolução"
+numero: "72"
+data: 2020-10-08
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 28/10/2020, seção 1, p. 22"
+data_publicacao: 2020-10-28
+edicao: "207"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-n-72-de-8-de-outubro-de-2020-285227416"
+sha256_html_fonte: 34d7637bd4e85027bc353e777be8c6d70b8aaf157d10c10ba90249035cc44eb7
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO Nº 72, DE 8 DE OUTUBRO DE 2020
+
+RESOLUÇÃO Nº 72, DE 8 DE OUTUBRO DE 2020
+
+Credenciamento do MACKENZIE - Universidade Presbiteriana Mackenzie, unidade Programa de Pós-graduação em Engenharia Elétrica como instituição habilitada à execução de atividades de pesquisa e desenvolvimento, para os fins previstos no § 1º do art. 11 da Lei nº 8.248, de 23 de outubro de 1991 e suas alterações.
+
+O Comitê da Área de Tecnologia da Informação - CATI, tendo em vista o disposto no art. 31 do Decreto n° 5.906, de 26 de setembro de 2006, e considerando o que consta no Processo MCTI n° 01245.004254/2020-49, de 20 de Agosto de 2020, resolve:
+
+**Art. 1º** Credenciar o MACKENZIE - Universidade Presbiteriana Mackenzie, unidade Programa de Pós-graduação em Engenharia Elétrica, CNPJ nº 60.967.551/0001-50, para executar atividades de pesquisa e desenvolvimento nos termos do disposto no § 1º do art. 11 da Lei nº 8.248, de 1991, e suas alterações.
+
+**Art. 2º** A Instituição credenciada deverá atender às seguintes condições:
+
+I - na execução das atividades de pesquisa e desenvolvimento - P&D em convênios com empresas beneficiárias dos incentivos da Lei nº 8.248, de 1991, e suas alterações, o repasse a terceiros deve ficar limitado apenas à realização de atividades de natureza complementar ou aos serviços não disponíveis na instituição, quando devidamente justificáveis;
+
+II - as atividades de pesquisa e desenvolvimento em tecnologias da informação previstas nos convênios e seus termos aditivos, celebrados com empresas beneficiárias dos incentivos da Lei nº 8.248, de 1991, e suas alterações, deverão ser executadas na unidade indicada, utilizando seus recursos humanos e materiais, salvo nos casos devidamente justificáveis;
+
+III - demonstrar, a qualquer tempo, a manutenção do cumprimento dos requisitos exigidos para credenciamento.
+
+**Art. 3º** Esta Resolução tem a validade de 2 anos e entra em vigor a partir de 01 de Outubro de 2020.
+
+PAULO CESAR REZENDE DE CARVALHO ALVIM
+
+Secretário Executivo do Comitê

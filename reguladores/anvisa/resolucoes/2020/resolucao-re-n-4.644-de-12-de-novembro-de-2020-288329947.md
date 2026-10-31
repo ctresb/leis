@@ -1,0 +1,134 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 4.644, DE 12 DE NOVEMBRO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Segunda Diretoria/Gerência-Geral de Medicamentos e Produtos Biológicos"
+tipo: "Resolução"
+numero: "4644"
+data: 2020-11-12
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 16/11/2020, seção 1, p. 107"
+data_publicacao: 2020-11-16
+edicao: "218"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.644-de-12-de-novembro-de-2020-288329947"
+sha256_html_fonte: 30ec64bad1c03c0cf6959884be7cd8d56921edb5577f8bc8612762637eb50576
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 4.644, DE 12 DE NOVEMBRO DE 2020
+
+RESOLUÇÃO-RE Nº 4.644, DE 12 DE NOVEMBRO DE 2020
+
+O Gerente-Geral de Medicamentos e Produtos Biológicos, no uso das atribuições que lhe confere o art. 130, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º** Cancelar o registro sanitário de medicamentos, produtos biológicos e insumos farmacêuticos, ou de apresentações, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor a partir da data de sua publicação.
+
+GUSTAVO MENDES LIMA SANTOS
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+PRINCIPIO(S) ATIVO(S)
+
+----------------------------
+
+AS ERVAS CURAM INDUSTRIA FARMACEUTICA LTDA 79634572000182
+
+NASTURTIUM OFFICINALE R.BR.
+
+AGRITOSS 25351.717258/2008-55 11/2029
+
+10089 FITOTERAPICO - CANCELAMENTO DE REGISTRO DO MEDICAMENTO - ANVISA 3877740/20-1
+
+1.1678.0016.003-1 24 Meses
+
+0,15ML/ML XPE CT FR VD AMB X 100 ML + CP MED
+
+1.1678.0016.004-8 24 Meses
+
+0,15 ML/ML SOL OR CT FR VD AMB X 100ML + CP MED
+
+----------------------------
+
+GLAXOSMITHKLINE BRASIL LTDA 33247743000110
+
+SAL DE ANDREWS 25001.020510/84 10/2029
+
+10084 MEDICAMENTO NOVO - CANCELAMENTO DE REGISTRO DA APRESENTAÇÃO - ANVISA 3876304/20-4
+
+1.0107.0128.001-0 18 Meses
+
+172 MG PO EFEV CX FR PLAS OPC X 100 G
+
+1.0107.0128.003-7 18 Meses
+
+172 MG PO EFEV CX 50 ENV AL/PLAS X 5 G
+
+----------------------------
+
+LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA 05044984000126
+
+cloridrato de ciprofloxacino monoidratado
+
+CIPROCILIN 25351.640007/2010-51 10/2028
+
+10834 SIMILAR - CANCELAMENTO DE REGISTRO PARA ADEQUAÇÃO À RDC 31/2014 0565896/15-9
+
+1.6773.0176.008-1 24 Meses
+
+500 MG COM REV CT BL AL PLAS OPC X 6
+
+1.6773.0176.009-1 24 Meses
+
+500 MG COM REV CT BL AL PLAS OPC X 14
+
+1.6773.0176.010-3 24 Meses
+
+500 MG COM REV CT BL AL PLAS OPC X 20
+
+1.6773.0176.011-1 24 Meses
+
+500 MG COM REV CT BL AL PLAS OPC X 50
+
+----------------------------
+
+ORIENT MIX FITOTERÁPICOS DO BRASIL LTDA. 73657876000189
+
+Frangula purshiana (DC.) A. Gray
+
+CÁSCARA SAGRADA ORIENT 25000.002105/96-40 04/2013
+
+10089 FITOTERAPICO - CANCELAMENTO DE REGISTRO DO MEDICAMENTO - ANVISA 3882093/20-5
+
+1.2397.0009.001-4 24 Meses
+
+250 MG CAP GELAT DURA FR PLAS OPC X 50
+
+1.2397.0009.002-2 24 Meses
+
+250 MG CAP GELAT DURA CT BL AL PLAS TRANS X 45
+
+PANAX GINSENG C. A. MEY.
+
+GINSENG ORIENT 25351.186281/2002-08 04/2013
+
+10089 FITOTERAPICO - CANCELAMENTO DE REGISTRO DO MEDICAMENTO - ANVISA 3882207/20-5
+
+1.2397.0013.001-6 24 Meses
+
+100 MG CAP GEL DURA FR PLAS OPC X 60
+
+1.2397.0013.002-4 24 Meses
+
+100 MG CAP GEL DURA CT BL AL PLAS TRANSX 45

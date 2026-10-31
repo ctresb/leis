@@ -1,0 +1,100 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 1.675, DE 20 DE MAIO DE 2022"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/3ª Diretoria/Gerência-Geral de Toxicologia"
+tipo: "Resolução"
+numero: "1675"
+data: 2022-05-20
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 23/05/2022, seção 1, p. 267"
+data_publicacao: 2022-05-23
+edicao: "96"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.675-de-20-de-maio-de-2022-401804483"
+sha256_html_fonte: 65efbdaa3b638ba277012a67cdac7351b7e1bf4fab3b55dbc114ccbe50f3ab17
+baixado_em: 2026-10-20
+---
+# RESOLUÇÃO-RE Nº 1.675, DE 20 DE MAIO DE 2022
+
+RESOLUÇÃO-RE Nº 1.675, DE 20 DE MAIO DE 2022
+
+O Gerente-Geral de Toxicologia, no uso das atribuições que lhe confere o art.114, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Reprovar os atos de avaliação toxicológica para fins de registro de produtos agrotóxicos, componentes e afins, identificados no anexo, com o respectivo resultado da análise.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+CARLOS ALEXANDRE OLIVEIRA GOMES
+
+## ANEXO
+
+RAZÃO SOCIAL/CNPJ
+
+MARCA COMERCIAL
+
+NÚMERO DO PROCESSO
+
+PETIÇÃO(ÕES)/EXPEDIENTE(S)
+
+-----------------------------
+
+ALLIERBRASIL AGRONOMIA LTDA. - 02.850.049/0001-69
+
+DIBENZ 240 SC
+
+25351.101588/2202-00
+
+5106 - REGISTRO SIMPLIFICADO NÍVEL II - PRODUTO FORMULADO COM BASE EM PRODUTO TÉCNICO EQUIVALENTE, 4079126/20-0
+
+DIZURE 240 SC
+
+25351.101581/1202-00
+
+5106 - REGISTRO SIMPLIFICADO NÍVEL II - PRODUTO FORMULADO COM BASE EM PRODUTO TÉCNICO EQUIVALENTE, 4079072/20-1
+
+GLIFOSATO SOLUTION WG
+
+25351.498503/2020-05
+
+5117 - REGISTRO SIMPLIFICADO NÍVEL III - PRODUTO FORMULADO COM BASE EM PRODUTO TÉCNICO EQUIVALENTE, 1751031/20-3
+
+-----------------------------
+
+CROPCHEM LTDA. - 03.625.679/0001-00
+
+GLI-UP 720 WG III CROPCHEM
+
+25351.014413/2021-03
+
+5120 - REGISTRO SIMPLIFICADO NÍVEL IV - PRODUTO FORMULADO COM BASE EM PRODUTO TÉCNICO EQUIVALENTE, 2937317/21-1
+
+-----------------------------
+
+RAINBOW DEFENSIVOS AGRÍCOLAS LTDA. - 10.486.463/0001-69
+
+CEDIARCO
+
+25351.009041/2021-05
+
+5121 - REGISTRO SIMPLIFICADO NÍVEL IV - PRODUTO FORMULADO - PRODUTO COM INGREDIENTE ATIVO JÁ REGISTRADO NO PAÍS, 1455445/21-8
+
+SUFENCE
+
+25351.009536/2021-06
+
+5120 - REGISTRO SIMPLIFICADO NÍVEL IV - PRODUTO FORMULADO COM BASE EM PRODUTO TÉCNICO EQUIVALENTE, 1588733/21-1
+
+SUNZONE
+
+25351.009537/2021-09
+
+5120 - REGISTRO SIMPLIFICADO NÍVEL IV - PRODUTO FORMULADO COM BASE EM PRODUTO TÉCNICO EQUIVALENTE, 1588810/21-2
+
+-----------------------------
+
+SINON DO BRASIL LTDA. - 03.417.347/0001-22
+
+GLISTER WG
+
+25351.498504/2020-05
+
+5097 - REGISTRO SIMPLIFICADO NÍVEL I - PRODUTO FORMULADO COM BASE EM PRODUTO TÉCNICO EQUIVALENTE, 1751032/20-1

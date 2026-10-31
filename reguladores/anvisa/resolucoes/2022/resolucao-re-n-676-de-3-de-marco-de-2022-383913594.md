@@ -1,0 +1,100 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 676, DE 3 DE MARÇO DE 2022"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos e Produtos Biológicos"
+tipo: "Resolução"
+numero: "676"
+data: 2022-03-03
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 07/03/2022, seção 1, p. 77"
+data_publicacao: 2022-03-07
+edicao: "44"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-676-de-3-de-marco-de-2022-383913594"
+sha256_html_fonte: e9c674335704d51676817ecf7198a82ce1063eb2d90f62a775a81d12cfeb6c07
+baixado_em: 2026-10-20
+---
+# RESOLUÇÃO-RE Nº 676, DE 3 DE MARÇO DE 2022
+
+RESOLUÇÃO-RE Nº 676, DE 3 DE MARÇO DE 2022
+
+O Gerente-Geral de Medicamentos e Produtos Biológicos, no uso das atribuições que lhe confere o art. 100, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Indeferir petições relacionadas à Gerência-Geral de Medicamentos, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+GUSTAVO MENDES LIMA SANTOS
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+PRINCIPIO(S) ATIVO(S)
+
+----------------------------
+
+HOMEOPATIA WALDEMIRO PEREIRA LABORATORIO INDUSTRIAL FARMACEUTICO EIRELI76440528000143
+
+ARGENTUM NITRICUM + KALI BROMATUM
+
+NERVOCALM 25351.621507/2009-34 07/2027
+
+11392 DINAMIZADO - ALTERAÇÃO DE NOME DO MEDICAMENTO 4029504/21-4
+
+1.0247.0083.001-7 24 Meses
+
+(0,50+0,50) ML/ML SOL OR CT FR GOT VD AMB X 20 ML
+
+1.0247.0083.002-5 36 Meses
+
+0,0125 ML + 0,0125 ML COM CT BL AL PLAS PVC TRANS X 60
+
+1.0247.0083.005-1 36 Meses
+
+0,0125 ML + 0,0125 ML COM CT BL AL PLAS PVC TRANS X 20
+
+AGNUS CASTUS + CONIUM MACULATUM + NUPHAR LUTEUM + ONOSMODIUM VIRGINIanum
+
+FORTEVIRON 25992.004498/74 09/2029
+
+11392 DINAMIZADO - ALTERAÇÃO DE NOME DO MEDICAMENTO 3446940/21-1
+
+1.0247.0024.001-0 24 Meses
+
+6 CH COM CT BL AL PLAS PVC TRANS X 60
+
+1.0247.0024.004-1 24 Meses
+
+6 CH COM CT BL AL PLAS PVC TRANS X 20
+
+----------------------------
+
+MEDQUIMICA INDUSTRIA FARMACEUTICA LTDA. 17875154000120
+
+BUTILBROMETO DE ESCOPOLAMINA + DIPIRONA
+
+ATROVEX 25351.015629/2003-56 05/2029
+
+1989 SIMILAR - ALTERAÇÃO DE NOME COMERCIAL 4694154/21-1
+
+1.0917.0068.001-1 24 Meses
+
+6,67 MG/ML + 333,4 MG/ML SOL OR CT FR GOT PLAS OPC X 20 ML
+
+1.0917.0068.002-1 24 Meses
+
+6,67 MG/ML + 333,4 MG/ML SOL OR CT 200 FR GOT PLAS OPC X 20 ML (EMB HOSP)
+
+1.0917.0068.008-9 24 Meses
+
+6,67 MG/ML + 333,4 MG/ML SOL OR CT 100 FR GOT PLAS OPC X 20 ML (EMB HOSP)

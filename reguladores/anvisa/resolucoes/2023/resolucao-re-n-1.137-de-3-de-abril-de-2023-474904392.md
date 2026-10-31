@@ -1,0 +1,194 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 1.137, DE 3 DE ABRIL DE 2023"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "1137"
+data: 2023-04-03
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 04/04/2023, seção 1, p. 92"
+data_publicacao: 2023-04-04
+edicao: "65"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.137-de-3-de-abril-de-2023-474904392"
+sha256_html_fonte: bcb791310ba194d1c01e2545681ef7ecfd166922ebfdde11981e9c9d36569f37
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE Nº 1.137, DE 3 DE ABRIL DE 2023
+
+RESOLUÇÃO-RE Nº 1.137, DE 3 DE ABRIL DE 2023
+
+O Coordenador de Autorização de Funcionamento de Empresas, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Cancelar, a pedido, a Autorização de Funcionamento das Empresas constantes no anexo desta Resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+ASIA SHIPPING TERMINAIS E SERVICOS LTDA / 18.982.709/0001-03
+
+25351.448369/2020-01 / 1238760
+
+70802 - AFE - CANCELAMENTO - MEDICAMENTOS E/OU INSUMOS FARMACÊUTICOS / 0065123239
+
+--------------------------------------
+
+JOHNSON & JOHNSON DO BRASIL INDUSTRIA E COMERCIO DE PRODUTOS PARA SAUDE LTDA / 54.516.661/0058-39
+
+25351.364683/2015-05 / 8122544
+
+877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 0086089234
+
+--------------------------------------
+
+ASIA SHIPPING TERMINAIS E SERVICOS LTDA / 18.982.709/0001-03
+
+25351.448365/2020-14 / 8200807
+
+877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 0065029232
+
+--------------------------------------
+
+FARMACIA ARTMAGISTRAL LTDA / 05.122.756/0004-70
+
+25351.534252/2011-19 / 0796947
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0083786236
+
+--------------------------------------
+
+MB MEDICAL HOSPITALAR LTDA / 29.897.978/0001-80
+
+25351.021864/2022-20 / 1275539
+
+70802 - AFE - CANCELAMENTO - MEDICAMENTOS E/OU INSUMOS FARMACÊUTICOS / 0284034231
+
+--------------------------------------
+
+FARMACIA MINI PRECO DE PEABIRU LTDA - ME / 09.147.132/0001-15
+
+25351.133478/2008-21 / 0535139
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0060883235
+
+--------------------------------------
+
+COMERCIO DE MEDICAMENTOS BRAIR LTDA / 88.212.113/1084-82
+
+25351.430739/2021-26 / 7849608
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0062130234
+
+--------------------------------------
+
+FARMACIA LIVIA ROZA LTDA / 29.893.145/0001-40
+
+25351.823960/2018-29 / 7626129
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0079838235
+
+--------------------------------------
+
+ELISSANDRA SALES ALVES / 45.381.863/0001-94
+
+25351.302340/2022-37 / 7901381
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0063845237
+
+--------------------------------------
+
+JOHNSON & JOHNSON DO BRASIL INDÚSTRIA E COMÉRCIO DE PRODUTOS PARA SAÚDE LTDA / 54.516.661/0027-32
+
+25351.406898/2014-44 / 8106708
+
+877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 0064766233
+
+--------------------------------------
+
+Young Living Brasil Ltda. / 32.431.541/0001-60
+
+25351.310622/2020-46 / 3097981
+
+719 - AFE - CANCELAMENTO - SANEANTES DOMISSANITÁRIOS / 0081980230
+
+--------------------------------------
+
+JOHNSON & JOHNSON DO BRASIL INDÚSTRIA E COMÉRCIO DE PRODUTOS PARA SAÚDE LTDA / 54.516.661/0001-01
+
+25351.475532/2009-48 / 2051814
+
+729 - AFE - CANCELAMENTO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE / 3735484212
+
+--------------------------------------
+
+AMANDA ROSA ALVES ME / 34.705.695/0001-29
+
+25351.003332/2020-49 / 7706489
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0061225231
+
+--------------------------------------
+
+Serv imagem minas serviços, indústria e comércio ltda / 08.469.783/0001-69
+
+25351.494351/2011-61 / 8079031
+
+877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 0074098233
+
+--------------------------------------
+
+FARMAPREV LTDA. / 05.272.420/0007-36
+
+25351.222793/2006-61 / 0461142
+
+70802 - AFE - CANCELAMENTO - MEDICAMENTOS E/OU INSUMOS FARMACÊUTICOS / 0059382236
+
+--------------------------------------
+
+FARMAPREV LTDA / 05.272.420/0012-01
+
+25351.317555/2013-61 / 0948587
+
+70802 - AFE - CANCELAMENTO - MEDICAMENTOS E/OU INSUMOS FARMACÊUTICOS / 0059323230
+
+--------------------------------------
+
+HYPOFARMA - INSTITUTO DE HYPODERMIA E FARMÁCIA LTDA / 17.174.657/0001-78
+
+25351.244892/2008-65 / 8046646
+
+877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 0068852231
+
+--------------------------------------
+
+PMP DROGARIA E COMÉRCIO DE ELETRÔNICOS S/A / 17.040.906/0199-09
+
+25351.234748/2022-79 / 7891563
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0061036234
+
+--------------------------------------
+
+MEM CIRURGICA LTDA / 04.733.376/0002-47
+
+25351.758579/2021-87 / 8228436
+
+877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 0065811232
+
+--------------------------------------
+
+MIRELI S. LAUTENSCHLAGER ME / 14.481.960/0001-25
+
+25351.338928/2012-91 / 0858922
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0074187236
+
+--------------------------------------
+
+manoel osvaldo barbosa schettini - me / 22.577.754/0001-41
+
+25351.151748/2016-96 / 1156548
+
+70349 - AFE/AE - CANCELAMENTO - INCORPORAÇÃO, CISÃO OU FUSÃO DE EMPRESAS / 0079387233

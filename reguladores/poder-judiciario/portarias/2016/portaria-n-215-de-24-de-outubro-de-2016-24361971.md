@@ -1,0 +1,60 @@
+---
+titulo: "PORTARIA Nº 215, DE 24 DE OUTUBRO DE 2016"
+orgao: "Poder Judiciário/TRIBUNAL REGIONAL DO TRABALHO DA 1ª REGIÃO"
+tipo: "Portaria"
+numero: "215"
+data: 2016-10-24
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 25/10/2016, seção 1, p. 113"
+data_publicacao: 2016-10-25
+edicao: "205"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-215-de-24-de-outubro-de-2016-24361971"
+sha256_html_fonte: e707b4b5e68ca10e8c2584ad9d2f19045776501377ee1ba700a672bb72cb9051
+baixado_em: 2026-10-28
+---
+# PORTARIA Nº 215, DE 24 DE OUTUBRO DE 2016
+
+PORTARIA Nº 215, DE 24 DE OUTUBRO DE 2016
+
+A PRESIDENTE DO TRIBUNAL REGIONAL DO TRABALHODA PRIMEIRA REGIÃO, no uso de suas atribuições legaise regimentais, resolve:
+
+Tornar Pública a declaração de desistência do processo deAproveitamento firmada pelos candidatos abaixo relacionados, conformepreconizado no item II do Edital Nº 1/2016, de 06 de outubrode 2016:
+
+ANDRÉ LUIS NACER DE SOUZA
+
+ANDRÉ LUIZ MAIA SECCO
+
+BRUNO FURTADO SILVEIRA
+
+CAMILA TESSER WILHELMS
+
+CAROLINA FERREIRA TREVIZANI
+
+CLEITON WILLIAM KRAEMER POERNER
+
+DALILA SOARES SILVEIRA
+
+EVERALDO DOS SANTOS NASCIMENTO FILHO
+
+EVERTON VINÍCIUS DA SILVA
+
+FERNANDA SCHUCH TESSMANN
+
+FERNANDO SUKEYOSI
+
+HELOISA POLIZEL DE OLIVEIRA
+
+JEDSON MARCOS DOS SANTOS MIRANDA
+
+JOBEL AMORIM DAS VIRGENS FILHO
+
+LUIZ FERNANDO LEITE DA SILVA FILHO
+
+LUIZA HELENA ROSON
+
+PEDRO IVO LIMA NASCIMENTO
+
+PEDRO IVO TENÓRIO DE BRITO TOLEDO ARRUDA
+
+Desa. MARIA DAS GRAÇAS CABRAL VIEGAS PARANHOS

@@ -1,0 +1,48 @@
+---
+titulo: "PORTARIA CGIL-GAB/DEMIG/SENAJUS/MJSP Nº 275, De 31 DE MARÇO DE 2023"
+orgao: "Ministério da Justiça e Segurança Pública/Secretaria Nacional de Justiça/Departamento de Migrações/Coordenação-Geral de Imigração Laboral"
+tipo: "Portaria"
+numero: "275"
+data: 2023-03-31
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 03/04/2023, seção 1, p. 61"
+data_publicacao: 2023-04-03
+edicao: "64"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-cgil-gab/demig/senajus/mjsp-n-275-de-31-de-marco-de-2023-474532016"
+sha256_html_fonte: b5f029b79c8ebb49e5137edd7105f228b73c86a6f64034410e853cd6ccc5766e
+baixado_em: 2026-10-16
+---
+# PORTARIA CGIL-GAB/DEMIG/SENAJUS/MJSP Nº 275, De 31 DE MARÇO DE 2023
+
+PORTARIA CGIL-GAB/DEMIG/SENAJUS/MJSP Nº 275, De 31 DE MARÇO DE 2023
+
+A COORDENADORA-GERAL DE IMIGRAÇÃO LABORAL - INTERINA, no uso da competência delegada, nos termos do art. 2°, inciso I, da Portaria SENAJUS nº 432, de 17 de junho de 2019, publicada no Diário Oficial da União nº 118, de 21 de junho de 2019, Seção 1, página 38, resolve:
+
+Decretar a perda da autorização de residência concedida ao imigrante YONG YU, RNM F2880861, nacional da CHINA, nascido(a) em 22/01/1978, filho(a) de WEIJIN YU, com fundamento no inciso I, art. 135, do Decreto nº 9.199, de 20 de novembro de 2017, tendo em vista a cessação do fundamento que embasou a autorização de residência. Processo SEI nº 08018.017319/2023-91.
+
+CIOMARA MAFRA DOS REIS
+
+PORTARIA CGIL-GAB/DEMIG/SENAJUS/MJSP Nº 277, De 31 DE MARÇO DE 2023
+
+A COORDENADORA-GERAL DE IMIGRAÇÃO LABORAL - INTERINA, no uso da competência delegada, nos termos do art. 2°, inciso I, da Portaria SENAJUS nº 432, de 17 de junho de 2019, publicada no Diário Oficial da União nº 118, de 21 de junho de 2019, Seção 1, página 38, resolve:
+
+Decretar a perda da autorização de residência concedida ao imigrante XIANG DENG, RNM F387122L, nacional da CHINA, nascido(a) em 24/12/1993, filho(a) de HONGYUN DENG, com fundamento no inciso I, art. 135, do Decreto nº 9.199, de 20 de novembro de 2017, tendo em vista a cessação do fundamento que embasou a autorização de residência. Processo SEI nº 08018.017315/2023-11.
+
+CIOMARA MAFRA DOS REIS
+
+PORTARIA CGIL-GAB/DEMIG/SENAJUS/MJSP Nº 278, De 31 DE MARÇO DE 2023
+
+A COORDENADORA-GERAL DE IMIGRAÇÃO LABORAL - INTERINA, no uso da competência delegada, nos termos do art. 2°, inciso I, da Portaria SENAJUS nº 432, de 17 de junho de 2019, publicada no Diário Oficial da União nº 118, de 21 de junho de 2019, Seção 1, página 38, resolve:
+
+Decretar a perda da autorização de residência concedida à imigrante CHANG LI, RNM F396179S, nacional da CHINA, nascido(a) em 02/11/1990, filho(a) de GUOTANG LI, com fundamento no inciso I, art. 135, do Decreto nº 9.199, de 20 de novembro de 2017, tendo em vista a cessação do fundamento que embasou a autorização de residência. Processo SEI nº 08018.017310/2023-81.
+
+CIOMARA MAFRA DOS REIS
+
+PORTARIA CGIL-GAB/DEMIG/SENAJUS/MJSP Nº 279, De 31 DE MARÇO DE 2023
+
+A COORDENADORA-GERAL DE IMIGRAÇÃO LABORAL - INTERINA, no uso da competência delegada, nos termos do art. 2°, inciso I, da Portaria SENAJUS nº 432, de 17 de junho de 2019, publicada no Diário Oficial da União nº 118, de 21 de junho de 2019, Seção 1, página 38, resolve:
+
+Decretar a perda da autorização de residência concedida ao imigrante TOMOYA ISHIGAKI, RNM V489313H, nascido(a) em 08/07/1974, filho(a) de KEIKO ISHIGAKI, com fundamento no inciso I, art. 135, do Decreto nº 9.199, de 20 de novembro de 2017, tendo em vista a cessação do fundamento que embasou a autorização de residência. Processo SEI nº 08018.016963/2023-42.
+
+CIOMARA MAFRA DOS REIS

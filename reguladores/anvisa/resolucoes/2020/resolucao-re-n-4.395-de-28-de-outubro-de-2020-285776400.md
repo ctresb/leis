@@ -1,0 +1,252 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 4.395, DE 28 DE OUTUBRO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "4395"
+data: 2020-10-28
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 03/11/2020, seção 1, p. 547"
+data_publicacao: 2020-11-03
+edicao: "209"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.395-de-28-de-outubro-de-2020-285776400"
+sha256_html_fonte: 6bd5aa23938c8d01d89b43c16d2a468eccf9b9da0f06ecbb5ea7ae0fac697edc
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 4.395, DE 28 DE OUTUBRO DE 2020
+
+RESOLUÇÃO-RE Nº 4.395, DE 28 DE OUTUBRO DE 2020
+
+O Gerente-Geral de Inspeção e Fiscalização Sanitária, no uso das atribuições que lhe confere o art. 171, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018,
+
+Considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:
+
+**Art. 1º** Conceder à(s) Empresa(s) constante(s) no ANEXO, a Certificação de Boas Práticas de Fabricação de Medicamentos.
+
+**Art. 2º** A presente Certificação terá validade de 2 (dois) anos a partir da sua publicação.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+RONALDO LUCIO PONCIANO GOMES
+
+## ANEXO
+
+EMPRESA: CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA - CNPJ: 44.734.671/0025-29 - AUTORIZ/MS: 1002981
+
+ENDEREÇO: AV DAS QUARESMEIRAS, 451 - Bloco B
+
+MUNICÍPIO: POUSO ALEGRE - UF: MG - EXPEDIENTE: 1209363/20-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Grande Volume com Esterilização Terminal
+
+.........................................
+
+EMPRESA FABRICANTE: ANDERSONBRECON INC.
+
+ENDEREÇO: 4545 ASSEMBLY DRIVE - ROCKFORD, ILLINOIS (IL) 61109 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.0033
+
+EMPRESA SOLICITANTE: ALLERGAN PRODUTOS FARMACÊUTICOS LTDA - CNPJ: 43.426.626/0001-77
+
+AUTORIZ/MS: 1001478 - EXPEDIENTE(s): 0869956/20-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem primária; Embalagem secundária): Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: LILLY DEL CARIBE, INC.
+
+ENDEREÇO: 65TH INFANTRY ROAD KM 12,6 - CAROLINA, PR 00985 - PUERTO RICO - PAÍS: PORTO RICO - CÓDIGO ÚNICO: A.0379
+
+EMPRESA SOLICITANTE: ELI LILLY DO BRASIL LTDA - CNPJ: 43.940.618/0001-44
+
+AUTORIZ/MS: 1012603 - EXPEDIENTE(s): 1060763/20-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Cápsulas; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: GLAXOSMITHKLINE VACCINES S.R.L.
+
+ENDEREÇO: BELLARIA-ROSIA, 53018 SOVICILLE (SI) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.0438
+
+EMPRESA SOLICITANTE: GLAXOSMITHKLINE BRASIL LTDA - CNPJ: 33.247.743/0001-10
+
+AUTORIZ/MS: 1001071 - EXPEDIENTE(s): 1323191/20-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica; Suspensões Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: ANDERSONBRECON INC.
+
+ENDEREÇO: 4545 ASSEMBLY DRIVE - ROCKFORD, ILLINOIS (IL) 61109 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.0033
+
+EMPRESA SOLICITANTE: ZODIAC PRODUTOS FARMACÊUTICOS S/A - CNPJ: 55.980.684/0001-27
+
+AUTORIZ/MS: 1022141 - EXPEDIENTE(s): 2805994/20-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem primária; Embalagem secundária): Cápsulas
+
+.........................................
+
+EMPRESA FABRICANTE: VETTER PHARMA-FERTIGUNG GMBH & CO. KG.
+
+ENDEREÇO: MOOSWIESEN 2, 88214, RAVENSBURG - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.0624
+
+EMPRESA SOLICITANTE: SANOFI MEDLEY FARMACÊUTICA LTDA. - CNPJ: 10.588.595/0010-92
+
+AUTORIZ/MS: 1083267 - EXPEDIENTE(s): 0462833/20-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Pós Liofilizados
+
+Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: CATALENT CTS, LLC
+
+ENDEREÇO: 10245 HICKMAN MILLS DR, KANSAS CITY, MISSOURI (MO) 64137 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.1009
+
+EMPRESA SOLICITANTE: ZODIAC PRODUTOS FARMACÊUTICOS S/A - CNPJ: 55.980.684/0001-27
+
+AUTORIZ/MS: 1022141 - EXPEDIENTE(s): 2806205/20-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Cápsulas
+
+.........................................
+
+EMPRESA FABRICANTE: BAYER AG
+
+ENDEREÇO: KAISER WILHELM ALLEE, 51368 - LEVERKUSEN - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.0090
+
+EMPRESA SOLICITANTE: BAYER S.A. - CNPJ: 18.459.628/0001-15
+
+AUTORIZ/MS: 1070568 - EXPEDIENTE(s): 1378501/20-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos; Comprimidos Revestidos
+
+Sólidos não estéreis (Embalagem primária; Embalagem secundária): Cápsulas Moles
+
+.........................................
+
+EMPRESA FABRICANTE: OM PHARMA S.A.
+
+ENDEREÇO: 22 RUE DU BOIS-DU-LAN, 1217 MEYRIN - PAÍS: SUÍÇA - CÓDIGO ÚNICO: A.0460
+
+EMPRESA SOLICITANTE: TAKEDA PHARMA LTDA. - CNPJ: 60.397.775/0001-74
+
+AUTORIZ/MS: 1006398 - EXPEDIENTE(s): 1004272/20-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas; Granulados
+
+.........................................
+
+EMPRESA FABRICANTE: WEST-WARD COLUMBUS INC.
+
+ENDEREÇO: 1809 WILSON ROAD, COLUMBUS, OHIO (OH) 43228. - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.0118
+
+EMPRESA SOLICITANTE: BOEHRINGER INGELHEIM DO BRASIL QUÍMICA E FARMACÊUTICA LTDA. - CNPJ: 60.831.658/0001-77
+
+AUTORIZ/MS: 1003678 - EXPEDIENTE(s): 1127726/20-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Soluções
+
+.........................................
+
+EMPRESA FABRICANTE: NOVARTIS PHARMA STEIN AG
+
+ENDEREÇO: SCHAFFHAUSERSTRASSE, CH-4332 STEIN - PAÍS: SUÍÇA - CÓDIGO ÚNICO: A.0433
+
+EMPRESA SOLICITANTE: SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA - CNPJ: 61.286.647/0001-16
+
+AUTORIZ/MS: 1000472 - EXPEDIENTE(s): 1323047/20-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: NATCO PHARMA LIMITED
+
+ENDEREÇO: PLOT NO. 89 E 90, JNPC, RAMKY PHARMA CITY, PARAWADA VISAKHAPATNAM-531019,ANDHRA PRADESH - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.1421
+
+EMPRESA SOLICITANTE: NATCOFARMA DO BRASIL LTDA - CNPJ: 08.157.293/0001-27
+
+AUTORIZ/MS: 1082611 - EXPEDIENTE(s): 1047677/20-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos; Comprimidos Revestidos
+
+Sólidos não estéreis (Citotóxicos): Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: H. LUNDBECK A/S
+
+ENDEREÇO: OTTILIAVEJ 9, VALBY, 2500 - PAÍS: DINAMARCA - CÓDIGO ÚNICO: A.0294
+
+EMPRESA SOLICITANTE: LUNDBECK BRASIL LTDA - CNPJ: 04.522.600/0001-70
+
+AUTORIZ/MS: 1004750 - EXPEDIENTE(s): 1323125/20-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: WEST-WARD COLUMBUS INC.
+
+ENDEREÇO: 1809 WILSON ROAD, COLUMBUS, OHIO (OH) 43228. - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.0118
+
+EMPRESA SOLICITANTE: BOEHRINGER INGELHEIM DO BRASIL QUÍMICA E FARMACÊUTICA LTDA. - CNPJ: 60.831.658/0001-77
+
+AUTORIZ/MS: 1003678 - EXPEDIENTE(s): 1127578/20-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos
+
+Sólidos não estéreis (Embalagem primária; Embalagem secundária): Cápsulas Moles
+
+.........................................
+
+EMPRESA FABRICANTE: TORRENT PHARMACEUTICALS LIMITED
+
+ENDEREÇO: INDRAD 382721 - TALUKA-KADI, DISTRICT MEHSANA, GUJARAT STATE - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.0614
+
+EMPRESA SOLICITANTE: TORRENT DO BRASIL LTDA - CNPJ: 33.078.528/0001-32
+
+AUTORIZ/MS: 1005253 - EXPEDIENTE(s): 1421437/20-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas; Comprimidos; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: FOURNIER LABORATORIES IRELAND LIMITED
+
+ENDEREÇO: ANNGROVE, CARRIGTWOHILL, CO. CORK - PAÍS: IRLANDA - CÓDIGO ÚNICO: A.1000
+
+EMPRESA SOLICITANTE: ABBVIE FARMACÊUTICA LTDA. - CNPJ: 15.800.545/0001-50
+
+AUTORIZ/MS: 1098607 - EXPEDIENTE(s): 0604271/20-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: ENESTIA BELGIUM N.V.
+
+ENDEREÇO: KLOCKNERSTRAAT 1, HAMONT-ACHEL, LIMBURG, B-3930 - PAÍS: BÉLGICA - CÓDIGO ÚNICO: A.0744
+
+EMPRESA SOLICITANTE: BRISTOL-MYERS SQUIBB FARMACÊUTICA LTDA - CNPJ: 56.998.982/0001-07
+
+AUTORIZ/MS: 1001800 - EXPEDIENTE(s): 3364561/20-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: ELI LILLY AND COMPANY
+
+ENDEREÇO: LILLY CORPORATE CENTER, INDIANAPOLIS, INDIANA (IN) 46285 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.0204
+
+EMPRESA SOLICITANTE: DAIICHI SANKYO BRASIL FARMACÊUTICA LTDA -CNPJ: 60.874.187/0001-84
+
+AUTORIZ/MS: 1004548 - EXPEDIENTE(s): 1378508/20-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Comprimidos Revestidos

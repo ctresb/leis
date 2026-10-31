@@ -1,0 +1,48 @@
+---
+titulo: "PORTARIA Nº 1.208, DE 8 DE NOVEMBRO DE 2019"
+orgao: "Ministério da Educação/Universidade Federal do Recôncavo da Bahia"
+tipo: "Portaria"
+numero: "1208"
+data: 2019-11-08
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 12/11/2019, seção 1, p. 341"
+data_publicacao: 2019-11-12
+edicao: "219"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-1.208-de-8-de-novembro-de-2019-227379149"
+sha256_html_fonte: 61b0bf132d3f741a98e460742afe395ec6dd2023abd6a072de12d1f4a23f2c99
+baixado_em: 2026-10-27
+---
+# PORTARIA Nº 1.208, DE 8 DE NOVEMBRO DE 2019
+
+PORTARIA Nº 1.208, DE 8 DE NOVEMBRO DE 2019
+
+O REITOR DA UNIVERSIDADE DO RECÔNCAVO DA BAHIA, no uso de suas atribuições legais e estatutárias, considerando o disposto no art. 37, inciso II, da Constituição Federal, na Lei nº 8.112, de 11/12/1990, na Lei nº 11.091, de 12/01/2005, no Decreto nº 7.232, de 19/07/2010, e no Decreto nº 9.739, de 28/03/2019, resolve:
+
+Homologar o resultado final do concurso público para provimento de cargos da carreira de Técnico-Administrativo em Educação desta Universidade, regulado pelo Edital nº 01/2019, de 30/05/2019, publicado no DOU de 31/05/2019, retificado integralmente pelo Edital de 18/06/2019, publicado no DOU de 19/06/2019, e demais retificações, conforme discriminado abaixo:
+
+<table><tr></tr><tr><td><p>ASSISTENTE EM ADMINISTRAÇÃO</p><p>AMPLA CONCORRÊNCIA</p></td></tr><tr><td><p>Nome</p></td><td><p>Inscrição</p></td><td><p>Classificação</p></td></tr><tr><td><p>LUANA KARINA OLIVEIRA BARRETO</p></td><td><p>1050016213</p></td><td><p>1</p></td></tr><tr><td><p>LAIS GUERREIRO DOS SANTOS</p></td><td><p>1050010712</p></td><td><p>2</p></td></tr><tr><td><p>GUSTAVO DOS SANTOS SOUZA</p></td><td><p>1050015160</p></td><td><p>3</p></td></tr><tr><td><p>NAIZA ARGOLO BRAZ</p></td><td><p>1050001133</p></td><td><p>4</p></td></tr><tr><td><p>MARÍLIA GRAZIELE OLIVEIRA SOUZA</p></td><td><p>1050004134</p></td><td><p>5</p></td></tr><tr><td><p>RAFAELA SILVA DOMINGUES</p></td><td><p>1050003495</p></td><td><p>6</p></td></tr><tr><td><p>CAMILA CARVALHO SOUZA</p></td><td><p>1050014053</p></td><td><p>7</p></td></tr><tr><td><p>ROSEANO FRANCISCO BESERRA</p></td><td><p>1050002365</p></td><td><p>8</p></td></tr><tr><td><p>JESSICA MARIA BARRETO XAVIER</p></td><td><p>1050009570</p></td><td><p>9</p></td></tr><tr><td><p>MÍRIAM DA SILVA FERREIRA</p></td><td><p>1050013220</p></td><td><p>10</p></td></tr><tr><td><p>LORENA SANTOS ARAGÃO DOS SANTOS</p></td><td><p>1050001510</p></td><td><p>11</p></td></tr><tr><td><p>JEFFERSON SANTOS SANTANA</p></td><td><p>1050014936</p></td><td><p>12</p></td></tr><tr><td><p>FRANCIELLEN SANTANA DA BOA MORTE</p></td><td><p>1050001565</p></td><td><p>13</p></td></tr><tr><td><p>LUIZ CARLOS SIMÕES PIEDADE</p></td><td><p>1050017390</p></td><td><p>14</p></td></tr><tr><td><p>LIANDRA SOUZA DA SILVA</p></td><td><p>1050010734</p></td><td><p>15</p></td></tr><tr><td><p>GISLANE BRANDÃO ALVES</p></td><td><p>1050002215</p></td><td><p>16</p></td></tr><tr><td><p>DEBORAH SILVA SANDE</p></td><td><p>1050004250</p></td><td><p>17</p></td></tr><tr><td><p>ROGÉRIO FERREIRA COSTA SANTOS</p></td><td><p>1050015787</p></td><td><p>18</p></td></tr><tr><td><p>VIRGÍNIA ALVES FERNANDES DA CUNHA</p></td><td><p>1050013445</p></td><td><p>19</p></td></tr><tr><td><p>RODRIGO BRITO SANTOS</p></td><td><p>1050011929</p></td><td><p>20</p></td></tr><tr><td><p>EDSON SILVA DE ALMEIDA</p></td><td><p>1050004346</p></td><td><p>21</p></td></tr><tr><td><p>MIQUEANE DE ANDRADE DOS SANTOS</p></td><td><p>1050001968</p></td><td><p>22</p></td></tr><tr><td><p>ISABELA CRISTINA DE SOUZA SANTOS</p></td><td><p>1050009567</p></td><td><p>23</p></td></tr><tr><td><p>ANNA PAULA SANDES DE OLIVEIRA</p></td><td><p>1050011750</p></td><td><p>24</p></td></tr><tr><td><p>VANESSA SILVA CALDAS</p></td><td><p>1050009389</p></td><td><p>25</p></td></tr><tr><td><p>GEIRLA LUANE DOS SANTOS CARDOSO</p></td><td><p>1050007641</p></td><td><p>26</p></td></tr><tr><td><p>RADIMILLE SILVA LIMA</p></td><td><p>1050011180</p></td><td><p>27</p></td></tr><tr><td><p>FERNANDO HENRIQUE DE SOUZA SANTOS</p></td><td><p>1050008298</p></td><td><p>28</p></td></tr><tr><td><p>JADY TEIXEIRA SANTOS</p></td><td><p>1050013861</p></td><td><p>29</p></td></tr><tr><td><p>CAMILA SANTOS DIAS</p></td><td><p>1050009190</p></td><td><p>30</p></td></tr><tr><td><p>LUCIANO SANTOS MENDES</p></td><td><p>1050013140</p></td><td><p>31</p></td></tr><tr><td><p>DANIELLE MARCIA HACHMANN DE LACERDA DA GAMA</p></td><td><p>1050014942</p></td><td><p>32</p></td></tr></table>
+
+<table><tr></tr><tr><td><p>ASSISTENTE EM ADMINISTRAÇÃO</p><p>PESSOA COM DEFICIÊNCIA</p></td></tr><tr><td><p>Nome</p></td><td><p>Inscrição</p></td><td><p>Classificação</p></td></tr><tr><td><p>JONATHAN SILVA ALVES</p></td><td><p>1050016789</p></td><td><p>1</p></td></tr><tr><td><p>LEONARDO JESUS DE ARAÚJO</p></td><td><p>1050000146</p></td><td><p>2</p></td></tr><tr><td><p>MAÍRA MOREIRA PEIXOTO COELHO</p></td><td><p>1050014071</p></td><td><p>3</p></td></tr><tr><td><p>ARLENE SANTOS BARBOSA</p></td><td><p>1050015669</p></td><td><p>4</p></td></tr><tr><td><p>JULIANO RODRIGUES DE CASTRO</p></td><td><p>1050015328</p></td><td><p>5</p></td></tr><tr><td><p>MÁRCIA HUPPE FAVERO</p></td><td><p>1050009595</p></td><td><p>6</p></td></tr><tr><td><p>TIAGO ANDRADE BORGES SANTOS</p></td><td><p>1050018818</p></td><td><p>7</p></td></tr><tr><td><p>ANA PAULA SOUSA GOMES</p></td><td><p>1050008049</p></td><td><p>8</p></td></tr><tr><td><p>MONICA PEREIRA DA SILVA</p></td><td><p>1050003825</p></td><td><p>9</p></td></tr></table>
+
+<table><tr></tr><tr><td><p>ASSISTENTE EM ADMINISTRAÇÃO</p><p>PESSOA PRETA OU PARDA</p></td></tr><tr><td><p>Nome</p></td><td><p>Inscrição</p></td><td><p>Classificação</p></td></tr><tr><td><p>MÍRIAM DA SILVA FERREIRA</p></td><td><p>1050013220</p></td><td><p>1</p></td></tr><tr><td><p>LORENA SANTOS ARAGÃO DOS SANTOS</p></td><td><p>1050001510</p></td><td><p>2</p></td></tr><tr><td><p>JEFFERSON SANTOS SANTANA</p></td><td><p>1050014936</p></td><td><p>3</p></td></tr><tr><td><p>FRANCIELLEN SANTANA DA BOA MORTE</p></td><td><p>1050001565</p></td><td><p>4</p></td></tr><tr><td><p>LIANDRA SOUZA DA SILVA</p></td><td><p>1050010734</p></td><td><p>5</p></td></tr><tr><td><p>RODRIGO BRITO SANTOS</p></td><td><p>1050011929</p></td><td><p>6</p></td></tr><tr><td><p>MIQUEANE DE ANDRADE DOS SANTOS</p></td><td><p>1050001968</p></td><td><p>7</p></td></tr><tr><td><p>JADY TEIXEIRA SANTOS</p></td><td><p>1050013861</p></td><td><p>8</p></td></tr></table>
+
+<table><tr></tr><tr><td><p>TÉCNICO DE LABORATÓRIO/MICROSCOPIA</p></td></tr><tr><td><p>Nome</p></td><td><p>Inscrição</p></td><td><p>Classificação</p></td></tr><tr><td><p>DANIELA BITENCOURT BORGES</p></td><td><p>1060010898</p></td><td><p>1</p></td></tr><tr><td><p>ANA PAULA PIRES MARQUES</p></td><td><p>1060001623</p></td><td><p>2</p></td></tr><tr><td><p>TECLA DOS SANTOS SILVA</p></td><td><p>1060020211</p></td><td><p>3</p></td></tr><tr><td><p>KEYLLA SOUZA DOS SANTOS</p></td><td><p>1060015936</p></td><td><p>4</p></td></tr><tr><td><p>MARIA REIS VALOIS COELHO</p></td><td><p>1060017659</p></td><td><p>5</p></td></tr></table>
+
+<table><tr></tr><tr><td><p>TÉCNICO DE LABORATÓRIO/QUÍMICA</p></td></tr><tr><td><p>Nome</p></td><td><p>Inscrição</p></td><td><p>Classificação</p></td></tr><tr><td><p>DENIS FERNANDO ALVARENGA</p></td><td><p>1070018039</p></td><td><p>1</p></td></tr><tr><td><p>HUMBERTO ALEXANDRE DA SILVA NETO</p></td><td><p>1070018047</p></td><td><p>2</p></td></tr><tr><td><p>JOSÉ GABRIEL FREITAS DE LIMA</p></td><td><p>1070017839</p></td><td><p>3</p></td></tr><tr><td><p>MATHEUS DIAS DA SILVA</p></td><td><p>1070016432</p></td><td><p>4</p></td></tr><tr><td><p>ELISSON ANDRADE DE SOUZA</p></td><td><p>1070018149</p></td><td><p>5</p></td></tr><tr><td><p>STELA BRAGA DE ARAUJO</p></td><td><p>1070011460</p></td><td><p>6</p></td></tr></table>
+
+<table><tr></tr><tr><td><p>FARMACÊUTICO-BIOQUÍMICO</p></td></tr><tr><td><p>Nome</p></td><td><p>Inscrição</p></td><td><p>Classificação</p></td></tr><tr><td><p>MARIANA ROSA AMPUERO</p></td><td><p>1080018148</p></td><td><p>1</p></td></tr><tr><td><p>ANNA KARLA DO NASCIMENTO SOUZA</p></td><td><p>1080004446</p></td><td><p>2</p></td></tr><tr><td><p>DENISAR PALMITO DOS SANTOS</p></td><td><p>1080003606</p></td><td><p>3</p></td></tr><tr><td><p>MARCELO ARANTES LEVENHAGEN</p></td><td><p>1080010057</p></td><td><p>4</p></td></tr><tr><td><p>RODRIGO MOTA DE OLIVEIRA</p></td><td><p>1080010870</p></td><td><p>5</p></td></tr></table>
+
+1\. Os candidatos deverão manter atualizados seus endereços para correspondência, informando-os em caso de mudança à Coordenadoria de Desenvolvimento de Pessoal, através do e-mail nuscim@progep.ufrb.edu.br. Serão excluídos deste processo seletivo os candidatos não localizados em tempo hábil.
+
+2\. Este concurso terá validade de 02 (dois) anos, a contar da data de publicação desta homologação, podendo ser prorrogado por igual período, a critério da Administração da UFRB.
+
+3\. No ato de admissão o candidato deverá comprovar atendimento a todos os requisitos exigidos para o cargo por ele concorrido, conforme o que consta no Edital nº 01/2019 e suas retificações.
+
+4\. O candidato convocado para admissão que não atender à convocação no prazo máximo de 30 (trinta) dias contados a partir da publicação da nomeação no Diário Oficial da União será excluído do concurso, cabendo à Administração da Universidade Federal do Recôncavo da Bahia, seguindo rigorosamente a ordem de classificação, convocar o candidato seguinte.
+
+5\. Não haverá segunda convocação para o mesmo candidato, em nenhuma hipótese. Também não será facultado ao candidato optar por sua inclusão no final da lista de aprovados.
+
+6\. Os casos omissos serão resolvidos pela Reitoria da UFRB.
+
+Fábio Josué Souza dos Santos

@@ -1,0 +1,58 @@
+---
+titulo: "Parecer Normativo CST nº 61, de 24 de outubro de 1979"
+orgao: "Coordenação do Sistema de Tributação"
+tipo: "Parecer Normativo"
+numero: "61"
+data: "1979-10-24"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 26/10/1979, página 0"
+data_publicacao: "1979-10-26"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/58206/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/58206/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "58206"
+sha256_texto: "133c5e1dd2d150c8bdad79d828ab27b584e08fd642cc2793476f3333fde1d3d6"
+baixado_em: "2026-10-21"
+ocr_pdf: "Vision macOS português; todas as páginas do anexo conferidas quanto à presença de texto"
+---
+# Parecer Normativo CST nº 61, de 24 de outubro de 1979
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+Imposto sobre a Renda e Proventos MNTPJ - 2.20.09.00 - Custos, Despesas Operacionais e Encargos 2.20.09.04 - Impostos, Taxas e Contribuições Multas por infrações fiscais. Compreensão do parágrafo 49 do artigo 16 do Decreto-lei nº 1.598/77. A indedutibilidade como regra. Exceções : multas compensatórias e multas por infrações de que não resulte falta ou insuficiência de pagamento de tributos. Multas por infrações a leis não tributárias.
+
+
+
+SFCETARIA DA RECEITA PEDERAL PUBLICADO Federdenação do Sistema de Tr.butação 01261801979 SERVIÇO PUBLICO 24.10.79 PARECER NORMATIVO CST N° 61 Imposto sobre a Renda e Proventos MNTPJ - 2.20.09.00 - Custos, Despesas Operacionais e Encargos 2.20.09.04 - Impostos, Taxas e Contribuições Multas por infraçoes fiscais. Compreensao do paragrafo 4º do artigo 16 do Decreto-lei n° 1.598/77. A indedutibilidade como regra. Ex- ceçoes: muitas compensatorias e multas infraçoes de que nao resulte falta ou insuii ciência de pagamento de tributos. Multas por infrações a leis não tributárias Em discussão o conteudo e alcance da norma inscri ồẠỌỗin ta no parágrafo 4º do artigo 16 do Decreto-lei n° 1.598/77, verbisỊẠỊ: custos ou despesas opera "Não são dedutíveis como cionais as multas por infrações fiscais, salvo as de natu- não reza compensatoria e as impostas por infrações de que resultem falta ou insuficiencia de pagamento de tributo.ại INDEDUTIBILIDADE COMO REGRA 2 . 2.1 - Depreende-se do texto que os preceitos nele contidos têm por campo de atuação o conjunto das multas qualifi- cadas como fiscais. Compreendem-se como tais aquelas impostas ne la lei tributária, ou fiscal. Este conteúdo é revelado não só pe lo adjetivo que restringe o universo das multas, como pela rubri ca - Tributos - que sintetiza o artigo 16 e seus parágrafos. 2.2 - Disciplinando o efeito das multas fiscais, relativamente a apuraçao do lucro real, o preceito em estudo fir ma a regra basica de sua indedutibilidade, a qual, por exceção, não se subordinam duas espécies: a) as multas impostas por infra ções de que não resulte falta ou insuficiência de pagamento de tributo; e b) as multas fiscais de natureza compensatória. MULTAS DEDUTIVEIS, PORQUE RELATIVAS A INFRAÇÕES DE 3. QUE NÃO RESULTA FALTA OU INSUFICIÊNCIA DE PAGAMENTO DE TRIBUTO 3.1 - 0 estudo das obrigações tributárias revela
+
+que só a inadimplência de obrigação principal é capaz de gerar falta ou insuficiência de pagamento de tributo. Mas que há um tipo de obrigação acessória de cuja inadimpiência resuita infra ção da principal e, em consequência, falta ou insuficiência de pagamento de tributo. E o que passamos a demonstrar. 3.2 - O Código Tributário Nacional (CTN, Lei n° 5.172/66) distingue, no artigo 113, a obrigação tributária em principal ou acessória: "A obrigação principal surge com a ocorrência do fato gerador, tem por objeto o pagamento de tributo ou pe juntamente com o crédi- nalidade pecuniaria e extingue-se to dela decorrente.ạỊị (art. 113, § 1°) "A obrigação acessória decorre da legislação tri butaria e tem por objeto as prestações, positivas ou nega da tivas, nela previstas no interesse da arrecadação ou fiscalização dos tributos." (art. 113, § 2°) 3.3 - A distinção funda-se precipuamente na natu reza do objeto da obrigação. Se tributo ou penalidade, a obriga ção será "de dar", classificando-se como principal; se for ou- tras prestações, positivas ou negativas, ela será "de fazer" ou "não fazer", classificando-se como acessória. É óbvio que somen te pode ocasionar falta ou insuficiência de pagamento de tribu- to a inadimplência de obrigação que o tenha por objeto, isto é, a principal. 3.4 - A obrigação principal surge com a ocorrên- cia do fato gerador e se extingue juntamente com o cumprimento do crédito dela decorrente. Nesse ínterim, coexiste a possibili dade de sua inadimplência, passivel de manifestar-se por dois modos :
+
+a) por mora;
+
+b) por falta de cumprimento de obrigação acessó- ria necessária à efetivação do lançamento nor mal estabelecido pela legislação do tributo. 3.5 - A inadimplência da obrigação principal, por mora, independe de execução de possiveis obrigações. acessorias correlatas e reporta-se tanto aos tributos lançados quanto àque
+
+ERVIÇO PÚBLICO FEDERAL les sujeitos, pela legislação, a pagamento antecipado. Caracte- riza-a a simples falta de recolhimento por ocasião do vencimen- to. 3.6 - A outra modalidade de inadimplência envol- ve necessariamente a inexecução, total ou parcial, de obrigação acessória. É que a legislação do tributo pode cominar ao sujei- to passivo ou terceiro a prática de ato (obrigação de fazer: a- cessória), cuja omissão (infração à acessória) implicará fal ta de pagamento de tributo (infração à principal). Estas obriga ções acessórias possuem esse efeito por terem sido erigidas, pe la legislação, em condição do lançamento normal. Como tais se incluem, por exemplo, a obrigação de prestar informações quanto a matéria de fato indispensável à constituição do crédito tribù tário (lançamento com base em declaração - art. 147, CTN) e a obrigação de reter o imposto de renda na fonte, ato indispensã- vel à homologação (art. 150, CTN). 3.7 - Ante o exposto, pode-se concluir que as in frações de que não resulta falta ou insuficiência de pagamento de tributo são aquelas relativas às obrigações acessórias que não se constituam em condição do lançamento normal. As multas a elas correspondentes são, pois, dedutíveis. (Como exemplos de multas por essa razão dedutíveis, sejam citadas as previstas nos artigos 533, II, "c", "d", "e'# e "f"; 534, "a"; 539 do Regula- mento do Imposto de renda - RIR - e 405, 408 e 396 do Regulamen to do Imposto sobre Produtos Industrializados - RIPI -). Ja as multas relativas a infrações de que resulte falta ou insuficiên cia de pagamento de tributos serão dedutíveis quando de nature- za compensatória. É o que passamos a ver. MULTAS FISCAIS DEDUTÍVEIS, PORQUE COMPENSATORIAS 4. 4.1 - As multas fiscais ou são punitivas ou são compensatórias. 4.2 - Punitiva é aquela que se funda no interes- se público de punir o inadimplente. E a multa proposta por oca- sião do lançamento. É aquela mesma cuja aplicação é excluida pe • Código la denúncia espontânea a que se refere o artigo 138 do
+
+Tributario Nacional, onde o arrependimento, oportuno je formal, da infração faz cessar o motivo de punir. 4.3 - A multa de natureza compensatória destina- -se, diversamente, não a afligir o infrator, mas a compensar o sujeito ativo pelo prejuízo suportado em virtude do atraso no pagamento do que lhe era devido. E penalidade de caráter civil, posto que comparável à indenização prevista no direito civil. Em decorrência disso, nem a própria denúncia espontânea é capaz de excluir a responsabilidade por esses acréscimos, via de re- gra chamados moratórios. 4.4 - O direito civil distingue o inadimplemento absoluto - onde há impossibilidade de cumprimento da obrigação - e a simples mora, em que o cumprimento - embora possível - não se dã no tempo, lugar e modo convencionados. Um e outra, porém, geram danos passíveis de ressarcimento. O inadimplemento absolu to se resolve em "perdas e danos", possíveis de antecipada li- quidação mediante estipulação da chamada "multa compensatória'. Esta compensa todo o dano decorrente do inadimplemento. Por is- so, afirma-se correntemente que juntamente com ela é impossível a exigência de 'multa moratória". Concluir, porém, daí que as multas moratórias não tenham natureza compensatória é falsear os fatos. Exigidas juntamente com o cumprimento da obrigação, elas não estarão, é óbvio, indenizando a própria inexecução, mas restarão como compensadoras do dano sofrido em conseqliência do cumprimento tardio da obrigação. Saliente-se, além disso, que não há como falar nas dívidas de tributo em "multa compensato - ria", naquele sentido específico, posto que as dívidas de di- nheiro - como soem ser as que têm tributo por objeto - são 'in- susceptíveis de inadimplemento absoluto. 4.5 - Ha uma pletora de acréscimos móratórios na legislação tributária. Nem todos, porém, compensatórios. E que o não cumprimento oportuno da obrigação motiva o legislador ora a afligir o infrator (punição), ora a compensar o sujeito ativo pelo dano sofrido em decorrência da mora (compensação). A multa moratória somente terá natureza compensatória quando, cumulati- vamente, preencher as seguintes condições:
+
+a) não ser excluída pela denúncia espontânea; e
+
+b) guardar equivalência com a lesão provocada - o que é revelado pela própria lei ao fixar taxa de cálculo em função do tempo de atraso (exemplos: 1% ao mês; 10% ao semestre; 5% em atrasos de 30 dias, 10% em atrasos de 60, etc) 4.6 - Impõe-se concluir que, para fins de compre ensão do parágrafo 4° do artigo 16 do Decreto-lei 1.598/77, com pensatórias serão somente as moratórias que preencham as condi- ções descritas no subitem 4.5. 4.7 - A título de exemplo, sejam citados:
+
+a) acréscimos moratórios compensatórios: - juros de mora: 1% ao mês (Lei n° 5.421/68,
+
+art. 2°); - multas por recolhimento fora do prazo: RIR,
+
+art. 531, RIPI, art. 392; - multa por apresentação espontânea, fora do prazo, de declaração: RIR, art. 533, I 'a'; - multa por indicação espontânea de rendimen tos omitidos: RIR, art. 533, I, 'b".
+
+b) multas punitivas: - multas relativas a lançamentos de ofício: RIR, art. 534, "b" e "c"; RIPI, art.393 (mo- ra punitiva); - multas do art. 533, II, "a" e "b", do RIR; - multa por falta de retenção: RIR, art. 535
+
+**§ 18.** MULTAS POR INFRAÇÃO DE LEI NÃO TRIBUTÁRIA. 6. 6.1 - O parágrafo 4° do artigo 16 do Decreto-lei n° 1.598/77 diz respeito especificamente as multas impostas pe- la legislação tributária. A ele são estranhas as multas decor- rentes de infração a normas de natureza não tributária, tais co
+
+6.
+
+mo as leis administrativas (Trânsito, Sunab, etc.), penais, tra- balhistas, etc. 6.2 - Por refugirem ao alcance da norma especifi ca, essas multas caem nas malhas do preceito geral inscrito no artigo 162 do RIR/75, o qual condiciona a dedutibilidade das des pesas a que elas sejam necessárias à atividade da empresa e manutenção da respectiva fonte produtora. Ora, é inadmissível en tender que se revistam desses atributos despesas relativas a atos e omissões, proibidos e punidos por norma de ordem publica Assim, as multas impostas por transgressões de leis de natureza não tributária serão indedutíveis. A consideração superior. Cristovão Anchieta de Paiva FTF De acordo. Publique-se e, a seguir, encaminhem-se cópias às SS.RR.R.F. para conhecimento e ciência aos órgãos subordinados. Venor Jimir S. Doniak Coordenador do Sistema de Tributação COP PUBL
+

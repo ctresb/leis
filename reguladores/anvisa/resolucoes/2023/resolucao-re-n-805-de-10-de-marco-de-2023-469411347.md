@@ -1,0 +1,254 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 805, DE 10 DE MARÇO DE 2023"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "805"
+data: 2023-03-10
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 13/03/2023, seção 1, p. 104"
+data_publicacao: 2023-03-13
+edicao: "49"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-805-de-10-de-marco-de-2023-469411347"
+sha256_html_fonte: 9ad3eeba47c5eb7fcc1c7fc8e2b4a3357c1754ba78928b4dd098aba211ab6605
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE Nº 805, DE 10 DE MARÇO DE 2023
+
+RESOLUÇÃO-RE Nº 805, DE 10 DE MARÇO DE 2023
+
+O Coordenador de Autorização de Funcionamento de Empresas, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Alterar a Autorização de Funcionamento das Empresas constantes no anexo desta Resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+DROGARIA FACILMED LTDA-ME / 19.391.372/0001-14
+
+25351.424509/2014-07 / 7241429
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 0083906231
+
+--------------------------------------
+
+FAR MOC DROGARIA LTDA / 01.223.706/0001-85
+
+25351.312098/2014-08 / 7198389
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 0084873230
+
+--------------------------------------
+
+NK MATERIAIS HOSPITALARES LTDA / 34.479.102/0001-53
+
+25351.096496/2020-10 / 3092477
+
+714 - AFE - ALTERAÇÃO - SANEANTES DOMISSANITÁRIOS - ENDEREÇO MATRIZ / 0043473237
+
+--------------------------------------
+
+PAMYLA ELEN NEVES FERREIRA MELO / 43.596.798/0001-99
+
+25351.178211/2022-11 / 7921168
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0236318233
+
+--------------------------------------
+
+flavio robson de freitas barbosa / 08.414.147/0001-30
+
+25351.180513/2007-11 / 0491874
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 0084664231
+
+--------------------------------------
+
+FLORA DISTRIBUIDORA DE PRODUTOS DE HIGIENE E LIMPEZA LTDA / 11.852.585/0001-94
+
+25351.023035/2012-17 / 2064670
+
+7056 - AFE/AE - Recurso Administrativo / 0189198231
+
+--------------------------------------
+
+DSG FARMA DE ALPINOPOLIS LTDA - ME / 07.283.111/0001-00
+
+25351.262264/2014-18 / 7170533
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 0081018231
+
+--------------------------------------
+
+MAX FARMA LTDA / 39.648.192/0001-82
+
+25351.131540/2021-18 / 7789884
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0236421239
+
+--------------------------------------
+
+VINICIUS DE OLIVEIRA JESUS & CIA LTDA / 17.137.071/0001-33
+
+25351.297715/2014-20 / 7191713
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 0084317230
+
+--------------------------------------
+
+GUAITA, CHICARELLI & CIA LTDA / 07.610.464/0001-69
+
+25023.025531/2009-21 / 8070001
+
+829 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - RAZÃO SOCIAL / 0236867237
+
+--------------------------------------
+
+COSMEFAR INDUSTRIA E COMERCIO DE PRODUTOS QUIMICOS LTDA ME / 07.242.402/0001-41
+
+25351.743085/2010-22 / 2056995
+
+7170 - AFE - ALTERAÇÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 0043617239
+
+--------------------------------------
+
+MACMED COMÉRCIO DE MATERIAL HOSPITALAR LTDA / 00.907.742/0001-03
+
+25351.220597/2002-28 / 8012753
+
+867 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 0043300235
+
+--------------------------------------
+
+ENDOMIL DISTRIBUIDORA E IMPORTADORA LTDA / 14.246.422/0001-56
+
+25351.047665/2014-29 / 8102265
+
+829 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - RAZÃO SOCIAL / 0239039238
+
+--------------------------------------
+
+AA IMPORTACAO, COMERCIO E DISTRIBUICAO DE MATERIAIS DE BELEZA LTDA / 34.035.029/0001-20
+
+25351.071873/2023-42 / 4053978
+
+7170 - AFE - ALTERAÇÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 0118644238
+
+--------------------------------------
+
+FARMACIA MAIS VALE CORREIA PINTO LTDA / 18.514.962/0001-24
+
+25351.462334/2013-47 / 0990369
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0236489232
+
+--------------------------------------
+
+SUPERMERCADOS DO NORTE DO BRASIL LTDA / 05.327.241/0011-35
+
+25351.758912/2018-52 / 7621061
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 0084494239
+
+--------------------------------------
+
+NK MATERIAIS HOSPITALARES LTDA / 34.479.102/0001-53
+
+25351.096497/2020-56 / 8196432
+
+866 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - ENDEREÇO / 0043286232
+
+--------------------------------------
+
+MARDEN MEDICAL LTDA / 40.220.751/0001-38
+
+25351.295064/2021-62 / 8220952
+
+866 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - ENDEREÇO / 0038217236
+
+--------------------------------------
+
+Mawdsleys Pharmaceuticals do Brasil Ltda / 19.501.429/0001-90
+
+25351.337707/2016-65 / 1158322
+
+70792 - AFE - ALTERAÇÃO - MEDICAMENTOS E/OU INSUMOS FARMACÊUTICOS - AMPLIAÇÃO DE ATIVIDADES / 0043757235
+
+--------------------------------------
+
+FARMACIA SAO JOSE DE BALSAMO LTDA / 64.975.881/0001-49
+
+25351.675405/2013-70 / 7045977
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 0084382236
+
+--------------------------------------
+
+FLORA DISTRIBUIDORA DE PRODUTOS DE HIGIENE E LIMPEZA LTDA / 11.852.585/0001-94
+
+25351.023056/2012-73 / 3051809
+
+7056 - AFE/AE - Recurso Administrativo / 0189197234
+
+--------------------------------------
+
+JOELTON LOPES VILASBOAS & CIA LTDA / 05.677.457/0001-59
+
+25351.046365/2003-82 / 0395851
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0241186234
+
+--------------------------------------
+
+OLEGARIO DA ROCHA COMERCIO DE MEDICAMENTOS LTDA / 38.823.739/0001-76
+
+25351.634450/2021-84 / 7820196
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0236315234
+
+--------------------------------------
+
+DROGARIA FARMA MAIS SAUDE LTDA-EPP / 15.361.120/0001-91
+
+25351.034255/2016-92 / 7452611
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 0084246235
+
+--------------------------------------
+
+eloise oliveira cardoso dos santos me / 19.498.653/0001-70
+
+25351.136027/2014-94 / 7131121
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 0084850230
+
+--------------------------------------
+
+Lalan do Brasil Importação e Comércio de Equipamentos de Proteção Ltda / 26.124.320/0001-47
+
+25351.156044/2020-96 / 8197151
+
+866 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - ENDEREÇO / 0038557231
+
+--------------------------------------
+
+VILA COCAIS DROGARIA & PERFUMARIA LTDA / 11.091.780/0001-49
+
+25351.539028/2014-97 / 7285977
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0237056232
+
+--------------------------------------
+
+GRASSE AROMAS E INGREDIENTES IMPORTAÇÃO E EXPORTAÇÃO LTDA / 01.060.176/0001-00
+
+25351.478862/2006-99 / 1068443
+
+70792 - AFE - ALTERAÇÃO - MEDICAMENTOS E/OU INSUMOS FARMACÊUTICOS - AMPLIAÇÃO DE ATIVIDADES / 0043472231
+
+25351.478862/2006-99 / 1068443
+
+70800 - AFE - ALTERAÇÃO - MEDICAMENTOS E/OU INSUMOS FARMACÊUTICOS - RAZÃO SOCIAL / 0043261230

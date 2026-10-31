@@ -1,0 +1,36 @@
+---
+titulo: "PORTARIAS DE 15 DE FEVEREIRO DE 2018"
+orgao: "Departamento de Radiodifusão Educativa, Comunitária e de Fiscalização/Departamento de Radiodifusão Educativa, Comunitária e de Fiscalização"
+tipo: "Portaria"
+numero: ""
+data: ""
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 19/02/2018, seção 1, p. 10"
+data_publicacao: 2018-02-19
+edicao: "33"
+fonte: "https://www.in.gov.br/web/dou/-/portarias-de-15-de-fevereiro-de-2018-3546334"
+sha256_html_fonte: f72b44ebcbabaa955246b9e45906e1c700a6fc2c2dab7162cfd3f2f88548375b
+baixado_em: 2026-10-27
+---
+# PORTARIAS DE 15 DE FEVEREIRO DE 2018
+
+A DIRETORA DO DEPARTAMENTO DE RADIODIFUSÃO EDUCATIVA, COMUNITÁRIA E DE FISCALIZAÇÃO, SUBSTITUTA, no uso das atribuições que lhe confere o Anexo III, artigo 77, § 2º, X do Regimento Interno da Secretaria de Radiodifusão, aprovado pela Portaria MCTIC nº 1.729, de 31 de março de 2017, e tendo em vista o que consta nos processos abaixo, resolve:
+
+**Art. 1º** Aplicar às Entidades abaixo relacionadas a penalidade de multa e/ou advertência.
+
+**Art. 2º** Estas Portarias entram em vigor na data de suas publicações.
+
+<table><tr></tr><tr><td><p>N° do Processo</p></td><td><p>Entidade</p></td><td><p>Serviço</p></td><td><p>Município</p></td><td><p>UF</p></td><td><p>Sanção</p></td><td><p>Valor (R$)</p></td><td><p>Enquadramento Legal</p></td><td><p>Portaria</p></td><td><p>Embasamento da Portaria de Multa</p></td></tr><tr><td><p>53532.002854/2013</p></td><td><p>Associação Cultural E Comunitária José Gouveia Da Silva</p></td><td><p>RADCOM</p></td><td><p>Amaraji</p></td><td><p>PE</p></td><td><p>Multa</p></td><td><p>1.713,49</p></td><td><p>Art. 40, XXII, do Decreto n° 2.615/1998, c/c o item 15.3 da Norma Complementar n° 01/2011</p></td><td><p>Portaria DECEF n° 228, de 15/02/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>PortariaMC nº 562/2011</p></td></tr><tr><td><p>53900.017141/2014</p></td><td><p>Associação Comunitária Rádio Monte Sinai Fm</p></td><td><p>RADCOM</p></td><td><p>Garanhuns</p></td><td><p>PE</p></td><td><p>Multa</p></td><td><p>2.056,19 </p></td><td><p>Art. 40, XVI e XXIX, do Decreto n° 2.615/1998. </p></td><td><p>Portaria DECEF n° 316, de 15/02/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC nº 562/2011</p></td></tr><tr><td><p>53569.002798/2013</p></td><td><p>Associação Cultural E Beneficiente De Marapanim</p></td><td><p>RADCOM</p></td><td><p>Marapanim</p></td><td><p>PA</p></td><td><p>Multa</p></td><td><p>1.142,33</p></td><td><p>Art. 40, XXII, do Decreto n° 2.615/1998, c/c o item 15.3 da Norma Complementar n° 01/2011</p></td><td><p>Portaria DECEF n° 339, de 15/02/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>PortariaMC nº 562/2011</p></td></tr><tr><td><p>53569.002797/2013</p></td><td><p>Associação De Radiodifusão Comunitária De Magalhães Barata</p></td><td><p>RADCOM</p></td><td><p>Magalhães Barata</p></td><td><p>PA</p></td><td><p>Multa</p></td><td><p>571,16</p></td><td><p>Art. 40, XXII, do Decreto n° 2.615/1998, c/c o item 15.3 da Norma Complementar n° 01/2011</p></td><td><p>Portaria DECEF n° 341, de 15/02/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>PortariaMC nº 562/2011</p></td></tr><tr><td><p>53569.002799/2013</p></td><td><p>Associação Comunitária De Colares (Rádio Comunitária Rosário Fm Stereo)</p></td><td><p>RADCOM</p></td><td><p>Colares</p></td><td><p>PA</p></td><td><p>Multa</p></td><td><p>571,16</p></td><td><p>Art. 40, XXII, do Decreto n° 2.615/1998, c/c o item 15.3 da Norma Complementar n° 01/2011</p></td><td><p>Portaria DECEF n° 342, de 15/02/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>PortariaMC nº 562/2011</p></td></tr><tr><td><p>53900.008414/2015</p></td><td><p>Associação Cultural Comunitária Rádio Livre</p></td><td><p>RADCOM</p></td><td><p>Ipiaú</p></td><td><p>BA</p></td><td><p>Multa</p></td><td><p> 1.599,26</p></td><td><p>Art. 40,VI, do Decreto n° 2.615/1998. </p></td><td><p>Portaria DECEF n° 343, de 15/02/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>PortariaMC nº 562/2011</p></td></tr><tr><td><p>53900.011251/2015</p></td><td><p>Associação Boavistense Para O Desenvolvimento Cultural Comunitário</p></td><td><p>RADCOM</p></td><td><p>Boa Vista do Ramos</p></td><td><p>AM</p></td><td><p>Multa</p></td><td><p> 799,63</p></td><td><p>Art. 40,VI, do Decreto n° 2.615/1998. </p></td><td><p>Portaria DECEF n° 354, de 15/02/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>PortariaMC nº 562/2011</p></td></tr><tr><td><p>53504.002379/2013</p></td><td><p>Associação Comunitária E Cultural De Novo Horizonte</p></td><td><p>RADCOM</p></td><td><p>Novo Horizonte</p></td><td><p>SP</p></td><td><p>Multa</p></td><td><p>913,86</p></td><td><p>Art. 40, XIX, do Decreto n° 2.615/1998. </p></td><td><p>Portaria DECEF n° 355, de 15/02/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>PortariaMC nº 562/2011</p></td></tr><tr><td><p>53536.000073/2013</p></td><td><p>Rádio Pioneira De Delmiro Gouveia Ltda</p></td><td><p>FM</p></td><td><p>Delmiro Gouveia</p></td><td><p>AL</p></td><td><p> Multa</p></td><td><p>5.177,63</p></td><td><p>Item II da Portaria nº 160/1987. </p></td><td><p>Portaria DECEF n° 357, de 15/02/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>PortariaMC nº 562/2011</p></td></tr><tr><td><p>53000.005445/2014</p></td><td><p>Associação Comunitária De Difusão Cultural De Indaial</p></td><td><p>RADCOM</p></td><td><p>Indaial</p></td><td><p>SC</p></td><td><p> Multa</p></td><td><p>1.370,79</p></td><td><p>Art. 40, XXIX, do Decreto n° 2.615/1998. </p></td><td><p>Portaria DECEF n° 421, de 15/02/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>PortariaMC nº 562/2011</p></td></tr><tr><td><p>53900.019530/2014</p></td><td><p>Associação Sócio Cultural São Romão</p></td><td><p>RADCOM</p></td><td><p>Fernando Pedroza</p></td><td><p>RN</p></td><td><p> Multa e Advertência</p></td><td><p> 456,93</p></td><td><p>Art. 40, XVII e XXIX, do Decreto n° 2.615/1998. </p></td><td><p>Portaria DECEF n° 450, de 15/02/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>PortariaMC nº 562/2011</p></td></tr></table>
+
+A DIRETORA DO DEPARTAMENTO DE RADIODIFUSÃO EDUCATIVA, COMUNITÁRIA E DE FISCALIZAÇÃO, SUBSTITUTA, no uso das atribuições que lhe confere o artigo 9° da Portaria n° 112, de 22 de abril de 2013, publicada no Diário Oficial da União - DOU de 23 de abril de 2013, e tendo em vista o que consta nos processos abaixo, resolve:
+
+**Art. 1º** Aplicar à Entidade abaixo relacionada a penalidade de advertência.
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação.
+
+<table><tr></tr><tr><td><p>N° do Processo</p></td><td><p>Entidade</p></td><td><p>Serviço</p></td><td><p>Município</p></td><td><p>UF</p></td><td><p>Sanção</p></td><td><p>Enquadramento Legal</p></td><td><p>Portaria</p></td><td><p>Embasamento da Portaria de Multa</p></td></tr><tr><td><p>53536.000149/2013</p></td><td><p>Associação De Desenvolvimento Comunitário, Beneficente E Cultural De Olivença</p></td><td><p>RADCOM</p></td><td><p>Olivença</p></td><td><p>AL</p></td><td><p>Advertência</p></td><td><p>Art. 40, XII, do Decreto n° 2.615/1998, c/c o item 21.1 da Norma Complementar n° 01/2011</p></td><td><p>Portaria DECEF n° 358, de 15/02/2018</p></td><td><p>Portaria MC n° 112/2013</p></td></tr></table>
+
+INEZ JOFFILY FRANÇA
+
+Este conteúdo não substitui o publicado na versão certificada.

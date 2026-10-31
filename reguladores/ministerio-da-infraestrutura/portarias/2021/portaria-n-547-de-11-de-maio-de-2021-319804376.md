@@ -1,0 +1,36 @@
+---
+titulo: "PORTARIA Nº 547, DE 11 DE MAIO DE 2021"
+orgao: "Ministério da Infraestrutura/Secretaria de Fomento, Planejamento e Parcerias"
+tipo: "Portaria"
+numero: "547"
+data: 2021-05-11
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 14/05/2021, seção 1, p. 43"
+data_publicacao: 2021-05-14
+edicao: "90"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-547-de-11-de-maio-de-2021-319804376"
+sha256_html_fonte: 49168804b4502e21c98c9db2e966aacb6dd3f40cc652b17a62bf6517246a3f6a
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 547, DE 11 DE MAIO DE 2021
+
+PORTARIA Nº 547, DE 11 DE MAIO DE 2021
+
+Aprova como prioritário, para fins de emissão de debêntures incentivadas, o Projeto de Investimento em Infraestrutura Rodoviária, no setor de logística e transporte, proposto pela Eixo SP Concessionária de Rodovias S/A.
+
+A SECRETÁRIA DE FOMENTO, PLANEJAMENTO E PARCERIAS DO MINISTÉRIO DA INFRAESTRUTURA, no uso da competência que lhe foi delegada por meio da Portaria GM/MINFRA nº 46, de 11 de março de 2021, e tendo em vista o disposto na Lei nº 12.431, de 24 de junho de 2011, no Decreto nº 8.874, de 11 de outubro de 2016 e na Portaria GM/MTPA nº 517, de 05 de outubro de 2018, resolve:
+
+**Art. 1º** Aprovar como prioritário, para fins de emissão de debêntures incentivadas, o projeto de investimento em infraestrutura rodoviária, no setor de logística e transporte, denominado "Projeto Rodoviário Piracicaba Panorama", proposto pela empresa Eixo SP Concessionária de Rodovias S.A., CNPJ nº 36.146.575/0001-64, que tem por objeto a prestação de serviços públicos de operação, manutenção e realização de investimentos no sistema rodoviário que integra o trecho Piracicaba - Panorama, também conhecido como concessão Rodoviária Piracicaba - Panorama, compreendendo 1.273 km de extensão, no Estado de São Paulo, referente ao Contrato de Concessão ARTESP nº 0409/ARTESP/2020 - Edital de Concorrência Internacional nº 001/2019, conforme descrito no Anexo desta Portaria.
+
+**Art. 2º** A empresa Eixo SP Concessionária de Rodovias S.A. deverá manter atualizada, junto ao Ministério da Infraestrutura, a relação das pessoas jurídicas que a integram ou a identificação da sociedade controladora, conforme previsto no art. 5º, I, do Decreto nº 8.874, de 2016
+
+**Art. 3º** Os autos do Processo nº 50000.009604/2021-22 ficarão arquivados e disponíveis neste Ministério, para consulta e fiscalização dos órgãos de controle.
+
+**Art. 4º** Esta Portaria entra em vigor na data de sua publicação.
+
+NATÁLIA MARCASSA DE SOUZA
+
+## ANEXO
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="2"><p>ANEXO</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Descrição do Projeto</p></td>      <td rowspan="1" colspan="1"><p>O Projeto da empresa Eixo SP Concessionária de Rodovias S.A., denominado "Projeto Rodoviário Piracicaba Panorama", tem por objeto a prestação de</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>serviços públicos de operação, manutenção e realização de investimentos no sistema rodoviário que integra o trecho Piracicaba - Panorama, também conhecido como</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>concessão Rodoviária Piracicaba - Panorama, compreendendo 1.273 km de extensão, no Estado de São Paulo, referente ao Contrato de Concessão ARTESP nº</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>0409/ARTESP/2020 - Edital de Concorrência Internacional nº 001/2019, inclui, dentre outros, os seguintes serviços e obras:</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>- Trabalhos iniciais relacionados a recuperação emergencial em toda a infraestrutura relacionada a Concessão: (i) Pavimentação; (ii) Faixa de Domínio; (iii)</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>Drenagem; (iv) Contenção Viária; e (v) Sinalização.</p><p>- Duplicação de 480 quilômetros de faixas rodoviárias entre o Município de Bauru,</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>Marília e o Município de Presidente Prudente. - Construção de faixas adicionais, dispositivos de retorno e de outras estruturas rodoviárias.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>- Implementação das seguintes infraestruturas de transporte: (i) 35 dispositivos de entroncamento; (ii) 77 km de terceiras e quartas faixas; (iii) 12 km de</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>vias marginais; (iv) 275 km de acostamentos; e (v) Implantação do Anel de Águas de São Pedro. - Investimentos em Serviços de Atendimento aos Usuários -</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>SAU: (i) Implantação, operação e manutenção de 32 Bases Operacionais; (ii) 32 ambulâncias, 20 guinchos, 7 veículos de combate a incêndio, 7 veículos de;</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>apreensão de animais e 23 veículos de inspeção, que já estão em operação; e (iii) Monitoramento da Rodovia: câmeras de CFTV, sensores de tráfego, Painéis de Mensagens Variáveis - PMV (Fixos e Móveis) e</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>implantação do Centro de Controle Operacional - CCO. - Inovações operacionais relacionadas a implantação de rede de dados sem fio (Wi-Fi).</p><p>- Implantação de sistema de radiocomunicação e</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>investimentos relacionados a estação de rede de fibra ótica.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Nome Empresarial</p></td>      <td rowspan="1" colspan="1"><p>Eixo SP Concessionária de Rodovias S.A.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>CNPJ</p></td>      <td rowspan="1" colspan="1"><p>36.146.575/0001-64</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Relação das Pessoas Jurídicas</p></td>      <td rowspan="1" colspan="1"><p>- Infraestrutura Brasil Holding IX S.A. - 100% (CNPJ nº 36.062.772/0001-03)</p></td>     </tr>     <tr>      <td rowspan="1" colspan="2"><p>Relação dos Principais Documentos Apresentados</p><p>- Formulário de Cadastro do Projeto (Anexo I).</p><p>- Quadro Anual de Usos e Fontes do Investimento (Anexo II).</p><p>- Ata da Assembleia Geral Extraordinária da Concessionária de Rodovias Piracicaba -</p></td>     </tr>     <tr>      <td rowspan="1" colspan="2"><p>Panorama S.A. - Alteração da Denominação Social da Companhia para Eixo SP Concessionária de Rodovias S.A., realizada em 01 de junho de 2020.</p><p>- Comprovante de Inscrição e de Situação Cadastral.</p><p>- Certidão Negativa de Débitos relativos aos Tributos Federais e à Dívida Ativa da União.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="2"><p>Local de Implantação do Projeto</p><p>Estado de São Paulo</p></td>     </tr>    </tbody>   </table>

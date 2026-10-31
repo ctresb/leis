@@ -1,0 +1,71 @@
+---
+titulo: "PORTARIA GM/MS Nº 8.643, DE 3 DE NOVEMBRO DE 2025"
+orgao: "Ministério da Saúde/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "8643"
+data: 2025-11-03
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 04/11/2025, seção 1, p. 155"
+data_publicacao: 2025-11-04
+edicao: "210"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-gm/ms-n-8.643-de-3-de-novembro-de-2025-666605429"
+baixado_em: 2026-10-16
+---
+# PORTARIA GM/MS Nº 8.643, DE 3 DE NOVEMBRO DE 2025
+
+PORTARIA GM/MS Nº 8.643, DE 3 DE NOVEMBRO DE 2025
+
+Autoriza o Município ou Distrito Federal a receber recursos referentes ao incremento temporário ao custeio dos serviços de Atenção Primária à Saúde.
+
+O MINISTRO DE ESTADO DA SAÚDE, no uso das atribuições que lhe conferem os incisos I e II do parágrafo único do art. 87 da Constituição, em observância a Lei nº 15.121, de 10 de abril de 2025, Lei Complementar nº 141, de 13 de janeiro de 2012, Lei nº 8.080, de 19 de setembro de 1990, resolve:
+
+**Art. 1º** Ficam autorizados os Municípios e o Distrito Federal descritos no anexo a esta Portaria a receberem recursos financeiros referentes ao incremento temporário para o custeio dos serviços de Atenção Primária à Saúde.
+
+**Art. 2º** Os recursos financeiros tratados nesta Portaria referem-se à aplicação das emendas parlamentares para incremento temporário do Piso da Atenção Primária à Saúde.
+
+**Art. 3º** As propostas de que tratam esta portaria serão processadas no InvestSUS, disponível no portalfns.saude.gov.br.
+
+**Art. 4º** O Fundo Nacional de Saúde adotará as medidas necessárias para as transferências de recursos financeiros estabelecidas nesta Portaria aos respectivos Fundos de Saúde, em parcela única, em conformidade com os processos de pagamento instruídos pela Secretaria Finalística, após atendidas as condições previstas para essa modalidade de transferência.
+
+**Art. 5º** A prestação de contas sobre a aplicação dos recursos financeiros será realizada por meio do Relatório Anual de Gestão - RAG aprovado pelo respectivo Conselho local de saúde, nos termos dos artigos 34 a 36 da Lei Complementar nº 141, de 14 de janeiro de 2012.
+
+**Art. 6º** Esta Portaria entra em vigor na data de sua publicação.
+
+ALEXANDRE ROCHA SANTOS PADILHA
+
+## ANEXO
+
+Entes federados autorizados a receberem recursos financeiros federais de emendas destinados ao incremento temporário ao custeio dos serviços de Atenção Primária à Saúde.
+
+| UF | MUNICÍPIO | ENTIDADE | Nº DA PROPOSTA | CÓD. EMENDA | VALOR POR EMENDA (R$) | VALOR TOTAL DA PROPOSTA (R$) | FUNCIONAL PROGRAMÁTICA |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| AM | NHAMUNDA | FUNDO MUNICIPAL DE SAUDE | 36000705313202500 | 71040005 | 399.999,00 | 399.999,00 | 1030151192E890013 |
+| GO | ARAGARCAS | FUNDO MUNICIPAL DE SAUDE | 36000714786202500 | 71100002 | 150.000,00 | 150.000,00 | 1030151192E890052 |
+| GO | BARRO ALTO | FUNDO MUNICIPAL DE SAUDE DE BARRO ALTO | 36000714414202500 | 71100002 | 200.000,00 | 200.000,00 | 1030151192E890052 |
+| GO | CAMPO LIMPO DE GOIAS | FUNDO MUNICIPAL DE SAUDE | 36000715025202500 | 71100002 | 80.000,00 | 80.000,00 | 1030151192E890052 |
+| GO | DOVERLANDIA | FUNDO MUNICIPAL DE SAUDE DE DOVERLANDIA | 36000715329202500 | 71100002 | 110.000,00 | 110.000,00 | 1030151192E890052 |
+| GO | EDEALINA | FUNDO MUNICIPAL DE SAUDE DE EDEALINA | 36000714694202500 | 71100002 | 500.000,00 | 500.000,00 | 1030151192E890052 |
+| GO | MUNDO NOVO | MUNCIPIO DE MUNDO NOVO - FMS | 36000714919202500 | 71100002 | 150.000,00 | 150.000,00 | 1030151192E890052 |
+| GO | TERESINA DE GOIAS | FUNDO MUNICIPAL DE SAUDE DE TERESINA DE GOIAS | 36000693774202500 | 71100002 | 1.396.707,00 | 1.396.707,00 | 1030151192E890052 |
+| MA | CAROLINA | MUNICIPIO DE CAROLINA - FUNDO MUNICIPAL DE SAUDE | 36000699029202500 | 71110002 | 622.366,00 | 622.366,00 | 1030151192E890021 |
+| MA | DOM PEDRO | FUNDO MUNCIPAL DE SAUDE DE DOM PEDRO-MA | 36000699303202500 | 71110002 | 617.458,00 | 617.458,00 | 1030151192E890021 |
+| MG | CONCEICAO DAS PEDRAS | FUNDO MUNICIPAL DE SAUDE | 36000704485202500 | 71140002 | 111.089,00 | 111.089,00 | 1030151192E890031 |
+| MG | CRISTINA | FUNDO MUNICIPAL DE SAUDE | 36000715140202500 | 71140002 | 200.000,00 | 200.000,00 | 1030151192E890031 |
+| MG | URUCUIA | FUNDO MUNICIPAL DE SAUDE DE URUCUIA | 36000699579202500 | 71140002 | 153.476,00 | 153.476,00 | 1030151192E890031 |
+| PA | BUJARU | FUNDO MUNICIPAL DE SAUDE DE BUJARU | 36000710246202500 | 71150003 | 1.000.000,00 | 1.000.000,00 | 1030151192E890015 |
+| PA | SANTA LUZIA DO PARA | FUNDO MUNICIPAL DE SAUDE DE SANTA LUZIA DO PARA | 36000703194202500 | 71150003 | 199.000,00 | 199.000,00 | 1030151192E890015 |
+| PB | ARARA | FUNDO MUNICIPAL DE SAUDE DO MUNICIPIO DE ARARA - PB | 36000704646202500 | 71160002 | 2.700.000,00 | 2.700.000,00 | 1030151192E890025 |
+| PB | RIACHO DOS CAVALOS | RIACHO DOS CAVALOS FUNDO MUNICIPAL DE SAUDE | 36000710668202500 | 71160002 | 300.000,00 | 300.000,00 | 1030151192E890025 |
+| PB | TACIMA | FUNDO MUNICIPAL DE SAUDE DE TACIMA | 36000709842202500 | 71160002 | 250.000,00 | 250.000,00 | 1030151192E890025 |
+| PE | CHA DE ALEGRIA | FUNDO MUNICIPAL DE SAUDE DE CHA DE ALEGRIA | 36000695652202500 | 71180003 | 372.870,00 | 372.870,00 | 1030151192E890026 |
+| PE | INGAZEIRA | FUNDO MUNICIPAL DE SAUDE | 36000698437202500 | 71180003 | 331.440,00 | 331.440,00 | 1030151192E890026 |
+| PE | JOAQUIM NABUCO | FUNDO MUNICIPAL DE SAUDE DE JOAQUIM NABUCO | 36000695800202500 | 71180003 | 165.720,00 | 165.720,00 | 1030151192E890026 |
+| PE | MIRANDIBA | FUNDO MUNICIPAL DE SAUDE DE MIRANDIBA | 36000704309202500 | 71180003 | 414.300,00 | 414.300,00 | 1030151192E890026 |
+| PE | PASSIRA | FUNDO MUNICIPAL DE SAUDE | 36000712307202500 | 71180003 | 500.000,00 | 500.000,00 | 1030151192E890026 |
+| SC | ORLEANS | FUNDO MUNICIPAL DE SAUDE DE ORLEANS | 36000714076202500 | 71260002 | 175.784,00 | 175.784,00 | 1030151192E890042 |
+| SC | PASSOS MAIA | FUNDO MUNICIPAL DE SAUDE DE PASSOS MAIA | 36000714514202500 | 71260002 | 150.000,00 | 150.000,00 | 1030151192E890042 |
+| SC | SAO JOAQUIM | FUNDO MUNICIPAL DE SAUDE DE SAO JOAQUIM-SC | 36000696987202500 | 71260002 | 1.296.050,00 | 1.296.050,00 | 1030151192E890042 |
+| SC | TIGRINHOS | FUNDO MUNICIPAL DE SAUDE DE TIGRINHOS | 36000706829202500 | 71260002 | 150.000,00 | 150.000,00 | 1030151192E890042 |
+| SC | URUPEMA | FUNDO MUNICIPAL DE SAUDE DE URUPEMA | 36000704119202500 | 71260002 | 277.909,00 | 277.909,00 | 1030151192E890042 |
+| TOTAL | 28 PROPOSTAS |  | 12.974.168,00 |  |  |  |  |

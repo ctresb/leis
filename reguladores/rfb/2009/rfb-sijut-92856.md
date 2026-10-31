@@ -1,0 +1,157 @@
+---
+titulo: "Solução de Consulta Disit/SRRF06 nº 10, de 13 de fevereiro de 2009"
+orgao: "Divisão de Tributação da 6ª Região Fiscal"
+tipo: "Solução de Consulta"
+numero: "10"
+data: "2009-02-13"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 20/02/2009, seção 1, página 34"
+data_publicacao: "2009-02-20"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/92856/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/92856/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "92856"
+sha256_texto: "a5747b4072df32bf2f103c5f252b624d8c1f783119d75107900610c1710e45bf"
+baixado_em: "2026-10-21"
+---
+# Solução de Consulta Disit/SRRF06 nº 10, de 13 de fevereiro de 2009
+
+ASSUNTO: Normas Gerais de Direito Tributário  
+EMENTA: Os débitos relativos ao pagamento mensal por estimativa do Imposto sobre a Renda da Pessoa Jurídica - IRPJ e da Contribuição Social sobre o Lucro Líquido - CSLL não podem ser objeto de compensação pelo sujeito passivo, inclusive nos casos em que o sujeito passivo reduza o valor da estimativa mensal por meio de balanços ou balancetes mensais de redução.  
+DISPOSITIVOS LEGAIS: Lei nº 9.430, de 2006, arts. 1º, 2º, 3º, e 74, §3º, IX; MP nº 449, art. 29.
+
+
+
+Fls. 20
+
+nfls MINISTÉRIO DA FAZENDA txtfls 19
+
+SECRETARIA DA RECEITA FEDERAL DO BRASIL SUPERINTENDÊNCIA REGIONAL DA RECEITA FEDERAL DO BRASIL 6 ª R E G I ÃO F I S C AL
+
+Processo nº Solução de Consulta nº 10 - SRRF/6ª RF/Disit Data 13 de fevereiro de 2009 Interessado
+
+CNPJ/CPF
+
+ASSUNTO: NORMAS GERAIS DE DIREITO TRIBUTÁRIO Os débitos relativos ao pagamento mensal por estimativa do Imposto sobre a Renda da Pessoa Jurídica - IRPJ e da Contribuição Social sobre o Lucro Líquido - CSLL não podem ser objeto de compensação pelo sujeito passivo, inclusive nos casos em que o sujeito passivo reduza o valor da estimativa mensal por meio de balanços ou balancetes mensais de redução. Dispositivos Legais: Lei nº 9.430, de 2006, arts. 1º, 2º, 3º, e 74, §3º, IX; MP nº 449, art. 29.
+
+DOCUMENTO FORNECIDO EM CUMPRIMENTO À LEI DE ACESSO A INFORMAÇÃO. REGISTRE-SE QUE A PUBLICAÇÃO, NA IMPRENSA OFICIAL, DE ATO NORMATIVO SUPERVENIENTE MODIFICA AS CONCLUSÕES EM CONTRÁRIO CONSTANTES EM SOLUÇÕES DE CONSULTA OU EM SOLUÇÕES DE DIVERGÊNCIA, INDEPENDENTEMENTE DE COMUNICAÇÃO AO CONSULENTE (arts. 99 e 100 do Decreto nº 7.574, de 29 de setembro de 2011).
+
+Relatório
+
+A consulente, pessoa jurídica cujo objeto social é a prática de operações de arrendamento mercantil, informa que apura o Imposto de Renda com base no lucro real e apresenta consulta sobre interpretação da legislação tributária, na forma da IN RFB nº 740, de 2007.
+
+2. O art. 74 da Lei nº 9.430, de 1996, que trata de compensação pelo sujeito passivo de créditos relativos a tributos e contribuições administrados pela Secretaria da Receita
+
+SRRF/6ª RF/Disit Fls. 21
+
+Federal, foi modificado pelo art. 29 da MP nº 449, de 2008. A partir da vigência desse dispositivo, ficou proibida a compensação, pelo sujeito passivo, de débitos relativos ao pagamento mensal por estimativa do IRPJ e da CSLL, apurados na forma do art. 2º da Lei nº 9.430, de 1996. Isso posto, a consulente indaga se esta proibição se aplica também aos pagamentos mensais de IRPJ e CSLL feitos com base em balanços de suspensão e redução de que trata o art. 35 da Lei nº 8.981, de 1995. A consulente defende o entendimento de que o art. 74, § 3º, IX, não impede a compensação dos débitos relativos aos recolhimentos mensais de IRPJ e CSLL calculados por meio de balanço de suspensão e redução.
+
+3. Esse é o relatório, em breve resumo.
+
+Fundamentos
+
+4. Os arts. 1º, 2º e 3º, combinados com o art. 28 da Lei nº 9.430, de 1996, estabeleceram as formas de pagamento do IRPJ e da CSLL vigentes até hoje, in verbis:
+
+#### Capítulo I
+
+Imposto de Renda - Pessoa Jurídica
+
+##### Seção I
+
+Apuração da Base de Cálculo
+
+Período de Apuração Trimestral
+
+**Art. 1º** A partir do ano-calendário de 1997, o imposto de renda das pessoas jurídicas será determinado com base no lucro real, presumido, ou arbitrado, por períodos de apuração trimestrais, encerrados nos dias 31 de março, 30 de junho, 30 de setembro e 31 de dezembro de cada ano-calendário, observada a legislação vigente, com as alterações desta Lei.
+
+**§ 1º** Nos casos de incorporação, fusão ou cisão, a apuração da base de cálculo e do imposto de renda devido será efetuada na data do evento, observado o disposto no art. 21 da Lei nº 9.249, de 26 de dezembro de 1995.
+
+**§ 2°** Na extinção da pessoa jurídica, pelo encerramento da liquidação, a apuração da base de cálculo e do imposto devido será efetuada na data desse evento.
+
+Pagamento por Estimativa
+
+**Art. 2º** A pessoa jurídica sujeita a tributação com base no lucro real poderá optar pelo pagamento do imposto, em cada mês, determinado sobre base de cálculo estimada, mediante a aplicação, sobre a receita bruta auferida mensalmente, dos percentuais de que trata o art. 15 da
+
+Lei nº 9.249, de 26 de dezembro de 1995, observado o disposto nos §§ 1º e 2º do art. 29 e nos arts. 30 a 32, 34 e 35 da Lei nº 8.981, de 20 de janeiro de 1995, com as alterações da Lei nº 9.065, de 20 de junho de 1995.
+
+SRRF/6ª RF/Disit Fls. 22
+
+**§ 1º** O imposto a ser pago mensalmente na forma deste artigo será determinado mediante a aplicação, sobre a base de cálculo, da alíquota de quinze por cento.
+
+**§ 2º** A parcela da base de cálculo, apurada mensalmente, que exceder a R$ 20.000,00 (vinte mil reais) ficará sujeita à incidência de adicional de imposto de renda à alíquota de dez por cento.
+
+**§ 3º** A pessoa jurídica que optar pelo pagamento do imposto na forma deste artigo deverá apurar o lucro real em 31 de dezembro de cada ano, exceto nas hipóteses de que tratam os §§ 1º e 2º do artigo anterior.
+
+**§ 4º** Para efeito de determinação do saldo de imposto a pagar ou a ser compensado, a pessoa jurídica poderá deduzir do imposto devido o valor:
+
+I - dos incentivos fiscais de dedução do imposto, observados os limites e prazos fixados na legislação vigente, bem como o disposto no § 4º do
+
+art. 3º da Lei nº 9.249, de 26 de dezembro de 1995;
+
+II - dos incentivos fiscais de redução e isenção do imposto, calculados com base no lucro da exploração;
+
+III - do imposto de renda pago ou retido na fonte, incidente sobre receitas computadas na determinação do lucro real;
+
+IV - do imposto de renda pago na forma deste artigo.
+
+##### Seção II
+
+Pagamento do Imposto
+
+Escolha da Forma de Pagamento
+
+**Art. 3º** A adoção da forma de pagamento do imposto prevista no art. 1º, pelas pessoas jurídicas sujeitas ao regime do lucro real, ou a opção pela forma do art. 2º será irretratável para todo o ano-calendário.
+
+**Parágrafo único.** A opção pela forma estabelecida no art. 2º será manifestada com o pagamento do imposto correspondente ao mês de janeiro ou de início de atividade.
+
+#### Capítulo II
+
+Contribuição Social sobre o Lucro Líquido
+
+##### Seção I
+
+Apuração da Base de Cálculo e Pagamento
+
+Normas Aplicáveis
+
+**Art. 28.** Aplicam-se à apuração da base de cálculo e ao pagamento da contribuição social sobre o lucro líquido as normas da legislação vigente e as correspondentes aos arts. 1º a 3º, 5º a 14, 17 a 24, 26, 55 e 71, desta Lei.
+
+SRRF/6ª RF/Disit Fls. 23
+
+5. Por sua vez, o inciso IX do § 3º do art. 74 da Lei nº 9.430, de 1996, acrescentado pela MP nº 449, de 2008, proíbe a compensação pelo sujeito passivo de débitos relativos ao pagamento mensal por estimativa do IRPJ e da CSLL, nos seguintes termos:
+
+**Art. 74.** O sujeito passivo que apurar crédito, inclusive os judiciais com trânsito em julgado, relativo a tributo ou contribuição administrado pela Secretaria da Receita Federal, passível de restituição ou de ressarcimento, poderá utilizá-lo na compensação de débitos próprios relativos a quaisquer tributos e contribuições administrados por aquele Órgão.(Redação dada pela Lei nº 10.637, de 2002)
+
+**§ 3º** Além das hipóteses previstas nas leis específicas de cada tributo ou contribuição, não poderão ser objeto de compensação mediante entrega, pelo sujeito passivo, da declaração referida no § 1º: (Redação dada pela Lei nº 10.833, de 2003)
+
+(...)
+
+IX - os débitos relativos ao pagamento mensal por estimativa do Imposto sobre a Renda da Pessoa Jurídica - IRPJ e da Contribuição Social sobre o Lucro Líquido - CSLL apurados na forma do art. 2º. (Redação dada pela MP nº 449, de 3 de dezembro de 2008)
+
+6. Para se entender a questão proposta, é preciso entender a sistemática de apuração e pagamento do IRPJ e da CSLL constantes dos artigos reproduzidos. Para quem apura o IRPJ com base no lucro real, há duas formas de apuração do imposto: a apuração trimestral de que trata o art. 1º, e a apuração anual com pagamento mensal por estimativa de que trata o art. 2º. O art. 3º da Lei nº 9.430, de 1996, trata da adoção pelo contribuinte de uma entre as duas formas possíveis de pagamento do IRPJ com base no lucro real. Não há, portanto, uma terceira forma de pagamento com base em balanços mensais de suspensão ou redução. O que há é a possibilidade, prevista no próprio art. 2º, de reduzir ou mesmo suspender o pagamento mensal por estimativa com base em balanços ou balancetes mensais de que tratam o
+
+art. 35 da Lei nº 8.981, de 1995. Assim, quando o art. 74, § 3º, IX, da Lei nº 9.430, de 1996, proíbe a compensação de débitos relativos aos pagamentos mensais por estimativa de IRPJ e CSLL, “apurados na forma do art. 2º”, a proibição é de o sujeito passivo quitar por meio de compensação quaisquer débitos relativos aos pagamentos mensais por estimativa do IRPJ e da CSLL, quer ele tenha se utilizado no período da faculdade de reduzir o valor do débito por meio de balanços de redução ou não. Acrescente-se que no caso de o contribuinte levantar balanço de suspensão não há débito a ser compensado.
+
+7. Do ponto de vista teleológico, também não se justifica a interpretação que a consulente defende. Isso porque a vedação de compensação de débitos relativos às estimativas mensais está ligada à natureza desses débitos, que são antecipações obrigatórias, sendo o tributo apurado anualmente. Essa natureza, de pagamento antecipado, não se altera quer a estimativa seja paga integralmente, quer seja reduzida por meio da faculdade de levantamento de balanços de redução.
+
+Conclusão
+
+8. Os débitos relativos ao pagamento mensal por estimativa do Imposto sobre a Renda da Pessoa Jurídica - IRPJ e da Contribuição Social sobre o Lucro Líquido – CSLL não podem ser objeto de compensação pelo sujeito passivo, inclusive nos casos em que o sujeito
+
+SRRF/6ª RF/Disit Fls. 24
+
+passivo reduza o valor da estimativa mensal por meio de balanços ou balancetes mensais de redução.
+
+Ordem de Intimação
+
+9. Dê-se ciência desta solução de consulta. 10. [...]. 11. Na forma do disposto no art. 48 da Lei nº 9.430, de 27 de dezembro de 1996, os processos administrativos de consulta serão solucionados em instância única, não comportando, assim, a presente solução de consulta recurso de ofício ou voluntário. Excepcionalmente, se o interessado tomar conhecimento de outra solução divergente desta, aplicada à mesma matéria e fundada em idêntica norma jurídica, poderá interpor recurso especial, sem efeito suspensivo, no prazo de 30 (trinta) dias da ciência desta solução, para a Coordenação-Geral de Tributação - Cosit, em Brasília - DF, na forma da Instrução Normativa SRF nº 740/2007, art. 16.
+
+Belo Horizonte, 13 de fevereiro de 2009
+
+SANDRO LUIZ DE AGUILAR Chefe da DISIT/SRRF06 Competência delegada pela Portaria SRRF nº 632/2007 (DOU 14/08/2007) RDM
+
+
+Nota Normas: Este documento foi tornado público em cumprimento à Lei de Acesso à Informação. Registre-se que ele pode conter conclusões não mais válidas por estarem em desacordo com ato normativo ou interpretativo editado em data posterior.

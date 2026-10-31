@@ -1,0 +1,230 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 1.642, DE 19 DE MAIO DE 2022"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos e Produtos Biológicos"
+tipo: "Resolução"
+numero: "1642"
+data: 2022-05-19
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 23/05/2022, seção 1, p. 258"
+data_publicacao: 2022-05-23
+edicao: "96"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.642-de-19-de-maio-de-2022-401806499"
+sha256_html_fonte: a8377a67249878150fd60be5173bab6871f2ef10edb032a72e93bdc811d506fb
+baixado_em: 2026-10-20
+---
+# RESOLUÇÃO-RE Nº 1.642, DE 19 DE MAIO DE 2022
+
+RESOLUÇÃO-RE Nº 1.642, DE 19 DE MAIO DE 2022
+
+O Gerente-Geral de Medicamentos e Produtos Biológicos, no uso das atribuições que lhe confere o art. 100, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Prorrogar por até 20 dias do prazo original, no caso de petições prioritárias, e por até 60 dias do prazo original no caso de petições ordinárias, nos termos do § 5º do art. 17-A da Lei nº 6.360, de 23 de setembro de 1976, o(s) prazo(s) para publicação de decisão referente às petições de pós-registro listadas no ANEXO:
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+GUSTAVO MENDES LIMA SANTOS
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+NUMERO DE EXPEDIENTE DATA DO PROTOCOLO
+
+-----------------------------------------
+
+BRISTOL-MYERS SQUIBB FARMACÊUTICA LTDA 56998982000107
+
+4726896214 01/12/2021
+
+-----------------------------------------
+
+CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. 44734671000151
+
+8531998218 29/12/2021
+
+8532095211 29/12/2021
+
+8531578218 29/12/2021
+
+8532168211 29/12/2021
+
+8532176211 29/12/2021
+
+8531581218 29/12/2021
+
+8531583214 29/12/2021
+
+8531585211 29/12/2021
+
+8532178218 29/12/2021
+
+8531587217 29/12/2021
+
+8532091219 29/12/2021
+
+8532182216 29/12/2021
+
+8532093215 29/12/2021
+
+8545947210 30/12/2021
+
+-----------------------------------------
+
+EMPRESA BRASILEIRA DE HEMODERIVADOS E BIOTECNOLOGIA 07607851000146
+
+8436586212 22/12/2021
+
+-----------------------------------------
+
+FRESENIUS KABI BRASIL LTDA 49324221000104
+
+8524924216 28/12/2021
+
+8524924216 28/12/2021
+
+-----------------------------------------
+
+FUNDAÇÃO OSWALDO CRUZ 33781055000135
+
+7643110210 17/12/2021
+
+7705404211 17/12/2021
+
+7813255210 17/12/2021
+
+7813257216 17/12/2021
+
+7716883216 17/12/2021
+
+7695508217 17/12/2021
+
+-----------------------------------------
+
+GLAXOSMITHKLINE BRASIL LTDA 33247743000110
+
+5046177210 08/12/2021
+
+5049793216 08/12/2021
+
+5046275210 08/12/2021
+
+5047760219 08/12/2021
+
+5047769212 08/12/2021
+
+5046186219 08/12/2021
+
+5046188215 08/12/2021
+
+5050220214 08/12/2021
+
+5050361218 08/12/2021
+
+7813259212 17/12/2021
+
+-----------------------------------------
+
+INSTITUTO BUTANTAN 61821344000156
+
+8423000212 20/12/2021
+
+8423491211 20/12/2021
+
+8423720211 20/12/2021
+
+-----------------------------------------
+
+JANSSEN-CILAG FARMACÊUTICA LTDA 51780468000187
+
+8449558218 22/12/2021
+
+-----------------------------------------
+
+LABORATÓRIOS FERRING LTDA 74232034000148
+
+8435633212 21/12/2021
+
+-----------------------------------------
+
+NOVARTIS BIOCIENCIAS S.A 56994502000130
+
+5046159211 08/12/2021
+
+5052105215 08/12/2021
+
+5053291210 08/12/2021
+
+-----------------------------------------
+
+ORGANON FARMACÊUTICA LTDA. 45987013000134
+
+4726898211 01/12/2021
+
+-----------------------------------------
+
+PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. 33009945000123
+
+3633625214 15/12/2021
+
+8428158218 21/12/2021
+
+8428160210 21/12/2021
+
+8428162216 21/12/2021
+
+-----------------------------------------
+
+SANOFI MEDLEY FARMACÊUTICA LTDA. 10588595001092
+
+4753052219 02/12/2021
+
+4752955215 02/12/2021
+
+4752926211 02/12/2021
+
+4752852214 02/12/2021
+
+4753064212 02/12/2021
+
+4753163211 02/12/2021
+
+4753279213 02/12/2021
+
+4753302211 02/12/2021
+
+4753353216 02/12/2021
+
+4752961210 02/12/2021
+
+4752968217 02/12/2021
+
+4753437211 02/12/2021
+
+4753060210 02/12/2021
+
+4753448216 02/12/2021
+
+4753454211 02/12/2021
+
+4753465216 02/12/2021
+
+4753472219 02/12/2021
+
+4752888215 02/12/2021
+
+4753565212 02/12/2021
+
+4752959218 02/12/2021
+
+4752940217 02/12/2021
+
+4963200211 07/12/2021
+
+7229023214 15/12/2021
+
+7229044217 15/12/2021
+
+8536432211 28/12/2021
+
+8536421215 28/12/2021

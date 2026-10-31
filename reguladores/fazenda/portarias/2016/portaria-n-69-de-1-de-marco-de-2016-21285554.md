@@ -1,0 +1,48 @@
+---
+titulo: "PORTARIA Nº 69, DE 1º DE MARÇO DE 2016"
+orgao: "Ministério da Fazenda/GABINETE DO MINISTRO"
+tipo: "Portaria"
+numero: "69"
+data: 2016-03-01
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 07/03/2016, seção 1, p. 22"
+data_publicacao: 2016-03-07
+edicao: "44"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-69-de-1-de-marco-de-2016-21285554"
+sha256_html_fonte: ca0105c6fc717d77ba7cb475ddd3ccaeba608f7eb0c40a1030bbbdd9c7bb28e1
+baixado_em: 2026-10-28
+---
+# PORTARIA Nº 69, DE 1º DE MARÇO DE 2016
+
+PORTARIA Nº 69, DE 1º DE MARÇO DE 2016
+
+O MINISTRO DE ESTADO DA FAZENDA, no uso da atribuição que lhe confere o inciso II do parágrafo único do art. 87 da Constituição, e tendo em vista o disposto no art. 7º, inciso III, do Decreto nº8.670, de 12 de fevereiro de 2016, bem como o disposto nº Decreto nº 8.676, de 19 de fevereiro de 2016, resolve:
+
+**Art. 1º** Detalhar os limites de pagamento de que trata o Anexo II, do Decreto nº 8.676, de 19 de fevereiro de 2016, na forma dos Anexos I, II e III desta Portaria.
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação.
+
+NELSON HENRIQUE BARBOSA FILHO
+
+## ANEXO I — LIMITES DE PAGAMENTO RELATIVOS A DOTAÇÕES CONSTANTES DA LEI ORÇAMENTÁRIA PARA 2016 E AOS RESTOS A PAGAR
+
+R$ mil
+
+ÓRGÃOS E/OU UNIDADES ORÇAMENTÁRIAS ATÉ FEV ATÉ MAR ATÉ ABR ATÉ MAI ATÉ JUN ATÉ JUL ATÉ AGO ATÉ SET ATÉ OUT ATÉ NOV ATÉ DEZ20000 Presidência da República 149.122 189.120 2 2 9 . 11 7 2 6 9 . 11 4 3 0 9 . 11 2 349.108 389.105 429.102 469.100 509.097 549.09422000 Ministério da Agricultura, Pecuária e Abastecimento 3 9 5 . 111 490.314 585.517 680.719 775.922 871.125 966.327 1.061.531 1.156.734 1.251.9371.347.13924000 Ministério da Ciência, Tecnologia e Inovação 639.318 910.525 1.181.732 1.452.939 1.724.145 1.995.352 2.266.559 2.537.766 2.808.972 3.080.1793.351.38625000 Ministério da Fazenda 520.613 752.219 983.826 1.215.432 1.447.038 1.678.644 1.910.251 2.141.857 2.373.463 2.605.069 2.836.67626000 Ministério da Educação 6.104.436 8.347.962 10.591.489 12.835.015 15.078.541 17.322.067 19.565.593 2 1 . 8 0 9 . 11 9 24.052.646 26.2 96.17228.539.698
+
+28000 Ministério do Desenvolvimento, Indústria e Comércio Ex terior
+
+64.892 82.957 101.022 11 9 . 0 8 7 137.151 155.216 173.282 191.347 209.412 227.477 245.541
+
+30000 Ministério da Justiça 516.939 712.457 907.976 1.103.493 1 . 2 9 9 . 0 11 1.494.529 1.690.047 1.885.565 2.081.083 2.276.601 2 . 4 7 2 .11832000 Ministério de Minas e Ener gia 101.916 129.210 156.505 183.800 2 11 . 0 9 4 238.389 265.684 292.979 320.274 347.568 374.86335000 Ministério das Relações Exteriores 227.197 330.554 4 3 3 . 9 11 537.268 640.624 743.981 847.338 950.695 1.054.052 1.157.408 1.260.76536000 Ministério da Saúde 16.079.324 23.405.939 30.732.553 38.059.168 45.385.783 52.712.399 60.039.014 67.365.629 74.692.243 82.018.858 89.345.48439000 Ministério dos Transportes 235.327 284.660 333.992 383.324 432.656 481.989 531.322 580.654 629.986 679.318 728.65140000 Ministério do Trabalho e Previdência Social 394.567 572.400 750.234 928.067 1.105.900 1.283.733 1.461.567 1.639.400 1.817.234 1.995.0672.172.90141000 Ministério das Comunicações 49.953 69.266 88.580 107.893 127.206 146.520 165.833 185.146 204.459 223.773 243.08642000 Ministério da Cultura 108.724 151.014 193.305 235.595 277.885 320.176 362.466 404.756 447.047 489.337 531.62844000 Ministério do Meio Ambiente 106.706 150.846 194.987 239.128 283.268 327.409 371.550 415.690 459.830 503.971 5 4 8 . 11147000 Ministério do Planejamento, Orçamento e Gestão 127.197 219.613 312.029 404.445 496.861 589.277 681.694 774.109 866.525 958.941 2.721.89849000 Ministério do Desenvolvimento Agrário 382.437 477.903 573.370 668.837 764.304 859.770 955.238 1.050.704 1.146.171 1.241.637 1.337.10551000 Ministério do Esporte 136.902 197.489 258.076 318.664 379.251 439.839 500.426 561.014 621.601 682.189 742.77652000 Ministério da Defesa 1.647.999 2.323.649 2.999.299 3.674.949 4.350.599 5.026.249 5.701.899 6.377.549 7.053.199 7.728.849 8.404.49953000 Ministério da Integração Nacional 98.867 1 2 3 . 11 7 147.366 171.616 195.867 2 2 0 . 11 7 244.366 268.616 292.867 3 1 7 . 11 6 341.3 6654000 Ministério do Turismo 61.234 75.373 89.513 103.653 11 7 . 7 9 3 131.932 146.072 160.212 174.352 188.492 202.63155000 Ministério do Desenvolvimento Social e Combate à Fome 5.298.807 7.795.197 10.291.588 12.787.978 15.284.368 17.780.758 20.277.149 22.773.53925.269.92927.766.31930.262.71056000 Ministério das Cidades 39.790 56.210 72.630 89.051 105.471 121.891 138.312 154.732 171.152 187.573 203.993
+
+57000 Ministério das Mulheres, da Igualdade Racial e dos Di reitosHumanos
+
+51.04676.062101.077126.093151.108176.124201.140226.155251.171276.186301.202
+
+60000 Gabinete da Vice-Presidência da República 796 1.155 1.513 1.871 2.229 2.587 2.945 3.303 3.661 4.019 4.37762000 Secretaria de Aviação Civil 57.921 121.693 185.464 249.237 313.009 376.781 440.554 504.326 568.098 631.871 695.64363000 Advocacia-Geral da União 57.799 82.056 106.313 130.571 154.829 179.086 203.343 227.600 251.857 2 7 6 . 11 4 300.37166000 Controladoria-Geral da União 17.429 24.020 30.610 37.201 43.791 50.382 56.972 63.562 70.153 76.743 83.33468000 Secretaria de Portos 49.053 50.247 51.443 52.638 53.832 55.027 56.221 57.417 58.612 59.806 61.00171000 Encar gos Financeiros da União 153.860 238.172 322.485 406.798 4 9 1 . 11 0 575.423 659.735 744.048 828.360 912.673 996.98673000 Transferências a Estados, Distrito Federal e Municípios 22.160 33.033 43.907 54.781 65.655 76.528 87.402 98.276 109.150 120.024 130.89774000 Operações Oficiais de Crédito 107.754 141.710 175.666 209.622 243.579 277.535 3 11 . 4 9 1 345.447 379.404 413.360 447.316
+
+To t a l 34.005.197 48.616.144 63.227.096 77.838.046 92.448.995 107.059.946 121.670.895 136.281.843 150.892.797 165.503.745 181.785.247Todas as fontes, exceto as fontes 150, 250 e suas correspondentes, resultantes da incorporação de saldos de exercícios anteriores
+
+Fontes:.

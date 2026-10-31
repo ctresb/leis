@@ -1,0 +1,32 @@
+---
+titulo: "PORTARIA Nº 96, DE 13 DE ABRIL DE 2017"
+orgao: "Ministério do Planejamento, Desenvolvimento e Gestão/GABINETE DO MINISTRO"
+tipo: "Portaria"
+numero: "96"
+data: 2017-04-13
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 17/04/2017, seção 1, p. 203"
+data_publicacao: 2017-04-17
+edicao: "73"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-96-de-13-de-abril-de-2017-20166023"
+sha256_html_fonte: 881284cbe82552bfe4ddda27688d0223d015aa8cfba1cf4226356b35e9ac9d1b
+baixado_em: 2026-10-27
+---
+# PORTARIA Nº 96, DE 13 DE ABRIL DE 2017
+
+PORTARIA Nº 96, DE 13 DE ABRIL DE 2017
+
+O MINISTRO DE ESTADO DO PLANEJAMENTO, DESENVOLVIMENTOE GESTÃO, no uso da competência que lhe foidelegada pelo art. 1º, inciso IV, do Decreto nº 3.125, de 29 de julhode 1999, tendo em vista o disposto no art. 205 do Decreto-lei nº9.760, de 5 de setembro de 1946, e nos elementos que integram oProcesso nº 11591.000554/1999-70, resolve:
+
+**Art. 1º** Autorizar a Secretaria do Patrimônio da União atransferir a ocupação do terreno de marinha com acrescido, com áreade 781,53m², cadastrado sob o RIP 1671.0100662-10, situado naAvenida Veranista Rocco, nº 13, Praia de Graçandu, Município deExtremoz, Estado do Rio Grande do Norte, conforme Escritura Públicade Compra e Venda lavrada em 09/01/2003, Primeiro Translado,Livro de Notas nº 98, fls. 01 a 02v, do Cartório Judiciário daquelaComarca, posteriormente aditada em 22/08/2014, Primeiro Translado,Livro de Notas nº 172, fls. 178 e 179, do Cartório de Registro deImóveis de Extremoz/RN, para DIOGO VASCO RAMOS BARROTE,português, portador do CPF nº 700.456.334-01 e do Passaporte nºM976694, com validade até 29/01/2019.
+
+**Parágrafo único.** Ficam convalidados os atos translativos deocupação praticados no processo.
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação.
+
+DYOGO HENRIQUE DE OLIVEIRA
+
+DYOGO HENRIQUE DE OLIVEIRA
+
+Este conteúdo não substitui o publicado na versão certificada.

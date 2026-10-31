@@ -1,0 +1,42 @@
+---
+titulo: "PORTARIA Nº 390, DE 2 DE SETEMBRO DE 2021"
+orgao: "Ministério da Infraestrutura/Agência Nacional de Transportes Terrestres/Superintendência de Serviços de Transporte Rodoviário de Passageiros"
+tipo: "Portaria"
+numero: "390"
+data: 2021-09-02
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 06/09/2021, seção 1, p. 38"
+data_publicacao: 2021-09-06
+edicao: "169"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-390-de-2-de-setembro-de-2021-343011761"
+sha256_html_fonte: b6cd59cf06f7f2029849c0c2e70365f26ed4d3eaa1bc1364916c45572215cd26
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 390, DE 2 DE SETEMBRO DE 2021
+
+PORTARIA Nº 390, DE 2 DE SETEMBRO DE 2021
+
+O SUPERINTENDENTE DE SERVIÇOS DE TRANSPORTE RODOVIÁRIO DE PASSAGEIROS DA AGÊNCIA NACIONAL DE TRANSPORTES TERRESTRES - ANTT, no uso de suas atribuições, e em conformidade com o inciso XII do art. 8º da Resolução nº 5.818, de 3 de maio de 2018, e o que consta no processo nº 50500.079250/2021-42, resolve:
+
+**Art. 1º** Autorizar as empresas relacionadas no Anexo desta Portaria para a prestação do serviço de transporte rodoviário coletivo interestadual e internacional de passageiros realizado em regime de fretamento.
+
+**Art. 2º** As autorizatárias deverão observar as condições previstas na Resolução ANTT nº 4.777, de 6 de julho de 2015, e demais normativos relacionados à prestação dos serviços de transporte rodoviário coletivo interestadual e internacional de passageiros realizado em regime de fretamento.
+
+**Art. 3º** A não observância do art. 9º da Resolução ANTT nº 4.777/2015 implica a renúncia da autorização delegada pela ANTT.
+
+**Art. 4º** Será declarada a nulidade do Termo de Autorização, quando verificada a ilegalidade do ato, impedindo os efeitos jurídicos que ordinariamente deveriam produzir, além de desconstituir os já produzidos, respeitados o princípio da ampla defesa e do contraditório.
+
+**Art. 5º** A autorização poderá ser extinta mediante cassação, em caso de perda das condições indispensáveis ao cumprimento do objeto da autorização ou infração grave, apuradas em processo regular instaurado conforme disposto em resolução.
+
+**Art. 6º** A não observância do disposto nesta Portaria implicará a aplicação das sanções previstas em resolução específica.
+
+**Art. 7º** Será disponibilizado às autorizatárias o acesso ao sistema para a emissão das licenças de viagem a partir da data de publicação desta Portaria.
+
+**Art. 8º** Esta Portaria entra em vigor na data de sua publicação.
+
+LUCIANO LOURENÇO DA SILVA
+
+## ANEXO I
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p><strong>RAZÃO SOCIAL</strong></p></td>      <td rowspan="1" colspan="1"><p>TAF</p></td>      <td rowspan="1" colspan="1"><p>CNPJ</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>A. A. TEBALDI - TRANSPORTES EIRELI</p></td>      <td rowspan="1" colspan="1"><p>005173</p></td>      <td rowspan="1" colspan="1"><p>31.973.402/0001-04</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>ALVES TRANSPORTES LTDA</p></td>      <td rowspan="1" colspan="1"><p>005174</p></td>      <td rowspan="1" colspan="1"><p>42.509.085/0001-88</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>ANDREATTA LOCACAO DE EQUIPAMENTOS LTDA</p></td>      <td rowspan="1" colspan="1"><p>005175</p></td>      <td rowspan="1" colspan="1"><p>16.698.968/0001-73</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>ARIOVALDO AROLDI EIRELI</p></td>      <td rowspan="1" colspan="1"><p>005176</p></td>      <td rowspan="1" colspan="1"><p>34.400.569/0001-66</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>BAMONTE TRANSPORTES LTDA - ME</p></td>      <td rowspan="1" colspan="1"><p>000955</p></td>      <td rowspan="1" colspan="1"><p>24.969.450/0001-55</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>BHS TURISMO LTDA - ME</p></td>      <td rowspan="1" colspan="1"><p>000967</p></td>      <td rowspan="1" colspan="1"><p>09.665.360/0001-87</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>CATI ROSE TRANSPORTE DE PASSAGEIROS LTDA.</p></td>      <td rowspan="1" colspan="1"><p>005177</p></td>      <td rowspan="1" colspan="1"><p>44.357.192/0001-63</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>COMODITA TRANSPORTE E SERVICOS DE LOCACAO LTDA</p></td>      <td rowspan="1" colspan="1"><p>005178</p></td>      <td rowspan="1" colspan="1"><p>14.072.605/0001-00</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>CONCEITOS TRANSPORTES EIRELI</p></td>      <td rowspan="1" colspan="1"><p>000838</p></td>      <td rowspan="1" colspan="1"><p>07.616.813/0001-50</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>COSTA &amp; PINHEIRO LOCACAO E TRANSPORTES LTDA - EPP</p></td>      <td rowspan="1" colspan="1"><p>000401</p></td>      <td rowspan="1" colspan="1"><p>18.929.310/0001-50</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>DECDIL TURISMO LTDA - EPP</p></td>      <td rowspan="1" colspan="1"><p>000207</p></td>      <td rowspan="1" colspan="1"><p>05.425.961/0001-61</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>ELIDA MARESSA INACIO FREITAS TRANSPORTE COLETIVO DE PASSAGEIROS LTDA</p></td>      <td rowspan="1" colspan="1"><p>005179</p></td>      <td rowspan="1" colspan="1"><p>41.982.242/0001-05</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>J M MONTEIRO DA SILVA LTDA</p></td>      <td rowspan="1" colspan="1"><p>005180</p></td>      <td rowspan="1" colspan="1"><p>19.177.386/0001-30</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>J W TRANSPORTES EIRELI</p></td>      <td rowspan="1" colspan="1"><p>005181</p></td>      <td rowspan="1" colspan="1"><p>24.786.252/0001-56</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>JE TRANSPORTE E TURISMO EIRELI</p></td>      <td rowspan="1" colspan="1"><p>005182</p></td>      <td rowspan="1" colspan="1"><p>20.442.278/0001-26</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>LMG TRANSPORTES LTDA</p></td>      <td rowspan="1" colspan="1"><p>005183</p></td>      <td rowspan="1" colspan="1"><p>42.379.550/0001-03</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>OLIVEIRA TURR LTDA</p></td>      <td rowspan="1" colspan="1"><p>005184</p></td>      <td rowspan="1" colspan="1"><p>42.926.739/0001-79</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>PAI ETERNO TRANSPORTE E TURISMO LTDA</p></td>      <td rowspan="1" colspan="1"><p>521886</p></td>      <td rowspan="1" colspan="1"><p>23.826.552/0001-59</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>R. CRISTINA TAVARES TRANSPORTES EIRELI</p></td>      <td rowspan="1" colspan="1"><p>005185</p></td>      <td rowspan="1" colspan="1"><p>23.463.116/0001-62</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>SR &amp; SRA THURY LTDA</p></td>      <td rowspan="1" colspan="1"><p>005186</p></td>      <td rowspan="1" colspan="1"><p>40.484.755/0001-23</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>RD7 LOCACAO E TRANSPORTES LTDA</p></td>      <td rowspan="1" colspan="1"><p>005187</p></td>      <td rowspan="1" colspan="1"><p>40.674.425/0001-09</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>SARRAG TURISMO LTDA</p></td>      <td rowspan="1" colspan="1"><p>000716</p></td>      <td rowspan="1" colspan="1"><p>14.246.724/0001-24</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>TC VIAGENS E TURISMO LTDA</p></td>      <td rowspan="1" colspan="1"><p>293720</p></td>      <td rowspan="1" colspan="1"><p>34.095.182/0001-43</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>V L V LOCACAO DE VEICULOS EIRELI</p></td>      <td rowspan="1" colspan="1"><p>000834</p></td>      <td rowspan="1" colspan="1"><p>29.502.897/0001-33</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>V11 TRANSPORTES E TURISMO LTDA</p></td>      <td rowspan="1" colspan="1"><p>005188</p></td>      <td rowspan="1" colspan="1"><p>37.577.930/0001-12</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>VAP TRANSPORTE EIRELI</p></td>      <td rowspan="1" colspan="1"><p>005189</p></td>      <td rowspan="1" colspan="1"><p>41.742.431/0001-00</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>ZATI TRANSPORTE E TURISMO LTDA</p></td>      <td rowspan="1" colspan="1"><p>312229</p></td>      <td rowspan="1" colspan="1"><p>03.927.824/0001-08</p></td>     </tr>    </tbody>   </table>

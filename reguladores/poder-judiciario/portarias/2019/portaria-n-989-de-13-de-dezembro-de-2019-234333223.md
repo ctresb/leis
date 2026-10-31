@@ -1,0 +1,32 @@
+---
+titulo: "Portaria Nº 989, de 13 de dezembro de 2019"
+orgao: "Poder Judiciário/Tribunal Superior Eleitoral/Secretaria do Tribunal/Secretaria de Planejamento, Orçamento, Finanças e Contabilidade"
+tipo: "Portaria"
+numero: "989"
+data: 2019-12-13
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 19/12/2019, seção 1, p. 199"
+data_publicacao: 2019-12-19
+edicao: "245"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-989-de-13-de-dezembro-de-2019-234333223"
+sha256_html_fonte: d1254082f1e13b0ea92e288fdea4c8a6b9a953b2155284cea0a236e53f202b83
+baixado_em: 2026-10-27
+---
+# Portaria Nº 989, de 13 de dezembro de 2019
+
+Portaria Nº 989, de 13 de dezembro de 2019
+
+Abre crédito suplementar em favor de Tribunais Regionais Eleitorais no valor que especifica.
+
+A PRESIDENTE DO TRIBUNAL SUPERIOR ELEITORAL, no uso de suas atribuições e tendo em vista o disposto no inciso II do § 1º do art. 47 da Lei nº 13.707, de 14 de agosto de 2018, resolve:
+
+**Art. 1º** Fica aberto crédito suplementar em favor de Tribunais Regionais Eleitorais, no valor de R$ 40.000,00 (quarenta mil reais), para atender à programação indicada no Anexo I desta Portaria.
+
+**Art. 2º** Os recursos necessários à execução do disposto no art. 1º decorrerão da anulação parcial de dotações orçamentárias, no valor de R$ 40.000,00 (quarenta mil reais), conforme indicado no Anexo II desta Portaria.
+
+**Art. 3º** Esta Portaria entra em vigor na data de sua publicação.
+
+Ministra ROSA WEBER
+
+<table><tr><td><p><em>ÓRGÃO: 14000 - Justiça Eleitoral</em></p></td></tr><tr><td><p>UNIDADE: 14125 - Tribunal Regional Eleitoral de Sergipe</p></td><td></td></tr><tr><td><p>ANEXO I</p></td><td><p>Crédito Suplementar</p></td></tr><tr><td><p>PROGRAMA DE TRABALHO ( SUPLEMENTAÇÃO )</p></td><td><p>Recurso de Todas as Fontes R$ 1,00</p></td></tr><tr><td><p>FUNCIONAL</p></td><td><p>PROGRAMÁTICA</p></td><td><p>PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO</p></td><td><p>E</p><p>S</p><p>F</p></td><td><p>G</p><p>N</p><p>D</p></td><td><p>R</p><p>P</p></td><td><p>M</p><p>O</p><p>D</p></td><td><p>I</p><p>U</p></td><td><p>F</p><p>T</p><p>E</p></td><td><p>VALOR</p></td></tr><tr><td><p>0089</p></td><td><p>Previdência de Inativos e Pensionistas da União</p></td><td><p>10.000</p></td></tr><tr><td></td><td></td><td><p>Operações Especiais</p></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p>09 272</p></td><td><p>0089 0181</p></td><td><p>Aposentadorias e Pensões Civis da União</p></td><td></td><td></td><td></td><td></td><td></td><td></td><td><p>10.000</p></td></tr><tr><td><p>09 272</p></td><td><p>0089 0181 0028</p></td><td><p>Aposentadorias e Pensões Civis da União - No Estado de Sergipe</p></td><td></td><td></td><td></td><td></td><td></td><td></td><td><p>10.000</p></td></tr><tr><td></td><td></td><td></td><td><p>S</p></td><td><p>1</p></td><td><p>1</p></td><td><p>90</p></td><td><p>0</p></td><td><p>100</p></td><td><p>10.000</p></td></tr><tr><td><p>TOTAL - FISCAL</p></td><td><p>0</p></td></tr><tr><td><p>TOTAL - SEGURIDADE</p></td><td><p>10.000</p></td></tr><tr><td><p>TOTAL - GERAL</p></td><td><p>10.000</p></td></tr><tr><td><p></p></td><td></td></tr><tr><td><p>ÓRGÃO: 14000 - Justiça Eleitoral</p></td></tr><tr><td><p>UNIDADE: 14126 - Tribunal Regional Eleitoral de Tocantins</p></td><td></td></tr><tr><td><p>ANEXO I</p></td><td><p>Crédito Suplementar</p></td></tr><tr><td><p>PROGRAMA DE TRABALHO ( SUPLEMENTAÇÃO )</p></td><td><p>Recurso de Todas as Fontes R$ 1,00</p></td></tr><tr><td><p>FUNCIONAL</p></td><td><p>PROGRAMÁTICA</p></td><td><p>PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO</p></td><td><p>E</p><p>S</p><p>F</p></td><td><p>G</p><p>N</p><p>D</p></td><td><p>R</p><p>P</p></td><td><p>M</p><p>O</p><p>D</p></td><td><p>I</p><p>U</p></td><td><p>F</p><p>T</p><p>E</p></td><td><p>VALOR</p></td></tr><tr><td><p>0089</p></td><td><p>Previdência de Inativos e Pensionistas da União</p></td><td><p>30.000</p></td></tr><tr><td></td><td></td><td><p>Operações Especiais</p></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p>09 272</p></td><td><p>0089 0181</p></td><td><p>Aposentadorias e Pensões Civis da União</p></td><td></td><td></td><td></td><td></td><td></td><td></td><td><p>30.000</p></td></tr><tr><td><p>09 272</p></td><td><p>0089 0181 0017</p></td><td><p>Aposentadorias e Pensões Civis da União - No Estado do Tocantins</p></td><td></td><td></td><td></td><td></td><td></td><td></td><td><p>30.000</p></td></tr><tr><td></td><td></td><td></td><td><p>S</p></td><td><p>1</p></td><td><p>1</p></td><td><p>90</p></td><td><p>0</p></td><td><p>100</p></td><td><p>30.000</p></td></tr><tr><td><p>TOTAL - FISCAL</p></td><td><p>0</p></td></tr><tr><td><p>TOTAL - SEGURIDADE</p></td><td><p>30.000</p></td></tr><tr><td><p>TOTAL - GERAL</p></td><td><p>30.000</p></td></tr><tr><td><p></p></td><td></td></tr><tr><td><p>ÓRGÃO: 14000 - Justiça Eleitoral</p></td></tr><tr><td><p>UNIDADE: 14101 - Tribunal Superior Eleitoral</p></td><td></td></tr><tr><td><p>ANEXO II</p></td><td><p>Crédito Suplementar</p></td></tr><tr><td><p>PROGRAMA DE TRABALHO ( CANCELAMENTO )</p></td><td><p>Recurso de Todas as Fontes R$ 1,00</p></td></tr><tr><td><p>FUNCIONAL</p></td><td><p>PROGRAMÁTICA</p></td><td><p>PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO</p></td><td><p>E</p><p>S</p><p>F</p></td><td><p>G</p><p>N</p><p>D</p></td><td><p>R</p><p>P</p></td><td><p>M</p><p>O</p><p>D</p></td><td><p>I</p><p>U</p></td><td><p>F</p><p>T</p><p>E</p></td><td><p>VALOR</p></td></tr><tr><td><p>0570</p></td><td><p>Gestão do Processo Eleitoral</p></td><td><p>40.000</p></td></tr><tr><td></td><td></td><td><p>Atividades</p></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p>02 122</p></td><td><p>0570 20TP</p></td><td><p>Ativos Civis da União</p></td><td></td><td></td><td></td><td></td><td></td><td></td><td><p>40.000</p></td></tr><tr><td><p>02 122</p></td><td><p>0570 20TP 0053</p></td><td><p>Ativos Civis da União - No Distrito Federal</p></td><td></td><td></td><td></td><td></td><td></td><td></td><td><p>40.000</p></td></tr><tr><td></td><td></td><td></td><td><p>F</p></td><td><p>1</p></td><td><p>1</p></td><td><p>90</p></td><td><p>0</p></td><td><p>100</p></td><td><p>40.000</p></td></tr><tr><td><p>TOTAL - FISCAL</p></td><td><p>40.000</p></td></tr><tr><td><p>TOTAL - SEGURIDADE</p></td><td><p>0</p></td></tr><tr><td><p>TOTAL - GERAL</p></td><td><p>40.000</p></td></tr><tr><td><p></p></td><td></td></tr></table>

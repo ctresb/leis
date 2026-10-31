@@ -1,0 +1,126 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 577, DE 22 DE FEVEIREIRO DE 2023"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/5ª Diretoria/Gerência-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados"
+tipo: "Resolução"
+numero: "577"
+data: ""
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 27/02/2023, seção 1, p. 118"
+data_publicacao: 2023-02-27
+edicao: "39"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-577-de-22-de-feveireiro-de-2023-466166048"
+sha256_html_fonte: 814b9d1f74ef4688e8ce00290135127766ac99ea67b290c65820c62eb929065d
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE Nº 577, DE 22 DE FEVEIREIRO DE 2023
+
+RESOLUÇÃO-RE Nº 577, DE 22 DE FEVEIREIRO DE 2023
+
+Gerente-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados, no uso das atribuições que lhe confere o disposto no art. 189, aliado ao art. 54, I, § 1º do Regimento Interno aprovado nos termos do Anexo I da Resolução da Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, e ainda amparado pela Resolução da Diretoria Colegiada - RDC n° 345, de 16 de dezembro de 2002; nº 346, de 16 de dezembro de 2002; nº 61, de 19 de março de 2004, resolve:
+
+**Art. 1º** Cancelar as Autorizações de Funcionamento de Empresas Prestadoras de Serviços de Interesse da Saúde Pública em conformidade com o disposto no anexo.
+
+**Art. 2°** Esta Resolução entra em vigor na data de sua publicação.
+
+BRUNO GONÇALVES ARAÚJO RIOS
+
+## ANEXO
+
+SMS SPECIAL MARINE SERVICES AGENCIAMENTO MARITIMO LTDA / 07.676.999/0001-32
+
+25767.035675/2007-13 / 9.01093-2
+
+9008 - PAF - CANCELAMENTO DA AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESA (AFE), DA AUTORIZAÇÃO ESPECIAL (AE) OU DO CADASTRAMENTO DE FILIAL DE EMPRESA DETENTORA DE AUTORIZAÇÃO DE FUNCIONAMENTO / 4903238/22-1
+
+MOTIVO DO CANCELAMENTO: EMPRESA BAIXADA NA RECEITA FEDERAL DESDE 25/06/2013.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+G.A TERCEIRIZAÇÃO DE SERVIÇOS LTDA - ME / 08.083.969/0001-85
+
+25759.573028/2014-38/ 9.06829-8
+
+9008 - PAF - CANCELAMENTO DA AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESA (AFE), DA AUTORIZAÇÃO ESPECIAL (AE) OU DO CADASTRAMENTO DE FILIAL DE EMPRESA DETENTORA DE AUTORIZAÇÃO DE FUNCIONAMENTO / 4903334/22-4
+
+MOTIVO DO CANCELAMENTO: EMPRESA BAIXADA NA RECEITA FEDERAL DESDE 18/01/2019.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+AIR MEDIC SERVIÇOS MEDICOS LTDA / 08.294.586/0001-56
+
+25759.312114/2011-17/ 9.03846-7
+
+9008 - PAF - CANCELAMENTO DA AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESA (AFE), DA AUTORIZAÇÃO ESPECIAL (AE) OU DO CADASTRAMENTO DE FILIAL DE EMPRESA DETENTORA DE AUTORIZAÇÃO DE FUNCIONAMENTO / 4904514/22-8
+
+MOTIVO DO CANCELAMENTO: EMPRESA BAIXADA NA RECEITA FEDERAL DESDE 07/12/2016.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+VANIA DE LIMA ALVES - ME / 08.879.137/0001-70
+
+25759.174518/2013-77 / 9.05706-6
+
+9008 - PAF - CANCELAMENTO DA AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESA (AFE), DA AUTORIZAÇÃO ESPECIAL (AE) OU DO CADASTRAMENTO DE FILIAL DE EMPRESA DETENTORA DE AUTORIZAÇÃO DE FUNCIONAMENTO / 4904562/22-8
+
+MOTIVO DO CANCELAMENTO: EMPRESA BAIXADA NA RECEITA FEDERAL DESDE 14/01/2021.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+MEDICAL SHIPPING SERVICE LTDA - ME / 08.955.768/0001-20
+
+25767.787997/2011-06 / 9.04461-2
+
+9008 - PAF - CANCELAMENTO DA AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESA (AFE), DA AUTORIZAÇÃO ESPECIAL (AE) OU DO CADASTRAMENTO DE FILIAL DE EMPRESA DETENTORA DE AUTORIZAÇÃO DE FUNCIONAMENTO / 4904641/22-1
+
+MOTIVO DO CANCELAMENTO: EMPRESA BAIXADA NA RECEITA FEDERAL DESDE 30/10/2018.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+EXPRESSO OIL SERVIÇOS MARITIMOS LTDA - ME / 09.280.163/0001-40
+
+25767.001663/2010-43 / 9.02972-5
+
+9008 - PAF - CANCELAMENTO DA AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESA (AFE), DA AUTORIZAÇÃO ESPECIAL (AE) OU DO CADASTRAMENTO DE FILIAL DE EMPRESA DETENTORA DE AUTORIZAÇÃO DE FUNCIONAMENTO / 4904732/22-9
+
+MOTIVO DO CANCELAMENTO: EMPRESA BAIXADA NA RECEITA FEDERAL DESDE 01/09/2014.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+J. A. DE LIMA RECICLAGEM - ME / 09.600.087/0001-02
+
+25767.336825/2010-68 / 9.03573-3
+
+008 - PAF - CANCELAMENTO DA AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESA (AFE), DA AUTORIZAÇÃO ESPECIAL (AE) OU DO CADASTRAMENTO DE FILIAL DE EMPRESA DETENTORA DE AUTORIZAÇÃO DE FUNCIONAMENTO / 4904770/22-1
+
+MOTIVO DO CANCELAMENTO: EMPRESA BAIXADA NA RECEITA FEDERAL DESDE 11/07/2019.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+ERNANI MENEZES DE SOUSA JUNIOR - ME / 10.335.748/0001-07
+
+25767.271629/2010-36 / 9.03102-6
+
+9008 - PAF - CANCELAMENTO DA AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESA (AFE), DA AUTORIZAÇÃO ESPECIAL (AE) OU DO CADASTRAMENTO DE FILIAL DE EMPRESA DETENTORA DE AUTORIZAÇÃO DE FUNCIONAMENTO / 4904835/22-0
+
+MOTIVO DO CANCELAMENTO: EMPRESA BAIXADA NA RECEITA FEDERAL DESDE 09/07/2020.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+MG SERVIÇOS AMBIENTAIS LTDA - ME / 10.546.822/0002-07
+
+25759.559885/2013-93/ 9.06013-8
+
+9008 - PAF - CANCELAMENTO DA AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESA (AFE), DA AUTORIZAÇÃO ESPECIAL (AE) OU DO CADASTRAMENTO DE FILIAL DE EMPRESA DETENTORA DE AUTORIZAÇÃO DE FUNCIONAMENTO / 4904904/22-6
+
+MOTIVO DO CANCELAMENTO: EMPRESA BAIXADA NA RECEITA FEDERAL DESDE 12/06/2014.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+S. DE FREITAS AGENCIAMENTOS / 10.878.481/0001-96
+
+25767.492467/2009-08 / 9.02799-9
+
+9008 - PAF - CANCELAMENTO DA AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESA (AFE), DA AUTORIZAÇÃO ESPECIAL (AE) OU DO CADASTRAMENTO DE FILIAL DE EMPRESA DETENTORA DE AUTORIZAÇÃO DE FUNCIONAMENTO / 4905246/22-2
+
+MOTIVO DO CANCELAMENTO: EMPRESA BAIXADA NA RECEITA FEDERAL DESDE 30/06/2014.

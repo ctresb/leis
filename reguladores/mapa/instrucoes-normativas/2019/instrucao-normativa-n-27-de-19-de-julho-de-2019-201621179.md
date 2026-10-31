@@ -1,0 +1,30 @@
+---
+titulo: "INSTRUÇÃO NORMATIVA Nº 27, DE 19 DE JULHO DE 2019"
+orgao: "Ministério da Agricultura, Pecuária e Abastecimento/Gabinete da Ministra"
+tipo: "Instrução Normativa"
+numero: "27"
+data: 2019-07-19
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 22/07/2019, seção 1, p. 3"
+data_publicacao: 2019-07-22
+edicao: "139"
+fonte: "https://www.in.gov.br/web/dou/-/instrucao-normativa-n-27-de-19-de-julho-de-2019-201621179"
+sha256_html_fonte: 303c206310d6ead4cb1747dc368dc9ecf345642230ae3824d726ea5f2b52aa0c
+baixado_em: 2026-10-21
+---
+# INSTRUÇÃO NORMATIVA Nº 27, DE 19 DE JULHO DE 2019
+
+INSTRUÇÃO NORMATIVA Nº 27, DE 19 DE JULHO DE 2019
+
+A MINISTRA DE ESTADO DA AGRICULTURA, PECUÁRIA E ABASTECIMENTO, no uso da atribuição que lhe confere o art. 87, parágrafo único, inciso II, da Constituição, tendo em vista o disposto no art. 21 da Lei nº 13.844, de 13 de junho de 2019, no art. 7º da Lei nº 9.362, de 13 de dezembro de 1996, na Instrução Normativa nº 29, de 21 de junho de 2018, na Carta oficial nº 076, de 8 de julho de 2019, que informa a cota preferencial adicional de açúcar destinada ao Brasil pelo Governo dos Estados Unidos, para exportação no período 1º de outubro de 2018 a 30 de setembro de 2019, e o que consta do Processo nº 21000.025810/2018-86, resolve:
+
+**Art. 1º** Fica estabelecida a alocação às unidades produtoras de açúcar da Região Norte e Nordeste da cota preferencial adicional de açúcar, destinada ao Brasil pelo Governo dos Estados Unidos da América, para o ano safra 2018/2019, já descontado o fator de polarização e convertido em toneladas curtas, de acordo com os volumes indicados no Anexo desta Instrução Normativa.
+
+**Art. 2º** Esta Instrução Normativa entra em vigor na data de sua publicação.
+
+TEREZA CRISTINA CORRÊA DA COSTA DIAS
+
+## ANEXO
+
+<table><tr></tr><tr><td><p>AL</p></td><td><p>Usina Caeté S/ A - Filial Cachoeira</p></td><td><p>408,53</p></td></tr><tr><td><p>AL</p></td><td><p>Central Açucareira Santo Antônio - Filial Camaragibe</p></td><td><p>392,97</p></td></tr><tr><td><p>AL</p></td><td><p>S/ A Leão Irmãos Açúcar e Álcool</p></td><td><p>411,84</p></td></tr><tr><td><p>AL</p></td><td><p>Cooperativa Agrícola do Vale do Satuba - Copervales</p></td><td><p>469,00</p></td></tr><tr><td><p>AL</p></td><td><p>Usina Caeté S/ A - Filial Marituba</p></td><td><p>570,59</p></td></tr><tr><td><p>AL</p></td><td><p>Penedo Agro Industria S/ A</p></td><td><p>143,98</p></td></tr><tr><td><p>AL</p></td><td><p>Cooperativa de Colonização Agropecuária Indústria Pindorama LTDA</p></td><td><p>357,39</p></td></tr><tr><td><p>AL</p></td><td><p>Industrial Porto Rico S/ A</p></td><td><p>484,99</p></td></tr><tr><td><p>AL</p></td><td><p>Usina Santa Clotilde S/ A</p></td><td><p>441,87</p></td></tr><tr><td><p>AL</p></td><td><p>Cia. Açucareira Usina Santa Maria S/ A</p></td><td><p>244,92</p></td></tr><tr><td><p>AL</p></td><td><p>Usinas Reunidas Seresta S/ A</p></td><td><p>260,67</p></td></tr><tr><td><p>AL</p></td><td><p>Cia. Açucareira Central Sumaúma</p></td><td><p>537,62</p></td></tr><tr><td><p>AL</p></td><td><p>Usina Taquara LTDA</p></td><td><p>120,80</p></td></tr><tr><td><p>AL</p></td><td><p>Usina Serra Grande S/ A</p></td><td><p>627,87</p></td></tr><tr><td><p>AL</p></td><td><p>S/ A Usina Coruripe Açúcar e Álcool</p></td><td><p>2.097,84</p></td></tr><tr><td><p>AL</p></td><td><p>Usina Caeté S/ A</p></td><td><p>1.231,37</p></td></tr><tr><td><p>AL</p></td><td><p>Central Açucareira Santo Antônio S/ A</p></td><td><p>1.172,75</p></td></tr><tr><td><p>AM</p></td><td><p>Agropecuária Jayoro LTDA</p></td><td><p>110,45</p></td></tr><tr><td><p>BA</p></td><td><p>Agro-Industrial Vale do São Francisco</p></td><td><p>1489,92</p></td></tr><tr><td><p>MA</p></td><td><p>Maity Bioenergia S/ A</p></td><td><p>210,12</p></td></tr><tr><td><p>PA</p></td><td><p>Pagrisa - Pará Pastoril e Agrícola S/ A</p></td><td><p>426,79</p></td></tr><tr><td><p>PB</p></td><td><p>Agro-Industrial Vale do Paraíba LTDA</p></td><td><p>580,91</p></td></tr><tr><td><p>PB</p></td><td><p>Miriri Alimentos e Bioenergia S/ A</p></td><td><p>50,35</p></td></tr><tr><td><p>PB</p></td><td><p>Usina Monte Alegre S/ A</p></td><td><p>691,02</p></td></tr><tr><td><p>PB</p></td><td><p>Companhia Usina São João</p></td><td><p>157,54</p></td></tr><tr><td><p>PE</p></td><td><p>Agrocan - Cooperativa do Agronegócio da Cana-de-Açúcar</p></td><td><p>11,75</p></td></tr><tr><td><p>PE</p></td><td><p>Usina Bom Jesus S/ A</p></td><td><p>383,77</p></td></tr><tr><td><p>PE</p></td><td><p>Usina Central Olho D'Água S/ A</p></td><td><p>1.413,32</p></td></tr><tr><td><p>PE</p></td><td><p>Companhia Alcoolquímica Nacional</p></td><td><p>205,34</p></td></tr><tr><td><p>PE</p></td><td><p>Copersul Ind. Prod. Açúcar, Etanol e Energia Elétrica LTDA</p></td><td><p>10,50</p></td></tr><tr><td><p>PE</p></td><td><p>Zihuatanejo do Brasil Açúcar e Álcool S/ A</p></td><td><p>544,39</p></td></tr><tr><td><p>PE</p></td><td><p>Usina Ipojugca S/ A</p></td><td><p>576,39</p></td></tr><tr><td><p>PE</p></td><td><p>Usivale Industria e Comércio LTDA</p></td><td><p>404,13</p></td></tr><tr><td><p>PE</p></td><td><p>Usina Ribeirão LTDA</p></td><td><p>68,07</p></td></tr><tr><td><p>PE</p></td><td><p>Usina Trapiche S/ A</p></td><td><p>1.102,47</p></td></tr><tr><td><p>PE</p></td><td><p>Usina União e Indústria S/ A</p></td><td><p>469,58</p></td></tr><tr><td><p>PE</p></td><td><p>Usina São José S/ A</p></td><td><p>852,54</p></td></tr><tr><td><p>PE</p></td><td><p>Usina Petribú S/ A</p></td><td><p>1.001,94</p></td></tr><tr><td><p>PI</p></td><td><p>Comvap Açúcar e Álcool LTDA</p></td><td><p>586,61</p></td></tr><tr><td><p>RN</p></td><td><p>Biosev S/ A</p></td><td><p>1.149,98</p></td></tr><tr><td><p>RN</p></td><td><p>Vale Verde - Filial II - 2 Açúcar</p></td><td><p>355,21</p></td></tr><tr><td><p>SE</p></td><td><p>Agro Industrial Capela LTDA</p></td><td><p>158,49</p></td></tr><tr><td><p>SE</p></td><td><p>Usina São José do Pinheiro LTDA</p></td><td><p>737,35</p></td></tr><tr><td><p>Total Geral</p></td><td><p>23.724,38</p></td></tr></table>

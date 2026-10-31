@@ -1,0 +1,122 @@
+---
+titulo: "RESOLUÇÃO RE Nº 1.398, DE 29 DE Abril DE 2022"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "1398"
+data: 2022-04-29
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 02/05/2022, seção 1, p. 205"
+data_publicacao: 2022-05-02
+edicao: "81"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.398-de-29-de-abril-de-2022-396532991"
+sha256_html_fonte: b293edd12c6380970b89f94bd77d261b43eeea9bce618c80abe473b76759da68
+baixado_em: 2026-10-20
+---
+# RESOLUÇÃO RE Nº 1.398, DE 29 DE Abril DE 2022
+
+RESOLUÇÃO RE Nº 1.398, DE 29 DE Abril DE 2022
+
+O Coordenador de Autorização de Funcionamento de Empresas, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Conceder Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria nº. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+FARMACIA JABORANDI LTDA / 47.383.138/0001-80
+
+25351.243788/2022-10 / 1273478
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 1378627220
+
+--------------------------------------
+
+PROTEMAC INDUSTRIA E COMÉRCIO DE BORRACHA LTDA / 06.050.437/0001-16
+
+25351.491772/2022-11 / 1273569
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 2413685227
+
+--------------------------------------
+
+FULL TIME LOGISTICA LTDA - ME / 15.865.630/0001-04
+
+25351.483993/2022-16 / 1273507
+
+761 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - ARMAZENADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 2384761226
+
+--------------------------------------
+
+DS FARMACIA DE MANIPULACAO LTDA / 07.728.117/0002-16
+
+25351.281181/2022-20 / 1273524
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 1578140222
+
+--------------------------------------
+
+DIGEMAN - DISTRIBUIDORA GERAL DE MEDICAMENTOS ANANINDEUA LTDA / 07.336.942/0001-94
+
+25351.483982/2022-28 / 1273495
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 2384724223
+
+--------------------------------------
+
+CIA LATINO AMERICANA DE MEDICAMENTOS / 84.683.481/0663-56
+
+25351.120088/2022-40 / 1273538
+
+70152 - AFE/AE - RECURSO ADMINISTRATIVO - FARMÁCIAS E DROGARIAS / 1308038225
+
+--------------------------------------
+
+BR MEDICAMENTOS LTDA / 42.834.634/0001-90
+
+25351.271360/2022-59 / 1273586
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 1534542221
+
+--------------------------------------
+
+SOLUCOES TRANSPORTES LTDA / 37.976.553/0001-94
+
+25351.274467/2022-59 / 1272745
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 1547293225
+
+--------------------------------------
+
+PMW COMERCIO DE PRODUTOS HOSPITALARES EIRELI / 37.107.761/0001-57
+
+25351.458177/2022-66 / 1273464
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 2294065221
+
+--------------------------------------
+
+HEALTH LOGISTICA HOSPITALAR S.A. / 18.320.396/0008-96
+
+25351.491755/2022-76 / 1273555
+
+761 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - ARMAZENADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 2413644229
+
+--------------------------------------
+
+PROTEGE S/A PROTEÇÃO E TRANSPORTE DE VALORES / 43.035.146/0057-30
+
+25351.249709/2022-76 / 1272701
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 1419145223
+
+--------------------------------------
+
+FARMACIA E LABORATORIO PHYTOSHOP EIRELI / 66.088.139/0001-47
+
+25351.281180/2022-85 / 1273511
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 1578137222

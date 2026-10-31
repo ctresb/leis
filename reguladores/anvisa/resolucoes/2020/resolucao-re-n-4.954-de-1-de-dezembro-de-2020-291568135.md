@@ -1,0 +1,466 @@
+---
+titulo: "RESOLUÇÃO-RE nº 4.954, de 1º DE DEZEMBRO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "4954"
+data: 2020-12-01
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 02/12/2020, seção 1, p. 76"
+data_publicacao: 2020-12-02
+edicao: "230"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.954-de-1-de-dezembro-de-2020-291568135"
+sha256_html_fonte: ae46b4248d35ea70acd3310494008fe01f6371bde0e7fd4136f309bd9a2e6a05
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE nº 4.954, de 1º DE DEZEMBRO DE 2020
+
+RESOLUÇÃO-RE nº 4.954, de 1º DE DEZEMBRO DE 2020
+
+O Coordenador de Autorização de Funcionamento de Empresas, Substituto, no uso das atribuições que lhe confere o art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º** Conceder Autorização de Funcionamento para os estabelecimentos de Farmácias e Drogarias, em conformidade com o anexo desta Resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+CIBELE DE OLIVEIRA SOUSA COMPOS / 38.377.783/0001-08
+
+25351.333337/2020-01 / 7761888
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3776000209
+
+--------------------------------------
+
+RBM DROGARIA LTDA / 39.155.041/0001-92
+
+25351.332573/2020-01 / 7761689
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3774128204
+
+--------------------------------------
+
+MAYARA ALCANTARA DE OLIVEIRA / 38.087.057/0001-42
+
+25351.333344/2020-03 / 7761951
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3776021201
+
+--------------------------------------
+
+KOCH HIPERMERCADO S.A / 02.831.172/0040-49
+
+25351.333351/2020-05 / 7762042
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3776041206
+
+--------------------------------------
+
+UNIAO FARMASAJ LTDA / 12.715.150/0005-94
+
+25351.135990/2020-07 / 7761965
+
+70152 - AFE/AE - RECURSO ADMINISTRATIVO - FARMÁCIAS E DROGARIAS / 3989354205
+
+--------------------------------------
+
+POLYANA DE CASTRO CARVALHO / 38.147.425/0001-09
+
+25351.333328/2020-11 / 7761812
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3775972208
+
+--------------------------------------
+
+DAVID ALVES DO NASCIMENTO / 31.108.127/0001-52
+
+25351.333319/2020-11 / 7761735
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3775947207
+
+--------------------------------------
+
+N BALIEIRO DA SILVA EIRELI / 05.676.907/0002-70
+
+25351.333335/2020-12 / 7761874
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3775994209
+
+--------------------------------------
+
+T T TAKESHITA-ME / 12.784.662/0002-60
+
+25351.333326/2020-13 / 7761797
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3775966203
+
+--------------------------------------
+
+BARBOSA E JARDIM LTDA / 37.321.146/0001-49
+
+25351.333342/2020-14 / 7761934
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3776015207
+
+--------------------------------------
+
+FARMACIA SCHNEIDER LTDA / 39.573.771/0001-03
+
+25351.333333/2020-15 / 7761861
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3775987206
+
+--------------------------------------
+
+SUPERAFARMA DROGARIAS EIRELI / 37.902.451/0001-24
+
+25351.333340/2020-17 / 7761917
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3776009202
+
+--------------------------------------
+
+VITALLE FARMACIA DE MANIPULAÇÃO LTDA / 04.957.090/0003-26
+
+25351.333310/2020-19 / 7761692
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3775501203
+
+--------------------------------------
+
+FARMACIA MORRO GRANDE LTDA ME / 08.655.997/0001-20
+
+25351.333358/2020-19 / 7762116
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3776062209
+
+--------------------------------------
+
+DERMO PHARMACOS FARMÁCIA EIRELI / 05.872.500/0003-07
+
+25351.333356/2020-20 / 7762091
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3776056204
+
+--------------------------------------
+
+W & C FARMACIA DE MANIPULAÇÃO LTDA / 35.456.676/0002-50
+
+25351.333317/2020-22 / 7761718
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3775941208
+
+--------------------------------------
+
+FAMILY COMERCIO DE PRODUTOS FARMACEUTICOS LTDA / 37.790.753/0001-58
+
+25351.136036/2020-23 / 7761644
+
+70152 - AFE/AE - RECURSO ADMINISTRATIVO - FARMÁCIAS E DROGARIAS / 4092974204
+
+--------------------------------------
+
+Renata de Britto da Cunha / 38.403.380/0001-88
+
+25351.333324/2020-24 / 7761770
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3775960204
+
+--------------------------------------
+
+CHABOWSKI & LEAL LTDA. / 35.372.454/0001-78
+
+25351.333331/2020-26 / 7761843
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3775981207
+
+--------------------------------------
+
+SUPERFARMA FARMACIA E PERFUMARIA LTDA / 37.730.092/0001-75
+
+25351.333349/2020-28 / 7762039
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3776035201
+
+--------------------------------------
+
+L M SILVA DE SOUZA / 37.806.467/0001-33
+
+25351.333354/2020-31 / 7762073
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3776050205
+
+--------------------------------------
+
+FARMA ESTAÇÃO DE TERESÓPOLIS LTDA / 35.788.676/0001-76
+
+25351.335009/2020-31 / 7762178
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3780077209
+
+--------------------------------------
+
+PANDOLFOS COMERCIO DE MEDICAMENTOS LTDA / 39.493.112/0001-67
+
+25351.333322/2020-35 / 7761766
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3775956206
+
+--------------------------------------
+
+Florestal Comercio de Medicamentos LTDA / 24.081.863/0001-07
+
+25351.333347/2020-39 / 7762008
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3776028209
+
+--------------------------------------
+
+DROGARIA MATINGA LTDA / 15.427.488/0004-58
+
+25351.333345/2020-40 / 7761982
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3776024206
+
+--------------------------------------
+
+IVONE MARIA DOS SANTOS SILVA E CIA LTDA / 38.082.133/0001-27
+
+25351.333352/2020-41 / 7762056
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3776044201
+
+--------------------------------------
+
+FARMALIDER FARMACIA E DROGARIA LTDA - EPP / 04.548.580/0001-07
+
+25351.621498/2020-41 / 7762195
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2132991205
+
+--------------------------------------
+
+drogaria moreira plus ltda / 32.426.464/0001-50
+
+25351.331323/2020-45 / 7761675
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3772359206
+
+--------------------------------------
+
+M R ROSA / 36.711.848/0001-76
+
+25351.333320/2020-46 / 7761749
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3775950207
+
+--------------------------------------
+
+APOLIANA ROSA JARDIM FARMACIA / 38.297.825/0001-92
+
+25351.969092/2020-47 / 7761979
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3167577208
+
+--------------------------------------
+
+RAIA DROGASIL S/A / 61.585.865/2574-38
+
+25351.333338/2020-48 / 7761891
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3776003203
+
+--------------------------------------
+
+FARMABALDO COMERCIO DE PRODUTOS FARMACEUTICOS EIRELI / 37.087.011/0001-60
+
+25351.258627/2020-51 / 7761631
+
+70152 - AFE/AE - RECURSO ADMINISTRATIVO - FARMÁCIAS E DROGARIAS / 4144912206
+
+--------------------------------------
+
+DROGARIA GUIMARAES EIRELI / 10.482.980/0004-02
+
+25351.333343/2020-51 / 7761948
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3776018201
+
+--------------------------------------
+
+DROGARIA PHARMA MUNDI LTDA ME / 38.460.712/0001-66
+
+25351.333329/2020-57 / 7761826
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3775975202
+
+--------------------------------------
+
+STORE APG FARMACIA EIRELI / 38.137.164/0001-38
+
+25351.969090/2020-58 / 7762181
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3167573205
+
+--------------------------------------
+
+ELAYNE ESTEVES DA SILVA ME / 39.143.998/0001-19
+
+25351.333341/2020-61 / 7761921
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3776012202
+
+--------------------------------------
+
+F G A SAMPAIO FARMACIA / 36.582.543/0001-01
+
+25351.333359/2020-63 / 7762120
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3776065203
+
+--------------------------------------
+
+EMYLLE DOS REIS SOBRINHO / 34.407.142/0001-90
+
+25351.333327/2020-68 / 7761809
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3775969208
+
+--------------------------------------
+
+CARVALHO, FERNANDES & NEVES COMÉRCIO DE PRODUTOS FARMACEUTICOS LTDA / 39.244.224/0001-84
+
+25351.333332/2020-71 / 7761857
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3775984201
+
+--------------------------------------
+
+FARMACIAS BRAVA LTDA / 09.597.446/0024-06
+
+25351.330966/2020-71 / 7761661
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3771590209
+
+--------------------------------------
+
+BEMOL S/A / 04.565.289/0064-20
+
+25351.333357/2020-74 / 7762102
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3776059209
+
+--------------------------------------
+
+MC DROGARIA LTDA. / 37.623.850/0001-56
+
+25351.333364/2020-76 / 7762151
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3776080207
+
+--------------------------------------
+
+Drogaria Coimbra Ltda / 34.772.179/0001-17
+
+25351.333318/2020-77 / 7761721
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3775944202
+
+--------------------------------------
+
+DROGARIA CALDERAN PIRACICABA LTDA / 39.439.400/0001-33
+
+25351.333325/2020-79 / 7761783
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3775963209
+
+--------------------------------------
+
+tarciso rodrigues da silva eireli / 38.327.258/0002-50
+
+25351.333330/2020-81 / 7761830
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3775978207
+
+--------------------------------------
+
+Farmacia Central de Vila Maria Helena LTDA / 38.945.590/0001-06
+
+25351.333348/2020-83 / 7762011
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3776032207
+
+--------------------------------------
+
+DESCONTÃO COMÉRCIO DE MEDICAMENTOS LTDA / 37.197.887/0001-60
+
+25351.333355/2020-85 / 7762087
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3776053200
+
+--------------------------------------
+
+M.V. PEDROSO LTDA / 84.052.547/0001-20
+
+25351.324822/2020-86 / 7761658
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3759134207
+
+--------------------------------------
+
+DROGARIA RJ LTDA / 38.268.282/0001-85
+
+25351.333362/2020-87 / 7762147
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3776074202
+
+--------------------------------------
+
+a c lourenco eireli / 35.866.697/0001-62
+
+25351.333316/2020-88 / 7761704
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3775938208
+
+--------------------------------------
+
+TATIANE ALVES OLIVEIRA MONTEIRO / 28.980.672/0001-20
+
+25351.458903/2020-89 / 7762207
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 1629091207
+
+--------------------------------------
+
+wa comercio varejista de produtos farmaceuticos / 22.182.268/0002-05
+
+25351.333321/2020-91 / 7761752
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3775953201
+
+--------------------------------------
+
+DROGARIA E PERFUMARIA CIFFANI CEZAR EIRELI-ME / 14.479.578/0001-87
+
+25351.333339/2020-92 / 7761903
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3776006208
+
+--------------------------------------
+
+CARLITO COMERCIO DE MEDICAMENTOS LTDA / 28.769.942/0003-10
+
+25351.333353/2020-96 / 7762060
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3776047205
+
+--------------------------------------
+
+E Maria Carvalho de Macedo Eireli / 29.795.773/0001-93
+
+25351.333360/2020-98 / 7762133
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3776068208

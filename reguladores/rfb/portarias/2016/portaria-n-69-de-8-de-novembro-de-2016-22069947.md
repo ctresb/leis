@@ -1,0 +1,32 @@
+---
+titulo: "PORTARIA Nº 69, DE 8 DE NOVEMBRO DE 2016"
+orgao: "Ministério da Fazenda/SECRETARIA DA RECEITA FEDERAL DO BRASIL/DELEGACIA DA RECEITA FEDERAL DO BRASIL EM PONTA GROSSA"
+tipo: "Portaria"
+numero: "69"
+data: 2016-11-08
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 09/11/2016, seção 1, p. 26"
+data_publicacao: 2016-11-09
+edicao: "215"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-69-de-8-de-novembro-de-2016-22069947"
+sha256_html_fonte: fd59a8ccd5657a38d640116f53a024f2307ce786d9dd3bbd6d1649f74917a5bb
+baixado_em: 2026-10-28
+---
+# PORTARIA Nº 69, DE 8 DE NOVEMBRO DE 2016
+
+PORTARIA Nº 69, DE 8 DE NOVEMBRO DE 2016
+
+Exclui pessoa jurídica do REFIS.
+
+O DELEGADO DA RECEITA FEDERAL DO BRASIL EMPONTA GROSSA tendo em vista a competência delegada pela Resoluçãodo Comitê Gestor do REFIS nº 37, de 31 de agosto de 2011,por sua vez constituído pela Portaria Interministerial MF/MPAS nº21, de 31 de janeiro de 2000, no uso da competência estabelecida no§ 1º do art. 1º da Lei nº 9.964, de 10 de abril de 2000, e no inciso IVdo art. 2º do Decreto nº 3.431, de 24 de abril de 2000, tendo em vistao disposto no inciso XIV do art. 79 da Lei nº 11.941, de 27 de maiode 2009, resolve:
+
+**Art. 1º** Excluir do Programa de Recuperação Fiscal - REFIS,por estar configurada a hipótese de exclusão prevista no art. 5º, incisoXI da Lei nº 9.964, de 10 de abril de 2000 - não auferimento dereceita bruta por nove meses consecutivos, da pessoa jurídica INDÚSTRIASJOÃO JOSÉ ZATTAR S.A., CNPJ: 76.498.146/0001-70,com efeitos a partir de 01/12/2016, conforme respectivo processoadministrativo de número 10940.721290/2016-38.
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação.
+
+GUSTAVO LUIS HORN
+
+GUSTAVO LUIS HORN
+
+Este conteúdo não substitui o publicado na versão certificada.

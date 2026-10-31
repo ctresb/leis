@@ -1,0 +1,164 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 638, DE 25 DE FEVEREIRO DE 2022"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/3ª Diretoria/Gerência-Geral de Toxicologia"
+tipo: "Resolução"
+numero: "638"
+data: 2022-02-25
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 02/03/2022, seção 1, p. 177"
+data_publicacao: 2022-03-02
+edicao: "41"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-638-de-25-de-fevereiro-de-2022-383105217"
+sha256_html_fonte: 3be7f9f48504251af9b9c37992b568a5c7631c9f74a8a48ccc583a15e690d573
+baixado_em: 2026-10-20
+---
+# RESOLUÇÃO-RE Nº 638, DE 25 DE FEVEREIRO DE 2022
+
+RESOLUÇÃO-RE Nº 638, DE 25 DE FEVEREIRO DE 2022
+
+O Gerente-Geral de Toxicologia no uso das atribuições que lhe confere o art. 114, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Aprovar os atos de avaliação toxicológica para fins de pós-registro de produtos agrotóxicos, componentes e afins, identificados no anexo, com o respectivo resultado da análise.
+
+**Art. 2º** A publicação do extrato desta avaliação de resíduos não exime a requerente do cumprimento das demais avaliações procedidas pelos órgãos responsáveis pelas áreas de agricultura e de meio ambiente, conforme legislação vigente no país, aplicável ao objeto do requerimento.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+CARLOS ALEXANDRE OLIVEIRA GOMES
+
+## ANEXO
+
+RAZÃO SOCIAL/CNPJ
+
+MARCA COMERCIAL
+
+NÚMERO DO PROCESSO
+
+PETIÇÃO(ÕES)/EXPEDIENTE(S)
+
+-----------------------------
+
+ALLIERBRASIL AGRO LTDA / 02.850.049/0001-69
+
+SIENA
+
+25351.434968/2015-37
+
+5000 - AVALIAÇÃO TOXICOLÓGICA PARA INCLUSÃO DE CULTURAS, 3332253/21-2
+
+OPTA
+
+25351.797369/2016-67
+
+5000 - AVALIAÇÃO TOXICOLÓGICA PARA INCLUSÃO DE CULTURAS, 3110314/21-5
+
+-----------------------------
+
+BAYER S.A. / 18.459.628/0001-15
+
+BELT
+
+25351.381691/2005-03
+
+5044 - AVALIAÇÃO TOXICOLÓGICA PARA ALTERAÇÃO DE INTERVALO DE SEGURANÇA, 3861812/21-5
+
+NATIVO
+
+25351.123697/2004-79
+
+5044 - AVALIAÇÃO TOXICOLÓGICA PARA ALTERAÇÃO DE INTERVALO DE SEGURANÇA, 4285528/21-5
+
+-----------------------------
+
+DOW AGROSCIENCES INDUSTRIAL LTDA / 47.180.625/0001-46
+
+TRICICLAZOL TÉCNICO 950
+
+25000.012488/95-56
+
+5049 - AVALIAÇÃO TOXICOLÓGICA PARA ALTERAÇÃO DE FABRICANTE EM PRODUTO TÉCNICO, 2879004/20-9
+
+VERTER SC
+
+25351.242791/2017-36
+
+5000 - AVALIAÇÃO TOXICOLÓGICA PARA INCLUSÃO DE CULTURAS, 3316266/21-6
+
+-----------------------------
+
+FERBRU PARTICIPAÇÕES S.A. - 27.150.699/0001-22
+
+INDOXACARB TÉCNICO FB
+
+25351.292551/2018-78
+
+5052 - AVALIAÇÃO TOXICOLÓGICA PARA ALTERAÇÃO DE COMPOSIÇÃO OU DO PROCESSO DE SÍNTESE DE PRODUTO TÉCNICO, 6980969/21-8
+
+-----------------------------
+
+FMC QUÍMICA DO BRASIL LTDA. / 04.136.367/0001-98
+
+CARBOSULFAN TÉCNICO FMC
+
+25351.038880/2003-99
+
+5049 - AVALIAÇÃO TOXICOLÓGICA PARA ALTERAÇÃO DE FABRICANTE EM PRODUTO TÉCNICO, 3238139/20-7
+
+AMETISTA
+
+25351.554689/2008-02
+
+5044 - AVALIAÇÃO TOXICOLÓGICA PARA ALTERAÇÃO DE INTERVALO DE SEGURANÇA, 7625541/21-5
+
+-----------------------------
+
+MACROSEEDS INDUSTRIA E COMERCIO DE INSUMOS AGRICOLAS LTDA - 18.858.234/0001-30
+
+INDOXACARB TÉCNICO CHDS
+
+25351.300154/2019-68
+
+5052 - AVALIAÇÃO TOXICOLÓGICA PARA ALTERAÇÃO DE COMPOSIÇÃO OU DO PROCESSO DE SÍNTESE DE PRODUTO TÉCNICO, 5188461/21-8
+
+-----------------------------
+
+OXON BRASIL DEFENSIVOS AGRÍCOLAS LTDA / 07.224.503/0001-90
+
+ECHO
+
+25351.079491/2006-66
+
+5000 - AVALIAÇÃO TOXICOLÓGICA PARA INCLUSÃO DE CULTURAS, 3332154/21-4
+
+-----------------------------
+
+SABERO ORGANICS AMERICA LTDA / 04.016.649/0001-51
+
+EMZEB 800 WP
+
+25351.232612/2008-76
+
+5000 - AVALIAÇÃO TOXICOLÓGICA PARA INCLUSÃO DE CULTURAS, 3027208/21-7
+
+-----------------------------
+
+SYNGENTA PROTEÇÃO DE CULTIVOS LTDA / 60.744.463/0001-90
+
+VOLIAM TARGO
+
+25351.628100/2010-91
+
+5000 - AVALIAÇÃO TOXICOLÓGICA PARA INCLUSÃO DE CULTURAS, 3058363/21-4
+
+5078 - AVALIAÇÃO TOXICOLÓGICA PARA INCLUSÃO DE CSFI (CULTURAS COM SUPORTE FITOSSANITÁRIO INSUFICIENTE) - MINOR CROPS, 4519822/20-3
+
+-----------------------------
+
+UPL DO BRASIL INDÚSTRIA E COMÉRCIO DE INSUMOS AGROPECUÁRIOS S.A. - 02.974.733/0001-52
+
+HUMMER
+
+25351.869991/2008-11
+
+5021 - AVALIAÇÃO TOXICOLÓGICA PARA ALTERAÇÃO DE DOSE PARA MAIOR NA APLICAÇÃO, 4855363/21-9

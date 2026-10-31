@@ -1,0 +1,53 @@
+---
+titulo: "PORTARIA Nº 156, DE 1º DE DEZEMBRO DE 2025"
+orgao: "Ministério da Saúde/Secretaria de Gestão do Trabalho e da Educação na Saúde"
+tipo: "Portaria"
+numero: "156"
+data: 2025-12-01
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 04/12/2025, seção 1, p. 115"
+data_publicacao: 2025-12-04
+edicao: "231"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-156-de-1-de-dezembro-de-2025-672983373"
+baixado_em: 2026-10-16
+---
+# PORTARIA Nº 156, DE 1º DE DEZEMBRO DE 2025
+
+PORTARIA Nº 156, DE 1º DE DEZEMBRO DE 2025
+
+Divulga a lista dos nomes e respectivos registros únicos cancelados dos médicos intercambistas que foram desligados no âmbito do Projeto Mais Médicos para o Brasil.
+
+O SECRETÁRIO DE GESTÃO DO TRABALHO E DA EDUCAÇÃO NA SAÚDE, no uso da atribuição que lhe confere a Portaria da Casa Civil Nº 318, de 17 de março de 2025, e conforme atribuições pertinentes ao Projeto Mais Médicos para o Brasil, nos termos do art. 16, § 3º, da Lei nº 12.871, de 22 de outubro de 2013, do art. 1º, § 1º, do Decreto nº 8.126, de 22 de outubro de 2013, e dos arts. 6º e 7º da Portaria GM/MS, nº 2.477, de 22 de outubro de 2013, resolve:
+
+**Art. 1º** Ficam cancelados os registros únicos expedidos para o exercício da medicina no âmbito do Projeto Mais Médicos para o Brasil, aos médicos intercambistas com adesão em ciclos diversos, desligados do Projeto, conforme dados constantes no Anexo desta Portaria.
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação, com efeitos retroativos à data do encerramento das atividades de cada profissional, no âmbito do Projeto Mais Médicos para o Brasil, descrita no Anexo desta Portaria.
+
+FELIPE PROENÇO DE OLIVEIRA
+
+## ANEXO
+
+| **QTD** | PROCESSO | CPF | NOME | RMS | UF | MUNICÍPIO /DSEI | FIM DAS ATIVIDADES | CICLO DE ADESÃO |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 25000.143291/2024-36 | XXX.758.182-XX | FLAVIO RAIMUNDO COELHO DA ROCHA | 1205640 | AC | DISTRITO SANITARIO ESPECIAL INDIGENA ALTO JURUA | 30/10/2025 | TRIGESIMO OITAVO |
+| 2 | 25000.063144/2014-10 | XXX.618.991-XX | JUAN MIGUEL ARIAS PEREZ | 1305850 | AM | MAUES | 31/10/2025 | VIGESIMO CICLO |
+| 3 | 25000.117905/2016-14 | XXX.006.921-XX | EDEL VAZQUEZ RODRIGUEZ | 1305855 | AM | RIO PRETO DA EVA | 31/10/2025 | VIGESIMO CICLO |
+| 4 | 25000.158133/2019-13 | XXX.471.782-XX | MICHAEL MENEZES GALVAO | 2902473 | BA | CAMPO FORMOSO | 20/10/2025 | TRIGESIMO |
+| 5 | 25000.144283/2023-26 | XXX.717.367-XX | LEANDRO MOREIRA ARAUJO PEREIRA | 3205646 | ES | SOORETAMA | 06/08/2025 | TRIGESIMO PRIMEIRO |
+| 6 | 25000.012219/2018-10 | XXX.156.988-XX | EMILIA CORREA HERNANDES | 5200661 | GO | PIRACANJUBA | 01/10/2025 | TRIGESIMO SEXTO |
+| 7 | 25000.170697/2023-19 | XXX.597.857-XX | NELI VITAL DOS SANTOS | 3106437 | MG | TEOFILO OTONI | 13/10/2025 | TRIGESIMO PRIMEIRO |
+| 8 | 25000.090680/2023-71 | XXX.340.722-XX | CASSICLEY DOMICIANO DE QUEIROS | 1505612 | PA | CACHOEIRA DO PIRIA | 30/09/2025 | VIGESIMO OITAVO |
+| 9 | 25000.140279/2023-99 | XXX.562.792-XX | JESSICA ELIZA FERNANDES MARIANO | 1506149 | PA | FLORESTA DO ARAGUAIA | 31/10/2025 | TRIGESIMO PRIMEIRO |
+| 10 | 25000.124735/2019-77 | XXX.975.675-XX | JARBAS BARRETO RIBEIRO FILHO | 4101571 | PR | CEU AZUL | 21/10/2025 | TRIGESIMO |
+| 11 | 25000.435817/2017-82 | XXX.899.449-XX | ADRIANE BORGES MARTINS | 4101332 | PR | HONORIO SERPA | 10/10/2025 | TRIGESIMO |
+| 12 | 25000.113470/2016-39 | XXX.237.841-XX | BARBARO JESUS CASALES ENSENAT | 3305657 | RJ | MARICA | 22/10/2025 | TRIGESIMO PRIMEIRO |
+| 13 | 25000.125845/2019-56 | XXX.496.051-XX | WEIMAN PEREIRA DE SOUZA | 3300912 | RJ | NOVA IGUACU | 30/09/2025 | TRIGESIMO |
+| 14 | 25000.141332/2023-79 | XXX.796.702-XX | FERNANDA DI KASSIA MARTINS RODRIGUES | 4306019 | RS | PELOTAS | 01/10/2025 | TRIGESIMO PRIMEIRO |
+| 15 | 25000.100318/2023-15 | XXX.330.619-XX | DHEINIFFER LETICIA DE OLIVEIRA | 4305705 | RS | PORTO ALEGRE | 30/09/2025 | VIGESIMO OITAVO |
+| 16 | 25000.177507/2023-86 | XXX.938.912-XX | TELLYSON ALEXANDRE GONCALVES FERREIRA | 4205917 | SC | NOVA TRENTO | 10/10/2025 | TRIGESIMO PRIMEIRO |
+| 17 | 25000.197236/2013-XX | XXX.524.021-XX | TAIME BALDOQUIN REYES VERAS | 3504053 | SP | FRANCO DA ROCHA | 29/10/2025 | TRIGESIMO |
+| 18 | 25000.435150/2017-18 | XXX.695.160-XX | IANARA PONCIO BATALHA ROSSI | 3503672 | SP | JAU | 01/11/2025 | TRIGESIMO |
+| 19 | 25000.140871/2023-91 | XXX.353.898-XX | ROSEMEIRE APARECIDA BATISTA MOTA | 3506340 | SP | JUNDIAI | 07/11/2025 | TRIGESIMO PRIMEIRO |
+| 20 | 25000.438675/2017-13 | XXX.032.036-XX | LUCAS VALVASSORI PANTALEAO | 3507361 | SP | SANTO ANDRE | 25/08/2025 | TRIGESIMO |
+| 21 | 25000.224661/2013-82 | XXX.037.811-XX | MADELAINE RODRIGUEZ MARTIN | 3507363 | SP | SAO PAULO | 02/10/2025 | TRIGESIMO OITAVO |

@@ -1,0 +1,100 @@
+---
+titulo: "PORTARIA Nº 2.089, DE 10 DE JULHO DE 2019"
+orgao: "Ministério da Infraestrutura/Agência Nacional de Aviação Civil/Superintendência de Regulação Econômica de Aeroportos"
+tipo: "Portaria"
+numero: "2089"
+data: 2019-07-10
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 12/07/2019, seção 1, p. 283"
+data_publicacao: 2019-07-12
+edicao: "133"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-2.089-de-10-de-julho-de-2019-191919135"
+sha256_html_fonte: e05a66222e780ef68d2a7c7c063409dd4a99c33a7a3806364105c6e943b51bec
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 2.089, DE 10 DE JULHO DE 2019
+
+PORTARIA Nº 2.089, DE 10 DE JULHO DE 2019
+
+Reajusta os tetos das tarifas aeroportuárias aplicáveis ao Contrato de Concessão do Aeroporto Internacional Governador André Franco Montoro, localizado em Guarulhos (SP).
+
+O SUPERINTENDENTE DE REGULAÇÃO ECONÔMICA DE AEROPORTOS SUBSTITUTO, no uso da atribuição que lhe confere o art. 41, inciso X, do Regimento Interno, aprovado pela Resolução nº 381, de 14 de junho de 2016, tendo em vista o disposto no Contrato de Concessão,
+
+Considerando os critérios de reajuste tarifário e publicação dos tetos das tarifas aeroportuárias descritos, respectivamente, nas cláusulas 6.5 e 3.1.25 do Contrato de Concessão de Aeroporto - CCA nº 002/ANAC/2012 - SBGR, referente à concessão dos serviços públicos para a ampliação, manutenção e exploração da infraestrutura aeroportuária do Aeroporto Internacional Governador André Franco Montoro, localizado em Guarulhos/SP;
+
+Considerando a Memória de Cálculo do Reajuste Tarifário de 2019 Anexa a esta Portaria, que indica um reajuste de 2,4095% sobre os tetos das tarifários constantes das Tabelas 1, 1-A, 2, 3, 4, 5 e 6 da Decisão nº 81, de 09 de julho de 2018, e de 3,3663% sobre os tetos constantes das Tabelas 8, 9, 10 e 12 da mesma Decisão; e
+
+Considerando o que consta do processo nº 00058.025471/2019-83, resolve:
+
+**Art. 1º** Reajustar os tetos das tarifas aeroportuárias de embarque, conexão, pouso, permanência, armazenagem e capatazia previstas no Anexo 4 do Contrato de Concessão de Aeroporto - CCA nº 002/ANAC/2012 - SBGR.
+
+**§ 1º** As tabelas a seguir dispostas substituem as constantes na Decisão nº 81, de 09 de julho de 2018, passando a vigorar com os seguintes valores:
+
+Tabela 1 - Tarifa de Embarque do Grupo I
+
+<table><tr></tr><tr><td><p>Tarifa de embarque</p></td><td><p>Doméstico (R$)</p></td><td><p>Internacional (R$)</p></td></tr><tr><td></td><td><p>31,69</p></td><td><p>56,08</p></td></tr></table>
+
+Tabela 1-A - Tarifa de Conexão
+
+<table><tr></tr><tr><td><p>Tarifa de Conexão</p><p>(por passageiro)</p></td><td><p>Doméstico (R$)</p></td><td><p>Internacional (R$)</p></td></tr><tr><td></td><td><p>10,73</p></td><td><p>10,73</p></td></tr></table>
+
+Tabela 2 - Tarifa de Pouso do Grupo I
+
+<table><tr></tr><tr><td><p>Tarifa de Pouso</p><p>(Tonelada)</p></td><td><p>Doméstico (R$)</p></td><td><p>Internacional (R$)</p></td></tr><tr><td></td><td><p>9,9212</p></td><td><p>26,4516</p></td></tr></table>
+
+Tabela 3 - Tarifa Unificada de Embarque e Pouso das Aeronaves do Grupo II
+
+<table><tr></tr><tr><td><p>Faixa de Peso Máximo de Decolagem (Tonelada)</p></td><td><p>Doméstico (R$)</p></td><td><p>Internacional (R$)</p></td></tr><tr><td><p>ATÉ 1</p></td><td><p>162,36</p></td><td><p>233,68</p></td></tr><tr><td><p>DE 1 ATÉ 2</p></td><td><p>162,36</p></td><td><p>233,68</p></td></tr><tr><td><p>DE 2 ATÉ 4</p></td><td><p>197,11</p></td><td><p>411,28</p></td></tr><tr><td><p>DE 4 ATÉ 6</p></td><td><p>398,76</p></td><td><p>827,19</p></td></tr><tr><td><p>DE 6 ATÉ 12</p></td><td><p>519,34</p></td><td><p>1.088,89</p></td></tr><tr><td><p>DE 12 ATÉ 24</p></td><td><p>1.179,66</p></td><td><p>2.458,25</p></td></tr><tr><td><p>DE 24 ATÉ 48</p></td><td><p>3.027,10</p></td><td><p>5.519,36</p></td></tr><tr><td><p>DE 48 ATÉ 100</p></td><td><p>3.583,33</p></td><td><p>7.496,24</p></td></tr><tr><td><p>DE 100 ATÉ 200</p></td><td><p>5.848,49</p></td><td><p>12.459,45</p></td></tr><tr><td><p>DE 200 ATÉ 300</p></td><td><p>9.232,64</p></td><td><p>19.829,45</p></td></tr><tr><td><p>MAIS DE 300</p></td><td><p>15.431,18</p></td><td><p>32.826,36</p></td></tr></table>
+
+Tabela 4 - Tarifas de Permanência das aeronaves do Grupo I
+
+<table><tr></tr><tr><td><p>Tarifa de Permanência</p></td><td><p>Doméstico (R$)</p></td><td><p>Internacional (R$)</p></td></tr><tr><td><p>Pátio de Manobras (PPM)</p></td><td><p>1,9603</p></td><td><p>5,2811</p></td></tr><tr><td><p>Pátio de Estadia (PPE)</p></td><td><p>0,4160</p></td><td><p>1,0750</p></td></tr></table>
+
+Tabela 5 - Tarifas de Permanência em Pátio de Manobras Relativas às Aeronaves do Grupo II (por hora ou fração)
+
+<table><tr></tr><tr><td><p>Faixa de Peso Máximo de Decolagem (Tonelada)</p></td><td><p>Doméstico (R$)</p></td><td><p>Internacional (R$)</p></td></tr><tr><td><p>ATÉ 1</p></td><td><p>26,85</p></td><td><p>25,23</p></td></tr><tr><td><p>DE 1 ATÉ 2</p></td><td><p>26,85</p></td><td><p>25,23</p></td></tr><tr><td><p>DE 2 ATÉ 4</p></td><td><p>26,85</p></td><td><p>25,23</p></td></tr><tr><td><p>DE 4 ATÉ 6</p></td><td><p>26,85</p></td><td><p>30,39</p></td></tr><tr><td><p>DE 6 ATÉ 12</p></td><td><p>26,85</p></td><td><p>50,47</p></td></tr><tr><td><p>DE 12 ATÉ 24</p></td><td><p>38,96</p></td><td><p>101,41</p></td></tr><tr><td><p>DE 24 ATÉ 48</p></td><td><p>78,14</p></td><td><p>197,75</p></td></tr><tr><td><p>DE 48 ATÉ 100</p></td><td><p>129,34</p></td><td><p>329,03</p></td></tr><tr><td><p>DE 100 ATÉ 200</p></td><td><p>293,00</p></td><td><p>744,48</p></td></tr><tr><td><p>DE 200 ATÉ 300</p></td><td><p>510,88</p></td><td><p>1.302,04</p></td></tr><tr><td><p>MAIS DE 300</p></td><td><p>742,87</p></td><td><p>1.894,63</p></td></tr></table>
+
+Tabela 6 - Tarifas de Permanência na Área de Estadia Relativas às Aeronaves do Grupo II (por hora ou fração)
+
+<table><tr></tr><tr><td><p>Faixa de Peso Máximo de Decolagem (Tonelada)</p></td><td><p>Doméstico (R$)</p></td><td><p>Internacional (R$)</p></td></tr><tr><td><p>ATÉ 1</p></td><td><p>1,78</p></td><td><p>1,63</p></td></tr><tr><td><p>DE 1 ATÉ 2</p></td><td><p>1,78</p></td><td><p>1,63</p></td></tr><tr><td><p>DE 2 ATÉ 4</p></td><td><p>1,78</p></td><td><p>3,28</p></td></tr><tr><td><p>DE 4 ATÉ 6</p></td><td><p>2,34</p></td><td><p>5,83</p></td></tr><tr><td><p>DE 6 ATÉ 12</p></td><td><p>3,98</p></td><td><p>10,04</p></td></tr><tr><td><p>DE 12 ATÉ 24</p></td><td><p>7,79</p></td><td><p>19,87</p></td></tr><tr><td><p>DE 24 ATÉ 48</p></td><td><p>15,55</p></td><td><p>39,49</p></td></tr><tr><td><p>DE 48 ATÉ 100</p></td><td><p>25,84</p></td><td><p>65,89</p></td></tr><tr><td><p>DE 100 ATÉ 200</p></td><td><p>58,51</p></td><td><p>149,52</p></td></tr><tr><td><p>DE 200 ATÉ 300</p></td><td><p>102,20</p></td><td><p>260,77</p></td></tr><tr><td><p>MAIS DE 300</p></td><td><p>148,53</p></td><td><p>379,94</p></td></tr></table>
+
+Tabela 7 - Cálculo da Tarifa de Armazenagem da Carga Importada
+
+<table><tr></tr><tr><td><p>Períodos de Armazenagem</p></td><td><p>Percentual sobre o valor CIF</p></td></tr><tr><td><p>1º - Até 02 dias úteis</p></td><td><p>0,75%</p></td></tr><tr><td><p>2º - De 3 a 5 dias úteis</p></td><td><p>1,50%</p></td></tr><tr><td><p>3º - De 6 a 10 dias úteis</p></td><td><p>2,25%</p></td></tr><tr><td><p>4º - De 11 a 20 dias úteis</p></td><td><p>4,50%</p></td></tr><tr><td><p>Para cada 10 dias úteis ou fração, além do 4º período, até a retirada da mercadoria.</p></td><td><p>+ 2,25%</p></td></tr><tr><td><p>Observações:</p><p>1. A partir do 4º (quarto) período os percentuais são cumulativos;</p><p>2. Esta Tabela é aplicada cumulativamente com a Tabela 8.</p></td></tr></table>
+
+Tabela 8 - Cálculo do Preço relativo à Tarifa de Capatazia da Carga Importada
+
+<table><tr></tr><tr><td><p>Valor Sobre o Peso Bruto Verificado</p></td></tr><tr><td><p>R$ 0,0625 por quilograma</p></td></tr><tr><td><p>Observações:</p><p>1. Esta tabela é aplicada cumulativamente com a Tabela 7;</p><p>2. O valor da tarifa aeroportuária de capatazia será cobrado uma única vez;</p><p>3. Cobrança mínima: R$13,59 (treze reais e cinquenta e nove centavos).</p></td></tr></table>
+
+Tabela 9 - Tarifas de Armazenagem e de Capatazia da Carga Importada Aplicada em Casos Especiais
+
+<table><tr></tr><tr><td><p>Períodos de Armazenagem</p></td><td><p>Sobre o Peso Bruto</p></td></tr><tr><td><p>1º - Até 4 dias úteis</p></td><td><p>R$ 0,1667</p></td></tr><tr><td><p>2º - Para cada 2 dias úteis ou fração, além do 1º período, até a retirada da mercadoria</p></td><td><p>+ R$ 0,1667</p></td></tr><tr><td><p>Observações:</p><p>1. A tarifa mínima a ser cobrada será correspondente a R$13,59 (treze reais e cinquenta e nove centavos).</p></td></tr></table>
+
+Tabela 10 - Tarifas de Capatazia da Carga Importada em Trânsito
+
+<table><tr></tr><tr><td><p>Valor Sobre o Peso Bruto Verificado</p></td></tr><tr><td><p>R$ 1,0410</p></td></tr><tr><td><p>Observações:</p><p>1. Cobrança mínima: R$67,95 (sessenta e sete reais e noventa e cinco centavos);</p><p>2. Esta tabela aplica-se à carga com permanência máxima de 24 (vinte e quatro) horas no TECA;</p><p>3. Excedido o prazo de 24 (vinte e quatro) horas, após a entrada da carga no TECA, deverão ser aplicadas as Tabelas 7 e 8 ou a Tabela 11 deste Anexo.</p></td></tr></table>
+
+Tabela 11 - Preço Cumulativo das Tarifas de Armazenagem e Capatazia da Carga Importada de Alto Valor Específico
+
+<table><tr></tr><tr><td><p>Períodos de Armazenagem</p></td><td><p>Faixa (R$)</p></td><td><p>Percentual sobre o Valor CIF</p></td></tr><tr><td><p>3 dias úteis ou fração, a contar da data do recebimento no TECA</p></td><td><p>de 5.000,00 a 19.999,99/kg</p></td><td><p>0,60%</p></td></tr><tr><td></td><td><p>de 20.000,00 a 79.999,99/kg</p></td><td><p>0,30%</p></td></tr><tr><td></td><td><p>acima de 80.000,00/kg</p></td><td><p>0,15%</p></td></tr><tr><td><p>Observações:</p><p>1. O valor CIF por quilograma tem como referencial para cálculo o peso líquido da carga.</p></td></tr></table>
+
+Tabela 12 - Preço Cumulativo das Tarifas de Armazenagem e Capatazia da Carga destinada à Exportação
+
+<table><tr></tr><tr><td><p>Períodos de Armazenagem</p></td><td><p>Valor Sobre o Peso Bruto</p></td></tr><tr><td><p>1º - Até 4 dias úteis</p></td><td><p>R$ 0,0832</p></td></tr><tr><td><p>2º - Para cada 2 dias úteis ou fração, além do 1º período, até a retirada da mercadoria</p></td><td><p>R$ 0,0832</p></td></tr><tr><td><p>Observações:</p><p>1. Tarifa mínima de R$5,44 (cinco reais e quarenta e quatro centavos) no TECA de origem e R$2,72 (dois reais e setenta e dois centavos) no TECA de trânsito;</p></td></tr><tr><td><p>2. Os valores são cumulativos a partir do 2º período;</p><p>3. Redução de 50% (cinquenta por cento) nos casos de retorno de carga perecível ao TECA, decorrente de atraso ou cancelamento de transporte aéreo previsto.</p></td></tr></table>
+
+Tabela 13 - Tarifa de Armazenagem e de Capatazia da Carga sob Pena de Perdimento
+
+<table><tr></tr><tr><td><p>Períodos de Armazenagem</p></td><td><p>Percentual sobre o valor FOB</p></td></tr><tr><td><p>1º Até 45 dias</p></td><td><p>1,50%</p></td></tr><tr><td><p>2º De mais de 45 dias a 90 dias</p></td><td><p>3,00%</p></td></tr><tr><td><p>3º De mais de 90 dias a 120 dias</p></td><td><p>4,50%</p></td></tr><tr><td><p>4º De mais de 120 dias</p></td><td><p>7,50%</p></td></tr></table>
+
+**§ 2º** A memória de cálculo do reajuste de que trata o caput, constante do Anexo desta Portaria, encontra-se disponível no Boletim de Pessoal e Serviço - BPS desta Agência (endereço eletrônico https://www.anac.gov.br/assuntos/legislacao/legislacao-1/boletim-de-pessoal/) e na página "Legislação" (endereço eletrônico https://www.anac.gov.br/assuntos/legislacao), na rede mundial de computadores.
+
+**Art. 2º** Os novos tetos tarifários passam a vigorar na data de publicação desta Portaria.
+
+**Parágrafo único.** Após a entrada em vigor dos novos tetos, a Concessionária poderá dar publicidade a novos valores de tarifas, que poderão ser praticados após 29 (vinte e nove) dias, em cumprimento ao Contrato de Concessão.
+
+**Art. 3º** Esta Portaria entra em vigor na data de sua publicação.
+
+Republicado por ter saído com incorreções no Diário Oficial da União de 11 de julho de 2019, Seção 1, página 42.
+
+BRUNO LIMA E SILVA FALCÃO

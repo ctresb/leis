@@ -1,0 +1,46 @@
+---
+titulo: "Portaria Nº 315, DE 20 DE abril DE 2020"
+orgao: "Ministério da Economia/Superintendência da Zona Franca de Manaus/Gabinete"
+tipo: "Portaria"
+numero: "315"
+data: 2020-04-20
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 24/04/2020, seção 1, p. 178"
+data_publicacao: 2020-04-24
+edicao: "78"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-315-de-20-de-abril-de-2020-253754687"
+sha256_html_fonte: 3c5a1f3df0a7fb97d889a7cbfd94cd2a6b79b82a8c9a89dc9f2dd8d1c5b2fb01
+baixado_em: 2026-10-21
+---
+# Portaria Nº 315, DE 20 DE abril DE 2020
+
+Portaria Nº 315, DE 20 DE abril DE 2020
+
+Aprova o projeto industrial de AMPLIAÇÃO da empresa CAL-COMP INDÚSTRIA E COMÉRCIO DE ELETRÔNICOS E INFORMÁTICA LTDA.
+
+O SUPERINTENDENTE DA SUPERINTENDÊNCIA DA ZONA FRANCA DE MANAUS, no uso de suas atribuições legais e considerando o que lhe autoriza a Resolução nº 204, de 06 de agosto de 2019, do Conselho de Administração da SUFRAMA, em seu Art. 9º, inciso III; os termos da Parecer Técnico do Projeto nº 97/2020 - COAPA/CGPRI/SPR, da Superintendência Adjunta de Projetos da SUFRAMA; e o que consta no processo SEI-SUFRAMA nº 52710.012641/2019-12, resolve:
+
+**Art. 1º** APROVAR o projeto industrial de AMPLIAÇÃO da empresa CAL-COMP INDÚSTRIA E COMÉRCIO DE ELETRÔNICOS E INFORMÁTICA LTDA. (CNPJ: 07.200.194/0003-80 e Inscrição SUFRAMA: 20.0117.94-7), na Zona Franca de Manaus, na forma do Parecer Técnico de Projeto nº 97/2020 - COAPA/CGPRI/SPR, para produção de TERMINAL DE CAPTURA DE DADOS (TRANSAÇÕES COMERCIAIS), código SUFRAMA 0335, recebendo os benefícios fiscais previstos nos parágrafos 1º e 2º do Art. 2º da Lei nº 8.387, de 30 de dezembro de 1991, e legislações posteriores.
+
+**Art. 2º** DEFINIR que a redução da alíquota do Imposto de Importação (II) relativo às matérias-primas, materiais secundários e de embalagem, componentes e outros insumos de origem estrangeira, utilizados na fabricação do produto a que se refere o Art. 1º desta Portaria, seja obtida mediante a aplicação da fórmula do § 1º do Art. 7º do Decreto-Lei nº 288, de 28 de fevereiro de 1967, conforme dita o § 1º do Art. 2º da Lei nº 8.387/1991.
+
+**Art. 3º** ESTABELECER para o produto a que se refere o Art. 1º desta Portaria, os seguintes limites anuais de importação de insumos:
+
+<table><tr></tr><tr><td><p>Produto</p></td><td><p>Valor em US$ 1.00</p></td></tr><tr><td></td><td><p>1º Ano</p></td><td><p>2º Ano</p></td><td><p>3º Ano</p></td></tr><tr><td><p>TERMINAL DE CAPTURA DE DADOS (TRANSAÇÕES COMERCIAIS)</p></td><td><p>25,264,068</p></td><td><p>41,117,131</p></td><td><p>56,129,925</p></td></tr></table>
+
+**Art. 4º** DETERMINAR sob pena de suspensão ou cancelamento dos incentivos concedidos, sem prejuízo da aplicação de outras cominações legais cabíveis:
+
+I - o cumprimento, quando da fabricação do produto a que se refere o Art. 1º desta Portaria, do Processo Produtivo Básico definido pela Portaria Interministerial SEPEC/ME/MCTIC nº 69, de 30 de dezembro de 2019.
+
+II - o investimento anual em atividades de Pesquisa e Desenvolvimento (P&D) no percentual mínimo exigido pelo § 3º do Art. 2º da Lei 8.387, de 30 de dezembro de 1991, sobre o faturamento bruto - deduzidos os tributos incidentes e demais reduções pertinentes previstas na lei - do produto a que se refere o Art. 1º desta Portaria, cuja comercialização seja decorrente do mercado interno;
+
+III - o atendimento das exigências da Política Nacional do Meio Ambiente, conforme disciplina a Legislação nos âmbitos Federal, Estadual e Municipal;
+
+lV - a manutenção de cadastro atualizado na SUFRAMA, de acordo com as normas em vigor; e
+
+V - o cumprimento das exigências contidas na Resolução nº 204, de 06 de agosto de 2019, bem como as demais Resoluções, Portarias e Normas Técnicas em vigor.
+
+**Art. 5º** Esta Portaria entra em vigor na data de sua publicação.
+
+ALFREDO ALEXANDRE DE MENEZES JÚNIOR

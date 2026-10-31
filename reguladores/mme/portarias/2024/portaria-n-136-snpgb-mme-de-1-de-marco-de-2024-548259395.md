@@ -1,0 +1,46 @@
+---
+titulo: "PORTARIA Nº 136/SNPGB/MME, DE 1º DE MARÇO DE 2024"
+orgao: "Ministério de Minas e Energia/Secretaria Nacional de Petróleo, Gás Natural e Biocombustíveis"
+tipo: "Portaria"
+numero: "136"
+data: 2024-03-01
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 14/03/2024, seção 1, p. 49"
+data_publicacao: 2024-03-14
+edicao: "51"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-136/snpgb/mme-de-1-de-marco-de-2024-548259395"
+sha256_html_fonte: 5fd9263eb58d608bf925c5b5c5c67c58747e23c7fcc498e3490ea5288ccdc53b
+baixado_em: 2026-10-16
+---
+# PORTARIA Nº 136/SNPGB/MME, DE 1º DE MARÇO DE 2024
+
+PORTARIA Nº 136/SNPGB/MME, DE 1º DE MARÇO DE 2024
+
+O SECRETÁRIO NACIONAL DE PETRÓLEO, GÁS NATURAL E BIOCOMBUSTÍVEIS DO MINISTÉRIO DE MINAS E ENERGIA, no uso da competência outorgada pelo art. 1º, inciso I da Portaria nº 681/GM/MME, de 22 de agosto de 2022, tendo em vista o disposto no art. 6º do Decreto nº 6.144, de 3 de julho de 2007, no art. 4º da Portaria Normativa nº 19/GM/MME, de 16 de agosto de 2021, alterada pela Portaria Normativa nº 37/GM/MME, de 20 de março de 2022 e o que consta do Processo nº 48610.233426/2023-91, resolve:
+
+**Art. 1º** Aprovar o enquadramento, no Regime Especial de Incentivos para o Desenvolvimento da Infraestrutura - REIDI, do projeto "Usina Biogás Energisa Campos Novos", no município de Campos Novos, estado de Santa Catarina, de titularidade da empresa AGRIC ADUBOS E GESTAO DE RESIDUOS INDUSTRIAIS E COMERCIAIS S.A., inscrita no CNPJ/MF 28.260.261/0002-40, detalhado no Anexo à presente Portaria.
+
+**Parágrafo único.** O projeto de que trata o caput é alcançado pelo art. 1º, § 1º, inciso V, da Portaria Normativa nº 19/GM/MME, de 16 de agosto de 2021.
+
+**Art. 2º** As estimativas dos investimentos têm por base o mês anterior à data de apresentação do requerimento e são de exclusiva responsabilidade da AGRIC ADUBOS E GESTAO DE RESIDUOS INDUSTRIAIS E COMERCIAIS S.A., cuja razoabilidade foi atestada pela Agência Nacional do Petróleo, Gás Natural e Biocombustíveis - ANP.
+
+**Art. 3º** Alterações técnicas ou de titularidade do projeto de que trata esta Portaria, autorizadas pela ANP ou pelo Ministério de Minas e Energia e que não impliquem a descaracterização do empreendimento, não ensejarão a publicação de nova Portaria de enquadramento no REIDI.
+
+**Art. 4º** A AGRIC ADUBOS E GESTAO DE RESIDUOS INDUSTRIAIS E COMERCIAIS S.A. deverá informar, à Secretaria Especial da Receita Federal do Brasil - RFB, a entrada em operação do projeto enquadrado na forma aprovada nesta Portaria, mediante a entrega de cópia da Autorização de Operação ou documento equivalente emitido pela ANP, no prazo de até trinta dias de sua emissão.
+
+**Art. 5º** A ANP informará, tempestivamente, ao Ministério de Minas e Energia e à RFB, a ocorrência de situações que evidenciem a não implementação do projeto enquadrado na forma aprovada nesta Portaria.
+
+**Art. 6º** A habilitação do projeto no REIDI e o cancelamento da habilitação deverão ser requeridos à RFB.
+
+**Parágrafo único.** A pessoa jurídica titular do projeto está ciente de que o presente enquadramento do projeto não gera direito automático ao benefício do REIDI, devendo requerer a habilitação na forma dos arts. 3º, 4º e 7º do Decreto nº 6.144, de 3 de julho de 2007, e atender às condicionantes nele previstas e às demais normas e regulamentos de regência
+
+**Art. 7º** A AGRIC ADUBOS E GESTAO DE RESIDUOS INDUSTRIAIS E COMERCIAIS S.A. deverá observar, no que couber, as disposições constantes na Lei nº 11.488, de 15 de junho de 2007, no Decreto nº 6.144, de 3 de julho de 2007, na Instrução Normativa RFB nº 758, de 25 de julho de 2007, e nº 1.307, de 27 de dezembro de 2012, na Portaria Normativa nº 19/GM/MME, de 16 de agosto de 2021, e na legislação e normas vigentes e supervenientes, sujeitando-se às penalidades legais, inclusive aquelas previstas nos arts. 9º e 14, do Decreto nº 6.144, de 2007, sujeitas à fiscalização da RFB.
+
+**Art. 8º** Esta Portaria entra em vigor na data de sua publicação.
+
+PIETRO ADAMO SAMPAIO MENDES
+
+## ANEXO
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="3"><p>MINISTÉRIO DE MINAS E ENERGIA</p></td>     </tr>     <tr>      <td rowspan="1" colspan="3"><p>INFORMAÇÕES DO PROJETO DE ENQUADRAMENTO NO REIDI - REGIME ESPECIAL DE INCENTIVOS PARA O DESENVOLVIMENTO DA INFRAESTRUTURA</p></td>     </tr>     <tr>      <td rowspan="1" colspan="3"><p>PESSOA JURÍDICA TITULAR DO PROJETO</p></td>     </tr>     <tr>      <td rowspan="1" colspan="2"><p>Nome Empresarial</p></td>      <td rowspan="1" colspan="1"><p>CNPJ</p></td>     </tr>     <tr>      <td rowspan="1" colspan="2"><p>AGRIC ADUBOS E GESTAO DE RESIDUOS INDUSTRIAIS E COMERCIAIS S.A.</p></td>      <td rowspan="1" colspan="1"><p>28.260.261/0002-40</p></td>     </tr>     <tr>      <td rowspan="1" colspan="3"><p>DADOS DO PROJETO</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Nome do Projeto:</p></td>      <td rowspan="1" colspan="2"><p>Usina Biogás Energisa Campos Novos</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Descrição do Projeto</p></td>      <td rowspan="1" colspan="2"><p>Projeto de instalação produtora de biometano a ser construído na Rodovia BR 282, km 356,5, Campos Novos - SC, com capacidade de produção de 31.440 Nm³/d de biometano.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Número e data do ato de outorga de autorização, emitido pela ANP</p></td>      <td rowspan="1" colspan="2"><p>Ofício nº 1.069/2023/SPC-CAT/SPC/ANP-RJ, de 3 de novembro de 2023.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Período de Execução</p></td>      <td rowspan="1" colspan="2"><p>01/08/2023 a 01/08/2025.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Localidade do Projeto [Município(s)/UF(s)]</p></td>      <td rowspan="1" colspan="2"><p>Campos Novos, estado de Santa Catarina.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="3"><p>REPRESENTANTE, RESPONSÁVEL TÉCNICO E CONTADOR DA PESSOA JURÍDICA</p></td>     </tr>     <tr>      <td rowspan="1" colspan="2"><p>Representante legal: ROBERTA GONCALVES DE GODOI</p></td>      <td rowspan="1" colspan="1"><p>CPF: 175.XXX.XXX-29</p></td>     </tr>     <tr>      <td rowspan="1" colspan="2"><p>Responsável técnico: LUIZ FERNANDO VALENTE TOMASINI</p></td>      <td rowspan="1" colspan="1"><p>CPF: 619.XXX.XXX-91</p></td>     </tr>     <tr>      <td rowspan="1" colspan="2"><p>Técnico Contábil : RODOLFO DA PAIXAO LIMA</p></td>      <td rowspan="1" colspan="1"><p>CPF: 091.XXX.XXX-83</p></td>     </tr>     <tr>      <td rowspan="1" colspan="3"><p>ESTIMATIVAS DOS VALORES DOS BENS E SERVIÇOS DO PROJETO COM INCIDÊNCIA DE PIS/PASEP E COFINS (R$)</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Bens</p></td>      <td rowspan="1" colspan="2"><p>59.694.883,91</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Serviços</p></td>      <td rowspan="1" colspan="2"><p>27.835.236,03</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Outros</p></td>      <td rowspan="1" colspan="2"><p>2.210.342,91</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Total (1)</p></td>      <td rowspan="1" colspan="2"><p>89.740.462,85</p></td>     </tr>     <tr>      <td rowspan="1" colspan="3"><p>ESTIMATIVAS DOS VALORES DOS BENS E SERVIÇOS DO PROJETO SEM INCIDÊNCIA DE PIS/PASEP E COFINS (R$)</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Bens</p></td>      <td rowspan="1" colspan="2"><p>55.380.579,46</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Serviços</p></td>      <td rowspan="1" colspan="2"><p>26.881.147,95</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Outros</p></td>      <td rowspan="1" colspan="2"><p>2.129.665,40</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Total (2)</p></td>      <td rowspan="1" colspan="2"><p>84.391.392,81</p></td>     </tr>    </tbody>   </table>

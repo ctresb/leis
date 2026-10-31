@@ -1,0 +1,309 @@
+---
+titulo: "PORTARIA Nº 418, DE 23 DE JUNHO DE 2025"
+orgao: "Ministério da Educação/Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira"
+tipo: "Portaria"
+numero: "418"
+data: 2025-06-23
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 25/06/2025, seção 1, p. 131"
+data_publicacao: 2025-06-25
+edicao: "117"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-418-de-23-de-junho-de-2025-638099867"
+baixado_em: 2026-10-16
+---
+# PORTARIA Nº 418, DE 23 DE JUNHO DE 2025
+
+PORTARIA Nº 418, DE 23 DE JUNHO DE 2025
+
+Notifica as Instituições de Educação Superior (IES) que não finalizaram o Censo da Educação Superior 2024 dentro do prazo estipulado pela Portaria nº 493, de 21 novembro de 2024, alterada pela Portaria nº 43, de 28 de janeiro de 2025.
+
+O PRESIDENTE DO INSTITUTO NACIONAL DE ESTUDOS E PESQUISAS EDUCACIONAIS ANÍSIO TEIXEIRA, no exercício de suas atribuições que lhe confere o Decreto nº 11.204, de 21 de setembro de 2022, e tendo em vista o disposto nos arts. 4º e 5º do Decreto nº 6.425, de 4 de abril de 2008 e na Portaria nº 794, de 23 de agosto de 2013, alterada pela Portaria nº 984, de 18 de novembro de 2020, bem como o disposto na Portaria nº 493, de 21 de novembro de 2024, alterada pela Portaria nº 43, de 28 de janeiro de 2025, resolve:
+
+**Art. 1º** Tornar pública, por meio do anexo, a relação das Instituições de Educação Superior - IES que não finalizaram o preenchimento e envio dos dados ao Censo da Educação Superior 2024, até a data de 18 de junho de 2025.
+
+I - as IES listadas no anexo têm prazo impreterível até o final do período disposto na alínea "b", inciso VI, § 4º do art. 1º, da Portaria nº 493, de 21 novembro de 2024, alterada pela Portaria nº 43, de 28 de janeiro de 2025, para regularização de sua situação junto ao Censo da Educação Superior, preenchendo corretamente todos os seus dados, nos termos indicados pela Portaria, no referido instrumento de coleta.
+
+**Art. 2º** Os casos omissos serão analisados e decididos pela Diretoria de Estatísticas Educacionais (Deed), do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep).
+
+**Art. 3º** Esta Portaria entra em vigor na data de sua publicação.
+
+MANUEL FERNANDO PALACIOS DA CUNHA E MELO
+
+## Anexo
+
+| Código da IES no e-MEC | Nome da IES |
+| --- | --- |
+| 31 | CENTRO DE EDUCAÇÃO TÉCNICA DA UTRAMIG |
+| 38 | UNIVERSIDADE DO ESTADO DO PARÁ |
+| 141 | FACULDADE DE DIREITO DE VARGINHA - FADIVA |
+| 206 | Centro Universitário Católico Ítalo Brasileiro |
+| 278 | FACULDADES INTEGRADAS SIMONSEN |
+| 410 | FACULDADE DE CIÊNCIAS HUMANAS ESUDA |
+| 522 | CENTRO UNIVERSITÁRIO CELSO LISBOA |
+| 543 | FACULDADE DE CIÊNCIAS DA FUNDAÇÃO INSTITUTO TECNOLÓGICO DE OSASCO |
+| 589 | UNIVERSIDADE FEDERAL RURAL DO SEMI-ÁRIDO |
+| 599 | INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA |
+| 640 | Faculdade Maria Thereza |
+| 699 | FUNDAÇÃO UNIVERSIDADE FEDERAL DE RONDÔNIA |
+| 700 | FACULDADE DE EDUCAÇÃO DE ITABORAÍ |
+| 706 | FACULDADE DE ARTES DULCINA DE MORAES |
+| 830 | UNIVERSIDADE FEDERAL DO AMAPÁ |
+| 838 | FACULDADE DE CIÊNCIAS TECNOLÓGICAS DE FORTALEZA |
+| 852 | FIAP - Centro Universitário |
+| 874 | FACULDADE DE ESTUDOS SOCIAIS APLICADOS DE VIANA |
+| 939 | FACULDADE CATÓLICA DE ANÁPOLIS |
+| 989 | ESCOLA SUPERIOR EM MEIO AMBIENTE |
+| 1051 | FACULDADE DA SEUNE |
+| 1060 | CENTRO UNIVERSITÁRIO DO INSTITUTO DE EDUCAÇÃO SUPERIOR DE BRASÍLIA - IESB |
+| 1123 | INSTITUTO DE EDUCAÇÃO SUPERIOR UNYAHNA DE SALVADOR |
+| 1151 | FACULDADE DE ADMINISTRAÇÃO, NEGÓCIOS E SAÚDE DE SERGIPE |
+| 1166 | INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA PARAÍBA |
+| 1190 | FACULDADE INTEGRAL CANTAREIRA |
+| 1248 | FACULDADE DE PEDAGOGIA |
+| 1263 | FACULDADE BEZERRA DE ARAÚJO |
+| 1314 | Faculdade Abranges de Tecnologia e Ciências |
+| 1373 | FACULDADE CASA BRANCA |
+| 1385 | FACULDADES INTEGRADAS IPEP |
+| 1387 | FACULDADE PENTÁGONO - FAPEN |
+| 1413 | FACULDADE DE PRIMAVERA |
+| 1424 | FACULDADE PIO XII |
+| 1428 | INSTITUTO DE ENSINO SUPERIOR PLANALTO |
+| 1441 | FACULDADE DE TECNOLOGIA DO PIAUÍ |
+| 1443 | FACULDADE VIVA VITÓRIA |
+| 1574 | FACULDADE EDUCACIONAL DE MEDIANEIRA |
+| 1576 | INSTITUTO DE ENSINO SUPERIOR BLAURO CARDOSO DE MATTOS |
+| 1585 | FACULDADE ENERGIA |
+| 1592 | FACULDADE DE ODONTOLOGIA DE MANAUS |
+| 1596 | FACULDADE DE CIÊNCIAS E EDUCAÇÃO DO ESPÍRITO SANTO |
+| 1610 | FACULDADE DAS ATIVIDADES EMPRESARIAIS DE TERESINA |
+| 1611 | FACULDADES FATIFAJAR - FATIFAJAR ARAPOTI |
+| 1639 | FACULDADE HÉLIO ROCHA |
+| 1646 | FACULDADE DE EDUCAÇÃO CIÊNCIAS E LETRAS DE PARAÍSO |
+| 1677 | FACULDADE DE ENSINO SUPERIOR DO PIAUÍ |
+| 1727 | FACULDADE DE CARIACICA |
+| 1789 | FACULDADE CATUAÍ |
+| 1801 | FACULDADE DOM BOSCO DE UBIRATÃ |
+| 1811 | INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE GOIÁS |
+| 1843 | FACULDADE DE ADMINISTRAÇÃO DE CAMPO BELO |
+| 1863 | FACULDADE INTERVALE |
+| 1876 | FACULDADE MUNICIPAL PROFESSOR FRANCO MONTORO DE MOGI GUAÇU |
+| 1885 | CENTRO UNIVERSITÁRIO UNIDADE DE ENSINO SUPERIOR DOM BOSCO |
+| 1894 | FACULDADE EUROPÉIA DE TECNOLOGIA E CIÊNCIAS HUMANAS - EUROTECH |
+| 1906 | INSTITUTO DE ENSINO SUPERIOR MATERDEI |
+| 1909 | Faculdades FAGENIUS de Ipatinga |
+| 1946 | Faculdade Lumina |
+| 1961 | INSTITUTO TECNOLÓGICO E DAS CIÊNCIAS SOCIAIS APLICADAS E DA SAÚDE DO CENTRO EDUC. N. SRª AUXILIADORA |
+| 1967 | FACULDADE DO VALE DO ITAPECURÚ |
+| 1974 | INSTITUTO SUPERIOR DE EDUCAÇÃO DE CAXIAS |
+| 2015 | INSTITUTO SANTO TOMÁS DE AQUINO |
+| 2021 | FACULDADE JK - UNIDADE II - GAMA |
+| 2027 | FACULDADE DE CAMPINA GRANDE |
+| 2035 | FACULDADE FATIFAJAR JAGUARIAÍVA |
+| 2079 | FACULDADE DE ITAITUBA |
+| 2156 | FACULDADE SÃO TOMÁS DE AQUINO |
+| 2177 | Faculdade Instituto Paulista de Ensino |
+| 2256 | Faculdade Stella Maris - FSM |
+| 2266 | FACULDADE UNIÃO DE GOYAZES FORMOSA |
+| 2323 | FACULDADE DA AMAZÔNIA |
+| 2352 | INSTITUTO DE EDUCAÇÃO SUPERIOR PIO XII |
+| 2423 | FACULDADE DE CIÊNCIA E TECNOLOGIA DE MONTES CLAROS |
+| 2436 | Instituto de Ensino Superior Brasileiro |
+| 2477 | FACULDADE DE ADMINISTRAÇÃO DE MARIANA |
+| 2491 | INSTITUTO SUPERIOR DE EDUCAÇÃO DO CECAP |
+| 2754 | Faculdade Estácio São Paulo de Rondônia |
+| 2831 | FACULDADE DOM BOSCO DE GOIOERÊ |
+| 2832 | Faculdade Sucesso |
+| 2969 | INSTITUTO SUPERIOR DE EDUCAÇÃO OCIDENTE |
+| 3004 | INSTITUTO DE ENSINO SUPERIOR SANTA CECÍLIA |
+| 3008 | FACULDADE DO INSTITUTO NACIONAL DE PÓS-GRADUAÇÃO DE SÃO JOSÉ DOS CAMPOS |
+| 3148 | FACULDADE ANCHIETA DO RECIFE |
+| 3163 | INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO RIO DE JANEIRO |
+| 3164 | INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE MATO GROSSO |
+| 3323 | INSTITUTO DE EDUCAÇÃO E ENSINO SUPERIOR DE CAMPINAS |
+| 3337 | FACULDADE DE TECNOLOGIA DE TERESINA |
+| 3376 | FACULDADE DE TEOLOGIA INTEGRADA |
+| 3428 | FACULDADE ALFA AMÉRICA |
+| 3437 | Faculdade UNISUL de Balneário Camboriú |
+| 3584 | INSTITUTO SUPERIOR DE EDUCAÇÃO SANTA CRUZ |
+| 3585 | FACULDADE SANTA CRUZ |
+| 3692 | FACULDADE DE TECNOLOGIA IPEP DE CAMPINAS |
+| 3716 | FACULDADE CIÊNCIAS DA VIDA |
+| 3835 | UNIVERSIDADE VIRTUAL DO ESTADO DO MARANHÃO |
+| 3849 | FUNDAÇÃO UNIVERSIDADE FEDERAL DO TOCANTINS |
+| 3866 | FACULDADE BRASILEIRA DE EDUCAÇÃO E CULTURA |
+| 3878 | FACULDADE DECISION DE NEGÓCIOS |
+| 3920 | FACULDADE DE TECNOLOGIA SENAI ROBERTO MANGE |
+| 3939 | FACULDADE ALIANÇA DE ITABERAI |
+| 3978 | FACULDADE DE TECNOLOGIA PENTÁGONO |
+| 3984 | FUNDAÇÃO UNIVERSIDADE FEDERAL DO VALE DO SÃO FRANCISCO |
+| 3986 | FACULDADE INSTITUTO SUPERIOR DE EDUCAÇÃO DO PARANÁ - FAINSEP |
+| 4167 | INSTITUTO DE ENSINO SUPERIOR DA FUPESP |
+| 4173 | FACULDADE JK DE TECNOLOGIA |
+| 4329 | FACULDADE DO CENTRO EDUCACIONAL MINEIRO - FACEM |
+| 4355 | Faculdades Integradas Oswaldo Cruz |
+
+| 4358 | INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO SUL DE MINAS GERAIS |
+| --- | --- |
+| 4398 | INSTITUTO SUPERIOR DE EDUCAÇÃO DE GOIANA |
+| 4416 | FACULDADE JK - UNIDADE I - GAMA |
+| 4496 | FACULDADE DE TECNOLOGIA DO VALE DO IVAÍ |
+| 4588 | FACULDADE APOGEU |
+| 4674 | FACULDADE PORTO DAS ÁGUAS |
+| 4731 | FACULDADE MESSIANICA |
+| 4732 | Faculdade de Tecnologia e Inovação Senac DF |
+| 4773 | FACULDADE IBS |
+| 4793 | Faculdades Integradas Vale do Rio Verde |
+| 4865 | FACULDADE ANHANGUERA DE SÃO LUIZ |
+| 4962 | CENTRO UNIVERSITÁRIO DE SETE LAGOAS |
+| 5008 | FACULDADES FAMEP |
+| 5019 | INSTITUTO SUPERIOR DE EDUCAÇÃO DA ZONA OESTE |
+| 5038 | FACULDADE DE CIÊNCIAS SOCIAIS APLICADAS DE MARABÁ |
+| 5054 | INSTITUTO SUPERIOR DE EDUCAÇÃO DO SERTÃO DO PAJEÚ |
+| 5077 | UNIVERSIDADE ESTADUAL DE RORAIMA |
+| 5204 | INSTITUTO SUPERIOR DE EDUCAÇÃO ANTONINO FREIRE - ISEAF |
+| 5511 | CENTRO UNIVERSITÁRIO CAMPO REAL |
+| 5591 | FACULDADES INTEGRADAS CAMÕES |
+| 11593 | FACULDADE DE CIÊNCIAS DA AMAZÔNIA |
+| 11604 | FACULDADE SANTA RITA DE CHAPECÓ |
+| 12410 | INSTITUTO SUPERIOR DO MINISTERIO PUBLICO |
+| 12533 | FACULDADE DOM BOSCO DE CAPITÃO LEÔNIDAS MARQUES |
+| 12547 | FACITEN - FACULDADE DE CIÊNCIAS E TECNOLOGIAS DE NATAL |
+| 12748 | FETAC - FACULDADE DE EDUCAÇÃO, TECNOLOGIA E ADMINISTRAÇÃO DE CAARAPÓ |
+| 12749 | FACULDADES UNIDAS DE PESQUISA, CIÊNCIAS E SAÚDE LTDA |
+| 13034 | Faculdade Coram Deo |
+| 13300 | FACULDADE ADJETIVO CETEP |
+| 13784 | FACULDADE DO PLANALTO CENTRAL |
+| 14413 | FACULDADE RENIL DO BRASIL |
+| 14718 | Faculdade Abranges |
+| 14869 | Faculdade Faipe |
+| 14879 | FACULDADE DOURADO |
+| 14927 | FACULDADE ÚNICA DE FORMAÇÃO E ENSINO |
+| 14975 | FACULDADE DO NORDESTE DA BAHIA |
+| 15280 | Faculdade Brasileira de Ensino, Pesquisa e Extensão |
+| 15450 | Centro Universitário Única |
+| 15697 | Faculdade de Tecnologia de Araçatuba |
+| 15873 | Faculdade Itaquá |
+| 16602 | FACULDADE DE EDUCAÇÃO ELIÂ |
+| 16849 | Faculdade Modal |
+| 16948 | Faculdade 28 de Agosto de Ensino e Pesquisa |
+| 17025 | Faculdade de Educação Superior de Paragominas |
+| 17322 | Faculdade Aberta do Tocantins |
+| 17553 | Faculdades FAMEP Unidade Lago da Pedra - MA |
+| 17674 | Faculdade de Educação de São Mateus |
+| 17688 | FACULDADE FADAM |
+| 17758 | Faculdades FAMEP Unidade Euclides da Cunha - BA |
+| 17783 | Faculdade de Mediação Ívia Corneli |
+| 17830 | Faculdade Católica de Abaetetuba |
+| 18039 | Faculdade Capacitar |
+| 18059 | FACULDADE SANTO ANTONIO DE QUEIMADAS |
+| 18106 | FACULDADE COELHO NETO |
+| 18258 | FACULDADE UNIFICADA DO ESTADO DE SÃO PAULO |
+| 18288 | Faculdade Latino-americana |
+| 18304 | FACULDADE ARIANO SUASSUNA - UNIVAS |
+| 18463 | Faculdade UniFAHE |
+| 18516 | FACULDADE MIRIENSE |
+| 18696 | FACULDADE DYNAMUS DE CAMPINAS |
+| 18719 | FACULDADE DE EDUCAÇÃO DE SANTA CATARINA |
+| 19197 | FACULDADE NIP DE CIÊNCIAS APLICADAS |
+| 19198 | FACULDADE DE TECNOLOGIA E EDUCAÇÃO DE GOIÁS |
+| 19348 | Faculdade de Tecnologia Ícone |
+| 19371 | Faculdade Adelina Moura - FAADEMA |
+| 19793 | FACULDADE FADAM DE MARACANAÚ |
+| 19816 | Faculdade Alffa do Brasil |
+| 20052 | Faculdade ABC de Goiânia |
+| 20074 | Instituto Brasileiro de Coaching |
+| 20122 | FACULDADE ATHENAS |
+| 20476 | Faculdade ANCLIVEPA |
+| 20481 | Faculdade de Bragança |
+| 20556 | FACULDADE JURIS |
+| 21165 | FACULDADE EASE BRASIL |
+| 21355 | Faculdades de Inovação e Tecnologia de Minas Gerais |
+| 21362 | Faculdade Centro Oeste Catanduvas |
+| 21446 | Instituto Superior da Convenção Nac. das Assembleias de Deus |
+| 21459 | FACULDADE DOM BOSCO DE MARINGA |
+| 21574 | FACULDADE EGAS MONIZ |
+| 21631 | FACULDADE SUPREMO REDENTOR |
+| 21636 | FACULDADE TERRA BRASILIS |
+| 21672 | Faculdade Cerrado |
+| 21814 | Instituto de Pesquisas, Ensino e Gestão em Saúde |
+| 21869 | Faculdade Antropus |
+| 21871 | FACULDADE BAHIANA DE ENGENHARIA E CIÊNCIAS SOCIAIS APLICADAS |
+| 21935 | Fundação Escola Lince Kempim |
+| 21950 | FACULDADE TUCURUÍ |
+| 22089 | Faculdade INSTED |
+| 22098 | FACULDADE ISMD |
+| 22101 | Faculdade de Educação de Patos de Minas |
+| 22171 | FACULDADE REGIONAL DE MINAS GERAIS |
+| 22173 | Faculdade - Uninorte Barcarena |
+| 22174 | Faculdade - Uninorte Altamira |
+| 22204 | Faculdade de Matupá |
+| 22252 | FACULDADE UNIBRAS DO PARÁ |
+| 22452 | FACULDADE ATITUDE DE EDUCAÇÃO CONTINUADA |
+| 22463 | Faculdade Impacto de Porangatu |
+| 22470 | Faculdade Universalis |
+| 22521 | FACULDADES FAMEP Unidade Irará - BA |
+| 22603 | FACULDADE ANCLIVEPA DE GESTÃO E HUMANOLOGIA |
+| 22605 | Faculdade Anclivepa São Paulo |
+| 22625 | FACULDADE BOOKPLAY |
+| 22650 | FACULDADE DO CENTRO EDUCACIONAL INTERDISCIPLINAR DO BRASIL |
+| 22748 | FACULDADES FAMEP |
+| 22775 | Faculdade Garça Branca Pantanal |
+| 22811 | Complexo de Ensino Superior de Palmas |
+| 22872 | Faculdade UNIABA |
+| 22913 | Faculdade Escola de Negócios Fucape |
+| 23066 | FACULDADE METROPOLITANA DE DIAS D'ÀVILA |
+| 23090 | INSTITUTO DE ENSINO SUPERIOR CAPIXABA |
+| 23109 | FACULDADE DE CIÊNCIAS E TECNOLOGIA DE CHAPECÓ |
+| 23110 | Faculdades FAMEP Unidade Teresina - P |
+| 23117 | Faculdades FAMEP Unidade Fortaleza CE |
+| 23322 | Faculdade Menna Barreto |
+| 23382 | Faculdade UNINORTE Tailândia |
+| 23817 | Faculdade de Ciências Médicas Cemepe |
+| 23890 | FACULDADE DO CENTRO EDUCACIONAL INTERDISCIPLINAR DO BRASIL CPA |
+| 23948 | Faculdades Famep - Unidade Uruçui - PI |
+| 23952 | Faculdade Teutônia |
+| 24011 | FACULDADE ARAGUAPAZ ITAMAR BERNADINO |
+| 24259 | Faculdade Unificada de Ensino Superior |
+| 24268 | Faculdade UNINORTE Marabá |
+| 24275 | Faculdade Unificada do Estado de São Paulo |
+
+| 24326 | FACULDADE CONQUER |
+| --- | --- |
+| 24383 | FACULDADE NACIONAL DE NATUROPATIA ADMINISTRAÇÃO E PEDAGOGIA |
+| 24387 | Escola Superior de Ciência do Fogo e dos Desastres |
+| 24521 | FACULDADES JURIS |
+| 24920 | FACULDADE DE DIREITO, EDUCAÇÃO E GESTÃO |
+| 24960 | Faculdade SIM |
+| 25001 | INSTITUTO GOIANO DE DIREITO |
+| 25167 | FACULDADE UNITBRASIL |
+| 25352 | Universidade Federal de Rondonópolis |
+| 25365 | Faculdade FAMEP - Unidade Parambu - CE |
+| 25387 | Faculdade Guerra |
+| 25392 | Faculdade G8 |
+| 25393 | Faculdade Ideal Trends |
+| 25439 | FACULDADE REGIONAL DO VALLE |
+| 25446 | Faculdade Siqueira e Costa |
+| 25450 | Faculdades Integradas do Sul de Minas - FISMINAS |
+| 25451 | Faculdade Prepara |
+| 25474 | Faculdade Microlins |
+| 25522 | FACULDADE UNITBRASIL |
+| 25640 | Faculdade de Ciências Educacionais e Tecnologias Integradas |
+| 25774 | FACULDADE ANCLIVEPA BRASÍLIA |
+| 25776 | L2 LABOR |
+| 25791 | Faculdade Legale |
+| 25806 | FACULDADE ANCLIVEPA DE NATAL |
+| 25907 | CENAC - Centro de Ensino Nacional |
+| 25934 | Faculdade FACULESTE EAD |
+| 25988 | FACULDADE PHYSIO CURSOS |
+| 26170 | FACULDADE DE ADMIN, TECNOL., EDUÇ E DESENV. HUMANO |
+| 26294 | Faculdade Livre do Brasil |
+| 26383 | FACULDADE CDPI |
+| 26430 | Faculdade ALS |
+| 26559 | FACULDADE IPC |
+| 26562 | Faculdade dos Vales - FACUVALE |
+| 26583 | Faculdade Comunidade das Nações |
+| 26591 | LA FACULDADES |
+| 26610 | Faculdade de Querência |
+| 27052 | Faculdade EFAN |
+| 28519 | Faculdade Intercontinental |

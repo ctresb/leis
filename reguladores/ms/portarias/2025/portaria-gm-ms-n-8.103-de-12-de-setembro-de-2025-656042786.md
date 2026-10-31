@@ -1,0 +1,444 @@
+---
+titulo: "PORTARIA GM/MS Nº 8.103, DE 12 DE setembro DE 2025"
+orgao: "Ministério da Saúde/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "8103"
+data: 2025-09-12
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 16/09/2025, seção 1, p. 246"
+data_publicacao: 2025-09-16
+edicao: "176"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-gm/ms-n-8.103-de-12-de-setembro-de-2025-656042786"
+baixado_em: 2026-10-16
+---
+# PORTARIA GM/MS Nº 8.103, DE 12 DE setembro DE 2025
+
+PORTARIA GM/MS Nº 8.103, DE 12 DE setembro DE 2025
+
+Credencia municípios a fazerem jus à transferência dos incentivos financeiros federais de custeio referentes a uma Unidade Odontológica Móvel - UOM, no âmbito da Atenção Primária à Saúde - APS.
+
+O MINISTRO DE ESTADO DA SAÚDE, no uso das atribuições que lhe conferem os incisos I e II do parágrafo único do art. 87 da Constituição Federal, resolve:
+
+**Art. 1º** Credenciar municípios a fazerem jus à transferência dos incentivos financeiros federais de custeio referentes às Unidades Odontológicas Móveis - UOM, no âmbito da Atenção Primária à Saúde - APS, com periodicidade da transferência mensal, caso não exista nenhuma irregularidade que motive a suspensão.
+
+**§ 1º** Os municípios de que trata o caput foram contemplados por meio do Programa de Aceleração do Crescimento - Novo PAC, selecionados pela Portaria GM/MS nº 3.257, de 7 de março de 2024, para participação em modalidades específicas do eixo da Saúde, vinculadas ao Subeixo Atenção Primária.
+
+**§ 2º** As transferências dos incentivos de custeio federal referentes à UOM, nos termos desta Portaria ocorrerão de acordo com o estabelecido nas Portarias de Consolidação GM/MS nº 2 e nº 6, de 28 de setembro de 2017, e na Portaria de Consolidação Saps/MS nº 1, de 2 de junho de 2021.
+
+**Art. 2º** Fica credenciado o quantitativo de UOM, por município, conforme o Anexo desta Portaria.
+
+**Art. 3º** Os créditos orçamentários, objeto desta Portaria totalizam o valor de R$ 11.091.600,00 (onze milhões, noventa e um mil e seiscentos reais) para o ano de 2025 e de R$ 44.366.400,00 (quarenta e quatro milhões trezentos e sessenta e seis mil e quatrocentos reais) para o ano de 2026, onerando o Programa de Trabalho 20.36901.10.301.5119.219A - Piso de Atenção Primária à Saúde, no Plano Orçamentário 0003 - Incentivo financeiro da APS - Atenção à Saúde Bucal.
+
+**Art. 4** º Esta Portaria entra em vigor na data de sua publicação.
+
+ALEXANDRE ROCHA SANTOS PADILHA
+
+## ANEXO
+
+QUANTIDADE DE UNIDADES ODONTOLÓGICAS MÓVEIS - UOM CREDENCIADAS, POR MUNICÍPIO
+
+| UF | IBGE | MUNICÍPIO | NOVO CREDENCIAMENTO |
+| --- | --- | --- | --- |
+| AC | 120020 | CRUZEIRO DO SUL | 1 |
+| AC | 120033 | MANCIO LIMA | 1 |
+| AC | 120034 | MANOEL URBANO | 1 |
+| AC | 120050 | SENA MADUREIRA | 1 |
+| AC | 120060 | TARAUACA | 1 |
+| AL | 270040 | ATALAIA | 1 |
+| AL | 270110 | BRANQUINHA | 1 |
+| AL | 270160 | CANAPI | 1 |
+| AL | 270180 | CARNEIROS | 1 |
+| AL | 270230 | CORURIPE | 1 |
+| AL | 270290 | GIRAU DO PONCIANO | 1 |
+| AL | 270330 | INHAPI | 1 |
+| AL | 270380 | JOAQUIM GOMES | 1 |
+| AL | 270390 | JUNDIA | 1 |
+| AL | 270500 | MATA GRANDE | 1 |
+| AL | 270550 | MURICI | 1 |
+| AL | 270560 | NOVO LINO | 1 |
+| AL | 270850 | SAO LUIS DO QUITUNDE | 1 |
+| AL | 270920 | TRAIPU | 1 |
+| AM | 130014 | APUI | 1 |
+| AM | 130020 | ATALAIA DO NORTE | 1 |
+| AM | 130030 | AUTAZES | 1 |
+| AM | 130040 | BARCELOS | 1 |
+| AM | 130050 | BARREIRINHA | 1 |
+| AM | 130068 | BOA VISTA DO RAMOS | 1 |
+| AM | 130070 | BOCA DO ACRE | 1 |
+| AM | 130115 | CAREIRO DA VARZEA | 1 |
+| AM | 130120 | COARI | 1 |
+| AM | 130140 | EIRUNEPE | 1 |
+| AM | 130165 | GUAJARA | 1 |
+| AM | 130190 | ITACOATIARA | 1 |
+| AM | 130200 | ITAPIRANGA | 1 |
+| AM | 130260 | MANAUS | 1 |
+| AM | 130270 | MANICORE | 1 |
+| AM | 130290 | MAUES | 1 |
+| AM | 130320 | NOVO AIRAO | 1 |
+| AM | 130340 | PARINTINS | 1 |
+| AM | 130350 | PAUINI | 1 |
+| AM | 130353 | PRESIDENTE FIGUEIREDO | 1 |
+| AM | 130356 | RIO PRETO DA EVA | 1 |
+| AM | 130370 | SANTO ANTONIO DO ICA | 1 |
+| AM | 130380 | SAO GABRIEL DA CACHOEIRA | 1 |
+| AM | 130400 | SILVES | 1 |
+| AM | 130406 | TABATINGA | 1 |
+| AM | 130420 | TEFE | 1 |
+| AM | 130423 | TONANTINS | 1 |
+| AP | 160027 | LARANJAL DO JARI | 1 |
+| AP | 160040 | MAZAGAO | 1 |
+| AP | 160050 | OIAPOQUE | 1 |
+| AP | 160015 | PEDRA BRANCA DO AMAPARI | 1 |
+| AP | 160070 | TARTARUGALZINHO | 1 |
+| BA | 290030 | ACAJUTIBA | 1 |
+| BA | 290035 | ADUSTINA | 1 |
+| BA | 290040 | AGUA FRIA | 1 |
+| BA | 290115 | AMERICA DOURADA | 1 |
+| BA | 290120 | ANAGE | 1 |
+| BA | 290190 | APORA | 1 |
+| BA | 290225 | ARATACA | 1 |
+| BA | 290330 | BARRO PRETO | 1 |
+| BA | 290360 | BIRITINGA | 1 |
+| BA | 290370 | BOA NOVA | 1 |
+| BA | 290390 | BOM JESUS DA LAPA | 1 |
+| BA | 290440 | BREJOLANDIA | 1 |
+| BA | 290682 | CANUDOS | 1 |
+| BA | 290690 | CARAVELAS | 1 |
+| BA | 290700 | CARDEAL DA SILVA | 1 |
+| BA | 290810 | COCOS | 1 |
+| BA | 290930 | CORRENTINA | 1 |
+| BA | 290940 | COTEGIPE | 1 |
+| BA | 290960 | CRISOPOLIS | 1 |
+| BA | 291000 | DARIO MEIRA | 1 |
+| BA | 291040 | ENCRUZILHADA | 1 |
+| BA | 291180 | GUARATINGA | 1 |
+| BA | 291260 | IBIQUERA | 1 |
+| BA | 291270 | IBIRAPITANGA | 1 |
+| BA | 291400 | IPIRA | 1 |
+| BA | 291700 | ITIUBA | 1 |
+| BA | 291780 | JAGUARIPE | 1 |
+| BA | 291800 | JEQUIE | 1 |
+| BA | 291910 | LAMARAO | 1 |
+| BA | 291955 | LUIS EDUARDO MAGALHAES | 1 |
+| BA | 291960 | MACAJUBA | 1 |
+| BA | 292040 | MANOEL VITORINO | 1 |
+| BA | 292080 | MARCIONILIO SOUZA | 1 |
+| BA | 292145 | MIRANTE | 1 |
+| BA | 292150 | MONTE SANTO | 1 |
+| BA | 292280 | NOVA ITARANA | 1 |
+
+| BA | 292285 | NOVA REDENCAO | 1 |
+| --- | --- | --- | --- |
+| BA | 292320 | OLIVEIRA DOS BREJINHOS | 1 |
+| BA | 292420 | PEDRO ALEXANDRE | 1 |
+| BA | 292490 | PLANALTINO | 1 |
+| BA | 292640 | RIACHO DE SANTANA | 1 |
+| BA | 292760 | SANTA BRIGIDA | 1 |
+| BA | 292780 | SANTA CRUZ DA VITORIA | 1 |
+| BA | 292840 | SANTA RITA DE CASSIA | 1 |
+| BA | 292830 | SANTANOPOLIS | 1 |
+| BA | 293015 | SERRA DO RAMALHO | 1 |
+| BA | 293040 | SERRA PRETA | 1 |
+| BA | 293160 | TEOLANDIA | 1 |
+| BA | 293330 | VITORIA DA CONQUISTA | 1 |
+| CE | 230020 | ACARAU | 1 |
+| CE | 230075 | AMONTADA | 1 |
+| CE | 230205 | BARROQUINHA | 1 |
+| CE | 230240 | BOA VIAGEM | 1 |
+| CE | 230280 | CANINDE | 1 |
+| CE | 230300 | CARIDADE | 1 |
+| CE | 230395 | CHOROZINHO | 1 |
+| CE | 230410 | CRATEUS | 1 |
+| CE | 230526 | IBARETAMA | 1 |
+| CE | 230560 | INDEPENDENCIA | 1 |
+| CE | 230655 | ITAREMA | 1 |
+| CE | 230660 | ITATIRA | 1 |
+| CE | 230870 | MORADA NOVA | 1 |
+| CE | 230945 | OCARA | 1 |
+| CE | 231010 | PALMACIA | 1 |
+| CE | 231030 | PARAMBU | 1 |
+| CE | 231100 | PORANGA | 1 |
+| CE | 231140 | QUIXERAMOBIM | 1 |
+| CE | 231195 | SALITRE | 1 |
+| CE | 231220 | SANTA QUITERIA | 1 |
+| CE | 231330 | TAUA | 1 |
+| CE | 231335 | TEJUCUOCA | 1 |
+| CE | 231355 | TURURU | 1 |
+| DF | 530010 | BRASILIA | 1 |
+| DF | 530010 | BRASILIA | 1 |
+| DF | 530010 | BRASILIA | 1 |
+| DF | 530010 | BRASILIA | 1 |
+| DF | 530010 | BRASILIA | 1 |
+| ES | 320060 | ARACRUZ | 1 |
+| ES | 320150 | COLATINA | 1 |
+| ES | 320320 | LINHARES | 1 |
+| ES | 320425 | PONTO BELO | 1 |
+| ES | 320510 | VIANA | 1 |
+| GO | 520530 | CAVALCANTE | 1 |
+| GO | 520640 | CRIXAS | 1 |
+| GO | 520800 | FORMOSA | 1 |
+| GO | 521010 | IPAMERI | 1 |
+| GO | 521130 | ITARUMA | 1 |
+| GO | 521250 | LUZIANIA | 1 |
+| GO | 521310 | MINEIROS | 1 |
+| GO | 521483 | NOVA CRIXAS | 1 |
+| GO | 521640 | PARAUNA | 1 |
+| GO | 521800 | PORANGATU | 1 |
+| GO | 521980 | SAO DOMINGOS | 1 |
+| GO | 522020 | SAO MIGUEL DO ARAGUAIA | 1 |
+| GO | 522050 | SERRANOPOLIS | 1 |
+| MA | 210015 | AGUA DOCE DO MARANHAO | 1 |
+| MA | 210030 | ALDEIAS ALTAS | 1 |
+| MA | 210050 | ALTO PARNAIBA | 1 |
+| MA | 210055 | AMAPA DO MARANHAO | 1 |
+| MA | 210130 | BACURI | 1 |
+| MA | 210170 | BARREIRINHAS | 1 |
+| MA | 210177 | BELA VISTA DO MARANHAO | 1 |
+| MA | 210200 | BOM JARDIM | 1 |
+| MA | 210203 | BOM JESUS DAS SELVAS | 1 |
+| MA | 210237 | CACHOEIRA GRANDE | 1 |
+| MA | 210260 | CANDIDO MENDES | 1 |
+| MA | 210270 | CANTANHEDE | 1 |
+| MA | 210280 | CAROLINA | 1 |
+| MA | 210320 | CHAPADINHA | 1 |
+| MA | 210340 | COELHO NETO | 1 |
+| MA | 210355 | CONCEICAO DO LAGO-ACU | 1 |
+| MA | 210480 | GRAJAU | 1 |
+| MA | 210515 | IGARAPE DO MEIO | 1 |
+| MA | 210542 | ITINGA DO MARANHAO | 1 |
+| MA | 210545 | JATOBA | 1 |
+| MA | 210565 | JUNCO DO MARANHAO | 1 |
+| MA | 210590 | LAGO VERDE | 1 |
+| MA | 210596 | LAGOA GRANDE DO MARANHAO | 1 |
+| MA | 210610 | LORETO | 1 |
+| MA | 210670 | MIRADOR | 1 |
+| MA | 210830 | PENALVA | 1 |
+| MA | 210880 | PIRAPEMAS | 1 |
+| MA | 210920 | PRESIDENTE JUSCELINO | 1 |
+| MA | 210930 | PRESIDENTE VARGAS | 1 |
+| MA | 211040 | SAO BENEDITO DO RIO PRETO | 1 |
+| MA | 211100 | SAO JOAO BATISTA | 1 |
+| MA | 211102 | SAO JOAO DO CARU | 1 |
+| MA | 211172 | SATUBINHA | 1 |
+| MA | 211174 | SENADOR ALEXANDRE COSTA | 1 |
+| MA | 211200 | TASSO FRAGOSO | 1 |
+| MA | 211210 | TIMBIRAS | 1 |
+| MA | 211230 | TUNTUM | 1 |
+| MA | 211245 | TURILANDIA | 1 |
+| MA | 211270 | VARGEM GRANDE | 1 |
+| MG | 312590 | FERROS | 1 |
+| MG | 312620 | FORMOSO | 1 |
+| MG | 312670 | FRANCISCO SA | 1 |
+| MG | 313695 | JUVENILIA | 1 |
+| MG | 313810 | LASSANCE | 1 |
+| MG | 314330 | MONTES CLAROS | 1 |
+| MG | 314535 | NOVO ORIENTE DE MINAS | 1 |
+| MG | 314700 | PARACATU | 1 |
+| MG | 314800 | PATOS DE MINAS | 1 |
+| MG | 314810 | PATROCINIO | 1 |
+| MG | 315280 | PRATA | 1 |
+| MG | 315690 | SACRAMENTO | 1 |
+| MG | 315760 | SANTA FE DE MINAS | 1 |
+| MG | 315765 | SANTA HELENA DE MINAS | 1 |
+| MG | 316240 | SAO JOAO DA PONTE | 1 |
+| MG | 316245 | SAO JOAO DAS MISSOES | 1 |
+| MG | 316555 | SETUBINHA | 1 |
+| MG | 316860 | TEOFILO OTONI | 1 |
+
+| MG | 317000 | UBAI | 1 |
+| --- | --- | --- | --- |
+| MG | 317010 | UBERABA | 1 |
+| MG | 310050 | ACUCENA | 1 |
+| MG | 310730 | BOCAIUVA | 1 |
+| MG | 310825 | BONITO DE MINAS | 1 |
+| MG | 310930 | BURITIS | 1 |
+| MG | 311110 | CAMPINA VERDE | 1 |
+| MG | 311370 | CARLOS CHAGAS | 1 |
+| MG | 311810 | CONGONHAS DO NORTE | 1 |
+| MG | 312015 | CRISOLITA | 1 |
+| MG | 312090 | CURVELO | 1 |
+| MG | 312160 | DIAMANTINA | 1 |
+| MS | 500090 | ANTONIO JOAO | 1 |
+| MS | 500110 | AQUIDAUANA | 1 |
+| MS | 500240 | CAARAPO | 1 |
+| MS | 500320 | CORUMBA | 1 |
+| MS | 500690 | PORTO MURTINHO | 1 |
+| MS | 500710 | RIBAS DO RIO PARDO | 1 |
+| MT | 510050 | ALTO PARAGUAI | 1 |
+| MT | 510080 | APIACAS | 1 |
+| MT | 510250 | CACERES | 1 |
+| MT | 510330 | COMODORO | 1 |
+| MT | 510510 | JUARA | 1 |
+| MT | 510515 | JUINA | 1 |
+| MT | 510630 | PARANATINGA | 1 |
+| MT | 510777 | SANTA TEREZINHA | 1 |
+| PA | 150050 | ALMEIRIM | 1 |
+| PA | 150085 | ANAPU | 1 |
+| PA | 150095 | AURORA DO PARA | 1 |
+| PA | 150157 | BOM JESUS DO TOCANTINS | 1 |
+| PA | 150160 | BONITO | 1 |
+| PA | 150170 | BRAGANCA | 1 |
+| PA | 150172 | BRASIL NOVO | 1 |
+| PA | 150178 | BREU BRANCO | 1 |
+| PA | 150180 | BREVES | 1 |
+| PA | 150210 | CAMETA | 1 |
+| PA | 150230 | CAPITAO POCO | 1 |
+| PA | 150270 | CONCEICAO DO ARAGUAIA | 1 |
+| PA | 150275 | CONCORDIA DO PARA | 1 |
+| PA | 150293 | DOM ELISEU | 1 |
+| PA | 150295 | ELDORADO DOS CARAJAS | 1 |
+| PA | 150309 | GOIANESIA DO PARA | 1 |
+| PA | 150320 | IGARAPE-ACU | 1 |
+| PA | 150360 | ITAITUBA | 1 |
+| PA | 150400 | LIMOEIRO DO AJURU | 1 |
+| PA | 150420 | MARABA | 1 |
+| PA | 150490 | MUANA | 1 |
+| PA | 150530 | ORIXIMINA | 1 |
+| PA | 150543 | OURILANDIA DO NORTE | 1 |
+| PA | 150553 | PARAUAPEBAS | 1 |
+| PA | 150560 | PEIXE-BOI | 1 |
+| PA | 150563 | PICARRA | 1 |
+| PA | 150580 | PORTEL | 1 |
+| PA | 150590 | PORTO DE MOZ | 1 |
+| PA | 150610 | PRIMAVERA | 1 |
+| PA | 150613 | REDENCAO | 1 |
+| PA | 150618 | RONDON DO PARA | 1 |
+| PA | 150655 | SANTA LUZIA DO PARA | 1 |
+| PA | 150670 | SANTANA DO ARAGUAIA | 1 |
+| PA | 150680 | SANTAREM | 1 |
+| PA | 150715 | SAO DOMINGOS DO ARAGUAIA | 1 |
+| PA | 150745 | SAO GERALDO DO ARAGUAIA | 1 |
+| PA | 150747 | SAO JOAO DE PIRABAS | 1 |
+| PA | 150760 | SAO MIGUEL DO GUAMA | 1 |
+| PA | 150800 | TOME-ACU | 1 |
+| PA | 150803 | TRACUATEUA | 1 |
+| PA | 150805 | TRAIRAO | 1 |
+| PA | 150812 | ULIANOPOLIS | 1 |
+| PA | 150840 | XINGUARA | 1 |
+| PB | 250130 | AROEIRAS | 1 |
+| PB | 250403 | CAPIM | 1 |
+| PB | 250500 | CUBATI | 1 |
+| PB | 250535 | DAMIAO | 1 |
+| PB | 250610 | FAGUNDES | 1 |
+| PB | 250905 | MARCACAO | 1 |
+| PB | 250940 | MOGEIRO | 1 |
+| PB | 250990 | NATUBA | 1 |
+| PB | 251210 | POMBAL | 1 |
+| PB | 251300 | SALGADINHO | 1 |
+| PB | 251500 | SAO MIGUEL DE TAIPU | 1 |
+| PB | 251630 | SUME | 1 |
+| PE | 260040 | AGUA PRETA | 1 |
+| PE | 260070 | ALIANCA | 1 |
+| PE | 260105 | ARACOIABA | 1 |
+| PE | 260210 | BOM CONSELHO | 1 |
+| PE | 260280 | BUIQUE | 1 |
+| PE | 260320 | CAETES | 1 |
+| PE | 260370 | CANHOTINHO | 1 |
+| PE | 260380 | CAPOEIRAS | 1 |
+| PE | 260415 | CASINHAS | 1 |
+| PE | 260460 | CONDADO | 1 |
+| PE | 260570 | FLORESTA | 1 |
+| PE | 260650 | IATI | 1 |
+| PE | 260660 | IBIMIRIM | 1 |
+| PE | 260700 | INAJA | 1 |
+| PE | 260730 | IPUBI | 1 |
+| PE | 260780 | ITAQUITINGA | 1 |
+| PE | 260795 | JAQUEIRA | 1 |
+| PE | 260840 | JUREMA | 1 |
+| PE | 260915 | MANARI | 1 |
+| PE | 260920 | MARAIAL | 1 |
+| PE | 261080 | PEDRA | 1 |
+| PE | 261110 | PETROLINA | 1 |
+| PE | 261150 | QUIPAPA | 1 |
+| PE | 261210 | SALGADINHO | 1 |
+| PE | 261245 | SANTA CRUZ | 1 |
+| PE | 261260 | SANTA MARIA DA BOA VISTA | 1 |
+| PE | 261290 | SAO BENEDITO DO SUL | 1 |
+| PE | 261320 | SAO JOAO | 1 |
+| PE | 261390 | SERRA TALHADA | 1 |
+| PE | 261480 | TACARATU | 1 |
+| PE | 261580 | TUPANATINGA | 1 |
+| PE | 261650 | XEXEU | 1 |
+| PI | 220115 | BAIXA GRANDE DO RIBEIRO | 1 |
+| PI | 220190 | BOM JESUS | 1 |
+| PI | 220208 | CAJUEIRO DA PRAIA | 1 |
+
+| PI | 220230 | CANTO DO BURITI | 1 |
+| --- | --- | --- | --- |
+| PI | 220325 | CURRALINHOS | 1 |
+| PI | 220465 | ILHA GRANDE | 1 |
+| PI | 220535 | JOAO COSTA | 1 |
+| PI | 220557 | LAGOA DE SAO FRANCISCO | 1 |
+| PI | 220556 | LAGOA DO BARRO DO PIAUI | 1 |
+| PI | 220810 | PIMENTEIRAS | 1 |
+| PI | 220870 | REDENCAO DO GURGUEIA | 1 |
+| PI | 220920 | SANTA FILOMENA | 1 |
+| PI | 220945 | SANTO ANTONIO DOS MILAGRES | 1 |
+| PI | 220987 | SAO JOAO DA FRONTEIRA | 1 |
+| PI | 221120 | URUCUI | 1 |
+| PR | 410480 | CASCAVEL | 1 |
+| PR | 410940 | GUARAPUAVA | 1 |
+| PR | 411325 | LARANJAL | 1 |
+| PR | 412470 | SAO JERONIMO DA SERRA | 1 |
+| PR | 412750 | TIBAGI | 1 |
+| RJ | 330045 | BELFORD ROXO | 1 |
+| RJ | 330220 | ITAPERUNA | 1 |
+| RJ | 330227 | JAPERI | 1 |
+| RJ | 330240 | MACAE | 1 |
+| RJ | 330475 | SAO FRANCISCO DE ITABAPOANA | 1 |
+| RN | 240220 | CANGUARETAMA | 1 |
+| RN | 240510 | JANDAIRA | 1 |
+| RN | 240590 | JOAO DIAS | 1 |
+| RN | 240800 | MOSSORO | 1 |
+| RN | 240880 | PARAZINHO | 1 |
+| RN | 240980 | PEDRO VELHO | 1 |
+| RN | 241025 | PORTO DO MANGUE | 1 |
+| RN | 241140 | SANTANA DO MATOS | 1 |
+| RN | 241255 | SAO MIGUEL DO GOSTOSO | 1 |
+| RN | 241310 | SENADOR ELOI DE SOUZA | 1 |
+| RO | 110001 | ALTA FLORESTA D'OESTE | 1 |
+| RO | 110080 | CANDEIAS DO JAMARI | 1 |
+| RO | 110012 | JI-PARANA | 1 |
+| RO | 110013 | MACHADINHO D'OESTE | 1 |
+| RO | 110030 | VILHENA | 1 |
+| RR | 140015 | BONFIM | 1 |
+| RR | 140017 | CANTA | 1 |
+| RR | 140020 | CARACARAI | 1 |
+| RR | 140030 | MUCAJAI | 1 |
+| RR | 140045 | PACARAIMA | 1 |
+| RS | 430160 | BAGE | 1 |
+| RS | 430270 | BUTIA | 1 |
+| RS | 430450 | CANGUCU | 1 |
+| RS | 430660 | DOM PEDRITO | 1 |
+| RS | 430690 | ENCRUZILHADA DO SUL | 1 |
+| RS | 431060 | ITAQUI | 1 |
+| RS | 431530 | QUARAI | 1 |
+| RS | 431540 | REDENTORA | 1 |
+| RS | 431710 | SANT'ANA DO LIVRAMENTO | 1 |
+| RS | 431800 | SAO BORJA | 1 |
+| RS | 431830 | SAO GABRIEL | 1 |
+| SC | 420315 | CALMON | 1 |
+| SC | 420360 | CAMPOS NOVOS | 1 |
+| SC | 420930 | LAGES | 1 |
+| SC | 421650 | SAO JOAQUIM | 1 |
+| SC | 421825 | TIMBO GRANDE | 1 |
+| SE | 280170 | CRISTINAPOLIS | 1 |
+| SE | 280270 | ILHA DAS FLORES | 1 |
+| SE | 280320 | ITAPORANGA D'AJUDA | 1 |
+| SE | 280490 | PACATUBA | 1 |
+| SE | 280510 | PEDRINHAS | 1 |
+| SE | 280540 | POCO REDONDO | 1 |
+| SE | 280740 | TOBIAS BARRETO | 1 |
+| SE | 280750 | TOMAR DO GERU | 1 |
+| SP | 350535 | BARRA DO CHAPEU | 1 |
+| SP | 350550 | BARRETOS | 1 |
+| SP | 351020 | CAPAO BONITO | 1 |
+| SP | 352030 | IGUAPE | 1 |
+| SP | 352265 | ITAPIRAPUA PAULISTA | 1 |
+| TO | 170240 | ARRAIAS | 1 |
+| TO | 170384 | CAMPOS LINDOS | 1 |
+| TO | 170900 | GOIATINS | 1 |
+| TO | 171620 | PARANA | 1 |
+| TO | 172030 | SAO SEBASTIAO DO TOCANTINS | 1 |
+| Total | 395 |  |  |

@@ -1,0 +1,46 @@
+---
+titulo: "DELIBERAÇÃO Nº 13, DE 15 DE JANEIRO DE 2014"
+orgao: "Ministério dos Transportes/AGÊNCIA NACIONAL DE TRANSPORTES TERRESTRES"
+tipo: "Deliberação"
+numero: "13"
+data: 2014-01-15
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 21/01/2015, seção 1, p. 50"
+data_publicacao: 2015-01-21
+edicao: "14"
+fonte: "https://www.in.gov.br/web/dou/-/deliberacao-n-13-de-15-de-janeiro-de-2014-32119133"
+sha256_html_fonte: fb7b901f35df6798890b3f7c5bdb437ec78f6c0be6a131d70c062fc918b97e22
+baixado_em: 2026-10-28
+---
+# DELIBERAÇÃO Nº 13, DE 15 DE JANEIRO DE 2014
+
+DELIBERAÇÃO Nº 13, DE 15 DE JANEIRO DE 2014
+
+A Diretoria da Agência Nacional de Transportes Terrestres ANTT,no uso de suas atribuições, fundamentada no Voto DAL -012,de 5 de janeiro de 2014, e no que consta do Processo n.º50500.275255/2014-75, delibera:
+
+**Art. 1º** Encaminhar ao Exm.º Senhor Ministro de Estado dosTransportes a proposta de Declaração de Utilidade Pública de imóveisadjacentes à Rodovia BR-050/GO, abrangidos e delimitados pelascoordenadas topográficas descritas nas plantas e nos memoriais descritivosconstantes deste processo, situados no Município de Cumari,no Estado de Goiás, necessários à execução das obras de implantaçãode interseção no km 311+660m.
+
+**Art. 2º** As descrições das áreas mencionadas no art. 1º constamdo Anexo a esta Deliberação.
+
+**Art. 3º** Esta Deliberação entra em vigor na data de suapublicação.
+
+JORGE BASTOS  
+Diretor-Geral  
+Em exercício
+
+## ANEXO
+
+I - Área 01, com a seguinte descrição: tomando-se comoreferência o ponto A (onde se inicia o perímetro); tem CoordenadasPlanas no Sistema U.T.M. - SIRGAS 2000, respectivamente E:174.377,002m e N: 7.961.649,664m; daí segue com AZPlano=149º9'7,71"e distância de 16,584 metros, chega-se ao ponto B, E:174.385,506m e N: 7.961.635,426m; daí segue com AZPlano=141º35'51,67" e distância de 15,564 metros, chega-se ao ponto C, E:174.395,174m e N: 7.961.623,229m; daí segue com AZPlano=134º54'13,43" e distância de 12,926 metros, chega-se ao ponto D, E:174.404,329m e N: 7.961.614,104m; daí segue com AZPlano=128º35'35,33" e distância de 13,934 metros, chega-se ao ponto E, E:174.415,220m e N: 7.961.605,412m; daí segue com AZPlano=125º19'9,61" e distância de 13,651 metros, chega-se ao ponto F, E:174.426,359m e N: 7.961.597,520m; daí segue com AZPlano=130º5'52,67" e distância de 14,562 metros, chega-se ao ponto G, E:174.437,498m e N: 7.961.588,141m; daí segue com AZPlano=139º21'34,90" e distância de 13,663 metros, chega-se ao ponto H, E:174.446,397m e N: 7.961.577,773m; daí segue com AZPlano=148º30'47,98" e distância de 14,233 metros, chega-se ao ponto I, E:174.453,831m e N: 7.961.565,635m; daí segue com AZPlano=156º50'24,72" e distância de 11,147 metros, chega-se ao ponto J, E:174.458,215m e N: 7.961.555,386m; daí segue com AZPlano=165º10'14,82" e distância de 14,244 metros, chega-se ao ponto K, E:174.461,861m e N: 7.961.541,616m; daí segue com AZPlano=175º11'18,61" e distância de 16,278 metros, chega-se ao ponto L, E:174.463,226m e N: 7.961.525,395m; daí segue com AZPlano=185º20'15,52" e distância de 14,644 metros, chega-se ao ponto M, E:174.461,864m e N: 7.961.510,815m;daí segue com AZPlano=195º20'42,63" e distância de 15,848 metros, chega-se ao ponto N, E:174.457,670m e N: 7.961.495,531m; daí segue com AZPlano=205º53'49,81" e distância de 16,299 metros, chega-se ao ponto O, E:174.450,552m e N: 7.961.480,869m; daí segue com AZPlano=216º21'20,59"e distância de 15,564 metros, chega-se ao ponto P,E: 174.441,325m e N: 7.961.468,335m; daí segue com AZPlano=226º35'33,34" e distância de 15,625 metros, chega-se ao ponto Q, E:174.429,974m e N: 7.961.457,597m; daí segue com AZPlano=236º52'19,78" e distância de 15,694 metros, chega-se ao ponto R, E:174.416,831m e N: 7.961.449,020m; daí segue com AZPlano=247º1'43,87" e distância de 15,252 metros, chega-se ao ponto S, E:174.402,788m e N: 7.961.443,068m; daí segue com AZPlano=256º52'13,95" e distância de 14,737 metros, chega-se ao ponto T, E:174.388,437m e N: 7.961.439,721m; daí segue com AZPlano=267º14'17,77" e distância de 16,850 metros, chega-se ao ponto U, E:174.371,607m e N: 7.961.438,909m; daí segue com AZPlano=1º27'59,36" e distância de 210,824 metros, chega-se ao ponto A;fecha-se assim o perímetro com 508,12m (quinhentos e oito metros edoze centímetros), perfazendo uma área total de 12.841,18m² (dozemil, oitocentos e quarenta e um metros quadrados e dezoito centímetrosquadrados);
+
+II - Área 02, com a seguinte descrição: tomando-se comoreferência o ponto A (onde se inicia o perímetro); tem CoordenadasPlanas no Sistema U.T.M. - SIRGAS 2000, respectivamente E:174.299,857m e N: 7.961.755,275m; daí segue com AZPlano=213º53'31,34" e distância de 36,907 metros, chega-se ao ponto B, E:174.279,277m e N: 7.961.724,639m; daí segue com AZPlano=185º36'30,74" e distância de 54,068 metros, chega-se ao ponto C, E:174.273,993m e N: 7.961.670,830m; daí segue com AZPlano=212º49'11,04" e distância de 29,760 metros, chega-se ao ponto D, E:174.257,863m e N: 7.961.645,820m; daí segue com AZPlano=244º53'52,74" e distância de 19,939 metros, chega-se ao ponto E, E:174.239,807m e N: 7.961.637,361m; daí segue com AZPlano=281º32'57,09" e distância de 41,844 metros, chega-se ao ponto F, E:174.198,810m e N: 7.961.645,739m; daí segue com AZPlano=320º2'53,59" e distância de 22,640 metros, chega-se ao ponto G, E:174.184,272m e N: 7.961.663,094m; daí segue com AZPlano=
+
+324º4'28,64" e distância de 29,473 metros, chega-se ao ponto H, E:174.166,980m e N: 7.961.686,961m; daí segue com AZPlano=317º46'38,89" e distância de 18,722 metros, chega-se ao ponto I, E:174.154,398m e N: 7.961.700,825m; daí segue com AZPlano=294º29'1,91" e distância de 29,386 metros, chega-se ao ponto J, E:174.127,655m e N: 7.961.713,004m; daí segue com AZPlano=286º19'46,57" e distância de 25,111 metros, chega-se ao ponto K, E:174.103,556m e N: 7.961.720,064m; daí segue com AZPlano=242º50'3,21" e distância de 18,168 metros, chega-se ao ponto L, E:174.087,393m e N: 7.961.711,769m; daí segue com AZPlano=218º35'16,03" e distância de 5,749 metros, chega-se ao ponto M, E:174.083,807m e N: 7.961.707,276m; daí segue com AZPlano=129º45'34,75"e distância de 273,133 metros, chega-se ao ponto N, E:174.293,774m e N: 7.961.532,588m; daí segue com AZPlano=1º33'53,48" e distância de 222,770 metros, chega-se ao ponto A;fecha-se assim o perímetro com 827,67m (oitocentos e vinte e setemetros e sessenta e sete centímetros), perfazendo uma área total de13.543,37m² (treze mil, quinhentos e quarenta e três metros quadradose trinta e sete centímetros quadrados); e
+
+III - Área 03, com a seguinte descrição: tomando-se comoreferência o ponto A (onde se inicia o perímetro); tem CoordenadasPlanas no Sistema U.T.M. - SIRGAS 2000, respectivamente E:174.293,329m e N: 7.961.516,309m; daí segue com AZPlano=309º45'34,75" e distância de 282,942 metros, chega-se ao ponto B, E:174.075,822m e N: 7.961.697,269m; daí segue com AZPlano=218º35'16,03" e distância de 5,582 metros, chega-se ao ponto C, E:174.072,341m e N: 7.961.692,906m; daí segue com AZPlano=170º46'35,95" e distância de 37,307 metros, chega-se ao ponto D, E:174.078,320m e N: 7.961.656,081m; daí segue com AZPlano=155º47'57,13"e distância de 19,890 metros, chega-se ao ponto E, E:174.086,474m e N: 7.961.637,939m; daí segue com AZPlano=126º35'34,93" e distância de17,424 metros, chega-se ao ponto F, E:174.100,464m e N: 7.961.627,552m; daí segue com AZPlano=127º9'38,62" e distância de 40,764 metros, chega-se ao ponto G, E:174.132,950m e N: 7.961.602,928m; daí segue com AZPlano=131º5'17,03" e distância de 38,328 metros, chega-se ao ponto H, E:174.161,838m e N: 7.961.577,739m; daí segue com AZPlano=145º5'39,44" e distância de 74,523 metros, chega-se ao ponto I, E:174.204,482m e N: 7.961.516,623m; daí segue com AZPlano=153º46'13,65" e distância de 46,032 metros, chega-se ao ponto J, E:174.224,827m e N:7.961.475,330m; daí segue com AZPlano=148º44'27,92" e distância de 95,476 metros, chega-se ao ponto K, E:174.274,370m e N: 7.961.393,715m; daí segue com AZPlano=152º48'36,28" e distância de 89,726 metros, chega-se ao ponto L, E:174.315,369m e N: 7.961.313,904m; daí segue com AZPlano=342º3'32,64" e distância de 33,986 metros, chega-se ao ponto M, E:174.304,900m e N: 7.961.346,238m; daí segue com AZPlano=346º34'58,67" e distância de 25,215 metros, chega-se ao ponto N, E:174.299,049m e N: 7.961.370,765m; daí segue com AZPlano=350º17'6,60" e distância de 23,238 metros, chega-se ao ponto O, E:174.295,128m e N: 7.961.393,670m; daí segue com AZPlano=353º56'23,97" e distância de 24,595 metros, chega-se ao ponto P, E:174.292,532m e N: 7.961.418,127m; daí segue com AZPlano=357º9'47,87" e distância de 17,592 metros, chega-se ao ponto Q, E:174.291,661m e N: 7.961.435,698m; daí segue com AZPlano=0º26'55,23" e distância de 27,403 metros, chega-se ao ponto R, E:174.291,876m e N: 7.961.463,100m; daí segue com AZPlano=1º33'53,48" e distância de 53,228 metros, chega-se ao ponto A; fechaseassim o perímetro com 953,25m (novecentos e cinquenta e trêsmetros e vinte e cinco centímetros), perfazendo uma área total de17.410,70m² (dezessete mil, quatrocentos e dez metros quadrados esetenta centímetros quadrados).
+
+JORGE BASTOS
+
+Diretor-Geral Em exercício
+
+Este conteúdo não substitui o publicado na versão certificada.

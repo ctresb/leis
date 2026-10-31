@@ -1,0 +1,38 @@
+---
+titulo: "PORTARIA MDS Nº 872, DE 28 MARÇO DE 2023"
+orgao: "Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "872"
+data: ""
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 29/03/2023, seção 1, p. 18"
+data_publicacao: 2023-03-29
+edicao: "61"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-mds-n-872-de-28-marco-de-2023-473402866"
+sha256_html_fonte: 9bd73d6558fc70e9010e0bfcb8b8ab692ec9b6ee8c26c40f46131be4c6c579d8
+baixado_em: 2026-10-16
+---
+# PORTARIA MDS Nº 872, DE 28 MARÇO DE 2023
+
+PORTARIA MDS Nº 872, DE 28 MARÇO DE 2023
+
+Permuta Função Comissionada Executiva por Cargo Comissionado Executivo de mesmo nível e categoria.
+
+O MINISTRO DE ESTADO DO DESENVOLVIMENTO E ASSISTÊNCIA SOCIAL, FAMÍLIA E COMBATE À FOME, no uso de suas atribuições e, tendo em vista o disposto no art. 12 do Decreto nº 10.829, de 5 de outubro de 2021, resolve:
+
+**Art. 1º** Fica efetivada a seguinte permuta na estrutura de Cargos em Comissão e das Funções de Confiança deste Ministério, conforme anexo I:
+
+I - Uma Função Comissionada Executiva - FCE 1.10 da Coordenação de Acompanhamento das Condicionalidades, do Departamento de Condicionalidades, por um Cargo Comissionado Executivo - CCE 1.10 da Coordenação de Acompanhamento do Gabinete, ambas da Secretaria Nacional de Renda de Cidadania - SENARC.
+
+**Art. 2º** O anexo à Portaria 859, de 9 de fevereiro de 2023, passa a vigorar com a alteração efetivada acima.
+
+**Art. 3º** O normativo que instituir o Regimento Interno do Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome refletirá as alterações do Anexo I desta Portaria no Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Ministério.
+
+**Art. 4º** Esta Portaria entra em vigor um dia após a data de sua publicação.
+
+JOSÉ WELLINGTON BARROSO DE ARAÚJO DIAS
+
+## ANEXO I — ALTERAÇÕES DO QUADRO DEMONSTRATIVO DE CARGOS EM COMISSÃO E DAS FUNÇÕES DE CONFIANÇA DO MINISTÉRIO DO DESENVOLVIMENTO E ASSISTÊNCIA SOCIAL, FAMÍLIA E COMBATE À FOME
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="4"><p>QUADRO DEMONSTRATIVO DE CARGOS EM COMISSÃO E DAS FUNÇÕES DE CONFIANÇA DO MINISTÉRIO DO DESENVOLVIMENTO E ASSISTÊNCIA SOCIAL, FAMÍLIA E COMBATE À FOME, CONSTANTE NO DECRETO Nº 11.392, DE 20 DE JANEIRO DE 2023 E ALTERAÇÕES</p></td>      <td rowspan="1" colspan="4"><p>QUADRO DEMONSTRATIVO DE CARGOS EM COMISSÃO E DAS FUNÇÕES DE CONFIANÇA DO MINISTÉRIO DO DESENVOLVIMENTO E ASSISTÊNCIA SOCIAL, FAMÍLIA E COMBATE À FOME, APÓS PERMUTA</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>UNIDADE</p></td>      <td rowspan="1" colspan="1"><p>CARGO/FUNÇÃO Nº</p></td>      <td rowspan="1" colspan="1"><p>DENOMINAÇÃO CARGO/FUNÇÃO</p></td>      <td rowspan="1" colspan="1"><p>CCE/FCE</p></td>      <td rowspan="1" colspan="1"><p>UNIDADE</p></td>      <td rowspan="1" colspan="1"><p>CARGO/FUNÇÃO Nº</p></td>      <td rowspan="1" colspan="1"><p>DENOMINAÇÃO CARGO/FUNÇÃO</p></td>      <td rowspan="1" colspan="1"><p>CCE/FCE</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>SECRETARIA NACIONAL DE RENDA DE CIDADANIA</p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p>SECRETARIA NACIONAL DE RENDA DE CIDADANIA</p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Gabinete</p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p>Gabinete</p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Coordenação</p></td>      <td rowspan="1" colspan="1"><p>2</p></td>      <td rowspan="1" colspan="1"><p>Coordenador</p></td>      <td rowspan="1" colspan="1"><p>CCE 1.10</p></td>      <td rowspan="1" colspan="1"><p>Coordenação</p></td>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>Coordenador</p></td>      <td rowspan="1" colspan="1"><p>CCE 1.10</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p>Coordenação</p></td>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>Coordenador</p></td>      <td rowspan="1" colspan="1"><p>FCE 1.10</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>DEPARTAMENTO DE CONDICIONALIDADES</p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p>DEPARTAMENTO DE CONDICIONALIDADES</p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Coordenação</p></td>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>Coordenador</p></td>      <td rowspan="1" colspan="1"><p>CCE 1.10</p></td>      <td rowspan="1" colspan="1"><p>Coordenação</p></td>      <td rowspan="1" colspan="1"><p>2</p></td>      <td rowspan="1" colspan="1"><p>Coordenador</p></td>      <td rowspan="1" colspan="1"><p>CCE 1.10</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Coordenação</p></td>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>Coordenador</p></td>      <td rowspan="1" colspan="1"><p>FCE 1.10</p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>     </tr>    </tbody>   </table>

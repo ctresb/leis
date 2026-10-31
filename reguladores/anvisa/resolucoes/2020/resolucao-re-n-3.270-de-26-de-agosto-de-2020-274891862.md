@@ -1,0 +1,242 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.270, DE 26 DE AGOSTO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Segunda Diretoria/Gerência-Geral de Alimentos"
+tipo: "Resolução"
+numero: "3270"
+data: 2020-08-26
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 31/08/2020, seção 1, p. 148"
+data_publicacao: 2020-08-31
+edicao: "167"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.270-de-26-de-agosto-de-2020-274891862"
+sha256_html_fonte: f4beef3fb4fb100c85dd73d045ad05be6325084687e298b9002056bf13f86618
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 3.270, DE 26 DE AGOSTO DE 2020
+
+RESOLUÇÃO-RE Nº 3.270, DE 26 DE AGOSTO DE 2020
+
+A Gerente-Geral de Alimentos, no uso das atribuições que lhe confere o art. 126, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:
+
+**Art.1º** Deferir as petições relacionadas à Gerência-Geral de Alimentos, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+THALITA ANTONY DE SOUZA LIMA
+
+## ANEXO
+
+Relatório de Conferência de Alimentos. Publicação nr.: 535820
+
+NOME DA EMPRESA CNPJ
+
+NOME DO PRODUTO UF
+
+NUMERO DO PROCESSO NUMERO DE REGISTRO
+
+EMBALAGEM VALIDADE PRODUTO
+
+CLASS/CAT DESCRIÇÃO VALIDADE REGISTRO
+
+MARCA DO PRODUTO
+
+ASSUNTO PETIÇÃO
+
+------------------------------------------
+
+BABY ROO COMERCIO DE ALIMENTOS EIRELI 34.282.307/0001-44
+
+PAPINHA DE PERA, ESPINAFRE E ABOBRINHA
+
+25351.376051/2020-11 6.7485.0006.001-2
+
+METALICA 16 Meses
+
+PLASTICA 16 Meses
+
+ALIMENTOS INFANTIS 05/2025
+
+442 Alteração do Prazo de Validade do Produto
+
+------------------------------------------
+
+JOSIMARA WESSLER 04792946905 34.756.980/0001-79
+
+SOPINHA CREMOSA - MÚSCULO MOÍDO, FEIJÃO FRADINHO, ARROZ INTEGRAL, CENOURA E REPOLHO
+
+25351.714675/2020-32 6.7483.0010.001-0
+
+PLASTICA 03 Meses
+
+ALIMENTOS INFANTIS 08/2025
+
+NUTRE +
+
+4065 Registro de alimentos de transição para lactentes e crianças de primeira infância
+
+SOPINHA CREMOSA - PEITO DE FRANGO, GRÃO DE BICO, MANDIOCA SALSA, TOMATE E ACELGA
+
+25351.714695/2020-11 6.7483.0011.001-6
+
+PLASTICA 03 Meses
+
+ALIMENTOS INFANTIS 08/2025
+
+NUTRE +
+
+4065 Registro de alimentos de transição para lactentes e crianças de primeira infância
+
+SOPINHA CREMOSA - PEITO DE FRANGO, LENTILHA, BATATA INGLESA, ABÓBORA PAULISTA E BRÓCOLIS
+
+25351.714699/2020-91 6.7483.0012.001-1
+
+PLASTICA 03 Meses
+
+ALIMENTOS INFANTIS 08/2025
+
+NUTRE +
+
+4065 Registro de alimentos de transição para lactentes e crianças de primeira infância
+
+------------------------------------------
+
+MEAD JOHNSON DO BRASIL COMÉRCIO E IMPORTAÇÃO DE PRODUTOS DE NUTRIÇÃO LTDA 10.351.637/0001-86
+
+FÓRMULA INFANTIL DE SEGUIMENTO PARA LACTENTES DESTINADA A NECESSIDADES DIETOTERÁPICAS ESPECIAIS COM RESTRIÇÃO DE LACTOSE COMPOSTA POR PROTEÍNA EXTENSAMENTE HIDROLISADA E PROBIÓTICO - ESTADOS UNIDOS
+
+25351.409946/2015-71 6.6609.0032.001-4
+
+METALICA 15 Meses
+
+PLASTICA 15 Meses
+
+ELASTOMERICA 15 Meses
+
+ALIMENTOS INFANTIS 08/2025
+
+NUTRAMIGEN LGG / NUTRAMIGEN LGG PREMIUM / ENFAMIL NUTRAMIGEN LGG PREMIUM / ENFAMIL NUTRAMIGEN LGG / NUTRAMIGEN PREMIUM PREMIUM LGG
+
+4036 Registro Único de Alimentos Infantis - IMPORTADO
+
+FÓRMULA INFANTIL DE SEGUIMENTO PARA LACTENTES DESTINADA A NECESSIDADES DIETOTERÁPICAS ESPECIAIS COM RESTRIÇÃO DE LACTOSE COMPOSTA POR PROTEÍNA EXTENSAMENTE HIDROLISADA E PROBIÓTICO - MÉXICO
+
+25351.409946/2015-71 6.6609.0032.002-2
+
+ELASTOMERICA 15 Meses
+
+PLASTICA 15 Meses
+
+METALICA 15 Meses
+
+ALIMENTOS INFANTIS 08/2025
+
+NUTRAMIGEN LGG / NUTRAMIGEN LGG PREMIUM / ENFAMIL NUTRAMIGEN LGG PREMIUM / ENFAMIL NUTRAMIGEN LGG / NUTRAMIGEN PREMIUM PREMIUM LGG
+
+4036 Registro Único de Alimentos Infantis - IMPORTADO
+
+------------------------------------------
+
+PHYTONUTRE COMERCIO E INDUSTRIA DE ALIMENTOS LTDA. 08.256.243/0001-05
+
+SUPLEMENTO ALIMENTAR PROBIÓTICO EM PÓ
+
+25351.664342/2014-59 6.5382.0007.001-2
+
+PLASTICA 24 Meses
+
+METALICA 24 Meses
+
+Suplementos Alimentares Contendo Probióticos e/ou Enzimas 04/2025
+
+4103 Revalidação de registro de suplementos contendo enzimas ou probióticos
+
+4105 Alterações para adequação de suplementos alimentares contendo enzimas e probióticos à RDC n. 243/2018
+
+------------------------------------------
+
+PRLV INDUSTRIA DE SUPLEMENTOS ALIMENTARES LTDA 33.089.180/0002-60
+
+FÓRMULA PADRÃO PARA NUTRIÇÃO ENTERAL E ORAL
+
+25351.658335/2019-81 6.7494.0001.001-1
+
+METALICA 15 Meses
+
+PLASTICA 15 Meses
+
+ELASTOMERICA 15 Meses
+
+ALIMENTOS PARA NUTRIÇÃO ENTERAL 07/2025
+
+456 Alteração de Rotulagem
+
+------------------------------------------
+
+VIDA FORTE INDUSTRIA E COMERCIO DE PRODUTOS NATURAIS 07.455.576/0001-92
+
+MÓDULO DE LIPÍDIO PARA NUTRIÇÃO ENTERAL E ORAL - POTE 100 ML
+
+25351.563688/2013-76 6.5426.0036.001-6
+
+PLASTICA 24 Meses
+
+ALIMENTOS PARA NUTRIÇÃO ENTERAL 05/2025
+
+4098 Revalidação de registro de módulos para nutrição enteral
+
+MÓDULO DE LIPÍDIO PARA NUTRIÇÃO ENTERAL E ORAL - POTE 250 ML
+
+25351.563688/2013-76 6.5426.0036.002-4
+
+PLASTICA 24 Meses
+
+ALIMENTOS PARA NUTRIÇÃO ENTERAL 05/2025
+
+4098 Revalidação de registro de módulos para nutrição enteral
+
+MÓDULO DE LIPÍDIO PARA NUTRIÇÃO ENTERAL E ORAL - POTE 500 ML
+
+25351.563688/2013-76 6.5426.0036.003-2
+
+PLASTICA 24 Meses
+
+ALIMENTOS PARA NUTRIÇÃO ENTERAL 05/2025
+
+4098 Revalidação de registro de módulos para nutrição enteral
+
+MÓDULO DE LIPÍDIO PARA NUTRIÇÃO ENTERAL E ORAL - SACHÊ 9 ML
+
+25351.563688/2013-76 6.5426.0036.004-0
+
+PLASTICA 24 Meses
+
+METALICA 24 Meses
+
+ALIMENTOS PARA NUTRIÇÃO ENTERAL 05/2025
+
+4098 Revalidação de registro de módulos para nutrição enteral
+
+MÓDULO DE LIPÍDIO PARA NUTRIÇÃO ENTERAL E ORAL - SACHÊ 15 ML
+
+25351.563688/2013-76 6.5426.0036.005-9
+
+PLASTICA 24 Meses
+
+METALICA 24 Meses
+
+ALIMENTOS PARA NUTRIÇÃO ENTERAL 05/2025
+
+4098 Revalidação de registro de módulos para nutrição enteral
+
+MÓDULO DE LIPÍDIO PARA NUTRIÇÃO ENTERAL E ORAL - SACHÊ 18 ML
+
+25351.563688/2013-76 6.5426.0036.006-7
+
+PLASTICA 24 Meses
+
+METALICA 24 Meses
+
+ALIMENTOS PARA NUTRIÇÃO ENTERAL 05/2025
+
+4098 Revalidação de registro de módulos para nutrição enteral

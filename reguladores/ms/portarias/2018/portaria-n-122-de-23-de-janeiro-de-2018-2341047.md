@@ -1,0 +1,42 @@
+---
+titulo: "PORTARIA Nº 122, DE 23 DE JANEIRO DE 2018"
+orgao: "Ministério da Saúde/Secretaria de Atenção à Saúde"
+tipo: "Portaria"
+numero: "122"
+data: 2018-01-23
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 01/02/2018, seção 1, p. 35"
+data_publicacao: 2018-02-01
+edicao: "23"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-122-de-23-de-janeiro-de-2018-2341047"
+sha256_html_fonte: 528c218a71da286cf82c8c06aa358f2af579ae1122b2777adf6a74a9760df8a7
+baixado_em: 2026-10-27
+---
+# PORTARIA Nº 122, DE 23 DE JANEIRO DE 2018
+
+O Secretário de Atenção à Saúde, no uso de suas atribuições,
+
+Considerando o Capítulo VIII - Programação Pactuada e Integrada da assistência em saúde - da Portaria de Consolidação nº 5/GM/MS, de 28 de setembro de 2017, que consolida as normas sobre as ações e os serviços de saúde do Sistema Único de Saúde;
+
+Considerando o Título III da Portaria de Consolidação n° 6/GM/MS, de 28 de setembro de 2017, que consolida as normas sobre o financiamento e a transferência dos recursos federais para as ações e os serviços de saúde do Sistema Único de Saúde;
+
+Considerando a Portaria nº 3.992/GM/MS, de 28 de dezembro de 2017, que altera a Portaria de Consolidação nº 6/GM/MS, de 28 de setembro de 2017, para dispor sobre o financiamento e a transferência dos recursos federais para as ações e os serviços públicos de saúde do Sistema Único de Saúde; e
+
+Considerando os dados e documentos encaminhados pela Secretaria de Estado da Saúde de Santa Catarina, por meio do Ofício nº. 841/2017, de 18 de dezembro de 2017, resolve:
+
+**Art. 1º** Fica efetivado o remanejamento de valores destinados ao custeio das ações e serviços públicos de saúde, no grupo de Atenção de Média e Alta Complexidade Ambulatorial e Hospitalar referente ao Estado de Santa Catarina, com base na Deliberação da Comissão Intergestores Bipartite - CIB/SC n°. 294, de 18 de de dezembro de 2017.
+
+**§ 1º** O total do recurso MAC anual do Estado de Santa Catarina fica assim distribuído:
+
+<table><tr></tr><tr><td><p>Destinação</p></td><td><p>Valor Anual (R$)</p></td></tr><tr><td><p>Fundo Estadual de Saúde</p></td><td><p>376.741.682,66</p></td></tr><tr><td><p>Fundos Municipais de Saúde </p></td><td><p>1.001.784.058,61</p></td></tr><tr><td><p>TOTAL</p></td><td><p>1.378.525.741,27</p></td></tr></table>
+
+**§ 2º** O estado e os municípios fazem jus à parcela mensal correspondente a 1/12 (um doze avos) dos valores remanejados, conforme detalhamento disponível para consulta no Sistema de Controle de Limite Financeiro da Média e Alta Complexidade - SISMAC - endereço eletrônico: http://sismac.saude.gov.br
+
+**§ 3º** A efetivação do remanejamento do recurso MAC, por meio desta portaria, não acarreta impacto financeiro ao Ministério da Saúde.
+
+**Art. 2º** Esta Portaria entra em vigor na data da sua publicação, com efeitos financeiros vigentes a partir da 2ª Parcela de 2018.
+
+FRANCISCO DE ASSIS FIGUEIREDO
+
+Este conteúdo não substitui o publicado na versão certificada.

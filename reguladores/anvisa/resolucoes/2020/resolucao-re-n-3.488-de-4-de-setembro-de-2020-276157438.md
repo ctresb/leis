@@ -1,0 +1,226 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.488, DE 4 DE SETEMBRO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "3488"
+data: 2020-09-04
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 08/09/2020, seção 1, p. 100"
+data_publicacao: 2020-09-08
+edicao: "172"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.488-de-4-de-setembro-de-2020-276157438"
+sha256_html_fonte: b8805e80829c1d5db338c9ff7a0aa52e79435651dccd609dcd812f1327c982cb
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 3.488, DE 4 DE SETEMBRO DE 2020
+
+RESOLUÇÃO-RE Nº 3.488, DE 4 DE SETEMBRO DE 2020
+
+A Coordenadora de Autorização de Funcionamento de Empresas, no uso das atribuições que lhe confere o art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º** Conceder Alteração de Autorização de Funcionamento para os estabelecimentos de Farmácias e Drogarias, em conformidade com o anexo desta Resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+PATRICIA AZEVEDO CHAGAS
+
+## ANEXO
+
+DROGA RAPHAEL SANSANA LTDA EPP / 10.834.344/0002-30
+
+25351.341259/2012-09 / 0854493
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2487185201
+
+--------------------------------------
+
+DROGARIA SÃO JOSÉ LTDA / 04.527.343/0001-60
+
+25351.638826/2013-10 / 7017371
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2487149204
+
+--------------------------------------
+
+FARMACIA PIONEIRA JD CELESTE LTDA / 34.816.541/0001-04
+
+25351.661551/2019-11 / 7692408
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2487142207
+
+--------------------------------------
+
+FARMACIA BFC LTDA / 30.872.247/0001-69
+
+25351.076777/2019-12 / 7636160
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2487144203
+
+--------------------------------------
+
+LUIZ PEREIRA FERNANDES LTDA / 24.030.368/0001-60
+
+25351.956358/2016-13 / 7446204
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2487131201
+
+--------------------------------------
+
+drogaria central c. p. ltda / 32.138.473/0001-46
+
+25351.186761/2019-17 / 7644836
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2483897207
+
+--------------------------------------
+
+J I ROCHA MONTEIRO - ME / 23.973.244/0002-37
+
+25351.390594/2018-18 / 7596771
+
+70152 - AFE/AE - RECURSO ADMINISTRATIVO - FARMÁCIAS E DROGARIAS / 2868884208
+
+--------------------------------------
+
+R & F LIMA LTDA - EPP / 14.674.114/0002-02
+
+25351.471009/2016-18 / 7486824
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 2487158203
+
+--------------------------------------
+
+jose jorge silva santos me / 23.178.597/0001-64
+
+25351.122428/2016-29 / 7460479
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2487170202
+
+--------------------------------------
+
+FARMACIA MINAS NORTE LTDA / 15.318.320/0001-61
+
+25351.457473/2014-30 / 7378151
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2487176201
+
+--------------------------------------
+
+DROGARIA MELO E WARTHA LTDA / 26.444.478/0001-02
+
+25351.522909/2016-31 / 7492417
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2487152204
+
+--------------------------------------
+
+DROGARIA E PERFUMARIA XVI DE MARÇO LTDA / 09.447.807/0001-41
+
+25351.450809/2014-33 / 7251701
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2487188205
+
+--------------------------------------
+
+FARMÁCIA NOVO PROGRESSO LTDA. / 27.803.295/0001-90
+
+25351.187270/2002-37 / 0197659
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2214792196
+
+--------------------------------------
+
+RL RIBEIRO & LOMBA DROGARIA LTDA / 18.437.263/0001-28
+
+25351.695526/2013-38 / 7054461
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2487147208
+
+--------------------------------------
+
+SOREMEDIO COMERCIO DE MEDICAMENTOS LTDA / 20.998.920/0001-58
+
+25351.830014/2018-39 / 7627692
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 2487165206
+
+--------------------------------------
+
+FARMACIA DO TRABALHADOR DE SALINOPOLIS EIRELI / 21.746.981/0001-90
+
+25351.523265/2019-41 / 7678564
+
+70152 - AFE/AE - RECURSO ADMINISTRATIVO - FARMÁCIAS E DROGARIAS / 2879562208
+
+--------------------------------------
+
+P H FERREIRA MORAES - ME / 28.485.310/0001-62
+
+25351.656942/2017-44 / 7552925
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 2487163200
+
+--------------------------------------
+
+DROGARIA PINHEIRO E PASSOS LTDA-ME / 29.269.395/0001-04
+
+25351.093991/2018-44 / 7568054
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2487181208
+
+--------------------------------------
+
+AZEVEDO COMERCIO DE PRODUTOS FARMACEUTICOS LTDA / 27.287.476/0001-01
+
+25351.084753/2018-48 / 7567275
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2487136202
+
+--------------------------------------
+
+DROGARIA ULTRA POPULAR VALPARAISO LTDA / 22.216.390/0001-74
+
+25351.576440/2016-50 / 7497888
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2487138209
+
+--------------------------------------
+
+FABIFARMA DROGARIA LTDA / 20.010.790/0001-01
+
+25351.176024/2016-55 / 7464314
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2487133208
+
+--------------------------------------
+
+CENTRAL REDE FARMACEUTICA LTDA / 12.035.573/0001-30
+
+25351.066006/2016-66 / 7455924
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2487140201
+
+--------------------------------------
+
+FARMACIA PIONEIRA LTDA / 23.952.661/0001-12
+
+25351.911312/2016-67 / 7442202
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 2487154201
+
+--------------------------------------
+
+DROGARIA FMS VALENTE LTDA - ME / 03.302.671/0001-03
+
+25351.197220/2002-68 / 0055152
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 2487156207
+
+--------------------------------------
+
+MINHA FARMÁCIA LTDA / 10.374.002/0008-70
+
+25351.182937/2018-72 / 7577011
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2487178208

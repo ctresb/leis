@@ -1,0 +1,58 @@
+---
+titulo: "PORTARIA SERES/MEC Nº 769, DE 21 de outubro de 2025"
+orgao: "Ministério da Educação/Secretaria de Regulação e Supervisão da Educação Superior"
+tipo: "Portaria"
+numero: "769"
+data: 2025-10-21
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 22/10/2025, seção 1, p. 75"
+data_publicacao: 2025-10-22
+edicao: "202"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-seres/mec-n-769-de-21-de-outubro-de-2025-663909032"
+baixado_em: 2026-10-16
+---
+# PORTARIA SERES/MEC Nº 769, DE 21 de outubro de 2025
+
+PORTARIA SERES/MEC Nº 769, DE 21 de outubro de 2025
+
+A SECRETÁRIA DE REGULAÇÃO E SUPERVISÃO DA EDUCAÇÃO SUPERIOR, no uso da atribuição que lhe confere o Decreto nº 11.691, de 5 de setembro de 2023, e tendo em vista o Decreto n° 9.235, de 15 de dezembro de 2017, e as Portarias Normativas n° 20 e nº 23, de 21 de dezembro de 2017, do Ministério da Educação, e considerando o disposto no(s) processo(s) e-MEC listado(s) na planilha anexa, resolve:
+
+**Art. 1º** Fica renovado o reconhecimento do(s) curso(s) superior(es) de graduação constante(s) da tabela do anexo desta Portaria, ministrado(s) pela(s) Instituição(ões) de Educação Superior citada(s), nos termos do disposto no art. 10, do Decreto nº 9.235/2017.
+
+**Art. 2º** A renovação de reconhecimento a que se refere esta Portaria é válida exclusivamente para o curso ministrado no endereço citado na tabela constante do anexo.
+
+**Art. 3º** A renovação de reconhecimento a que se refere esta Portaria é válida até o ciclo avaliativo seguinte.
+
+**Art. 4º** Esta Portaria entra em vigor na data de sua publicação.
+
+MARTA ABRAMO
+
+ANEXO (Renovação de Reconhecimento de Cursos)
+
+| Nº de Ordem | Registro e-MEC nº | Curso | Nº de vagas totais anuais | Mantida | Mantenedora | Endereço de funcionamento do curso |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | 202316366 | BANCO DE DADOS (Tecnológico) | 150 (cento e cinquenta) | FACULDADE IMPACTA | UNIAO EDUCACIONAL, CULTURAL E TECNOLOGICA IMPACTA - UNI.IMPACTA | RUA CUBATÃO, 726, CAMPUS - PARAISO, VILA MARIANA, SÃO PAULO/SP |
+| 2 | 202316298 | EDUCAÇÃO FÍSICA (Licenciatura) | 120 (cento e vinte) | FACULDADE METODISTA GRANBERY | INSTITUTO METODISTA GRANBERY | RUA BATISTA DE OLIVEIRA, 1145, , GRANBERY, JUIZ DE FORA/MG |
+| 3 | 202316630 | SISTEMAS DE INFORMAÇÃO (Bacharelado) | 80 (oitenta) | Faculdade Multiversa de Fortaleza | SOCIEDADE EDUCACIONAL ROSA DOS VENTOS LTDA | AVENIDA IMPERADOR, 1360, MULTIVERSA, FARIAS BRITO, FORTALEZA/CE |
+| 4 | 202316190 | PEDAGOGIA (Licenciatura) | 150 (cento e cinquenta) | Faculdade Multivix Cariacica | MULTIVIX CARIACICA - ENSINO, PESQUISA E EXTENSAO LTDA | RUA 13 DE MAIO, 40, , SÃO GERALDO, CARIACICA/ES |
+| 5 | 202316178 | CIÊNCIAS BIOLÓGICAS (Licenciatura) | 80 (oitenta) | FACULDADE SANTA MARCELINA MURIAÉ - FASM | ASSOCIACAO SANTA MARCELINA | PRAÇA PRAÇA ANNINA BISEGNA, 40, , CENTRO, MURIAÉ/MG |
+| 6 | 202316347 | PEDAGOGIA (Licenciatura) | 60 (sessenta) | FACULDADE SANTA RITA | DORA RISCALA NEMI COSTA S/S LTDA - EPP | RUA DOUTOR MÁRIO FLORENCE, 144, JARDIM AEROPORTO, NOVO HORIZONTE/SP |
+| 7 | 202316226 | MECATRÔNICA INDUSTRIAL (Tecnológico) | 60 (sessenta) | FACULDADE SENAI DE TECNOLOGIA MECATRÔNICA | SERVICO NACIONAL DE APRENDIZAGEM INDUSTRIAL | RUA SANTO ANDRÉ, 680, , BOA VISTA, SÃO CAETANO DO SUL/SP |
+| 8 | 202316416 | PEDAGOGIA (Licenciatura) | 200 (duzentas) | FACULDADE UNIFACIG | INSTITUTO DUARTE COELHO | RODOVIA BR 101-NORTE, KM 25, S/N, , CENTRO, IGARASSU/PE |
+| 9 | 202316253 | GEOPROCESSAMENTO (Tecnológico) | 50 (cinquenta) | INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA PARAÍBA | INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DA PARAIBA | AVENIDA PRIMEIRO DE MAIO, 720, , JAGUARIBE, JOÃO PESSOA/PB |
+| 10 | 202316363 | SISTEMAS PARA INTERNET (Tecnológico) | 80 (oitenta) | INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA PARAÍBA | INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DA PARAIBA | AVENIDA PRIMEIRO DE MAIO, 720, , JAGUARIBE, JOÃO PESSOA/PB |
+| 11 | 202316280 | SISTEMAS PARA INTERNET (Tecnológico) | 50 (cinquenta) | INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE MATO GROSSO - IFMT | INSTITUTO FEDERAL DE MATO GROSSO | RUA PROFESSORA ZULMIRA CANAVARROS, 95, , CENTRO, CUIABÁ/MT |
+| 12 | 202316323 | GESTÃO DA PRODUÇÃO INDUSTRIAL (Tecnológico) | 40 (quarenta) | INSTITUTO FEDERAL DE EDUCAÇÃO, CIENCIA E TECNOLOGIA DE SÃO PAULO | INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DE SAO PAULO | RUA PEDRO VICENTE, 625, , CANINDÉ, SÃO PAULO/SP |
+| 13 | 202316264 | ESTRADAS (Tecnológico) | 30 (trinta) | Instituto Federal de Educação, Ciência e Tecnologia do Ceará | INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO CEARA | AVENIDA TREZE DE MAIO, 2081, , BENFICA, FORTALEZA/CE |
+| 14 | 202316338 | MECATRÔNICA INDUSTRIAL (Tecnológico) | 30 (trinta) | Instituto Federal de Educação, Ciência e Tecnologia do Ceará | INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO CEARA | AVENIDA TREZE DE MAIO, 2081, , BENFICA, FORTALEZA/CE |
+| 15 | 202316559 | MECATRÔNICA INDUSTRIAL (Tecnológico) | 130 (cento e trinta) | Instituto Federal de Educação, Ciência e Tecnologia do Ceará | INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO CEARA | ALAMEDA JOSÉ QUINTINO , S/N, PRADO, CEDRO/CE |
+| 16 | 202316265 | PROCESSOS QUÍMICOS (Tecnológico) | 30 (trinta) | Instituto Federal de Educação, Ciência e Tecnologia do Ceará | INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DO CEARA | AVENIDA TREZE DE MAIO, 2081, , BENFICA, FORTALEZA/CE |
+| 17 | 202316125 | AVIAÇÃO CIVIL (Bacharelado) | 400 (quatrocentas) | UNIVERSIDADE ANHEMBI MORUMBI | ISCP - SOCIEDADE EDUCACIONAL LTDA. | RUA DR. ALMEIDA LIMA, 1124 E 1134, CAMPUS MOOCA, BRÁS, SÃO PAULO/SP |
+| 18 | 202316212 | SISTEMAS DE INFORMAÇÃO (Bacharelado) | 106 (cento e seis) | UNIVERSIDADE DA REGIÃO DE JOINVILLE | FUNDACAO EDUCACIONAL DA REGIAO DE JOINVILLE | RUA PAULO MALSCHITZKI, 10, CAMPUS JOINVILLE - BOM RETIRO, CAMPUS UNIVERSITÁRIO - ZONA INDUSTRIAL, JOINVILLE/SC |
+| 19 | 202316440 | FÍSICA (Licenciatura) | 40 (quarenta) | UNIVERSIDADE DE SANTA CRUZ DO SUL | ASSOCIACAO PRO ENSINO EM SANTA CRUZ DO SUL | AVENIDA INDEPENDÊNCIA, 2293, , UNIVERSITÁRIO, SANTA CRUZ DO SUL/RS |
+| 20 | 202316622 | AUTOMAÇÃO INDUSTRIAL (Tecnológico) | 50 (cinquenta) | UNIVERSIDADE ESTÁCIO DE SÁ | SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA | AV. MARECHAL FONTENELLE, 3555, , JARDIM SULACAP, RIO DE JANEIRO/RJ |
+| 21 | 202316623 | GESTÃO DA TECNOLOGIA DA INFORMAÇÃO (Tecnológico) | 50 (cinquenta) | UNIVERSIDADE ESTÁCIO DE SÁ | SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA | AV. ALFREDO BALTAZAR DA SILVEIRA, 580 - COBERTURA SHOPPING BARRA WORLD - BARRA DA TIJUCA, 580, RECREIO, RECREIO DOS BANDEIRANTES, RIO DE JANEIRO/RJ |
+| 22 | 202316697 | JOGOS DIGITAIS (Tecnológico) | 60 (sessenta) | UNIVERSIDADE ESTÁCIO DE SÁ | SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA | RUA MORAIS E SILVA, 40, MARACANÃ, MARACANÃ, RIO DE JANEIRO/RJ |
+| 23 | 202316786 | TEATRO (Licenciatura) | 50 (cinquenta) | UNIVERSIDADE ESTÁCIO DE SÁ | SOCIEDADE DE ENSINO SUPERIOR ESTACIO DE SA LTDA | AV. DAS AMÉRICAS, 4.200, BARRA I -TOM JOBIM, BARRA DA TIJUCA, RIO DE JANEIRO/RJ |
+| 24 | 202316844 | TEATRO (Licenciatura) | 15 (quinze) | UNIVERSIDADE FEDERAL DA PARAÍBA | UNIVERSIDADE FEDERAL DA PARAIBA | CIDADE UNIVERSITÁRIA, S/N, CAMPUS I, CASTELO BRANCO, JOÃO PESSOA/PB |

@@ -1,0 +1,218 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 212, DE 19 DE JANEIRO DE 2023"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/3ª Diretoria/Gerência de Produtos de Higiene, Perfumes, Cosméticos e Saneantes"
+tipo: "Resolução"
+numero: "212"
+data: 2023-01-19
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 23/01/2023, seção 1, p. 122"
+data_publicacao: 2023-01-23
+edicao: "16"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-212-de-19-de-janeiro-de-2023-459245664"
+sha256_html_fonte: a45ca279912bbe8b98decd2310f83207b7c92291b3101069c129225894598993
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE Nº 212, DE 19 DE JANEIRO DE 2023
+
+RESOLUÇÃO-RE Nº 212, DE 19 DE JANEIRO DE 2023
+
+O Gerente substituto de Produtos de Higiene, Cosméticos, Perfumes e Saneantes, no uso das atribuições que lhe confere o art. 129, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art.1º** Cancelar os processos dos produtos de higiene pessoal, cosméticos e perfumes, conforme relação anexa.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+HENRIQUE BUENO KUSSAMA
+
+## ANEXO
+
+NOME DA EMPRESA/ AUTORIZAÇÃO
+
+NOME DO PRODUTO E MARCA
+
+NUMERO DE PROCESSO
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+ALVA COSMÉTICOS LTDA/2.03915-8
+
+LIMPADOR DE PINCÉIS E MÃOS - TRISS
+
+25351.972785/2016-00
+
+LIMPADOR DE PINCÉIS E MÃOS - GRAZI OLIVER
+
+25351.818969/2018-18
+
+HIGIENIZADOR DE PINCÉIS E MÃOS - PATY GÓES
+
+25351.736998/2018-62
+
+MAGIC HIGIENIZADOR DE PINCÉIS E MÃOS - ALIKKA MAKEUP
+
+25351.726593/2018-16
+
+--------------------------------------
+
+AVENCA INDÚSTRIA COSMÉTICA EIRELI/2.07209-5
+
+OXIREDUCT TYRREL PROFESSIONAL
+
+25351.043521/2022-16
+
+--------------------------------------
+
+B. ELZARK COSMETICOS EIRELI - ME/2.09355-1
+
+PHYTOCA - ZERO BIO MOLECULAR
+
+25351.059510/2021-77
+
+--------------------------------------
+
+COPELI COSMÉTICOS E PERFUMES LTDA - EPP/2.02863-1
+
+HIGIENIZADOR DE PINCÉIS MAHAV
+
+25351.806920/2018-12
+
+--------------------------------------
+
+COSMETEC INDÚSTRIA DE COSMÉTICOS LTDA ME/2.04175-8
+
+PROGRESSIVA DE CHUVEIRO #SUPERPODERES
+
+25351.210582/2021-14
+
+--------------------------------------
+
+COSMETICS TEND LIFE INDUSTRIAL E COMERCIAL LTDA/4.03757-9
+
+DEFINITLISS TENDHAIR
+
+25351.917441/2021-26
+
+--------------------------------------
+
+FLOWMED FABRICACAO E DISTRIBUICAO DE PRODUTOS DE HIGIENE CORPORAL LTDA/4.04057-7
+
+HOSPITAL CLEAN BAG CALÊNDULA COM CLOREXIDINA 2%
+
+25351.131458/2022-74
+
+--------------------------------------
+
+G.A.M. COSMETICOS LTDA - ME/2.06192-9
+
+MASTER HAIR PROFISSIONAL POMADA MODELADORA TRAÇAS- APLIQUE BABY HAIR
+
+25351.012126/2023-72
+
+--------------------------------------
+
+NATU CHARM INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA/2.02683-1
+
+LIMPA PINCÉIS - PHÁLLEBEAUTY
+
+25351.846544/2021-02
+
+SHAMPOO HIGIENIZADOR PINCEIS E ESPONJAS - PHÁLLEBEAUTY
+
+25351.760454/2021-17
+
+--------------------------------------
+
+ORIE INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA/2.08951-3
+
+HIGIENIZADOR DE PINCÉIS DAILUS PRO
+
+25351.778953/2018-65
+
+--------------------------------------
+
+PESSINI INDUSTRIA E COMERCIO DE COSMETICO - EIRELI/2.05048-6
+
+FIVE - PESSINI COSMÉTICOS
+
+25351.689740/2018-60
+
+SPICY LOVE CHOCOLATE COM PIMENTA - PESSINI COSMÉTICOS
+
+25351.154103/2016-31
+
+SPICY LOVE MORANGO - PESSINI COSMÉTICOS
+
+25351.765264/2015-16
+
+--------------------------------------
+
+PORTAL BRASIL COMÉRCIO INTERNACIONAL LTDA./2.06833-3
+
+HIGIENIZADOR DE PINCÉIS ALCHEMIA
+
+25351.809852/2018-43
+
+--------------------------------------
+
+ROYAL OPERA IMPORTAÇÃO EXPORTAÇÃO E COMERCIO LTDA/2.03397-9
+
+LIMPIADOR DE BROCHAS BRUSH CLEANSER LIMPADOR DE PINCEIS NETTOYANT POUR PINCEAUX BETER
+
+25351.810141/2021-17
+
+--------------------------------------
+
+SANTE COSMÉTICA INDÚSTRIA LTDA-ME/2.04401-8
+
+CONDICIONADOR SACHÊ PROGRESSIVA NO CHUVEIRO ALISA COCO VITA SEIVA
+
+25351.710885/2017-99
+
+CONDICIONADOR PROGRESSIVA DE CHUVEIRO FIQUE LIZZ /2.04401-8
+
+25351.732836/2019-36
+
+--------------------------------------
+
+USINA NATURAL COSMÉTICOS LTDA/2.03841-1
+
+MASK QUEEN ULTRA LISS - USINA NATURAL
+
+25351.324529/2021-08
+
+--------------------------------------
+
+SUPERNOVA INDUSTRIA COMERCIO E SERVICOS LTDA/2.08134-1
+
+MOUSSE MODELADOR SUPERFIX SER MULHER
+
+25351.184796/2022-17
+
+--------------------------------------
+
+YAHWEH SHAMMAH INDUSTRIA, COMÉRCIO, IMPORTAÇÃO E EXPORTAÇÃO DE COSMÉTICOS LTDA EPP/2.08877-9
+
+FACEBEAUTIFUL HIGIENIZADOR DE PINCÉIS
+
+25351.826161/2018-12
+
+--------------------------------------
+
+VITA VERT IND. COM. DE COSMÉTICOS LTDA/2.02088-5
+
+HIGIENIZADOR DE PINCEIS CHEIRINHO DE BEBÊ FONTANELLE
+
+25351.902936/2020-70
+
+HIGIENIZADOR DE PINCEIS MELANCIA FONTANELLE/2.02088-5
+
+25351.902811/2020-40
+
+--------------------------------------
+
+VITORIA FACE COMERCIO DE COSMETICOS LTDA/4.01181-5
+
+GEL HARD OIL
+
+25351.786589/2021-11

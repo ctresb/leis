@@ -1,0 +1,194 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.297, DE 27 DE AGOSTO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Segunda Diretoria/Gerência-Geral de Medicamentos e Produtos Biológicos"
+tipo: "Resolução"
+numero: "3297"
+data: 2020-08-27
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 31/08/2020, seção 1, p. 150"
+data_publicacao: 2020-08-31
+edicao: "167"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.297-de-27-de-agosto-de-2020-274892852"
+sha256_html_fonte: 8a273cf32eef5df108d0338692ec10dd8991037804b8692163fff3cffe9778b8
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 3.297, DE 27 DE AGOSTO DE 2020
+
+RESOLUÇÃO-RE Nº 3.297, DE 27 DE AGOSTO DE 2020
+
+O Gerente-Geral de Medicamentos e Produtos Biológicos, no uso das atribuições que lhe confere o art. 130, aliado ao art. 54, I, §1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º** Prorrogar por até 20 (vinte) dias do prazo original, no caso de petições prioritárias, e por até 60 (sessenta) dias do prazo original, no caso de petições ordinárias, nos termos do § 5º do art. 17-A da Lei nº 6.360, de 23 de setembro de 1976, o(s) prazo(s) para publicação de decisão referente às petições de pós-registro constantes no ANEXO.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+GUSTAVO MENDES LIMA SANTOS
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+NÚMERO DE EXPEDIENTE DATA DO PROTOCOLO
+
+----------------------------
+
+UNO HEALTHCARE COMÉRCIO DE MEDICAMENTOS LTDA. 13109151000124
+
+1984151205 22/06/2020
+
+----------------------------
+
+BRISTOL-MYERS SQUIBB FARMACÊUTICA LTDA 56998982000107
+
+2102656204 01/07/2020
+
+----------------------------
+
+GLAXOSMITHKLINE BRASIL LTDA 33247743000110
+
+2388340205 21/07/2020
+
+----------------------------
+
+MERCK SHARP & DOHME FARMACEUTICA LTDA 45987013000134
+
+2554888203 31/07/2020
+
+----------------------------
+
+ALEXION FARMACEUTICA BRASIL IMPORTACAO E DISTRIBUICAO DE PRODUTOS E SERVICOS DE ADMINISTRACAO 10284284000149
+
+0762369201 12/03/2020
+
+0762369201 12/03/2020
+
+0762369201 12/03/2020
+
+----------------------------
+
+CELLTRION HEALTHCARE DISTRIBUICAO DE PRODUTOS FARMACEUTICOS DOS BRASIL LTDA 05452889000161
+
+0829482208 18/03/2020
+
+0829482208 18/03/2020
+
+0829482208 18/03/2020
+
+----------------------------
+
+CSL BEHRING COMÉRCIO DE PRODUTOS FARMACÊUTICOS LTDA 62969589000198
+
+0789828202 13/03/2020
+
+0789838200 13/03/2020
+
+0789828202 13/03/2020
+
+0789838200 13/03/2020
+
+0789828202 13/03/2020
+
+0789838200 13/03/2020
+
+----------------------------
+
+GLAXOSMITHKLINE BRASIL LTDA 33247743000110
+
+0723288208 09/03/2020
+
+0723288208 09/03/2020
+
+0723288208 09/03/2020
+
+0750499203 11/03/2020
+
+0750572208 11/03/2020
+
+0750499203 11/03/2020
+
+0750572208 11/03/2020
+
+0750499203 11/03/2020
+
+0750572208 11/03/2020
+
+----------------------------
+
+MERCK S/A 33069212000184
+
+0840207208 19/03/2020
+
+0840205201 19/03/2020
+
+0840207208 19/03/2020
+
+0840205201 19/03/2020
+
+0840207208 19/03/2020
+
+0840205201 19/03/2020
+
+0979906201 31/03/2020
+
+----------------------------
+
+MERCK SHARP & DOHME FARMACEUTICA LTDA 45987013000134
+
+0723133204 09/03/2020
+
+0723133204 09/03/2020
+
+0723133204 09/03/2020
+
+0978107202 31/03/2020
+
+----------------------------
+
+NATULAB LABORATÓRIO S.A 02456955000183
+
+0873936206 23/03/2020
+
+----------------------------
+
+Samsung Bioepis br Pharmaceutical ltda. 24563776000188
+
+0762469207 12/03/2020
+
+0762469207 12/03/2020
+
+0762469207 12/03/2020
+
+0977885203 31/03/2020
+
+0977630203 31/03/2020
+
+0977882209 31/03/2020
+
+----------------------------
+
+SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA 61286647000116
+
+0977773203 31/03/2020
+
+0977897207 31/03/2020
+
+0977964207 31/03/2020
+
+----------------------------
+
+SANOFI MEDLEY FARMACÊUTICA LTDA. 10588595001092
+
+0802267204 16/03/2020
+
+0802267204 16/03/2020
+
+0802267204 16/03/2020
+
+----------------------------
+
+WYETH INDÚSTRIA FARMACÊUTICA LTDA 61072393000133
+
+0906588201 25/03/2020
+
+0906522209 25/03/2020

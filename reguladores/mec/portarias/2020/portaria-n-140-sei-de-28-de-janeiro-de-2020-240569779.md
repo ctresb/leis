@@ -1,0 +1,66 @@
+---
+titulo: "PORTARIA Nº 140-SEI, DE 28 DE JANEIRO DE 2020"
+orgao: "Ministério da Educação/Universidade Federal de Juiz de Fora/Reitoria/Pró-Reitoria de Gestão de Pessoas"
+tipo: "Portaria"
+numero: "140"
+data: 2020-01-28
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 30/01/2020, seção 1, p. 88"
+data_publicacao: 2020-01-30
+edicao: "21"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-140-sei-de-28-de-janeiro-de-2020-240569779"
+sha256_html_fonte: 689a489eec3103be3d3602625af7c9a75a89b23511a6b9726abf946751362b95
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 140-SEI, DE 28 DE JANEIRO DE 2020
+
+PORTARIA Nº 140-SEI, DE 28 DE JANEIRO DE 2020
+
+O Coordenador de Alocação e Movimentação de Pessoas no exercício da Pró-Reitoria de Gestão de Pessoas da Universidade Federal de Juiz de Fora (UFJF), no uso de suas atribuições e de suas competências delegadas através da Portaria nº 01, de 02/01/2017, resolve:
+
+**Art. 1º** Prorrogar por mais 1 (um) ano o prazo de vigência dos concursos públicos do Edital nº 38/2018-PROGEPE, de 15/10/2018, DOU de 19/10/2018, seção 3, Campi Juiz de Fora e Governador Valadares, homologado pela Portaria nº 253, de 15/02/2019, DOU de 20/02/2019, seção 1, para provimento do cargo de Professor da Carreira do Magistério Superior, conforme abaixo discriminado:
+
+A - CAMPUS JUIZ DE FORA
+
+1 - INSTITUTO DE ARTES E DESIGN
+
+1.1 - DEPTO. DE ARTES E DESIGN
+
+1.1.1 - Concurso 20 - Processo nº. 23071.018070/2018-13
+
+Classe A, Professor Assistente A, Nível 1 - Regime de Trabalho: DE
+
+1.1.2 - Concurso 21 - Processo nº. 23071.018071/2018-68
+
+Classe A, Professor Assistente A, Nível 1 - Regime de Trabalho: DE
+
+2 - INSTITUTO DE CIÊNCIAS BIOLÓGICAS
+
+2.1 - DEPTO. DE ZOOLOGIA
+
+2.1.1 - Concurso 23 - Processo nº. 23071.018089/2018-60
+
+Classe A, Professor Adjunto A, Nível 1 - Regime de Trabalho: DE
+
+3 - INSTITUTO DE CIÊNCIAS HUMANAS
+
+3.1 - DEPTO. DE CIÊNCIA DA RELIGIÃO
+
+3.1.1 - Concurso 24 - Processo nº. 23071.018029/2018-47
+
+Classe A, Professor Adjunto A, Nível 1 - Regime de Trabalho: DE
+
+B- CAMPUS GOVERNADOR VALADARES
+
+1 - INSTITUTO DE CIÊNCIAS DA VIDA
+
+1.1 - DEPTO. DE FISIOTERAPIA
+
+1.1.1 - Concurso 28 - Processo nº. 23071.017180/2018-68
+
+Classe A, Professor Adjunto A, Nível 1 - Regime de Trabalho: DE
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação.
+
+RAFAEL LUCAS DA SILVA SANTOS

@@ -1,0 +1,32 @@
+---
+titulo: "RESOLUÇÃO Nº 482, DE 20 DE AGOSTO DE 2020"
+orgao: "Ministério da Agricultura, Pecuária e Abastecimento/Instituto Nacional de Colonização e Reforma Agrária/Superintendência Regional no Distrito Federal e Entorno/Comitê de Decisão Regional do Distrito Federal e Entorno"
+tipo: "Resolução"
+numero: "482"
+data: 2020-08-20
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 24/08/2020, seção 1, p. 2"
+data_publicacao: 2020-08-24
+edicao: "162"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-n-482-de-20-de-agosto-de-2020-273703488"
+sha256_html_fonte: 1611b38ab01651945909ccc0457171e158e74d2555a3d79fd0c6eee4b63ec50e
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO Nº 482, DE 20 DE AGOSTO DE 2020
+
+RESOLUÇÃO Nº 482, DE 20 DE AGOSTO DE 2020
+
+O COMITÊ DE DECISÃO REGIONAL - CDR, considerando o contido no Decreto n. 8.955, de 11 de janeiro de 2017, que aprovou a Estrutura Regimental do INCRA, com suporte no art. 10 c/c art. 12, do Regimento Interno da Autarquia, aprovado pela PORTARIA/INCRA/P/N. 338, de 09 de março de 2018, presidido pelo SUPERINTENDENTE REGIONAL DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA, NO DISTRITRO FEDERAL E ENTORNO - SR (28)DFE, este, nomeado pela PORTARIA/INCRA/P/Nº 598/2017, no uso das atribuições que lhe são conferidas pelos art. 98 c/c art. 115, do Regimento Interno dessa Autarquia;
+
+Considerando a reunião do Comitê de Decisão Regional - CDR, havida na data de 17(dezessete) de agosto de 2020;
+
+Considerando o contido no Processo nº 54700.001427/2000-11, Interessado: ADVO RODRIGUES DE AGUIAR, Assunto: Baixa das condições resolutivas do Título de Domínio, decide:
+
+**Art. 1º** decide, por unanimidade, autorizar a emissão de Certidão de Baixa das condições resolutivas do Título de Domínio TD Nº004100000139 parcela nº 10 do Projeto de Assentamento Terra Conquistada localizado no Município de Água Fria/GO, em favor dos beneficiários Elzi Gomes de Aguiar CPF Nº 289.732.321-34 e Advo Rodrigues de Aguiar CPF Nº 284.968.331-00.
+
+**Art. 2º** Esta Resolução entra em vigor a partir de sua publicação.
+
+IGOR SOARES LELIS
+
+Presidente do Comitê

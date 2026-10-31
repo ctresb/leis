@@ -1,0 +1,58 @@
+---
+titulo: "PORTARIA Nº 55, DE 21 DE JANEIRO DE 2021"
+orgao: "Ministério da Educação/Secretaria de Regulação e Supervisão da Educação Superior"
+tipo: "Portaria"
+numero: "55"
+data: 2021-01-21
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 22/01/2021, seção 1, p. 42"
+data_publicacao: 2021-01-22
+edicao: "15"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-55-de-21-de-janeiro-de-2021-300167147"
+sha256_html_fonte: 7acf1f59d5be21634571d48a63594372dee2df262b665c7440aa984618804831
+baixado_em: 2026-10-20
+---
+# PORTARIA Nº 55, DE 21 DE JANEIRO DE 2021
+
+PORTARIA Nº 55, DE 21 DE JANEIRO DE 2021
+
+O SECRETÁRIO DE REGULAÇÃO E SUPERVISÃO DA EDUCAÇÃO SUPERIOR, no uso da atribuição que lhe confere o Decreto nº 10.195, de 30 de dezembro de 2019, resolve:
+
+**Art. 1º** Ficam Deferidos, em grau recursal, os requerimentos de Concessão/Renovação do Certificado de Entidade Beneficente de Assistência Social das entidades elencadas no Anexo I, conforme análise contida nas respectivas Notas Técnicas.
+
+**Art. 2º** Sem prejuízo do prazo de validade da certificação, as entidades certificadas deverão apresentar ao Ministério da Educação o Relatório Anual previsto no art. 36 do Decreto nº 8.242, de 23 de maio de 2014, relativo aos serviços que houverem sido prestados à sociedade.
+
+**Art. 3º** As entidades certificadas deverão zelar pela manutenção do cumprimento dos requisitos legais que ensejaram o deferimento da certificação, bem como dar ampla publicidade de condição de entidade detentora do CEBAS nos termos estabelecidos nos art. 67 e 68 da Portaria Normativa nº 15/2017, sob pena de cancelamento do certificado.
+
+**Art. 4º** Esta Portaria entra em vigor na data de sua publicação.
+
+DANILO DUPAS RIBEIRO
+
+## ANEXO I
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>CNPJ</p></td>      <td rowspan="1" colspan="1"><p>Nome da Entidade</p></td>      <td rowspan="1" colspan="1"><p>Local</p></td>      <td rowspan="1" colspan="1"><p>Nº do Processo</p></td>      <td rowspan="1" colspan="1"><p>Nota Técnica</p></td>      <td rowspan="1" colspan="1"><p>Tipo (Concessão/Renovação)</p></td>      <td rowspan="1" colspan="1"><p>Período de Certificação</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>06.845.408/0001-40</p></td>      <td rowspan="1" colspan="1"><p>ASSOCIACAO NORTE BRASILEIRA DE EDUCACAO E ASSISTENCIA SOCIAL - ANBEAS</p></td>      <td rowspan="1" colspan="1"><p>Teresina/PI</p></td>      <td rowspan="1" colspan="1"><p>23000.012375/2015-11</p></td>      <td rowspan="1" colspan="1"><p>137/2020</p></td>      <td rowspan="1" colspan="1"><p>Renovação</p></td>      <td rowspan="1" colspan="1"><p>01/12/2015 a 30/12/2018</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>2</p></td>      <td rowspan="1" colspan="1"><p>53.417.887/0001-84</p></td>      <td rowspan="1" colspan="1"><p>ASSOCIACAO DAS MULHERES PELA EDUCACAO</p></td>      <td rowspan="1" colspan="1"><p>Osasco/SP</p></td>      <td rowspan="1" colspan="1"><p>71000.052486/2015-02</p></td>      <td rowspan="1" colspan="1"><p>132/2020</p></td>      <td rowspan="1" colspan="1"><p>Renovação</p></td>      <td rowspan="1" colspan="1"><p>11/05/2015 a 10/05/2018</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>3</p></td>      <td rowspan="1" colspan="1"><p>44.943.835/0001-50</p></td>      <td rowspan="1" colspan="1"><p>ACAO EDUCACIONAL CLARETIANA</p></td>      <td rowspan="1" colspan="1"><p>Batatais/SP</p></td>      <td rowspan="1" colspan="1"><p>23000.015553/2015-57</p></td>      <td rowspan="1" colspan="1"><p>144/2020</p></td>      <td rowspan="1" colspan="1"><p>Renovação</p></td>      <td rowspan="1" colspan="1"><p>01/01/2016 a 31/12/2018</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>4</p></td>      <td rowspan="1" colspan="1"><p>56.895.238/0001-87</p></td>      <td rowspan="1" colspan="1"><p>LAR ESCOLA ESPIRITA PROFESSOR EURIPEDES BARSANULFO</p></td>      <td rowspan="1" colspan="1"><p>Sertãozinho/SP</p></td>      <td rowspan="1" colspan="1"><p>23000.005857/2015-14</p></td>      <td rowspan="1" colspan="1"><p>125/2020</p></td>      <td rowspan="1" colspan="1"><p>Concessão</p></td>      <td rowspan="1" colspan="1"><p>3 (três) anos</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>5</p></td>      <td rowspan="1" colspan="1"><p>08.009.235/0001-56</p></td>      <td rowspan="1" colspan="1"><p>EDUCANDARIO NOSSA SENHORA DAS VITORIAS</p></td>      <td rowspan="1" colspan="1"><p>Assú/RN</p></td>      <td rowspan="1" colspan="1"><p>23000.004266/2015-11</p></td>      <td rowspan="1" colspan="1"><p>130/2020</p></td>      <td rowspan="1" colspan="1"><p>Renovação</p></td>      <td rowspan="1" colspan="1"><p>01/01/2016 a 31/12/2018</p></td>     </tr>    </tbody>   </table>
+
+PORTARIA Nº 56, DE 21 DE JANEIRO DE 2021
+
+O SECRETÁRIO DE REGULAÇÃO E SUPERVISÃO DA EDUCAÇÃO SUPERIOR, no uso da atribuição que lhe confere o Decreto nº 10.195, de 30 de dezembro de 2019, resolve:
+
+**Art. 1º** Ficam Deferidos, em grau recursal, os requerimentos de Concessão/Renovação do Certificado de Entidade Beneficente de Assistência Social das entidades elencadas no Anexo I, conforme análise contida nas respectivas Notas Técnicas.
+
+**Art. 2º** Serão arquivados os processos relacionados no Anexo II, nas hipóteses previstas no art. 59 do Decreto nº 8.242, de 2014, e/ou no art. 24, § 3º, da Lei 12.101, de 27 de novembro de 2009.
+
+**Art. 3º** Sem prejuízo do prazo de validade da certificação, as entidades certificadas deverão apresentar ao Ministério da Educação o Relatório Anual previsto no art. 36 do Decreto nº 8.242, de 23 de maio de 2014, relativo aos serviços que houverem sido prestados à sociedade.
+
+**Art.4º** As entidades certificadas deverão zelar pela manutenção do cumprimento dos requisitos legais que ensejaram o deferimento da certificação, bem como dar ampla publicidade de condição de entidade detentora do CEBAS nos termos estabelecidos nos art. 67 e 68 da Portaria Normativa nº 15/2017, sob pena de cancelamento do certificado.
+
+**Art. 5º** Esta Portaria entra em vigor na data de sua publicação.
+
+DANILO DUPAS RIBEIRO
+
+## ANEXO I
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>CNPJ</p></td>      <td rowspan="1" colspan="1"><p>Nome da Entidade</p></td>      <td rowspan="1" colspan="1"><p>Local</p></td>      <td rowspan="1" colspan="1"><p>Nº do Processo</p></td>      <td rowspan="1" colspan="1"><p>Nota Técnica</p></td>      <td rowspan="1" colspan="1"><p>Tipo (Concessão/Renovação)</p></td>      <td rowspan="1" colspan="1"><p>Período de Certificação</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>72.700.347/0001-58</p></td>      <td rowspan="1" colspan="1"><p>SOCIEDADE CASA DA CRIANCA DE TUPI PAULISTA</p></td>      <td rowspan="1" colspan="1"><p>Tupi Paulista/SP</p></td>      <td rowspan="1" colspan="1"><p>23000.001386/2017-29</p></td>      <td rowspan="1" colspan="1"><p>351/2020</p></td>      <td rowspan="1" colspan="1"><p>Renovação</p></td>      <td rowspan="1" colspan="1"><p>01/01/2015 a 31/12/2019</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>2</p></td>      <td rowspan="1" colspan="1"><p>19.138.718/0001-77</p></td>      <td rowspan="1" colspan="1"><p>CRECHE LAR CRISTAO DA CRIANÇA</p></td>      <td rowspan="1" colspan="1"><p>Belo Horizonte/MG</p></td>      <td rowspan="1" colspan="1"><p>23000.023832/2016-75</p></td>      <td rowspan="1" colspan="1"><p>350/2020</p></td>      <td rowspan="1" colspan="1"><p>Concessão</p></td>      <td rowspan="1" colspan="1"><p>3 (três) anos</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>3</p></td>      <td rowspan="1" colspan="1"><p>51.359.321/0001-18</p></td>      <td rowspan="1" colspan="1"><p>CIDADE DA IMACULADA</p></td>      <td rowspan="1" colspan="1"><p>Olímpia/SP</p></td>      <td rowspan="1" colspan="1"><p>23000.006761/2016-46</p></td>      <td rowspan="1" colspan="1"><p>347/2020</p></td>      <td rowspan="1" colspan="1"><p>Renovação</p></td>      <td rowspan="1" colspan="1"><p>29/12/2014 a</p><p>28/12/2019</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>4</p></td>      <td rowspan="1" colspan="1"><p>59.021.410/0001-61</p></td>      <td rowspan="1" colspan="1"><p>ASSOCIACAO BATISTA BENEFICENTE E ASSISTENCIAL ABBA</p></td>      <td rowspan="1" colspan="1"><p>Campinas/SP</p></td>      <td rowspan="1" colspan="1"><p>23000.024533/2017-39</p></td>      <td rowspan="1" colspan="1"><p>311/2020</p></td>      <td rowspan="1" colspan="1"><p>Concessão</p></td>      <td rowspan="1" colspan="1"><p>3 (três) anos</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>5</p></td>      <td rowspan="1" colspan="1"><p>04.422.261/0001-50</p></td>      <td rowspan="1" colspan="1"><p>ASSOCIACAO DE PROMOCAO HUMANA E RESGATE DA CIDADANIA</p></td>      <td rowspan="1" colspan="1"><p>São Bernardo do Campo/SP</p></td>      <td rowspan="1" colspan="1"><p>23000.020530/2018-15</p></td>      <td rowspan="1" colspan="1"><p>325/2020</p></td>      <td rowspan="1" colspan="1"><p>Renovação</p></td>      <td rowspan="1" colspan="1"><p>30/07/2018 a 29/07/2021</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>6</p></td>      <td rowspan="1" colspan="1"><p>00.328.112/0001-76</p></td>      <td rowspan="1" colspan="1"><p>GRUPO DA FRATERNIDADE CICERO PEREIRA</p></td>      <td rowspan="1" colspan="1"><p>Brasília/DF</p></td>      <td rowspan="1" colspan="1"><p>23000.014704/2017-11</p></td>      <td rowspan="1" colspan="1"><p>191/2020</p></td>      <td rowspan="1" colspan="1"><p>Renovação</p></td>      <td rowspan="1" colspan="1"><p>30/04/2016 a 29/04/2019</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>7</p></td>      <td rowspan="1" colspan="1"><p>78.974.789/0001-79</p></td>      <td rowspan="1" colspan="1"><p>CENTRO OURO BRANCO DE ASSISTENCIA AO MENOR</p></td>      <td rowspan="1" colspan="1"><p>Londrina/PR</p></td>      <td rowspan="1" colspan="1"><p>23000.014133/2018-04</p></td>      <td rowspan="1" colspan="1"><p>176/2020</p></td>      <td rowspan="1" colspan="1"><p>Concessão</p></td>      <td rowspan="1" colspan="1"><p>3 (três) anos</p></td>     </tr>    </tbody>   </table>
+
+## ANEXO II
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="2"><p>CNPJ</p></td>      <td rowspan="1" colspan="1"><p>Nome da Entidade</p></td>      <td rowspan="1" colspan="1"><p>Local</p></td>      <td rowspan="1" colspan="1"><p>Nº do(s) Processo(s) Arquivado(s)</p></td>      <td rowspan="1" colspan="1"><p>Nota Técnica</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>19.138.718/0001-77</p></td>      <td rowspan="1" colspan="1"><p>CRECHE LAR CRISTAO DA CRIANÇA</p></td>      <td rowspan="1" colspan="1"><p>Belo Horizonte/MG</p></td>      <td rowspan="1" colspan="1"><p>23000.014319/2018-55,</p><p>23000.021898/2018-92 e 23000.029357/2018-11</p></td>      <td rowspan="1" colspan="1"><p>350/2020</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>2</p></td>      <td rowspan="1" colspan="1"><p>59.021.410/0001-61</p></td>      <td rowspan="1" colspan="1"><p>ASSOCIACAO BATISTA BENEFICENTE E ASSISTENCIAL ABBA</p></td>      <td rowspan="1" colspan="1"><p>Campinas/SP</p></td>      <td rowspan="1" colspan="1"><p>23000.012443/2019-67</p></td>      <td rowspan="1" colspan="1"><p>311/2020</p></td>     </tr>    </tbody>   </table>

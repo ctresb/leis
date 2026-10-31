@@ -1,0 +1,55 @@
+---
+titulo: "RETIFICAÇÃO"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: ""
+data: 2025-09-11
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 24/10/2025, seção 1, p. 346"
+data_publicacao: 2025-10-24
+edicao: "204"
+fonte: "https://www.in.gov.br/web/dou/-/retificacao-664875978"
+baixado_em: 2026-10-16
+---
+# RETIFICAÇÃO
+
+RETIFICAÇÃO
+
+Na Resolução - RE n° 3.511, de 11 de setembro de 2025, publicada no Diário Oficial da União n° 174, de 12 de setembro de 2025, Seção 1, págs. 193 e 194.
+
+Onde se lê:
+
+SANTANA NOGUEIRA COMERCIO DE MEDICAMENTOS LTDA / 54.027.673/0001-64
+
+25351.083923/2024-15 / 5.08027.7
+
+RUA NELSON MEIRA, 109 - ESTAÇÃO - 58807200 - SOUSA/PB
+
+COMÉRCIO: ALIMENTOS PERMITIDOS / COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE / PRODUTOS
+
+PARA SAÚDE (DISPOSITIVOS MÉDICOS)
+
+DISPENSAÇÃO DE MEDICAMENTOS, INCLUSIVE SUJEITOS A CONTROLE ESPECIAL
+
+PRESTAÇÃO DE SERVIÇOS FARMACÊUTICOS: -
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 1203702/25-6
+
+Leia-se:
+
+ABRANTES E ESTRELA COMERCIO DE MEDICAMENTOS LTDA / 54.027.673/0001-64
+
+25351.083923/2024-15 / 5.08027.7
+
+RUA NELSON MEIRA, 109 - ESTAÇÃO - 58807200 - SOUSA/PB
+
+COMÉRCIO: ALIMENTOS PERMITIDOS / COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE / PRODUTOS
+
+PARA SAÚDE (DISPOSITIVOS MÉDICOS)
+
+DISPENSAÇÃO DE MEDICAMENTOS, INCLUSIVE SUJEITOS A CONTROLE ESPECIAL
+
+PRESTAÇÃO DE SERVIÇOS FARMACÊUTICOS: -
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 1203702/25-6

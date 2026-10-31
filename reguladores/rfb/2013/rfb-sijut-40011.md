@@ -1,0 +1,34 @@
+---
+titulo: "Ato Declaratório Executivo Demac/RJO nº 3, de 6 de março de 2013"
+orgao: "Delegacia Especial da Receita Federal do Brasil de Maiores Contribuintes no Rio de Janeiro"
+tipo: "Ato Declaratório Executivo"
+numero: "3"
+data: "2013-03-06"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 07/03/2013, página 35"
+data_publicacao: "2013-03-07"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/40011/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/40011/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "40011"
+sha256_texto: "507de56e55f5b13bd1574b51635becef09355b2ef2ee524e8dc6f5fd0be9e414"
+baixado_em: "2026-10-21"
+---
+# Ato Declaratório Executivo Demac/RJO nº 3, de 6 de março de 2013
+
+Habilita a pessoa jurídica que menciona a operar no Regime Especial de Incentivos para o Desenvolvimento da Infraestrutura - REIDI, instituído pela Lei nº 11.488, de 15 de junho de 2007.
+
+O Titular da Delegacia Especial da Receita Federal do Brasil de Maiores Contribuintes - Demac/RJO, no uso da atribuição que lhe confere o inciso VI do artigo 302 combinado com inciso VI do artigo 314 ambos do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº. 203, de 14 de maio de 2012, com fundamento nos arts. 1º a 5º da Lei nº 11.488, de 15 de junho de 2007, no art. 4º e § 2 do art. 7º do Decreto nº 6.144, de 03 de julhode 2007, bem como nos art. 11 e 12 da Instrução Normativa RFB nº 758, de 25 de julho de 2007, e alterações posteriores e, tendo em vista o que consta no processo administrativo fiscal no. 16682.720073/2013-52, declara:
+
+**Art. 1º** Fica habilitada ao Regime Especial de Incentivos para o Desenvolvimento da Infraestrutura (REIDI) de que trata o art. 2º da Instrução Normativa RFB nº 758, de 25 de julho de 2007, a pessoa jurídica FURNAS CENTRAIS ELÉTRICAS S.A, CNPJ nº 23.274.194/0001-19.
+
+**Art. 2º** O presente ato aplica-se exclusivamente aos projetos de Reforços e Melhorias em Instalações de Transmissão de Energia Elétrica, da Subestação Ibiúna, conforme descrição contida no anexo da Portaria do Secretário de Planejamento e Desenvolvimento Energético do Ministério de Minas e Energia nº. 03, de 11 de janeiro de 2013, publicada no Diário Oficial da União de 14 de janeiro de 2013, Seção 1, página 68, identificado pelos processos ANEEL nº 48500.001019/2012-19 e MME nº 48000.002118/2012- 41
+
+**Art. 3º** A presente habilitação poderá ser cancelada de ofício sempre que se apure que o beneficiário não satisfazia ou deixou de satisfazer, ou não cumpria ou deixou de cumprir os requisitos para habilitação ao regime.
+
+**Art.4º** Este Ato Declaratório Executivo entra em vigor na data de sua publicação.
+
+GUILHERME OTÁVIO MONTEIRO GUIMARÃES Delegado

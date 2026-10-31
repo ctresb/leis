@@ -1,0 +1,3474 @@
+---
+titulo: "RESOLUÇÃO GECEX Nº 764, DE 25 DE JULHO DE 2025"
+orgao: "Presidência da República/Câmara de Comércio Exterior/Comitê-Executivo de Gestão"
+tipo: "Resolução"
+numero: "764"
+data: 2025-07-25
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 28/07/2025, seção 1, p. 26"
+data_publicacao: 2025-07-28
+edicao: "140"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-gecex-n-764-de-25-de-julho-de-2025-644486736"
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO GECEX Nº 764, DE 25 DE JULHO DE 2025
+
+RESOLUÇÃO GECEX Nº 764, DE 25 DE JULHO DE 2025
+
+Aplica direito antidumping definitivo, por um prazo de até 5 (cinco) anos, às importações brasileiras de tubos de aço inoxidável, originárias da Índia e Taipé Chinês.
+
+O COMITÊ EXECUTIVO DE GESTÃO DA CÂMARA DE COMÉRCIO EXTERIOR, no uso das atribuições que lhe conferem o art. 6º, inciso VI, do Decreto nº 11.428, de 02 de março de 2023, e o art. 2º, incisos VI e VIII, do Anexo IV da Resolução Gecex nº 480, de 10 de maio de 2023; bem como considerando as informações, razões e fundamentos presentes no Anexo Único da presente resolução e no Parecer DECOM SEI nº 1298/2025/MDIC, e o deliberado em sua 227ª Reunião Ordinária, ocorrida no dia 24 de julho de 2025, resolve:
+
+**Art. 1º** Encerra a investigação com aplicação de direito antidumping definitivo, por um prazo de até 5 (cinco) anos, às importações brasileiras de tubos com costura, de aços inoxidáveis austeníticos graus 304 e 316, de seção circular, com diâmetro externo igual ou superior a 6 mm e inferior a 2.032 mm, com espessura igual ou superior a 0,40 mm e igual ou inferior a 12,70 mm, comumente classificados nos subitens 7306.40.00 e 7306.90.20 da Nomenclatura Comum do Mercosul - NCM, originárias da Índia e Taipé Chinês, a ser recolhido sob a forma de alíquota específica fixada em dólares estadunidenses por tonelada, nos montantes abaixo especificados:
+
+| Origem | Produtor/Exportador | Direito Antidumping Definitivo (US$/t) |
+| --- | --- | --- |
+| Índia | Suncity Metals and Tubes Pvt. Ltd. | 1.207,06 |
+| Índia | Sun Mark Stainless Pvt. Ltd. | 397,42 |
+| Índia | Sunrise Stainless Private Limited | 397,42 |
+| Índia | Prakash Steelage Limited | 460,26 |
+| Índia | Hall Offshore Svcs Inc. | 397,42 |
+| Índia | Hindustan Inox Ltd. | 397,42 |
+| Índia | Mlti Private Limited | 397,42 |
+| Índia | Moonlight Tube Industries | 397,42 |
+| Índia | Nascent Pipe & Tubes | 397,42 |
+| Índia | Shri Kanha Stainless Pvt Limited | 397,42 |
+| Índia | Venus Pipes and Tubes Pvt. Ltd. | 397,42 |
+| Índia | Demais empresas indianas | 1.207,06 |
+| Taipé Chinês | Todos os produtores/exportadores | 1.258,77 |
+
+**§ 1º** A classificação tarifária a que se refere o art. 1º é meramente indicativa, não possuindo qualquer efeito vinculativo com relação ao escopo da medida antidumping.
+
+**§ 2º** O disposto no art. 1º não se aplica aos tubos com formato cônico.
+
+**Art. 2º** Torna públicos os fatos que justificaram as decisões contidas nesta Resolução, conforme consta do Anexo Único.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+GERALDO JOSÉ RODRIGUES ALCKMIN FILHO
+
+Presidente do Comitê
+
+ANEXO ÚNICO
+
+O processo de investigação da prática de dumping nas exportações para o Brasil de tubos com costura, de aços inoxidáveis austeníticos graus 304 e 316, de seção circular, com diâmetro externo igual ou superior a 6 mm e inferior a 2.032 mm, com espessura igual ou superior a 0,40 mm e igual ou inferior a 12,70 mm, comumente classificados nos subitens 7306.40.00 e 7306.90.20 da Nomenclatura Comum do MERCOSUL - NCM, originárias da Índia e Taipé Chinês, foi conduzido em conformidade com o disposto no Decreto nº 8.058, de 26 de julho de 2013. Seguem informações detalhadas acerca das conclusões sobre as matérias de fato e de direito a respeito da decisão tomada. Os documentos relativos ao procedimento administrativo foram acostados nos autos eletrônicos dos Processos SEI nº 19972.000223/2024-93 (restrito) e nº 19972.000224/2024-38 (confidencial).
+
+1 DA INVESTIGAÇÃO
+
+1.1 Do histórico
+
+1.1.1 Das investigações anteriores para Taipé Chinês e outras origens
+
+1\. As exportações para o Brasil de tubos de aço inoxidável austenítico, comumente classificadas nos subitens 7306.40.00 e 7306.90.20 da Nomenclatura Comum do Mercosul - NCM, foram objeto de investigações de dumping anteriores conduzidas pelo Departamento de Defesa Comercial (DECOM).
+
+2\. Em 29 de julho de 2013, publicou-se a Resolução CAMEX nº 59, de 24 de julho de 2013, que aplicou medida antidumping definitiva aplicada às importações brasileiras de tubos de aço inoxidável originárias da China e do Taipé Chinês.
+
+3\. Após cinco anos de vigência da medida, como resultado de revisão de final de período conduzida pelo DECOM, a Secretaria Especial de Comércio Exterior e Assuntos Internacionais publicou a Portaria SECINT nº 506, de 24 de julho de 2019, no D.O.U., prorrogando o direito antidumping definitivo aplicado às importações brasileiras de tubos de aço inoxidável originárias somente da China, na forma das alíquotas específicas a seguir:
+
+| Direito antidumping aplicado por meio da Resolução CAMEX nº 59, de 2013 e prorrogado pela Portaria SECINT nº 506, de 24 de julho de 2019 |  |  |
+| --- | --- | --- |
+| Origem | Produtor/Exportador | Direito Antidumping Definitivo (USD/t) |
+| China | Zhejiang Jiuli Hi-Tech Metals Co. Ltd. | 0,00 |
+|  | Huzhou Dingshang Stainless Steel Co. Ltd. | 405,46 |
+|  | Jiangsu Jaway Stainless Steel Products Co. Ltd | 405,46 |
+|  | Yong Metal Co. LimitedFujian Casey Stainless Steel Co. Ltd. | 405,46 |
+|  | Binic Magnet Co., Ltd. | 344,61 |
+|  | Froch Enterprise | 344,61 |
+|  | Maysky Trading Co., Limited | 344,61 |
+|  | Ningbo A.M.C.C Metal Products Co., Ltd. | 344,61 |
+|  | Zhejiang Jiuli Hi-Tech Metals Co., Ltd. | 344,61 |
+|  | Shanghai Binic Industrial Co., Ltd. | 344,61 |
+|  | Tianjin Ruijie Steel Pipe Co., Ltd. | 344,61 |
+|  | Weihai First Steel Co., Ltd. | 344,61 |
+|  | Yc Inox Co, Ltd. | 344,61 |
+|  | Demais | 405,46 |
+| Fonte: Portaria SECINT nº 506, de 24 de julho de 2019 |  |  |
+
+4\. Por seu turno, a Secretaria de Comércio Exterior publicou a Circular SECEX nº 44, de 24 de julho de 2019, encerrando a revisão da medida antidumping instituída pela Resolução CAMEX nº 59, de 24 de julho de 2013, sem prorrogação da medida antidumping originalmente imposta sobre as importações do Taipé Chinês.
+
+5\. Em 25 de julho de 2024, a SECEX iniciou nova revisão de final de período da medida antidumping aplicada às importações brasileiras de tubos de aço inoxidável austenítico, originários da China, por meio da Circular SECEX nº 34, de 24 de julho de 2024. A revisão em tela encontra-se em curso.
+
+6\. Ainda, as exportações de tubos de aço inoxidável austenítico originários da Malásia, da Tailândia e do Vietnã foram objeto de investigação, com posterior revisão de final de período, que culminou com a prorrogação de medida antidumping, na forma de alíquotas específicas fixadas nos montantes abaixo especificados, nos termos da Resolução GECEX nº 602, de 13 de junho de 2024:
+
+| País | Produtor/Exportador | Direito Antidumping Definitivo (USD/t) |
+| --- | --- | --- |
+| Malásia | Pantech Stainless & Alloy Industries Sdn Bhd | 233,99 |
+| Malásia | Demais | 740,02 |
+| Tailândia | Todos os produtores/exportadores | 747,56 |
+| Vietnã | Hoa Binh Production Trading Co., Ltd. (Inoxhoabinh Mill) | 888,27 |
+| Vietnã | Inox Hoa Binh Joint Stock Company (Inoxhoabinh Mill) | 888,27 |
+| Vietnã | Vinlong Stainless Steel (Vietnã) Co., Ltd. | 451,77 |
+| Vietnã | Oss Daiduong International Joint Stock Company | 806,14 |
+| Vietnã | Sonha International Corporation | 806,14 |
+| Vietnã | Sonha Ssp Vietnã Sole Member Co., Ltd. | 806,14 |
+| Vietnã | Tien Dat Trade Import & Export Company Limited | 806,14 |
+| Vietnã | Demais | 888,27 |
+| Fonte: Resolução GECEX nº 602, de 13 de junho de 2024 |  |  |
+
+1.2 Da petição
+
+7\. Em 31 de janeiro de 2024, a empresa Aperam Inox Tubos Brasil Ltda., doravante denominada Aperam Tubos ou peticionária, protocolou, no Sistema Eletrônico de Informações do Ministério do Desenvolvimento, Indústria, Comércio e Serviços (SEI), petição de início com o fim de investigar a existência de dumping, de dano à indústria doméstica e de nexo de causalidade entre ambos nas exportações de tubos de aço inoxidável, originárias da Índia e do Taipé Chinês, consoante o disposto no art. 37 do Regulamento Brasileiro. Os documentos confidenciais foram protocolados no Processo SEI nº 19972.000224/2024-38 (confidencial) e os documentos restritos foram protocolados no Processo SEI nº 19972.000223/2024-93 (restrito).
+
+8\. Em 19 de março de 2023, por meio dos Ofícios SEI nº 1803/2024/MDIC (versão restrita) e nº 1799/2024/MDIC (versão confidencial), solicitou-se à empresa Aperam Tubos o fornecimento de informações complementares àquelas constantes da petição, com base no § 2º do art. 41 do Regulamento Brasileiro. A peticionária apresentou tempestivamente as informações complementares requeridas, no prazo prorrogado para resposta.
+
+1.2.1 Das notificações sobre a petição instruída
+
+1.2.1.1 Índia
+
+9\. Em 3 de maio de 2024, em atendimento ao que determina o art. 47 do Decreto nº 8.058, de 2013, o governo da Índia foi notificado, por meio do Ofício SEI nº 2864/2024/MDIC, da existência de petição devidamente instruída, protocolada no DECOM, com vistas ao início de investigação de dumping de que trata o presente processo.
+
+1.2.1.2 Taipé Chinês
+
+10\. Em 3 de maio de 2024, em atendimento ao que determina o art. 47 do Decreto nº 8.058, de 2013, o Representante de Taipé Chinês no Brasil foi notificado, por meio do Ofício SEI nº 2865/2024/MDIC, da existência de petição devidamente instruída, protocolada no DECOM, com vistas ao início de investigação de dumping de que trata o presente processo.
+
+1.3 Do início da investigação
+
+11\. Tendo sido apresentados elementos suficientes que indicavam a existência de indícios suficientes de dumping nas exportações de tubos com costura de aço inoxidável da Índia e Taipé Chinês para o Brasil, e de dano à indústria doméstica decorrente de tal prática, foi elaborado o Parecer SEI nº 1857/2024/MDIC, de 6 de maio de 2024, recomendando o início da investigação.
+
+12\. Com base no parecer supramencionado, por meio da Circular SECEX nº 17, de 6 de maio de 2024, publicada no D.O.U. de 8 de maio de 2024, foi iniciada a investigação em tela.
+
+1.4 Das notificações de início da investigação e da solicitação de informações às partes
+
+13\. De acordo com o § 2º do art. 45 do Decreto nº 8.058, de 2013, foram identificados como partes interessadas, além da peticionária, os outros produtores nacionais (Marcegaglia do Brasil Ltda., Krominox Group, CSM Tube do Brasil Ltda. e Neolider Tubos e Conexões de Aço), os produtores/exportadores estrangeiros das origens investigadas que exportaram o produto objeto no período de investigação de dumping (outubro de 2022 a setembro de 2023 - P5), os importadores brasileiros do produto objeto da investigação em P5 e suas entidades de classe, e os governos da Índia e do Taipé Chinês.
+
+14\. Em atendimento ao estabelecido no art. 43 do Decreto nº 8.058, de 2013, os produtores/exportadores estrangeiros da Índia e Taipé Chinês e os importadores do produto objeto da investigação foram identificados por meio dos dados detalhados das importações brasileiras, fornecidos pela Receita Federal do Brasil - RFB, órgão do Ministério da Fazenda.
+
+15\. Em atendimento ao disposto no art. 45 do Decreto nº 8.058, de 2013, as partes interessadas identificadas foram notificadas do início da investigação em 8 de maio de 2024. Constou das referidas notificações o endereço eletrônico em que poderia ser obtida cópia da Circular SECEX nº 17, de 2024, que deu início à investigação.
+
+16\. Considerando o § 4º art. 45 do Regulamento Brasileiro, aos produtores/exportadores identificados e aos governos das origens sob análise foi encaminhado o endereço eletrônico no qual pôde ser obtido o texto completo não confidencial da petição que deu origem à investigação, bem como suas informações complementares.
+
+17\. Ademais, conforme disposto no art. 50 do Decreto nº 8.058, de 2013, foram encaminhados aos produtores/exportadores e aos importadores, nas mesmas notificações, os endereços eletrônicos nos quais poderiam ser obtidos os respectivos questionários, com prazo de restituição de trinta dias, contado a partir da data de ciência, em conformidade com a nota de rodapé 15 do Acordo sobre a Implementação do Artigo VI do Acordo Geral sobre Tarifas e Comércio 1994 constante da Ata Final que incorporou os resultados da Rodada Uruguai de Negociação Comerciais Multilaterais do GATT, promulgada pelo Decreto nº 1.355, de 30 de dezembro de 1994. Nos termos do § 3º do art. 45 do Regulamento Brasileiro, foi concedido o prazo de vinte dias, contado da data da publicação de início da investigação, para a apresentação de pedidos de habilitação de outras partes que se considerassem interessadas.
+
+1.5 Dos pedidos de habilitação como parte interessada
+
+18\. Em 23 de maio de 2024, após solicitação, a Associação Brasileira dos Processadores e Distribuidores de Aços Inoxidáveis (Aprodinox) foi habilitada como parte interessada no processo, nos termos do art. 45 do Decreto nº 8.058, de 2013.
+
+1.6 Do recebimento das informações solicitadas
+
+1.6.1 Dos produtores nacionais
+
+19\. A Aperam Tubos, a peticionária, apresentou suas informações na petição de início da presente investigação e na resposta ao pedido de informações complementares.
+
+20\. Não houve resposta ao questionário do produtor nacional por parte dos outros produtores do similar nacional.
+
+1.6.2 Dos importadores
+
+1\. As empresas importadoras Aço Inoxidável Artex Ltda. (Artex), Estaleiro Navship Ltda. (Navship), Ingatubos - Comércio de Impermeabilizantes e Hidráulica Ltda (Ingatubos), Intersteel Aços e Metais Ltda. (Intersteel) apresentaram a resposta ao questionário do importador no prazo prorrogado, após a devida solicitação para a extensão do prazo inicial concedido.
+
+22\. Os demais importadores não apresentaram resposta ao questionário do importador.
+
+1.6.3 Dos produtores/exportadores
+
+23\. Em razão do elevado número de produtores/exportadores de tubos com costura de aço inoxidável austenítico que exportaram o produto para o Brasil no período de análise de dano e tendo em vista o disposto no inciso II do art. 28 do Decreto nº 8.058, de 2013, foi efetuada seleção das empresas responsáveis pelo maior percentual razoavelmente investigável do volume de exportações da Índia e Taipé Chinês para o Brasil.
+
+24\. Dessa forma, foram selecionadas para responderem ao questionário do produtor/exportador as empresas Suncity Metals and Tubes Private Limited (Suncity) e Sun Mark Stainless Pvt. Ltd. (Sun Mark), da Índia, e as empresas YC Inox e Froch Enterprise Co. (Froch), de Taipé Chinês.
+
+25\. As empresas Suncity e Sun Mark, da Índia, e Froch, de Taipé Chinês, solicitaram tempestivamente a prorrogação do prazo para responderem ao questionário, tendo apresentado suas respostas dentro do prazo estendido, qual seja, 19 de julho de 2024. A empresa de Taipé Chinês YC Inox não respondeu ao questionário enviado pelo DECOM.
+
+26\. Ainda no tocante ao recebimento de informações de produtores/exportadores, informa-se que em 19 de junho de 2024 as empresas indianas relacionadas Prakash Steelage Limited (Prakash) e Seth Steelage Private Limited (Seth) apresentaram resposta conjunta e voluntária ao questionário do produtor/exportador. Juntamente com a resposta ao questionário, as empresas protocolaram as respectivas procurações de outorga de poderes de representação para os representantes legais no âmbito da presente investigação, no entanto, sem o devido apostilamento como demanda a legislação pátria para o assunto. As empresas pontuaram que a regularização dos documentos ocorreria dentro do prazo estipulado no parágrafo 6º da Circular SECEX nº 17, de 2024, que iniciou a presente investigação. Rememora-se o referido parágrafo na sequência:
+
+6\. A participação das partes interessadas no curso desta investigação de defesa comercial deverá realizar-se por meio de representante legal habilitado junto ao DECOM, por meio da apresentação da documentação pertinente no SEI. A intervenção em processos de defesa comercial de representantes legais que não estejam habilitados somente será admitida nas hipóteses previstas na Portaria SECEX nº 162, de 2022. A regularização da habilitação dos representantes que realizarem estes atos deverá ser feita em até 91 dias após o início da investigação, sem possibilidade de prorrogação. A ausência de regularização da representação nos prazos e condições previstos fará com que os atos a que fazem referência este parágrafo sejam havidos por inexistentes.
+
+27\. No dia 91 da presente investigação, qual seja, 7 de agosto de 2024, as empresas indianas Prakash e Seth apresentaram solicitação para submeterem os documentos de habilitação devidamente regularizados após o prazo de 91 dias do início da investigação em razão de "evento de força maior" que estaria acometendo a Índia naquele momento, impossibilitando "a ocorrência do procedimento notarial". A solicitação destacou que as empresas teriam já apresentado as procurações dentro do prazo legal estipulado, "restando apenas a formalidade do apostilamento". As empresas pontuaram que o apostilamento seria semelhante a formalidade do reconhecimento de firma e, nesse sentido, aportaram jurisprudências advindas do ordenamento jurídico brasileiro que evidenciaram sua flexibilização. Ademais, comprometeram-se a enviar os documentos apostilados tão logo fosse possível diante das condições climáticas no país. Ademais, constaram do documento de solicitação notícias veiculadas em jornais internacionais e locais sobre as fortes chuvas na Índia e no Paquistão. Conjuntamente com o pedido, foram enviadas cartas assinadas pelos ditos dirigentes das referidas empresas que corroborariam o conteúdo das procurações, bem como as dificuldades enfrentadas pelas empresas diante dos eventos climáticos gerados pelas monções na Índia; novamente as mesmas procurações já constantes dos autos, além de documentos societários que indicariam os poderes de representação do outorgante das procurações.
+
+28\. Cumpre destacar que em 8 de agosto de 2024, ou seja, no dia 92 da presente investigação, os documentos de habilitação da Prakash e Seth foram devidamente apresentados com os respectivos apostilamentos.
+
+29\. Desse modo, diante das considerações apresentadas pelas empresas e dos elementos probatórios aportados, que justificariam o protocolo dos documentos em momento posterior ao dia 91 da presente investigação, por motivos de força maior, considerou-se tempestiva a resposta conjunta apesentada pelas empresas em 19 de junho de 2024.
+
+30\. Após análise das respostas aos questionários, constatou-se a necessidade de solicitar esclarecimentos e informações complementares às respostas aos questionários das empresas respondentes. Nesse sentido, em 9 de agosto de 2024 (Ofício SEI nº 5332/2024/MDIC), em 13 de agosto de 2024 (Ofício SEI nº 5381/2024/MDIC) e em 21 de agosto de 2024 (Ofício SEI nº 5646/2024/MDIC) foram expedidos os referidos ofícios solicitando informações complementares à Suncity, Froch e Sun Mark, respectivamente. As empresas Suncity e Sun Mark solicitaram extensão de prazo para apresentação das informações complementares de forma tempestiva.
+
+31\. Cumpre informar que a Suncity e Sun Mark solicitaram prorrogação de prazo adicional para apresentação da resposta às informações complementares com a justificativa de terem sido afetadas pelas consequências das "fortes chuvas" ocorridas em toda a Índia em julho, agosto e setembro de 2024. Foi mencionado que seus colaboradores, responsáveis pela elaboração da resposta ao questionário, estariam em situação de vulnerabilidade ou possuiriam familiares nessa situação, o que tornaria "o processo de busca e integralização das informações complementares delongado". Desse modo, considerando a justificativa de "força maior" apresentada, bem como os elementos probatórios que embasariam a solicitação, prorrogou-se mais uma vez, por 5 dias, o prazo das empresas para apresentação da resposta às informações complementares.
+
+32\. As produtoras/exportadoras Suncity e Sun Mark encaminharam suas respectivas respostas dentro dos respectivos prazos prorrogados.
+
+33\. Em relação à Froch, empresa selecionada de Taipé Chinês, cumpre destacar que a empresa, em 30 de agosto de 2024, apresentou comunicação nos autos restritos informando ter realizado, em 28 de agosto de 2024, o protocolo da resposta às informações complementares ao questionário em processos diversos dos relativos à presente investigação. Conjuntamente com o comunicado, a empresa protocolou o que seria sua resposta às informações complementares, na forma de nova apresentação do questionário do produtor/exportador.
+
+34\. Diante dos fatos, enviou-se, em 30 de agosto de 2024, o Ofício SEI nº 5960/2024/MDIC, comunicando à empresa que, com base no disposto no*caput*do art. 170 do Decreto nº 8.058, de 26 de julho de 2013, a resposta ao questionário da Froch não seria juntada aos autos do processo em questão. O documento apontou como justificativa o conteúdo do art. 7º da Portaria SECEX nº162, de 6 de janeiro de 2022, que destaca ser de responsabilidade do usuário externo o correto protocolo dos documentos nos processos eletrônicos referentes às investigações de dumping e teceu considerações sobre o prazo concedido para a resposta às informações complementares ao questionário enviado a essa empresa ter expirado em 28 de agosto de 2024, não tendo sido solicitada sua extensão. Desse modo, o protocolo realizado em 30 de agosto de 2024 foi considerado intempestivo. O referido ofício acrescentou que os documentos protocolados extemporaneamente não atenderiam em seu conteúdo aos questionamentos do Ofício SEI nº 5381/2024/MDIC, que solicitou as informações complementares.
+
+35\. Ademais, repisou-se à Froch o conteúdo do parágrafo único do art. 179 do Decreto nº 8.058, de 2013, que dispõe que as partes interessadas serão igualmente notificadas de que, caso os dados e as informações solicitadas, devidamente acompanhados dos respectivos elementos de prova, não sejam fornecidos ou sejam fornecidos fora dos prazos estabelecidos, o DECOM poderá elaborar suas determinações preliminares ou finais com base nos fatos disponíveis, incluídos aqueles contidos na petição de início da investigação. Até a data considerada para o recebimento de informações para fins de elaboração da determinação preliminar, qual seja, o dia 16 de setembro de 2024, a empresa não se manifestou nos autos da investigação.
+
+36\. Diante da ausência de respostas válidas de questionários dos produtores/exportadores selecionados de Taipé Chinês, decidiu-se, após solicitação, por analisar a resposta voluntária apresenta pelas empresas indianas Prakash e Seth. Depois de analisada, constatou-se a necessidade de solicitar esclarecimentos e informações complementares. Nesse sentido, em 16 de setembro de 2024 (Ofício SEI nº 6414/2024/MDIC) foi expedido o referido ofício solicitando informações complementares às empresas. As empresas Prakash e Seth encaminharam sua resposta conjunta dentro do prazo prorrogado, após solicitação tempestiva. Cumpre informar que as referidas empresas também solicitaram uma segunda dilação de prazo com a justificativa de "força maior" em razão dos efeitos das chuvas na Índia. Após análise dos elementos probatórios apresentados, prorrogou-se por mais 5 dias o prazo das empresas para apresentação da resposta às informações complementares.
+
+1.7 Das verificações***in loco***
+
+1.7.1 Da indústria doméstica
+
+37\. Com base no § 3º do art. 52 do Decreto nº 8.058, de 2013, foi realizada verificação*in loco*nas instalações da Aperam Tubos, no período de 10 a 13 de junho de 2024, com o objetivo de confirmar e de obter mais detalhamento das informações prestadas por essa empresa no curso da investigação.
+
+38\. Foram cumpridos os procedimentos previstos no roteiro de verificação encaminhado previamente à empresa, tendo sido verificados os dados apresentados na petição e em suas informações complementares.
+
+39\. Foram consideradas válidas as informações fornecidas pela empresa ao longo da investigação, depois de realizadas as correções pertinentes, em especial nos dados de capacidade produtiva e resultado financeiro. Os indicadores da indústria doméstica constantes deste documento incorporam os resultados da verificação*in loco*na Aperam Tubos.
+
+40\. A versão restrita do relatório de verificação*in loco*consta dos autos restritos do processo e os documentos comprobatórios foram recebidos em base confidencial.
+
+1.7.2 Dos produtores/exportadores
+
+41\. Em conformidade com o § 1º do art. 52 do Decreto nº 8.058, de 2013, o governo da Índia foi notificado da realização de verificação*in loco*nas empresas produtoras/exportadoras Suncity, Sun Mark, Prakash e Seth, que apresentaram tempestivamente resposta ao questionário. O governo dos Emirados Árabes Unidos (EAU) também foi notificado em decorrência da realização de verificação em empresa de*trading company*relacionada à Sun Mark, denominada SMA Stainless LLC FZ (SMA), situada em Dubai - EAU.
+
+42\. Foram realizadas verificações*in loco*das informações apresentadas em resposta ao questionário do produtor/exportador e informações complementares das referidas empresas, nos termos do § 1º do art. 52 do Decreto nº 8.058, de 2013.
+
+43\. Por meio dos Ofícios SEI nº 6155/2024/MDIC e nº 6156/2024/MDIC, de 6 de setembro de 2024; e nº 6471/2024/MDIC, de 18 de setembro de 2024 solicitou-se anuência para que as referidas verificações*in loco*ocorressem nos períodos indicados na sequência:
+
+| Verificações in loco - produtores/exportadores estrangeiros |  |  |
+| --- | --- | --- |
+| Empresa | Local | Período |
+| Suncity | Jodhpur, Índia | 11 a 15 de novembro de 2024 |
+| Sun Mark | Ahmedabad, Índia | 18 a 22 de novembro de 2024 |
+| SMA | Dubai, EAU | 25 e 26 de novembro de 2024 |
+| Prakash | Mumbai, Índia | 9 a 13 de dezembro de 2024 |
+| Seth | Mumbai, Índia | 16 e 17 de dezembro de 2024 |
+| Elaboração: DECOM |  |  |
+
+44\. Registre-se que as empresas anuíram por meio de protocolo tempestivo nos autos.
+
+45\. As visitas foram realizadas nas datas acordadas e foram cumpridos os procedimentos previstos nos roteiros de verificação, encaminhados previamente às empresas, tendo sido verificados os dados apresentados nas respostas aos questionários e em suas informações complementares. Os dados dos produtores/exportadores constantes deste documento levam em consideração os resultados dessas verificações*in loco*.
+
+46\. As versões restritas dos relatórios de verificação*in loco*constam dos autos restritos do processo e os documentos comprobatórios foram recebidos em bases confidenciais.
+
+47\. As empresas indianas foram notificadas das considerações da autoridade investigadora acerca da utilização dos fatos disponíveis, tendo em conta os resultados das respectivas verificações*in loco*, bem como do prazo para protocolo de novas explicações. A Suncity foi notificada em 6 de janeiro de 2025, por intermédio do Ofício SEI nº 71/2025/MDIC, enquanto as empresas do Grupo Sun Mark (Sun Mark, Sunrise e SMA) e Prakash foram notificadas em 13 de fevereiro de 2025, respectivamente, pelos Ofícios SEI nº 1132/2025/MDIC e nº 1135/2025/MDIC. Apenas as duas últimas apresentaram considerações no prazo estabelecido, apresentadas no tópico seguinte.
+
+48\. No tocante à comunicação enviada para a Suncity, cumpre informar que foi indicado, nos termos do art. 50 c/c art. 179 do Decreto nº 8.058, de 2013, que por ocasião da notificação de início da investigação em epígrafe, o DECOM encaminhou às partes interessadas questionário especificando, pormenorizadamente, as informações necessárias à instrução do processo, os prazos e a forma pela qual tais informações deveriam estar estruturadas em suas respostas. Ademais, enfatizou-se que, nos termos do § 3º do art. 50 do Decreto nº 8.058, de 2013, o DECOM poderia utilizar-se da melhor informação disponível caso o produtor investigado não fornecesse as informações solicitadas, as fornecesse parcialmente ou criasse obstáculos à investigação, sendo que, nessas situações, o resultado poderia ser menos favorável ao produtor do que seria caso tivesse cooperado.
+
+49\. Tendo em vista os resultados da verificação*in loco*na Suncity, no período 11 a 13 de novembro de 2024, concluiu-se que a empresa não reportou adequadamente os dados de vendas para o mercado interno e de exportações para o Brasil, em desconformidade com o disposto no art. 180 do Decreto nº 8.058, de 2013.
+
+50\. Dessa forma, comunicou-se que a determinação final de dumping referente à empresa Suncity a ser emitida pelo DECOM, tanto em relação ao valor normal quanto ao preço de exportação, levaria em consideração os fatos disponíveis no que tange aos elementos citados.
+
+1.7.2.1 Das manifestações acerca da verificação***in loco***nos produtores/exportadores indianos
+
+1.7.2.1.1 Grupo Sun Mark
+
+51\. Em 13 de fevereiro de 2025, por meio do Ofício SEI nº 1132/2025/MDIC, as empresas do Grupo Sun Mark foram notificadas acerca do fato de as empresas não terem reportado adequadamente as despesas diretas de vendas (frete interno, manuseio e capatazias, frete e seguros internacionais), as quais teriam sido informadas líquidas de tributos, não tendo sido devidamente comprovada a recuperação dos referidos tributos, em desconformidade com o disposto no art. 180 do Decreto nº 8.058, de 2013. A comunicação em questão esclareceu que as informações reportadas relativas às despesas mencionadas não seriam totalmente desconsideradas pela autoridade investigadora, que buscaria avaliar como incluir os impostos incorridos pelos serviços prestados. Ademais, foi comunicado que a determinação final de dumping referente às empresas Sun Mark, Sunrise e SMA levaria em consideração os fatos disponíveis no que tange aos elementos supracitados.
+
+52\. A Sun Mark apresentou, tempestivamente, esclarecimentos e comentários acerca da decisão comunicada, em 24 de fevereiro de 2025.
+
+1\. A empresa destacou que a partir de 1º de julho de 2017, vários impostos sobre importação e impostos locais na Índia foram substituídos pelo "*Goods & Service Tax*" (GST). O GST é um imposto indireto abrangente, multietapas e baseado no destino, que permite o crédito do "*Input Tax Credit*" (ITC) para ser utilizado no pagamento do GST sobre vendas. Assim, a partir da referida data, o crédito total do GST pago (CGST, SGST e IGST) sobre bens e serviços está disponível. Foi indicado que existiriam três componentes do GST:
+
+-*Central Goods and Services Tax*(CGST): imposto cobrado pelo Governo Central sobre fornecimentos intraestaduais de bens e serviços regido pela Lei do CGST. O SGST também é cobrado sobre o mesmo fornecimento, mas é administrado pelo Governo Estadual. A Sun Mark apresentou extratos da Lei do GST e das Regras Centrais do GST de 2017;
+
+-*State Goods and Service Tax*(SGST): imposto cobrado pelo Governo Estadual sobre fornecimentos intraestaduais de bens e serviços regido pela Lei do SGST. O CGST também é cobrado sobre o mesmo fornecimento, mas é administrado pelo Governo Central. A Sun Mark apresentou extratos da Lei do GST do Estado de Gujarat e das Regras do GST do Estado de Gujarat de 2017; e
+
+-*Integrated Goods and Services Tax*(IGST): imposto cobrado pelo Governo Central sobre fornecimentos interestaduais de bens e serviços, regido pela Lei do IGST. Ele se aplica tanto a importações quanto a exportações. As disposições da Lei Central do imposto sobre bens e serviços relacionadas ao "*Input Tax Credit*" (ITC) também se aplicam ao IGST.
+
+54\. Quando a Sun Mark paga o GST na compra de bens ou serviços (despesas de venda, por exemplo), a contabilização é realizada líquida do imposto e o valor do GST é contabilizado como "*Input Tax Credit*" (ITC), considerado como ativo circulante e não como custo. As contas de CGST e SGST de insumos são registradas como ativos circulantes, pois o crédito do GST de insumos estaria disponível para uso futuro. Os livros razão de GST de insumos (*Input CGST*e*Input SGST*) são agrupados como "Adiantamentos Estatutários" na demonstração financeira auditada, ou seja, são contabilizados no balanço patrimonial e não como despesa ou receita no "*Profit & Loss*".
+
+55\. Quando a Sun Mark vende bens, ela recupera o GST do cliente, que deve ser depositado para o Governo da Índia. O GST recuperado nas vendas é creditado nos livros razão "*Output CGST 9%*" e "*Output SGST 9%*". Existem diferentes livros razão para o GST de saída com base em diferentes taxas de GST, bem como para o IGST. No final do mês, o*Output GST*recuperado nas vendas ou serviços é pago ao Governo da Índia utilizando o ITC disponível como ativo circulante. O ITC é considerado uma redução do GST a pagar, não uma despesa. Pontou-se, ademais, que as empresas indianas, como a Sun Mark, apresentam uma declaração mensal ao Governo da Índia, detalhando o "*Input GST*" reivindicado, o "*Output GST*" a pagar, a utilização do ITC e o comprovante bancário do valor pago do "*Output GST*" residual se houver. Portanto, o "*Input GST*" pago em despesas não foi/deve ser reportado conjuntamente com o valor da despesa nos apêndices de venda.
+
+56\. Ademais, foi destacado que a Sun Mark utilizou seu balancete completo do período de investigação de dumping para reportar todas as suas despesas, incluindo despesas diretas e indiretas, tais como despesas gerais e administrativas, financeiras ou despesas indiretas de vendas. Foi indicado que não haveria nenhuma conta contábil de despesa que não tenha sido considerada no questionário. Desse modo, enfatizou que criar uma despesa inexistente causaria distorções na contabilidade da empresa.
+
+57\. A Sun Mark destacou que o Acordo Antidumping (ADA) exigiria uma comparação justa entre o valor normal e o preço de exportação, ajustando para diferenças nos níveis de comércio e estruturas de custo. Exportações seriam isentas de impostos domésticos, e o mesmo princípio deveria ser aplicado às vendas domésticas para evitar assimetria injusta e distorção nos cálculos de margem de dumping. O Artigo 2.4 do ADA afirmaria que os preços devem ser comparados excluindo impostos que possam desequilibrar a comparação.
+
+58\. O questionário antidumping brasileiro não exige a apresentação de impostos indiretos sobre despesas nos bancos de dados de vendas domésticas ou de exportação. Portanto, o DECOM não deveria impor tal ônus na fase de verificação.
+
+59\. As despesas deveriam, no entendimento da empresa, seguir o mesmo princípio dos custos, excluindo impostos indiretos, para garantir consistência lógica. Comparar custos sem impostos com despesas inclusivas de impostos distorceria o teste abaixo do custo e prejudicaria a integridade da determinação da margem de dumping.
+
+60\. Ao citar a prática das autoridades investigadoras dos Estados Unidos da América, da União Europeia e da China, a Sun Mark pontuou que nenhuma autoridade de defesa comercial no mundo exigiria que as empresas relatem impostos indiretos sobre despesas no reporte de dados de vendas domésticas e de exportação. Ademais, indicou que a prática atual estaria alinhada com o princípio de comparação justa da OMC, com a orientação do questionário sobre o reporte de custo de produção, com a necessidade de consistência com o teste de venda abaixo do custo e com as metodologias das principais autoridades de defesa comercial. Enfatizou-se que exigir que fossem reportados os impostos indiretos sobre despesas criaria inconsistências e distorções, além do fato de terem reportado todas as despesas em seu questionário.
+
+61\. Após as explicações, foi solicitado que o DECOM reconsiderasse o ofício de BIA e não revisasse as despesas diretas apresentadas.
+
+62\. Em 19 de março de 2025, a Sun Mark apresentou manifestação ao amparo do art. 60 do Regulamento Brasileiro. No documento, a produtora/exportadora indiana reiterou seus argumentos contra a dedução de impostos indiretos sobre despesas, apontando que isso criaria um descompasso com os demais dados sob investigação. A empresa solicitou que o DECOM não procedesse com essa dedução, pois o questionário do produtor/exportador não exigiria o reporte desses impostos, e a prática recente da autoridade não tem incluído essa exigência. Impostos indiretos não seriam despesas efetivas e seriam contabilizados em contas de passivo. Repisou, ademais, que todas as despesas efetivas teriam sido consideradas no cálculo das despesas gerais, administrativas, financeiras e indiretas de vendas.
+
+1.7.2.1.2 Prakash
+
+63\. Em 13 de fevereiro de 2025, por meio do Ofício SEI nº 1135/2025/MDIC, a empresas Prakash e Seth foram notificadas acerca do fato de a Seth não ter reportado adequadamente a "Característica 2: Norma do tubo" do CODIP e ambas não terem reportado adequadamente as despesas direta de vendas (armazenagem, frete interno, manuseio e capatazias, frete e seguros internacionais), as quais teriam sido informadas líquidas de tributos, não tendo sido devidamente comprovada a recuperação dos referidos tributos, em desconformidade com o disposto no art. 180 do Decreto nº 8.058, de 2013. A comunicação em questão esclareceu que as informações reportadas relativas às despesas mencionadas não seriam totalmente desconsideradas pela autoridade investigadora, que buscaria avaliar como incluir os impostos incorridos pelos serviços prestados. Ademais, foi comunicado que a determinação final de dumping referente às empresas Prakash e Seth levaria em consideração os fatos disponíveis no que tange aos elementos supracitados.
+
+64\. A Prakash apresentou, tempestivamente, esclarecimentos e comentários acerca da decisão comunicada, em 24 de fevereiro de 2025.
+
+65\. A manifestação destacou que durante a verificação*in loco*, teria sido explicado aos técnicos do DECOM que os tubos de aço inox fabricados pela Prakash seriam produzidos principalmente conforme a norma [CONFIDENCIAL], mas também podem ser comercializados conforme a norma [CONFIDENCIAL] devido à sobreposição entre essas normas. Foi pontuado que a norma [CONFIDENCIAL] possuiria mais requisitos de qualidade do que a [CONFIDENCIAL]. Tubos fabricados conforme normas superiores podem ser certificados conforme normas inferiores, fenômeno conhecido como dupla certificação, comum em diversos setores, incluindo petróleo e gás.
+
+66\. Assim, os tubos da Prakash atenderiam simultaneamente às normas [CONFIDENCIAL], comprovado por parecer técnico da CAEMA (Consultoria em Engenharia de Materiais) e análise dos certificados de qualidade disponibilizados ao DECOM durante a verificação*in loco*. Ademais, para comprovar a dupla certificação, foram apresentadas cartas de clientes da Seth, confirmando a qualidade dos tubos e a dupla certificação. Pontuou-se que isso justificaria os preços de exportação mais elevados dos tubos da Prakash.
+
+67\. A empresa indiana pontuou que todos os tubos exportados durante o período da investigação tiveram seu CODIP corretamente reportado. A decisão preliminar de aplicação da melhor informação disponível para a Característica 2 do CODIP ("Norma do tubo") deveria ser revista com base nas informações apresentadas. Caso contrário, solicitou-se que fossem utilizadas as informações da verificação*in loco*para determinar a melhor informação disponível.
+
+68\. No tocante ao segundo ponto elencado no ofício de informações disponíveis, a Prakash e Seth buscaram apresentar informações para comprovar a recuperação do imposto sobre bens e serviços (GST) e o valor recuperado, conforme informado nas demonstrações financeiras auditadas das empresas.
+
+69\. As empresas fornecem documentos para comprovar a recuperação do GST, incluindo: (i) instrumentos legais e explicações sobre os tributos GST, CGST, SGST e IGST; (ii) faturas de despesas com exportações e vendas domésticas, juntamente com lançamentos contábeis; (iii) planilhas em Excel e capturas de tela do sistema contábil Tally mostrando os saldos relatados em "Outros ativos circulantes"; e (iv) demonstrações financeiras auditadas mostrando a recuperação dos tributos.
+
+70\. No caso da Seth, foram reapresentadas faturas de despesas com exportações para o Brasil, que já haviam sido verificadas*in loco*com seus respectivos lançamentos contábeis. Foi indicado que as despesas foram registradas no "livro de despesas, enquanto o GST pago foi contabilizado nas contas*INPUT CGST@9%*,*INPUT SGST@9%*ou outros livros de GST", conforme a natureza da transação e as regras aplicáveis. Apontou-se, ademais, a partir da demonstração financeira da Seth, que o saldo seria agrupado em "Outros ativos circulantes - Saldo com autoridades governamentais".
+
+71\. No caso da Prakash, foram apresentadas faturas de despesas com vendas domésticas, verificadas*in loco*com seus respectivos lançamentos contábeis. De forma semelhante, foi indicado que as despesas foram registradas no "no livro de despesas, enquanto o GST pago é contabilizado no Input*IGST@5%*no Mecanismo Reverso ou em outros livros de GST", conforme a natureza da transação e as regras aplicáveis. O saldo seria agrupado em "Outros ativos circulantes - Saldo com autoridades estatutárias/governamentais", conforme as demonstrações financeiras auditadas.
+
+72\. A partir das explicações apresentadas, solicitou-se que o DECOM revise a decisão preliminar sobre a aplicação da melhor informação disponível para as despesas de venda, alegando que a recuperação dos tributos foi devidamente comprovada.
+
+73\. Na sequência, as empresas indianas pontuaram que o uso da melhor informação disponível nas despesas de venda das exportadoras Sun Mark e Suncity impactaria a metodologia de cálculo das margens de dumping das outras exportadoras não selecionadas. Fazendo menção ao Regulamento Brasileiro, a margem de dumping dessas empresas deveria ser calculada com base na média ponderada das margens de dumping dos exportadores selecionados, excluindo aqueles com margem zero ou*de minimis*. Além disso, conforme o Acordo Antidumping da OMC, não se deve incluir exportadores cujas margens foram calculadas com base na melhor informação disponível. Ao indicar a intenção de aplicar a melhor informação disponível para as despesas de venda da Sun Mark, ter-se-ia como resultado ajuste pontual na margem de dumping da empresa, que não deve ser usada como base de cálculo para outras exportadoras indianas não selecionadas.
+
+74\. Assim, como considerações finais, as empresas solicitaram que se reconsidere a aplicação da melhor informação disponível para a "Característica 2: Norma do tubo" dos tubos exportados pela Seth e para as despesas de vendas da Prakash e da Seth; além de utilização de metodologia alternativa para calcular o montante do direito antidumping das outras exportadoras indianas identificadas, conforme precedentes do DECOM, norma da OMC e jurisprudência do Órgão de Solução de Controvérsias da OMC.
+
+75\. Em sede de manifestações pré-nota técnica de fatos essenciais, ao amparo do art. 60 do Decreto nº 8.058, de 2013, as empresas indianas Prakash e Seth repisaram seus comentários em relação à necessidade de utilização de metodologia alternativa para calcular a margem de dumping das outras exportadoras indianas identificadas.
+
+1.7.2.2 Dos comentários do DECOM acerca das manifestações
+
+76\. Considerando os esclarecimentos apresentados, informa-se que os pedidos de ajuste das produtoras/exportadoras foram acatados no âmbito do cálculo da margem de dumping para fins de determinação final, conforme item 4.3.1.
+
+77\. As empresas Prakash e Seth indicaram que a utilização da melhor informação disponível para a produtora/exportadora Sun Mark impactaria o cálculo de eventual direito antidumping para as empresas identificadas, porém não selecionadas. Esclarece-se, a esse respeito, que, em que pese o envio de notificação com fulcro no art. 180 do Regulamento Brasileiro, o conteúdo dos ofícios enviados remete a ajustes pontuais de cálculo, sem que tenha havido alteração relevante dos dados reportados.
+
+78\. Ademais, o envio das comunicações visa a garantir a oportunidade de fornecimento pelas partes de explicações adicionais, nos termos do art. 181 do Decreto nº 8.058, de 2013.
+
+79\. Nesse sentido, as explicações pertinentes, inclusive das próprias empresas Prakash e Seth, foram devidamente consideradas e fundamentaram a reconsideração pelo DECOM quanto aos ajustes inicialmente comunicados. Isso posto, pontua-se que detalhamento quanto ao cálculo de eventual direito antidumping constará do parecer de determinação final da presente investigação.
+
+1.8 Da audiência
+
+80\. Em 7 de outubro de 2024, a Aprodinox e a produtora Prakash, em conjunto com a exportadora Seth, apresentaram, de forma tempestiva, pedido de audiência nos termos do art. 55, §1º do Decreto 8.058, de 2013.
+
+1\. Como temas a serem tratados em audiência, a Aprodinox elencou os seguintes:
+
+\- Escopo de análise do produto e definição da similaridade;
+
+\- Análise do comportamento das importações objeto da investigação;
+
+\- Indicadores da indústria e elementos da caracterização do dano à indústria doméstica;
+
+\- Conjuntura internacional e análise dos efeitos das importações sobre os preços da indústria doméstica; e
+
+\- Nexo de causalidade e outros fatores de não atribuição
+
+1\. Já as empresas indianas apresentaram a seguinte relação de temas:
+
+\- Escopo de análise do produto e definição da similaridade;
+
+\- Elementos da caracterização da prática de dumping nas importações brasileiras;
+
+\- Análise do comportamento das importações objeto da investigação;
+
+\- Indicadores da indústria e caracterização do dano à indústria doméstica;
+
+\- Conjuntura internacional e análise dos efeitos das importações sobre os preços da indústria doméstica; e
+
+\- Nexo de causalidade e fatores de não atribuição.
+
+83\. A Aperam Tubos, em 6 de novembro de 2024, apresentou manifestação indicando que os temas elencados para a audiência seriam genéricos, ao contrário do que determinaria o § 1º do art. 55 do Decreto nº 8.058, de 2013.
+
+84\. Em 8 de novembro de 2024, o DECOM expediu o Ofício Circular SEI nº 347/2024/MDIC solicitando que Aprodinox, Prakash e Seth detalhassem os temas a serem tratados na audiência, com vistas a garantir o contraditório e a ampla defesa de todas as partes interessadas do processo.
+
+85\. Em 21 de novembro de 2024 as referidas partes apresentaram, de forma detalhada, os tópicos a serem tratados em audiência.
+
+86\. Nos termos do Ofício Circular SEI nº 374/2024/MDIC e Ofícios nºs8186/2024/MDIC e 8187/2024/MDIC, de 29 de novembro de 2024, foi informado às partes interessadas a realização da mencionada audiência em 29 de janeiro de 2025, consoante art. 55 do Regulamento Brasileiro.
+
+87\. Dentro do prazo estabelecido, Sun Mark, Aperam Tubos e Ingatubos apresentaram suas considerações acerca dos temas que iriam tratar em audiência.
+
+88\. Dessa forma, realizou-se audiência no dia indicado, conforme previsto. Além de servidores da autoridade investigadora, participaram da audiência representantes das seguintes partes interessadas: Aprodinox, Aperam Tubos, Sun Mark/SMA, Prakash/Seth e Ingatubos.
+
+89\. Durante a audiência, as partes expuseram seus argumentos de acordo com os temas sugeridos previamente.
+
+90\. As partes interessadas reduziram a termo suas manifestações apresentadas na audiência tempestivamente e estas foram devidamente incorporadas neste documento, de acordo com os temas tratados.
+
+1.9 Da determinação preliminar e do direito provisório
+
+91\. A partir das análises desenvolvidas ao longo do Parecer SEI nº 3369/2024/MDIC, de 7 de novembro de 2024, foi possível concluir, preliminarmente, pela existência da prática de dumping nas exportações de tubos de aço inoxidável originárias da Índia e Taipé Chinês, e de dano à indústria doméstica decorrente de tal prática. Desse modo, foi proposta aplicação da medida antidumping provisória, nos termos do art. 66 do Decreto nº 8.058, de 2013, visando a impedir a ocorrência de dano no curso da investigação.
+
+92\. Cumpre informar que a determinação preliminar foi tornada pública por intermédio da Circular SECEX nº 67, de 22 de novembro de 2024, publicada no D.O.U. de 25 de novembro de 2024.
+
+93\. Em 12 de dezembro de 2024 foi publicada a Resolução GECEX nº 676, de 11 de dezembro de 2024, que aplicou direito antidumping provisório, por um prazo de até 6 (seis) meses, às importações brasileiras de tubos com costura, de aço inoxidável austenítico, dos graus 304 e 316, de seção circular, com diâmetro externo igual ou superior a 6 mm (1/4 polegada) e não superior a 2.032 mm (80 polegadas), com espessura igual ou superior a 0,40 mm e igual ou inferior a 12,70 mm, originárias da Índia e Taipé Chinês. A referida resolução foi retificada pelas Resoluções GECEX nº 689, de 27 de janeiro de 2025 (D.O.U. de 28 de janeiro de 2025) e nº 698, de 24 de fevereiro de 2025 (D.O.U. de 25 de fevereiro de 2025).
+
+1.9.1 Das manifestações acerca da determinação preliminar e da aplicação do direito antidumping provisório
+
+94\. Em 3 de setembro de 2024, a peticionária apresentou manifestação que embasaria solicitação de aplicação de direitos provisórios.
+
+95\. O documentou rememorou o art. 66 do Regulamento Brasileiro, que estabelece em seus incisos as condições de aplicação de direitos provisórios, e traçou paralelos entre tais condicionantes e a investigação em questão.
+
+96\. Nesse sentido, quanto ao inciso I, foi pontuado que a presente investigação foi iniciada de acordo com os dispositivos estabelecidos na Seção III do Capítulo V do Decreto nº 8.058, de 2013, por meio da publicação da Circular SECEX nº 17, de 2024, tendo sido dada a oportunidade adequada às partes interessadas para se manifestarem.
+
+97\. Em relação ao inciso II, a Aperam Tubos destacou que os elementos contidos no parecer de início, refletidos na circular de abertura da investigação, indicariam para uma determinação preliminar positiva de dumping, de dano à indústria doméstica e do nexo de causalidade entre ambos. Destacou-se que os indicadores da indústria doméstica já teriam sido objeto de validação pela autoridade investigadora e acredita-se que as informações relativas às importações e aos preços praticados pelos produtores/exportadores investigados ratificariam as análises realizadas para fins de abertura da investigação, conduzindo para uma determinação preliminar positiva de dumping, e do nexo de causalidade entre ambos entre tais importações e o dano sofrido pela empresa.
+
+98\. Acerca do constante no inciso II, a Aperam Tubos destacou sobre a "agressividade da prática de dumping por parte dos produtores/exportadores da Índia e do Taipé Chinês em suas vendas ao Brasil", a preços inferiores aos das demais origens, culminando no aumento do volume das importações investigadas em 73,8% de P1 para P5. A peticionária apontou que haveria uma "tendência de contínuo deslocamento da indústria doméstica do consumo nacional pelas importações" investigadas, a partir de "forte" redução nos preços praticados em tais importações, como verificado de forma clara de P4 para P5, que demonstrariam a relevância e a necessidade de aplicação de direitos provisórios a fim de se evitar o aprofundamento, ao longo da investigação, do dano sofrido pela indústria doméstica em decorrências dessas importações a preço de dumping.
+
+99\. Assim, solicitou-se, caso houvesse confirmação de determinação preliminar positiva de dumping, de dano à indústria doméstica e do nexo de causalidade entre ambos, que fossem estabelecidos direitos antidumping provisórios às importações de tubos de aço inoxidável objetos da investigação.
+
+100\. Nos dias 18 e 21 de outubro de 2024, respectivamente, as empresas indianas Sun Mark e Suncity apresentaram manifestação acerca do pedido de aplicação de medida antidumping provisória. Em decorrência do conteúdo ser extremamente similar, quase idêntico, as manifestações foram tratadas de forma conjunta.
+
+101\. As empresas indianas solicitaram que, caso fossem aplicados direitos provisórios, fossem utilizados todos os dados fornecidos em suas respostas às informações complementares aos respectivos questionários do produtor/exportador. Ademais, solicitaram que antes da aplicação de direitos provisórios fossem analisados outros fatores que possam estar causando dano à indústria doméstica.
+
+102\. Destacaram, ainda, a necessidade de uma análise individual das importações das origens investigadas, especialmente após a extinção do direito antidumping para Taipé Chinês em 2019. As empresas argumentaram que as importações de tubos de aço da China, que tiveram seus direitos antidumping reduzidos em 2019, poderiam estar causando dano à indústria doméstica dado o aumento significativo no volume de importações dessa origem durante o período investigado.
+
+103\. Em 24 de outubro de 2024, a Aprodinox apresentou manifestação acerca do pedido de aplicação de medida antidumping provisória. No documento foram destacados os requisitos para aplicação de medida antidumping provisória, de acordo com o Regulamento Brasileiro e, na sequência, foram apresentados os elementos que evidenciariam "a necessidade de uma maior dilação probatória".
+
+104\. Em relação a tais elementos, foram apontados (as): (i) dúvidas sobre a definição do produto investigado e o similar doméstico, incluindo diferenças em tamanhos, acabamentos e especificações técnicas; (ii) questionamentos sobre a relação entre dumping e dano, sugerindo que outros fatores, como práticas de mercado da peticionária e competição entre produtores domésticos, poderiam estar contribuindo para o dano; (iii) análises das importações da Índia e Taipé Chinês, indicando que os volumes e preços não mostrariam um padrão claro de dumping; (iv) questionamentos sobre a representatividade da indústria doméstica, com base em dados estimados pela peticionária sem metodologia clara; e (v) argumento de que não haveria risco de dano durante a investigação, pois os volumes e preços das importações triam permanecidos estáveis.
+
+105\. Desse modo, a Aprodinox solicitou que direitos antidumping provisórios não fossem aplicados até que mais evidências fossem coletadas e analisadas e, caso aplicados, que fossem baseados nas informações mais atuais dos exportadores que colaboram com a investigação.
+
+106\. Em 5 de dezembro de 2024, a Sun Mark apresentou pedido de reconsideração acerca da margem de dumping calculada para a empresa apresentada na determinação preliminar (Parecer DECOM SEI nº 3369/2024/MDIC, de 07 de novembro de 2024), tornada pública por meio da Circular SECEX nº 67, de 2024. Tal pedido foi também apresentado no âmbito dos autos da presente investigação na mesma data.
+
+107\. As empresas Prakash e Seth também apresentaram pedido de reconsideração em relação à determinação preliminar de forma tempestiva.
+
+108\. Cumpre destacar que os referidos pedidos de reconsideração foram analisados e as respectivas apreciações constam das Resoluções GECEX nº 689, de 2025 e nº 698, de 2025. Por questões de economia processual, primando pelo princípio da eficiência, seus conteúdos e propósitos, já exauridos, não serão aqui abordados.
+
+109\. Em 19 de março de 2025, em manifestação anterior à nota técnica de fatos essenciais, a Aperam Tubos, em relação às alegações da Aprodinox sobre a representatividade da empresa como indústria doméstica, indicou que teria apresentado em sede de petição inicial estimativas de produção e vendas das demais produtoras com base em informações de mercado e uma carta de apoio da Marcegaglia com seus volumes efetivos. Rememorou que a autoridade investigadora teria enviado ofícios às possíveis produtoras e associações, mas recebeu respostas apenas da Abitam e Aprodinox, que não possuíam dados de produção e vendas dos produtores nacionais. Assim, teriam sido atendidos todos os critérios para que a petição fosse considerada como feita pela indústria doméstica ou em seu nome.
+
+1.9.2 Dos comentários do DECOM sobre as manifestações
+
+110\. Cumpre destacar que foram aplicadas medidas antidumping provisórias antes da apreciação das manifestações contrárias das partes em decorrência da data de corte utilizada para fins de determinação preliminar. Desse modo, as manifestações perderam seu objeto. Reforça-se entendimento de que a aplicação de medida antidumping provisória atendeu aos requisitos presentes na legislação.
+
+1.10 Da proposta de compromisso de preço e do posicionamento do DECOM acerca da proposta
+
+111\. Em 27 de fevereiro de 2025, as empresas indianas Prakash e Seth apresentaram oferta de compromisso de preço nos termos do art. 67 do Decreto nº 8.058, de 2013.
+
+112\. O termo de compromisso levaria em consideração a diferenciação de preços para tubos feitos com aços inoxidáveis de grau 304 e 316, considerando que o grau do aço é o fator mais importante na determinação de seu preço. Ademais, propôs-se ajuste de preços baseada na variação das principais matérias-primas (cromo, níquel e molibdênio) utilizando o índice da*London Metal Exchange*(LME).
+
+113\. De acordo com as empresas indianas, os preços sugeridos seriam significativamente maiores que os preços de exportação atualmente praticados por outros exportadores indianos, visando a neutralizar o dano alegado pela peticionária. Foi pontuado, ainda, que o termo atenderia às necessidades do mercado brasileiro, oferecendo uma fonte alternativa de fornecimento, especialmente considerando que outras origens, como a China, já estariam sujeitas a direitos antidumping.
+
+114\. Em 26 de março de 2025, o DECOM comunicou às empresas indianas, por intermédio do Ofício SEI nº 2078/2025/MDIC, sobre a recusa da oferta de compromisso de preços se valendo do disposto no § 10 do art. 67 do Decreto nº 8.058, de 2013. Foi pontuado que, embora tenha sido anexada tempestivamente pelas empresas, os ônus financeiros e operacionais, inclusive de recursos humanos, justificariam a recusa da proposta apresentada. A comunicação indicou, ademais, que a prerrogativa da autoridade investigadora quanto ao assunto seria delimitada pelo Artigo 8.3 do Acordo Antidumping, que estabelece que
+
+"Artigo 8.3. Compromissos de preços oferecidos pelos exportadores não precisam ser aceitos se as autoridades considerarem sua aceitação impraticável, por exemplo, se o número dos atuais ou potenciais exportadores for muito grande, ou por quaisquer outros motivos, incluindo razões de política geral da autoridade."
+
+**1.10.1 Das manifestações acerca da proposta de compromisso de preço**
+
+115\. Em manifestação apresentada em 19 de março de 2025, a Aperam Tubos, citando o inciso I do art. 345 da Portaria SECEX nº 171, de 2022, em contraposição à oferta de compromisso de preços apresentada pela Prakash e Seth, pontuou que o compromisso proposto seria limitado às exportações realizadas pela Seth, não englobando as exportações ao Brasil realizadas pela Prakash e nem por outras partes relacionadas dessas empresas.
+
+116\. Destacando os incisos VIII e IX do artigo supra, a proposta não atenderia aos mencionados dispositivos, uma vez que não teria sido apresentado memória de cálculo que embasasse a elaboração da proposto e nem comprovação de que o preço proposto seria suficiente para eliminar o dano causado à indústria doméstica. Ademais, o fato de se ter proposto preços alegadamente maiores que os praticados por outros produtores indianos não significaria que seriam suficientes para eliminar a prática de dumping e o dano causado à indústria doméstica, principalmente considerando que os preços praticados pelas demais produtoras indianas também estariam distorcidos pela prática de dumping. A peticionaria mencionou ter notado que os preços propostos não seriam condizentes com os valores de matérias-primas apresentados na construção do valor normal considerados na petição para fins de início da investigação.
+
+117\. Em menção ao § 2º do art. 344 da referida portaria, a Aperam Tubos a destacou que a determinação do valor normal das empresas Prakash e Seth consideraria a melhor informação disponível para alguns dados, ao menos. Ainda, considerando o art. 377 da norma supra, destacou-se que o prazo máximo para pagamento indicado na proposta não poderia ser excedido, pois, assim sendo, não seria prazo máximo. Ademais, não haveria embasamento para a adoção de percentual de redução do preço a ser praticado nos supostos casos de violação do prazo máximo estabelecido.
+
+118\. Diante do exposto, a peticionária solicitou que o compromisso de preços apresentado pelas empresas indianas fosse indeferido.
+
+119\. Ao amparo do art. 60 do Decreto nº 8.058, de 2013, as empresas indianas Prakash e Seth apresentaram manifestação por meio da qual repisaram elementos da proposta de compromisso de preço e solicitação sua aceitação.
+
+**1.10.2 Dos comentários de DECOM acerca das manifestações**
+
+120\. Conforme mencionado anteriormente, a proposta de compromisso de preços da Prakash e Seth foi recusada, por razões de política geral, de forma que seu conteúdo sequer fora avaliado.
+
+**1.11 Da prorrogação da investigação**
+
+121\. Dado o volume e a complexidade das informações apresentadas pelas partes interessadas, e em razão da necessidade de se validarem as informações prestadas, fez-se necessário prorrogar, por até oito meses, a partir de 7 de março de 2025, o prazo para conclusão da presente investigação. A prorrogação foi tornada pública pela Circular SECEX nº 67, de 22 de novembro de 2024, publicada no D.O.U. de 25 de novembro de 2024, que também divulgou no item 1.10 do anexo único os prazos que, serviriam de parâmetro para o restante da investigação, conforme arts. 59 a 63 do Decreto nº 8.058, de 2013, conforme segue:
+
+| Disposição legalDecreto nº 8.058, de 2013 | Prazos | Datas previstas |
+| --- | --- | --- |
+| art. 59 | Encerramento da fase probatória da investigação | 27 de fevereiro de 2025 |
+| art. 60 | Encerramento da fase de manifestação sobre os dados e as informações constantes dos autos | 19 de março de 2025 |
+| art. 61 | Divulgação da nota técnica contendo os fatos essenciais que se encontram em análise e que serão considerados na determinação final | 16 de abril de 2025 |
+| art. 62 | Encerramento do prazo para apresentação das manifestações finais pelas partes interessadas e encerramento da fase de instrução do processo | 6 de maio de 2025 |
+| art. 63 | Expedição, pelo DECOM, do parecer de determinação final | 26 de maio de 2025 |
+| Elaboração: DECOM |  |  |
+
+122\. As partes interessadas foram notificadas da referida publicação mediante o Ofício Circular SEI nº 374/2024/MDIC e Ofícios nºs8186/2024/MDIC e 8187/2024/MDIC, de 29 de novembro de 2024.
+
+1.12**Do encerramento da fase de instrução**
+
+1.12.1 Do encerramento fase probatória
+
+123\. Em conformidade com o disposto no*caput*do art. 59 do Decreto no 8.058, de 2013, a fase probatória da investigação foi encerrada em 27 de fevereiro de 2025.
+
+**1.12.2 Das manifestações sobre o processo**
+
+124\. Considerando o prazo estabelecido no art. 60 do Decreto nº 8.058, de 2013, em 19 de março de 2025 foi encerrada a fase de manifestação sobre os dados e as informações constantes dos autos. No prazo em questão, Aprodinox, Aperam Tubos, Sun Mark e Prakash apresentaram suas manifestações, as quais foram devidamente incorporadas neste documento, de acordo com os temas tratados.
+
+**1.12.3 Da divulgação dos fatos essenciais sob julgamento**
+
+125\. Com base no disposto no caput do art. 61 do Decreto nº 8.058, de 2013, foi disponibilizada às partes interessadas, em 16 de abril de 2025, a Nota Técnica DECOM SEI nº 730/2025/MDIC contendo os fatos essenciais sob julgamento que embasariam esta determinação final, conforme o art. 63 do mesmo Decreto.
+
+**1.12.4 Das manifestações finais**
+
+126\. De acordo com o estabelecido no parágrafo único do art. 62 do Decreto nº 8.058, de 2013, encerrou-se o prazo para manifestações finais no dia 6 de maio de 2025, portanto, 20 dias após a expedição da Nota Técnica de fatos essenciais. No transcurso do mencionado prazo, a peticionária, as empresas produtoras/exportadoras indianas Prakash/Seth e Sun Mark, e a associação Aprodinox apresentaram manifestações por escrito a respeito da referida nota técnica e dos elementos de fato e de direito que dela constam. Os pontos abordados pelas partes interessadas foram apresentados nos itens correlatos deste documento.
+
+**2 DO PRODUTO E DA SIMILARIDADE**
+
+2.1 Do produto objeto da investigação
+
+127\. O produto objeto da investigação são os tubos com costura, de aço inoxidável austenítico, dos graus 304 e 316, de seção circular, com diâmetro externo igual ou superior a 6 mm (1/4 polegada) e não superior a 2.032 mm (80 polegadas), com espessura igual ou superior a 0,40 mm e igual ou inferior a 12,70 mm, comumente classificados nos subitens 7306.40.00 e 7306.90.20 da Nomenclatura Comum do Mercosul (NCM), quando originários da Índia e Taipé Chinês.
+
+128\. As diversas microestruturas dos aços são função da quantidade dos elementos de liga presentes, existindo, basicamente, dois grupos de elementos de liga: os que estabilizam a austenita (Ni, C, N e Mn) e os que estabilizam a ferrita (Cr, Si, Mo, Ti e Nb), basicamente, dois grupos de elementos de liga: os que estabilizam a austenita (Ni, C, N e Mn) e os que estabilizam a ferrita (Cr, Si, Mo, Ti e Nb).
+
+1\. Os aços inoxidáveis são aqueles que contêm ferro-cromo (Fe-Cr) com pelo menos 10,5% de cromo e dividem-se em famílias, como:
+
+a) austeníticos, comumente de série 3XX ou 300, referentes a aços não magnéticos com estrutura cúbica de faces centradas, que contêm, basicamente, ligas de ferro, níquel e cromo na sua composição, sem prejuízo de poderem conter outros elementos; e
+
+b) ferríticos, comumente de série 4XX ou 400, correspondentes a aços magnéticos com estrutura cúbica de corpo centrado, que contêm, basicamente, ligas de ferro e cromo na sua composição, além de outros elementos possíveis, desprovidos de níquel e com características e aplicações bem específicas.
+
+130\. A adição de níquel como elemento de liga, em determinadas quantidades, permite transformar a estrutura ferrítica em austenítica, o que resulta em significativa alteração em diversas propriedades, como soldabilidade, resistência à corrosão e ductilidade.
+
+131\. Quanto ao processo de soldagem, nota-se que, na fabricação dos tubos de aço austenítico, são, comumente, empregadas solda Laser ou TIG (sigla para*Tungsten Inert Gas*), não sendo impeditivo a fabricação através de outros processos. Já os tubos de aço inoxidável ferrítico são, normalmente, fabricados por soldagem*High Frequency*(HF) sem adição de material, podendo, também, ser soldados por outros processos. A utilização de um ou outro tipo de soldagem depende, normalmente, da utilização que se pretende dar ao produto final, das normas de fabricação e das dimensões, como espessura. Além disso, a adição de material no processo de soldagem, prevista por algumas normas, não descaracteriza o produto objeto da investigação, nem prejudica a similaridade relativamente ao produto nacional.
+
+132\. Com efeito, os aços austeníticos são normalmente utilizados na indústria alimentícia, em aplicações criogênicas, ornamentais, aplicações em altas temperaturas, componentes náuticos, construção civil, equipamentos para indústrias químicas, petroquímicas, de açúcar e álcool, alimentícia, farmacêutica e de papel e celulose, baixelas e utensílios domésticos. Os ferríticos são, em geral, utilizados em sistemas de exaustão automotivo, cutelaria, eletrodomésticos, frigoríficos, sinalização visual (placas e fachadas).
+
+133\. Cada família é dividida em graus distintos, conforme a composição específica, implicando distintas utilizações. Internacionalmente, utiliza-se para a definição dos graus a nomenclatura do*American Iron and Steel Institute*(AISI) ou da*American Society for Testing and Materials*(ASTM). Os aços austeníticos investigados são de graus 304 e 316.
+
+134\. Segundo constou da petição, os tubos de aço inoxidável em referência são produzidos por conformação a frio de tiras, de chapas ou de bobinas de aço inoxidável austenítico, laminadas a quente e, quando necessário, a frio, e soldadas por processos elétricos automatizados na própria formação dos tubos. Produzidos, normalmente, com comprimentos de seis metros, podendo variar conforme o projeto. Os tubos devem apresentar superfície lisa e isenta de rebarbas, passando, para isso, por fases de acabamento. as quais podem variar conforme a aplicação para a qual se destinam esses tubos.
+
+135\. A peticionária indicou que, a despeito da superfície lisa, a apresentação de roscas nas extremidades dos tubos não os excluiria da definição de produto objeto da investigação. Além disso, pontuou que os tubos também podem passar por processo adicional de acabamento (escovamento ou polimento) além do realizado em linha, em diferentes graus (granas), com vistas a se obter determinada apresentação visual ao produto, o que, contudo, não impediria a substituição dos tubos entre si, servindo todos aos mesmos propósitos.
+
+136\. Com relação ao fato de que, para a fabricação do produto objeto da investigação, podem ser utilizadas tiras, chapas ou bobinas de aço inoxidável tanto apenas laminadas a quente como também aquelas laminadas a frio, pontua-se que a utilização de processo de laminação a frio posterior à laminação a quente dependerá de sua necessidade para se atingir menores espessuras que possam ser demandadas para a utilização que será dada a essas tiras, chapas ou bobinas. Com efeito, a necessidade de laminação a frio para atingir espessuras menores dependerá do próprio processo produtivo da produtora das tiras, chapas ou bobinas, vez que, por exemplo, determinado produtor pode obter produto de espessura de 1,50 mm laminado a quente, enquanto outro pode submeter o produto à laminação a frio para se atingir a mesma espessura de 1,50 mm.
+
+137\. Após questionamento, a peticionária informou que tubos com formato cônico não estariam dentro do escopo do produto objeto da investigação. Por outro lado, comunicou o entendimento de que os tubos utilizados na distribuição de gases em equipamentos, em sistemas de engrenagem de aeronaves, em mecanismos de limpadores de para-brisas e em produtos hidráulicos, tais como torneiras, estariam dentro do escopo do produto da presente investigação.
+
+138\. Os tubos objeto da investigação são fabricados com os tipos de aço enquadrados, principalmente, nas seguintes normas AISI: a) TP-304; b) TP-304L; c) TP-304H; d) TP-316; e) TP-316L; f) TP-316H; e g) TP-316Ti.
+
+139\. Ponderou-se, na petição, que, embora a AISI seja a norma mais usual, há outras normas que podem ser utilizadas, as quais têm correspondência na norma AISI, conforme se sumariza no quadro a seguir:
+
+| **Correspondências com a norma AISI - Grau 304** |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| **País** | Norma | Equivalências |  |  |
+| EUA | AISI | 304 | 304L | 304H |
+| EUA | ASTM/SAE | S30400 | S30403 | S30409 |
+| Alemanha | W.N. | 1.4301 1.4303 | 1.4307 1.4306 | 14.948 |
+| Alemanha | DIN 17707 | X5 CrNi 18 10 X5 CrNi 18 12 | X 2 CrNi 18 11 |  |
+| Espanha | UNE | X 6 CrNi 19-10 | X 2 CrNi 19-10 | X 6 CrNi 19-10 |
+| França | Afnor | Z 6 CN 18-09 | Z 2 CN 18-10 |  |
+| Grã-Bretanha | BSI | 304 S 31 304 S 15 | 304 S 11 | 304 S 51 |
+| Suécia | SIS | 2333 | 2352 |  |
+| União Europeia | Euronorm | X 6 CrNi 18 10 | X 3 CrNi 18 10 |  |
+| Japão | JIS | SUS 304 | SUS 304 L | SUS F 304 H |
+| Rússia | GOST | 08KH18N10 06KH18N11 | 03KH18N11 |  |
+| Fonte: Petição. |  |  |  |  |
+
+| Correspondências com a norma AISI - Grau 316 |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| País | Norma | Equivalências |  |  |
+| EUA | AISI | 316 | 316L | 316Ti |
+| EUA | ASTM/ SAE | S31600 | S31603 | S31635 |
+| Alemanha | W.N. | 1.4401 1.4436 | 14.404 | 14.571 |
+| Alemanha | DIN 17707 | X 5 CrNiMo 17 12 2 | X 5 CrNiMo 17 12 2 X 5 CrNiMo 17 13 3 | X 6 CrNiMoTi17 12 2 |
+| Espanha | UNE | X 6 CrNiMo 17-12-03 | X 6 CrNiMo 17-12-03 | X 6 CrNiMoTi 17-12-03 |
+| França | Afnor | Z 6 CND 17-11 Z 6 CND 17-12 | Z 2 CND 17-12 | Z6 CNDT 17-12 |
+| Grã-Bretanha | BSI | 316 S 31 316 S 33 | 316 S 11 | 320 S 31 |
+| Suécia | SIS | 2347 2343 | 2348 | 2350 |
+| União Europeia | Euronorm | X 6 CrNiMo 17 12 2 X 6 CrNiMo 17 12 3 | X 3 CrNiMo 17 12 2 X 6 CrNiMo 17 12 3 | X 6 CrNiMoTi 17 12 2 |
+| Japão | JIS | SUS 316 | SUS 316 L | SUS 316 Ti |
+| Rússia | GOST |  |  | 08KH17N13M2T 10KH17N13M2T |
+| Fonte: Petição. |  |  |  |  |
+
+140\. Informou-se que, após a indicação do grau "304" ou "316", outras denominações poderiam ser utilizadas, como 304N, 304LN, 316N, 316LN, 316H, sem, entretanto, implicar descaracterização da similaridade relativa aos produtos listados anteriormente.
+
+141\. Os tubos também podem ser produzidos, independentemente da norma AISI do tipo do aço, segundo qualquer das normas ASTM seguintes: a) A-249; b) A-269; c) A-270; d) A-312; e) A-358; f) A-409; g) A-554; e h) A-778.
+
+142\. Com efeito, as listas das principais normas técnicas utilizadas internacionalmente na comercialização de tubos de aço inoxidável não são exaustivas, vez que, em todo o mundo, há entidades normalizadoras similares ao AISI e à ASTM, passíveis de estabelecer normas e/ou regulamentos técnicos para o produto objeto da investigação.
+
+143\. Informou-se que, a despeito de não haver obrigatoriedade estabelecida, seja nacional ou internacionalmente, os produtores e os consumidores do produto se utilizam das referências aos graus estabelecidos nas normas AISI para definição das características de composição química do aço inoxidável, ou, então, os correspondentes graus de outras normas. Assim, normalmente, registros contábeis, documentos comerciais e marcações no produto indicam o grau do aço segundo a norma AISI ou normas correlatas.
+
+144\. Segundo a peticionária, a identificação do produto similar também pode ser realizada a partir de sua composição química, considerando os parâmetros estabelecidos nas citadas normas. Em geral, essa informação consta do certificado de qualidade, permitindo que seja verificado qual o grau do aço segundo a norma AISI ou correlacionada, mesmo que essa norma não seja expressamente indicada no certificado.
+
+145\. Pontuou-se que certos tubos sujeitos a algumas normas (ASTM A-249, A-269, A-270, A-312), após sua conformação e soldagem, devem passar por processo de tratamento térmico como forma de garantir suas características mecânicas e de resistência à corrosão.
+
+146\. No que tange aos usos e às aplicações dos tubos de aço inoxidável, houve destaque para o fato de o produto ter, por finalidade, a condução de fluidos, sendo utilizados em estrutura de equipamentos para indústrias de papel e celulose, química e petroquímica, açúcar e álcool, bebidas e alimentos, resistências elétricas e refrigeração, náuticos, indústria automobilística, bens de capital em geral e na construção civil.
+
+147\. Dada a altíssima capacidade de resistência desses tubos, são utilizados em ambientes corrosivos normalmente submetidos a picos de altas e baixas temperaturas, e, pelo apelo visual, também são largamente empregados na indústria de móveis e arquitetônica.
+
+148\. Dutos para transferência de produtos, caldeiras, trocadores de calor, como aquecedores, condensadores e refrigeradores, processadores de alimentos e quaisquer estruturas metálicas situadas em ambientes corrosivos e sistemas de instrumentação são exemplos de equipamentos que se utilizam de tubos de aço inoxidável.
+
+1\. Identificaram-se na petição, relativamente ao processo produtivo do produto objeto da investigação, as seguintes etapas principais:
+
+I. Recebimento da matéria-prima:fornecida em bobinas de aço inoxidável em pesos e larguras diversos;
+
+II.**Corte longitudinal das bobinas**: em função dos diâmetros e espessuras produzidos, varia-se a largura das fitas para o abastecimento das formadoras, ou perfiladeiras, de tubos. Para transformação das bobinas em fitas, utilizam-se cortadoras longitudinais de bobinas, denominadas*slitter*, processo esse executado via corte a frio por facas paralelas rotativas que são ajustadas de acordo com a espessura do material. A tesoura normalmente possui desbobinador de bobinas, cabeçote de corte,*looping*para compensação de variação do comprimento das tiras cortadas e embobinador de fitas.
+
+III.**Fabricação dos tubos**: para a transformação das fitas em tubos utilizam-se, normalmente, os seguintes processos:
+
+III.a.**Formação**: transformação das fitas planas em tubos, por processo contínuo por meio de rolos conformadores. A máquina, normalmente denominada perfiladeira, é composta por um conjunto de rolos formadores que tem a função de dobrar o material plano e transformá-lo em circular. Na sequência, há o conjunto de rolos*fin-pass*que conformam o material de modo a ficar o mais redondo possível, mantendo o arranjo das duas extremidades da fita em posição para soldagem.
+
+III.b.**Soldagem**: utilizam-se, comumente, os processos de soldagem por solda TIG, Plasma ou Laser. O conjunto é composto por pares de rolos e o cabeçote de soldagem, no qual é aplicada quantidade de energia suficiente para o aquecimento das bordas das fitas e, consequentemente, a fusão das mesmas.
+
+III.c.**Laminação do cordão de solda**: realizada no caso de tubos de aço inoxidável que atendam às normas A-249 e A-270, podendo, também, ser solicitadas esporadicamente por clientes no caso das normas A-269 e A-312. Por esse processo, o tubo é prensado entre mandril interno e rolo externo para homogeneização da espessura.
+
+IV.**Recozimento**: tratamento térmico realizado a partir do aquecimento dos tubos até a temperatura definida por norma para homogeneização dos tamanhos dos grãos da estrutura do aço, que foram alterados em função da conformação e da soldagem. Esse processo pode ser feito por forno de recozimento contínuo, chamado processo secundário, ou em linha, denominado*Bright Annealing*. Os tubos de aço inoxidável são aquecidos a temperatura acima de 1.040ºC e resfriados rapidamente em água, no caso forno de recozimento contínuo, ou pela passagem do tubo em câmara com hidrogênio, no caso do processo*Bright Annealing*.
+
+IV.a.**Após o recozimento contínuo**: realização dos seguintes processos:
+
+IV.a.i.**Endireitamento**: realizado em equipamento com conjuntos de rolos desalinhados propositadamente para que os tubos, após passarem pela máquina, estejam dentro das medidas de tolerância quanto ao empenamento longitudinal;
+
+IV.a.ii.**Decapagem química**: utilização de ácidos nítrico e fluorídrico para a remoção dos óxidos formados pelo aumento da temperatura durante o tratamento térmico. Os tubos são imersos na solução ácida e mantidos durante tempo pré-determinado. Retirados dos tanques de decapagem, são colocados em tanque para a neutralização da superfície dos tubos, feita com solução de água e soda cáustica e, posteriormente, lavados com água desmineralizada.
+
+IV.b.**Após *Bright Annealing***: normalmente são dispensáveis as operações de endireitamento e de decapagem química, embora o cliente possa solicitar a decapagem química mesmo nesses casos.
+
+O impacto mais relevante na rota produtiva é no*lead time*de produção, pois, no caso do*Bright Annealing*, o material pode ficar pronto na linha de conformação e soldagem, enquanto no recozimento sem atmosfera controlada (*off line*ou não), o material deve passar por outra etapa de produção. Também é possível a configuração de tratamento térmico em linha, porém sem a proteção de atmosfera, de forma que o tubo sai da linha tratado e reto, necessitando apenas de decapagem.
+
+V.**Escovamento em linha**: se necessário, após o processo de recozimento é utilizado um escovamento em linha com o uso de escovas rotativas.
+
+VI.**Inspeção dos tubos**: feita normalmente pelo processo*eddy-current*(equipamento que detecta problemas de porosidade, trincas e furos tanto no metal base quanto na solda), permitindo a detecção de problemas de furos passantes, defeitos internos e defeitos externos.
+
+VII.**Identificação dos tubos**: por impressão do tipo jato de tinta. No caso de tubos com acabamento polido, a marcação não ocorre, passando o tubo, em vez disso, pelo processo de polimento.
+
+VIII.**Escovamento adicional ou polimento**: quando o grau de acabamento (grana) requerido pelo cliente é superior ao realizado diretamente no processo de formação conforme descrito, um processo adicional é realizado em máquina dedicada (polidora). Este equipamento conta com um sistema de escovas e aplicação química (massa) para dar brilho ao produto. Uma vez realizado o polimento, o tubo é embalado de forma individual em plásticos e posteriormente com amarração com cintas é formado um fardo.
+
+IX.**Embalagem**: com formato padrão em sextavados, com a colocação de cintas de amarração e etiqueta de identificação do produto com os dados principais do pedido, norma, dimensões e quantidades do amarrado.
+
+150\. A peticionária informou desconhecer a existência de outra rota de produção dos tubos de aço inoxidável objeto desta investigação.
+
+151\. De acordo com a petição, o produto objeto da investigação seria vendido por intermédio dos seguintes canais de distribuição: vendas diretas para indústrias e consumidores finais ou, por meio de distribuidores, autorizados ou não, para usuários finais.
+
+**2.1.1 Dos produtores/exportadores da Índia**
+
+2.1.1.1 Do produto fabricado pela Suncity
+
+152\. De acordo com informações apresentadas em sua resposta ao questionário e que puderam ser confirmadas*in loco*, as plantas produtivas da Suncity que confeccionam os tubos de aço inoxidável com costura objeto do pleito e seus similares estão localizadas em Jodhpur, na província de Rajasthan, e na cidade de Mundra, em Gujarat. A empresa pontuou que fabrica outros tipos de tubos que não os inseridos no escopo da presente investigação.
+
+153\. De acordo com informações disponíveis no catálogo da empresa, os tubos de aço inoxidável com costura da Suncity seriam projetados para atender às necessidades de várias indústrias em diversos setores, tais como: indústrias químicas, farmacêuticas, moveleiras, usinas de açúcar, fabricação de equipamentos industriais, construção civil etc. Os tubos seriam fabricados com diâmetro externo variando entre 9,52 mm - 127 mm, consoante as normas ASTM A/SA 249, A269, SA789, DIN, EN, ASTM A554, nos graus 304/304L, 316/316L, 316TI, (EN 1.4462), 32750 (EN 1.4410) e 202, possuindo comprimento de até 12 metros e espessura entre 0,6 mm - 4,00 mm.
+
+154\. Em relação ao processo produtivo, de modo resumido, foram apontadas as seguintes etapas, a depender da planta produtiva:
+
+Mundra
+
+[CONFIDENCIAL]
+
+Jodhpur
+
+[CONFIDENCIAL]
+
+**2.1.1.2 Do produto fabricado pela Sun Mark**
+
+155\. A Sun Mark, a partir de informações extraídas de sua resposta ao questionário e que foram confirmadas durante verificação*in loco*, produz tubos de aço inoxidável circulares com costura, majoritariamente, e pequenas quantidades de conexões para tais tubos. Ademais, atua em processos de laminação a frio de chapas de aço inoxidável usadas principalmente na fabricação de utensílios.
+
+156\. Foi informado que a empresa indiana, bem como sua relacionada Sunrise, produziriam tubos com as seguintes especificações: tubos de aço inoxidável circulares com costura nas normas ASME/ASTM A249/A269/A554/A312/EN 10217-7, equivalentes aos padrões EN e DIN; nos graus de aço 304/304L e 316/316L/316Ti; diâmetro externo variando entre 12,70 mm e 406,40 mm; diâmetro interno nominal (NB): 3/8" até 16"; e espessura da parede entre 0,9 mm e 9,53 mm; SCH 5S/20/10S/40S. Ademais, a depender da norma solicitada, os tubos poderiam ser recozidos, decapados, alinhados e possuir algum tipo de acabamento superficial.
+
+157\. Foi evidenciado no catálogo de sua subsidiária que exporta o produto investigado para o Brasil que as principais matérias-primas para os tubos seriam bobinas laminadas a quente ou a frio de aço inoxidável. Ademais, a depender do tipo de tubo que se deseja produzir, duas rotas produtivas foram elencadas:
+
+Rota 1
+
+Inspeção de bobinas ou tirasàFormação de rolos e soldagemàRecozimento em soluçãoàEndireitamentoàCorteàDesbarramentoàDecapagem e alinhamentoàTeste e inspeçãoàMarcaçãoàEmbalagemàDespacho
+
+Rota 2
+
+Inspeção de bobinas ou tirasàFormação de rolos e soldagemàEndireitamentoàCorteàDesbarramentoàPolimentoàTeste e inspeçãoàMarcaçãoàEmbalagemàDespacho
+
+**2.1.1.3 Do produto fabricado pela Prakash**
+
+1\. De acordo com informações obtidas durante verificação*in loco*, bem como apresentadas em sua resposta ao questionário, os produtos fabricados pela Prakash, para consumo nos mercados interno e externo, sem distinção, possuem as seguintes características:
+
+\- a matéria-prima principal é o aço inoxidável laminado a quente ou a frio, a depender do tubo que se fabricar, em bobinas ou placas nos graus 304/304L ou 316/316L. O grau 304 normalmente contém 17,5-19,5% de cromo, 8-10,5% de níquel, 2% de manganês, 1% de silício, 0,11% de nitrogênio, 0,07% de carbono, 0,05% de fósforo e 0,03% de enxofre. Já o grau 316 é geralmente composto de 16 a 18% de cromo, 10 a 14% de níquel, 2 a 3% de molibdênio e uma pequena porcentagem de carbono. Foi indicado que os aços de graus 304L e 316L possuiriam características semelhantes aos de graus 304 e 316, respectivamente, mas com menor teor de carbono;
+
+\- os padrões de fabricação mais comuns para os produtos fabricados pela empresa seriam ASTM A312, ASTM A 249 (tubos soldados para trocadores de calor e "aplicações críticas", ASTM A269 (tubos soldados para aplicação geral), e ASTM A554 (tubos soldados polidos para aplicações estruturais).
+
+159\. Foi destacado que os tubos fabricados pela Prakash seriam majoritariamente utilizados nas indústrias de petróleo e gás, química, de fertilizantes, de papel e celulose, açucareira, além de "aplicações em processos" e fabricação de equipamentos.
+
+160\. Constam do catálogo da Prakash, em base restrita, fluxograma simplificado das duas rotas utilizadas pela empresa na fabricação de tubos com solda: com e sem enchimento de fio na solda TIG. Ademais, foi apresentado no questionário, em base confidencial, maior detalhamento dessas rotas, como segue:
+
+[CONFIDENCIAL]
+
+**2.1.2 Da classificação e do tratamento tarifário**
+
+161\. O produto objeto da investigação é normalmente classificado no subitem tarifário 7306.40.00 da NCM, que, embora se refira exclusivamente a tubos de seção circular, inclui produtos de outros graus de aço inoxidável que não os dos grupos 304 e 316, estando, portanto, excluídos do escopo da investigação.
+
+162\. Além disso, esse subitem inclui tubos de graus 304 e 316, com diâmetro externo inferior a 6 mm (1/4 polegadas) ou superior a 2.032 mm (80 polegadas) e/ou que possuam espessura inferior a 0,40 mm ou superior a 12,70 mm, igualmente excluídos do escopo da investigação.
+
+163\. Constou da petição que o produto objeto da investigação pode ser classificado no subitem e 7306.90.20 da NCM, que se refere a outros tubos de aço inoxidável.
+
+164\. As alíquotas do Imposto de Importação dos subitens tarifários 7306.40.00 e 7306.90.20 foram definidas em 14%, conforme Resoluções CAMEX nº 43/2006 e nº 94/2011. Contudo, tais alíquotas foram reduzidas temporariamente de 14% para 12,6%, em 12 de novembro de 2021, por meio da Resolução GECEX nº 269, de 4 de novembro de 2021, e para 11,2 %, até 31 de dezembro de 2023, por meio da Resolução GECEX nº 353, de 23 de maio de 2022, tendo por objetivo atenuar os efeitos dos choques de oferta causados pela pandemia e pela crise internacional na economia brasileira.
+
+165\. Cabe notar que, por meio da Resolução GECEX nº 391, de 23 de agosto de 2022, publicada no D.O.U. de 25 de agosto de 2022, que entrou em vigor a partir de 1º de setembro de 2022, a redução inicial de 10% estabelecida pela Resolução GECEX nº 269, de 2021, passou a ser definitiva. Na prática, entretanto, considerando a vigência da Resolução GECEX nº 353, de 2022, as alíquotas permaneceram reduzidas para 11,2 %, até 31 de dezembro de 2023.
+
+| **Tabela: TEC** |  |  |
+| --- | --- | --- |
+| NCM | DESCRIÇÃO | TEC a partir de maio de 2022 até dezembro de 2023 |
+| 73.06 | Outros tubos e perfis ocos (por exemplo, soldados, rebitados, grampeados ou com as bordas simplesmente aproximadas), de ferro ou aço |  |
+| 7306.40.00 | -Outros, soldados, de seção circular, de aço inoxidável | 11,2% |
+| 7306.90 | Outros |  |
+| 7306.90.20 | De aço inoxidável | 11,2% |
+| Fonte: Ministério do Desenvolvimento, Indústria, Comércio e Serviços Elaboração: DECOM |  |  |
+
+166\. Além disso, foram identificadas as seguintes preferências tarifárias:
+
+**Preferências tarifárias - Subposição 7306.40 da NCM**
+
+País beneficiado
+
+Acordo
+
+Preferência
+
+Argentina
+
+ACE14 - Brasil-Argentina
+
+Dentro do limite do*flex*\*: 100%
+
+Fora do limite do*flex*\*: 25%
+
+Argentina
+
+ACE18 -Mercosul
+
+100%
+
+Bolívia
+
+AAP.CE 36- Mercosul-Bolívia
+
+100%
+
+Chile
+
+AAP.CE35- Mercosul-Chile
+
+100%
+
+Colômbia
+
+ACE 59 - Mercosul-CAN
+
+ACE 72 - Mercosul - Colômbia
+
+100%
+
+60%
+
+Cuba
+
+ACE 62 - Mercosul-Cuba
+
+60%
+
+Egito
+
+Mercosul - Egito
+
+01/09/2020 - 40%
+
+01/09/2021 - 50%
+
+01/09/2022 - 60%
+
+01/09/2023 - 70%
+
+01/09/2024 - 80%
+
+01/09/2025 - 90%
+
+01/09/2026 - 100%
+
+Equador
+
+ACE 59 - Mercosul - Equador
+
+69%
+
+Paraguai
+
+ACE18 -Mercosul/ACE74 - Brasil-Paraguai
+
+100%
+
+Peru
+
+ACE 58 - Mercosul - Peru
+
+100%
+
+Uruguai
+
+ACE18 -Mercosul/ACE02 - Brasil-Uruguai
+
+100%
+
+Venezuela
+
+ACE 69 - Mercosul - Venezuela
+
+100%
+
+\*Importações sujeitas a monitoramento (*'flex'*); redução da preferência de 100% a 25% em caso de o valor importado global superar o limite estabelecido.
+
+Fonte: Siscomex
+
+Elaboração: DECOM
+
+Preferências tarifárias - Subposição 7306.90 da NCM
+
+País beneficiado
+
+Acordo
+
+Preferência
+
+Argentina
+
+ACE18 -Mercosul
+
+100%
+
+Bolívia
+
+AAP.CE 36- Mercosul-Bolívia
+
+100%
+
+Chile
+
+AAP.CE35- Mercosul-Chile
+
+100%
+
+Colômbia
+
+ACE 59 - Mercosul-CAN
+
+ACE 72 - Mercosul - Colômbia
+
+60%
+
+100%
+
+Cuba
+
+ACE 62 - Mercosul-Cuba
+
+60%
+
+Egito
+
+Mercosul - Egito
+
+01/09/2020 - 40%
+
+01/09/2021 - 50%
+
+01/09/2022 - 60%
+
+01/09/2023 - 70%
+
+01/09/2024 - 80%
+
+01/09/2025 - 90%
+
+01/09/2026 - 100%
+
+Equador
+
+ACE 59 - Mercosul - Equador
+
+69%
+
+Israel
+
+ALC Mercosul-Israel
+
+100%
+
+Paraguai
+
+ACE18 -Mercosul/ACE74 - Brasil-Paraguai
+
+100%
+
+Peru
+
+ACE 58 - Mercosul - Peru
+
+100%
+
+Uruguai
+
+ACE02 - Brasil-Uruguai
+
+ACE18 -Mercosul
+
+100%
+
+100%
+
+Venezuela
+
+ACE 69 - Mercosul - Venezuela
+
+100%
+
+Fonte: Siscomex
+
+Elaboração: DECOM
+
+2.1.3 Das manifestações acerca do produto objeto da investigação
+
+167\. A empresa Artex, importadora de tubos objeto da presente investigação, indicou em sua resposta ao questionário do importador que optaria pela importação dos tubos por questões da qualidade superior, da diversidade dos produtos, da modernidade das fábricas internacionais e dos preços mais competitivos em comparação ao fornecimento das empresas do mercado doméstico brasileiro. Além disso, a empresa relatou que enfrentaria limitações de capacidade produtiva, restrições de diâmetros e espessuras, bem como problemas relacionados aos prazos de entrega com os fornecedores nacionais.
+
+168\. A Artex ressaltou que não existiria distinção entre os lotes de produto adquirido nos mercados interno e no mercado externo. Além disso, a empresa indicou que submeteria os tubos importados a processos de transformação (biselamento, rosca, polimento e escovamento) e que revenderia o produto tanto no mercado interno como no externo. De acordo com as informações apresentados pela empresa, as vendas de tubos importados seriam destinadas a empresas do setor [CONFIDENCIAL].
+
+169\. A empresa Navship apresentou informações acerca dos tubos com costura de aço inoxidável austenítico que importa. De acordo com a resposta ao questionário do importador apresentada, a empresa importaria os produtos exclusivamente para utilização na fabricação de embarcações de grande porte, sob o amparo do regime aduaneiro especial*Drawback*Embarcação genérico. Segundo a empresa, os tubos seriam destinados unicamente ao processo de industrialização, pois seriam empregados em redes de tubulações e hidráulicas das embarcações. Assim, a empresa pontuou que não revenderia os tubos e não os submeteria a processos de transformação e/ou embalagem.
+
+170\. A Navship indicou que não existiriam diferenças técnicas e operacionais entre os tubos de fabricação nacional e os importados e que a principal distinção seria em relação ao preço, pois os tubos importados seriam mais baratos. Ainda, pontuou-se que as importações que realizou no período de dano teriam sido realizadas de empresa dos Estados Unidos da América e não diretamente de empresa fornecedora de Taipé Chinês.
+
+171\. Por seu turno, a empresa Ingatubos indicou, em sua resposta ao questionário do importador, que atua na importação de tubos com costura com as seguintes especificações: [CONFIDENCIAL].
+
+172\. De acordo com a empresa, não existiriam diferenças significativas de qualidade entre os produtos adquiridos no mercado externo e no mercado interno e que optaria pela aquisição no mercado externo devido a vários motivos, dentre os quais, destacou o fato de que a indústria nacional muitas vezes venderia diretamente aos consumidores finais, que também seriam clientes da Ingatubos, o que aumentaria a concorrência. Para permanecer competitiva frente à concorrência direta com a indústria nacional e a outras revendas, a Ingatubos pontuou que buscaria condições mais competitivas por meio da compra do produto no mercado externo. Além disso, outro fator seria o longo prazo de entrega da indústria nacional, o que não favoreceria a formação de estoque e a capacidade de atender prontamente às demandas de clientes.
+
+173\. Ainda, a Ingatubos indicou que atuaria na importação de materiais hidráulicos e impermeabilizantes para comercialização no mercado interno de construção civil e industrial (cooperativas, frigoríficos, abatedouros, indústrias alimentícias, farmacêuticas, metalúrgicas e construtoras) e que somente [CONFIDENCIAL], não sujeitando o produto a qualquer tipo de transformação. A empresa citou que a diferença da alíquota do ICMS que incidiria sobre o produto nacional e o importado possibilitaria uma margem competitiva à empresa para a venda dos tubos importados para outros estados que não o Paraná.
+
+174\. A empresa Intersteel apresentou, em sua resposta ao questionário do importador, que importaria os tubos com costura de aço inoxidável, da norma ASTM A554, do grau 304, nas medidas: diâmetro 9,53 a 152,4 mm e com espessuras de 1,0 a 3,0 mm com comprimento 6m e da norma ASTM A312, do grau 304, nas medidas: 21,34 a 323,85 mm (diâmetro), parede SCH05 a SCH40, espessuras de 1,65 a 4,78 x 6.00m (comprimento). A empresa indicou que os tubos se destinam a diversos segmentos, tais como produção de laticínios, usinas de papel e celulose, usinas de açúcar e álcool, cutelaria, frigoríficos, sanitários, alimentícios entre outros.
+
+175\. Sobre a diferença entre o produto importado e o nacional, a empresa ressaltou que as importações de tubos são mais viáveis financeiramente, em razão das condições de pagamento mais flexíveis e da qualidade, quando comparadas aos tubos nacionais.
+
+176\. Em resposta ao questionário do produtor/exportador, a Suncity informou não haver diferença entre o produto vendido no mercado interno, o exportado para terceiros países e o vendido para o Brasil, tampouco haveria diferenças, de forma geral, no processo de produção, nas matérias-primas, composição química, modelos, tamanho, forma de apresentação, usos e aplicações ou canais de distribuição.
+
+177\. Em resposta ao questionário do produtor/exportador, a Sun Mark pontuou não haver diferença entre o produto vendido no mercado interno, o exportado para terceiros países e o vendido para o Brasil, tampouco haveria diferenças no processo de produção dos tubos.
+
+178\. Em resposta ao questionário do produtor/exportador, a Prakash afirmou não haver diferença entre o produto vendido no mercado interno, o exportado para terceiros países e o vendido para o Brasil.
+
+179\. A Aperam Tubos, em 5 de novembro de 2024, apresentou manifestação em que pontuou que a Suncity, em sua resposta ao pedido de informações complementares, embora inicialmente reconheça de forma correta que: "*[t]he standard EN10217 and EN10296 can be produced any type of steel grade*", esclarece, na sequência, que "*Please note that the standard EN10296 is now being considered as NSM*", ou seja, como produto não-objeto da investigação.
+
+180\. A peticionária, ao apresentar os parâmetros da norma em anexo à manifestação, indicou que EN102171 seria um padrão relevante para indústrias e aplicações que exigem requisitos técnicos e materiais específicos para fins de pressão. Tratar-se-ia de norma de aplicação, que englobaria aços de composições distintas, incluindo o produto objeto da presente análise. A norma EN10296, também anexa,*"is the material standard for stainless and heat-resisting steels for circular welded tubes for mechanical and general engineering, (i.e. not pressure), purposes"*, tratando-se, portanto, de regulamentação relativa à aplicação dos tubos circulares soldados, de materiais distintos, que abrange, ademais,*"Ferritic, (7), austenitic, (17), and austenitic-ferritic, (duplex), (2), stainless steel grades, and austenitic heat resisting grades, (6), are included in the range of grades specified in this standard."*Restou claro, portanto, para a peticionária, que essas normas especificariam requisitos ou requerimentos gerais complementares a serem considerados quando da produção/liberação dos tubos para determinada aplicação. Portanto, não caberia a afirmação apresentada pela Suncity de que a norma EN10296 fosse considerada como produto não-objeto da investigação. De acordo com a Aperam Tubos, tubos de norma EN10296 produzidos pela indiana poderiam se referir a produtos excluídos da investigação, mas não pelo fato de atenderem à mencionada norma. A peticionária solicitou, quando da verificação*in loco*na Suncity, a avaliação das informações relativas às normas em questão.
+
+181\. Em 17 de janeiro de 2025, a Aperam Tubos apresentou suas considerações sobre os temas elencados pela Aprodinox e Prakash que seriam abordados em audiência. Em relação ao produto e similaridade, foi destacado pela peticionária que as solicitantes teriam alegado que o produto investigado inclui tamanhos e espessuras não oferecidos pela peticionária e que há produtos que a peticionária não fabricaria. No entanto, a Aperam Tubos apontou que a autoridade investigadora, citando elementos dos itens 2.2 e 2.3 da determinação preliminar, teria concluído que o produto fabricado no Brasil seria similar ao produto objeto da investigação, conforme definido pelo Decreto nº 8.058, de 2013.
+
+182\. Em 10 de fevereiro de 2025, a Aprodinox protocolou a transcrição de seus argumentos apresentados durante a audiência. Em relação ao tópico "escopo de análise do produto e definição da similaridade" a associação pontuou que distribuidores afirmaram que a indústria doméstica não produziria ou forneceria toda a gama de produtos investigados, como tubos de diâmetros entre 8 a 400 mm com acabamento*Bright Annealed*(BA) e certificação NACE para o mercado de petróleo e gás. A associação indicou que a peticionária teria alegado que o acabamento BA seria exclusivo de chapas, mas o processo de recozimento dos tubos incluiria o*Bright Annealing*, que requer uma câmara de atmosfera neutra, equipamento que a Aperam Tubos não possui. Tal processo ofereceria maior resistência à corrosão e melhor acabamento dos tubos. Distribuidores seriam obrigados a importar devido à incapacidade da indústria doméstica de suprir a demanda total.
+
+183\. Segundo a Associação, caso o DECOM identificasse produção pela peticionária, deveria questionar o não fornecimento adequado aos distribuidores nacionais, o que teria levado ao aumento das importações. Explicações sobre atrasos nas entregas seriam necessárias para evitar desabastecimento e a preferência pelo produto importado. Desse modo, destacou a Aprodinox que o aumento das importações não teria sido ocasionado pelas práticas desleais, mas pela necessidade dos distribuidores de suprir o mercado nacional.
+
+184\. Em 10 de fevereiro de 2025, a Aperam Tubos reduziu a termo seus argumentos apresentados durante a audiência. Foi destacado pela peticionária, em relação às questões de produto e similaridade levantadas pela Prakash e Aprodinox, que a autoridade investigadora já teria realizado verificação*in loco*na produtora nacional e repisou que, em sede de determinação preliminar, já teria ocorrido a determinação de que o produto fabricado no Brasil seria similar ao investigado.
+
+185\. Em manifestação apresentada em 19 de março de 2025, a Aperam Tubos rememorou as considerações do DECOM em relação às manifestações apresentadas em sede de determinação preliminar sobre questões de restrições de diâmetro e espessuras na oferta do similar nacional pela peticionária e consequente similaridade. Ademais, indicou que as dimensões comercializadas pela indústria doméstica seriam muito superiores às dimensões dos tubos adquiridos pelas empresas importadoras que responderam ao questionário do importador. Portanto, as alegações da Aprodinox sobre as dimensões do produto objeto da investigação seriam totalmente infundadas.
+
+186\. Sobre as alegações da Aprodinox de que a indústria doméstica não produziria tubos com acabamento*Bright Annealed*(BA) e certificação NACE para o mercado de petróleo e gás, a Aperam Tubos indicou que o*Bright Annealing*seria um processo de recozimento, não um acabamento brilhante, típico no mercado de chapas de aço inoxidável, mas não no mercado de tubos, onde são considerados os acabamentos polidos.
+
+187\. De acordo com a peticionária, o*Bright Annealing*seria um tratamento térmico em fornos de indução com atmosfera controlada que manteria as características do tubo sem formação de camada de óxido. A camada de óxido formada no recozimento contínuo seria removida por decapagem ou lixamento/escovamento. O*Bright Annealing*não alteraria a aparência do tubo, que precisaria passar por polimento para obter um acabamento brilhante. Mesmo após o*Bright Annealing*, o cliente pode solicitar a decapagem química para remover manchas e uniformizar as características corrosivas do material. Portanto, as alegações da Aprodinox sobre o acabamento "BA" seriam incorretas.
+
+188\. Acerca das demais alegação apresentadas sobre, a Aperam Tubos pontuou que a resistência à corrosão seria melhor com a decapagem química, e que o*Bright Annealing*não alteraria o acabamento dos tubos. Ademais, indicou que o polimento dos tubos seria independente do*Bright Annealing*. Além disso, enfatizou que, embora as normas exijam material livre de óxido, o*Bright Annealing*não constaria em normas internacionais de tubos. Apontou, ademais, que a utilização do*Bright Annealing*seria limitada devido à complexidade e perigo do uso de hidrogênio, mas que apesar disso, a Aperam Tubos disporia de equipamento para*Bright Annealing*, apesar das alegações apresentadas pela Aprodinox em sentido contrário. Foi mencionado, ainda, que mesmo que fossem verdadeiras as alegações da Aprodinox, existiriam acabamentos similares disponíveis no mercado brasileiro, não gerando nenhuma obrigação por partes de distribuidores em importar o produto. De toda sorte, apontou a peticionária, o*Bright Annealing*não impactaria na similaridade entre os produtos fabricados com ou sem esse processo.
+
+189\. Em relação aos tubos de norma NACE, a peticionária destacou que poderia atender aos requisitos de produção desses tubos, mas que não houve demanda específica de tubos respeitando essa norma ou mesmo com recozimento brilhante. Reiterou-se a similaridade entre os produtos nacionais e importados e pontuou-se que a escolha pelo produto importado se deve ao preço inferior, resultado da prática de dumping. Importadoras como Intersteel e Artex teriam confirmado que a opção pelo produto importado seria motivada pelo preço. Além disso, a prática de dumping distorceria os preços, fazendo com que distribuidores concorram diretamente com a indústria doméstica, aumentando o dano sofrido por esta.
+
+190\. Quanto ao mencionado pela Artex, a indústria doméstica informou que continuaria investindo em sua linha de produção, atendendo a todos os requisitos demandados nas normas estabelecidas pelos clientes.
+
+191\. A Aperam Tubos enfatizou que a alegação de problemas nos prazos de entrega pela indústria doméstica seria infundada. Os prazos de entrega da indústria doméstica seriam menores que os das importações, e a indústria manteria contato constante com os clientes para otimizar a produção e os prazos acordados. Foi informado, entretanto, que atrasos seriam pontuais e geralmente ocorreriam quando clientes que normalmente importam produtos recorrem à indústria doméstica em situações emergenciais. Ademais, não teriam sido apresentados casos concretos de atrasos para que a indústria pudesse esclarecer.
+
+192\. Em manifestação protocolada em 19 de março de 2025, a Aprodinox destacou a falta de participação ativa da Aperam Tubos na investigação, limitando a coleta de evidências sobre sua produção de tubos com determinados acabamentos e para setores específicos, como óleo e gás.
+
+193\. Em sede de manifestações finais, protocolada em 6 de maio de 2025, a Aprodinox indicou que teriam sido apresentados diversos elementos que indicariam a incapacidade da indústria doméstica em atender plenamente à demanda nacional pelo produto investigado. De acordo com a associação, o DECOM teria reconhecido, em nota técnica de fatos essenciais, que a Aperam Tubos apresentou elevado grau de ociosidade em P5, com potencial de aumento de produção de até [RESTRITO] toneladas. No entanto, esse volume adicional, segundo o documento, seria [RESTRITO] às importações de Taipé Chinês no mesmo período ([RESTRITO] toneladas) e representava menos da metade das importações totais ([RESTRITO] toneladas), evidenciando a necessidade de complementação do abastecimento via importações.
+
+194\. Além disso, a associação indicou que teria sido observado aumento expressivo na demanda por outros produtos fabricados na mesma linha de produção, o que reforçaria a limitação da capacidade produtiva da Aperam Tubos. Ademais, foram repisados argumentos sobre a incapacidade da indústria doméstica em produzir todos os modelos ofertados pelas origens investigadas, destacando, novamente, tubos com acabamento*Bright Annealed (BA)*, tubos com certificação NACE (essenciais para o setor de petróleo e gás) e tubos com diâmetros entre 8 e 400 mm.
+
+195\. Assim, tais limitações, segundo a Aprodinox, indicariam que a Aperam Tubos não possuiria capacidade técnica, produtiva ou comercial para atender integralmente ao mercado brasileiro, tanto em volume quanto em variedade; e deveriam ser consideradas em determinação final, especialmente quanto à definição do escopo da medida e à avaliação da suficiência do abastecimento nacional.
+
+196\. A Aperam Tubos, em sede de manifestações finais, indicou que a Aprodinox, em sua manifestação datada de 6 de maio de 2025, teria reproduziu as mesmas alegações já apresentadas durante a investigação, sendo que tais pontos já teriam sido devidamente consideradas e analisadas pela autoridade investigadora em sua Nota Técnica de fatos essenciais, tendo concluído que o produto fabricado no Brasil seria similar ao produto objeto da investigação.
+
+**2.1.4 Dos comentários do DECOM acerca das manifestações**
+
+197\. Com relação à manifestação apresentada pela Artex, cumpre esclarecer que da mesma forma que a empresa apresentou descontentamento com a qualidade do produto nacional, os demais importadores se mostraram satisfeitos com os tubos de aço inoxidável fornecidos pela indústria doméstica, destacando apenas o preço como diferencial. Desse modo, não assiste razão aos argumentos sobre qualidade apresentados pela Artex, sobretudo por não terem sido apresentados elementos probatórios que o corroborem, além de terem sido apresentados argumentos no sentido contrário pelas demais partes interessadas, que não a peticionária.
+
+198\. No tocante aos argumentos levantados pela Artex relacionados à limitação de capacidade produtiva da Aperam Tubos, cumpre destacar o elevado grau de ociosidade verificado no maquinário produtivo da peticionária (cerca de [RESTRITO] % em P5) que permitiria a produção adicional de mais de [RESTRITO] toneladas de tubos, cerca de [RESTRITO] % do mercado brasileiro observado no mesmo período.
+
+199\. Acerca das restrições de diâmetro e espessuras na oferta do similar nacional pela Aperam Tubos, observou-se, a partir do apêndice de vendas da empresa, que houve comercialização de tubos com diâmetro externo que podem variar entre [CONFIDENCIAL]- Características [CONFIDENCIAL] do CODIP e de espessura [CONFIDENCIAL]- Características [CONFIDENCIAL], do CODIP, cobrindo ampla gama do previsto no escopo da investigação. Ademais, a partir do catálogo de produtos ofertados pela Aperam Tubos, constante da petição inicial, são comercializados tubos de aço inoxidável austeníticos com diâmetro externo que variam de 8,0 mm até 2.032 mm com espessura entre 0,50 mm a 6,35 mm. Consta ainda do catálogo a seguinte observação: ": Outros diâmetros, espessuras e comprimentos podem ser fabricados sob consulta". De todo modo, não existe determinação pelo normativo antidumping, nacional ou multilateral, de que a gama de produção da indústria doméstica tenha que atender a todos os parâmetros definidos para o produto objeto da investigação, bastando, todavia, que sejam similares nos termos da legislação.
+
+200\. No tocante aos problemas apontados em relação aos prazos de entrega pela peticionária, pontua-se não se tratar de fator que afaste a prerrogativa da indústria doméstica de buscar remédio de defesa comercial com vistas a neutralizar o dano decorrente de prática desleal de comércio. É legítima a busca por fornecedores que melhor atendam as condições de demanda dos consumidores, o que não justifica, contudo, a prática de dumping por parte dos produtores/exportadores e seus efeitos sobre a indústria doméstica. Isso não obstante, a peticionária se manifestou sobre o tema e registrou que atrasos seriam pontuais e normalmente decorrentes de compras emergenciais por empresas que geralmente importam o produto. A peticionária pontuou ainda não ter sido indicado nenhum caso concreto de problemas no fornecimento para que pudesse apresentar os esclarecimentos pertinentes.
+
+201\. Em relação à manifestação apresentada pela Aperam Tubos sobre o reporte de dados pela Suncity, mais especificamente em relação a produtos fabricados a partir das normas EN10217e EN10296, cumpre remeter ao item 1.7.2 deste documento, no qual pontuou-se sobre a conclusão de que a Suncity não teria reportado adequadamente os dados de vendas para o mercado interno e de exportações para o Brasil, em desconformidade com o disposto no art. 180 do Decreto nº 8.058, de 2013. As razões para se chegar a referida conclusão foram dispostas no relatório de verificação*in loco*da Suncity, acostado aos autos restritos em 2 de janeiro de 2025.
+
+202\. A Aprodinox apresentou argumentos referentes ao não fornecimento ao mercado pela Aperam Tubos de tubos com acabamento*Bright Annealed*(BA) e certificação NACE para o mercado de petróleo e gás. A esse respeito, a peticionária apresentou esclarecimentos técnicos quanto ao produto que contradizem os argumentos da Associação. Ademais, segundo a peticionária, a utilização do*Bright Annealing*seria limitada devido à complexidade e perigo do uso de hidrogênio, mas que apesar disso, a Aperam Tubos disporia de equipamento para*Bright Annealing*, apesar das alegações apresentadas pela Aprodinox em sentido contrário.
+
+203\. Insta mencionar, sobre o tema, que, conforme verificado pelo DECOM, nenhuma das produtoras/exportadoras participantes da investigação possui o equipamento de Recozimento Brilhante (*Bright Annealing*). Inclusive, ao analisar a totalidade dos CODIPs reportados pelas produtoras/exportadoras, não foi vislumbrado o reporte de nenhuma venda, quanto ao "tipo de acabamento superficial", F2 - Produzido a partir de bobina decapada / Decapado ou com Recozimento Brilhante, ao contrário do que se verificou das vendas da Aperam Tubos.
+
+204\. Ademais, ressalta-se que não existe a obrigação de a indústria doméstica possuir capacidade instalada para atender integralmente o mercado, sobretudo quando o produto similar é produzido em território nacional por pelo menos outros cinco produtores domésticos.
+
+205\. Por fim, reitera-se que a análise de similaridade não determina que a indústria doméstica fabrique todos os subtipos do produto. Dessa forma, alegações quanto à ausência de produção nacional de determinado tubo devem ser acompanhadas dos elementos de prova pertinentes, que permitam a análise quanto à existência ou não de produto similar que possa suprir eventual demanda do mercado.
+
+**2.2 Do produto fabricado no Brasil**
+
+206\. As características físicas, as normas utilizadas, os usos e aplicações e os canais de distribuição do produto similar são os mesmos do produto objeto da investigação, detalhado no item 2.1.
+
+207\. A Aperam Tubos produz tubos com costura, de aço inoxidável austenítico graus 304 e 316, de seção circular, com diâmetro externo espessura dentro dos intervalos estabelecidos para o produto objeto da investigação.
+
+208\. O processo produtivo da empresa envolve etapas semelhantes àquelas descritas no item 2.1.
+
+**2.3 Da similaridade**
+
+209\. O § 1º do art. 9º do Decreto nº 8.058, de 2013, estabelece lista dos critérios objetivos com base nos quais a similaridade deve ser avaliada. O § 2º do mesmo artigo estabelece que tais critérios não constituem lista exaustiva e que nenhum deles, isoladamente ou em conjunto, será necessariamente capaz de fornecer indicação decisiva.
+
+210\. O produto objeto da investigação e o produto similar produzido no Brasil são, em geral, produzidos a partir das mesmas matérias-primas, vez que a definição do aço a ser utilizado na fabricação dos tubos de aço inoxidável está relacionada às características do tubo. Com efeito, tanto o aço utilizado na fabricação quanto os próprios tubos estão sujeitos a normas e a especificações técnicas, de forma que, em ambos os processos produtivos, importado e nacional, são utilizadas as mesmas matérias-primas.
+
+211\. Conforme demanda dos clientes, tanto o produto objeto da investigação como o produto fabricado no Brasil seguem as mesmas normas internacionais.
+
+212\. O processo de produção do produto similar doméstico é o mesmo da maioria dos produtores identificados das origens investigadas, conforme informações constantes da petição. As normas internacionais abrangem certas etapas do processo, em especial no que diz respeito aos processos de soldagem, de modo que não há diferenças significativas entre o processo produtivo nas origens investigadas e no Brasil.
+
+213\. No que se refere aos usos e às aplicações dos tubos de aço inoxidável, não há diferenças entre o produto objeto da investigação e aquele fabricado no Brasil, sendo ambos destinados às finalidades detalhadas no item 2.1.
+
+214\. Considerando-se o fato de tanto o produto objeto da investigação quanto o produto fabricado no Brasil estarem sujeitos a normas técnicas que definem suas principais características, há elevado grau de substituição entre esses produtos.
+
+215\. Por fim, conforme consta nos itens 2.1 e 2.2 e segundo as informações apuradas nas investigações do mesmo produto, mas de outras origens, o produto objeto da investigação seria vendido por intermédio dos mesmos canais de distribuição que o produto fabricado no Brasil, quais sejam: vendas diretas para as indústrias e consumidores finais ou por meio de distribuidores, autorizados ou não, para usuário final.
+
+216\. Desta sorte, as informações apresentadas na petição, que foram objeto de verificação*in loco*, corroboram as conclusões sobre similaridade alcançadas nas investigações anteriores e em outras investigações de dumping do mesmo produto, que abarcaram inclusive Taipé Chinês, além de outras origens (China, Malásia, Tailândia e Vietnã).
+
+**2.4 Da conclusão a respeito do produto e da similaridade**
+
+217\. Tendo em conta a descrição detalhada contida no item 2.1 deste documento, conclui-se que, para fins de determinação final, os tubos de aço inoxidável austenítico são o produto objeto da investigação, quando originários da Índia e do Taipé Chinês, observadas as exclusões expressas no sobredito tópico.
+
+218\. Ademais, verifica-se que o produto fabricado no Brasil é semelhante ao produto objeto da investigação, conforme descrição apresentada no item 2.2 deste documento.
+
+219\. Dessa forma, considerando-se que, conforme o art. 9º do Decreto nº 8.058, de 2013, o termo "produto similar" será entendido como o produto idêntico, igual sob todos os aspectos ao produto objeto da investigação ou, na sua ausência, outro produto que, embora não exatamente igual sob todos os aspectos, apresente características muito próximas as do produto objeto da petição de investigação, concluiu-se, para fins de determinação final, que o produto fabricado no Brasil é similar ao produto objeto da investigação.
+
+**3 DA INDÚSTRIA DOMÉSTICA**
+
+220\. O art. 34 do Decreto nº 8.058, de 2013, define indústria doméstica como a totalidade dos produtores do produto similar doméstico. Nos casos em que não for possível reunir a totalidade desses produtores, o termo indústria doméstica será definido como o conjunto de produtores cuja produção conjunta constitua proporção significativa da produção nacional total do produto similar doméstico.
+
+221\. A totalidade dos produtores nacionais do produto similar doméstico engloba, segundo consta da petição inicial, as empresas Marcegaglia do Brasil Ltda., Krominox Group, CSM Tube do Brasil Ltda. e Neolider Tubos e Conexões de Aço. Destaca-se que a peticionária apresentou carta de apoio da empresa Marcegaglia do Brasil Ltda. informando seus volumes de produção e de venda no mercado interno. Além disso, a peticionária apresentou estimativa de produção e de vendas das demais produtoras nacionais.
+
+222\. Ao ser questionada sobre a metodologia que utilizou para estimar os volumes produzido e vendido do produto similar pelas empresas produtoras Krominox Group, CSM Tube do Brasil Ltda. e Neolider Tubos e Conexões de Aço, a peticionária informou que a estimativa foi baseada em informações de mercado, obtida pela equipe de inteligência de mercado da Aperam Tubos.
+
+223\. Com vistas a confirmar as informações prestadas na petição, o DECOM notificou as associações, as demais empresas produtoras e as empresas prestadoras de serviço de "tubificação". As empresas notificadas não apresentaram resposta à solicitação de informações do Departamento. A Abitam, por sua vez, indicou que a Aperam Inox Tubos Brasil Ltda., a Marcegaglia do Brasil Ltda, a Krominox, a Neolider Tubos e Conexões de Aço e a CSM Tube seriam produtoras dos tubos objeto da presente investigação. Ainda, a Aprodinox apontou não haver empresas associadas, em seu respectivo quadro, que fossem produtoras de tubos de aço inoxidável austenítico com as especificações técnicas do produto objeto da investigação.
+
+224\. Frisa-se que a peticionária informou que a empresa Krominox adquiriu a empresa Maxitubos e outros pequenos produtores de tubos, tal como a empresa Kronitubos.
+
+225\. Confirmou-se, nos dados de importação obtidos junto à RFB e depurados conforme indicado no item 6 deste documento, que nem todas as empresas produtoras nacionais de tubos de aço inoxidável austenítico importaram o referido produto da Índia e de Taipé Chinês durante o período de análise de dano e, aquelas que importaram, o fizeram em volume pouco representativo em relação à produção.
+
+226\. Em relação à empresa CSM Tube do Brasil Ltda., identificou-se nos dados de importação que a empresa importou tubos de aço inoxidável austenítico em todos os períodos de análise de dano. Considerando a estimativa apresentada pela Aperam Tubos na petição inicial, observou-se que as importações da CSM Tube do Brasil Ltda. representaram [CONF.] do volume de produção dessa empresa. Ainda, quanto a Neolider Tubos e Conexões de Aço, indica-se que foram identificadas importações do produto, considerando não apenas as origens em P1, P3 e P4. Tais operações representaram [CONF.] da produção da empresa Neolider em P5, conforme estimativa apresentada pela peticionária.
+
+227\. Após o início do processo, o questionário de outro produtor nacional foi enviado às empresas indicadas na petição, contudo não houve devolutiva. Desse modo, tais empresas não poderão ser consideradas como partes integrantes da indústria doméstica.
+
+228\. Dessa forma, para fins de análise de dano, definiu-se como indústria doméstica as linhas de produção de tubos de aço inoxidável da empresa Aperam Inox Tubos do Brasil Ltda., que representou [RESTRITO] % da produção nacional do produto similar doméstico, em P5, conforme quadro a seguir.
+
+| **Produção de tubos de aço inoxidável austenítico no Brasil - P5** [CONFIDENCIAL] [RESTRITO] |  |  |
+| --- | --- | --- |
+| Produtor | Volume de produção (t) | Representatividade |
+| Aperam Tubos | [REST.] | [REST.] |
+| CSM Tube do Brasil Ltda | [CONF.] | [CONF.] |
+| Krominox Group | [CONF.] | [CONF.] |
+| Marcegaglia . | [CONF.] | [CONF.] |
+| Neolider Tubos e Conexões de Aço | [CONF.] | [CONF.] |
+| TOTAL | [REST.] | 100,0% |
+| Fonte: Petição inicial Elaboração: DECOM |  |  |
+
+229\. Cumpre reiterar que os dados da peticionária já foram objeto de validação por meio de verificação*in loco*da autoridade investigadora.
+
+3.1**Das manifestações sobre a representatividade da indústria doméstica**
+
+230\. Em 10 de fevereiro de 2025, a Aprodinox protocolou a transcrição de seus argumentos apresentados durante a audiência. De acordo com a associação, os indicadores da investigação possuem capacidade limitada de compreender o cenário econômico-financeiro da indústria de tubos de aço inoxidável brasileira, pois a Aperam Tubos responderia por "apenas" 40% da produção nacional do produto similar. Haveria desinteresse das outras produtoras, com apenas uma apresentando carta de apoio sem dados econômico-financeiros. Assim, concluiu a Aprodinox, que ao menos 40% da produção nacional não vislumbraria necessidade de restringir as importações da Índia e de Taipé Chinês. Além disso, foi pontuado que seria importante considerar o contexto internacional para evidenciar a não caracterização do dano.
+
+231\. Em manifestação protocolada em 19 de março de 2025, a Aprodinox novamente levantou dúvidas sobre representatividade da Aperam Tubos para fins de determinação dos indicadores de dano da indústria doméstica do similar nacional. A associação repisou argumentos apresentados anteriormente e citou o art. 3.1 do Acordo Antidumping (ADA) para indicar que as estimativas da peticionária sobre sua representatividade como indústria doméstica não deveriam ser qualificadas como "*positive evidence*".
+
+232\. Em sede de manifestações, a Aprodinox repisou argumentos sobre a falta de confiabilidade dos dados que indicam a representatividade da indústria doméstica perante a produção nacional do similar, destacando a falta de consonância com os ditames do art. 3.1 do ADA. Destacou, ademais, que apesar dos esforços da autoridade investigadora para suprir as lacunas da petição, não foram apresentados elementos de prova que confirmassem as estimativas fornecidas. Indicou-se que os dados apresentados refletiram apenas cerca de 40% da produção nacional, sem manifestação das demais produtoras, o que indicou um desinteresse de aproximadamente 60% do setor. Apenas uma empresa teria apresentado carta de apoio, mas optado por não fornecer dados econômico-financeiros nem participar da instrução processual. Desse modo, a associação apontou que, embora não se tenha alegado que o silêncio das demais produtoras configurasse oposição ao pleito, tal ausência de colaboração teria evidenciado desinteresse e resultado em uma amostra limitada, restringindo a base probatória disponível ao DECOM e às demais partes interessadas, com prejuízo ao contraditório.
+
+233\. A Aperam Tubos, em sede de manifestações finais, indicou que a Aprodinox, em sua manifestação final, teria novamente retomado as mesmas alegações apresentadas sobre representatividade da indústria doméstica, as quais, também, já teriam sido devidamente consideradas e analisadas pelo DECOM na Nota Técnica de fatos essenciais.
+
+**3.2 Dos comentários do DECOM acerca das manifestações**
+
+234\. Inicialmente, quanto à representatividade da indústria doméstica, reitera-se entendimento quanto à adequação da estimativa apresentada pela peticionária, tendo em vista, especialmente, a ausência de elementos nos autos que contradigam os dados considerados. Reitera-se ainda a busca ativa por parte do DECOM por dados primários dos outros produtores nacionais, os quais, entretanto, não atenderam a solicitação de informações enviada pelo Departamento.
+
+235\. Ainda a esse respeito, insta pontuar que não houve manifestação quanto ao apoio à petição por parte das empresas Krominox Group, CSM Tube do Brasil Ltda. e Neolider Tubos e Conexões de Aço, de forma que não se mostra adequado supor que estas seriam contrárias ao pleito de aplicação de medida antidumping sobre as importações de Taipé Chinês e Índia.
+
+**4 DO DUMPING**
+
+236\. De acordo com o art. 7º do Decreto nº 8.058, de 2013, considera-se prática de dumping a introdução de um bem no mercado brasileiro, inclusive sob as modalidades de*drawback*, a um preço de exportação inferior ao valor normal.
+
+237\. Na presente análise, utilizou-se o período de outubro de 2022 a setembro de 2023, a fim de se verificar a existência de indícios de prática de dumping nas exportações para o Brasil de tubos de aço inoxidável austenítico originários da Índia e do Taipé Chinês.
+
+238\. Cumpre informar que os dados relativos à Aperam Tubos que foram utilizados na apuração do valor para fins de início da investigação foram objetos de validação*in loco*pela autoridade investigadora e foram atualizados ao longo do item 4.1. Nesse sentido, podem ser observadas algumas modificações em relação aos dados constantes para o mesmo item presente no Parecer SEI nº 1857/2024/MDIC, de início de investigação.
+
+**4.1 Do dumping para efeito de início da investigação**
+
+4.1.1 Da Índia
+
+4.1.1.1 Do valor normal da Índia para fins de início da investigação
+
+239\. De acordo com o art. 8º do Decreto nº 8.058, de 2013, considera-se "valor normal" o preço do produto similar, em operações comerciais normais, destinado ao consumo no mercado interno do país exportador.
+
+240\. O item "iii" do Art. 5.2 do Acordo Antidumping, incorporado ao ordenamento jurídico brasileiro por meio do Decreto nº 1.355, de 30 de dezembro de 1994, destaca que a petição deverá conter informação sobre os preços pelos quais o produto em questão é vendido quando destinado ao consumo no mercado doméstico do país de origem ou de exportação ou, quando for o caso, informação sobre os preços pelo quais o produto é vendido pelo país de origem ou de exportação a um terceiro país ou sobre o preço construído do produto.
+
+241\. A peticionária não logrou obter informações relativamente a preços de venda do produto objeto da investigação nos mercados internos da Índia, assim, para fins de início da investigação, apurou-se o valor normal construído na origem com base em metodologia proposta pela peticionária. A metodologia empregada foi baseada em documentos e em dados fornecidos na petição inicial e na resposta ao pedido de informações complementares. A apuração foi realizada a partir da estrutura de custos da própria peticionária, nos termos do inciso II do art. 14 do Decreto nº 8.058, de 2013, que foram precificados por fatores de produção na origem.
+
+242\. Assim, partindo-se da estrutura de custos da peticionária, foram consideradas as seguintes rubricas:
+
+a) matérias-primas (bobina de aço inoxidável, graus 304 e 316, laminadas a frio e a quente);
+
+b) utilidades (energia elétrica);
+
+c) mão de obra - produção (direta e indireta);
+
+d) outros custos variáveis (embalagens e outros custos variados);
+
+e) outros custos fixos (aluguel, manutenção, serviços e outros custos fixos);
+
+h) despesas/receitas (comerciais, administrativas e gerais; financeiras);
+
+i) depreciação
+
+j) margem de lucro.
+
+243\. Conforme indicado no item 1.7, os dados aqui apresentados consideram os resultados da verificação*in loco*realizada pela autoridade investigadora.
+
+**4.1.1.1.1 Da matéria-prima**
+
+244\. A principal matéria-prima para a produção dos tubos de aço inoxidável austenítico são as bobinas de aço inoxidável dos graus 304 e 316. Segundo informado pela peticionária, para a produção de tubos com costura com espessuras superiores a 3 mm, utilizam-se, normalmente, as bobinas de aço inoxidável laminado a quente.
+
+245\. Ainda, de acordo com a Aperam Tubos, inexistem informações sobre os preços das bobinas laminadas a quente ou a frio especificamente para os mercados das origens investigadas para os graus 304 e 316. Assim, a peticionária apresentou a média aritmética dos preços mensais dessas bobinas, no período de análise de dumping (outubro de 2022 a setembro de 2023), em quatro países da Ásia: China, Coreia do Sul, Japão e Taipé Chinês. Tais informações foram obtidas no sítio da "reconhecida agência especializada no setor siderúrgico" MEPS (International) Ltd., cujo trabalho envolveria elaborar e divulgar estudos de preços e de mercados deste setor.
+
+| **Preços MEPS - Ásia (USD/t)** |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Período | Cold Rolled Coil (304) | Hot Rolled Coil (304) | Cold Rolled Coil (316) | Hot Rolled Coil (316) |
+| out-22 | 3.187,00 | 3.067,00 | 4.417,00 | 4.267,00 |
+| nov-22 | 3.109,00 | 3.005,00 | 4.387,00 | 4.226,00 |
+| dez-22 | 3.303,00 | 3.198,00 | 4.677,00 | 4.511,00 |
+| jan-23 | 3.349,00 | 3.248,00 | 4.964,00 | 4.781,00 |
+| fev-23 | 3.461,00 | 3.353,00 | 5.267,00 | 5.067,00 |
+| mar-23 | 3.240,00 | 3.131,00 | 4.973,00 | 4.806,00 |
+| abr-23 | 3.174,00 | 3.054,00 | 4.737,00 | 4.550,00 |
+| mai-23 | 3.008,00 | 2.890,00 | 4.559,00 | 4.378,00 |
+| jun-23 | 2.928,00 | 2.809,00 | 4.489,00 | 4.319,00 |
+| jul-23 | 2.835,00 | 2.710,00 | 4.362,00 | 4.206,00 |
+| ago-23 | 2.853,00 | 2.731,00 | 4.431,00 | 4.272,00 |
+| set-23 | 2.821,00 | 2.699,00 | 4.403,00 | 4.244,00 |
+| Out/22-Set/23 | 3.105,67 | 2.991,25 | 4.638,83 | 4.468,92 |
+|  | Média BF+BQ (304) | 3.048,46 | Média BF+BQ (316) | 4.553,88 |
+| Fonte: Petição, MEPS (International) Ltd. |  |  |  |  |
+
+246\. Cumpre informar que se solicitou à peticionária a apresentação de fonte alternativa do preço da matéria-prima de forma específica para a origem, mas como informado anteriormente, esta destacou não haver dados de preço para as bobinas a quente e a frio nos graus de aço objeto da análise e ponderou que a fonte em questão foi a mesma utilizada em investigações/revisões de final de período anteriores, que também se referia a países asiáticos.
+
+247\. Passo seguinte, calculou-se o coeficiente de consumo de bobinas para a produção de uma tonelada dos tubos de aço inoxidável austenítico mais vendidos pela peticionária, em P5, para cada um dos graus considerados - 304 e 316. Os coeficientes estão sumarizados a seguir:
+
+| Coeficientes técnicos de consumo de matéria-prima [CONFIDENCIAL] |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| **Grau do aço** | Produto | Fase bobina fita | Fase fita para tubo | Índice técnico |
+| 304 | [CONF.] | [CONF.] | [CONF.] | [CONF.] |
+| 316 | [CONF.] | [CONF.] | [CONF.] | [CONF.] |
+| Fonte: Petição Elaboração: DECOM |  |  |  |  |
+
+248\. Aplicaram-se os coeficientes técnicos observados aos preços médios das bobinas, obtidos na publicação MEPS, de forma a se apurar o custo da matéria-prima utilizada na fabricação do produto objeto da investigação:
+
+| Custo da matéria-prima (USD/t) [CONFIDENCIAL] |  |  |  |
+| --- | --- | --- | --- |
+|  | **304** | 316 |  |
+| Preço médio bobina (USD/t) | 3.048,46 | 4.553,88 |  |
+| Coeficiente técnico | [CONF.] | [CONF.] |  |
+| Custo matéria-prima (USD/t) | [CONF.] | [CONF.] |  |
+| Fonte: MEPS (International) Ltd. e Petição Elaboração: DECOM |  |  |  |
+
+4.1.1.1.2 Da energia elétrica
+
+249\. Para a apuração do custo com energia elétrica, verificou-se o preço praticado na Índia, em quilowatt/hora (kWh), para consumidores empresariais. O valor de USD 0,131/kWh foi apurado após conversão do preço observado em junho de 2023 (INR/kWh 10,760), disponível no sítio eletrônico GlobalPetrolPrices.com, pela paridade média entre rúpias indianas e dólar estadunidense para o período de análise de dumping (outubro de 2022 a setembro de 2023) obtidas no sítio eletrônico do Banco Central do Brasil.
+
+250\. Na sequência, foram apurados, a partir dos dados apresentados pela peticionária, o consumo e a demanda mensal de energia elétrica para todos os meses do período de análise de dumping. Os respectivos valores, obtidos a partir das contas de energia elétrica da Aperam Tubos, encontram-se resumidas a seguir:
+
+| **Demanda e consumo de energia elétrica - P5 [CONFIDENCIAL]** |  |  |
+| --- | --- | --- |
+| Período | Demanda contratada em número-índice de kW | Consumo em em número-índice de kWh (fora da ponta/ponta) |
+| out/22 | 100,0 | 100,0 |
+| nov/22 | 103,7 | 95,1 |
+| dez/22 | 96,7 | 89,1 |
+| jan/23 | 96,0 | 86,4 |
+| fev/23 | 92,8 | 76,2 |
+| mar/23 | 91,6 | 73,2 |
+| abr/23 | 92,6 | 74,7 |
+| mai/23 | 101,3 | 78,8 |
+| jun/23 | 94,5 | 76,6 |
+| jul/23 | 109,1 | 90,3 |
+| ago/23 | 112,1 | 102,5 |
+| set/23 | 100,6 | 89,3 |
+| Total P5 | [CONF.] | [CONF.] |
+| Fonte: Petição Elaboração: DECOM |  |  |
+
+251\. Para obter-se o coeficiente técnico de demanda contratada e de consumo de energia elétrica para a produção de uma tonelada de tubo, procedeu-se à divisão da quantidade total de quilowatts (kW) contratados e de kWh consumidos pela Aperam Tubos, pelo volume total de produção, em toneladas, em P5, considerando não apenas o produto similar doméstico, mas também os demais produtos confeccionados na mesma planta. Observe-se que não foi necessário calcular o índice de consumo de energia elétrica considerando-se as diferenças tarifárias decorrentes de horários de pico, uma vez que a tarifa de energia elétrica na Índia, conforme apresentada pela peticionária, não possui tal distinção.
+
+| Coeficiente técnico de energia elétrica - Aperam Tubos - (P5) [CONFIDENCIAL] |  |  |
+| --- | --- | --- |
+|  | **Aperam Tubos** | Índice técnico |
+| Produção Total (t) | [CONF.] |  |
+| Demanda contratada (kW) | [CONF.] | [CONF.] |
+| Consumo (kWh) | [CONF.] | [CONF.] |
+| Fonte: Petição e Relatório de VIL - Aperam Tubos Elaboração: DECOM |  |  |
+
+252\. O quadro a seguir apresenta o cálculo do custo com energia elétrica na Índia, destacando-se que não foram apresentadas diferenças entre os valores para a produção de tubos de grau 304 ou 316:
+
+| Energia elétrica - Índia**[CONFIDENCIAL]** |  |
+| --- | --- |
+| a. Preço da energia elétrica na Índia (demanda/consumo) (USD/kW) | 0,131 |
+| b. Índice técnico de demanda da Aperam Tubos kW | [CONF.] |
+| c. Índice técnico de consumo da Aperam Tubos kWh/t | [CONF.] |
+| Custo de Energia Elétrica (USD/t) (a x b) + (a x c) | [CONF.] |
+| Fonte: tabelas anteriores Elaboração: DECOM |  |
+
+**4.1.1.1.3 Da mão de obra**
+
+253\. Para o cálculo do custo com mão de obra na Índia incorrido na produção de tubos de aço inoxidável austenítico foram considerados os dados disponibilizados no sítio eletrônico da Organização Internacional do Trabalho (OIT). Cumpre destacar que foram considerados os salários mensais de trabalhadores, independentemente de gênero, nas ocupações de nível de qualificação médio (*Skill level 2 ~ médium*) e de montadores e operadores de máquinas (*ISCO-08: 8. Plant and machine operators, and assemblers*). Cabe notar que as informações são relativas ao ano de 2023, o qual, destaca-se, engloba 9 (nove) dos 12 (doze) meses do período de análise de dumping. O salário médio mensal considerando os dois tipos de força de trabalho foi dividido pelas 184,8 horas de uma jornada mensal de trabalho (44 horas por semana em 4,2 semanas) e o resultado convertido de rúpias indianas (INR) para dólares estadunidenses como segue:
+
+| **Mão de obra - Índia** |  |
+| --- | --- |
+| Salário mensal*Skill level 2 ~ medium*(INR) | 15.935,90 |
+| Salário mensal*ISCO-08: 8. Plant and machine operators, and assemblers*(INR) | 15.407,10 |
+| Salário mensal médio (INR) | 15.671,50 |
+| Horas por mês (44 horas por semana x 4,2 semanas por mês) | 184,80 |
+| Salário (INR/h) | 84,80 |
+| Salário (USD/h) | 1,03 |
+| Fonte: OIT e Banco Central do Brasil Elaboração: DECOM |  |
+
+254\. Na sequência, buscou-se apurar a quantidade produzida de tubos por empregado no período de um ano por meio da divisão do volume de tubos produzido pela Aperam Tubos em P5 pela quantitativo médio de empregados ligados à produção no mesmo período. Desse modo, obteve-se que cada empregado ligado à produção confeccionou [RESTRITO] toneladas de tubos de aço por ano. Em seguida, a partir do número de horas de trabalho contidas no período de um ano (44 horas por semana x 4,2 semanas x 12 meses) definiu-se a produtividade por empregado (0,04 tonelada/hora). Para apurar o coeficiente de mão de obra para a produção de 1 tonelada de aço, dividiu-se 1 pela produtividade por empregado (0,04 tonelada/hora) e o resultado foi multiplicado pelo salário médio por hora no país (USD/h 1,03). O quadro a seguir demonstra os cálculos efetuados:
+
+| Custo de mão de obra - Índia [RESTRITO] |  |
+| --- | --- |
+| Volume de produção de tubos da indústria doméstica em P5 (t) (a) | [REST.] |
+| Número de empregados (produção direta) (b) | [REST.] |
+| Número de empregados (produção indireta) (c) | [REST.] |
+| Número total de empregados na produção da ID (d) = (a) + (b) | [REST.] |
+| Volume de produção de tubos (t)/empregado (e) = (a) / (d) | [REST.] |
+| Número de horas de trabalho por ano por empregado (f) | 2.217,60 |
+| Produtividade por empregado (g) = (e) / (f) | [REST.] |
+| Quantidade de horas necessárias para a produção de 1t de tubo (h) = 1 / (g) | [REST.] |
+| Salário médio/hora (USD/h) | 1,03 |
+| Custo mão de obra produção (USD/t) | [REST.] |
+| Fonte: Petição, Relatório de VIL - Aperam Tubos e tabelas anteriores. Elaboração: DECOM |  |
+
+255\. Dessa forma, o custo com mão de obra para a produção de uma tonelada de tubos de aço inoxidável austenítico na Índia correspondeu à USD [RESTRITO] /t.
+
+**4.1.1.1.4 Outros custos variáveis e custos fixos**
+
+256\. O cálculo do montante de outros custos variáveis e de custos fixos foi realizado a partir da estrutura de custos da Aperam Tubos apresentada no Apêndice XVIII - Custo de produção. Assim, procedeu-se à apuração do percentual de representatividade desses dispêndios em relação ao custo total da principal matéria-prima utilizada na produção dos tubos de aço inoxidável austenítico, em P5.
+
+257\. Assim, foram considerados os códigos de material do principal item vendido em P5 pela Aperam Tubos para cada grau, 304 e 316. Considerando que os dados de custo de produção constantes no Apêndice XVIII são apresentados por CODIP, verificou-se qual o CODIP correspondente aos códigos de maior volume de vendas para cada grau, 304 e 316. Nesse caso, o CODIP correspondente ao código de produto de grau 304 mais vendido ([CONFIDENCIAL]) é o [CONFIDENCIAL]. Já no caso do código de produto de grau 316 mais vendido ([CONFIDENCIAL]), o CODIP correspondente é o [CONFIDENCIAL]. Assim, foram consideradas as estruturas de custo dos referidos CODIPs para o cálculo dos outros custos variáveis e dos custos fixos separadamente para os aços de graus 304 e 316
+
+258\. Por fim, os percentuais calculados para os graus 304 e 316 foram aplicados aos custos das matérias-primas para a produção dos tubos de aço inoxidável na Índia, de forma a se apurar os montantes relativos aos custos variáveis e fixos dos exportadores naquele país.
+
+259\. Os outros custos variáveis, conforme reportado pela peticionária, referem-se a custos com embalagens, abrasivos, serras, eletrodos, gases, combustíveis, lubrificantes e suprimentos de operação utilizados no processo de produção.
+
+| **Outros custos variáveis - Índia** [CONFIDENCIAL] |  |  |
+| --- | --- | --- |
+|  | Aço 304 (CODIP [CONF.] ) | Aço 316 (CODIP [CONF.]) |
+| Matéria-prima Aperam Tubos | [CONF.] | [CONF.] |
+| Embalagem (campo 5) | [CONF.] | [CONF.] |
+| Outros custos variáveis (campo 7) | [CONF.] | [CONF.] |
+| Total outros custos variáveis | [CONF.] | [CONF.] |
+| Participação dos custos variáveis | [CONF.] | [CONF.] |
+| Matéria-prima na Índia | 3.321,44 | 4.927,77 |
+| Outros custos variáveis (USD/t) | [CONF.] | [CONF.] |
+| Fonte: Petição, Relatório de VIL - Aperam Tubos e tabelas anteriores Elaboração: DECOM |  |  |
+
+260\. Já os custos fixos referem-se a dispêndios com aluguel, manutenção, serviços e com outros custos fixos, tais como materiais de expediente, ferramentas, materiais de segurança, material de consumo e peças e acessórios elétricos.
+
+| Custos fixos - Índia [CONFIDENCIAL] |  |  |
+| --- | --- | --- |
+|  | Aço 304 (CODIP [CONF.]) | Aço 316 (CODIP [CONF.]) |
+| Matéria-prima Aperam Tubos | [CONF.] | [CONF.] |
+| Aluguel | [CONF.] | [CONF.] |
+| Manutenção | [CONF.] | [CONF.] |
+| Serviços | [CONF.] | [CONF.] |
+| Outros custos fixos | [CONF.] | [CONF.] |
+| Total custos fixos | [CONF.] | [CONF.] |
+| Participação dos custos fixos | [CONF.] | [CONF.] |
+| Matéria-prima na Índia | 3.321,44 | 4.927,77 |
+| Custos fixos (USD/t) | [CONF.] | [CONF.] |
+| Fonte: Petição, Relatório de VIL - Aperam Tubos e tabelas anteriores Elaboração: DECOM |  |  |
+
+4.1.1.1.5 Da depreciação, das despesas administrativas, comerciais, financeiras e do lucro.
+
+261\. No caso da depreciação, das despesas administrativas, comerciais, despesas/receitas financeiras, outras despesas/receitas operacionais e da margem de lucro (*mark up*), foram considerados os dados apresentados no balanço anual não auditado da empresa indiana Prakash Steelage Limited, produtora de tubos de aço inoxidável.
+
+262\. Para composição das informações referentes ao período de análise de dumping, foram obtidas as demonstrações financeiras disponibilizadas pela empresa em seu sítio eletrônico. Para a composição dos meses incluídos no período de análise de dumping, foram considerados, primeiramente, os dados relativos ao ano finalizado em 2023 (ou seja, aos meses de abril de 2022 a março de 2023). De tais dados, foram deduzidos os valores relativos ao resultado do semestre finalizado em setembro de 2022 (ou seja, os meses de abril a setembro de 2022), obtendo-se, dessa forma, os dados relativos ao período de outubro de 2022 a março de 2023. Na sequência, foram adicionados os valores apresentados relativos ao semestre encerrado em setembro de 2023 (ou seja, de abril a setembro de 2023), consolidando, assim, os dados relativos ao período de análise de dumping (outubro de 2022 a setembro de 2023).
+
+263\. Os percentuais correspondentes a cada uma dessas rubricas foram obtidos por meio da divisão de seus valores pelo valor da soma dos custos com a aquisição de matérias-primas e das compras de mercadorias acabadas, conforme demonstrado a seguir:
+
+| **Percentuais de despesas e margem de lucro - Prakash Steelage Limited (P5) - em 10.000 INR** |  |  |
+| --- | --- | --- |
+|  | Valores | Percentuais (%) |
+| Receita operacional | 11.287 | - |
+| *Cost of material consumed (a)* | 7.599 | - |
+| Purchase of traded goods (b) | 1.615 | - |
+| (c) = (a) + (b) | 9.215 | - |
+| Despesas gerais, administrativas e de vendas | 1.502 | 16,1% |
+| Despesas/receitas financeiras | 12 | 0,1% |
+| Depreciação/amortização | 88 | 0,9% |
+| Margem de lucro (mark up) | 471 | 5,1% |
+| Fonte: Prakash Steelage Limited Elaboração: DECOM |  |  |
+
+264\. O valor do lucro na tabela anterior foi calculado por meio da dedução dos seguintes valores da receita operacional auferida pela empresa: aquisição de matérias-primas, compras de mercadorias acabadas, despesas gerais, administrativas e de vendas, depreciação/amortização e despesas financeiras.
+
+265\. Após a obtenção do lucro auferido pela empresa indiana, o seu montante foi dividido pelo custo de produção apresentado nos demonstrativos da Prakash Steelage Limited, calculando-se, assim, o percentual a ser aplicado ao custo de produção na Índia.
+
+266\. A depreciação foi aplicada ao custo de manufatura, anteriormente ao seu próprio cômputo, conforme demonstrado a seguir:
+
+| Depreciação e custo após a depreciação na Índia (em USD/t) [CONFIDENCIAL] / [RESTRITO] |  |  |
+| --- | --- | --- |
+|  | Aço grau 304 | Aço grau 316 |
+| Matéria-prima | 3.321,44 | 4.927,77 |
+| Energia elétrica | [CONF.] | [CONF.] |
+| Mão de obra | [REST.] | [REST.] |
+| Outros custos variáveis | [CONF.] | [CONF.] |
+| Outros custos fixos | [CONF.] | [CONF.] |
+| Custo antes da depreciação | 3.558,90 | **5.361,21** |
+| **Depreciação** | 33,98 | 51,18 |
+| Custo após a depreciação | 3.592,88 | 5.412,40 |
+| Fonte: Petição, Relatório de VIL - Aperam Tubos e tabelas anteriores. Elaboração: DECOM. |  |  |
+
+267\. Os percentuais das demais despesas/receitas e do lucro foram aplicados ao custo de manufatura após a depreciação, como segue:
+
+| Despesas operacionais e margem de lucro na Índia (USD/t) |  |  |
+| --- | --- | --- |
+|  | Aço grau 304 | Aço grau 316 |
+| Custo após a depreciação | 3.592,88 | 5.412,40 |
+| Despesas gerais, administrativas e de vendas | 579,92 | 873,61 |
+| Despesas/receitas financeiras | 4,46 | 6,71 |
+| Custo de produção total | 4.177,26 | 6.292,72 |
+| Margem de lucro (*mark up*) | 181,85 | 273,95 |
+| Fonte: tabelas anteriores. Elaboração: DECOM. |  |  |
+
+4.1.1.1.6 Do valor normal construído para fins de início da investigação
+
+268\. Por fim, considerando os valores apresentados nos itens precedentes, calculou-se o seguinte preço construído para a Índia, para cada grau de aço, por meio da soma do custo após a depreciação, das despesas operacionais e do lucro:
+
+| **Valor normal construído *delivered *- Índia (USD/t)** |  |  |
+| --- | --- | --- |
+|  | Aço grau 304 | Aço grau 316 |
+| Valor normal construído por grau do aço | 4.359,11 | 6.566,67 |
+| Fonte: tabelas anteriores. Elaboração: DECOM. |  |  |
+
+269\. De acordo com os dados de importações fornecidos pela RFB, [RESTRITO] % do produto objeto da investigação importado da Índia, de outubro de 2022 a setembro de 2023, corresponderam a tubos de aço inoxidável de grau 304. Já o restante ([RESTRITO] %) foi representado por tubos de aço do grau 316.
+
+270\. Ponderando-se os valores normais construídos para cada tipo de aço por esses percentuais, obtém-se o valor normal construído para a Índia de USD 4.577,18/t (quatro mil, quinhentos e setenta e sete dólares estadunidenses e dezoito centavos por tonelada). Considerou-se, para fins de início da investigação, que o valor normal construído se encontra na condição posto-cliente dada a inclusão de despesas de venda na sua composição, o que pressupõe a existência de frete interno no mercado indiano.
+
+**4.1.1.2 Do preço de exportação da Índia para fins de início da investigação**
+
+271\. De acordo com o art. 18 do Decreto nº 8.058, de 2013, o preço de exportação, caso o produtor seja o exportador do produto objeto da investigação, é o valor recebido ou a receber pelo produto exportado ao Brasil, líquido de tributos, descontos ou reduções efetivamente concedidos e diretamente relacionados com as vendas do produto objeto da investigação.
+
+272\. Para fins de apuração do preço de exportação de tubos de aço austenístico da Índia para o Brasil, foram consideradas as respectivas exportações destinadas ao mercado brasileiro efetuadas no período de análise de indícios de dumping, ou seja, as exportações realizadas de outubro de 2022 a setembro de 2023. Os dados referentes aos preços de exportação foram apurados tendo por base os dados detalhados das importações brasileiras, disponibilizados pela Receita Federal do Brasil (RFB), na condição FOB, excluindo-se as importações de produtos identificados como não sendo o produto objeto da investigação, conforme destacado no item 5.1 deste documento.
+
+273\. Assim, o valor para o preço de exportação FOB calculado foi em dólares por toneladas, conforme tabela a seguir.
+
+| **Preço de exportação - Índia** [RESTRITO] |  |  |
+| --- | --- | --- |
+| Valor FOB (USD) | Volume (toneladas) | Preço de exportação FOB (USD/t) |
+| [REST.] | [REST.] | 3.370,12 |
+| Fonte: Receita Federal do Brasil (RFB). Elaboração: DECOM. |  |  |
+
+274\. Desse modo, dividindo-se o valor total FOB das importações do produto objeto da investigação, no período de análise de dumping, pelo respectivo volume importado, em toneladas, apurou-se o preço de exportação para a Índia de USD 3.370,12/t (três mil, trezentos e setenta dólares estadunidenses e doze centavos por tonelada).
+
+4.1.1.3 Da margem de dumping da Índia para fins de início de investigação
+
+275\. A margem absoluta de dumping é definida como a diferença entre o valor normal e o preço de exportação, e a margem relativa de dumping se constitui na razão entre a margem de dumping absoluta e o preço de exportação.
+
+276\. Para fins de início da investigação, apurou-se o valor normal, conforme descrito no item 4.1.1 supra, e, com base nos volumes exportados, conforme descrito anteriormente. Dessa forma, considerou-se que o preço de exportação apurado em base FOB seria comparável com o valor normal construído, dado que o valor normal construído inclui despesas comerciais, nas quais a rubrica frete interno está inclusa.
+
+277\. Apresentam-se a seguir as margens de dumping absoluta e relativa apuradas para a Índia.
+
+| **Margem de dumping - Índia** |  |  |  |
+| --- | --- | --- | --- |
+| Valor normal (USD/t) (a) | Preço de exportação (USD/t) (b) | Margem de dumping absoluta (USD/t) (c) = (a) - (b) | Margem de dumping relativa (%) (d) = (c) / (b) |
+| 4.577,18 | 3.370,12 | 1.207,06 | 35,8% |
+| Fonte: Tabelas anteriores. Elaboração: DECOM. |  |  |  |
+
+4.1.2 De Taipé Chinês
+
+4.1.2.1 Do valor normal de Taipé Chinês para fins de início da investigação
+
+278\. De acordo com o art. 8º do Decreto nº 8.058, de 2013, considera-se "valor normal" o preço do produto similar, em operações comerciais normais, destinado ao consumo no mercado interno do país exportador.
+
+279\. O item "iii" do Art. 5.2 do Acordo Antidumping, incorporado ao ordenamento jurídico brasileiro por meio do Decreto nº 1.355, de 30 de dezembro de 1994, destaca que a petição deverá conter informação sobre os preços pelos quais o produto em questão é vendido quando destinado ao consumo no mercado doméstico do país de origem ou de exportação ou, quando for o caso, informação sobre os preços pelo quais o produto é vendido pelo país de origem ou de exportação a um terceiro país ou sobre o preço construído do produto.
+
+280\. A peticionária não logrou obter informações relativamente a preços de venda do produto objeto da investigação nos mercados internos de Taipé Chinês, assim, para fins de início da investigação, apurou-se o valor normal construído na origem com base em metodologia proposta pela peticionária. A metodologia empregada foi baseada em documentos e em dados fornecidos na petição inicial e na resposta ao pedido de informações complementares. A apuração foi realizada a partir da estrutura de custos da própria peticionária, nos termos do inciso II do art. 14 do Decreto nº 8.058, de 2013, que foram precificados por fatores de produção na origem.
+
+281\. Assim, partindo-se da estrutura de custos da peticionária, foram consideradas as seguintes rubricas:
+
+a) matérias-primas (bobina de aço inoxidável, graus 304 e 316, laminadas a frio e a quente);
+
+b) utilidades (energia elétrica);
+
+c) mão de obra - produção (direta e indireta);
+
+d) outros custos variáveis (embalagens e outros custos variados);
+
+e) outros custos fixos (aluguel, manutenção, serviços e outros custos fixos);
+
+h) despesas/receitas (comerciais, administrativas e gerais; financeiras);
+
+i) depreciação
+
+j) margem de lucro.
+
+282\. Conforme indicado no item 1.7, os dados aqui apresentados consideram os resultados da verificação*in loco*realizada pela autoridade investigadora.
+
+**4.1.2.1.1 Da matéria-prima**
+
+283\. A principal matéria-prima para a produção dos tubos de aço inoxidável austenítico são as bobinas de aço inoxidável dos graus 304 e 316. Segundo informado pela peticionária, para a produção de tubos com costura com espessuras superiores a 3 mm, utilizam-se, normalmente, as bobinas de aço inoxidável laminado a quente.
+
+284\. Ainda, de acordo com a Aperam Tubos, inexistem informações sobre os preços das bobinas laminadas a quente ou a frio especificamente para os mercados das origens investigadas para os graus 304 e 316. Assim, a peticionária apresentou a média aritmética dos preços mensais dessas bobinas, no período de análise de dumping (outubro de 2022 a setembro de 2023), em quatro países da Ásia: China, Coreia do Sul, Japão e Taipé Chinês. Tais informações foram obtidas no sítio da "reconhecida agência especializada no setor siderúrgico" MEPS (*International*) Ltd., cujo trabalho envolveria elaborar e divulgar estudos de preços e de mercados deste setor.
+
+| **Preços MEPS - Ásia (USD/t)** |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Período | Cold Rolled Coil (304) | Hot Rolled Coil (304) | Cold Rolled Coil (316) | Hot Rolled Coil (316) |
+| out-22 | 3.187,00 | 3.067,00 | 4.417,00 | 4.267,00 |
+| nov-22 | 3.109,00 | 3.005,00 | 4.387,00 | 4.226,00 |
+| dez-22 | 3.303,00 | 3.198,00 | 4.677,00 | 4.511,00 |
+| jan-23 | 3.349,00 | 3.248,00 | 4.964,00 | 4.781,00 |
+| fev-23 | 3.461,00 | 3.353,00 | 5.267,00 | 5.067,00 |
+| mar-23 | 3.240,00 | 3.131,00 | 4.973,00 | 4.806,00 |
+| abr-23 | 3.174,00 | 3.054,00 | 4.737,00 | 4.550,00 |
+| mai-23 | 3.008,00 | 2.890,00 | 4.559,00 | 4.378,00 |
+| jun-23 | 2.928,00 | 2.809,00 | 4.489,00 | 4.319,00 |
+| jul-23 | 2.835,00 | 2.710,00 | 4.362,00 | 4.206,00 |
+| ago-23 | 2.853,00 | 2.731,00 | 4.431,00 | 4.272,00 |
+| set-23 | 2.821,00 | 2.699,00 | 4.403,00 | 4.244,00 |
+| Out/22-Set/23 | 3.105,67 | 2.991,25 | 4.638,83 | 4.468,92 |
+|  | Média BF+BQ (304) | 3.048,46 | Média BF+BQ (316) | 4.553,88 |
+| Fonte: Petição, MEPS (International) Ltd. |  |  |  |  |
+
+285\. Como apontado anteriormente, cumpre informar que se solicitou à peticionária que apresentasse fonte alternativa do preço da matéria-prima de forma específica para a origem, sendo que esta destacou não haver dados de preço para as bobinas a quente e a frio nos graus de aço objeto da análise e ponderou que a fonte em questão foi a mesma utilizada em investigações/revisões de final de período anteriores. Cumpre destacar que uma das bases de formação dos preços da matéria-prima é o mercado de Taipé Chinês, a origem em questão.
+
+286\. Passo seguinte, calculou-se o coeficiente de consumo de bobinas para a produção de uma tonelada dos tubos de aço inoxidável austenítico mais vendidos pela peticionária, em P5, para cada um dos graus considerados - 304 e 316. Os coeficientes estão sumarizados a seguir:
+
+| Coeficientes técnicos de consumo de matéria-prima [CONFIDENCIAL] |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Grau do aço | Produto | Fase bobina fita | Fase fita para tubo | Índice técnico |
+| 304 | [CONF.] | [CONF.] | [CONF.] | [CONF.] |
+| 316 | [CONF.] | [CONF.] | [CONF.] | [CONF.] |
+| Fonte: Petição Elaboração: DECOM |  |  |  |  |
+
+287\. Aplicaram-se os coeficientes técnicos observados aos preços médios das bobinas, obtidos na publicação MEPS, de forma a se apurar o custo da matéria-prima utilizada na fabricação do produto objeto da investigação:
+
+| Custo da matéria-prima (USD/t) [CONFIDENCIAL] |  |  |  |
+| --- | --- | --- | --- |
+|  | 304 | 316 |  |
+| Preço médio bobina (USD/t) | 3.048,46 | 4.553,88 |  |
+| Coeficiente técnico | [CONF.] | [CONF.] |  |
+| Custo matéria-prima (USD/t) | [CONF.] | [CONF.] |  |
+| Fonte: MEPS (International) Ltd. e Petição Elaboração: DECOM |  |  |  |
+
+**4.1.2.1.2 Da energia elétrica**
+
+288\. Para a apuração do custo com energia elétrica, verificou-se o preço praticado em Taipé Chinês, em quilowatt/hora (kWh), para consumidores empresariais. O valor de USD 0,136/kWh foi apurado após conversão do preço observado em junho de 2023 (TWD/kWh 4,220), disponível no sítio eletrônico GlobalPetrolPrices.com, pela taxa paridade média entre o dólar de Taipé Chinês e o dólar estadunidense para o período de análise de dumping (outubro de 2022 a setembro de 2023) obtidas no sítio eletrônico do Banco Central do Brasil.
+
+289\. Na sequência, foram apurados, a partir dos dados apresentados pela peticionária, o consumo e a demanda mensal de energia elétrica para todos os meses do período de análise de dumping. Os respectivos valores, obtidos a partir das contas de energia elétrica da Aperam Tubos, encontram-se resumidas a seguir:
+
+| **Demanda e consumo de energia elétrica - P5 [CONFIDENCIAL]** |  |  |
+| --- | --- | --- |
+| **Período** | Demanda contratada em número-índice de kW | Consumo em número-índice de kWh (fora da ponta/ponta) |
+| out/22 | 100,0 | 100,0 |
+| nov/22 | 103,7 | 95,1 |
+| dez/22 | 96,7 | 89,1 |
+| jan/23 | 96,0 | 86,4 |
+| fev/23 | 92,8 | 76,2 |
+| mar/23 | 91,6 | 73,2 |
+| abr/23 | 92,6 | 74,7 |
+| mai/23 | 101,3 | 78,8 |
+| jun/23 | 94,5 | 76,6 |
+| jul/23 | 109,1 | 90,3 |
+| ago/23 | 112,1 | 102,5 |
+| set/23 | 100,6 | 89,3 |
+| Total P5 | [CONF.] | [CONF.] |
+| Fonte: Petição Elaboração: DECOM |  |  |
+
+290\. Para obter-se o coeficiente técnico de demanda e de consumo de energia elétrica para a produção de 1 tonelada de tubo, procedeu-se à divisão da quantidade total de quilowatt (kW) demandados e kWh consumidos pela Aperam Tubos, pelo volume total de produção, em toneladas, em P5, considerando não apenas o produto similar doméstico, mas também os demais produtos confeccionados na mesma planta. Observe-se que não foi necessário calcular o índice de consumo de energia elétrica considerando-se as diferenças tarifárias decorrentes de horários de pico, uma vez que a tarifa de energia elétrica em Taipé Chinês, conforme apresentada pela peticionária, não possui tal distinção.
+
+| Índice técnico de energia elétrica - Aperam Tubos - (P5)**[CONFIDENCIAL]** |  |  |
+| --- | --- | --- |
+|  | **Aperam Tubos** | Índice técnico |
+| Produção Total (t) | [CONF.] |  |
+| Demanda (kW) | [CONF.] | [CONF.] |
+| Consumo (kWh) | [CONF.] | [CONF.] |
+| Fonte: Petição e Relatório de VIL - Aperam Tubos Elaboração: DECOM |  |  |
+
+291\. O quadro a seguir apresenta o cálculo do custo com energia elétrica em Taipé Chinês, destacando-se que não foram apresentadas diferenças entre os valores para a produção de tubos de grau 304 ou 316:
+
+| Energia elétrica - Taipé Chinês**[CONFIDENCIAL]** |  |
+| --- | --- |
+| a. Preço da energia elétrica em Taipé Chinês (demanda/consumo) (USD/kW) | 0,136 |
+| b. Índice técnico de demanda da Aperam Tubos kW | [CONF.] |
+| c. Índice técnico de consumo da Aperam Tubos kWh/t | [CONF.] |
+| Custo de Energia Elétrica (USD/t) (a x b) + (a x c) | [CONF.] |
+| Fonte: tabelas anteriores Elaboração: DECOM |  |
+
+**4.1.2.1.3 Da mão de obra**
+
+292\. Para o cálculo do custo com mão de obra em Taipé Chinês incorrido na produção de tubos de aço inoxidável austenítico foram considerados os dados disponibilizados no sítio eletrônico do Ministério do Trabalho (*Ministry of Labour*) de Taipé Chinês. Cumpre destacar que foram considerados os salários mensais de trabalhadores da indústria e serviços durante o período entre novembro de 2022 e setembro de 2023, cuja média totalizou TWD 59.140,64, bem como a média de horas trabalhadas nesses respectivos meses (168,95 horas). Cumpre destacar que o salário referente ao mês de outubro de 2022 não estava mais disponível na base consultada. O salário médio mensal foi dividido pelas 168,95 horas de uma jornada mensal de trabalho e o resultado convertido de dólar de Taipé Chinês (TWD) para dólares estadunidenses como segue:
+
+| **Mão de obra - Taipé Chinês** |  |
+| --- | --- |
+| Salário mensal médio (TWD) | 59.140,64 |
+| Horas por mês | 168,95 |
+| Salário (TWD/h) | 350,06 |
+| Salário (USD/h) | 11,27 |
+| Fonte: Ministério do Trabalho (Ministry of Labour) de Taipé Chinês e Banco Central do Brasil Elaboração: DECOM |  |
+
+293\. Na sequência, buscou-se apurar a quantidade produzida de tubos por empregado no período de um ano por meio da divisão do volume de tubos produzido pela Aperam Tubos em P5 pela quantitativo médio de empregados ligados à produção no mesmo período. Desse modo, obteve-se que cada empregado ligado à produção confeccionou [RESTRITO] toneladas de tubos de aço por ano. Em seguida, a partir do número de horas de trabalho contidas no período de um ano (44 horas por semana x 4,2 semanas x 12 meses) definiu-se a produtividade por empregado (0,04 tonelada/hora). Para apurar o coeficiente de mão de obra para a produção de 1 tonelada de aço, dividiu-se 1 pela produtividade por empregado (0,04 tonelada/hora) e o resultado foi multiplicado pelo salário médio por hora no país (USD/h 11,27). O quadro a seguir demonstra os cálculos efetuados:
+
+| Custo de mão de obra - Taipé Chinês [RESTRITO] |  |
+| --- | --- |
+| Volume de produção de tubos da indústria doméstica em P5 (t) (a) | [REST.] |
+| Número de empregados (produção direta) (b) | [REST.] |
+| Número de empregados (produção indireta) (c) | [REST.] |
+| Número total de empregados na produção da ID (d) = (a) + (b) | [REST.] |
+| Volume de produção de tubos (t)/empregado (e) = (a) / (d) | [REST.] |
+| Número de horas de trabalho por ano por empregado (f) | 2.217,60 |
+| Produtividade por empregado (g) = (e) / (f) | [REST.] |
+| Quantidade de horas necessárias para a produção de 1t de tubo (h) = 1 / (g) | [REST.] |
+| Salário médio/hora (USD/h) | 11,27 |
+| Custo mão de obra produção (USD/t) | [REST.] |
+| Fonte: Petição, Relatório de VIL - Aperam Tubos e tabelas anteriores. Elaboração: DECOM |  |
+
+294\. Dessa forma, o custo com mão de obra para a produção de uma tonelada de tubos de aço inoxidável austenítico em Taipé Chinês correspondeu à USD [RESTRITO] /t.
+
+**4.1.2.1.4 Outros custos variáveis e custos fixos**
+
+295\. O cálculo do montante de outros custos variáveis e de custos fixos foi realizado a partir da estrutura de custos da Aperam Tubos apresentada no Apêndice XVIII - Custo de produção. Assim, procedeu-se à apuração do percentual de representatividade desses dispêndios em relação ao custo total da principal matéria-prima utilizada na produção de tubos de aço inoxidável austenítico, em P5.
+
+296\. Assim, foram considerados os códigos de material do principal item vendido em P5 pela Aperam Tubos para cada grau, 304 e 316. Considerando que os dados de custo de produção constantes no Apêndice XVIII são apresentados por CODIP, verificou-se qual o CODIP correspondente aos códigos de maior volume de vendas para cada grau, 304 e 316. Nesse caso, o CODIP correspondente ao código de produto de grau 304 mais vendido ([CONFIDENCIAL] ) é o [CONFIDENCIAL]. Já no caso do código de produto de grau 316 mais vendido ([CONFIDENCIAL]), o CODIP correspondente é o [CONFIDENCIAL]. Assim, foram consideradas as estruturas de custo dos referidos CODIPs para o cálculo dos outros custos variáveis e dos custos fixos separadamente para os aços de graus 304 e 316
+
+297\. Por fim, os percentuais calculados para os graus 304 e 316 foram aplicados aos custos das matérias-primas para a produção dos tubos de aço inoxidável em Taipé Chinês, de forma a se apurar os montantes relativos aos custos variáveis e fixos dos exportadores naquele país.
+
+298\. Os outros custos variáveis, conforme reportado pela peticionária, referem-se a custos com embalagens, abrasivos, serras, eletrodos, gases, combustíveis, lubrificantes e suprimentos de operação utilizados no processo de produção.
+
+| **Outros custos variáveis - Taipé Chinês** [CONFIDENCIAL] |  |  |
+| --- | --- | --- |
+|  | Aço 304 (CODIP [CONF.] ) | Aço 316 (CODIP [CONF.]) |
+| Matéria-prima Aperam Tubos | [CONF.] | [CONF.] |
+| Embalagem (campo 5) | [CONF.] | [CONF.] |
+| Outros custos variáveis (campo 7) | [CONF.] | [CONF.] |
+| **Total outros custos variáveis** | [CONF.] | **[CONF.]** |
+| Participação dos custos variáveis | [CONF.] | [CONF.] |
+| Matéria-prima em Taipé Chinês | 3.321,44 | 4.927,77 |
+| **Outros custos variáveis (USD/t)** | [CONF.] | **[CONF.]** |
+| Fonte: Petição, Relatório de VIL - Aperam Tubos e tabelas anteriores Elaboração: DECOM |  |  |
+
+299\. Já os custos fixos referem-se a dispêndios com aluguel, manutenção, serviços e com outros custos fixos, tais como materiais de expediente, ferramentas, materiais de segurança, material de consumo e peças e acessórios elétricos.
+
+| **Custos fixos - Taipé Chinês** [CONFIDENCIAL] |  |  |
+| --- | --- | --- |
+|  | Aço 304 (CODIP [CONF.]) | Aço 316 (CODIP [CONF.]) |
+| Matéria-prima Aperam Tubos | [CONF.] | [CONF.] |
+| Aluguel | [CONF.] | [CONF.] |
+| Manutenção | [CONF.] | [CONF.] |
+| Serviços | [CONF.] | [CONF.] |
+| Outros custos fixos | [CONF.] | [CONF.] |
+| **Total custos fixos** | [CONF.] | **[CONF.]** |
+| Participação dos custos fixos | [CONF.] | [CONF.] |
+| Matéria-prima em Taipé Chinês | 3.321,44 | 4.927,77 |
+| **Custos fixos (USD/t)** | [CONF.] | [CONF.] |
+| Fonte: Petição, Relatório de VIL - Aperam Tubos e tabelas anteriores Elaboração: DECOM |  |  |
+
+4.1.2.1.5 Da depreciação, das despesas administrativas, comerciais, financeiras e do lucro.
+
+300\. No caso da depreciação, das despesas administrativas, comerciais, despesas/receitas financeiras, outras despesas/receitas operacionais e da margem de lucro (*mark up*), foram considerados os dados apresentados no balanço anual da empresa de Taipé Chinês YC Inox Co., Ltd. , produtora de tubos de aço inoxidável.
+
+301\. Para composição das informações referentes ao período de análise de dumping, foram obtidas as demonstrações financeiras disponibilizadas pela empresa em seu sítio eletrônico. Para composição do período de análise de dumping, foram deduzidos, primeiramente, dos valores relativos ao ano de 2022 (janeiro a dezembro), os dados disponibilizados relativos ao terceiro trimestre de 2022 (janeiro a setembro), obtendo-se, assim, os valores relativos apenas ao quarto trimestre de 2022 (outubro a dezembro). A tais valores, foram adicionados aqueles relativos ao período encerrado no terceiro trimestre de 2023 (janeiro a setembro), obtendo-se, dessa forma, os dados relativos ao período de outubro de 2022 a setembro de 2023.
+
+302\. Os percentuais correspondentes a cada uma dessas rubricas foram obtidos por meio da divisão de seus valores pelo valor da soma dos custos operacionais, conforme demonstrado a seguir:
+
+**Percentuais de despesas e margem de lucro - YC Inox (P5) - em TWD x 1.000**
+
+Valores
+
+Percentuais (%)
+
+Receita operacional
+
+15.211.377
+
+-
+
+Custos operacionais
+
+14.087.720
+
+-
+
+Despesas gerais, administrativas e de vendas
+
+765.843
+
+5,4%
+
+Despesas/receitas financeiras
+
+117.008
+
+0,8%
+
+Depreciação/amortização
+
+378.401
+
+2,8%
+
+Margem de lucro (*mark up*)\*
+
+142.333
+
+1,3%\*\*
+
+\*janeiro a setembro de 2023
+
+\*\* percentual calculado em relação ao custo operacional de janeiro a setembro de 2023 (10.685.715)
+
+Fonte: YC Inox
+
+Elaboração: DECOM
+
+303\. Cabe notar que, apenas no que diz respeito à margem de lucro, tendo em vista ter sido observado prejuízo no período de outubro de 2022 a setembro de 2023, foi considerada a margem de lucro apurada pela YC Inox no período de janeiro a setembro de 2023.
+
+304\. O valor do lucro na tabela anterior foi calculado por meio da dedução dos seguintes valores da receita operacional auferida pela empresa: custos operacionais, despesas gerais, administrativas e de vendas, depreciação/amortização e despesas financeiras.
+
+305\. Após a obtenção do lucro auferido pela empresa de Taipé Chinês, o seu montante foi dividido pelo custo de produção apresentado nos demonstrativos da YC Inox, calculando-se, assim, o percentual a ser aplicado ao custo de produção em Taipé Chinês.
+
+306\. A depreciação foi aplicada ao custo de manufatura, anteriormente ao seu próprio cômputo, conforme demonstrado a seguir:
+
+| Depreciação e custo após a depreciação em Taipé Chinês (em USD/t) [CONFIDENCIAL] |  |  |
+| --- | --- | --- |
+|  | Aço grau 304 | Aço grau 316 |
+| Matéria-prima | 3.321,44 | 4.927,77 |
+| Energia elétrica | [CONF.] | [CONF.] |
+| Mão de obra | [CONF.] | [CONF.] |
+| Outros custos variáveis | [CONF.] | [CONF.] |
+| Outros custos fixos | [CONF.] | [CONF.] |
+| Custo antes da depreciação | 3.808,25 | 5.610,56 |
+| Depreciação | 105,11 | 154,86 |
+| Custo após a depreciação | 3.913,36 | **5.765,42** |
+| Fonte: Petição, Relatório de VIL - Aperam Tubos e tabelas anteriores. Elaboração: DECOM. |  |  |
+
+307\. Os percentuais das demais despesas/receitas e do lucro foram aplicados ao custo de manufatura após a depreciação, como segue:
+
+| **Despesas operacionais e margem de lucro em Taipé Chinês (USD/t)** |  |  |
+| --- | --- | --- |
+|  | Aço grau 304 | Aço grau 316 |
+| Custo após a depreciação | 3.913,36 | **5.765,42** |
+| Despesas gerais, administrativas e de vendas | 212,74 | 313,42 |
+| Despesas/receitas financeiras | 32,50 | 47,89 |
+| **Custo de produção total** | 4.158,60 | **6.126,73** |
+| Margem de lucro (*mark up*) | 52,13 | 76,80 |
+| Fonte: tabelas anteriores. Elaboração: DECOM. |  |  |
+
+**4.1.2.1.6 Do valor normal construído para fins de início da investigação**
+
+308\. Por fim, considerando os valores apresentados nos itens precedentes, calculou-se o seguinte preço construído para Taipé Chinês, para cada grau de aço, por meio da soma do custo após a depreciação, das despesas operacionais e do lucro:
+
+| **Valor normal construído *delivered *- Taipé Chinês (USD/t)** |  |  |
+| --- | --- | --- |
+|  | Aço grau 304 | Aço grau 316 |
+| Valor normal construído por grau do aço | 4.210,73 | 6.203,52 |
+| Fonte: tabelas anteriores. Elaboração: DECOM. |  |  |
+
+309\. De acordo com os dados de importações fornecidos pela RFB, [RESTRITO] % do produto objeto da investigação importado de Taipé Chinês, de outubro de 2022 a setembro de 2023, corresponderam a tubos de aço inoxidável de grau 304. Já o restante ([RESTRITO] %) foi representado por tubos de aço do grau 316.
+
+310\. Ponderando-se os valores normais construídos para cada tipo de aço por esses percentuais, obtém-se o valor normal construído para Taipé Chinês de USD 4.514,51/t (quatro mil, quinhentos e catorze dólares estadunidenses e cinquenta e um centavos por tonelada). Considerou-se, para fins de início da investigação, que o valor normal construído se encontra na condição posto-cliente dada a inclusão de despesas de venda na sua composição, o que pressupõe a existência de frete interno no mercado de Taipé Chinês.
+
+**4.1.2.2 Do preço de exportação de Taipé Chinês para fins de início da investigação**
+
+311\. De acordo com o art. 18 do Decreto nº 8.058, de 2013, o preço de exportação, caso o produtor seja o exportador do produto objeto da investigação, é o valor recebido ou a receber pelo produto exportado ao Brasil, líquido de tributos, descontos ou reduções efetivamente concedidos e diretamente relacionados com as vendas do produto objeto da investigação.
+
+312\. Para fins de apuração do preço de exportação de tubos de aço austenístico de Taipé Chinês para o Brasil, foram consideradas as respectivas exportações destinadas ao mercado brasileiro efetuadas no período de análise de indícios de dumping, ou seja, as exportações realizadas de outubro de 2022 a setembro de 2023. Os dados referentes aos preços de exportação foram apurados tendo por base os dados detalhados das importações brasileiras, disponibilizados pela Receita Federal do Brasil (RFB), na condição FOB, excluindo-se as importações de produtos identificados como não sendo o produto objeto da investigação, conforme destacado no item 5.1 deste documento.
+
+313\. Assim, o valor para o preço de exportação FOB calculado foi em dólares por toneladas, conforme tabela a seguir.
+
+| **Preço de exportação - Taipé Chinês** [RESTRITO] |  |  |
+| --- | --- | --- |
+| Valor FOB (USD) | Volume (toneladas) | Preço de exportação FOB (USD/t) |
+| [REST.] | [REST.] | 3.255,74 |
+| Fonte: Receita Federal do Brasil (RFB). Elaboração: DECOM. |  |  |
+
+314\. Desse modo, dividindo-se o valor total FOB das importações do produto objeto da investigação, no período de análise de dumping, pelo respectivo volume importado, em toneladas, apurou-se o preço de exportação para Taipé Chinês de USD 3.255,74**/t**(três mil, duzentos e cinquenta e cinco dólares estadunidenses e setenta e quatro centavos por tonelada).
+
+**4.1.2.3 Da margem de dumping de Taipé Chinês para fins de início de investigação**
+
+315\. A margem absoluta de dumping é definida como a diferença entre o valor normal e o preço de exportação, e a margem relativa de dumping se constitui na razão entre a margem de dumping absoluta e o preço de exportação.
+
+316\. Para fins de início da investigação, apurou-se o valor normal, conforme descrito no item 4.1.2 supra, e, com base nos volumes exportados, conforme descrito anteriormente. Dessa forma, considerou-se que o preço de exportação apurado em base FOB seria comparável com o valor normal construído, dado que o valor normal construído inclui despesas comerciais, no qual a rubrica frete interno está inclusa.
+
+317\. Apresentam-se a seguir as margens de dumping absoluta e relativa apuradas para Taipé Chinês.
+
+| **Margem de dumping - Taipé Chinês** |  |  |  |
+| --- | --- | --- | --- |
+| Valor normal (USD/t) (a) | Preço de exportação (USD/t) (b) | Margem de dumping absoluta (USD/t) (c) = (a) - (b) | Margem de dumping relativa (%) (d) = (c) / (b) |
+| 4.514,51 | 3.255,74 | 1.258,77 | 38,7% |
+| Fonte: Tabelas anteriores. Elaboração: DECOM. |  |  |  |
+
+4.2**Do dumping para efeito da determinação preliminar**
+
+318\. Conforme indicado no item 1.4 deste documento, o questionário de produtor/exportador foi encaminhado aos produtores/exportadores da Índia e de Taipé Chinês. Considerando as respostas recebidas tempestivamente de produtores da Índia, indicadas no item 1.6, a apuração preliminar de dumping nas exportações de tubos de aço inoxidável austenítico da Índia para o Brasil foi realizada com base nas informações fornecidas pelas empresas produtoras/exportadoras, considerando as respostas aos questionários, bem como as informações complementares fornecidas pelas empresas.
+
+319\. Frisa-se que a determinação preliminar ocorreu em momento prévio à finalização dos procedimentos de verificação*in loco*realizados nas empresas produtoras/exportadoras indianas que apresentaram questionário.
+
+**4.2.1 Da Índia**
+
+4.2.1.1 Do produtor/exportador Suncity
+
+320\. Apresentam-se, nos tópicos subsequentes, o valor normal e o preço de exportação do produtor/exportador Suncity, apurados em sede de determinação preliminar, calculados com base na sua resposta ao questionário do produtor/exportador e na resposta ao pedido de informações complementares.
+
+321\. Os cálculos desenvolvidos levaram em consideração os CODIPs em que se classificaram os produtos vendidos, assim como as categorias de cliente ([CONFIDENCIAL]). Neste ponto, indica-se que as categorias [CONFIDENCIAL] foram aglutinadas e consideradas como uma categoria única.
+
+**4.2.1.1.1 Do valor normal**
+
+322\. O valor normal da Suncity foi apurado a partir dos dados fornecidos pela empresa em resposta ao questionário do produtor/exportador e ao ofício de informações complementares, relativos aos preços efetivos de venda do produto similar no mercado interno indiano, consideradas apenas as operações comerciais normais e os seus custos de produção, de acordo com o contido no art. 8º do Decreto nº 8.058, de 2013.
+
+323\. Com vistas à apuração do valor normal*ex fabrica*, para identificação das operações comerciais normais, foram deduzidas as seguintes rubricas do valor bruto de suas vendas destinadas ao mercado interno, considerando os valores de recuperação de frete dos cliente: descontos concedidos por quantidade, outros descontos concedidos, notas de crédito, custo financeiro, impostos sobre vendas, frete da planta produtiva até o armazém de distribuição, frete entre as plantas produtivas/armazéns de distribuição da empresa, frete e seguro internos da unidade de produção/armazenagem para o cliente, despesa de armazenagem pré-venda, comissões pagas a agentes de venda, multas pelo atraso na entrega da mercadoria, despesas de embalagem, despesas indiretas de venda e custo de manutenção de estoque. Por outro lado, as seguintes rubricas foram adicionadas ao valor bruto de suas vendas destinadas ao mercado interno: notas de débito e receita de juros. As supramencionadas rubricas foram deduzidas ou adicionadas em conformidade com os dados reportados no apêndice de vendas no mercado interno da produtora indiana.
+
+324\. Sobre a apuração do custo de manutenção de estoque, pontua-se que a empresa apurou o período médio em estoque considerando a totalidade de seus produtos, o que impossibilitou o cálculo especificamente para o produto objeto da presente investigação. Além disso, a empresa considerou para a apuração do período médio em estoque o volume do estoque final de 31 de março de 2023, que não consiste no último mês de P5.
+
+325\. Assim, para fins de determinação preliminar, optou-se por ajustar o cálculo do custo de manutenção do estoque. Primeiro, o período médio em estoque da empresa foi recalculado a partir dos dados reportados, considerando a totalidade dos produtos em estoque e vendidos durante P5 e o volume médio mensal do estoque médio considerando P5. Como resultado, apurou-se o período médio em estoque da empresa em [CONFIDENCIAL] dias, conforme detalhado abaixo:
+
+| **Ajuste cálculo período médio em estoque (P5)** [CONFIDENCIAL] |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| P5 (Outubro/2022 a setembro/2023) | Volume médio mensal P5 (A) | Net Sales Qty (In KG) (Domestic) | Net Sales Qty (In KG) (Export) | Net Sales Qty (In KG) (B) |
+|  | [CONF.] | [CONF.] | [CONF.] | [CONF.] |
+| Período médio em estoque (A/B x 365) | [CONF.]**dias** |  |  |  |
+| Fonte: Questionário Suncity Elaboração: DECOM |  |  |  |  |
+
+326\. Após o ajuste no cálculo do período médio em estoque, passou-se à associação de cada operação de venda ao respectivo custo de manufatura do produto vendido, em P5. Considerando que foi possível associar [CONFIDENCIAL] % do volume das vendas ao respectivo custo de manufatura, no mesmo mês da venda, utilizaram-se métodos alternativos para realizar a associação das demais vendas. Quando não foi possível associar a venda ao respectivo custo de manufatura, no mesmo mês de produção, buscou-se alternativamente o custo de manufatura do mês imediatamente anterior ([CONFIDENCIAL]% do volume das vendas). Nos casos em que essa alternativa também não foi bem-sucedida, buscou-se a comparação do produto ao custo médio de todo o período ([CONFIDENCIAL]% do volume das vendas). Ainda, para os restantes dos casos ([CONFIDENCIAL]% do volume das vendas), a alternativa foi buscar o custo de manufatura de produtos com características próximas, eliminando-se sucessivamente, para tanto, as últimas características da formação do CODIP, primeiramente buscando a correlação dentro do próprio mês da venda, em seguida no mês imediatamente anterior e, por fim, buscando a média de P5.
+
+327\. Após a apuração dos preços na condição*ex fabrica*, à vista, de cada uma das operações de venda destinadas ao mercado interno indiano, buscou-se, para fins de apuração do valor normal, identificar operações que não corresponderiam a operações comerciais normais, nos termos do § § 1º e 7º do art. 14 do Decreto nº 8.058, de 2013.
+
+328\. Nesse sentido, buscou-se, inicialmente, identificar as operações que foram realizadas a preços inferiores ao custo de produção unitário do produto similar, no momento da venda, conforme o estabelecido no § 1º do art. 14 do Decreto nº 8.058, de 2013. Para tanto procedeu-se à comparação entre o valor de cada venda na condição*ex fabrica*e o respectivo custo de produção.
+
+329\. Ressalte-se que o custo de produção foi aferido por meio dos dados reportados pela empresa no apêndice de custo da resposta ao questionário do produtor/exportador. Nesse sentido, o custo total, líquido das despesas de venda, consistiu na soma do custo de manufatura com os valores relativos a despesas gerais e administrativas, despesas financeiras e outras despesas incorridas pela empresa. Frisa-se que foi empregada a mesma metodologia aplicada no cálculo do custo de manutenção de estoque, previamente relatada neste documento, para identificação dos custos de produção das vendas de mercadorias classificadas em CODIPs que não tiveram produção no mês da venda ou, ainda, em P5.
+
+330\. Assim, a partir da comparação entre o valor da venda*ex fabrica*e o custo de produção, constatou-se que, do total de transações envolvendo tubos de aço inoxidável austenítico realizadas pela Suncity no mercado indiano, ao longo dos 12 meses que compõem o período de análise de dumping (P5), [CONFIDENCIAL] ([CONFIDENCIAL] kg) foram realizadas a preços abaixo do custo unitário mensal no momento da venda (computados os custos unitários de produção do produto similar, fixos e variáveis - bem como as despesas gerais e administrativas, despesas financeiras e outras despesas).
+
+331\. Dessa forma, o volume de vendas abaixo do custo unitário superou 20% do volume vendido nas transações consideradas para a determinação do valor normal, correspondendo à "quantidade substancial" prevista no inciso II, § 2º e no § 3º do art. 14 do Decreto nº 8.058, de 2013. Esse resultado ensejaria, portanto, a desconsideração dessas operações. Antes, contudo, foi realizado o teste de recuperação, conforme previsão do § 4º do art. 14 do Decreto nº 8.058, de 2013, que busca eliminar os efeitos de eventuais sazonalidades na produção ou no consumo do produto.
+
+332\. Para tanto, comparou-se o preço líquido (para fins de teste de vendas abaixo do custo) das vendas que foram realizadas abaixo do custo de produção médio mensal com o custo unitário de produção médio ponderado obtido no período de análise de dumping (P5), referente a cada CODIP. Após esse teste, constatou-se que [CONFIDENCIAL]% das vendas que seriam desconsideradas puderam ser recuperadas ([CONFIDENCIAL] kg).
+
+333\. Concluiu-se que [CONFIDENCIAL] ([CONFIDENCIAL] kg) das vendas foram realizadas abaixo do custo de produção médio mensal e do custo de produção médio em P5, devendo ser desconsideradas para a apuração do valor normal, conforme previsto no inciso § 1º do art. 14 do Decreto nº 8.058, de 2013.
+
+334\. Com relação ao exame das vendas realizadas pelo produtor/exportador indiano a partes relacionadas no mercado interno, note-se que a Suncity informou, em resposta ao questionário do produtor/exportador, ter realizado vendas no mercado interno da Índia [CONFIDENCIAL].
+
+335\. Nesse sentido, nos termos do § 9º do art. 14 do Decreto nº 8.058, de 2013, a fim de avaliar se as vendas desses produtos poderiam ser consideradas como operações comerciais normais, procurou-se comparar o preço médio de venda de cada binômio "código de produto/categoria das partes relacionadas" com o respectivo preço médio de venda para partes não relacionadas no mercado interno indiano. Uma vez que foram identificadas vendas a partes relacionadas de mais de um binômio CODIP-categoria de cliente, as diferenças de preço obtidas por cada binômio foram ponderadas pelas quantidades totais vendidas a cada um desses tipos de relacionamento com clientes, considerando todos os binômios de vendas a partes relacionadas. Uma vez que a diferença percentual ponderada apurada de [CONFIDENCIAL]% superou a margem tolerável de ±3%, todas as vendas a partes relacionadas foram desconsideradas para fins de apuração do valor normal.
+
+336\. Ante o exposto, o volume total de vendas do produto similar destino ao consumo no mercado interno da Índia, em condições normais de comércio, alcançou [CONFIDENCIAL]% ([CONFIDENCIAL] kg) das vendas da Suncity, em P5.
+
+337\. Buscou-se, avaliar, em seguida, se as vendas no mercado interno foram realizadas em quantidades suficientes por meio do binômio CODIP-categoria de cliente, conforme determina o § 1º do art. 12 do Decreto nº 8.058, de 2013.
+
+338\. Considerando apenas as vendas normais, não houve venda suficiente, ou seja, o volume de vendas no mercado interno foi inferior a 5% do volume exportado ao Brasil, para os CODIPs [CONFIDENCIAL]. Por esse motivo, nos termos do inciso II do caput do art. 14 do Decreto nº 8.508, de 2013, o valor normal da Suncity, para esses binômios CODIP-categoria de cliente, foi apurado com base no valor construído no país de origem. Em relação aos binômios [CONFIDENCIAL] em decorrência de não ter sido reportado seus respectivos custos de produção, apropriou-se do custo de produção dos CODIP mais próximo, quais sejam, respectivamente, [CONFIDENCIAL].
+
+339\. Para a construção do valor normal, foi considerado o custo de produção da Suncity [CONFIDENCIAL], conforme reportado na resposta da empresa ao questionário do produtor/exportador. No entanto, a partir das vendas normais ([CONFIDENCIAL]), a margem de lucro apurada ([CONFIDENCIAL]), que representou um percentual de [CONFIDENCIAL]do custo de produção [CONFIDENCIAL]) a partir das vendas normais, não foi considerada como razoável para fins de determinação preliminar.
+
+340\. Cumpre mencionar que a Suncity, em resposta ao questionário do produtor/exportador, reportou aquisição de fatores produtivos de partes relacionadas. No entanto, para fins de determinação preliminar, foram mantidos os valores reportados pela empresa no custo de produção, sem que tenha sido possível avaliar eventual impacto sobre a margem de lucro diminuta referente às vendas normais da empresa. Para fins de determinação final a análise será aprofundada, levando em conta o resultado da verificação*in loco*realizada na empresa.
+
+341\. Sendo assim, calculou-se a margem de lucro a partir das informações dispostas na DRE da empresa para o ano fiscal finalizado em março de 2023, considerando o CPV apurado ([CONFIDENCIAL]) em relação ao lucro ([CONFIDENCIAL]), obtendo o percentual de [CONFIDENCIAL]%. Cumpre registrar que na construção do valor normal, a margem de lucro aplicada, em função da metodologia utilizada em sua apuração, foi multiplicada pelo custo de manufatura do CODIP, e, a esse resultado, foram somadas as despesas para se obter o custo de produção acrescido do lucro.
+
+342\. Por outro lado, houve vendas suficientes para os seguintes binômios, tendo sido seus valores normais apurados nos termos do art. 8do Decreto nº 8.508, de 2013: [CONFIDENCIAL]
+
+343\. Após a determinação das transações no mercado interno que deveriam ser consideradas como operações comerciais normais, obteve-se o valor bruto, na condição*ex fabrica*, para cada venda interna da Suncity. Para tanto, foram acrescidas as despesas indiretas de vendas do valor utilizado para realização dos testes de vendas abaixo do custo realizados anteriormente, conforme reportado no Apêndice V.
+
+344\. Registre-se que a empresa apresentou os dados de vendas destinadas ao mercado da Índia e do custo de produção em moeda local. Nesse sentido, os valores reportados das vendas foram convertidos para dólar estadunidense com base na paridade cambial publicada pelo Banco Central do Brasil, levando-se em consideração a taxa de câmbio diária da data de cada operação de venda ou a taxa de câmbio de referência, quando cabível. Em relação ao custo de produção, utilizou-se a taxa de câmbio anual média de P5.
+
+4.2.1.1.2 Do preço de exportação
+
+345\. Dessa forma, o valor normal da Suncity, na condição ex fabrica, ponderado pelo volume dos CODIPs exportados pela empresa para o Brasil, alcançou USD [RESTRITO].
+
+346\. Para fins de apuração do preço de exportação de tubos de aço inoxidável austenítico da Índia para o Brasil pela Suncity, foram consideradas as respectivas exportações destinadas ao mercado brasileiro efetuadas no período de investigação de dumping, reportadas pela empresa, na condição*ex fabrica*. Para tanto, deduziram-se do preço bruto os valores referentes aos abatimentos concedidos, ao custo financeiro, ao frete da planta produtiva/armazenagem até o porto de embarque, ao seguro interno/internacional, às despesas portuárias, ao frete internacional, às comissões pagas a agentes de venda, às despesas bancárias, ao resultado da diferença cambial, às despesas bancárias no recebimento dos valores dos clientes, às despesas indiretas de vendas, ao custo de manufatura e às despesas com embalagem.
+
+| **Preço de exportação preliminar Suncity - Índia** RESTRITO |  |  |
+| --- | --- | --- |
+| Valor EXW (USD) | Volume (kg) | Preço de exportação FOB (USD/t) |
+| [REST.] | [REST.] | [REST.] |
+| Elaboração: DECOM Fonte: RFB |  |  |
+
+347\. Desse modo, dividindo-se o valor total*ex fabrica*das importações do produto objeto da investigação originárias da empresa indiana Suncity, no período de análise de dumping, pelo respectivo volume importado, apurou-se preço de exportação de USD [RESTRITO] .
+
+**4.2.1.1.3 Da margem de dumping**
+
+348\. Para fins de determinação preliminar, apuraram-se as seguintes margens de dumping absoluta e relativa para a empresa produtora/exportadora indiana Suncity a partir dos dados detalhados nos itens 4.2.1.1.1 e 4.2.1.1.2.
+
+| **Margem de dumping preliminar Suncity - Índia** [RESTRITO] |  |  |  |
+| --- | --- | --- | --- |
+| Valor normal (USD/t) | Preço de exportação (USD/t) | Margem de Dumping Absoluta (USD/t) | Margem de Dumping Relativa (%) |
+| [REST.] | [REST.] | 139,09 | 4,7% |
+| Elaboração: DECOM Fonte: Questionário do produtor/exportador da Suncity |  |  |  |
+
+4.2.1.2 Do produtor/exportador Sun Mark
+
+349\. Apresentam-se, nos tópicos subsequentes, o valor normal e o preço de exportação do produtor/exportador Sun Mark, apurados em sede de determinação preliminar, calculados com base na sua resposta ao questionário do produtor/exportador e na resposta ao pedido de informações complementares.
+
+350\. Os cálculos desenvolvidos levaram em consideração os CODIPs em que se classificaram os produtos vendidos, assim como as categorias de cliente [CONFIDENCIAL]), as únicas relativas às exportações da empresa para o Brasil. Neste ponto, indica-se que as referidas categorias foram aglutinadas e consideradas como categoria única.
+
+351\. Adicionalmente, cumpre informar que, em resposta ao questionário do produtor/exportador, foi apontada a existência de empresa indiana relacionada à Sun Mark, denominada Sunrise Stainless Private Limited (Sunrise), que possui unidade fabril de tubos de aço inoxidável. Foi apontado que a Sunrise produziu e vendeu, no mercado doméstico indiano, tubos de aço inoxidável similares ao da investigação, contudo, não exportou o referido produto para o Brasil
+
+352\. Ademais, [CONFIDENCIAL]. Destaca-se, que apesar de terem sido reportadas as vendas da Sunrise de tubos similares ao investigado destinadas ao mercado interno indiano, de fabricação própria, tais informações não foram utilizadas para fins de apuração do valor normal do grupo econômico devido a empresa não ter exportado o produto investigado para o Brasil. Informa-se, no entanto, que por ser fabricante de tubos similares ao investigado e relacionada à Sun Mark, a Sunrise fará jus ao direito antidumping a ser determinado para a Sun Mark.
+
+**4.2.1.2.1 Do valor normal**
+
+353\. O valor normal da Sun Mark foi apurado a partir dos dados fornecidos pela empresa em resposta ao questionário do produtor/exportador e ao ofício de informações complementares, relativos aos preços efetivos de venda do produto similar no mercado interno indiano, consideradas apenas as operações comerciais normais e os seus custos de produção, de acordo com o contido no art. 8º do Decreto nº 8.058, de 2013.
+
+354\. Com vistas à apuração do valor normal*ex fabrica*, para identificação das operações comerciais normais, inicialmente, foram adicionados aos valores brutos de suas vendas destinadas ao mercado interno os valores reportados de recuperação de frete. A partir desse resultado foram deduzidos os valores referentes a: devoluções, outros descontos concedidos, custo financeiro, frete interno da unidade de produção/armazenagem para o cliente, despesas de embalagem, despesas indiretas de venda e custo de manutenção de estoque.
+
+355\. Cumpre destacar que, preliminarmente, optou-se por deduzir as despesas indiretas de venda para fins de apuração do valor*ex fabrica*em função de terem sido reportados valores distintos para a referida rubrica a depender do mercado de comparação (interno e externo). Nesse sentido, tal diferença teria o condão de afetar a comparabilidade de preços entre os mercados. Cumpre mencionar que tais dados serão objeto de verificação*in loco*, momento oportuno para sua validação.
+
+356\. O custo de manutenção de estoque foi apurado a partir da metodologia definida pela autoridade considerando o giro de estoque para a totalidade dos produtos da empresa em P5 ([CONFIDENCIAL] dias), a taxa de juros obtida em empréstimos de curto prazo ([CONFIDENCIAL] ao ano) e o custo de manufatura (custo de produção deduzido de despesas gerais, administrativas, financeiras e outras despesas) do respectivo CODIP no mês de venda. Considerando que foi possível associar [CONFIDENCIAL]% do volume das vendas ao respectivo custo de manufatura, no mesmo mês da venda, utilizaram-se métodos alternativos para realizar a associação das demais vendas.
+
+357\. Quando não foi possível associar a venda ao respectivo custo de manufatura, no mesmo mês de produção, buscou-se alternativamente o custo de manufatura do mês imediatamente anterior ([CONFIDENCIAL]% do volume das vendas). Nos casos em que essa alternativa também não foi bem-sucedida, buscou-se a comparação do produto ao custo médio de todo o período ([CONFIDENCIAL]% do volume das vendas). Ainda, para os restantes dos casos ([CONFIDENCIAL]% do volume das vendas), a alternativa foi buscar o custo de manufatura de produtos com características próximas, eliminando-se sucessivamente, para tanto, as últimas características da formação do CODIP, considerando o custo de manufatura médio de P5.
+
+358\. O custo financeiro foi calculado por meio da multiplicação entre a taxa de juros de curto prazo, [CONFIDENCIAL]%, o valor da venda bruto e a diferença entre a data de recebimento do pagamento e data de embarque.
+
+359\. Após a apuração dos valores na condição*ex fabrica*, de cada uma das operações de venda destinadas ao mercado interno indiano, buscou-se, para fins de apuração do valor normal, identificar operações que não corresponderiam a operações comerciais normais, nos termos do § § 1º e 7º do art. 14 do Decreto nº 8.058, de 2013.
+
+360\. Nesse sentido, buscou-se, identificar as operações que foram realizadas a preços inferiores ao custo de produção unitário do produto similar, no momento da venda, conforme o estabelecido no § 1º do art. 14 do Decreto nº 8.058, de 2013. Para tanto procedeu-se à comparação entre o valor de cada venda na condição*ex fabrica*e o respectivo custo de produção.
+
+361\. Ressalte-se que o custo de produção foi aferido por meio dos dados reportados pela empresa no apêndice de custo de produção da resposta ao questionário do produtor/exportador. Nesse sentido, o custo total, líquido das despesas de venda, consistiu na soma do custo de manufatura com os valores relativos a despesas gerais e administrativas e despesas financeiras incorridas pela empresa. Frisa-se que foi empregada a mesma metodologia aplicada no cálculo do custo de manutenção de estoque, previamente relatada neste documento, para identificação dos custos de produção das vendas de mercadorias classificadas em CODIPs que não tiveram produção no mês da venda.
+
+362\. Assim, a partir da comparação entre o valor da venda*ex fabrica*e o custo de produção, constatou-se que, do total de transações envolvendo tubos de aço inoxidável austenítico realizadas pela Sun Mark no mercado indiano, ao longo dos 12 meses que compõem o período de análise de dumping (P5), [CONFIDENCIAL] kg) foram realizadas a preços abaixo do custo unitário mensal no momento da venda (computados os custos unitários de produção do produto similar, fixos e variáveis - bem como as despesas gerais e administrativas e despesas financeiras). Dessa forma, o volume de vendas abaixo do custo unitário superou 20% do volume vendido nas transações consideradas para a determinação do valor normal, correspondendo à "quantidade substancial" prevista no inciso II, § 2º e no § 3º do art. 14 do Decreto nº 8.058, de 2013. Esse resultado ensejaria, portanto, a desconsideração dessas operações. Antes, contudo, foi realizado o teste de recuperação, conforme previsão do § 4º do art. 14 do Decreto nº 8.058, de 2013, que busca eliminar os efeitos de eventuais sazonalidades na produção ou no consumo do produto.
+
+363\. Para tanto, comparou-se o preço líquido (para fins de teste de vendas abaixo do custo) das vendas que foram realizadas abaixo do custo de produção médio mensal com o custo unitário de produção médio ponderado obtido no período de análise de dumping (P5), referente a cada CODIP. Após esse teste, constatou-se que [CONFIDENCIAL]% das vendas que seriam desconsideradas puderam ser recuperadas ([CONFIDENCIAL]kg).
+
+364\. Concluiu-se que [CONFIDENCIAL] ([CONFIDENCIAL]kg) das vendas foram realizadas abaixo do custo de produção médio mensal e do custo de produção médio em P5, devendo ser desconsideradas para a apuração do valor normal, conforme previsto no inciso § 1º do art. 14 do Decreto nº 8.058, de 2013.
+
+365\. Com relação ao exame das vendas realizadas pelo produtor/exportador indiano a partes relacionadas no mercado interno, note-se que a Sun Mark informou, em resposta ao questionário do produtor/exportador, ter realizado vendas no mercado interno da Índia [CONFIDENCIAL].
+
+366\. Nesse sentido, nos termos do § 9º do art. 14 do Decreto nº 8.058, de 2013, a fim de avaliar se as vendas desses produtos poderiam ser consideradas como operações comerciais normais, procurou-se comparar o preço médio de venda de cada binômio CODIP-categoria de cliente considerando os tipos de relacionamento com o cliente: relacionados e não relacionados. Uma vez que foram identificadas vendas a partes relacionadas de mais de um binômio CODIP-categoria de cliente, as diferenças de preço obtidas por cada binômio foram ponderadas pelas quantidades totais vendidas a cada um desses tipos de relacionamento com clientes, considerando todos os binômios de vendas a partes relacionadas. Uma vez que a diferença percentual ponderada apurada de [CONFIDENCIAL]% superou a margem tolerável de ±3%, todas as vendas a partes relacionadas foram desconsideradas para fins de apuração do valor normal. Quando não foi possível associação direta entre os CODIPs-categoria de cliente de vendas a partes relacionadas e não relacionadas, foi utilizada metodologia similar à de apropriação de custo de manufatura/produção mencionada anteriormente. Inicialmente foram comparados os preços praticados sem considerar a categoria de cliente, e, na sequência, as comparações foram estabelecidas com a eliminação das últimas características do CODIP (da menos influente para a mais influente em termos de custo de produção e preço).
+
+367\. Ante o exposto, o volume total de vendas do produto similar destino ao consumo no mercado interno da Índia, em condições normais de comércio, alcançou [CONFIDENCIAL]% [CONFIDENCIAL]kg) das vendas da Sun Mark, em P5.
+
+368\. Buscou-se, avaliar, em seguida, se as vendas no mercado interno foram realizadas em quantidades suficientes por meio do binômio CODIP-categoria de cliente, conforme determina o § 1º do art. 12 do Decreto nº 8.058, de 2013.
+
+369\. Considerando apenas as vendas normais, não houve venda suficiente, ou seja, o volume de vendas no mercado interno foi inferior a 5% do volume exportado ao Brasil, para os CODIPs [CONFIDENCIAL] considerando a categoria de cliente aglutinada [CONFIDENCIAL]. Por esse motivo, nos termos do art. 13 e do inciso II do caput do art. 14 do Decreto nº 8.508, de 2013, o valor normal da Sun Mark, para esses binômios CODIP-categoria de cliente, foi apurado com base no valor construído no país de origem. Em relação ao CODIP [CONFIDENCIAL], em decorrência de não ter sido reportado seu respectivo custo de produção, apropriou-se do custo de produção do CODIP mais próximo, qual seja [CONFIDENCIAL].
+
+370\. Assim, foi considerado o custo de produção da Sun Mark [CONFIDENCIAL], conforme reportado na resposta da empresa ao questionário do produtor/exportador, além de margem de lucro ([CONFIDENCIAL], apurada como um percentual ([CONFIDENCIAL] do custo de produção [CONFIDENCIAL]. A margem de lucro foi calculada considerando-se as vendas do produto similar, em condições normais de comércio ([CONFIDENCIAL], destinado a consumo no mercado interno indiano, conforme reportado pela empresa, bem como seu respectivo custo de produção.
+
+371\. Cumpre ressalvar que a Sun Mark, em resposta ao questionário do produtor/exportador, reportou aquisição de fatores produtivos de partes relacionadas. No entanto, para fins de determinação preliminar, foram mantidos os valores reportados pela empresa no custo de produção. Para fins de determinação final a análise será aprofundada, levando em conta o resultado da verificação*in loco*realizada na empresa.
+
+372\. Houve vendas suficientes para os demais binômios, tendo sido seus valores normais apurados com base nos seus respectivos preços de venda, na condição*ex fabrica*, no mercado interno indiano, conforme o art. 8º do Regulamento Brasileiro.
+
+373\. Registre-se que a empresa apresentou os dados de vendas destinadas ao mercado da Índia e do custo de produção em moeda local. Nesse sentido, os valores reportados das vendas foram convertidos para dólar estadunidense com base na paridade cambial publicada pelo Banco Central do Brasil, levando-se em consideração a taxa de câmbio diária da data de cada operação de venda ou a taxa de câmbio de referência, quando cabível. Em relação ao custo de produção, utilizou-se a taxa de câmbio anual média de P5. Todas as taxas foram apuradas a partir do demandado pelo art. 23 do Regulamento Brasileiro.
+
+345\. Dessa forma, o valor normal da Suncity, na condição ex fabrica, ponderado pelo volume dos CODIPs exportados pela empresa para o Brasil, alcançou USD [RESTRITO].
+
+**4.2.1.2.2 Do preço de exportação**
+
+375\. As vendas da Sun Mark ao Brasil foram realizadas tanto diretamente pela empresa, como via sua empresa de*trading*, a SMA Stainless LLC - FZ, sediada em Dubai, nos Emirados Árabes Unidos. Nesse sentido, o cálculo do preço de exportação da Sun Mark considerou os dados e informações reportadas nos questionários ao produtor/exportador referentes aos dois canais de distribuição.
+
+376\. A Sun Mark reportou os dados referentes às vendas para a exportadora relacionada e às vendas diretas aos clientes independentes no Brasil. As informações referentes às vendas da SMA ao primeiro comprador independente foram fornecidas, de forma conjunta à Sun Mark, por meio da resposta destas empresas ao questionário do exportador/exportador.
+
+377\. Nesse contexto, foi aplicada metodologia distinta para apuração do preço de exportação para cada canal de distribuição.
+
+378\. O preço referente às exportações efetuadas com intermédio da SMA foi apurado conforme o art. 20 do Decreto nº 8.058, de 2013, segundo o qual, na hipótese de o produtor e o exportador serem partes associadas ou relacionadas, o preço de exportação será reconstruído a partir do preço efetivamente recebido, ou o preço a receber, pelo exportador, por produto exportado ao Brasil. Dessa forma, foram utilizados os dados de exportação apresentados tanto pela SMA quanto pela Sun Mark em resposta conjunta ao questionário do produtor/exportador.
+
+379\. Já o preço referente às operações de venda da Sun Mark realizadas diretamente a clientes independentes no Brasil foi apurado conforme o art. 18 do Decreto nº 8.058, de 2013, segundo o qual, na hipótese o produtor ser o exportador do produto objeto da investigação, o preço de exportação será o recebido, ou a receber, pelo produto exportado ao Brasil, líquido de tributos, descontos ou reduções efetivamente concedidos e diretamente relacionados com as vendas do produto objeto da investigação.
+
+380\. Tendo em vista os diferentes canais de distribuições utilizados na exportação do produto objeto da investigação para o Brasil, apresentam-se, a seguir, separadamente, as metodologias de cálculo aplicadas para cada um deles.
+
+**4.2.1.2.2.1 Do preço de exportação reconstruído**
+
+381\. Conforme informações prestadas pela Sun Mark em resposta ao questionário do produtor/exportador, parte dos produtos objeto da investigação confeccionados pela empresa que foram exportados para o Brasil durante o período de investigação de dumping foram transacionados por intermédio da empresa SMA,*trading company*relacionada, localizada nos Emirados Árabes Unidos.
+
+382\. Dessa forma, o preço de exportação da Sun Mark relativo a tais vendas foi apurado a partir dos preços efetivos de venda do produto objeto da investigação exportado ao Brasil pela SMA, de acordo com o art. 20 do Decreto nº 8.058, de 2013, que contempla a hipótese de o produtor e o exportador serem partes associadas ou relacionadas, de modo que o preço de exportação da Sun Mark foi reconstruído a partir do preço bruto de venda ao primeiro comprador independente efetivamente recebido ou a receber pelo exportador, SMA, por produto exportado ao Brasil. Cumpre destacar que o produto fabricado pela Sun Mark e exportado para o Brasil, mesmo aquele transacionado via*trading*relacionada, é despachado da Índia diretamente para o Brasil.
+
+383\. A reconstrução do preço de exportação visa a retirar o efeito da*trading*relacionada sobre as exportações da Sun Mark para o Brasil. Nesse sentido, primeiramente, destaque-se que as vendas da SMA ao primeiro comprador independente foram reportadas líquidas de impostos e descontos. Assim, aos valores brutos foram acrescidos os montantes relativos à recuperação de frete, para, na sequência, deduzir desse resultado as seguintes rubricas: (i) frete e seguro internacionais (incorridos pela Sun Mark); (ii) outras despesas diretas de venda (taxas bancárias) - incorridas pela SMA; (iii) despesas indiretas de venda (incorridas pela SMA); (iv) despesas gerais e administrativas incorridas pela SMA; (v) custo de manutenção de estoque (incorrido pela Sun Mark); (vi) custo financeiro incorrido pela SMA; (vii) margem de lucro; e (viii) custo com embalagem incorrido pela Sun Mark. Deduziram-se ainda as despesas diretas e indiretas de vendas, apuradas conjuntamente e de forma unitária, incorridas pela Sun Mark nas referidas transações (frete interno, despesas de manuseio de carga e corretagem, taxas bancárias e demais despesas indiretas de venda - [CONFIDENCIAL]).
+
+384\. Preliminarmente, pontua-se que, atendendo a pleito da empresa, foram conservadoramente somados aos valores*ex fabrica*obtidos daquele resultado os montantes relativos ao*duty drawback*(DDB) reportados pela empresa. Salienta-se que os referidos valores e o funcionamento do alegado*drawback*serão ainda validados em sede de verificação*in loco*.
+
+385\. Por outro lado, não foram acatadas, para fins de determinação preliminar, as argumentações, tampouco os valores reportados, relativos ao programa*Advance Authorization*(*AAS*). Os elementos de prova apresentados comprovam o mero cumprimento da obrigação de exportação. Entretanto, não se pode garantir, por meio dos referidos elementos, que determinado insumo, comprado a determinado preço, foi de fato utilizado em operação de exportação específica. Não por outra razão, em investigações de subsídios conduzidas pela autoridade investigadora brasileira sobre produtos indianos, o montante de subsídio relativo ao*AAS*é apurado de forma global, considerando todas as exportações realizadas pela empresa e não de forma específica.
+
+386\. Ademais, eventual aceitação do programa em investigações antidumping exigiria considerações acerca da utilização ou não do*Standard Input Output Norms*(*SION*) e de sua forma de apuração por parte do Governo, bem como da verificação dessas e de outras informações referentes ao*AAS*junto ao Governo indiano, o que extrapola o escopo da presente investigação. Cumpre salientar, ainda, que, leitura consentânea do Acordo Antidumping e do Acordo Sobre Subsídios e Medidas Compensatórias deixa claro que não é adequado considerar que todo programa de subsídios, ainda que vinculado às exportações, deva ser considerado no preço de exportação em uma investigação antidumping. A se agir como quer a empresa, restaria ineficaz qualquer investigação antidumping em setor beneficiado pelos subsídios considerados na legislação multilateral como prática desleal de comércio, pois o preço de exportação seria inflado pelos subsídios recebidos. Destaca-se, por fim, que as informações trazidas pela empresa podem ser avaliadas pelo DECOM para eventual início de investigação antissubsídios, ocasião em que a empresa teria ampla oportunidade de trazer todos os elementos aplicáveis e o DECOM poderia avaliar adequadamente eventuais montantes recebidos, sempre respeitando a vedação do duplo remédio.
+
+387\. Conforme apontado anteriormente, de forma preliminar, optou-se por deduzir as despesas indiretas de venda para fins de apuração do valor*ex fabrica*em função de terem sido reportados valores distintos para a referida rubrica a depender do mercado de comparação (interno e externo). Nesse sentido, tal diferença teria o condão de afetar a comparabilidade de preços entre os mercados. Cumpre reiterar que tais dados serão objeto de verificação*in loco*, momento oportuno para sua validação.
+
+388\. Esclarece-se que os valores referentes às despesas elencadas foram apurados com base em dados relativos às empresas Sun Mark ou SMA a depender do caso, no entanto, com relação à margem de lucro auferida pela SMA, não foram utilizados os dados da empresa, uma vez que se considera que o relacionamento entre as empresas poderia impactar a referida margem de lucro. Para margem de lucro aplicável às operações de*trading*nas exportações, considerou-se o lucro apurado no setor de metais e minerais do Grupo Trafigura, de 1,0%, para o ano fiscal de 2023. De acordo com informações constantes do sítio eletrônico da empresa, que possui escritório e atuação em Dubai (EAU), "*Trafigura is one of the world's largest suppliers of minerals, metals and energy, connecting producers and consumers across 150 countries*".
+
+389\. Em relação às despesas gerais e administrativas incorridas pela SMA, o percentual apurado ([CONFIDENCIAL]%) foi obtido pela divisão das respectivas despesas incorridas pela SMA (AED [CONFIDENCIAL]) pela receita auferida com vendas (AED [CONFIDENCIAL]), ambas relacionadas ao demonstrativo financeiro auditado da empresa para o ano fiscal de 2023.
+
+390\. Adicionalmente, cumpre informar que não foi informada taxa de juros de curto prazo por parte da SMA, assim, utilizou-se a taxa EIBOR, obtida no site do Banco Central dos Emirados Árabes Unidos, de 5,6% a.a., para o cálculo do custo financeiro. A taxa foi apurada para empréstimos de 1 ano realizados em setembro de 2023. O custo financeiro foi calculado por meio da multiplicação entre a taxa de juros de curto prazo, 5,6%, o valor da venda bruto e a diferença entre a data de recebimento do pagamento e data de embarque.
+
+391\. Quanto ao custo de manutenção de estoque, reitera-se que, apesar de as exportações serem realizadas por intermédio da*trading*SMA, o produto deixa o estoque da produtora Sun Mark na Índia e segue diretamente para o cliente final no Brasil. Dessa forma, o custo de oportunidade em comento foi calculado a partir da taxa de juros relativa a empréstimos de curto prazo e do número médio de dias em estoque dos produtos fabricados pela empresa, informados pela Sun Mark, bem como do custo de manufatura relativo ao tipo de produto vendido em cada uma das operações reportadas pela produtora indiana, conforme metodologia indicada no item 4.2.1.2.1 (Do valor normal).
+
+392\. Após as deduções e acréscimos descritos anteriormente, foi obtido o valor*ex fabrica*das operações de exportação da Sun Mark para o Brasil realizadas ao amparo da SMA, por meio da neutralização dos efeitos de sua*trading*relacionada sobre os preços praticados nessas operações.
+
+393\. Ressalte-se que os dados de custo de manufatura e de determinadas despesas referentes à exportação da Sun Mark via SMA foram reportados em rúpias indianas, de modo que foi necessário converter esses valores para dólares estadunidenses. Para tanto, utilizou-se a paridade diária da moeda indiana em relação ao dólar, extraída do sítio eletrônico do Banco Central do Brasil, após realização de teste de movimento sustentado, conforme requisitos do art. 23 do Decreto nº 8.058, de 2013. Ademais, as despesas indiretas de venda reportadas pela SMA, reportadas em AED também foram convertidas para dólar estadunidense conforme descrito anteriormente.
+
+**4.2.1.2.2.2 Do preço de exportação nas vendas diretas a clientes finais brasileiros**
+
+394\. Inicialmente, ressalte-se que todas as exportações da Sun Mark para o Brasil foram apresentadas em sua reposta ao questionário do produtor/exportador, inclusive aquelas realizadas via*trading*relacionada (SMA), de modo que essas operações foram desconsideradas na metodologia de cálculo descrita a seguir. As exportações via parte relacionada tiveram seu preço de exportação reconstruído, conforme metodologia descrita no item anterior.
+
+395\. A fim de se apurar o preço de exportação líquido, na condição*ex fabrica*, das operações de exportação sem intermédio de*trading company*, somou-se ao valor bruto (já líquido de qualquer imposto e descontos) reportado em resposta ao questionário do produtor/exportador os montantes percebidos via recuperação de frete. Na sequência, deduziram os valores relativos a: frete interno da unidade de produção/armazenagem para o porto de embarque, despesa de manuseio e corretagem, outras despesas diretas de venda (taxas bancárias), despesas indiretas de venda, frete e seguros internacionais, custo com embalagem, custo financeiro e custo de manutenção de estoque. Ao resultado obtido, foram somados os montantes relativos ao*DDB*conforme explicação contante do item anterior.
+
+396\. Conforme também apontado no item anterior, de forma preliminar, optou-se por deduzir as despesas indiretas de venda para fins de apuração do valor*ex fabrica*em função de terem sido reportados valores distintos para a referida rubrica a depender do mercado de comparação (interno e externo). Nesse sentido, tal diferença teria o condão de afetar a comparabilidade de preços entre os mercados. Cumpre reiterar que tais dados serão objeto de verificação*in loco*, momento oportuno para sua validação.
+
+397\. O custo de manutenção de estoque foi apurado a partir da metodologia definida pela autoridade considerando o giro de estoque para a totalidade dos produtos da empresa em P5 ([CONFIDENCIAL] dias), a taxa de juros obtida em empréstimos de curto prazo ([CONFIDENCIAL] ao ano) e o custo de manufatura (custo de produção deduzido de despesas gerais, administrativas, financeiras e outras despesas) do respectivo CODIP no mês de venda. Quando não foi possível a correlação exata entre o CODIP da venda e o custo de manufatura do respectivo mês da venda, adotou-se a metodologia de correlação disposta no item 4.2.1.2.1 (Do valor normal).
+
+398\. O custo financeiro foi calculado por meio da multiplicação entre a taxa de juros de curto prazo informada pela produtora indiana, [CONFIDENCIAL]%, o valor da venda bruto e a diferença entre a data de recebimento do pagamento e data de embarque.
+
+399\. As demais rubricas foram deduzidas em conformidade com os dados reportados no Apêndice de exportações para o Brasil da produtora indiana. Cumpre informar que as exportações ao Brasil foram realizadas em dólares estadunidenses, no entanto, os dados de custo de manufatura e determinadas despesas referentes à exportação da Sun Mark foram reportados em rúpias indianas, de modo que foi necessário converter esses valores para dólares estadunidenses. Para tanto, utilizou-se a paridade diária da moeda indiana em relação ao dólar, extraída do sítio eletrônico do Banco Central do Brasil, após realização de teste de movimento sustentado, conforme requisitos do art. 23 do Decreto nº 8.058, de 2013.
+
+400\. Após as deduções descritas anteriormente, apurou-se o valor total de exportação, na condição*ex fabrica*, relativo às exportações da Sun Mark diretamente para clientes independentes no Brasil em dólares.
+
+**4.2.1.2.2.3 Do preço de exportação para fins de margem de dumping**
+
+401\. Tendo sido apurados os valores, na condição*ex fabrica*, referentes aos dois canais de distribuição utilizados pela Sun Mark, conforme metodologias descritas nos itens 4.2.1.2.2.1 e 4.2.1.2.2.2, chegou-se ao valor*ex fabrica*total de exportação e, finalmente, ao preço de exportação total da empresa indiana.
+
+402\. Dessa forma, o preço de exportação da Sun Mark na condição*ex fabrica*, ponderado pelo volume e CODIPs exportados para o Brasil pela empresa, apurado para fins de determinação preliminar, alcançou**USD[RESTRITO]**
+
+**4.2.1.2.3 Da margem de dumping**
+
+403\. Para fins de determinação preliminar, apuraram-se as seguintes margens de dumping absoluta e relativa para a empresa produtora/exportadora indiana Sun Mark a partir dos dados detalhados nos itens 4.2.1.2.1 e 4.2.1.2.2.3.
+
+| **Margem de dumping preliminar Sun Mark - Índia** [RESTRITO] |  |  |  |
+| --- | --- | --- | --- |
+| Valor normal (USD/t) | Preço de exportação (USD/t) | Margem de Dumping Absoluta (USD/t) | Margem de Dumping Relativa (%) |
+| [REST.] | [REST.] | 494,82 | 18,7% |
+| Elaboração: DECOM Fonte: Questionário do produtor/exportador da Sun Mark/SMA |  |  |  |
+
+404\. Em 5 de dezembro de 2024, a Sun Mark apresentou pedido de reconsideração acerca da margem de dumping calculada para a empresa apresentada na determinação preliminar (Parecer DECOM SEI nº 3369/2024/MDIC, de 07 de novembro de 2024), tornada pública por meio da Circular SECEX nº 67, de 2024.
+
+405\. Cumpre destacar que o referido pedido de reconsideração foi analisado e a respectiva apreciação consta da Resolução GECEX nº 689, de 2025. Por questões de economia processual, primando pelo princípio da eficiência, seus conteúdos e propósitos, já exauridos, não serão aqui abordados.
+
+406\. Pontua-se que o pedido da empresa foi parcialmente deferido, de forma que foram alterados os montantes apurados de despesas indiretas de venda e despesas gerais e administrativas da SMA, sua*trading company*relacionada, bem como correção nas fórmulas utilizadas para se obter o valor de recuperação de frete e das exportações*ex*fábrica líquidas, esta última a partir de ajustes no cálculo de despesas de embalagem. Os ajustes impactaram tão somente o preço de exportação da empresa.
+
+407\. Considerando a manutenção do valor normal, a margem de dumping preliminar retificada da empresa alcançou USD 222,11/t (duzentos e vinte e dois dólares estadunidenses e onze centavos por tonelada), como segue:
+
+| **Margem de dumping preliminar Sun Mark - Índia [RESTRITO]** |  |  |  |
+| --- | --- | --- | --- |
+| **Valor normal (USD/t)** | **Preço de exportação (USD/t)** | **Margem de Dumping Absoluta (USD/t)** | **Margem de Dumping Relativa (%)** |
+| [REST.] | [REST.] | 222,11 | 7,6% |
+| Elaboração: DECOM Fonte: Questionário do produtor/exportador da Prakash/Seth |  |  |  |
+
+**4.2.1.3 Do produtor/exportador Prakash**
+
+408\. Apresentam-se, nos tópicos subsequentes, o valor normal e o preço de exportação do produtor Prakash, apurados em sede de determinação preliminar, calculados com base na resposta conjunta ao questionário do produtor/exportador, e informações complementadas, apresentada pela produtora e a exportadora relacionada, Seth Steelage Limited (Seth).
+
+409\. Os cálculos desenvolvidos levaram em consideração os CODIPs em que se classificaram os produtos vendidos, assim como as categorias de cliente [CONFIDENCIAL]), as únicas relativas às exportações da empresa para o Brasil. Neste ponto, indica-se que as referidas categorias foram aglutinadas e consideradas como categoria única.
+
+410\. Em resposta conjunta ao questionário do produtor/exportador, foi indicado que os tubos exportados para o Brasil, apesar de terem sido fabricados pela Prakash, seriam de propriedade da Seth Steelage Limited (Seth), empresa relacionada à produtora indiana. Destacou-se que a produção desses tubos teria sido realizada ao amparo de contrato de industrialização (*tolling*) estabelecidos entre empresas, em que a Prakash seria responsável pela fabricação dos tubos objeto da investigação a partir de matérias-primas adquiridas e repassadas pela Seth e de remuneração pelos serviços de fabricação prestados. Apesar de não ter exportado diretamente tubos de aço inoxidável para o Brasil em P5, a Prakash vendeu produto similar de fabricação própria no mercado indiano durante o período.
+
+411\. Foi pontuado ainda que, embora operem como entidades jurídicas distintas e separadas, as empresas são relacionadas no sentido das regulamentações do Departamento de Comércio indiano em função de "propriedade de ações em comum" e do "cargo de diretor em comum".
+
+**4.2.1.3.1 Do valor normal**
+
+412\. O valor normal da Prakash foi apurado a partir dos dados fornecidos pela empresa em resposta ao questionário do produtor/exportador e ao ofício de informações complementares, relativos aos preços efetivos de venda do produto similar no mercado interno indiano, consideradas apenas as operações comerciais normais e os seus custos de produção, de acordo com o contido no art. 8º do Decreto nº 8.058, de 2013.
+
+413\. Com vistas à apuração do valor normal*ex fabrica*, para identificação das operações comerciais normais, inicialmente, foram adicionados aos valores brutos de suas vendas destinadas ao mercado interno os valores "recuperados" de: embalagem, frete, radiografia, inspeção e ajustes de faturamento. A partir desse resultado foram deduzidos os valores referentes a: devoluções, ajustes de faturamento, descontos, impostos, custo financeiro, frete da unidade de produção para o armazém e posteriormente para o cliente, despesas de armazenagem, outras despesas diretas de venda, despesas de embalagem, despesas indiretas de venda e custo de manutenção de estoque.
+
+414\. O custo de manutenção de estoque foi apurado a partir da metodologia definida pela autoridade considerando o giro de estoque para a totalidade dos produtos da empresa em P5 ([CONFIDENCIAL] dias), a taxa de juros obtida em empréstimos de curto prazo (9,1% ao ano) e o custo de manufatura (custo de produção deduzido de despesas gerais, administrativas, financeiras e outras despesas) do respectivo CODIP no mês de venda. Considerando que foi possível associar [CONFIDENCIAL]% do volume das vendas ao respectivo custo de manufatura, no mesmo mês da venda utilizaram-se métodos alternativos para realizar a associação das demais vendas. Quando não foi possível associar a venda ao respectivo custo de manufatura, no mesmo mês de produção, buscou-se alternativamente o custo de manufatura do mês imediatamente anterior ([CONFIDENCIAL]% do volume das vendas). Nos casos em que essa alternativa também não foi bem-sucedida, buscou-se a comparação do produto ao custo médio de todo o período ([CONFIDENCIAL]% do volume das vendas). Ainda, para os restantes dos casos ([CONFIDENCIAL]% do volume das vendas), a alternativa foi buscar o custo de manufatura de produtos com características próximas, eliminando-se sucessivamente, para tanto, as últimas características da formação do CODIP, considerando o custo de manufatura médio de P5.
+
+415\. Em relação à taxa de juros de empréstimos de curto prazo, cumpre destacar que a empresa informou não ter contratos de empréstimos ativos, no entanto, apresentou a média das taxas de juros ofertadas no sistema financeiro indiano, para P5, disponibilizadas por bancos públicos, a partir de dados do Banco Central indiano. Após avaliação das informações, de modo conservador, optou-se por ajustar a referida taxa considerando não apenas as ofertadas por bancos públicos, mas também as oriundas de bancos privados e estrangeiros que operam no país.
+
+416\. O custo financeiro foi calculado por meio da multiplicação entre a taxa de juros de curto prazo, 9,1%, o valor da venda bruto e a diferença entre a data de recebimento do pagamento e data de embarque.
+
+417\. Após a apuração dos valores na condição*ex fabrica*, de cada uma das operações de venda destinadas ao mercado interno indiano, buscou-se, para fins de apuração do valor normal, identificar operações que não corresponderiam a operações comerciais normais, nos termos do § § 1º e 7º do art. 14 do Decreto nº 8.058, de 2013.
+
+418\. Nesse sentido, buscou-se, identificar as operações que foram realizadas a preços inferiores ao custo de produção unitário do produto similar, no momento da venda, conforme o estabelecido no § 1º do art. 14 do Decreto nº 8.058, de 2013. Para tanto procedeu-se à comparação entre o valor de cada venda na condição*ex fabrica*e o respectivo custo de produção.
+
+419\. Ressalte-se que o custo de produção foi aferido por meio dos dados reportados pela empresa no apêndice de custo de produção da resposta ao questionário do produtor/exportador. Nesse sentido, o custo total, líquido das despesas de venda, consistiu na soma do custo de manufatura com os valores relativos a despesas gerais e administrativas e despesas financeiras incorridas pela empresa. Frisa-se que foi empregada a mesma metodologia aplicada no cálculo do custo de manutenção de estoque, previamente relatada neste documento, para identificação dos custos de produção das vendas de mercadorias classificadas em CODIPs que não tiveram produção no mês da venda.
+
+420\. Assim, a partir da comparação entre o valor da venda*ex fabrica*e o custo de produção, constatou-se que, do total de transações envolvendo tubos de aço inoxidável austenítico realizadas pela Sun Mark no mercado indiano, ao longo dos 12 meses que compõem o período de análise de dumping (P5), [CONFIDENCIAL]t) foram realizadas a preços abaixo do custo unitário mensal no momento da venda (computados os custos unitários de produção do produto similar, fixos e variáveis - bem como as despesas gerais e administrativas e despesas financeiras).
+
+421\. Dessa forma, o volume de vendas abaixo do custo unitário superou 20% do volume vendido nas transações consideradas para a determinação do valor normal, correspondendo à "quantidade substancial" prevista no inciso II, § 2º e no § 3º do art. 14 do Decreto nº 8.058, de 2013. Esse resultado ensejaria, portanto, a desconsideração dessas operações. Antes, contudo, foi realizado o teste de recuperação, conforme previsão do § 4º do art. 14 do Decreto nº 8.058, de 2013, que busca eliminar os efeitos de eventuais sazonalidades na produção ou no consumo do produto.
+
+422\. Para tanto, comparou-se o preço líquido (para fins de teste de vendas abaixo do custo) das vendas que foram realizadas abaixo do custo de produção médio mensal com o custo unitário de produção médio ponderado obtido no período de análise de dumping (P5), referente a cada CODIP. Após esse teste, constatou-se que [CONFIDENCIAL] % das vendas que seriam desconsideradas puderam ser recuperadas ([CONFIDENCIAL]t).
+
+423\. Concluiu-se que [CONFIDENCIAL] ([CONFIDENCIAL]t) das vendas foram realizadas abaixo do custo de produção médio mensal e do custo de produção médio em P5, devendo ser desconsideradas para a apuração do valor normal, conforme previsto no inciso § 1º do art. 14 do Decreto nº 8.058, de 2013.
+
+424\. Não foram reportadas vendas no mercado interno de produto similar confeccionado pela Prakash a empresas relacionadas.
+
+425\. Ante o exposto, o volume total de vendas do produto similar destino ao consumo no mercado interno da Índia, em condições normais de comércio, alcançou [CONFIDENCIAL]% [CONFIDENCIAL]) das vendas da Prakash, em P5.
+
+426\. Buscou-se, avaliar, em seguida, se as vendas no mercado interno foram realizadas em quantidades suficientes por meio do binômio CODIP-categoria de cliente, conforme determina o § 1º do art. 12 do Decreto nº 8.058, de 2013.
+
+427\. Considerando apenas as vendas normais, não houve venda suficiente, ou seja, o volume de vendas no mercado interno foi inferior a 5% do volume exportado ao Brasil, para os CODIPs [CONFIDENCIAL] considerando a categoria de cliente aglutinada [CONFIDENCIAL]. Por esse motivo, nos termos do art. 13 e do inciso II do caput do art. 14 do Decreto nº 8.508, de 2013, o valor normal da Prakash, para esses binômios CODIP-categoria de cliente, foi apurado com base no valor construído no país de origem. Em relação aos CODIPs [CONFIDENCIAL] em decorrência de não ter sido reportado seu respectivo custo de produção para o período de investigação, apropriou-se do custo de produção do CODIP mais próximo, quais sejam, respectivamente, [CONFIDENCIAL].
+
+428\. Assim, foi considerado o custo de produção da Prakash [CONFIDENCIAL], conforme reportado na resposta da empresa ao questionário do produtor/exportador, além de margem de lucro ([CONFIDENCIAL], apurada como um percentual ([CONFIDENCIAL] do custo de produção [CONFIDENCIAL]. A margem de lucro foi calculada considerando-se as vendas do produto similar, em condições normais de comércio ([CONFIDENCIAL], destinado a consumo no mercado interno indiano, conforme reportado pela empresa, bem como seu respectivo custo de produção.
+
+429\. Cumpre ressalvar que a Prakash, em resposta ao questionário do produtor/exportador, reportou aquisição de fatores produtivos de partes relacionadas. No entanto, para fins de determinação preliminar, foram mantidos os valores reportados pela empresa no custo de produção. Para fins de determinação final a análise será aprofundada, levando em conta o resultado da verificação*in loco*realizada na empresa.
+
+430\. Houve vendas suficientes para [CONFIDENCIAL], tendo sido seu valor normal apurado com base no seu preço de venda, na condição*ex fabrica*, no mercado interno indiano, conforme o art. 8º do Regulamento Brasileiro.
+
+431\. Após a determinação das transações no mercado interno que deveriam ser consideradas como operações comerciais normais, obteve-se o valor bruto, na condição*ex fabrica*, para cada venda interna da Prakash. Para tanto, foram acrescidas as despesas indiretas de vendas do valor utilizado para realização dos testes de vendas abaixo do custo realizados anteriormente, conforme reportado no Apêndice V.
+
+432\. Registre-se que a empresa apresentou os dados de vendas destinadas ao mercado da Índia e do custo de produção em moeda local. Nesse sentido, os valores reportados das vendas foram convertidos para dólar estadunidense com base na paridade cambial publicada pelo Banco Central do Brasil, levando-se em consideração a taxa de câmbio diária da data de cada operação de venda ou a taxa de câmbio de referência, quando cabível. Em relação ao custo de produção, utilizou-se a taxa de câmbio anual média de P5. Todas as taxas foram apuradas a partir do demandado pelo art. 23 do Regulamento Brasileiro.
+
+433\. Dessa forma, o valor normal da Prakash, na condição ex fabrica, ponderado pelo volume e CODIPs exportados para o Brasil pela empresa, apurado para fins de determinação preliminar, alcançou USD [RESTRITO] .
+
+**4.2.1.3.2 Do preço de exportação reconstruído**
+
+434\. Conforme informações prestadas pela Prakash e Seth em resposta ao questionário do produtor/exportador, os produtos objeto da investigação confeccionados pela Prakash exportados para o Brasil durante o período de investigação de dumping foram transacionados por intermédio da Seth, empresa relacionada à Prakash, que seria detentora do produto após serem industrializados pela referida produtora ao amparo de contrato de industrialização.
+
+435\. Dessa forma, o preço de exportação da Prakash foi apurado a partir dos preços efetivos de venda do produto objeto da investigação exportado ao Brasil pela Seth, de acordo com o art. 20 do Decreto nº 8.058, de 2013, que contempla a hipótese de o produtor e o exportador serem partes associadas ou relacionadas, de modo que o preço de exportação da Prakash foi reconstruído a partir do preço bruto de venda ao primeiro comprador independente efetivamente recebido ou a receber pelo exportador, Seth, por produto exportado ao Brasil.
+
+436\. Entende-se que há a necessidade de reconstrução do preço de exportação visando retirar o efeito da exportadorarelacionada sobre as exportações de produtos fabricados pela Prakash e destinados para o Brasil mesmo que a titularidade do produto seja da exportadora.
+
+437\. Em casos de operação de*tolling*o Departamento de Defesa Comercial tem adotado o entendimento de que a produtora é a empresa que efetivamente fabrica o item, mesmo que a partir de matéria-prima fornecida por outra empresa. Ou seja, a produtora é a empresa que presta o serviço de*tolling*. Esse entendimento se fundamenta em decisões do Órgão de Solução de Controvérsias da Organização Mundial do Comércio acerca do conceito de "produzir algo".
+
+438\. Seguem determinados trechos das decisões exaradas nos casos*DS417: Dominican Republic - Safeguard Measures on Imports of Polypropylene Bags and Tubular Fabrics*e*DS177: United States - Safeguard Measure on Imports of Fresh, Chilled or Frozen Lamb from New Zealand*sobre o assunto:
+
+*DS417: Dominican Republic - Safeguard Measures on Imports of Polypropylene Bags and Tubular Fabric*
+
+"*As the Appellate Body has point out, the term 'producers' used in Article 4.1(c) of The Agreement on Safeguards can be taken to mean those who 'manufacture an article', 'those who bring a thing into existence'. In this respect, the Panel does not see any reason why. In the circumstances of the present case, a company that cuts tubular fabric and sews it, and consequently causes a polypropylene bag actually to exist, should not be considered to be a producer under Article 4.1(c) of the Agreement on Safeguards."3²*
+
+*DS417: Dominican Republic - Safeguard Measures on Imports of Polypropylene Bags and Tubular Fabric*
+
+"As the Panel indicated, 'producers' ate those who Grow or manufacture an article; 'producers' are those who bring a Thing into existence. This meaning of 'producers' is, however, qualified by the second element in the definition of 'domestic industry'. This element identifies the particular products that must be produced by the domestic 'producers' in order to qualify for inclusion in the 'domestic industry'. According to the clear and express wording of the text of Article 4.1(c), the term 'domestic industry' extends solely to the 'producers ... of the like or directly competitive products'. (emphasis added) The definition, therefore, focuses exclusively on the producers of a very specific group of products. Producers of products that are not 'like or directly competitive products' do not, according to the text of the treaty, form part of the domestic industry."²5
+
+439\. Embora as decisões se relacionem a casos de salvaguarda, entende-se não haver motivo para diferenciação quanto ao conceito de "produzir" em relação ao Acordo Antidumping. Ademais, pontua-se que esse entendimento tem sido adotado reiteradamente nas investigações mais atuais conduzidos pelo Departamento.
+
+440\. Nesse sentido, primeiramente, destaque-se que as vendas da Seth ao primeiro comprador independente foram reportadas líquidas de impostos e descontos. Assim, aos valores brutos foram deduzidas as seguintes rubricas incorridas pelas Seth: frete interno da planta/armazém para o porto; despesas de manuseio de carga e corretagem; frete e seguro internacionais; comissão; despesas indiretas de venda; despesas gerais e administrativas; custo de manutenção de estoque; custo financeiro; margem de lucro; e custo com embalagem.
+
+441\. Cumpre ressaltar que os valores referentes às despesas elencadas foram apurados com base em dados relativos à Seth, no entanto, com relação à margem de lucro auferida pela exportadora relacionada, não foram utilizados os dados da empresa, uma vez que se considera que o relacionamento entre as empresas poderia impactar a referida margem de lucro. Para margem de lucro aplicável às operações nas exportações, considerou-se o lucro apurado para a empresa indiana Sicagen, de 2,5%, para o ano fiscal de 2023. De acordo com informações disponíveis no sítio eletrônico da empresa, a Sicagen é uma empresa indiana de venda e distribuição de produtos que "work with some of India´s largest infrastructure developers, serving their diverse building material needs from cement and steel pipes to cables".
+
+442\. Em relação às despesas gerais e administrativas incorridas pela Seth, o percentual apurado ([CONFIDENCIAL]%) foi obtido pela divisão das respectivas despesas incorridas pela Seth (Rs in Lakhs [CONFIDENCIAL]) pela receita auferida (Rs in Lakhs [CONFIDENCIAL]), ambas relacionadas ao demonstrativo financeiro auditado da empresa para o ano fiscal de 2023.
+
+443\. Adicionalmente, cumpre informar que a taxa de juros informada pela Seth veio sem lastro documental que indicasse sua origem e metodologia de apuração, assim, utilizou-se a taxa de juros apurada para a Prakash como mencionado anteriormente (9,1% a.a.). O documento*Exhibit 2.14.4 (c*) que demonstraria sua apuração não foi anexado na resposta às informações complementares apesar de ter sido referenciado no Anexo 39*Exhibit 2.14.7 (c).*O custo financeiro foi calculado por meio da multiplicação entre a taxa de juros de curto prazo, o valor da venda bruto e a diferença entre a média das datas de recebimento do pagamento e data de embarque. Cumpre destacar que o DECOM não utilizou as informações dispostas no campo 9.5 "*Weighted Avereage date of Payment*" reportadas pela Seth por não ter sido indicada sua metodologia de apuração.
+
+444\. Quanto à despesa de manutenção de estoque, cumpre ressaltar que, apesar de o produto ser fabricado pela Prakash, foram utilizadas as informações de estoque referentes aos produtos de titularidade da Seth. Dessa forma, a despesa de manutenção de estoque foi calculada a partir da taxa de juros relativa a empréstimos de curto prazo e do número médio de dias em estoque dos produtos de titularidade da exportadora, informados pela Seth, bem como do custo de manufatura, oriundo das informações apresentadas pela Prakash, relativo ao tipo de produto vendido em cada uma das operações reportadas pela exportadora indiana, conforme metodologia indicada no item 4.2.1.3.1 (Do valor normal).
+
+445\. Após as deduções descritas anteriormente, foi obtido o valor*ex fabrica*das operações de exportação para o Brasil de produtos fabricados pela Prakash, mas que seriam de posse da Seth, por meio da neutralização dos efeitos de sua exportadora relacionada sobre os preços praticados nessas operações.
+
+446\. Ressalte-se que os dados de custo de manufatura e determinadas despesas referentes à exportação de produtos fabricados pela Prakash foram reportados em rúpias indianas, de modo que foi necessário converter esses valores para dólares estadunidenses. Para tanto, utilizou-se a paridade diária da moeda indiana em relação ao dólar, extraída do sítio eletrônico do Banco Central do Brasil, após realização de teste de movimento sustentado, conforme requisitos do art. 23 do Decreto nº 8.058, de 2013.
+
+447\. Dessa forma, o preço de exportação da Prakash na condição*ex fabrica*, ponderado pelo volume e CODIPs exportados para o Brasil, apurado para fins de determinação preliminar, alcançou**USD[RESTRITO]**
+
+**4.2.1.3.3 Da margem de dumping**
+
+448\. Para fins de determinação preliminar, apuraram-se as seguintes margens de dumping absoluta e relativa para a empresa produtora indiana Prakash a partir dos dados detalhados nos itens 4.2.1.3.1 e 4.2.1.3.2.
+
+| **Margem de dumping preliminar Prakash - Índia** [RESTRITO] |  |  |  |
+| --- | --- | --- | --- |
+| Valor normal (USD/t) | Preço de exportação (USD/t) | Margem de Dumping Absoluta (USD/t) | Margem de Dumping Relativa (%) |
+| [REST.] | [REST.] | 588,21 | 18,1% |
+| Elaboração: DECOM Fonte: Questionário do produtor/exportador da Prakash/Seth |  |  |  |
+
+449\. Em 5 de dezembro de 2024, as empresas Prakash e Seth apresentaram pedido de reconsideração acerca da margem de dumping calculada para as empresas apresentada na determinação preliminar (Parecer DECOM SEI nº 3369/2024/MDIC, de 07 de novembro de 2024), tornada pública por meio da Circular SECEX nº 67, de 2024.
+
+450\. Cumpre destacar que o referido pedido de reconsideração foi analisado e a respectiva apreciação consta da Resolução nº 698, de 2025. Por questões de economia processual, primando pelo princípio da eficiência, seus conteúdos e propósitos, já exauridos, não serão aqui abordados.
+
+451\. Pontua-se que o pedido da empresa foi parcialmente deferido, de forma que foi alterada a taxa de juros de curto prazo utilizada para fins de cálculo dos custos de oportunidade da empresa Seth. O ajuste afetou tão somente o preço de exportação.
+
+452\. Considerando a manutenção do valor normal, a margem de dumping preliminar da empresa alcançou USD 598,29/t (quinhentos e noventa e oito dólares estadunidenses e vinte e nove centavos por tonelada), como segue:
+
+| Margem de dumping preliminar Prakash - Índia**[RESTRITO]** |  |  |  |
+| --- | --- | --- | --- |
+| **Valor normal (USD/t)** | **Preço de exportação (USD/t)** | **Margem de Dumping Absoluta (USD/t)** | **Margem de Dumping Relativa (%)** |
+| [REST.] | [REST.] | 598,29 | 18,5% |
+| Elaboração: DECOM Fonte: Questionário do produtor/exportador da Prakash/Seth |  |  |  |
+
+**4.2.2 De Taipé Chinês**
+
+453\. Em decorrência da inexistência de respostas válidas ao questionário do produtor/exportador por empresas de Taipé Chinês, a apuração da margem de dumping para fins de determinação preliminar para a origem teve por base a melhor informação disponível nos autos, qual seja a metodologia apresentada para fins de início da investigação.
+
+454\. A margem absoluta de dumping é definida como a diferença entre o valor normal e o preço de exportação, e a margem relativa de dumping se constitui na razão entre a margem de dumping absoluta e o preço de exportação.
+
+455\. Para fins de determinação preliminar, apuraram-se o valor normal e o preço de exportação para Taipé Chinês conforme descrito, respectivamente, nos itens 4.1.2.1 e 4.1.2.2 deste documento. Dessa forma, considerou-se que o preço de exportação apurado em base FOB seria comparável com o valor normal construído, dado que o valor normal construído inclui despesas comerciais, no qual a rubrica frete interno está inclusa.
+
+456\. Apresentam-se a seguir as margens de dumping absoluta e relativa apuradas para fins de determinação preliminar para Taipé Chinês.
+
+| Margem de dumping preliminar - Taipé Chinês |  |  |  |
+| --- | --- | --- | --- |
+| Valor normal(USD/t) | Preço de exportação(USD/t) | Margem de Dumping Absoluta (USD/t) | Margem de Dumping Relativa (%) |
+| 4.514,51 | 3.255,74 | 1.258,77 | 38,7% |
+| Fonte: Tabelas anteriores. Elaboração: DECOM. |  |  |  |
+
+**4.3 Do dumping para efeito da determinação final**
+
+4.3.1 Da Índia
+
+4.3.1.1 Do produtor/exportador Suncity
+
+457\. Considerando-se os resultados da verificação*in loco*na Suncity, concluiu-se que a empresa não reportou adequadamente os dados de vendas para o mercado interno e de exportações para o Brasil, em desconformidade com o disposto no art. 180 do Decreto nº 8.058, de 2013.
+
+458\. Dessa forma, a determinação final de dumping referente à empresa Suncity, tanto em relação ao valor normal quanto ao preço de exportação, levou em consideração os fatos disponíveis no que tange aos elementos citados em atendimento ao estabelecido no § 3º do art. 50 do Decreto nº 8.058, de 2013.
+
+459\. Nesse sentido, o valor normal da produtora/exportadora foi apurado conforme o item 4.1.1.1 deste documento, qual seja, o valor normal da Índia para fins de início da investigação de**USD 4.577,18/t**(quatro mil, quinhentos e setenta e sete dólares estadunidenses e dezoito centavos por tonelada) na condição posto-cliente.
+
+460\. De forma semelhante, o preço de importação para a Suncity, apurado nos moldes do item 4.1.1.2 deste documento, foi de**USD 3.370,12/t**(três mil, trezentos e setenta dólares estadunidenses e doze centavos por tonelada) na modalidade FOB.
+
+461\. A margem de dumping da Suncity, apurada pela diferença entre o valor normal e o preço de exportação foi de**USD 1.207,06/t**(mil duzentos e sete dólares estadunidenses e seis centavos por tonelada), conforme apresentado a seguir:
+
+| **Margem de dumping - Suncity** |  |  |  |
+| --- | --- | --- | --- |
+| Valor normal (USD/t) (a) | Preço de exportação (USD/t) (b) | Margem de dumping absoluta (USD/t) (c) = (a) - (b) | Margem de dumping relativa (%) (d) = (c) / (b) |
+| 4.577,18 | 3.370,12 | 1.207,06 | 35,8% |
+| Fonte: Tabelas anteriores. Elaboração: DECOM. |  |  |  |
+
+4.3.1.2 Do Grupo Sun Mark
+
+462\. Apresentam-se, nos tópicos subsequentes, o valor normal e o preço de exportação do produtor/exportador Sun Mark, apurados em sede de determinação final, calculados com base na sua resposta ao questionário do produtor/exportador, na resposta ao pedido de informações complementares e nos resultados da verificação*in loco*mencionada no item 1.7 deste documento.
+
+463\. Os cálculos desenvolvidos levaram em consideração os CODIPs em que se classificaram os produtos vendidos, assim como as categorias de cliente [CONFIDENCIAL]), as únicas relativas às exportações da empresa para o Brasil. Neste ponto, indica-se que as referidas categorias foram aglutinadas e consideradas como categoria única.
+
+464\. Adicionalmente, cumpre informar que, em resposta ao questionário do produtor/exportador, foi apontada a existência de empresa indiana relacionada à Sun Mark, denominada Sunrise Stainless Private Limited (Sunrise), que possui unidade fabril de tubos de aço inoxidável. Inicialmente foi apontado que a Sunrise teria produzido e vendido, no mercado doméstico indiano, tubos de aço inoxidável similares ao da investigação, contudo, não teria exportado o referido produto para o Brasil.
+
+465\. Ademais, [CONFIDENCIAL]. Considerando os resultados da verificação*in loco*realizada nas empresas do Grupo Sun Mark, constatou-se que parte dos tubos exportados pela Sun Mark e SMA foram [CONFIDENCIAL]. Nesse sentido, foram também analisadas as vendas reportadas da Sunrise de tubos similares ao investigado destinadas ao mercado interno indiano, de fabricação própria, bem como seu custo de produção, para fins de apuração do valor normal do grupo econômico. Ressalta-se que as transações reportadas pela Sun Mark de produtos [CONFIDENCIAL], mas vendidos pela Sun Mark no mercado interno indiano, não foram considerados para fins de apuração do valor normal por terem sido consideradas transações de revenda.
+
+466\. Em casos de operação de*tolling*o Departamento de Defesa Comercial tem adotado o entendimento de que a produtora é a empresa que efetivamente fabrica o item, mesmo que a partir de matéria-prima fornecida por outra empresa. Ou seja, a produtora é a empresa que presta o serviço de*tolling*. Esse entendimento se fundamenta em decisões do Órgão de Solução de Controvérsias da Organização Mundial do Comércio acerca do conceito de "produzir algo".
+
+467\. Seguem determinados trechos das decisões exaradas nos casos*DS417: Dominican Republic - Safeguard Measures on Imports of Polypropylene Bags and Tubular Fabrics*e*DS177: United States - Safeguard Measure on Imports of Fresh, Chilled or Frozen Lamb from New Zealand*sobre o assunto:
+
+*DS417: Dominican Republic - Safeguard Measures on Imports of Polypropylene Bags and Tubular Fabric*
+
+"*As the Appellate Body has point out, the term 'producers' used in Article 4.1(c) of The Agreement on Safeguards can be taken to mean those who 'manufacture an article', 'those who bring a thing into existence'. In this respect, the Panel does not see any reason why. In the circumstances of the present case, a company that cuts tubular fabric and sews it, and consequently causes a polypropylene bag actually to exist, should not be considered to be a producer under Article 4.1(c) of the Agreement on Safeguards."3²*
+
+*DS417: Dominican Republic - Safeguard Measures on Imports of Polypropylene Bags and Tubular Fabric*
+
+"As the Panel indicated, 'producers' ate those who Grow or manufacture an article; 'producers' are those who bring a Thing into existence. This meaning of 'producers' is, however, qualified by the second element in the definition of 'domestic industry'. This element identifies the particular products that must be produced by the domestic 'producers' in order to qualify for inclusion in the 'domestic industry'. According to the clear and express wording of the text of Article 4.1(c), the term 'domestic industry' extends solely to the 'producers ... of the like or directly competitive products'. (emphasis added) The definition, therefore, focuses exclusively on the producers of a very specific group of products. Producers of products that are not 'like or directly competitive products' do not, according to the text of the treaty, form part of the domestic industry."²5
+
+468\. Embora as decisões se relacionem a casos de salvaguarda, entende-se não haver motivo para diferenciação quanto ao conceito de "produzir" em relação ao Acordo Antidumping. Ademais, pontua-se que esse entendimento tem sido adotado reiteradamente nas investigações mais atuais conduzidos pelo Departamento.
+
+469\. Nesse sentido, em relação às exportações de produtos fabricados [CONFIDENCIAL], e exportados para o Brasil pela última, entende-se pela necessidade de reconstrução de seu preço de exportação visto ter sido transacionado por empresa relacionada ao produtor, nos moldes do art. 20 do Decreto nº 8.058, de 2013.
+
+**4.3.1.2.1 Do valor normal**
+
+470\. O valor normal do grupo Sun Mark foi apurado a partir dos dados fornecidos pelas empresas do grupo (Sun Mark e Sunrise) em resposta ao questionário do produtor/exportador, ao ofício de informações complementares, e àqueles obtidos em sede de verificação in loco, relativos aos preços efetivos de venda do produto similar no mercado interno indiano, consideradas apenas as operações comerciais normais e os seus custos de produção, de acordo com o contido no art. 8º do Decreto nº 8.058, de 2013. Diferentemente do cálculo realizado para fins de determinação preliminar, foram considerados também os dados da empresa Sunrise para fins de determinação final, uma vez que se constatou terem [CONFIDENCIAL].
+
+471\. Com vistas à apuração do valor normal*ex fabrica*, para identificação das operações comerciais normais, inicialmente, foram adicionados aos valores brutos de suas vendas destinadas ao mercado interno os valores reportados de recuperação de frete. A partir desse resultado foram deduzidos os valores referentes a: devoluções, outros descontos concedidos, custo financeiro, frete interno da unidade de produção/armazenagem para o cliente, despesas de embalagem, despesas indiretas de venda e custo de manutenção de estoque.
+
+472\. Para a Sun Mark, cumpre destacar que, para fins de determinação final, optou-se por deduzir as despesas indiretas de venda para fins de apuração do valor*ex fabrica*em função de terem sido reportados valores distintos para a referida rubrica a depender do mercado de comparação (interno e externo). Nesse sentido, tal diferença teria o condão de afetar a comparabilidade de preços entre os mercados.
+
+473\. O custo de manutenção de estoque foi apurado a partir da metodologia definida pela autoridade considerando o giro de estoque para a totalidade dos produtos das empresas em P5 ([CONFIDENCIAL] dias para a Sun Mark e [CONFIDENCIAL] dias para a Sunrise), a taxa de juros obtida em empréstimos de curto prazo ([CONFIDENCIAL] ao ano para a Sun Mark e [CONFIDENCIAL]% para a Sunrise) e o respectivo custo de manufatura (custo de produção deduzido de despesas gerais, administrativas, financeiras e outras despesas) do respectivo CODIP no mês de venda. Quando não foi possível associar o CODIP/mês da venda ao respectivo custo de manufatura, no mesmo mês da venda, utilizaram-se métodos alternativos para realizar a associação das vendas, quais sejam e na seguinte ordem: custo de manufatura do mês imediatamente anterior, custo médio de todo o período, custo de manufatura de produtos com características próximas, eliminando-se sucessivamente, para tanto, as últimas características da formação do CODIP, considerando o custo de manufatura médio de P5.
+
+474\. O custo financeiro foi calculado por meio da multiplicação entre a taxa de juros de curto prazo, [CONFIDENCIAL] % para a Sun Mark e [CONFIDENCIAL]% para a Sunrise, o valor da venda bruto (líquido de devolução e com a restituição de frete) e a diferença entre a data de recebimento do pagamento e data de embarque.
+
+475\. Após a apuração dos valores na condição*ex fabrica*, de cada uma das operações de venda destinadas ao mercado interno indiano, buscou-se, para fins de apuração do valor normal, identificar operações que não corresponderiam a operações comerciais normais, nos termos do § § 1º e 7º do art. 14 do Decreto nº 8.058, de 2013.
+
+476\. Nesse sentido, buscou-se, identificar as operações que foram realizadas a preços inferiores ao custo de produção unitário do produto similar, no momento da venda, conforme o estabelecido no § 1º do art. 14 do Decreto nº 8.058, de 2013. Para tanto procedeu-se, por empresa, à comparação entre o valor de cada venda na condição*ex fabrica*e o respectivo custo de produção.
+
+477\. Ressalte-se que o custo de produção foi aferido por meio dos dados reportados pelas empresas nos respectivos apêndices de custo de produção da resposta ao questionário do produtor/exportador. Nesse sentido, o custo total, líquido das despesas de venda, consistiu na soma do custo de manufatura com os valores relativos a despesas gerais e administrativas e despesas financeiras incorridas pela empresa. Frisa-se que foi empregada a mesma metodologia aplicada no cálculo do custo de manutenção de estoque, previamente relatada neste documento, para identificação dos custos de produção das vendas de mercadorias classificadas em CODIPs que não tiveram produção no mês da venda.
+
+478\. Assim, a partir da comparação entre o valor da venda*ex fabrica*e o custo de produção, constatou-se que, do total de transações envolvendo tubos de aço inoxidável austenítico realizadas pela Sun Mark no mercado indiano, ao longo dos 12 meses que compõem o período de análise de dumping (P5), [CONFIDENCIAL] kg) foram realizadas a preços abaixo do custo unitário mensal no momento da venda (computados os custos unitários de produção do produto similar, fixos e variáveis - bem como as despesas gerais e administrativas e despesas financeiras). Para a Sunrise, o percentual verificado foi de [CONFIDENCIAL]% ([CONFIDENCIAL] kg).
+
+479\. Dessa forma, o volume de vendas abaixo do custo unitário superou 20% do volume vendido nas transações consideradas para a determinação do valor normal, correspondendo à "quantidade substancial" prevista no inciso II, § 2º e no § 3º do art. 14 do Decreto nº 8.058, de 2013. Esse resultado ensejaria, portanto, a desconsideração dessas operações. Antes, contudo, foi realizado o teste de recuperação, conforme previsão do § 4º do art. 14 do Decreto nº 8.058, de 2013, que busca eliminar os efeitos de eventuais sazonalidades na produção ou no consumo do produto.
+
+480\. Para tanto, comparou-se o preço líquido (para fins de teste de vendas abaixo do custo) das vendas que foram realizadas abaixo do custo de produção médio mensal com o custo unitário de produção médio ponderado obtido no período de análise de dumping (P5), referente a cada CODIP. Após esse teste, constatou-se que [CONFIDENCIAL]% das vendas que seriam desconsideradas da Sun Mark puderam ser recuperadas ([CONFIDENCIAL]kg). [CONFIDENCIAL]venda abaixo do custo realizada pela Sunrise.
+
+481\. Concluiu-se que [CONFIDENCIAL] ([CONFIDENCIAL]kg) das vendas da Sun Mark foram realizadas abaixo do custo de produção médio mensal e do custo de produção médio em P5, devendo ser desconsideradas para a apuração do valor normal, conforme previsto no inciso § 1º do art. 14 do Decreto nº 8.058, de 2013. Para a Sunrise, o percentual verificado foi de [CONFIDENCIAL]% ([CONFIDENCIAL] kg).
+
+482\. Com relação ao exame das vendas realizadas pelos produtores indiano a partes relacionadas no mercado interno, note-se que a Sun Mark e Sunrise informaram, em resposta ao questionário do produtor/exportador, terem realizado vendas no mercado interno da Índia [CONFIDENCIAL].
+
+483\. Nesse sentido, nos termos do § 9º do art. 14 do Decreto nº 8.058, de 2013, a fim de avaliar se as vendas desses produtos poderiam ser consideradas como operações comerciais normais, procurou-se comparar o preço médio de venda de cada binômio CODIP-categoria de cliente considerando os tipos de relacionamento com o cliente: relacionados e não relacionados. Uma vez que foram identificadas vendas a partes relacionadas de mais de um binômio CODIP-categoria de cliente, as diferenças de preço obtidas por cada binômio foram ponderadas pelas quantidades totais vendidas a cada um desses tipos de relacionamento com clientes, considerando todos os binômios de vendas a partes relacionadas.
+
+484\. Tendo em vista que a diferença percentual ponderada apurada de [CONFIDENCIAL]% para a Sun Mark e de [CONFIDENCIAL]% para a Sunrise superaram a margem tolerável de ±3%, todas as vendas a partes relacionadas foram desconsideradas para fins de apuração do valor normal. Quando não foi possível associação direta entre os CODIPs-categoria de cliente de vendas a partes relacionadas e não relacionadas, foi utilizada metodologia similar à de apropriação de custo de manufatura/produção mencionada anteriormente. Inicialmente foram comparados os preços praticados sem considerar a categoria de cliente, e, na sequência, as comparações foram estabelecidas com a eliminação das últimas características do CODIP (da menos influente para a mais influente em termos de custo de produção e preço).
+
+485\. Ante o exposto, o volume total de vendas do produto similar destino ao consumo no mercado interno da Índia, em condições normais de comércio, alcançou [CONFIDENCIAL]% [CONFIDENCIAL]kg) das vendas da Sun Mark, em P5. Para a Sunrise, verificou-se percentual de [CONFIDENCIAL]% ([CONFIDENCIAL]kg). Considerando [CONFIDENCIAL]categoria de cliente exportada pelas empresas, o referido percentual atingiu [CONFIDENCIAL]% ([CONFIDENCIAL]kg) e [CONFIDENCIAL]% ([CONFIDENCIAL] kg) das vendas, respectivamente.
+
+486\. Buscou-se, avaliar, em seguida, se as vendas no mercado interno foram realizadas em quantidades suficientes por meio do binômio CODIP-categoria de cliente, conforme determina o § 1º do art. 12 do Decreto nº 8.058, de 2013.
+
+487\. Considerando apenas as vendas normais, não houve venda suficiente, ou seja, o volume de vendas no mercado interno foi inferior a 5% do volume exportado ao Brasil, para os CODIPs [CONFIDENCIAL]considerando a categoria de cliente aglutinada [CONFIDENCIAL]. Por esse motivo, nos termos do art. 13 e do inciso II do caput do art. 14 do Decreto nº 8.508, de 2013, o valor normal da Sun Mark, para esses binômios CODIP-categoria de cliente, foi apurado com base no valor construído no país de origem a partir do custo de produção reportado pela empresa.
+
+488\. Em decorrência de não terem sidos realizadas vendas para o mercado interno indiano em condições normais de comércio, nos termos do Regulamento Brasileiro, de tubos fabricados pela Sunrise, o valor normal para os produtos fabricados pela empresa e exportados para o Brasil foi apurado com base no valor construído no país de origem a partir do custo de produção reportado pela empresa. Em relação aos CODIPs [CONFIDENCIAL], em decorrência de não terem sido reportados seus respectivos custos de produção, foram apropriados os custos de produção dos CODIPs mais próximos, quais sejam, respectivamente, [CONFIDENCIAL].
+
+489\. Assim, foram considerados os respectivos custos de produção conforme reportado na resposta da empresa ao questionário do produtor/exportador e eventualmente ajustado em verificação*in loco*. Ainda, haja vista a previsão de acréscimo de razoável montante a título de lucro, o DECOM recorreu ao lucro obtido pelas empresas Sun Mark e Sunrise, respectivamente, nas vendas normais do produto similar no mercado interno indiano.
+
+490\. Considerando um montante de [CONFIDENCIAL] , correspondente à receita líquida de despesas de vendas e custos de oportunidade, e o custo total de produção no mesmo período, [CONFIDENCIAL], o lucro total da Sun Mark em P5 foi de [CONFIDENCIAL], portanto [CONFIDENCIAL] de lucro sobre o custo de produção. Para a Sunrise, foi considerado o montante de [CONFIDENCIAL], correspondente à receita líquida de despesas diretas de vendas e custos de oportunidade, e o custo total de produção no mesmo período, [CONFIDENCIAL], gerando o lucro total em P5 de [CONFIDENCIAL], portanto [CONFIDENCIAL] de lucro sobre o custo de produção.
+
+491\. Para a Sun Mark, houve vendas suficientes para os demais binômios, tendo sido seus valores normais apurados com base nos seus respectivos preços de venda, na condição*ex fabrica*, no mercado interno indiano, conforme o art. 8º do Regulamento Brasileiro.
+
+492\. Registre-se que as empresas apresentaram os dados de vendas destinadas ao mercado da Índia e do custo de produção em moeda local. Nesse sentido, os valores reportados das vendas foram convertidos para dólar estadunidense com base na paridade cambial publicada pelo Banco Central do Brasil, levando-se em consideração a taxa de câmbio diária da data de cada operação de venda ou a taxa de câmbio de referência, quando cabível. Em relação ao custo de produção, utilizou-se a taxa de câmbio anual média de P5. Todas as taxas foram apuradas a partir do demandado pelo art. 23 do Regulamento Brasileiro.
+
+493\. Dessa forma, o valor normal para as empresas do grupo Sun Mark (Sun Mark e Sunrise), na condição ex fabrica, ponderado pelo volume e CODIPs exportados para o Brasil pelas empresas, apurado para fins de determinação final, alcançou USD [RESTRITO].
+
+**4.3.1.2.2 Do preço de exportação**
+
+494\. As vendas da Sun Mark ao Brasil foram realizadas tanto diretamente pela empresa, como via sua empresa de*trading*, a SMA Stainless LLC - FZ, sediada em Dubai, nos Emirados Árabes Unidos. Nesse sentido, o cálculo do preço de exportação da Sun Mark considerou os dados e informações reportadas nos questionários ao produtor/exportador referentes aos dois canais de distribuição.
+
+495\. Já as vendas de produtos fabricados pela Sunrise foram realizadas por intermédio de suas relacionadas Sun Mark de forma isolada ou em conjunto com a SMA.
+
+496\. A Sun Mark reportou os dados referentes às vendas para a exportadora relacionada e às vendas diretas aos clientes independentes no Brasil. As informações referentes às vendas da SMA ao primeiro comprador independente foram fornecidas, de forma conjunta à Sun Mark, por meio da resposta destas empresas ao questionário do exportador/exportador. Nesse contexto, foi aplicada metodologia distinta para apuração do preço de exportação para cada canal de distribuição.
+
+497\. O preço referente às exportações efetuadas com intermédio da Sun Mark, para produtos fabricados pela Sunrise, ou SMA, para produtos fabricados por ambas as produtoras, foi apurado conforme o art. 20 do Decreto nº 8.058, de 2013, segundo o qual, na hipótese de o produtor e o exportador serem partes associadas ou relacionadas, o preço de exportação será reconstruído a partir do preço efetivamente recebido, ou o preço a receber, pelo exportador, por produto exportado ao Brasil. Dessa forma, foram utilizados os dados de exportação apresentados tanto pela SMA quanto pela Sun Mark em resposta conjunta ao questionário do produtor/exportador.
+
+498\. Já o preço referente às operações de venda da Sun Mark realizadas diretamente a clientes independentes no Brasil foi apurado conforme o art. 18 do Decreto nº 8.058, de 2013, segundo o qual, na hipótese o produtor ser o exportador do produto objeto da investigação, o preço de exportação será o recebido, ou a receber, pelo produto exportado ao Brasil, líquido de tributos, descontos ou reduções efetivamente concedidos e diretamente relacionados com as vendas do produto objeto da investigação.
+
+499\. Tendo em vista os diferentes canais de distribuições utilizados na exportação do produto objeto da investigação para o Brasil, apresentam-se, a seguir, separadamente, as metodologias de cálculo aplicadas para cada um deles.
+
+**4.3.1.2.2.1 Do preço de exportação reconstruído**
+
+500\. Conforme informações prestadas pela Sun Mark em resposta ao questionário do produtor/exportador, parte dos produtos objeto da investigação confeccionados pela empresa que foram exportados para o Brasil durante o período de investigação de dumping foram transacionados por intermédio da empresa SMA,*trading company*relacionada, localizada nos Emirados Árabes Unidos. Já os produtos fabricados pela Sunrise foram exportados pela Sun Mark ou passando pela Sun Mark e SMA.
+
+501\. Dessa forma, o preço de exportação da Sun Mark relativo a tais vendas foi apurado a partir dos preços efetivos de venda do produto objeto da investigação exportado ao Brasil pela SMA, de acordo com o art. 20 do Decreto nº 8.058, de 2013, que contempla a hipótese de o produtor e o exportador serem partes associadas ou relacionadas, de modo que o preço de exportação da Sun Mark foi reconstruído a partir do preço bruto de venda ao primeiro comprador independente efetivamente recebido ou a receber pelo exportador, SMA, por produto exportado ao Brasil. Cumpre destacar que o produto fabricado pela Sun Mark e exportado para o Brasil, mesmo aquele transacionado via*trading*relacionada, é despachado da Índia diretamente para o Brasil. Para o preço de exportação da Sunrise, o cálculo realizado seguiu os mesmos ditames.
+
+502\. A reconstrução do preço de exportação visa a retirar o efeito da*trading*relacionada sobre as exportações da Sun Mark e Sunrise para o Brasil.
+
+503\. Nesse sentido, para produtos fabricados pela Sun Mark, primeiramente, há de se destacar que as vendas da SMA ao primeiro comprador independente foram reportadas líquidas de impostos e descontos. Assim, aos valores brutos foram acrescidos os montantes relativos à recuperação de frete, para, na sequência, deduzir desse resultado as seguintes rubricas: (i) frete e seguro internacionais (incorridos pela Sun Mark); (ii) outras despesas diretas de venda (taxas bancárias) - incorridas pela SMA; (iii) despesas indiretas de venda (incorridas pela SMA); (iv) despesas gerais e administrativas incorridas pela SMA; (v) custo de manutenção de estoque (incorrido pela Sun Mark); (vi) custo financeiro incorrido pela SMA; (vii) margem de lucro; e (viii) custo com embalagem incorrido pela Sun Mark. Deduziram-se ainda as despesas diretas e indiretas de vendas, apuradas conjuntamente e de forma unitária, incorridas pela Sun Mark nas referidas transações (frete interno, despesas de manuseio de carga e corretagem, taxas bancárias e demais despesas indiretas de venda - [CONFIDENCIAL]).
+
+504\. Os produtos fabricados pela Sunrise e exportados diretamente pela Sun Mark ao primeiro comprador independente também foram reportados líquidos de impostos e descontos. Assim, aos valores brutos foram acrescidos os montantes relativos à recuperação de frete, para, na sequência, deduzir desse resultado as seguintes rubricas: (i) frete interno (incorridos pela Sun Mark); (ii) frete e seguro internacionais (incorridos pela Sun Mark); (iii) despesas de manuseio de carga e corretagem (incorridos pela Sun Mark); (iv) outras despesas diretas de venda (taxas bancárias) - incorridas pela Sun Mark; (v) despesas indiretas de venda (incorridas pela Sun Mark); (vi) despesas gerais e administrativas incorridas pela Sun Mark; (vii) custo de manutenção de estoque (incorrido pela Sun Mark, mas a partir do custo de manufatura da Sunrise); (viii) custo financeiro incorrido pela Sun Mark; (ix) margem de lucro; e (x) custo com embalagem incorrido pela Sun Mark.
+
+505\. Para os tubos fabricados pela Sunrise e exportados para o Brasil com participação tanto da Sun Mark como da SMA, primeiramente, aos valores brutos, foram acrescidos os montantes relativos à recuperação de frete, para, na sequência, deduzir desse resultado as seguintes rubricas: (i) frete e seguro internacionais (incorridos pela Sun Mark); (ii) outras despesas diretas de venda (taxas bancárias) - incorridas pela SMA; (iii) despesas indiretas de venda (incorridas pela SMA); (iv) despesas gerais e administrativas incorridas pela Sun Mark e SMA; (v) custo de manutenção de estoque (incorrido pela Sun Mark, mas a partir do custo de manufatura da Sunrise); (vi) custo financeiro incorrido pela SMA; (vii) margem de lucro (Sun Mark e SMA); e (viii) custo com embalagem incorrido pela Sun Mark. Deduziram-se ainda as despesas diretas e indiretas de vendas, apuradas conjuntamente e de forma unitária, incorridas pela Sun Mark nas referidas transações (frete interno, despesas de manuseio de carga e corretagem, taxas bancárias e demais despesas indiretas de venda - [CONFIDENCIAL]).
+
+506\. Pontua-se que, após avaliação*in loco*, decidiu-se por não acatar, para fins de determinação final, os montantes relativos ao*duty drawback*(*DDB*) e ao*Advance Authorization (AAS)*reportados pela empresa. À luz do histórico de investigações conduzidas pelo DECOM, ambos os subsídios são classificados como subsídios acionáveis, nos termos do Acordo sobre Subsídios e Medidas Compensatórias da OMC, por serem incompatíveis com as disciplinas multilaterais, tornando-se, portanto, elegíveis à aplicação de medidas compensatórias. Em relação ao*DDB*, conforme apontado no relatório de verificação*in loco*da Sun Mark, os montantes percebidos do subsídio não requerem a devida comprovação da exportação pela empresa, bastando apresentar a*shipping bill*com a indicação do código tarifário do produto exportado. Já para o*AAS*, a Sun Mark informou que por ser uma grande exportadora, o Governo da Índia faria a conferência a*posteriori*, mas indicando que nem sempre é realizada. Desse modo, a falta de controle por parte do governo indiano enseja dúvida sobre a correta mensuração do que realmente deveria ser recebido pelo exportador.
+
+507\. Ademais, repisa-se que os elementos de prova apresentados comprovam o mero cumprimento da obrigação de exportação. Entretanto, não se pode garantir, por meio dos referidos elementos, que determinado insumo, comprado a determinado preço, foi de fato utilizado em operação de exportação específica. Não por outra razão, em investigações de subsídios conduzidas pela autoridade investigadora brasileira sobre produtos indianos, o montante de subsídio relativo ao*AAS*é apurado de forma global, considerando todas as exportações realizadas pela empresa e não de forma específica. Adenda-se, que pela falta de fiscalização estatal e controle das operações de venda da empresa, não há como saber se parte da matéria-prima importada sem o recolhimento do imposto de importação não foi utilizada na fabricação de tubos destinados para o mercado interno, bem como não há a certeza de que tubos exportados, contabilizados para fins de cumprimento das obrigações de volume e valor definidas pelo governo indiano, foram confeccionados a partir de matéria-prima beneficiada pelo*AAS*ou não. Desse modo, não bastaria apenas demonstrar que não houve reembolso ou benefício superior à suspensão efetiva dos tributos incidentes sobre a importação de matérias-primas utilizadas na fabricação dos produtos exportados ao Brasil, como alegado pela parte em sede de manifestações finais.
+
+508\. Ainda, eventual aceitação do programa em investigações antidumping exigiria considerações acerca da utilização ou não do*Standard Input Output Norms*(*SION*) e de sua forma de apuração por parte do Governo, bem como da verificação dessas e de outras informações referentes ao*AAS*junto ao Governo indiano, o que extrapola o escopo da presente investigação. Cumpre salientar, ainda, que, leitura consentânea do Acordo Antidumping e do Acordo Sobre Subsídios e Medidas Compensatórias deixa claro que ambos os acordos têm objetivos distintos e que, muito embora efeitos de eventuais subsídios recebidos devam ser necessariamente considerados para se evitar o duplo remédio em caso de aplicação simultânea de medida compensatória e direito antidumping, não necessariamente devem sê-lo para apuração do preço de exportação para fins de cálculo da margem de dumping. A se agir como quer a empresa, restaria ineficaz qualquer investigação antidumping em setor beneficiado pelos subsídios considerados na legislação multilateral como prática desleal de comércio, pois o preço de exportação seria inflado pelos subsídios recebidos.
+
+509\. Conforme apontado anteriormente, para fins de determinação final, optou-se por deduzir as despesas indiretas de venda para fins de apuração do valor*ex fabrica*em função de terem sido reportados valores distintos para a referida rubrica a depender do mercado de comparação (interno e externo). Nesse sentido, tal diferença teria o condão de afetar a comparabilidade de preços entre os mercados.
+
+510\. Esclarece-se que os valores referentes às despesas elencadas foram apurados com base em dados relativos às empresas Sun Mark ou SMA a depender do caso, no entanto, com relação à margem de lucro auferida pela Sun Mark e SMA, não foram utilizados os dados das empresas, uma vez que se considera que o relacionamento entre as empresas poderia impactar a referida margem de lucro. Para margem de lucro aplicável às operações de*trading*nas exportações, considerou-se o pleito da Sun Mark e foram utilizadas as margens lucro das empresas AKG Exim Limited, Olympia Industries Limited e Sicagen India Limited (Sicagen) observadas em P5. Para as vendas em que a*trading*relacionada foi apenas a SMA, utilizou-se a média simples das margens de lucros dar três empresas (0,98%), considerando os dados de atuação como*trading company*da Sicagen. Quando a operação envolveu a Sun Mark como*trading*relacionada, a margem de lucro utilizada foi apurada média simples das margens de lucros das três empresas (1,06%), considerando os dados globais da Sicagen.
+
+511\. Em relação às despesas gerais e administrativas incorridas pela Sun Mark e SMA, os percentuais apurados, [CONFIDENCIAL]% e [CONFIDENCIAL]%, respectivamente, foram obtidos a partir de dados verificados das empresas para o período.
+
+512\. Adicionalmente, cumpre informar que não foi informada taxa de juros de curto prazo por parte da SMA, assim, utilizou-se a taxa EIBOR, obtida no site do Banco Central dos Emirados Árabes Unidos, de 5,6% a.a., para o cálculo do custo financeiro. A taxa foi apurada para empréstimos de 1 ano realizados em setembro de 2023. O custo financeiro foi calculado por meio da multiplicação entre a taxa de juros de curto prazo, 5,6%, o valor da venda bruto e a diferença entre a data de recebimento do pagamento e data de embarque.
+
+513\. Quanto ao custo de manutenção de estoque para os produtos fabricados pela Sun Mark, reitera-se que, apesar de as exportações serem realizadas por intermédio da*trading*SMA, o produto deixa o estoque da produtora Sun Mark na Índia e segue diretamente para o cliente final no Brasil. Dessa forma, o custo de oportunidade em comento foi calculado a partir da taxa de juros relativa a empréstimos de curto prazo e do número médio de dias em estoque dos produtos fabricados pela empresa, informados pela Sun Mark, bem como do custo de manufatura relativo ao tipo de produto vendido em cada uma das operações reportadas pela produtora indiana, conforme metodologia indicada no item 4.3.1.2.1 (Do valor normal).
+
+514\. Já para os produtos fabricados pela Sunrise, o custo de oportunidade em comento foi calculado a partir da taxa de juros relativa a empréstimos de curto prazo e do número médio de dias em estoque dos produtos fabricados relativos à Sun Mark, já que os produtos são mantidos no estoque da empresa, contudo a partir do custo de manufatura relativo ao tipo de produto vendido em cada uma das operações reportadas pela Sunrise.
+
+515\. Após as deduções e acréscimos descritos anteriormente, foi obtido o valor*ex fabrica*das operações de exportação da Sun Mark e Sunrise para o Brasil realizadas ao amparo de*tradings*relacionadas.
+
+516\. Ressalte-se que os dados de custo de manufatura e de determinadas despesas referentes às exportações foram reportados em rúpias indianas, de modo que foi necessário converter esses valores para dólares estadunidenses. Para tanto, utilizou-se a paridade diária da moeda indiana em relação ao dólar, extraída do sítio eletrônico do Banco Central do Brasil, após realização de teste de movimento sustentado, conforme requisitos do art. 23 do Decreto nº 8.058, de 2013. Ademais, as despesas indiretas de venda reportadas pela SMA, reportadas em AED também foram convertidas para dólar estadunidense conforme descrito anteriormente.
+
+4.3.1.2.2.2 Do preço de exportação nas vendas diretas a clientes finais brasileiros
+
+517\. Inicialmente, ressalte-se que todas as exportações da Sun Mark para o Brasil foram apresentadas em sua reposta ao questionário do produtor/exportador, inclusive aquelas realizadas via*trading*relacionada (SMA), de modo que essas operações foram desconsideradas na metodologia de cálculo descrita a seguir. As exportações via parte relacionada tiveram seu preço de exportação reconstruído, conforme metodologia descrita no item anterior.
+
+518\. A fim de se apurar o preço de exportação líquido, na condição*ex fabrica*, das operações de exportação sem intermédio de*trading company*, somou-se ao valor bruto (já líquido de qualquer imposto e descontos) reportado em resposta ao questionário do produtor/exportador os montantes percebidos via recuperação de frete. Na sequência, deduziram os valores relativos a: frete interno da unidade de produção/armazenagem para o porto de embarque, despesa de manuseio e corretagem, outras despesas diretas de venda (taxas bancárias), despesas indiretas de venda, frete e seguros internacionais, custo com embalagem, custo financeiro e custo de manutenção de estoque. Os montantes de subsídios reportados não foram considerados conforme explicação apresentada no item anterior.
+
+519\. Conforme também apontado no item anterior, para fins de determinação final, optou-se por deduzir as despesas indiretas de venda para fins de apuração do valor*ex fabrica*em função de terem sido reportados valores distintos para a referida rubrica a depender do mercado de comparação (interno e externo). Nesse sentido, tal diferença teria o condão de afetar a comparabilidade de preços entre os mercados.
+
+520\. O custo de manutenção de estoque foi apurado a partir da metodologia definida pela autoridade considerando o giro de estoque para a totalidade dos produtos da empresa em P5 ([CONFIDENCIAL] dias), a taxa de juros obtida em empréstimos de curto prazo ([CONFIDENCIAL] ao ano) e o custo de manufatura (custo de produção deduzido de despesas gerais, administrativas, financeiras e outras despesas) do respectivo CODIP no mês de venda. Quando não foi possível a correlação exata entre o CODIP da venda e o custo de manufatura do respectivo mês da venda, adotou-se a metodologia de correlação disposta no item 4.3.1.2.1 (Do valor normal).
+
+521\. O custo financeiro foi calculado por meio da multiplicação entre a taxa de juros de curto prazo informada pela produtora indiana, [CONFIDENCIAL]%, o valor da venda bruto e a diferença entre a data de recebimento do pagamento e data de embarque.
+
+522\. As demais rubricas foram deduzidas em conformidade com os dados reportados no apêndice de exportações para o Brasil da produtora indiana. Cumpre informar que as exportações ao Brasil foram realizadas em dólares estadunidenses, no entanto, os dados de custo de manufatura e determinadas despesas referentes à exportação da Sun Mark foram reportados em rúpias indianas, de modo que foi necessário converter esses valores para dólares estadunidenses. Para tanto, utilizou-se a paridade diária da moeda indiana em relação ao dólar, extraída do sítio eletrônico do Banco Central do Brasil, após realização de teste de movimento sustentado, conforme requisitos do art. 23 do Decreto nº 8.058, de 2013.
+
+523\. Após as deduções descritas anteriormente, apurou-se o valor total de exportação, na condição*ex fabrica*, relativo às exportações da Sun Mark diretamente para clientes independentes no Brasil em dólares.
+
+**4.3.1.2.2.3 Do preço de exportação para fins de margem de dumping**
+
+524\. Tendo sido apurados os valores, na condição*ex fabrica*, referentes aos canais de distribuição utilizados pela Sun Mark e Sunrise, conforme metodologias descritas nos itens 4.3.1.2.2.1 e 4.3.1.2.2.2, chegou-se ao valor*ex fabrica*total de exportação e, finalmente, ao preço de exportação total do grupo indiano.
+
+60\. Dessa forma, o preço de exportação do grupo Sun Mark na condição*ex fabrica*, ponderado pelo volume e CODIPs exportados para o Brasil pelas empresas do grupo, apurado para fins de determinação final, alcançou**USD[RESTRITO]**
+
+**4.3.1.2.3 Da margem de dumping**
+
+525\. Para fins de determinação final, apuraram-se as seguintes margens de dumping absoluta e relativa para a empresa produtora/exportadora Sun Mark e para a produtora Sunrise a partir dos dados detalhados nos itens 4.3.1.2.1 e 4.3.1.2.2.3.
+
+| **Margem de dumping grupo Sun Mark - Índia** [RESTRITO] |  |  |  |
+| --- | --- | --- | --- |
+| Valor normal (USD/t) | Preço de exportação (USD/t) | Margem de Dumping Absoluta (USD/t) | Margem de Dumping Relativa (%) |
+| [REST.] | [REST.] | 397,42 | 13,8% |
+| Elaboração: DECOM Fonte: Questionário do produtor/exportador da Sun Mark/Sunrise/SMA |  |  |  |
+
+4.3.1.3 Do produtor/exportador Prakash
+
+526\. Apresentam-se, nos tópicos subsequentes, o valor normal e o preço de exportação do produtor Prakash, apurados em sede de determinação final, calculados com base na resposta conjunta ao questionário do produtor/exportador, e informações complementadas, apresentada pela produtora e a exportadora relacionada, Seth Steelage Limited (Seth), além dos resultados de verificação*in loco*nas empresas.
+
+527\. Os cálculos desenvolvidos levaram em consideração os CODIPs em que se classificaram os produtos vendidos, assim como as categorias de cliente [CONFIDENCIAL]), as únicas relativas às exportações da empresa para o Brasil. Neste ponto, indica-se que as referidas categorias foram aglutinadas e consideradas como categoria única.
+
+528\. Em resposta conjunta ao questionário do produtor/exportador, foi indicado que os tubos exportados para o Brasil, apesar de terem sido fabricados pela Prakash, seriam de propriedade da Seth Steelage Limited (Seth), empresa relacionada à produtora indiana. Destacou-se que a produção desses tubos teria sido realizada ao amparo de contrato de industrialização (*tolling*) estabelecidos entre empresas, em que a Prakash seria responsável pela fabricação dos tubos objeto da investigação a partir de matérias-primas adquiridas e repassadas pela Seth e de remuneração pelos serviços de fabricação prestados. Apesar de não ter exportado diretamente tubos de aço inoxidável para o Brasil em P5, a Prakash vendeu produto similar de fabricação própria no mercado indiano durante o período. Tais informações puderam ser confirmadas em sede de verificação*in loco*.
+
+529\. Foi pontuado ainda que, embora operem como entidades jurídicas distintas e separadas, as empresas são relacionadas no sentido das regulamentações do Departamento de Comércio indiano em função de "propriedade de ações em comum" e do "cargo de diretor em comum".
+
+560\. Em casos de operação de*tolling*o Departamento de Defesa Comercial tem adotado o entendimento de que a produtora é a empresa que efetivamente fabrica o item, mesmo que a partir de matéria-prima fornecida por outra empresa. Ou seja, a produtora é a empresa que presta o serviço de*tolling*. Esse entendimento se fundamenta em decisões do Órgão de Solução de Controvérsias da Organização Mundial do Comércio acerca do conceito de "produzir algo".
+
+561\. Seguem determinados trechos das decisões exaradas nos casos*DS417: Dominican Republic - Safeguard Measures on Imports of Polypropylene Bags and Tubular Fabrics*e*DS177: United States - Safeguard Measure on Imports of Fresh, Chilled or Frozen Lamb from New Zealand*sobre o assunto:
+
+*DS417: Dominican Republic - Safeguard Measures on Imports of Polypropylene Bags and Tubular Fabric*
+
+"*As the Appellate Body has point out, the term 'producers' used in Article 4.1(c) of The Agreement on Safeguards can be taken to mean those who 'manufacture an article', 'those who bring a thing into existence'. In this respect, the Panel does not see any reason why. In the circumstances of the present case, a company that cuts tubular fabric and sews it, and consequently causes a polypropylene bag actually to exist, should not be considered to be a producer under Article 4.1(c) of the Agreement on Safeguards."3²*
+
+*DS417: Dominican Republic - Safeguard Measures on Imports of Polypropylene Bags and Tubular Fabric*
+
+"As the Panel indicated, 'producers' ate those who Grow or manufacture an article; 'producers' are those who bring a Thing into existence. This meaning of 'producers' is, however, qualified by the second element in the definition of 'domestic industry'. This element identifies the particular products that must be produced by the domestic 'producers' in order to qualify for inclusion in the 'domestic industry'. According to the clear and express wording of the text of Article 4.1(c), the term 'domestic industry' extends solely to the 'producers ... of the like or directly competitive products'. (emphasis added) The definition, therefore, focuses exclusively on the producers of a very specific group of products. Producers of products that are not 'like or directly competitive products' do not, according to the text of the treaty, form part of the domestic industry."²5
+
+562\. Embora as decisões se relacionem a casos de salvaguarda, entende-se não haver motivo para diferenciação quanto ao conceito de "produzir" em relação ao Acordo Antidumping. Ademais, pontua-se que esse entendimento tem sido adotado reiteradamente nas investigações mais atuais conduzidos pelo Departamento.
+
+**4.3.1.3.1 Do valor normal**
+
+563\. O valor normal da Prakash foi apurado a partir dos dados fornecidos pela empresa em resposta ao questionário do produtor/exportador, ao ofício de informações complementares, bem como ajustes realizados considerando os resultados da verificação in loco relativos aos preços efetivos de venda do produto similar no mercado interno indiano, consideradas apenas as operações comerciais normais e os seus custos de produção, de acordo com o contido no art. 8º do Decreto nº 8.058, de 2013.
+
+564\. Com vistas à apuração do valor normal*ex fabrica*, para identificação das operações comerciais normais, inicialmente, foram adicionados aos valores brutos de suas vendas destinadas ao mercado interno os valores "recuperados" de: embalagem, frete, radiografia, inspeção e ajustes de faturamento. A partir desse resultado foram deduzidos os valores referentes a: devoluções, ajustes de faturamento, descontos, impostos, custo financeiro, frete da unidade de produção para o armazém e posteriormente para o cliente, despesas de armazenagem, outras despesas diretas de venda, despesas de embalagem, despesas indiretas de venda e custo de manutenção de estoque.
+
+565\. O custo de manutenção de estoque foi apurado a partir da metodologia definida pela autoridade considerando o giro de estoque para a totalidade dos produtos da empresa em P5 ([CONFIDENCIAL] dias), a taxa de juros obtida em empréstimos de curto prazo (9,1% ao ano) e o custo de manufatura (custo de produção deduzido de despesas gerais, administrativas, financeiras e outras despesas) do respectivo CODIP no mês de venda. Considerando que foi possível associar [CONFIDENCIAL]% do volume das vendas ao respectivo custo de manufatura no mesmo mês da venda, utilizaram-se métodos alternativos para realizar a associação das demais vendas. Quando não foi possível associar a venda ao respectivo custo de manufatura, no mesmo mês de produção, buscou-se alternativamente o custo de manufatura do mês imediatamente anterior ([CONFIDENCIAL]% do volume das vendas). Nos casos em que essa alternativa também não foi bem-sucedida, buscou-se a comparação do produto ao custo médio de todo o período ([CONFIDENCIAL]% do volume das vendas). Ainda, para os restantes dos casos ([CONFIDENCIAL]% do volume das vendas), a alternativa foi buscar o custo de manufatura de produtos com características próximas, eliminando-se sucessivamente, para tanto, as últimas características da formação do CODIP, considerando o custo de manufatura médio de P5.
+
+566\. Em relação à taxa de juros de empréstimos de curto prazo, cumpre destacar que a empresa informou não ter contratos de empréstimos ativos, no entanto, apresentou a média das taxas de juros ofertadas no sistema financeiro indiano, para P5, disponibilizadas por bancos públicos, a partir de dados do Banco Central indiano. Após avaliação das informações, de modo conservador, optou-se por ajustar a referida taxa considerando não apenas as ofertadas por bancos públicos, mas também as oriundas de bancos privados e estrangeiros que operam no país.
+
+567\. O custo financeiro foi calculado por meio da multiplicação entre a taxa de juros de curto prazo, 9,1%, o valor da venda bruto e a diferença entre a data de recebimento do pagamento e data de embarque.
+
+568\. Após a apuração dos valores na condição*ex fabrica*, de cada uma das operações de venda destinadas ao mercado interno indiano, buscou-se, para fins de apuração do valor normal, identificar operações que não corresponderiam a operações comerciais normais, nos termos do § § 1º e 7º do art. 14 do Decreto nº 8.058, de 2013.
+
+569\. Nesse sentido, buscou-se, identificar as operações que foram realizadas a preços inferiores ao custo de produção unitário do produto similar, no momento da venda, conforme o estabelecido no § 1º do art. 14 do Decreto nº 8.058, de 2013. Para tanto procedeu-se à comparação entre o valor de cada venda na condição*ex fabrica*e o respectivo custo de produção.
+
+570\. Ressalte-se que o custo de produção foi aferido por meio dos dados reportados pela empresa no apêndice de custo de produção da resposta ao questionário do produtor/exportador ajustado em sede de verificação*in loco*. Nesse sentido, o custo total, líquido das despesas de venda, consistiu na soma do custo de manufatura com os valores relativos a despesas gerais e administrativas e despesas financeiras incorridas pela empresa. Frisa-se que foi empregada a mesma metodologia aplicada no cálculo do custo de manutenção de estoque, previamente relatada neste documento, para identificação dos custos de produção das vendas de mercadorias classificadas em CODIPs que não tiveram produção no mês da venda.
+
+571\. Assim, a partir da comparação entre o valor da venda*ex fabrica*e o custo de produção, constatou-se que, do total de transações envolvendo tubos de aço inoxidável austenítico realizadas pela Prakash no mercado indiano, ao longo dos 12 meses que compõem o período de análise de dumping (P5), [CONFIDENCIAL]t) foram realizadas a preços abaixo do custo unitário mensal no momento da venda (computados os custos unitários de produção do produto similar, fixos e variáveis - bem como as despesas gerais e administrativas e despesas financeiras).
+
+572\. Dessa forma, o volume de vendas abaixo do custo unitário superou 20% do volume vendido nas transações consideradas para a determinação do valor normal, correspondendo à "quantidade substancial" prevista no inciso II, § 2º e no § 3º do art. 14 do Decreto nº 8.058, de 2013. Esse resultado ensejaria, portanto, a desconsideração dessas operações. Antes, contudo, foi realizado o teste de recuperação, conforme previsão do § 4º do art. 14 do Decreto nº 8.058, de 2013, que busca eliminar os efeitos de eventuais sazonalidades na produção ou no consumo do produto.
+
+573\. Para tanto, comparou-se o preço líquido (para fins de teste de vendas abaixo do custo) das vendas que foram realizadas abaixo do custo de produção médio mensal com o custo unitário de produção médio ponderado obtido no período de análise de dumping (P5), referente a cada CODIP. Após esse teste, constatou-se que [CONFIDENCIAL] % das vendas que seriam desconsideradas puderam ser recuperadas ([CONFIDENCIAL]t).
+
+574\. Concluiu-se que [CONFIDENCIAL] ([CONFIDENCIAL]t) das vendas foram realizadas abaixo do custo de produção médio mensal e do custo de produção médio em P5, devendo ser desconsideradas para a apuração do valor normal, conforme previsto no inciso § 1º do art. 14 do Decreto nº 8.058, de 2013.
+
+575\. Não foram reportadas vendas no mercado interno de produto similar confeccionado pela Prakash a empresas relacionadas.
+
+82\. Ante o exposto, o volume total de vendas do produto similar destino ao consumo no mercado interno da Índia, em condições normais de comércio, alcançou [CONFIDENCIAL]% [CONFIDENCIAL]t) das vendas da Prakash, em P5.
+
+576\. Buscou-se, avaliar, em seguida, se as vendas no mercado interno foram realizadas em quantidades suficientes por meio do binômio CODIP-categoria de cliente, conforme determina o § 1º do art. 12 do Decreto nº 8.058, de 2013.
+
+577\. Considerando apenas as vendas normais, na categoria de cliente aglutinada [CONFIDENCIAL], todos os binômios para os quais houve correspondia entre exportação e vendas no mercado interno foram realizados em quantidade suficiente, tendo sido seu valor normal apurado com base no seu preço de venda, na condição ex fabrica, no mercado interno indiano, conforme o art. 8º do Regulamento Brasileiro.
+
+578\. Para os demais, que foram exportados, mas não vendidos internamente pela Prakash, nos termos do art. 13 e do inciso II do caput do art. 14 do Decreto nº 8.508, de 2013, o valor normal foi apurado com base no valor construído no país de origem. Em relação aos CODIPs [CONFIDENCIAL] em decorrência de não ter sido reportado seu respectivo custo de produção para o período de investigação, apropriou-se do custo de produção do CODIP mais próximo, quais sejam, respectivamente, [CONFIDENCIAL] .
+
+579\. Assim, foram considerados os respectivos custos de produção conforme reportado na resposta da empresa ao questionário do produtor/exportador e eventualmente ajustado em verificação*in loco*. Ainda, haja vista a previsão de acréscimo de razoável montante a título de lucro, o DECOM recorreu ao lucro obtido pela Prakash nas vendas normais do produto similar no mercado interno indiano. Considerando um montante de [CONFIDENCIAL]correspondente à receita líquida de despesas diretas de vendas e custos de oportunidade, e o custo total de produção no mesmo período, [CONFIDENCIAL], o lucro total da Prakash em P5 foi de [CONFIDENCIAL], portanto [CONFIDENCIAL] de lucro sobre o custo de produção.
+
+580\. Após a determinação das transações no mercado interno que deveriam ser consideradas como operações comerciais normais, obteve-se o valor bruto, na condição*ex fabrica*, para cada venda interna da Prakash. Para tanto, foram acrescidas as despesas indiretas de vendas do valor utilizado para realização dos testes de vendas abaixo do custo realizados anteriormente, conforme reportado no Apêndice V.
+
+581\. Registre-se que a empresa apresentou os dados de vendas destinadas ao mercado da Índia e do custo de produção em moeda local. Nesse sentido, os valores reportados das vendas foram convertidos para dólar estadunidense com base na paridade cambial publicada pelo Banco Central do Brasil, levando-se em consideração a taxa de câmbio diária da data de cada operação de venda ou a taxa de câmbio de referência, quando cabível. Em relação ao custo de produção, utilizou-se a taxa de câmbio anual média de P5. Todas as taxas foram apuradas a partir do demandado pelo art. 23 do Regulamento Brasileiro.
+
+582\. Em relação ao cálculo apresentado em sede de nota técnica de fatos essenciais, houve a necessidade de alteração da categoria de cliente aglutinada para as vendas destinadas ao cliente [CONFIDENCIAL] . A nova classificação foi indicada em sede de verificação*in loco*, como apontado em relatório, contudo, não havia sido atualizada na base de cálculo de margem de dumping da referida empresa.
+
+90\. Dessa forma, o valor normal da Prakash, na condição ex fabrica, ponderado pelo volume e CODIPs exportados para o Brasil pela empresa, apurado para fins de determinação final, alcançou USD [RESTRITO] .
+
+**4.3.1.3.2 Do preço de exportação reconstruído**
+
+583\. Conforme informações prestadas pela Prakash e Seth em resposta ao questionário do produtor/exportador e confirmadas em sede de verificação*in loco*, os produtos objeto da investigação confeccionados pela Prakash exportados para o Brasil durante o período de investigação de dumping foram transacionados por intermédio da Seth, empresa relacionada à Prakash, que seria detentora do produto após serem industrializados pela referida produtora ao amparo de contrato de industrialização.
+
+584\. Dessa forma, o preço de exportação da Prakash foi apurado a partir dos preços efetivos de venda do produto objeto da investigação exportado ao Brasil pela Seth, de acordo com o art. 20 do Decreto nº 8.058, de 2013, que contempla a hipótese de o produtor e o exportador serem partes associadas ou relacionadas, de modo que o preço de exportação da Prakash foi reconstruído a partir do preço bruto de venda ao primeiro comprador independente efetivamente recebido ou a receber pelo exportador, Seth, por produto exportado ao Brasil.
+
+585\. Entende-se que há a necessidade de reconstrução do preço de exportação visando retirar o efeito da exportadorarelacionada sobre as exportações de produtos fabricados pela Prakash e destinados para o Brasil mesmo que a titularidade do produto seja da exportadora.
+
+586\. Nesse sentido, primeiramente, destaque-se que as vendas da Seth ao primeiro comprador independente foram reportadas líquidas de impostos e descontos. Assim, aos valores brutos foram deduzidas as seguintes rubricas incorridas pelas Seth: frete interno da planta/armazém para o porto; despesas de manuseio de carga e corretagem; frete e seguro internacionais; comissão; despesas indiretas de venda; despesas gerais e administrativas; custo de manutenção de estoque; custo financeiro; margem de lucro; e custo com embalagem.
+
+587\. Cumpre ressaltar que os valores referentes às despesas elencadas foram apurados com base em dados relativos à Seth, no entanto, com relação à margem de lucro auferida pela exportadora relacionada, não foram utilizados os dados da empresa, uma vez que se considera que o relacionamento entre as empresas poderia impactar a referida margem de lucro. Para margem de lucro aplicável às operações de trading nas exportações, considerou-se o pleito da Sun Mark e foram utilizadas as margens lucro das empresas AKG Exim Limited, Olympia Industries Limited e Sicagen India Limited (Sicagen), considerando os dados de atuação como*trading company*da Sicagen. O percentual observado foi de 0,98%.
+
+588\. Em relação às despesas gerais e administrativas incorridas pela Seth, o percentual apurado ([CONFIDENCIAL] %) foi obtido pela divisão das respectivas despesas incorridas pela Seth (Rs in Lakhs [CONFIDENCIAL]) pela receita auferida (Rs in Lakhs [CONFIDENCIAL]), ambas relacionadas ao demonstrativo financeiro auditado da empresa para o ano fiscal de 2023.
+
+589\. O custo financeiro foi calculado por meio da multiplicação entre a taxa de juros de curto prazo da Seth ([CONFIDENCIAL]%), o valor da venda bruto e a diferença entre a média das datas de recebimento do pagamento e data de embarque.
+
+590\. Quanto à despesa de manutenção de estoque, cumpre ressaltar que, apesar de o produto ser fabricado pela Prakash, foram utilizadas as informações de estoque referentes aos produtos de titularidade da Seth. Dessa forma, a despesa de manutenção de estoque foi calculada a partir da taxa de juros relativa a empréstimos de curto prazo e do número médio de dias em estoque dos produtos de titularidade da exportadora, informados pela Seth, bem como do custo de manufatura, oriundo das informações apresentadas pela Prakash, relativo ao tipo de produto vendido em cada uma das operações reportadas pela exportadora indiana, conforme metodologia indicada no item 4.3.1.3.1 (Do valor normal).
+
+591\. Após as deduções descritas anteriormente, foi obtido o valor*ex fabrica*das operações de exportação para o Brasil de produtos fabricados pela Prakash, mas que seriam de posse da Seth, por meio da neutralização dos efeitos de sua exportadora relacionada sobre os preços praticados nessas operações.
+
+592\. Ressalte-se que os dados de custo de manufatura e determinadas despesas referentes à exportação de produtos fabricados pela Prakash foram reportados em rúpias indianas, de modo que foi necessário converter esses valores para dólares estadunidenses. Para tanto, utilizou-se a paridade diária da moeda indiana em relação ao dólar, extraída do sítio eletrônico do Banco Central do Brasil, após realização de teste de movimento sustentado, conforme requisitos do art. 23 do Decreto nº 8.058, de 2013.
+
+593\. Dessa forma, o preço de exportação da Prakash na condição*ex fabrica*, ponderado pelo volume e CODIPs exportados para o Brasil, apurado para fins de determinação final, alcançou**USD[RESTRITO]**
+
+**4.3.1.3.3 Da margem de dumping**
+
+594\. Para fins de determinação final, apuraram-se as seguintes margens de dumping absoluta e relativa para a empresa produtora indiana Prakash a partir dos dados detalhados nos itens 4.3.1.3.1 e 4.3.1.3.2.
+
+| **Margem de dumping Prakash - Índia** [RESTRITO] |  |  |  |
+| --- | --- | --- | --- |
+| Valor normal (USD/t) | Preço de exportação (USD/t) | Margem de Dumping Absoluta (USD/t) | Margem de Dumping Relativa (%) |
+| [REST.] | [REST.] | 460,26 | 14,0% |
+| Elaboração: DECOM Fonte: Questionário do produtor/exportador da Prakash/Seth |  |  |  |
+
+4.3.2 De Taipé Chinês
+
+595\. Em decorrência da inexistência de respostas válidas ao questionário do produtor/exportador por empresas de Taipé Chinês, a apuração da margem de dumping para fins de determinação final para a origem teve por base a melhor informação disponível nos autos, qual seja a metodologia apresentada para fins de início da investigação.
+
+596\. A margem absoluta de dumping é definida como a diferença entre o valor normal e o preço de exportação, e a margem relativa de dumping se constitui na razão entre a margem de dumping absoluta e o preço de exportação.
+
+597\. Para fins de determinação final, apuraram-se o valor normal e o preço de exportação para Taipé Chinês conforme descrito, respectivamente, nos itens 4.1.2.1 e 4.1.2.2 deste documento. Dessa forma, considerou-se que o preço de exportação apurado em base FOB seria comparável com o valor normal construído, dado que o valor normal construído inclui despesas comerciais, no qual a rubrica frete interno está inclusa.
+
+598\. Apresentam-se a seguir as margens de dumping absoluta e relativa apuradas para fins de determinação final para Taipé Chinês.
+
+| **Margem de dumping final - Taipé Chinês** |  |  |  |
+| --- | --- | --- | --- |
+| Valor normal(USD/t) | Preço de exportação(USD/t) | Margem de Dumping Absoluta (USD/t) | Margem de Dumping Relativa (%) |
+| 4.514,51 | 3.255,74 | 1.258,77 | 38,7% |
+| Fonte: Tabelas anteriores. Elaboração: DECOM. |  |  |  |
+
+**4.3.3 Das manifestações acerca do cálculo das margens de dumping anteriores à Nota Técnica de Fatos Essenciais**
+
+599\. Em 13 de novembro de 2024, a Sun Mark apresentou manifestação indicando que suas exportações para o Brasil seriam realizadas por intermédio de dois canais de distribuição: exportação direta e via*trading*relacionada (SMA) baseada em Dubai, EAU.
+
+600\. Nesse sentido, tendo em mente a metodologia envolvida no cálculo do preço de exportação na hipótese do art. 20 do Decreto nº 8.058, de 2013, e a "ausência de*tradings*com demonstrativos financeiros públicos nos EAU", apresentou dados das seguintes empresas indianas para se calcular a margem de lucro: AKG Exim Limited, Olympia Industries Limited e Sicagen India Limited. Foi indicado, ademais, que as "três tradings ponderam: a relação com o mercado indiano; o segmento de mercado do produto investigado; bem como a atuação específica nos EAU".
+
+601\. A manifestação detalhou a metodologia para calcular as margens de lucro das empresas substitutas e sugeriu a utilização da média dessas margens para fins de apuração do preço de exportação reconstruído a ser utilizado na determinação final. O documento incluiu, ainda, referências a investigações anteriores para apoiar a metodologia proposta.
+
+602\. Em manifestação pós realização de audiência, protocolada em 10 de fevereiro de 2025, a Sun Mark solicitou que o subsídio*AAS*fosse tratado como uma modalidade de*drawback*, conforme esclarecido durante a verificação*in loco*, considerando-o consistente com as normas da OMC e utilizável para Nota Técnica de fatos essenciais e determinação final.
+
+603\. Em 17 de janeiro de 2025, a Aperam Tubos apresentou suas considerações sobre os temas elencados pela Aprodinox e Prakash que seriam abordados em audiência. Sobre o tema "elementos da caracterização da prática de dumping nas importações brasileiras", a peticionária apontou que a petição teria apresentado indícios de dumping nas importações da Índia e do Taipé Chinês. Ademais, a autoridade investigadora teria realizado visitas para verificação dos dados apresentados, contudo, os relatórios dessas visitas não teriam sido disponibilizados até o momento de protocolo da manifestação, exceto o da Suncity. A Aperam Tubos acredita que a prática de dumping deve ser confirmada conforme os elementos do processo.
+
+604\. Em 10 de fevereiro de 2025, a Prakash protocolou manifestação contendo seus argumentos apresentados em sede de audiência. A produtora indiana indicou que as margens de dumping apuradas para fins de determinação preliminar, e posterior aplicação de direitos provisórios, não haviam refletido a realidade do mercado, resultando na aplicação de um direito antidumping muito superior à prática de dumping que se visava coibir. Isso estaria causando prejuízos às exportadoras e ao mercado brasileiro de tubos de aço inoxidável. Assim, foi reforçada a necessidade de alterar as margens de dumping provisórias para corrigir essa distorção e caso não fosse possível alterar o direito provisório naquele momento, pleiteou-se que todas as informações e ajustes fossem considerados em eventual aplicação do direito definitivo.
+
+605\. Em 10 de fevereiro de 2025, a Aperam Tubos reduziu a termo seus argumentos apresentados durante a audiência. A peticionária repisou seus argumentos sobre o assunto e ressaltou que iria apresentar suas considerações em relação aos alegados erro nos cálculos das margens de dumping da Prakash e da Seth após a disponibilização do relatório de verificação*in loco*nas referidas empresas indianas.
+
+606\. Em 19 de março de 2025, a Sun Mark apresentou manifestação ao amparo do art. 60 do Regulamento Brasileiro. No documento, a empresa, ao reanalisar o cálculo preliminar da sua margem de dumping, verificou que a autoridade investigadora teria deduzido indevidamente as despesas indiretas de vendas no cálculo do preço de exportação. Foi destacada também a necessidade de considerar corretamente o*AAS*, que seria um tipo de*drawback*na modalidade suspensão, e não um programa de subsídios.
+
+607\. Em manifestação apresentada em 19 de março de 2025, a Aperam Tubos destacou a importância de que os dados de custo de produção da Sun Mark, considerados para fins de determinação final, não estejam distorcidos pela aparente falta de segregação dos custos com*tolling*.
+
+608\. Sobre os argumentos apresentados pela Prakash/Seth acerca da dupla certificação de normas, a Aperam Tubos indicou que tal prerrogativa seria comum para aços carbono, mas não para tubos de aços inoxidáveis. A peticionária estranhou as divergências sobre a normas nas documentações de venda, sem a devida notificação ao cliente. Sobre os impostos decorrentes das despesas de vendas das produtoras/exportadoras, as despesas de vendas foram reportadas líquidas de tributos, indicou-se que as comprovações teriam sido intempestivas, após a verificação*in loco*. Ademais, autoridade investigadora deveria considerar a melhor informação disponível sobre as despesas de vendas e desse modo, o direito antidumping para as empresas indianas não selecionadas deveria ser definido com base na margem de dumping apurada no início da investigação.
+
+609\. Em sede de manifestação ao amparo do art. 60 do Decreto nº 8.058, de 2013, as empresas indianas Prakash e Seth reforçaram seu caráter colaborativo durante toda a investigação e repisaram argumentos apresentados em manifestações anteriores. As empresas destacaram que pelo fato de a margem de dumping não ter sido ajustada em sede de recurso apresentado contra a determinação preliminar, o preço dos tubos da Prakash ficou muito acima dos concorrentes, inviabilizando a exportação pela Seth. Solicitou-se que os ajustes requisitados fossem considerados na determinação final para refletir a realidade das operações das empresas.
+
+**4.3.4 Das manifestações acerca do cálculo das margens de dumping posteriores à Nota Técnica de Fatos Essenciais**
+
+610\. Em 5 de maio de 2025, como manifestações finais, a Sun Mark, quanto ao cálculo de margem de dumping, destacou que não deveriam ser deduzidas rubricas a título de lucro e despesas gerais e administrativas nos casos de fabricação do produto investigado pela Sunrise. A empresa rememorou que a produção do produto investigado pela Sun Mark [CONFIDENCIAL] e integram a estrutura produtiva do produto sob investigação.
+
+611\. No que se refere às exportações para o Brasil, [CONFIDENCIAL], seja de forma direta, seja por meio de sua parte relacionada SMA, incorporada nos Emirados Árabes Unidos.
+
+612\. Foi indicado, que, diferentemente do cálculo preliminar, o DECOM [CONFIDENCIAL]. Diante disso, o Departamento entendeu ser necessária a reconstrução do preço de exportação, em razão do relacionamento entre as partes envolvidas.
+
+613\. A Sun Mark contestou a dedução de sua margem de lucro e de suas despesas gerais e administrativas nos casos em que o produto é fabricado pela Sunrise, independentemente de a exportação ocorrer diretamente ou via SMA. A empresa reconhece que, conforme a metodologia usualmente adotada pelo DECOM, tais deduções são aplicadas quando há relação entre produtor e exportador. No entanto, argumenta que essa metodologia não seria adequada para o caso específico em que ambas as empresas (Sun Mark e Sunrise) estão localizadas no mesmo país.
+
+614\. A Sun Mark fundamentou sua posição contrária à dedução da margem de lucro e das despesas administrativas na reconstrução do preço de exportação com base em três pilares principais: a inadequação jurídica, a prática internacional e a interpretação do objetivo do Acordo Antidumping (ADA).
+
+615\. Primeiramente, a empresa argumentou que a dedução desses valores não encontrava respaldo no ADA, internalizado no Brasil pelo Decreto nº 1.355, de 1994. Segundo sua interpretação, o acordo permitiria a reconstrução do preço de exportação apenas em situações de distorção em transações entre exportador e importador, não se aplicando a transações domésticas entre empresas relacionadas no mesmo país.
+
+616\. Em segundo lugar, a Sun Mark destacou que tanto a União Europeia (UE) quanto os Estados Unidos da América (EUA) tratavam empresas relacionadas no mesmo país como uma "entidade única", o que afastava a necessidade de deduções. Na UE, o Regulamento 2016/1036 distinguia claramente entre transações internas e internacionais, permitindo deduções apenas quando havia relação com o importador. A jurisprudência da Corte de Justiça da UE reforçava essa abordagem, como demonstrado em decisões que anularam medidas antidumping baseadas em deduções indevidas.
+
+617\. Nos EUA, o Departamento de Comércio aplicava a mesma lógica por meio do regulamento 19 CFR § 351.401(f)(1), tratando produtores e distribuidores afiliados no mesmo país como uma única entidade econômica. Casos como o da POSCO, na Coreia do Sul, ilustraram essa prática, onde a metodologia de preço de exportação direto foi aplicada sem deduções, exceto quando havia importador relacionado nos EUA.
+
+618\. Por fim, a Sun Mark sustentou que, no contexto brasileiro, o Decreto nº 8.058, de 2013 não previa expressamente a dedução de lucro e despesas administrativas em transações entre partes relacionadas no mesmo país exportador. Assim, defendeu que, nos casos em que a Sunrise (sua unidade fabril na Índia) exportava diretamente ou por meio da própria Sun Mark, não deveriam ser aplicadas deduções. Tais ajustes só seriam cabíveis quando houvesse envolvimento de uma terceira parte relacionada fora do país de produção, como a SMA, nos Emirados Árabes Unidos.
+
+619\. A empresa também solicitou que o cálculo da margem de dumping fosse realizado com base mensal, e não por médias agregadas. A Sun Mark destacou que o período de investigação de dumping teria sido marcado por fortes oscilações nos custos de matérias-primas, o que poderia ter distorcido a margem de dumping apurada com base em médias múltiplas. Tal cenário seria comparável ao contexto analisado na Nota Técnica nº 83/2011/CGPI/DECOM/SECEX, de 10 de agosto de 2011, na qual a parte trouxe excertos de trechos confidenciais que teriam demonstrado que a autoridade investigadora teria adotado o cálculo de margem de dumping por médias múltiplas justamente em razão de alterações significativas nos preços, em um contexto pós-crise econômica global. De forma análoga, de acordo com a Sun Mark, o presente caso teria ocorrido em um período pós-pandemia, com reflexos relevantes sobre os custos de produção.
+
+620\. A Sun Mark destacou que o custo unitário do CODIP mais exportado pela SMA apresentou variação de aproximada de 25% entre o primeiro e o último mês do período de análise de dumping. Apontou, ademais, que a Sunrise não produziu nem exportou em todos os meses, tendo produzido apenas em sete meses do referido período.
+
+621\. Foi destacado que o volume exportado diretamente pela Sun Mark, de fabricação própria, também foi altamente concentrado: [CONFIDENCIAL]. Além disso, [CONFIDENCIAL], enquanto os produtos da Sunrise foram exportados em apenas [CONFIDENCIAL].
+
+622\. Nesse sentido, a empresa alegou que essas variações mensais teriam sido significativas tanto em custo quanto em volume exportado, indicando que o uso de médias agregadas poderia estar artificialmente elevando a margem de dumping da empresa, ao não refletir adequadamente a realidade econômica de cada período.
+
+623\. Diante disso, a Sun Mark solicitou que o DECOM adotasse metodologia de cálculo mensal da margem de dumping de forma a garantir maior precisão e justiça na apuração, especialmente em um contexto de instabilidade econômica e variações relevantes nos custos de produção.
+
+624\. Ainda em sede de manifestações finais, a Sun Mark solicitou a reconsideração da decisão que indeferiu o ajuste no preço de exportação com base no programa*Advance Authorization Scheme (AAS)*do governo indiano. A empresa esclareceu que, no contexto de uma investigação antidumping, não lhe cabe demonstrar se o*AAS*configuraria ou não um subsídio nos termos do Acordo sobre Subsídios e Medidas Compensatórias da OMC ou do Decreto nº 10.839, de 2021. Tal avaliação seria de competência exclusiva da autoridade investigadora, com base em critérios específicos de contribuição financeira e especificidade do benefício. Desse modo, o objetivo da Sun Mark foi, portanto, demonstrar a suspensão efetiva dos tributos incidentes sobre a importação de matérias-primas utilizadas na fabricação dos produtos exportados ao Brasil, sem que houvesse reembolso ou benefício superior ao valor originalmente devido. Essa suspensão seria funcionalmente equivalente ao regime de*drawback*suspensão, amplamente reconhecido como legítimo para fins de ajuste no preço de exportação.
+
+625\. A empresa pontuou, nos termos do Guia de Cálculo de Margem de Dumping (2021), que seria permitido o ajuste no preço de exportação quando a empresa comprovasse que o valor dos tributos suspensos não excederia o montante que seria devido na ausência do benefício. Essa prática garantiria a comparabilidade justa entre o valor normal e o preço de exportação, conforme previsto no Artigo 2.4 do ADA e no art. 22 do Decreto nº 8.058, de 2013. Nesse sentido, a Sun Mark teria apresentado documentação que comprovaria: a suspensão efetiva dos tributos no momento da importação; a rastreabilidade entre as matérias-primas importadas sob o*AAS*e os produtos exportados ao Brasil; e a ausência de reembolso ou benefício excedente ao valor dos tributos suspensos.
+
+626\. Dessa forma, o ajuste solicitado estaria tecnicamente amparado e não dependeria da qualificação formal do*AAS*como subsídio. A exigência de comprovação da existência do programa no site do governo indiano não se aplicaria neste contexto, pois a verificação da legalidade e operacionalidade do*AAS*seria matéria própria de uma eventual investigação de subsídios, e não de uma investigação antidumping. Mesmo assim, a Sun Mark teria apresentado evidências suficientes da existência e aplicação do*AAS*, sendo que a rastreabilidade dos tributos suspensos até a exportação do produto investigado seria, por si só, suficiente para justificar o ajuste.
+
+627\. Assim, alegando que não haveria indícios de que os benefícios recebidos excederiam os tributos suspensos, solicitou-se reconsideração quando o ajuste em questão no preço de exportação.
+
+136\. As empresas indianas Prakash e Seth apresentaram suas manifestações finais em 6 de maio de 2025. O documento repisou a participação ativa e colaborativa da empresa no curso da investigação.
+
+628\. Em relação à ajustes no cálculo da margem de dumping, a empresa teria identificado inconsistência em relação à categoria de cliente padronizada para a empresa [CONFIDENCIAL]No apêndice de vendas no mercado interno da Prakash, a empresa teria sido classificada como "Trader", mas foi considerado como "Usuário final" na coluna padronizada elaborada pelo DECOM.
+
+629\. Na sequência, as empresas solicitaram a reconsideração da aplicação da metodologia de reconstrução do preço de exportação da Seth. As empresas indianas indicaram que o DECOM teria aplicado metodologia de reconstrução do preço de exportação à Seth, com base no art. 20 do Decreto nº 8.058, de 2013, por entender que a empresa exportava produtos fabricados pela Prakash. Desse modo, deduziu-se do preço de exportação as despesas gerais e administrativas, além de margem de lucro razoável. No entanto, esse entendimento, segunda as empresas indianas, teria partido de uma premissa incorreta sobre a relação entre elas. Conforme demonstrado nos questionários e na verificação*in loco*, a Prakash atuaria como prestadora de serviço de industrialização (*tolling*), enquanto a Seth detinha a propriedade dos produtos e realizava as exportações.
+
+630\. Foi indicado que o próprio DECOM já havia reconhecido que a prestação de serviços de*tolling*não descaracterizaria a condição de produtora da Prakash. Assim, a relação entre as empresas não deveria ter sido tratada como de produtor e exportador relacionado, mas sim como uma entidade única para fins de defesa comercial.
+
+631\. Nos Estados Unidos, em investigação semelhante sobre tubos de aço inox da Índia, a autoridade investigadora americana, segundo a manifestação, teria reconhecido a Seth e a Prakash como uma única entidade e não teria realizado deduções no preço de exportação da Seth. As empresas defenderam que o DECOM adotasse o mesmo entendimento, aplicando a metodologia do art. 18 do Decreto nº 8.058, de2013, sem deduções de despesas e margem de lucro, o que garantiria uma comparação justa com o valor normal.
+
+632\. Além disso, foi ressaltado que a Seth atuaria de forma independente, sendo responsável pela compra dos insumos e pela comercialização dos produtos. Mesmo que fosse considerada apenas uma exportadora relacionada, a prática do DECOM teria destoado de outras autoridades, como as da União Europeia e dos EUA, que só reconstruíam o preço de exportação quando o distribuidor relacionado não estava localizado no mesmo território do produtor (EUA:*Certain Carbon and Alloy Steel Cut-To-Length Plate from the Republic of Korea*e UE:*Aluminium flat-rolled products originating in the People's Republic of China*). Diante disso, foi defendido que o DECOM ajustasse sua metodologia, não por obrigação de seguir práticas estrangeiras, mas por ser o método mais adequado para assegurar a justa comparação exigida pela legislação antidumping.
+
+633\. Em manifestação final, protocolada em 6 de maio de 2025, a Aperam Tubos afirmou que as margens de dumping apuradas pelo DECOM comprovariam a prática de dumping nas exportações de tubos de aço inoxidável austenítico da Índia e do Taipé Chinês para o Brasil. A empresa destacou que, no caso do Taipé Chinês, a ausência de participação dos produtores/exportadores teria justificado a aplicação da melhor informação disponível, resultando na margem de USD 1.258,77/t para todas as produtoras lá sediadas. Da mesma forma, afirmou que a empresa indiana Suncity não reportou adequadamente os dados exigidos, o que teria levado à aplicação da margem de USD 1.211,42/t com base em fatos disponíveis.
+
+634\. A Aperam Tubos comentou sobre as solicitações apresentadas pela Sun Mark e Prakash/Seth, em suas respectivas manifestações finais, no tocante ao cálculo de margem de dumping. A peticionária afirmou que tais pedidos não deveriam ser acolhidos e o cálculo de preço de exportação realizado foi devidamente justificado com base no art. 20 do Decreto nº 8.058, de 2013. Foi apontado que a solicitação de cálculo mensal da margem de dumping teria sido apresentada de forma extemporânea, sem respaldo fático ou discussão durante a fase probatória. Em relação ao ajuste do preço de exportação vinculado ao AAS, afirmou que a decisão da autoridade investigadora foi acertada, conforme fundamentado na Nota Técnica.
+
+635\. No que se refere à questão da dupla certificação e dos tributos incidentes sobre despesas de venda, a Aperam afirmou que não ficou claro o entendimento da autoridade investigadora, especialmente quanto à alegação feita pela Prakash. Reiterou as considerações apresentadas em sua manifestação de 19 de março de 2025 e defendeu que, diante da ausência de informações nos questionários e documentos complementares, a autoridade deveria aplicar a melhor informação disponível.
+
+636\. Por fim, a Aperam afirmou que, com base nos relatórios de verificação, as empresas do grupo Sun Mark e Prakash/Seth não comprovaram adequadamente os valores das despesas de vendas, uma vez que os dados foram reportados líquidos de impostos, mas a documentação apresentada incluía tributos sem comprovação de valor ou recuperação. Alegou que as tentativas de comprovação foram intempestivas, pois ocorreram após a verificação*in loco*. Assim, reiterou seu entendimento de que a melhor informação disponível deveria ser aplicada também nesse aspecto.
+
+**4.3.5 Dos comentários do DECOM acerca das manifestações**
+
+637\. Inicialmente, insta esclarecer que aspectos acerca do cálculo da margem de dumping das produtoras/exportadoras indianas foram tratados no item 1.7.2.2, que tratou de ajustes decorrentes das verificações*in loco*realizadas pelo DECOM. As questões da dupla certificação de normas e dos tributos incidentes sobre as despesas de venda, suscitadas pela Aperam, encontram-se detalhadas no item citado.
+
+638\. A sugestão de alteração da margem de lucro considerada no âmbito da reconstrução do preço de exportação da Sun Mark foi acatada pelo Departamento. Por outro lado, o pedido para que fossem considerados os valores de*AAS*no âmbito do cálculo do preço de exportação da empresa foi indeferido, conforme justificativas detalhadas no item 4.3.1.2.2.1, já atualizadas considerando as manifestações finais. Tanto o*AAS*como o*DDB*, considerando o histórico de investigações de subsídios realizadas pele DECOM, foram considerados não compatíveis com as regras da OMC, não tendo sido possível atestar o seu efeito sobre a comparabilidade dos preços.
+
+639\. Quanto à dedução das despesas indiretas de venda apontada pela Sun Mark, esclarece-se que dedução semelhante foi realizada no cálculo do valor normal apurado para a empresa. Uma vez que foram reportados montantes distintos de despesas indiretas para os diferentes mercados, considera-se que estas impactam a comparabilidade dos preços.
+
+640\. No tocante à alegada dedução indevida de rubricas a título de lucro e despesas gerais e administrativas nos casos de fabricação do produto investigado pela Sunrise, no contexto do Decreto nº 8.058, de 2013, cumpre enfatizar o conteúdo do art. 20 do referido ordenamento:
+
+**Art. 20.** Na hipótese de**o produtor e o exportador serem partes associadas ou relacionadas**,**o preço de exportação será reconstruído**a partir do preço efetivamente recebido, ou o preço a receber,**pelo exportador**, por produto exportado ao Brasil (grifos nossos)
+
+641\. Tendo em mente que se busca a apuração do preço de exportação a partir da ótica do produtor (Sunrise), a reconstrução foi necessária e buscou retirar os efeitos do exportador relacionado (Sun Mark e/ou SMA) por intermédio da dedução de suas respectivas despesas administrativas e margem de lucro que teriam sido detidas com a exportação em questão. Ademais, o Decreto nº 8.058, de 2013, não prevê qualquer exigência, ou o contrário, qualquer isenção, de o produtor e o exportador relacionados estarem localizados no mesmo país para que seja passível a reconstrução do preço de exportação, bastando, apenas, o fato de serem entidades relacionadas consoante os ditames do Regulamento Brasileiro.
+
+642\. Ainda em relação ao argumento da parte, enfatiza-se que a atuação da autoridade brasileira de defesa comercial está firmemente ancorada em um arcabouço jurídico e normativo nacional próprio. Esse regramento é construído com base nos compromissos multilaterais assumidos pelo Brasil no âmbito da Organização Mundial do Comércio (OMC), como o Acordo Antidumping no caso em questão, internalizado no Brasil pelo Decreto nº 1.355, de 1994 como já indicado pela própria Sun Mark, além de normas infralegais que detalham os procedimentos administrativos aplicáveis.
+
+643\. Nesse contexto, é importante destacar que, embora o DECOM mantenha diálogo técnico e cooperação com autoridades investigadoras de outros países - como os Estados Unidos, União Europeia, Japão e Reino Unido - tais interações têm caráter estritamente informativo e visam ao aperfeiçoamento institucional e à troca de boas práticas. Elas não implicam, em hipótese alguma, subordinação ou vinculação às práticas adotadas por essas jurisdições.
+
+644\. Assim, práticas estrangeiras, ainda que consolidadas em outras autoridades investigadoras, não possuem o condão de alterar, moldar ou influenciar a condução das investigações brasileiras. O DECOM atua com independência técnica, observando rigorosamente os princípios do devido processo legal, da ampla defesa e da legalidade, conforme previsto na legislação brasileira.
+
+645\. Portanto, as decisões proferidas pelo DECOM refletem exclusivamente a aplicação do ordenamento jurídico nacional e a análise objetiva dos elementos constantes nos autos de cada processo, sem qualquer ingerência externa.
+
+646\. Em relação ao pedido de apuração de margem de dumping a partir de médias mensais, cumpre destacar que a solicitação foi indeferida pela autoridade investigadora. Levou-se, nesse sentido, em consideração o conjunto de todas as exportações realizadas pelo grupo Sun Mark, ao contrário das informações trazidas pela parte, que foram segregadas por empresa exportadora dentro do grupo.
+
+647\. Assim, considerando as alegações apresentadas pela Sun Mark, observou-se de fato que houve variação de cerca de 25% no custo de produção do CODIP mais exportado para o Brasil pela empresa. No entanto, considerando todas as exportações do grupo para o Brasil, em contraponto às alegações, observou-se também o seguinte: [CONFIDENCIAL]. Volume próximo ao observado em outros meses, como janeiro, fevereiro, março e agosto de 2023. Dessa forma, cai por terra o argumento de sazonalidade levantado a partir das exportações diretas da Sun Mark. Ademais, [CONFIDENCIAL]% das exportações do grupo foram realizadas no primeiro semestre do período de investigação de dumping, não prosperando a sazonalidade levantada em relação às exportações realizadas pela SMA.
+
+648\. No que diz respeito aos argumentos levantados para os produtos fabricados pela Sunrise, cumpre destacar as informações apresentadas em sede de resposta ao questionário do produtor/exportador pelo grupo, que indicam que [CONFIDENCIAL]. Ademais, a produção e exportação de produtos fabricados pela Sunrise [CONFIDENCIAL]. Ainda sobre tal ponto, chamou a atenção da autoridade investigadora o fato de a Sun Mark ter apresentado elementos, ainda que em base confidencial, da Nota Técnica nº 83/2011/CGPI/DECOM/SECEX, de 10 de agosto de 2011. Pelo fato de a empresa não ter sido considerada parte interessada no âmbito do processo pertinente ao documento, a prova foi tratada como ilícita e não foi levada em consideração pela autoridade investigadora consoante o art. 5º, inciso LVI, da Constituição Federal do Brasil.
+
+649\. Com relação às ponderações da Prakash acerca dos montantes de margem de dumping apurados, reforça-se que os cálculos realizados para fins de determinação preliminar refletiram os dados fornecidos pelas partes, bem como o momento processual em que se aplicaram os direitos provisórios. Para fins de determinação final, os resultados das verificações*in loco*foram incorporados aos cálculos, bem como todas as informações prestadas pelas partes interessadas ao longo da instrução do processo.
+
+650\. Ainda sobre as manifestações da empresa, cumpre informar que a autoridade investigadora não se valeu de uma premissa incorreta ou mal interpretada para realizar a reconstrução do preço de exportação da Seth com base no art. 20 do Regulamento Brasileiro. O DECOM se valeu de jurisprudência da OMC (*DS417: Dominican Republic - Safeguard Measures on Imports of Polypropylene Bags and Tubular Fabrics*e*DS177: United States - Safeguard Measure on Imports of Fresh, Chilled or Frozen Lamb from New Zealand*) na qual foi evidenciado, quando se há operações de*tolling*, que a produtora do bem seria aquela que deu origem ao produto, no caso em questão, a Prakash. Desse modo, mesmo a Seth sendo a detentora do produto, quem o produziu foi a Prakash. Inclusive, a Seth nem unidade fabril possui, impossibilitando-a de produzir qualquer tipo de tubo.
+
+651\. Como a essência de apuração do preço de exportação visa o preço praticado pelo produtor, foi necessária a sua reconstrução a partir do preço de exportação praticado pela exportadora relacionada, consoante o art. 20 do regulamento pátrio já mencionado.
+
+652\. Ademais, assiste razão à empresa quanto ao pedido de correção da categoria de cliente padronizada da [CONFIDENCIAL]O erro de classificação se deu pela inobservância, pela autoridade investigadora, de alteração realizada em sede de correções iniciais durante a verificação*in loco*na empresa. Naquela ocasião a Prakash apresentou a alteração, contudo, a autoridade investigadora não readequou os dados para fins de apuração de margem de dumping em sede de nota técnica de fatos essenciais. A margem apurada no presente documento incorpora a correção apontada.
+
+653\. Ressalta-se, por fim, que não asiste razão às alegações da Aperam Tubos em relação a não comprovação das informações de restituição de tributos ligados às despesas de exportação, bem como as relativas à dupla certificação. Desse modo, reitera-se a tempestividade e aceitação das explicações apresentadas pelas produtoras/exportadoras indianas.
+
+4.4 Da conclusão a respeito do dumping
+
+654\. As margens de dumping apuradas conforme os itens anteriores demonstram a ocorrência da prática de dumping nas exportações de tubos de aço inoxidável austenítico da Índia e do Taipé Chinês para o Brasil, realizadas no período de outubro de 2022 a setembro de 2023.
+
+5 DAS IMPORTAÇÕES, DO MERCADO BRASILEIRO E DO CONSUMO NACIONAL APARENTE
+
+655\. Neste item serão analisadas as importações brasileiras, o mercado brasileiro e o consumo nacional aparente de tubos de aço inoxidável austenítico. O período de análise corresponde ao período considerado para fins de determinação de existência de dano à indústria doméstica.
+
+656\. Assim, para efeito da análise relativa ao início da investigação, considerou-se, de acordo com o § 4º do art. 48 do Decreto nº 8.058, de 2013, o período de outubro de 2018 a setembro de 2023, dividido da seguinte forma:
+
+P1 - outubro de 2018 a setembro de 2019;
+
+P2 - outubro de 2019 a setembro de 2020;
+
+P3 - outubro de 2020 a setembro de 2021;
+
+P4 - outubro de 2021 a setembro de 2022; e
+
+P5 - outubro de 2022 a setembro de 2023.
+
+5.1 Das importações
+
+5.1.1 Da análise cumulativa das importações
+
+657\. O art. 31 do Decreto nº 8.058, de 2013 estabelece que, quando as importações de um produto de mais de um país forem simultaneamente objeto de investigação que abranja o mesmo período de investigação de dumping, os efeitos de tais importações poderão ser avaliados cumulativamente se for verificado que:
+
+(i) a margem de dumping determinada em relação às importações de cada um dos países não é*de minimis*, ou seja, inferior a 2% do preço de exportação, nos termos do § 1º do art. 31 do mencionado Decreto;
+
+(ii) o volume de importações de cada país não é insignificante, isto é, não representa menos de 3% do total das importações pelo Brasil do produto objeto da investigação e do produto similar, nos termos do § 2º do art. 31 do Regulamento Brasileiro; e
+
+(iii) a avaliação cumulativa dos efeitos daquelas importações é apropriada tendo em vista as condições de concorrência entre os produtos importados e as condições de concorrência entre os produtos importados e o produto similar doméstico.
+
+658\. De acordo com os dados anteriormente apresentados, as margens relativas de dumping apuradas para cada um dos países investigados não foram*de minimis*.
+
+659\. Ademais, os volumes individuais das importações originárias da Índia e Taipé Chinês corresponderam, respectivamente, a [RESTRITO] % e [RESTRITO] , do total importado pelo Brasil em P5, não se caracterizando, portanto, como volume insignificante.
+
+660\. Já quanto às condições de concorrência entre os produtos importados ou entre o produto objeto da investigação e o similar doméstico, não foi evidenciada nenhuma política que as afetasse.
+
+661\. Assim, julgou-se apropriado, para fins de determinação final, manter análise cumulativa dos efeitos das importações de todas as origens investigadas.
+
+5.1.1.1 Do volume das importações
+
+662\. Para fins de apuração dos valores e das quantidades de tubos de aço inoxidável austenítico importados pelo Brasil em cada período, foram utilizados os dados de importação referentes aos subitens 7306.40.00 e 7306.90.20 da NCM, fornecidos pela RFB.
+
+663\. Como já destacado anteriormente, a partir da descrição detalhada das mercadorias, verificou-se que são classificadas nos subitens 7306.40.00 e 7306.90.20 da NCM as importações de tubos de aço inoxidável austenítico bem como de outros produtos, distintos do produto objeto da investigação. Por esse motivo, realizou-se depuração das importações constantes desses dados, a fim de se obterem as informações referentes exclusivamente ao produto sob análise.
+
+664\. Dessa forma, foram excluídas da análise as importações classificadas sob os subitens 7306.40.00 e 7306.90.20 da NCM correspondentes aos tubos produzidos a partir de aços diferentes dos austeníticos de graus 304/316 (e suas variações), tais como os aços inoxidáveis ferríticos, os Duplex/Super Duplex e os aços-carbono. Também foram desconsideradas as importações de tubos não circulares, não rígidos, não lisos, sem costura e os tubos fora das dimensões especificadas (diâmetro e espessura).
+
+665\. Cumpre informar que não foi possível definir se todas as importações se referiam ou não a produto objeto da investigação ou seu similar em decorrência de descrições que impossibilitaram sua categorização de forma assertiva. Assim, para os tubos importados ao amparo do subitem da NCM no qual o produto investigado/similar é corretamente categorizado (7306.40.00), optou-se, de forma conservadora, por considerar as operações com descrições inconclusivas como produto investigado/similar.
+
+666\. De outra sorte, para o subitem da NCM objeto da análise (7306.90.20), que diz respeito a outros tipos de tubos que não os sujeitos à medida /similares, mas que por vezes é utilizado de forma errônea para fins de importação de tubos de aço inoxidável, optou-se por não considerar como produto sujeito à medida /similar as operações cuja descrição considerou-se como inconclusiva.
+
+667\. Cumpre destacar que os dados ora apresentados são ligeiramente diferentes dos dados de importação apresentados para fins de início da presente investigação. A mudança se deu em função da revisão de determinadas descrições de importação, antes indefinidas se estariam abarcadas pelo presente escopo, que após esclarecimentos da peticionária, puderam ser classificadas como produto objeto da revisão/similar ou não.
+
+668\. A tabela seguinte apresenta os volumes de importações totais de tubos de aço inoxidável austenítico, em toneladas, no período de análise de dano à indústria doméstica:
+
+| Importações Totais (em número-índice de t) [RESTRITO] |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | P1 | P2 | P3 | P4 | P5 | P1 - P5 |
+| Índia | 100,0 | 94,0 | 116,6 | 68,5 | 80,6 | [REST.] |
+| Taipé Chinês | 100,0 | 706,9 | 899,3 | 401,2 | 891,5 | [REST.] |
+| Total (sob análise) | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] |
+| *Variação* | - | *64,5%* | *25,6%* | *(48,3%)* | *62,8%* | *+73,8%* |
+| China | 100,0 | 114,0 | 313,2 | 453,0 | 604,8 | [REST.] |
+| Itália | 100,0 | 118,1 | 176,0 | 122,4 | 162,9 | [REST.] |
+| México | 100,0 | 54,4 | 83,5 | 123,3 | 67,3 | [REST.] |
+| Vietnã | 100,0 | 8,6 | - | - | 7,2 | [REST.] |
+| Estados Unidos | 100,0 | 96,3 | 123,0 | 117,4 | 42,9 | [REST.] |
+| Uruguai | 100,0 | 48,5 | 19,1 | 6,3 | 4,4 | [REST.] |
+| Indonésia | 100,0 | 133,5 | 53,6 | 43,7 | - | [REST.] |
+| Hong Kong | 100,0 | 75,7 | 17,0 | 23,1 | - | [REST.] |
+| Outras (\*) | 100,0 | 103,0 | 31,5 | 135,5 | 178,5 | [REST.] |
+| Total(exceto sob análise) | 100,0 | 114,0 | 313,2 | 453,0 | 604,8 | [REST.] |
+| *Variação* | - | *(18,5%)* | *75,0%* | *34,0%* | *25,5%* | *+139,8%* |
+| Total Geral | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] |
+| *Variação* | - | *42,7%* | *33,1%* | *(32,1%)* | *48,2%* | *+91,2%* |
+| Elaboração: DECOM Fonte: RFB |  |  |  |  |  |  |
+| (\*) Demais Países: | Alemanha, Arábia Saudita, Argentina, Bélgica, Coréia do Sul, Dinamarca, Emirados Árabes Unidos, Eslovênia, Espanha, Finlândia, França, Hungria, Japão, Países Baixos (Holanda), Polônia, Portugal, Reino Unido, Singapura, Suécia, Suíça, Tailândia, Tchéquia (República Tcheca), Turquia. |  |  |  |  |  |
+
+669\. Observou-se que o volume das importações brasileiras das origens investigadas cresceu 64,5% de P1 para P2 e aumentou 25,6% de P2 para P3. Nos períodos subsequentes, houve redução de 48,3%, entre P3 e P4, e, considerando o intervalo entre P4 e P5, houve crescimento de 62,8%. Ao se considerar todo o período de análise, o indicador de volume das importações brasileiras das origens investigadas revelou variação positiva de 73,8% em P5, comparativamente a P1.
+
+670\. Com relação à variação de volume das importações brasileiras do produto das demais origens ao longo do período em análise, houve redução de 18,5%, entre P1 e P2, enquanto de P2 para P3 detectou-se ampliação de 75%. De P3 para P4, houve crescimento de 34%, e, entre P4 e P5, o indicador elevou-se 25,5%. Ao se considerar toda a série analisada, o indicador de volume das importações brasileiras do produto das demais origens apresentou expansão de 139,8%, considerado P5 em relação ao início do período avaliado (P1).
+
+671\. Avaliando a variação das importações brasileiras totais no período analisado, entre P1 e P2, verificou-se aumento de 42,7%. Apurou-se ainda elevação de 33,1%, entre P2 e P3, enquanto de P3 para P4 houve redução de 32,3%, e, entre P4 e P5, o indicador mostrou ampliação de 48,2%. Analisando-se todo o período, o volume total das importações brasileiras apresentou expansão da ordem de 91,2%, considerado P5 em relação a P1.
+
+5.1.1.2 Do valor e do preço das importações
+
+672\. Visando a tornar a análise do valor das importações mais uniforme, considerando que o frete e o seguro internacionais, dependendo da origem considerada, têm impacto relevante sobre o preço de concorrência entre os produtos ingressados no mercado brasileiro, a análise foi realizada em base CIF.
+
+673\. As tabelas a seguir apresentam a evolução do valor total e do preço CIF das importações de tubos de aço inoxidável austenítico no período de análise de dano à indústria doméstica.
+
+| Valor das Importações Totais (em número-índice de CIF USD x 1.000) |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| [RESTRITO] |  |  |  |  |  |  |
+|  | P1 | P2 | P3 | P4 | P5 | P1 - P5 |
+| Índia | 100,0 | 82,0 | 119,2 | 103,6 | 104,2 | [REST.] |
+| Taipé Chinês | 100,0 | 620,6 | 897,3 | 650,4 | 1.141,4 | [REST.] |
+| Total(sob análise) | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] |
+| *Variação* | - | *43,8%* | *45,0%* | *(20,2%)* | *34,2%* | *+ 123,2%* |
+| China | 100,0 | 103,8 | 329,8 | 615,1 | 707,1 | [REST.] |
+| Itália | 100,0 | 101,1 | 169,2 | 160,3 | 213,5 | [REST.] |
+| México | 100,0 | 56,9 | 90,8 | 191,2 | 153,8 | [REST.] |
+| Vietnã | 100,0 | 9,2 | - | - | 7,5 | [REST.] |
+| Estados Unidos | 100,0 | 105,9 | 125,3 | 203,8 | 91,0 | [REST.] |
+| Uruguai | 100,0 | 48,9 | 23,6 | 6,8 | 8,8 | [REST.] |
+| Indonésia | 100,0 | 124,2 | 53,2 | 54,7 | - | [REST.] |
+| Hong Kong | 100,0 | 71,8 | 9,8 | 31,1 | - | [REST.] |
+| Outras (\*) | 100,0 | 62,2 | 69,4 | 202,1 | 264,1 | [REST.] |
+| Total(exceto sob análise) | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] |
+| *Variação* | - | *(26,3%)* | *80,8%* | *70,8%* | *8,5%* | *+ 146,8%* |
+| Total Geral | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] |
+| *Variação* | - | *20,5%* | *52,3%* | *1,7%* | *23,8%* | *+ 131,0%* |
+| Elaboração: DECOM Fonte: RFB |  |  |  |  |  |  |
+| (\*) Demais Países: | Alemanha, Arábia Saudita, Argentina, Bélgica, Coréia do Sul, Dinamarca, Emirados Árabes Unidos, Eslovênia, Espanha, Finlândia, França, Hungria, Japão, Países Baixos (Holanda), Polônia, Portugal, Reino Unido, Singapura, Suécia, Suíça, Tailândia, Tchéquia (República Tcheca), Turquia. |  |  |  |  |  |
+
+674\. Observou-se que o valor CIF (mil USD) das importações brasileiras das origens investigadas cresceu 43,8%, de P1 para P2, e aumentou 45,0%, de P2 para P3. Nos períodos subsequentes, houve redução de 20,2%, entre P3 e P4, e, considerando o intervalo entre P4 e P5, houve crescimento de 34,2%. Ao se considerar todo o período de análise, o valor CIF (mil USD) das importações brasileiras das origens investigadas revelou variação positiva de 123,2% em P5, comparativamente a P1.
+
+675\. Com relação à variação do valor CIF (mil USD) das importações brasileiras do produto das demais origens ao longo do período em análise, houve redução de 26,3%, entre P1 e P2, enquanto de P2 para P3 detectou-se ampliação de 80,8%. De P3 para P4, houve crescimento de 70,8%, e, entre P4 e P5, o indicador elevou-se 8,5%. Ao se considerar toda a série analisada, o indicador de valor CIF (mil USD) das importações brasileiras do produto das demais origens apresentou expansão de 146,8%, considerado P5 em relação ao início do período avaliado (P1).
+
+676\. Avaliando a variação do valor CIF (mil USD) total das importações brasileiras no período analisado, entre P1 e P2, verificou-se aumento de 20,5%. Apurou-se ainda elevação de 52,3%, entre P2 e P3, enquanto de P3 para P4 houve crescimento de 1,7%, e, entre P4 e P5, o indicador mostrou ampliação de 23,8%. Analisando-se todo o período, o valor CIF (mil USD) total das importações brasileiras apresentou expansão da ordem de 131,0%, considerado P5 em relação a P1.
+
+| Preço das Importações Totais (em número-índice de CIF USD / t) |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| [RESTRITO] |  |  |  |  |  |  |
+|  | P1 | P2 | P3 | P4 | P5 | P1 - P5 |
+| Índia | 100,0 | 87,2 | 102,2 | 151,1 | 129,4 | [REST.] |
+| Taipé Chinês | 100,0 | 87,8 | 99,8 | 162,1 | 128,0 | [REST.] |
+| Total(sob análise) | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] |
+| *Variação* | - | *(12,6%)* | *15,4%* | *54,4%* | *(17,6%)* | *+ 28,4%* |
+| China | 100,0 | 91,1 | 105,3 | 135,8 | 116,9 | [REST.] |
+| Itália | 100,0 | 85,6 | 96,1 | 130,9 | 131,1 | [REST.] |
+| México | 100,0 | 104,6 | 108,7 | 155,1 | 228,4 | [REST.] |
+| Vietnã | 100,0 | 107,1 | - | - | 103,2 | [REST.] |
+| Estados Unidos | 100,0 | 109,9 | 101,9 | 173,6 | 212,1 | [REST.] |
+| Uruguai | 100,0 | 100,9 | 123,2 | 107,5 | 198,9 | [REST.] |
+| Indonésia | 100,0 | 93,1 | 99,3 | 125,2 | - | [REST.] |
+| Hong Kong | 100,0 | 94,9 | 57,7 | 134,6 | - | [REST.] |
+| Outras (\*) | 100,0 | 60,3 | 220,7 | 149,1 | 147,9 | [REST.] |
+| Total(exceto sob análise) | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] |
+| *Variação* | - | *(9,6%)* | *3,3%* | *27,5%* | *(13,5%)* | *+ 2,9%* |
+| Total Geral | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] |
+| *Variação* | - | *(15,6%)* | *14,4%* | *49,8%* | *(16,5%)* | *+ 20,8%* |
+| Elaboração: DECOM |  |  |  |  |  |  |
+| Fonte: RFB |  |  |  |  |  |  |
+| (\*) Demais Países: | Alemanha, Arábia Saudita, Argentina, Bélgica, Coréia do Sul, Dinamarca, Emirados Árabes Unidos, Eslovênia, Espanha, Finlândia, França, Hungria, Japão, Países Baixos (Holanda), Polônia, Portugal, Reino Unido, Singapura, Suécia, Suíça, Tailândia, Tchéquia (República Tcheca), Turquia. |  |  |  |  |  |
+
+677\. Observou-se que o preço médio (CIF USD/t) das importações brasileiras das origens investigadas diminuiu 12,6%, de P1 para P2, e aumentou 15,4%, de P2 para P3. Nos períodos subsequentes, houve aumento de 54,4%, entre P3 e P4, e, considerando o intervalo entre P4 e P5, houve diminuição de 17,6%. Ao se considerar todo o período de análise, o indicador de preço médio (CIF USD/t) das importações brasileiras das origens investigadas revelou variação positiva de 28,4% em P5, comparativamente a P1.
+
+678\. Com relação à variação do preço médio (CIF USD/t) das importações brasileiras das demais origens ao longo do período em análise, houve redução de 9,6%, entre P1 e P2, enquanto de P2 para P3 detectou-se ampliação de 3,3%. De P3 para P4, houve crescimento de 27,5%, e, entre P4 e P5, o indicador diminuiu 13,5%. Ao se considerar toda a série analisada, o indicador de preço médio (CIF USD/t) das importações brasileiras das demais origens apresentou elevação de 2,9%, considerado P5 em relação ao início do período avaliado (P1).
+
+679\. Avaliando a variação do preço médio das importações brasileiras totais de origem no período analisado, entre P1 e P2, verificou-se diminuição de 15,6%. Apurou-se ainda elevação de 14,4%, entre P2 e P3, enquanto de P3 para P4 houve crescimento de 49,8%, e, entre P4 e P5, o indicador retraiu-se 16,5%. Analisando-se todo o período, o preço médio das importações brasileiras totais apresentou expansão da ordem de 20,8%, considerado P5 em relação a P1.
+
+5.2 Do mercado brasileiro, do consumo nacional aparente (CNA) e da evolução das importações
+
+680\. Para dimensionar o mercado brasileiro e o consumo nacional aparente de tubos de aço inoxidável austenítico, foram consideradas as quantidades, líquidas de devoluções, vendidas pela indústria doméstica no mercado interno, de fabricação própria, reportadas pela peticionária, bem como as quantidades importadas apuradas com base nos dados de importação fornecidos pela RFB, apresentadas no item anterior.
+
+| Do Mercado Brasileiro, do Consumo Nacional Aparente e da Evolução das Importações (em t) [RESTRITO] |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | P1 | P2 | P3 | P4 | P5 | P1 - P5 |
+| Mercado Brasileiro |  |  |  |  |  |  |
+| Mercado Brasileiro {A+B+C} | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] |
+| *Variação* | - | *16,8%* | *5,7%* | *(21,3%)* | *18,0%* | *+14,5%* |
+| A. Vendas Internas - Indústria Doméstica | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] |
+| *Variação* | - | *(5,7%)* | *(7,1%)* | *(4,0%)* | *(16,0%)* | *(29,3%)* |
+| B. Vendas Internas - Outras Empresas | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] |
+| *Variação* | - | *9,9%* | *(19,1%)* | *(13,1%)* | *(0,8%)* | *(23,3%)* |
+| C. Importações Totais | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] |
+| C1. Importações - Origens sob Análise | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] |
+| *Variação* | - | *64,5%* | *25,6%* | *(48,3%)* | *62,8%* | *+73,8%* |
+| C2. Importações -Outras Origens | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] |
+| *Variação* | - | (18,5%) | 75,0% | 34,0% | 25,5% | +139,8% |
+| Participação no Mercado Brasileiro (em número-índice de %) |  |  |  |  |  |  |
+| Participação das Vendas Internas da Indústria Doméstica{A/(A+B+C)} | 100,0 | 80,6 | 71,1 | 86,6 | 61,6 | [REST.] |
+| Participação das Vendas Internas de Outras Empresas{B/(A+B+C)} | 100,0 | 94,1 | 72,0 | 79,5 | 66,8 | [REST.] |
+| Participação das Importações Totais{C/(A+B+C)} | 100,0 | 122,3 | 153,9 | 133,0 | 167,2 | [REST.] |
+| Participação das Importações - Origens sob Análise {C1/(A+B+C)} | 100,0 | 140,8 | 167,1 | 109,8 | 151,4 | [REST.] |
+| Participação das Importações - Outras Origens {C2/(A+B+C)} | 100,0 | 69,2 | 115,4 | 196,7 | 208,8 | [REST.] |
+| Elaboração: DECOM Fonte: RFB e Indústria Doméstica |  |  |  |  |  |  |
+
+681\. Observou-se que o mercado brasileiro de tubos de aço inoxidável austenítico cresceu 16,8%, de P1 para P2, e 5,7%, de P2 para P3. Nos períodos subsequentes, houve redução de 21,3%, entre P3 e P4, e, considerando o intervalo entre P4 e P5, houve crescimento de 18%. Ao se considerar todo o período de análise, o mercado brasileiro de tubos de aço inoxidável austenítico revelou variação positiva de 14,5% em P5, comparativamente a P1.
+
+682\. Observou-se que a participação do volume das importações das origens investigadas no mercado brasileiro cresceu [RESTRITO] , de P1 para P2, [RESTRITO] , de P2 para P3. Nos períodos subsequentes, houve redução de [RESTRITO] , entre P3 e P4, e crescimento de [RESTRITO] , entre P4 e P5. Ao se considerar todo o período de análise, a participação do volume importado das origens investigadas no mercado brasileiro revelou variação positiva de [RESTRITO] em P5, comparativamente a P1.
+
+683\. Com relação à variação da participação das importações das demais origens no mercado brasileiro ao longo do período em análise, houve redução de [RESTRITO], entre P1 e P2. De P2 para P3, detectou-se ampliação de [RESTRITO] , e, de P3 para P4, de [RESTRITO]. De P4 para P5, houve elevação de [RESTRITO] . Ao se considerar toda a série analisada, a participação do volume das importações das demais origens no mercado brasileiro apresentou expansão de [RESTRITO] , considerado P5 em relação ao início do período avaliado (P1).
+
+684\. Por sua vez, para dimensionar o consumo nacional aparente (CNA) de tubos de aço inoxidável austenítico, foram adicionados ao volume do mercado brasileiro, as quantidades referentes à industrialização para terceiros (tolling) realizada pela indústria doméstica no período de análise de dano. Por outro lado, frisa-se que não foi reportado volume referente a consumo cativo.
+
+| Consumo Nacional Aparente (CNA) [RESTRITO] |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | P1 | P2 | P3 | P4 | P5 | P1 - P5 |
+| CNA {A+B+C+D+E} | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] |
+| *Variação* | - | *16,8%* | *5,7%* | *(21,1%)* | *18,0%* | *+14,9%* |
+| E. Industrialização p/ Terceiros (*tolling*) | - | - | - | [REST.] | [REST.] | [REST.] |
+| *Variação* | - | - | - | - | 39,0% | - |
+| Participação no Consumo Nacional Aparente (CNA) - em número-índice de % |  |  |  |  |  |  |
+| Participação das Vendas Internas ID{A/(A+B+C+D+E)} | 100,0 | 80,6 | 71,1 | 86,3 | 61,6 | [REST.] |
+| Participação das Importações Totais{C/(A+B+C+D+E)} | 100,0 | 122,3 | 153,9 | 132,8 | 166,7 | [REST.] |
+| Participação das Importações - Outras Origens{C1/(A+B+C+D+E)} | 100,0 | 140,8 | 167,1 | 109,4 | 151,0 | [REST.] |
+| Participação das Importações - Outras Origens{C2/(A+B+C+D+E)} | 100,0 | 69,2 | 115,4 | 195,6 | 208,8 | [REST.] |
+| Participação do Tolling{E/(A+B+C+D+E)} | - | - | - | 100,0 | 100,0 | [REST.] |
+| Elaboração: DECOM Fonte: RFB e Indústria Doméstica |  |  |  |  |  |  |
+
+685\. Observou-se que o consumo nacional aparente brasileiro apresentou trajetória similar à do mercado brasileiro, com único decréscimo ocorrendo de P3 para P4, de 21,1%. Ao se considerar todo o período de análise, o indicador de consumo nacional aparente de tubos de aço inoxidável austenítico revelou variação positiva de 14,9%, em P5 comparativamente a P1.
+
+686\. No que tange à industrialização para terceiros realizada pela indústria doméstica (tolling), observou-se sua [RESTRITO] . Em P4 e em P5, tais operações [RESTRITO] , sendo que houve aumento de 39% entre P4 e P5. Neste ponto, frisa-se que a participação do volume reportado de industrialização para terceiros não ultrapassou [RESTRITO] do consumo nacional aparente no período de análise de dano.
+
+687\. A tabela abaixo evidencia a representatividade das importações de tubos de aço inoxidável austenítico das origens sob análise.
+
+| Representatividade das Importações de Origens sob Análise (em número-índice de %) [RESTRITO] |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| -P1-P2-P3-P4-P5-P1 - P5 |  |  |  |  |  |  |
+| Participação no Mercado Brasileiro{C1/(A+B+C)} | 100,0 | 140,8 | 167,1 | 109,8 | 151,4 | - |
+| *Variação* | - | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] |
+| Participação no CNA{C1/(A+B+C+D+E)} | 100,0 | 140,8 | 167,1 | 109,4 | 151,0 | - |
+| Variação | - | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] |
+| Participação nas Importações Totais{C1/C} | 100,0 | 115,3 | 108,8 | 82,8 | 90,9 | - |
+| Variação | - | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] |
+| F. Volume de Produção Nacional{F1+F2} | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] |
+| Variação | - | *1,7%* | *(12,5%)* | *(9,9%)* | *(6,5%)* | *(25,0%)* |
+| F1. Volume de Produção - Indústria Doméstica | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] |
+| *Variação* | - | *(4,3%)* | *(4,9%)* | *(4,1%)* | *(15,8%)* | *(26,5%)* |
+| F2. Volume de Produção - Outras Empresas | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] |
+| *Variação* | - | *6,2%* | *(17,5%)* | *(14,3%)* | *1,4%* | *(23,9%)* |
+| Relação com o Volume de Produção Nacional{C1/F} | 100,0 | 161,7 | 232,4 | 133,2 | 231,9 | - |
+| *Variação* | - | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] |
+| Elaboração: DECOM |  |  |  |  |  |  |
+| Fonte: RFB e Indústria Doméstica |  |  |  |  |  |  |
+
+688\. O indicador da relação entre as importações das origens investigadas e a produção nacional aumentou [RESTRITO] , de P1 para P2, e [RESTRITO] , de P2 para P3. Nos períodos subsequentes, observou-se redução desse indicador de [RESTRITO] , de P3 para P4, e aumento de [RESTRITO] , de P4 para P5. Ao se observar o período completo sob análise, observou-se aumento da relação entre as importações das origens investigadas e a produção nacional na ordem de [RESTRITO] .
+
+5.3 Das manifestações acerca das importações, do mercado brasileiro e do consumo nacional aparente
+
+689\. Em 17 de janeiro de 2025, a Aperam Tubos apresentou suas considerações sobre os temas elencados pela Aprodinox e Prakash que seriam abordados em audiência. Sobre o tema "análise do comportamento das importações objeto da investigação", a peticionária indicou que as solicitantes afirmaram que os preços das importações investigadas aumentaram durante o período de investigação, o que não seria esperado em casos de dumping. No entanto, a autoridade investigadora destacou que o aumento de preços não descartaria a prática de dumping e que a análise deveria considerar a evolução dos custos e preços no mercado doméstico. Ademais, pontuou-se que análise cumulativa das importações da Índia e do Taipé Chinês teria sido considerada adequada, pois ambas as origens praticaram dumping e subcotaram os preços da indústria doméstica.
+
+690\. Em 10 de fevereiro de 2025, a Aprodinox e a Prakash protocolaram a transcrição de seus argumentos apresentados durante a audiência. Pelo fato de o conteúdo apresentado, para o tópico em questão, ter sido quase idêntico, a manifestação será apresentada de forma conjunta. De acordo com a associação e com a produtora indiana, o comportamento das importações da Índia e de Taipé Chinês deveria ser analisado separadamente devido às diferenças significativas entre elas durante o período de análise. Enquanto as importações da Índia diminuíram de P1 para P2, as do Taipé Chinês aumentaram após o fim da medida antidumping estipulada pela Circular SECEX nº 44, de 2019. Tal fato teria conduzido para variações distintas nos indicadores de importação dessas origens, tornando inadequada a análise conjunta. As importações do Taipé Chinês apresentaram maiores variações em volume, enquanto as da Índia flutuaram conforme a demanda no mercado brasileiro. Entre P1 e P5, os preços de ambas as origens teriam aumentado, com um aumento maior para a Índia. As importações de Taipé Chinês teriam aumentado 791,5% durante o período analisado, enquanto as da Índia reduziram 19,5%. Portanto, seria necessário analisar as origens separadamente para refletir a realidade do mercado indiano.
+
+691\. Em 10 de fevereiro de 2025, a Aperam Tubos reduziu a termo seus argumentos apresentados durante a audiência e repisou os argumentos apresentados em contraponto ao indicado pela Sun Mark e Aprodinox (alegações que as importações da Índia eram pouco volumosas, possuíam preços elevados e não causavam dano à indústria doméstica, sugerindo a necessidade de avaliação separada das importações da Índia e de Taipé Chinês).
+
+692\. Em 19 de março de 2025, a Aperam Tubos destacou que análise de dano abrangeria meses a partir de outubro de 2018, e a medida antidumping para Taipé Chinês teria sido extinta em julho de 2019. Para a peticionária, a aplicação de medida antidumping não implicaria em restrição quantitativa, e o crescimento das importações de Taipé Chinês estaria relacionado à retomada da prática de dumping, causando dano à indústria doméstica. Desse modo, a análise cumulativa das importações da Índia e de Taipé Chinês seria adequada e correta, considerando ambas realizadas com prática de dumping e concorrendo nas mesmas condições de mercado.
+
+693\. Em manifestação protocolada em 19 de março de 2025, a Aprodinox repisou declarações anteriores no tocante à necessidade de análise não cumulativa das importações.
+
+694\. As empresas indianas Prakash e Seth, em sede de manifestações finais, protocoladas em 6 de maio de 2025, repisaram argumentos anteriores no tocante à necessidade de análise não cumulativa das importações.
+
+695\. Em manifestação final, protocolada em 6 de maio de 2025, a Aprodinox repisou os argumentos de que a análise cumulativa das importações, com base no art. 31 do Decreto nº 8.058, de 2013, não teria respeitado as diferenças nas condições de concorrência entre as origens Índia e Taipé Chinês. Desse modo, a entidade concluiu que as importações de Taipé Chinês refletiram os efeitos da retirada da medida antidumping (Circular SECEX nº 44, de 2019), o que teria distorcido a avaliação conjunta com a Índia. Foi defendido que o DECOM deveria ter considerado essas diferenças estruturais ao avaliar o nexo de causalidade e o impacto das importações sobre a indústria doméstica.
+
+696\. Em manifestação final, protocolada em 6 de maio de 2025, a Aperam Tubos comentou as manifestações apresentadas pelas produtoras/exportadoras indianas Prakash e Seth, bem como pela Aprodinox, nas quais essas partes teriam reiterado argumentos já conhecidos sobre a análise cumulativa e o impacto das importações originárias da China. A peticionária alegou que tais argumentos já teriam sido devidamente analisados e considerados pela autoridade investigadora.
+
+5.4 Dos comentários do DECOM sobre as manifestações
+
+697\. Conforme análise constante do item 5.1.1, reforça-se o atendimento aos requisitos legais para que se proceda à análise cumulativa das importações originárias da Índia e de Taipé Chinês. Pontua-se que variações das tendências de volume e preço das importações não afastam, por si só, a adequação da análise cumulada. Ademais, não foram aportados aos autos elementos que indicassem diferenças nas condições de concorrência entre os produtos importados e as condições de concorrência entre os produtos importados e o produto similar doméstico.
+
+5.5 Da conclusão a respeito das importações, do mercado brasileiro e do consumo nacional aparente
+
+698\. Com base nos dados anteriormente apresentados, concluiu-se que o volume das importações das origens investigadas cresceu de forma recorrente entre P1 e P5 (73,8%), tendo apresentado movimento diverso somente em P4, quando o volume das importações das origens investigadas reduziu 48,3% ao ser comparado ao período imediatamente anterior (P3). Registra-se que o volume das demais origens, em especial o volume proveniente da China, também apresentou tendência de crescimento, ao ser registrado no período sob análise aumento de 139,8% (P1 a P5).
+
+699\. Em relação ao preço das importações das origens investigadas, constatou-se aumento de 28,4% entre P1 e P5, sendo que se observaram reduções no preço em P2 (-12,6%) e em P5 (-17,6%), sempre comparando-se ao período imediatamente anterior. O preço médio das importações das demais origens apresentou incremento de 2,9% no período completo sob análise (P1 a P5).
+
+700\. Acerca do volume total do mercado brasileiro, identificou-se redução somente em P4, quando o mercado contraiu-se em 21,3%. Ao ser analisado todo o período (P1 a P5), verificou-se expansão de 14,5% do volume do mercado brasileiro. Ainda sobre o mercado brasileiro, houve redução da participação das vendas de tubos de aço inoxidável austenítico da indústria doméstica, pois o volume apurado para a indústria doméstica no início do período correspondeu a [RESTRITO] % e finalizou o período de análise de dano em [RESTRITO] % do mercado brasileiro do produto. Por outro lado, averiguou-se que os volumes importados das origens investigadas aumentaram sua relevância no mercado brasileiro, pois em P1 representavam [RESTRITO] % do mercado e, em P5, finalizaram o período representando [RESTRITO] %. No mesmo passo, as importações das outras origens aumentaram sua relevância perante o mercado brasileiro de tubos de aço inoxidável austenítico, pois, em P1, representavam [RESTRITO] % e terminaram o período sob investigação com [RESTRITO] % do mercado brasileiro. Assim, constatou-se que a expansão do mercado brasileiro de tubos de aço inoxidável austenítico ocorreu conjuntamente com o incremento das importações do produto, em especial das origens investigadas.
+
+701\. Em relação ao consumo nacional aparente, notou-se tendência similar à do mercado brasileiro, pois o serviço de industrialização para terceiros (*tolling*) realizado pela indústria doméstica no período foi realizado em volumes pouco expressivos quando comparados ao mercado brasileiro.
+
+6 DO DANO
+
+702\. De acordo com o disposto no art. 30 do Decreto nº 8.058, de 2013, a análise de dano deve fundamentar-se no exame objetivo do volume das importações a preços com indícios de dumping, no seu possível efeito sobre os preços do produto similar no mercado brasileiro e no consequente impacto dessas importações sobre a indústria doméstica.
+
+703\. Conforme explicitado no item 5 deste documento, para efeito da análise relativa à determinação de existência de indícios de dano à indústria doméstica, considerou-se o período de outubro de 2018 a setembro de 2023.
+
+6.1 Dos indicadores da indústria doméstica
+
+704\. Para uma adequada avaliação da evolução dos dados em moeda nacional, atualizaram-se os valores correntes com base no Índice de Preços ao Produtor Amplo - Origem - Produtos Industrializados (IPA-OG-PI), da Fundação Getúlio Vargas.
+
+705\. De acordo com a metodologia aplicada, os valores em reais correntes de cada período foram divididos pelo índice de preços médio do período, multiplicando-se o resultado pelo índice de preços médio de P5. Essa metodologia foi aplicada a todos os valores monetários em reais apresentados.
+
+706\. Como demonstrado no item 3, de acordo com o previsto no art. 34 do Decreto nº 8.058, de 2013, a indústria doméstica foi definida como as linhas de produção de tubos de aço inoxidável austenítico da empresa Aperam Inox Tubos Brasil Ltda., que representaram [RESTRITO] % da produção nacional do produto similar doméstico, em P5. Dessa forma, os indicadores considerados neste documento refletem os resultados alcançados pelas citadas linhas de produção.
+
+707\. Ressalta-se, mais uma vez, que os dados apresentados já foram objetos de verificação*in loco*pela autoridade investigadora, conforme indicado no item 1.7.1 deste documento.
+
+6.1.1 Da evolução global da indústria doméstica
+
+6.1.1.1 Dos indicadores de venda e participação no mercado brasileiro
+
+708\. A tabela a seguir apresenta as vendas da indústria doméstica do produto similar de fabricação própria, destinadas ao mercado interno e ao mercado externo, conforme informadas pela peticionária. As vendas são apresentadas em toneladas e estão líquidas de devoluções.
+
+| Dos Indicadores de Venda e Participação no Mercado Brasileiro e no Consumo Nacional Aparente (em t) [RESTRITO] |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | P1 | P2 | P3 | P4 | P5 | P1 - P5 |
+| Indicadores de Vendas |  |  |  |  |  |  |
+| A. Vendas Totais da Indústria Doméstica | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] |
+| *Variação* | - | (6,3%) | (7,0%) | (3,8%) | (13,4%) | (27,4%) |
+| A1. Vendas no Mercado Interno | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] |
+| Variação | - | (5,7%) | (7,1%) | (4,0%) | (16,0%) | (29,3%) |
+| A2. Vendas no Mercado Externo | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] |
+| Variação | - | (77,2%) | 8,1% | 66,7% | 629,3% | +199,9% |
+| Mercado Brasileiro e Consumo Nacional Aparente (CNA) |  |  |  |  |  |  |
+| B. Mercado Brasileiro | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] |
+| Variação | - | *16,8%* | *5,7%* | *(21,3%)* | *18,0%* | *+14,5%* |
+| C. CNA | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] |
+| *Variação* | - | *16,8%* | *5,7%* | *(20,8%)* | *17,6%* | *+14,9%* |
+| Representatividade das Vendas no Mercado Interno (em número-índice de %) |  |  |  |  |  |  |
+| Participação nas Vendas Totais {A1/A} | 100,0 | 100,6 | 100,6 | 100,4 | 97,3 |  |
+| *Variação* | - | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] |
+| Participação no Mercado Brasileiro{A1/B} | 100,0 | 80,6 | 71,1 | 86,6 | 61,6 |  |
+| *Variação* | - | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] |
+| Participação no CNA{A1/C} | 100,0 | 80,6 | 71,1 | 86,3 | 61,6 |  |
+| *Variação* | - | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] |
+| Elaboração: DECOM Fonte: RFB e Indústria Doméstica |  |  |  |  |  |  |
+
+709\. Observou-se que o volume das vendas da indústria doméstica destinadas ao mercado interno diminuiu sucessivamente entre todos os períodos de análise ao considerar um período com o imediatamente anterior. Assim, foram observadas quedas de 5,7%, de P1 para P2, 7,1%, de P2 para P3, 4,0%, entre P3 e P4, e, considerando o intervalo entre P4 e P5, houve diminuição de 16,0%. Ao se considerar todo o período de análise, o volume das vendas da indústria doméstica destinado ao mercado interno revelou variação negativa de 29,3% em P5, comparativamente a P1.
+
+710\. Com relação ao volume das vendas da indústria doméstica destinadas ao mercado externo ao longo do período em análise, houve redução de 77,2%, entre P1 e P2, enquanto de P2 para P3 detectou-se ampliação de 8,1%. De P3 para P4, houve crescimento de 66,7%, e, entre P4 e P5, o indicador elevou-se 629,3%. Ao se considerar toda a série analisada, o volume das vendas da indústria doméstica destinadas ao mercado externo apresentou expansão de 199,9%, considerado P5 em relação ao início do período avaliado (P1).
+
+711\. Ressalte-se que o volume das vendas externas da indústria doméstica representou, no máximo, [RESTRITO] % do total ao longo do período em análise.
+
+712\. Cita-se que a comparação das vendas da indústria doméstica ao consumo nacional aparente acompanhou a mesma tendência em relação ao mercado brasileiro, considerando [RESTRITO] dos serviços de industrialização para terceiros realizado pela peticionária.
+
+6.1.1.2 Dos indicadores de produção, capacidade e estoque
+
+713\. A produção do produto similar doméstico da Aperam Tubos ocorre apenas na planta localizada em Ribeirão Pires (SP) e é realizada por regime contínuo, com maquinário operando, normalmente, nos regimes de um, dois e três turnos diários, a depender do volume de vendas. Além disso, constou que outros produtos compartilham as mesmas linhas de produção do produto similar doméstico, tais como os tubos de aço inoxidável dos graus 317L, 409, 439, 441, 444 e Duplex.
+
+714\. A Aperam Tubos apresentou os dados referentes à capacidade instalada nominal, apurando-se o volume de produção mensal realizado em cada linha de produção, ao longo do período investigado, a partir do qual se obteve a produção horária máxima, descontando-se as horas não-trabalhadas. A capacidade horária de cada linha foi, então, multiplicada por 24 horas e por 365 dias para se obter a capacidade nominal.
+
+715\. Para o cálculo da capacidade instalada efetiva, a partir da mesma capacidade horária obtida em cada linha, foram considerados, em cada período, os dias não trabalhados, as médias dos turnos efetivamente instalados e as paradas realizadas.
+
+716\. O quadro a seguir apresenta os dados referentes à produção, à capacidade instalada efetiva e ao estoque de tubos de aço inoxidável austenítico ao longo do período de investigação.
+
+| Dos Indicadores de Produção, Capacidade Instalada e Estoque (em t) [CONFIDENCIAL] / [RESTRITO] |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | P1 | P2 | P3 | P4 | P5 | P1 - P5 |
+| Volumes de Produção |  |  |  |  |  |  |
+| A. Volume de Produção - Produto Similar | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] |
+| Variação | - | (4,3%) | (4,9%) | (4,1%) | (15,8%) | (26,5%) |
+| B. Volume de Produção - Outros Produtos | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] |
+| Variação | - | *55,2%* | *125,0%* | *(16,9%)* | *120,0%* | *+538,7%* |
+| C. Industrialização p/ Terceiros -*Tolling* | - | - | - | [REST.] | [REST.] | [REST.] |
+| *Variação* | - | - | - | - | *39,0%* | *39,0%-* |
+| Capacidade Instalada (grau de ocupação em número-índice de %) |  |  |  |  |  |  |
+| D. Capacidade Instalada Efetiva | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] |
+| *Variação* | - | *16,2%* | *0,4%* | *(9,1%)* | *(7,6%)* | *(2,0%)* |
+| E. Grau de Ocupação{(A+B)/D} | 100,0 | 85,1 | 89,5 | 92,3 | 105,3 | - |
+| *Variação* | - | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] |
+| Estoques (relação em número-índice de %) |  |  |  |  |  |  |
+| F. Estoques | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] |
+| Variação | - | (37,1%) | 11,3% | 8,4% | (36,4%) | (51,8%) |
+| G. Relação entre Estoque e Volume de Produção{E/A} | 100,0 | 66,2 | 77,0 | 86,5 | 64,9 | - |
+| Variação | - | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] |
+| Elaboração: DECOM Fonte: RFB e Indústria Doméstica |  |  |  |  |  |  |
+
+717\. Seguindo a tendência das vendas domésticas, observou-se que o volume de produção do produto similar da indústria doméstica diminuiu em todos os períodos quando comparado determinado período com o imediatamente anterior. Assim, observaram-se quedas de 4,3%, de P1 para P2, 4,9%, de P2 para P3, 4,1%, entre P3 e P4, e, considerando o intervalo entre P4 e P5, houve diminuição de 15,8%. Ao se considerar todo o período de análise, o indicador de volume de produção do produto similar da indústria doméstica revelou variação negativa de 26,5% em P5, comparativamente a P1.
+
+718\. Com relação à variação do volume de produção de outros produtos ao longo do período em análise, houve aumento de 55,2%, entre P1 e P2 e 125,0% de P2 para P3. De P3 para P4, houve diminuição de 16,9%, e, entre P4 e P5, o indicador elevou-se 120%. Ao se considerar toda a série analisada, o volume de produção de outros produtos apresentou expansão de 538,7%, considerado P5 em relação ao início do período avaliado (P1).
+
+719\. Observou-se que o indicador de grau de ocupação da capacidade instalada diminuiu [RESTRITO], de P1 para P2, e aumentou [RESTRITO], de P2 para P3. Nos períodos subsequentes, houve aumento de [RESTRITO], entre P3 e P4, e crescimento de [RESTRITO], entre P4 e P5. Ao se considerar todo o período de análise, o indicador de grau de ocupação da capacidade instalada revelou variação positiva de [RESTRITO], em P5, comparativamente a P1.
+
+720\. Em relação ao volume de estoque final da Aperam Tubos, observou-se diminuição de 37,1%, de P1 para P2, e aumento de 11,3%, de P2 para P3. Nos períodos subsequentes, houve aumento de 8,4%, entre P3 e P4, e, considerando o intervalo entre P4 e P5, houve diminuição de 36,4%. Ao se considerar todo o período de análise, o volume de estoque final da Aperam Tubos revelou variação negativa de 51,8% em P5, comparativamente a P1.
+
+721\. Por fim, observou-se que a relação estoque final/produção diminuiu [RESTRITO], de P1 para P2, e aumentou [RESTRITO] , de P2 para P3. Nos períodos subsequentes, houve aumento de [RESTRITO], entre P3 e P4, e diminuição de [RESTRITO], entre P4 e P5. Ao se considerar todo o período de análise, o indicador de relação estoque final/produção revelou variação negativa de [RESTRITO] em P5, comparativamente a P1.
+
+6.1.1.3 Dos indicadores de emprego, produtividade e massa salarial
+
+722\. A tabela a seguir apresenta, entre outras informações, os indicadores de emprego, de produtividade e de massa salarial da indústria doméstica, conforme reportados pela peticionária.
+
+| **Do Emprego, da Produtividade e da Massa Salarial** [CONFIDENCIAL]/[RESTRITO] |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | **P1** | **P2** | P3 | P4 | P5 | P1 - P5 |
+| Emprego |  |  |  |  |  |  |
+| A. Qtde de Empregados - Total | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] |
+| Variação | - | *(7,2%)* | *(19,5%)* | *2,5%* | *(21,8%)* | *(40,1%)* |
+| A1. Qtde de Empregados - Produção | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] |
+| *Variação* | - | *(8,5%)* | *(18,8%)* | *2,3%* | *(22,3%)* | *(40,9%)* |
+| A2. Qtde de Empregados - Adm. e Vendas | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] |
+| *Variação* | - | *12,9%* | *(27,8%)* | *5,3%* | *(15,0%)* | *(27,1%)* |
+| Produtividade (em t) |  |  |  |  |  |  |
+| B. Produtividade por EmpregadoVolume de Produção (produto similar) / {A1} | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] |
+| *Variação* | - | *4,6%* | *17,2%* | *(6,3%)* | *8,4%* | *+24,5%* |
+| Massa Salarial (em Mil Reais) |  |  |  |  |  |  |
+| C. Massa Salarial - Total | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] |
+| *Variação* | - | (24,5%) | (35,1%) | (3,4%) | (3,3%) | *(54,2%)* |
+| C1. Massa Salarial - Produção | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] |
+| *Variação* | - | (26,3%) | (35,1%) | (4,1%) | (2,5%) | *(55,2%)* |
+| C2. Massa Salarial - Adm. e Vendas | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] |
+| *Variação* | - | (9,0%) | (35,1%) | 1,2% | (8,9%) | (45,6%) |
+| Elaboração: DECOMFonte: RFB e Indústria Doméstica |  |  |  |  |  |  |
+
+723\. Observou-se que o indicador de número de empregados que atuam na linha de produção de tubos de aço inoxidável austenítico diminuiu 8,5%, de P1 para P2, e 18,8%, de P2 para P3. Nos períodos subsequentes, houve incremento de 2,3%, entre P3 e P4, e, considerando o intervalo entre P4 e P5, houve diminuição de 22,3%. Ao se considerar todo o período de análise, o indicador de número de empregados que atuam na linha de produção revelou variação negativa de 40,9% em P5, comparativamente a P1.
+
+724\. Com relação à variação de número de empregados que atuam na administração e nas vendas ao longo do período em análise, houve aumento de 12,9%, entre P1 e P2, enquanto de P2 para P3 detectou-se retração de 27,8%. De P3 para P4, novo aumento foi detectado, de 5,3%, e, entre P4 e P5, o indicador sofreu variação negativa de 15%. Ao se considerar toda a série analisada, o indicador de número de empregados que atuam em administração e vendas mostrou-se reduzido em 27,1% ao considerar P5 em relação ao início do período avaliado (P1).
+
+725\. Avaliando a variação de quantidade total de empregados no período analisado, entre P1 e P2, verificou-se diminuição de 7,2%. Apurou-se ainda redução de 19,5%, entre P2 e P3, enquanto de P3 para P4, houve aumento de 2,5%. Entre P4 e P5, o indicador revelou retração de 21,8%. Analisando-se todo o período, a quantidade total de empregados apresentou contração da ordem de 40,1%, considerado P5 em relação a P1.
+
+726\. Observou-se que a massa salarial dos empregados da linha de produção diminuiu 26,3%, de P1 para P2, e 35,1%, de P2 para P3. Nos períodos subsequentes, novas reduções de 4,1%, e 2,5% foram observadas ao se comparar, respectivamente, P3 e P4 e P4 e P5. Ao se considerar todo o período de análise, a massa salarial dos empregados da linha de produção revelou variação negativa de 55,2% em P5, comparativamente a P1.
+
+727\. Com relação à variação da massa salarial dos empregados de administração e de vendas ao longo do período em análise, houve redução de 9,0%, entre P1 e P2 e 35,1% de P2 para P3. De P3 para P4, houve crescimento de 1,2%, e, entre P4 e P5, o indicador diminuiu 8,9%. Ao se considerar toda a série analisada, a massa salarial dos empregados de administração e vendas apresentou contração de 45,6%, considerado P5 em relação ao início do período avaliado (P1).
+
+728\. Avaliando a variação da massa salarial do total de empregados no período analisado, entre P1 e P2, verificou-se diminuição de 24,5%. Apurou-se ainda queda de 35,1%, entre P2 e P3 e 3,4% de P3 para P4. Entre P4 e P5, o indicador revelou retração de 3,3%. Analisando-se todo o período, massa salarial do total de empregados apresentou contração da ordem de 54,2%, considerado P5 em relação a P1.
+
+729\. Observou-se que a produtividade por empregado ligado à produção cresceu 4,6%, de P1 para P2, e 17,2%, de P2 para P3. Nos períodos subsequentes, houve redução de 6,3%, entre P3 e P4. Considerando o intervalo entre P4 e P5, novo aumento de 8,4% foi observado. Ao se considerar todo o período de análise, a produtividade por empregado ligado à produção revelou variação positiva de 24,5% em P5, comparativamente a P1.
+
+6.1.2 Dos indicadores financeiros da indústria doméstica
+
+6.1.2.1 Da receita líquida e dos preços médios ponderados
+
+730\. A receita líquida da indústria doméstica refere-se às vendas líquidas de tubos de aço inoxidável austenítico, de produção própria, já deduzidos os abatimentos, descontos, tributos e devoluções, bem como as despesas de frete interno.
+
+| **Da Receita Líquida e dos Preços Médios Ponderados** [CONFIDENCIAL]/[RESTRITO] |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | **P1** | **P2** | P3 | P4 | P5 | P1 - P5 |
+| Receita Líquida (em Mil Reais) |  |  |  |  |  |  |
+| A. Receita Líquida Total | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] |
+| Variação | - | (5,1%) | (4,3%) | 18,2% | (26,2%) | (20,8%) |
+| A1. Receita Líquidaercado Interno | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] |
+| Variação | - | (4,5%) | (4,4%) | 18,0% | (28,7%) | (23,2%) |
+| Participação{A1/A} | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] |
+| A2. Receita LíquidaMercado Externo | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] |
+| Variação | - | (69,1%) | 3,5% | 83,4% | 455,5% | +225,7% |
+| Participação{A2/A} | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] |
+| Preços Médios Ponderados (em Reais/t) |  |  |  |  |  |  |
+| B. Preço no Mercado Interno{A1/Vendas no Mercado Interno} | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] |
+| Variação | - | 1,3% | 2,9% | 22,8% | (15,1%) | +8,7% |
+| C. Preço no Mercado Externo{A2/Vendas no Mercado Externo} | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] |
+| Variação | - | 35,4% | (4,3%) | 10,0% | (23,8%) | +8,6% |
+| Elaboração: DECOMFonte: RFB e Indústria Doméstica |  |  |  |  |  |  |
+
+731\. Observou-se que a receita líquida, em reais atualizados, referente às vendas no mercado interno da indústria doméstica de tubos de aço inoxidável austenítico diminuiu 4,5%, de P1 para P2 e 4,4%, de P2 para P3. Nos períodos subsequentes, houve aumento de 18,0%, entre P3 e P4, e, considerando o intervalo entre P4 e P5, houve diminuição de 28,7%. Ao se considerar todo o período de análise, o indicador de receita líquida, em reais atualizados, referente às vendas no mercado interno revelou variação negativa de 23,2% em P5, comparativamente a P1.
+
+732\. Observou-se que o preço médio de venda dos tubos de aço inoxidável austenítico pela Aperam Tubos, no mercador interno, cresceu 1,3%, de P1 para P2, e aumentou 2,9%, de P2 para P3. Nos períodos subsequentes, houve novo aumento de 22,8%, entre P3 e P4, e considerando o intervalo entre P4 e P5, houve diminuição de 15,1%. Ao se considerar todo o período de análise, o indicador de preço médio de venda no mercador interno revelou variação positiva de 8,7% em P5, comparativamente a P1.
+
+733\. Com relação à variação do preço médio de venda para o mercado externo ao longo do período em análise, houve aumento de 35,4%, entre P1 e P2, enquanto de P2 para P3 detectou-se retração de 4,3%. De P3 para P4, houve crescimento de 10,0%, e, entre P4 e P5, o indicador decaiu 23,8%. Ao se considerar toda a série analisada, o preço médio de venda dos tubos de aço inoxidável austenítico para o mercado externo apresentou expansão de 8,6%, considerado P5 em relação ao início do período avaliado (P1).
+
+6.1.2.2 Dos resultados e das margens
+
+734\. A tabela a seguir apresenta a demonstração de resultados e as margens de lucro associadas, para o período de análise, obtidas com a venda dos tubos de aço inoxidável austenítico no mercado interno.
+
+| **Demonstrativo de Resultado no Mercado Interno e Margens de Rentabilidade** [CONFIDENCIAL]/[RESTRITO] |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | **P1** | **P2** | P3 | P4 | P5 | P1 - P5 |
+| Demonstrativo de Resultado (em Mil Reais e número-índice de Mil Reais) |  |  |  |  |  |  |
+| A. Receita LíquidaMercado Interno | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] |
+| Variação | - | (4,5%) | (4,4%) | 18,0% | (28,7%) | (23,2%) |
+| B. Custo do Produto Vendido - CPV | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] |
+| Variação | - | (9,4%) | (6,7%) | 17,7% | (25,0%) | (25,4%) |
+| C. Resultado Bruto{A-B} | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] |
+| Variação | - | 123,0% | 221,7% | 25,6% | (123,6%) | +78,1% |
+| D. Despesas Operacionais | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] |
+| Variação | - | (72,8%) | 133,0% | 9,6% | (21,4%) | (45,4%) |
+| D1. Despesas Gerais eAdministrativas | 100,0 | 95,2 | 61,2 | 54,6 | 57,8 | [CONF.] |
+| D2. Despesas com Vendas | 100,0 | 72,5 | 68,1 | 97,1 | 76,4 | [CONF.] |
+| D3. Resultado Financeiro (RF) | (100,0) | (635,2) | (152,8) | 64,0 | (11,7) | [CONF.] |
+| D4. Outras Despesas (Receitas)Operacionais (OD) | 100,0 | 23,9 | 89,2 | 49,4 | 24,4 | [CONF.] |
+| E. Resultado Operacional{C-D} | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] |
+| Variação | - | 92,7% | (23,0%) | 42,4% | (702,6%) | + 58,4% |
+| F. Resultado Operacional(exceto RF){C-D1-D2-D4} | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] |
+| Variação | - | 63,8% | 56,8% | 87,2% | (1.908,8%) | +59,7% |
+| G. Resultado Operacional(exceto RF e OD){C-D1-D2} | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] |
+| Variação | - | 61,2% | 99,0% | 2.089,2% | (658,1%) | +56,4% |
+| Margens de Rentabilidade (em número-índice de %) |  |  |  |  |  |  |
+| H. Margem Bruta{C/A} | -100,0 | 23,3 | 81,4 | 86,0 | - 27,9 | - |
+| Variação | - | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] |
+| I. Margem Operacional{E/A} | -100,0 | -7,3 | -10,1 | -4,6 | -54,1 | - |
+| Variação | - | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] |
+| J. Margem Operacional (exceto RF){F/A} | -100,0 | -37,7 | -17,5 | -1,8 | -52,6 | - |
+| Variação | - | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] |
+| K. Margem Operacional(exceto RF e OD){G/A} | -100,0 | -40,0 | 0,0 | 7,4 | -56,8 | - |
+| Variação | - | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] |
+| Elaboração: DECOMFonte: RFB e Indústria Doméstica |  |  |  |  |  |  |
+
+735\. Com relação à variação do resultado bruto da indústria doméstica ao longo do período em análise, houve aumento de 123,0%, entre P1 e P2 e 221,7% de P2 para P3. De P3 para P4, houve crescimento de 25,6%, e, entre P4 e P5, o indicador diminuiu 123,6%. Ao se considerar toda a série analisada, o indicador de resultado bruto da indústria doméstica apresentou expansão de 78,1%, considerado P5 em relação ao início do período avaliado (P1).
+
+736\. Avaliando a variação do resultado operacional no período analisado, entre P1 e P2, verificou-se aumento de 92,7%. Averiguou-se ainda queda de 23,0%, entre P2 e P3, enquanto de P3 para P4 houve crescimento de 42,4%, e, entre P4 e P5, o indicador revelou retração de 702,6%. Analisando-se todo o período, o resultado operacional apresentou diminuição da deterioração da ordem de 59,9%, considerado P5 em relação a P1. Destaca-se que a empresa operou em prejuízo operacional em todos os períodos de análise.
+
+737\. Observou-se que o resultado operacional, excetuado o resultado financeiro, cresceu 63,8%, de P1 para P2, e 56,8%, de P2 para P3. Nos períodos subsequentes, houve aumento de 87,2%, entre P3 e P4, e, considerando o intervalo entre P4 e P5, houve diminuição de 1.908,8%. Ao se considerar todo o período de análise, o indicador de resultado operacional, excetuado o resultado financeiro, revelou variação positiva de 59,7% em P5, comparativamente a P1. Destaca-se que a empresa operou em prejuízo operacional, exceto resultado financeiro, em todos os períodos de análise.
+
+738\. Com relação à variação de resultado operacional, excluídos o resultado financeiro e outras despesas, ao longo do período em análise, houve aumento de 61,2%, entre P1 e P2, e de 99,0% de P2 para P3. De P3 para P4, houve nova melhora de 2.089,2%, alcançando valor positivo, e, entre P4 e P5, o indicador voltou a reduzir, agora, em 658,1%. Ao se considerar toda a série analisada, o indicador de resultado operacional, excluídos o resultado financeiro e outras despesas, apresentou expansão de 56,4%, considerado P5 em relação ao início do período avaliado (P1). Excetuando P4, a empresa operou em prejuízo operacional, exceto resultado financeiro e outras despesas, em todos os períodos de análise.
+
+739\. Observaram-se aumentos sucessivos no indicador de margem bruta de P1 a P4: [CONFIDENCIAL]. No período subsequente (P4 para P5), verificou-se redução de [CONFIDENCIAL], que não foi suficiente para reverter a tendência de crescimento observada no início da série. Ao se considerar todo o período de análise, o indicador de margem bruta revelou variação positiva de [CONFIDENCIAL] em P5, comparativamente a P1, tendo, contudo, alcançado valor negativo em P5.
+
+740\. Com relação à variação de margem operacional ao longo do período em análise, houve aumento de [CONFIDENCIAL], de P1 para P2. De P2 para P3, detectou-se redução de [CONFIDENCIAL], enquanto de P3 para P4, houve novo aumento de [CONFIDENCIAL], e, de P4 para P5, nova contração de [CONFIDENCIAL]. Ao se considerar toda a série analisada, o indicador de margem operacional apresentou expansão de [CONFIDENCIAL], considerado P5 em relação ao início do período avaliado (P1). A indústria doméstica operou com margem operacional negativa ao longo de todo o período analisado.
+
+741\. Avaliando-se a variação de margem operacional, exceto resultado financeiro, no período analisado, verificou-se expansão de [CONFIDENCIAL], de P1 para P2. De P2 para P3, apurou-se elevação de [CONFIDENCIAL] e de [CONFIDENCIAL] de P3 para P4. Por sua vez, de P4 para P5, identificou-se retração de [CONFIDENCIAL]. Analisando-se todo o período, a margem operacional, exceto resultado financeiro, apresentou expansão de [CONFIDENCIAL] , considerado P5 em relação a P1.
+
+742\. Observou-se que o indicador de margem operacional, excluído o resultado financeiro e outras despesas, aumentou [CONFIDENCIAL], de P1 para P2, mantendo-se estável no período subsequente. De P3 para P4, averiguou-se novo aumento de [CONFIDENCIAL], seguido de retração de [CONFIDENCIAL], de P4 para P5. Ao se considerar todo o período de análise, o indicador de margem operacional, excluído o resultado financeiro e outras despesas, variou positivamente de [CONFIDENCIAL] em P5, ao ser comparado a P1, porém a margem continuou negativa.
+
+743\. A tabela a seguir apresenta o demonstrativo de resultados obtido com a venda do produto similar no mercado interno, por tonelada.
+
+| **Demonstrativo de Resultado no Mercado Interno por Unidade(R$/t) e em número-índice de R$/t)** [CONFIDENCIAL]/[RESTRITO] |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | **P1** | **P2** | P3 | P4 | P5 | P1 - P5 |
+| A. Receita LíquidaMercado Interno | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] |
+| Variação | - | 1,3% | 2,9% | 22,8% | (15,1%) | +8,7% |
+| B. Custo do Produto Vendido -CPV | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] |
+| Variação | - | (3,9%) | 0,4% | 22,6% | (10,7%) | +5,5% |
+| C. Resultado Bruto{A-B} | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] |
+| Variação | - | 124,3% | 246,2% | 30,8% | (128,1%) | +69,0% |
+| D. Despesas Operacionais | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] |
+| Variação | - | (71,2%) | 150,7% | 14,1% | (6,4%) | *(22,8%)* |
+| D1. Despesas Gerais eAdministrativas | 100,0 | 101,0 | 69,8 | 64,9 | 81,8 | [CONF.] |
+| D2. Despesas com Vendas | 100,0 | 76,9 | 77,8 | 115,3 | 108,1 | [CONF.] |
+| D3. Resultado Financeiro (RF) | -100,0 | -673,6 | -174,3 | 76,1 | -16,6 | [CONF.] |
+| D4. Outras Despesas (Receitas)Operacionais (OD) | 100,0 | 25,3 | 101,8 | 58,6 | 34,6 | [CONF.] |
+| E. Resultado Operacional{C-D} | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] |
+| *Variação* | - | 92,2% | (32,4%) | 40,1% | (855,7%) | *+ 41,1%* |
+| F. Resultado Operacional(exceto RF){C-D1-D2-D4} | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] |
+| *Variação* | - | 61,6% | 53,6% | 86,6% | (2.291,9%) | +43,0% |
+| G. Resultado Operacional(exceto RF e OD){C-D1-D2} | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] |
+| Variação | - | 58,9% | 98,9% | 2.171,1% | (764,5%) | +38,4% |
+| Elaboração: DECOM |  |  |  |  |  |  |
+| Fonte: RFB e Indústria Doméstica |  |  |  |  |  |  |
+
+744\. Observou-se que o indicador de CPV unitário diminuiu 3,9%, de P1 para P2, seguido de aumentos sucessivos de 0,4% (de P2 para P3) e de 22,6% (de P3 para P4). Considerando o intervalo entre P4 e P5, houve retração de 10,7%. Ao se considerar todo o período de análise, o indicador de CPV unitário revelou variação positiva de 5,5% em P5, comparativamente a P1.
+
+745\. Com relação à variação de resultado bruto unitário ao longo do período em análise, houve expansão de 124,3%, entre P1 e P2, e 246,2% de P2 para P3. De P3 para P4, houve novo crescimento de 30,8%, e, entre P4 e P5, o indicador reduziu 128,1%. Ao se considerar toda a série analisada, o indicador de resultado bruto unitário expandiu-se 69,0%, considerado P5 em relação ao início do período avaliado (P1).
+
+746\. Avaliando-se a variação de resultado operacional unitário no período analisado, entre P1 e P2, verificou-se aumento de 92,2%. Em seguida, apurou-se redução de 32,4%, entre P2 e P3, seguida de nova expansão de 40,1%, de P3 para P4. Por fim, notou-se redução significante no período entre P4 e P5, quando o resultado operacional unitário decaiu 855,7%. Analisando-se todo o período, o resultado operacional unitário apresentou melhora da ordem de 41,1%, considerado P5 em relação a P1. Destaca-se que a empresa apresentou resultado operacional unitário negativo em todos os períodos.
+
+747\. Observou-se que o indicador de resultado operacional unitário, excetuado o resultado financeiro, aumentou sucessivamente no período entre P1 e P4: 61,6% (de P1 para P2), 53,6% (de P2 para P3) e 86,6% (de P3 para P4). Considerando o intervalo entre P4 e P5, houve retração significante de 2.291,9%. Ao se considerar todo o período de análise, o indicador de resultado operacional unitário, excetuado o resultado financeiro, revelou variação positiva de 43,0% em P5, comparativamente a P1. Destaca-se que a empresa apresentou resultado operacional unitário, exceto resultado financeiro, negativo em todos os períodos.
+
+748\. Com relação à variação de resultado operacional unitário, excluídos o resultado financeiro e outras despesas, ao longo do período em análise, houve aumentos sucessivos no período entre P1 e P4, sendo que de P1 para P2 observou-se expansão de 58,9%, de P2 para P3, aumento de 98,9%, e, ainda, novo aumento de 2.171,1% de P3 para P4. Entre P4 e P5, o indicador sofreu retração de 764,5%. Ao se considerar toda a série analisada, o indicador de resultado operacional unitário, excluídos o resultado financeiro e outras despesas, apresentou expansão de 38,4%, considerado P5 em relação ao início do período avaliado (P1). Excetuando P4, a empresa operou em prejuízo operacional unitário, exceto resultado financeiro e outras despesas, em todos os períodos de análise.
+
+6.1.2.3 Do fluxo de caixa, do retorno sobre investimentos e da capacidade de captar recursos
+
+749\. Com relação aos próximos indicadores a serem analisados, cumpre salientar que se referem às atividades totais da indústria doméstica e não somente às operações relacionadas aos tubos de aço inoxidável austenítico.
+
+| Do Fluxo de Caixa, Retorno sobre Investimentos e Capacidade de Captar Recursos (em número-índice) [CONFIDENCIAL] |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | **P1** | **P2** | P3 | P4 | P5 | P1 - P5 |
+| Fluxo de Caixa |  |  |  |  |  |  |
+| A. Fluxo de Caixa | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] |
+| Variação | - | 335,7% | (117,0%) | 210,7% | (619,2%) | (130,3%) |
+| Retorno sobre Investimento |  |  |  |  |  |  |
+| B. Lucro Líquido | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] |
+| Variação | - | 637,5% | (16,6%) | (17,4%) | (68,9%) | +215,3% |
+| C. Ativo Total | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] |
+| Variação | - | (2,7%) | (1,9%) | (0,3%) | 0,8% | (4,1%) |
+| D. Retorno sobre InvestimentoTotal (ROI) | -100,0 | 559,1 | 477,3 | 395,5 | 122,7 | [CONF.]. |
+| Variação | - | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] |
+| Capacidade de Captar Recursos |  |  |  |  |  |  |
+| E. Índice de Liquidez Geral (ILG) | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] |
+| Variação | - | 26,0% | 17,5% | 19,6% | 0,6% | +78,0% |
+| F. Índice de Liquidez Corrente (ILC) | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] |
+| Variação | - | (27,1%) | 41,7% | 13,4% | 7,5% | +26,0% |
+| Elaboração: DECOM |  |  |  |  |  |  |
+| Fonte: RFB e Indústria Doméstica |  |  |  |  |  |  |
+| Obs.: ROI = Lucro Líquido / Ativo Total; ILC = Ativo Circulante / Passivo Circulante; ILG = (Ativo Circulante + Ativo Realizável Longo Prazo)/(Passivo Circulante + Passivo Não Circulante) |  |  |  |  |  |  |
+
+750\. Observou-se que o indicador de caixa líquido total gerado nas atividades da indústria doméstica sofreu incremento da ordem de 335,7%, de P1 para P2, e reduziu 117,0%, de P2 para P3. Nos períodos subsequentes, houve aumento de 210,7%, entre P3 e P4, e, considerando o intervalo entre P4 e P5, houve diminuição de 619,2%. Ao se considerar todo o período de análise, o indicador de caixa líquido total gerado nas atividades da indústria doméstica revelou variação negativa de 130,3% em P5, comparativamente a P1.
+
+751\. Observou-se que o indicador de taxa de retorno sobre investimentos da indústria doméstica cresceu [CONFIDENCIAL], de P1 para P2, e reduziu [CONFIDENCIAL], de P2 para P3. Nos períodos subsequentes, houve redução de [CONFIDENCIAL], entre P3 e P4, e diminuição de [CONFIDENCIAL], entre P4 e P5. Ao se considerar todo o período de análise, o indicador de taxa de retorno sobre investimentos da indústria doméstica revelou variação positiva de [CONFIDENCIAL] em P5, comparativamente a P1.
+
+752\. Observou-se que o indicador de liquidez geral cresceu 26,0%, de P1 para P2, e aumentou 17,5%, de P2 para P3. Nos períodos subsequentes, houve aumento de 19,6%, entre P3 e P4, e, considerando o intervalo entre P4 e P5, houve crescimento de 0,6%. Ao se considerar todo o período de análise, o indicador de liquidez geral revelou variação positiva de 78,0% em P5, comparativamente a P1.
+
+753\. Com relação à variação de liquidez corrente ao longo do período em análise, houve redução de 27,1%, entre P1 e P2, enquanto de P2 para P3, detectou-se ampliação de 41,7%. De P3 para P4, houve crescimento de 13,4%, e, entre P4 e P5, o indicador demonstrou crescimento de 7,5%. Ao se considerar toda a série analisada, o indicador de liquidez corrente apresentou expansão de 26,0%, considerado P5 em relação ao início do período avaliado (P1).
+
+6.1.2.4 Do crescimento da indústria doméstica
+
+754\. O volume de vendas da indústria doméstica para o mercado interno decaiu em todos os períodos analisados. Ao final de P5, observou-se redução de 27,4%, comparando-se ao volume registrado em P1. Nesse sentido, em termos absolutos, pode-se constatar que o volume de vendas da indústria doméstica diminuiu no período de avaliação de dano.
+
+755\. Por outro lado, apurou-se que o mercado brasileiro cresceu em todos os períodos analisados, com exceção de P4, quando foi registrada retração de 21,4%, em parte explicada pela diminuição das vendas da indústria doméstica no mercado interno, mas principalmente justificada pela redução de 32,1% do volume das importações de tubos de aço inoxidável austenítico. Contudo, ao se analisar todo o período, identificou-se expansão no mercado brasileiro de [RESTRITO] %.
+
+756\. Ressalta-se que o volume de vendas da indústria doméstica perdeu participação de P1 a P5, pois iniciou o período com suas vendas representando [RESTRITO] % do mercado brasileiro e terminou P5 com participação de [RESTRITO] %, período em que as vendas de tubos de aço inoxidável austenítico atingiram a menor participação no mercado doméstico brasileiro.
+
+757\. Dessa forma, conclui-se que a diminuição do volume das vendas de tubos de aço inoxidável austenítico da indústria doméstica, em termos absolutos, ao longo de todo o período de análise de dando, foi acompanhada pela queda na participação do volume dessas vendas no mercado brasileiro como um todo. Assim, infere-se que a indústria doméstica não apresentou crescimento durante o período de análise.
+
+**6.1.3 Dos fatores que afetam os preços domésticos**
+
+6.1.3.1 Dos custos e da relação custo/preço
+
+758\. A tabela a seguir apresenta o custo de produção, o custo unitário e a relação entre custo e preço associados à fabricação do produto similar pela indústria doméstica, para cada período de investigação de dano.
+
+| Dos Custos e da Relação Custo/Preço [CONFIDENCIAL] / [RESTRITO] |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | **P1** | **P2** | P3 | P4 | P5 | P1 - P5 |
+| Custos de Produção (em número-índice de R$/t) |  |  |  |  |  |  |
+| Custo de Produção(em R$/t){A + B} | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] |
+| Variação | - | (1,3%) | 2,3% | 18,5% | (12,7%) | *+4,5%* |
+| A. Custos Variáveis | 100,0 | 102,8 | 110,0 | 131,9 | 111,0 | [CONF.] |
+| A1. Matéria Prima | 100,0 | 104,7 | 114,6 | 137,6 | 112,6 | [CONF.] |
+| A2. Outros Insumos | 100,0 | 85,1 | 62,8 | 75,4 | 83,9 | [CONF.] |
+| A3. Utilidades | 100,0 | 84,2 | 64,7 | 74,1 | 99,3 | [CONF.] |
+| A4. Outros Custos Variáveis | 100,0 | 78,6 | 56,7 | 59,5 | 72,6 | [CONF.] |
+| B. Custos Fixos | 100,0 | 72,2 | 53,6 | 52,0 | 71,2 | [CONF.] |
+| B1. Mão-de-obra direta | 100,0 | 81,1 | 51,0 | 58,0 | 68,8 | [CONF.] |
+| B2. Mão-de-obra indireta | 100,0 | 77,2 | 69,8 | 77,8 | 66,1 | [CONF.] |
+| B3. Depreciação | 100,0 | 101,5 | 74,7 | 82,1 | 90,6 | [CONF.] |
+| B4. Aluguel | 100,0 | 60,4 | 57,9 | 52,4 | 68,7 | [CONF.] |
+| B5. Outros custos fixos | 100,0 | 102,8 | 110,0 | 131,9 | 111,0 | [CONF.] |
+
+| Custo Unitário (em R$/t) e Relação Custo/Preço (em número-índice de %)) |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| C. Custo de Produção Unitário | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] |
+| *Variação* | - | (1,3%) | 2,3% | 18,5% | (12,7%) | *+ 4,5%* |
+| D. Preço no Mercado Interno | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] | [REST.] |
+| *Variação* | - | 1,3% | 2,9% | 22,8% | (15,1%) | +8,7% |
+| E. Relação Custo / Preço{C/D} | 100,0 | 97,5 | 96,8 | 93,4 | 96,1 | - |
+| Variação | - | [CONF.] | [CONF.] | [CONF.] | [CONF.] | [CONF.] |
+| Elaboração: DECOM |  |  |  |  |  |  |
+| Fonte: RFB e Indústria Doméstica |  |  |  |  |  |  |
+
+759\. Observou-se que o custo de produção unitário de diminuiu 1,3%, de P1 para P2, e aumentou 2,3%, de P2 para P3. Nos períodos subsequentes, houve aumento de 18,5% entre P3 e P4 e, considerando o intervalo entre P4 e P5, houve diminuição de 12,7%. Ao se considerar todo o período de análise, o indicador de custo unitário de revelou variação positiva de 4,5% em P5, comparativamente a P1.
+
+760\. Observou-se que a relação do custo de produção no preço de venda diminuiu [CONFIDENCIAL], de P1 para P2, e reduziu [CONFIDENCIAL], de P2 para P3. Nos períodos subsequentes, houve redução de [CONFIDENCIAL], entre P3 e P4, e crescimento de [CONFIDENCIAL], entre P4 e P5. Ao se considerar todo o período de análise, o indicador de participação do custo de produção no preço de venda revelou variação negativa de [CONFIDENCIAL] em P5, comparativamente a P1.
+
+6.1.3.2 Da comparação entre o preço do produto sob análise e o similar nacional para fins de determinação final
+
+761\. O efeito das importações a preços de dumping sobre os preços da indústria doméstica deve ser avaliado sob três aspectos, conforme disposto no § 2º do art. 30 do Decreto nº 8.058, de 2013. Inicialmente, deve ser verificada a existência de subcotação significativa do preço do produto importado a preços de dumping em relação ao produto similar no Brasil, ou seja, se o preço internado do produto investigado é inferior ao preço do produto brasileiro. Em seguida, examina-se eventual depressão de preço, isto é, se o preço do produto importado teve o efeito de rebaixar significativamente o preço da indústria doméstica. O último aspecto a ser analisado é a supressão de preço. Esta ocorre quando as importações investigadas impedem, de forma relevante, o aumento de preços, devido ao aumento de custos, que teria ocorrido na ausência de tais importações.
+
+762\. A fim de se comparar o preço dos tubos de aço inoxidável importados da Índia e Taipé Chinês com o preço médio de venda da indústria doméstica no mercado interno, procedeu-se ao cálculo do preço CIF internado do produto importado dessas origens no mercado brasileiro.
+
+763\. O preço de venda da indústria doméstica no mercado interno foi obtido a partir dos dados das vendas líquidas reportadas na petição, que por sua vez foram verificadas in loco pelos técnicos da autoridade investigadora, calculados para cada código de identificação de produto (CODIP). O preço da indústria doméstica, para efeito de justa comparação com o preço do produto importado, foi ponderado pela participação de cada CODIP em relação ao volume total importado das origens investigadas. Nesse ponto, cumpre ressaltar que essa ponderação se ateve à característica do CODIP referente ao grau do aço (304 ou 316), dado ser essa a única passível de identificação na maioria das operações de importação constantes dos dados da RFB. Não foi possível identificar essa característica do produto para 0,4% do volume total de importações do produto objeto da investigação de P1 a P5. Nesses casos, foram considerados o preço médio da indústria doméstica observado no respectivo período.
+
+764\. Para o cálculo dos preços internados do produto importado no Brasil das origens investigadas, foram considerados os valores totais de importação do produto objeto da investigação, na condição CIF, em reais, obtidos dos dados brasileiros de importação, fornecidos pela RFB. A esses valores foram somados: a) o Imposto de Importação (II), considerando-se os valores efetivamente recolhidos; b) o Adicional de Frete para Renovação da Marinha Mercante (AFRMM); e c) das despesas de internação, aplicando-se o percentual de 0,5% sobre o valor CIF de cada uma das operações de importação constantes dos dados da RFB. Esse percentual, a propósito, foi obtido a partir da consolidação das informações apresentadas pelos importadores que apresentaram resposta válida e tempestiva do questionário do importador, como destacado no item 1.6.2 deste documento.
+
+765\. Destaque-se que o valor unitário do AFRMM foi calculado aplicando-se o percentual de 25% sobre o frete marítimo e, a partir de 7 de janeiro de 2022, por força da Lei nº 14.301/2022, o percentual de 8%, tendo sido, para tanto, considerada a data de desembaraço das declarações de importação constantes dos dados oficiais de importação quando pertinente. Cumpre registrar que foi levado em consideração que o AFRMM não incide sobre determinadas operações de importação, como, por exemplo, aquelas via transporte aéreo, as destinadas à Zona Franca de Manaus e as realizadas ao amparo do regime especial de*drawback*.
+
+766\. Por fim, dividiu-se cada valor total supramencionado pelo volume total de importações objeto da investigação, a fim de se obter o valor por unidade de cada uma dessas rubricas. Realizou-se o somatório das rubricas unitárias, chegando-se ao preço CIF internado das importações investigadas.
+
+767\. Os preços internados do produto da origem investigada, assim obtidos, foram atualizados com base no IPA-OG-Produtos Industriais, a fim de se obterem os valores em reais atualizados e compará-los com os preços da indústria doméstica.
+
+768\. Já o preço de venda da indústria doméstica no mercado interno foi obtido pela razão entre a receita líquida, em reais atualizados, e a quantidade vendida, em toneladas, no mercado interno durante o período de investigação de indícios de dano, levando em conta a característica determinada pelo CODIP (grau do aço). O referido preço foi ponderado pela participação dos diferentes tipos do produto em relação ao volume total importado das origens investigadas.
+
+769\. Para fins de apuração da quantidade vendida líquida de devoluções, bem como o respectivo faturamento, utilizou-se rateio para fins de atribuição do valor e da quantidade devolvidas das vendas no mercado interno do produto similar fabricado pela indústria doméstica. Os critérios utilizados basearam-se na participação da quantidade devolvida sobre a quantidade vendida total e no valor unitário das devoluções em cada período. Os percentuais auferidos de cada período foram aplicados às quantidades vendidas de cada transação, a fim de se obter a quantidade das devoluções. As quantidades encontradas foram então multiplicadas pelo valor unitário das devoluções de cada período. Os resultados encontrados foram abatidos do volume de vendas e do faturamento líquido, resultando, finalmente, na receita líquida e na quantidade líquida de vendas do produto similar.
+
+770\. A tabela a seguir demonstra os cálculos efetuados e os valores de subcotação obtidos para cada período de análise do dano, considerando-se os preços médios de importação e o preço médio da indústria doméstica, bem como a característica do produto relativo ao grau do aço.
+
+| **Preço médio CIF internado e subcotação - Origens investigadas (em número-índice) [RESTRITO]** |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | P1 | P2 | P3 | P4 | P5 |
+| CIF (R$/t) | 100,0 | 111,0 | 139,1 | 212,2 | 167,6 |
+| Imposto de Importação (R$/t) | 100,0 | 111,0 | 139,1 | 188,0 | 134,0 |
+| AFRMM (R$/t) | 100,0 | 152,1 | 530,9 | 650,8 | 129,0 |
+| Despesas de Internação (R$/t) | 100,0 | 111,0 | 139,0 | 212,2 | 167,6 |
+| CIF Internado (R$/t) | 100,0 | 111,2 | 140,8 | 211,2 | 163,4 |
+| **CIF Internado (R$ atualizados/t)** | 100,0 | 102,9 | 96,6 | 126,1 | 99,9 |
+| Preço Ind. Doméstica [Ponderado] (R$ atualizados/t) | 100,0 | 99,3 | 107,2 | 133,0 | 107,9 |
+| Subcotação [Ponderada] (R$ atualizados/t) | 100,0 | 73,1 | 186,3 | 184,0 | 167,8 |
+| Subcotação [Ponderada] (%) | 11,9% | 8,7% | 20,7% | 16,4% | 18,5% |
+| Fonte: Indústria doméstica e RFBElaboração: DECOM |  |  |  |  |  |
+
+771\. Da análise do quadro, constatou-se que o preço médio do produto importado das origens investigadas, internado no Brasil, esteve subcotado em relação ao preço da indústria doméstica, ponderado pelas importações, em todos os períodos analisados.
+
+772\. Além disso, foi verificada a redução do preço praticado pela indústria doméstica, ponderado pela participação de cada CODIP em relação ao volume total importado das origens investigadas, nos intervalos de P1 para P2 (-0,7%) e de P4 para P5 (-18,8%). Não se constatou a ocorrência de depressão dos preços da indústria doméstica quando se consideram os extremos da série (P1 para P5). Considerando os preços médios praticados pela indústria doméstica (item 6.1.3.1), observou-se sua redução, em 15,1%, ao comparar os preços praticados entre P4 e P5, ao passo que ao longo dos períodos (P1 a P5) foi constatado seu aumento em 8,7%.
+
+773\. Ademais, deve-se considerar que a persistência de subcotação em toda a série sob investigação contribuiu para se pressionarem os resultados financeiros da indústria doméstica. A despeito de se terem diminuído os custos de produção nos mesmos interregnos para os quais se observou a redução de preço ponderados pelo*mix*importado (P1 para P2 e P4 para P5), sua redução foi superior ao do custo de produção de P4 para P5, indicando uma piora na relação custo/preço nesses períodos. Como já apresentado, o preço médio praticado pela indústria doméstica no mercado interno reduziu-se de P4 para P5 em 15,1%. Considerando que no mesmo comparativo houve uma redução de 12,7% no custo de produção, a piora na relação/custo preço também foi constatada na análise do preço médio da indústria doméstica. Observou-se, no entanto, para fins de determinação final, ausência de supressão dos preços praticados pela indústria doméstica visto que nos períodos em que foram observados aumento do custo de produção, os aumentos nos preços da indústria doméstica foram superiores.
+
+774\. Assim, a pressão constante dos importados sobre o similar nacional fez com que a indústria doméstica rebaixasse seu preço de P4 para P5 na tentativa de competir no mercado brasileiro com importações subcotadas e a preços com dumping, originárias da Índia e Taipé Chinês. A indústria doméstica, que operou com resultados operacionais negativos em todos os períodos, à exceção de P4 para o resultado operacional exceto resultado financeiro e outras despesas, se viu compelida a sacrificar ainda mais sua rentabilidade no último comparativo de períodos. A subcotação em nível constante, em patamar elevado, nos últimos 3 períodos de análises coadunou para que em P5 a Aperam Tubos apresentasse as segundas piores margens e resultados da série, ficando atrás apenas de P1, período para o qual será apresentada avaliação dos efeitos de outros fatores causadores de dano no item 7 deste documento.
+
+6.1.3.3 Da magnitude da margem de dumping
+
+775\. As margens de dumping apuradas para a Índia variaram de USD 397,42/t a USD 1.207,04/t. Por sua vez, a margem de dumping apurada para Taipé Chinês foi USD 1.258,77t. É possível inferir que caso tais margens de dumping não existissem os preços da indústria doméstica poderiam ter atingido níveis mais elevados, reduzindo, ou mesmo eliminando, os efeitos das importações investigadas sobre seus preços. Determinou-se, portanto, que o impacto da magnitude das margens de dumping na indústria doméstica não foi negligenciável, tendo em conta o volume e os preços das importações provenientes das origens investigadas.
+
+**6.2 Da conclusão sobre o dano**
+
+776\. A partir da análise dos indicadores expostos, verificou-se que o pico do volume de vendas no mercado interno da indústria doméstica ocorreu em P1, em que foi registrado o volume de [RESTRITO] toneladas de tubos de aço inoxidável austenítico. Ao se observar todo o período de análise de dano, houve reduções consecutivas de P1 a P5, sendo que a mais expressiva ocorreu de P4 para P5, quando a diminuição no volume de vendas alcançou 16,0%. Dessa forma, o volume das vendas da indústria doméstica destinadas ao mercado interno decresceu 29,3%, ao serem comparados os extremos da série temporal analisada, o que representou diminuição de [RESTRITO] toneladas do produto objeto durante o período de análise (P1 a P5). Além disso, verificou-se que:
+
+a) as vendas da indústria doméstica destinadas ao mercado brasileiro iniciaram o período sob análise representando [RESTRITO] % do mercado brasileiro, em P1. Percebeu-se tendência contínua de redução da participação das vendas da indústria doméstica no mercado brasileiro até o fim do período. Destaca-se que se constatou tendência inversa para o mercado brasileiro, pois este indicou expansão no período. Em P5, identificou-se que as vendas totais da indústria doméstica destinadas ao mercado interno do Brasil atingiram o pior nível de participação no mercado brasileiro ([RESTRITO]). No acumulado, a queda observada foi de [RESTRITO] p.p., sendo que o maior declínio de representatividade foi observado de P4 para P5 ([RESTRITO] p.p). Como já indicado, o mercado brasileiro registrou aumento de 14,5% durante o intervalo de tempo de análise, sendo que a maior elevação entre períodos (18%) ocorreu de P4 para P5. Nesse sentido, as vendas da indústria doméstica apresentaram tendência oposta ao do mercado brasileiro;
+
+b) com relação ao volume de produção da Aperam Tubos, foram registradas reduções em todos os períodos, seguindo a tendência das vendas totais da indústria doméstica. Sendo assim, o volume produzido atingiu o seu ápice ([RESTRITO] toneladas) no início do período de análise (P1). De P1 para P5, o volume de produção de tubos de aço inoxidável austenítico da indústria doméstica contraiu 26,5%. Destaca-se que o volume de produção de outros produtos cresceu 538,7%, entre P1 e P5, e que a Aperam Tubos prestou serviço de industrialização de tubos de aço inoxidável austenítico para terceiros (*tolling*) em P4 e P5, contudo, em volumes relativamente pequenos ao serem comparados ao volume total da produção própria;
+
+c) identificou-se que a capacidade instalada da indústria doméstica diminuiu 2% no período de análise (P1 a P5), sendo que as reduções foram identificadas nos últimos períodos sob análise (P4 e P5). Frisa-se que a redução na capacidade instalada da indústria doméstica ocorreu de forma menos intensa do que a queda no volume de produção no período, o que resultou no aumento do grau de ocupação da capacidade instalada de P3 em diante. Assim, constatou-se aumento de [RESTRITO] no grau de ocupação da capacidade instalada, entre P1 e P5, tendo o indicador atingido o pior resultado em P2 ([RESTRITO] %). Em P5, mesmo com o crescimento da produção de outros produtos que compartilham a linha de produção do similar, o grau de ocupação ficou em [RESTRITO] %;
+
+d) em relação ao volume do estoque final da indústria doméstica, observou-se redução entre P1 e P2 ([RESTRITO] %), e, em seguida, registraram-se aumentos até P4, quando os estoques atingiram [RESTRITO] toneladas. Por fim, de P4 para P5, identificou-se redução de 36,4% nos estoques da indústria doméstica, o que culminou em redução de 51,8% ao ser comparado P5 em relação a P1. Assim, considerando que a diminuição dos estoques finais no período analisado ocorreu com mais intensidade que a redução do volume produzido, a relação estoque final/produção apresentou redução entre P1 e P5 ([RESTRITO]).;
+
+e) o número de empregados nas linhas de tubos de aço inoxidável austenítico da indústria doméstica apresentou quedas sucessivas ao longo dos períodos, culminando em uma diminuição de 40,8%, de P1 a P5. Na mesma toada, a massa salarial referente a esses empregados apresentou contrações contínuas, sendo que o valor observado em P5 representa queda de 55,2% em relação ao montante de P1. No tocante ao número de empregados encarregados da administração e das vendas, observou-se em P5 [RESTRITO] empregados a menos que o número constados em P1, representado queda de 28,6%. A massa salarial desses empregados reduziu 45,6%. Destaca-se que houve melhora no indicador de produtividade por empregado no período analisado (24,4%);
+
+f) o preço do produto similar da indústria doméstica nas vendas destinadas ao mercado interno apresentou aumentos sucessivos entre P1 e P4, sendo que a expansão mais expressiva ocorreu em P4, quando o preço aumentou 22,8%. Considerando a redução no preço constada em P5 de 15,1%, observou-se que o preço do produto similar da indústria doméstica nas vendas no mercado interno brasileiro aumentou 8,7%. O aumento observado, contudo, não foi suficiente para reverter o cenário de prejuízo bruto em P5;
+
+g) com exceção de P2, o custo de produção unitário apresentou comportamento análogo aos preços do produto similar da indústria doméstica nas vendas destinadas ao mercado brasileiro. Assim, de P1 a P5, o custo de produção unitário aumentou [RESTRITO]. A relação custo de produção unitário/preço de venda melhorou ao reduzir [CONFIDENCIAL] p.p., de P1 a P5, apesar de sua deterioração em [CONFIDENCIAL] p.p. de P4 para P5. Reitera-se, entretanto, o cenário de prejuízo bruto observado em P5, de forma que o preço praticado pela indústria doméstica não foi suficiente para cobrir o custo do produto vendido;
+
+h) no que tange aos indicadores financeiros alcançados com a venda do produto similar no mercado doméstico, houve redução da receita líquida nos períodos sob análise, com exceção de P4, quando o indicador aumentou 18,0%. Nos demais períodos, observaram-se sucessivas reduções na receita líquida: 4,5% (de P1 para P2); 4,4% (de P2 para P3); e 28,7% (de P4 para P5). Em decorrência dessa última diminuição do indicador, a receita líquida reduziu 23,2%, ao se considerar P5 em relação a P1;
+
+i) em relação ao resultado bruto, constatou-se que a empresa operou com resultado bruto negativo nos extremos da série (P1 e P5), enquanto nos demais períodos a Aperam Tubos operou com resultado bruto positivo. Ao longo dos períodos, a empresa conseguiu diminuir seu prejuízo bruto em 78,1% quando comparamos o resultado de P5 ([CONFIDENCIAL] mil reais atualizados) com o de P1 ([CONFIDENCIAL] mil reais atualizados). Mesmo que se considere uma melhoria no resultado bruto, constatou-se que a empresa terminou o período com prejuízo bruto, sendo que no período imediatamente anterior (P4), a empresa vislumbrou seu melhor resultado positivo. A queda de 123,6% de P4 para P5 pode ser explicada basicamente pela diminuição do volume de vendas destinadas ao mercado interno nesse período;
+
+j) quanto ao resultado operacional, apurou-se que a empresa desenvolveu suas atividades com prejuízo operacional em todos os períodos sob análise, ainda que tenha se notado melhoria no indicador entre P1 e P2 (92,7%) e entre P3 e P4 (42,4%). Ressalta-se que a empresa enfrentou o resultado operacional negativo mais significante em P1 e que, apesar da constante operação da empresa em prejuízo operacional, a tendência de melhoria no resultado operacional foi revertida no último período, quando se observou relevante redução no resultado operacional da empresa, na ordem de 702,6%, explicado, em grande parte, pela redução das vendas da empresa do produto similar destinadas ao mercado brasileiro;
+
+k) apurou-se que a empresa operou com resultado operacional, excluindo-se o resultado financeiro, em situação desfavorável, em todo o período sob análise.
+
+l) sobre o resultado operacional excluídos o resultado financeiro e as outras despesas, identificou-se tendência de melhoria no indicador entre P1 e P4. Em P4, o incremento nesse indicador foi capaz de reverter a situação de prejuízo, momento em que a empresa registrou resultado positivo. Contudo, no período subsequente (P5), a empresa voltou a operar com resultado negativo, tendo finalizado o período sob análise com prejuízo operacional excluídos o resultado financeiro e as outras despesas de [CONFIDENCIAL] mil reais atualizados.
+
+777\. Por todo o exposto, observou-se que a diminuição da participação das vendas da indústria doméstica no mercado doméstico impactou de forma significativa os indicadores da indústria doméstica, sobretudo quando analisados os resultados de P5 em relação a P4.
+
+778\. Portanto, a partir da análise anteriormente explicitada, conclui-se, para fins de determinação final, pela existência de dano à indústria doméstica durante o período analisado.
+
+**7 DA CAUSALIDADE**
+
+779\. Consoante o disposto no art. 32 do Decreto nº 8.058, de 2013, é necessário demonstrar que, por meio dos efeitos do dumping, as importações objeto da investigação contribuíram significativamente para o dano experimentado pela indústria doméstica. Essa demonstração de nexo causal deve basear-se no exame de elementos de prova pertinentes e outros fatores conhecidos, além das importações a preços de dumping, que possam ter causado o dano à indústria doméstica na mesma ocasião.
+
+7.1 Do impacto das importações a preços de dumping sobre a indústria doméstica
+
+780\. De início, frisa-se que as importações de tubos de aço inoxidável austenítico estavam sujeitas à medida antidumping, durante o período de análise de dano da presente investigação, quando originárias da China, da Malásia, da Tailândia e do Vietnã.
+
+781\. Tendo em vista os indicadores analisados nos itens 5 (importações) e 6 (dano) deste documento, cabe destacar que se observou, de maneira geral, deterioração dos indicadores da indústria doméstica durante todo o período analisado.
+
+782\. A partir dos dados apresentados nos itens 5 e 6, observou-se que o volume das importações das origens investigadas cresceu durante o período de análise de dano, de P1 para P5, alcançando aumento acumulado de 73,8%, enquanto o volume das vendas da indústria doméstica diminuiu 29,3%, no mesmo período.
+
+783\. De P1 para P2, observou-se aumento de 64,5% no volume das importações brasileiras de tubos de aço inoxidável austenítico das origens investigadas, que foi seguida de redução no preço dessas transações de 12,6%, considerando-se a condição CIF. Constatou-se que tais importações acessaram o mercado brasileiro a preços subcotados, ou seja, inferiores ao preço médio ponderado da indústria doméstica. Como resultado do acréscimo do volume das importações das origens investigadas a preços subcotados, tais importações ganharam [RESTRITO] p.p. de participação no mercado brasileiro e no CNA.
+
+784\. Simultaneamente, o volume das vendas da Aperam Tubos destinadas ao mercado doméstico perdeu participação de [RESTRITO] p.p. tanto no mercado brasileiro quanto no CNA, ao mesmo tempo em que tais vendas diminuíram 5,7% de P1 para P2. Constataram-se, nesse mesmo período, retrações no volume de produção de tubos de aço inoxidável austenítico da Aperam Tubos (-4,3%) e na receita líquida das vendas destinadas ao mercado interno (-4,5%).
+
+785\. Em se tratando de indicadores financeiros, notou-se aumento no preço (1,3%), associado à redução no custo de produção unitário (-1,3%), o que culminou na melhoria da relação custo/preço, quando foi observada variação negativa de [CONFIDENCIAL].
+
+786\. Nesse contexto, de P1 para P2, observou-se melhoria nos indicadores financeiros da Aperam Tubos: 124,3% no resultado bruto; 92,2% no resultado operacional; 61,6% no resultado operacional, exceto o resultado financeiro; e 58,9% no resultado operacional, excluindo-se o resultado financeiro e as outras receitas/despesas. Não obstante, constatou-se reversão do resultado negativo apenas em relação ao resultado bruto, pois os demais indicadores de resultado financeiro continuaram negativos.
+
+787\. No período seguinte (de P2 para P3), constatou-se aumento de 25,6% no volume importado do produto objeto. Tal volume adentrou o mercado brasileiro com preço CIF 15,4% mais elevado do que o preço que havia sido identificado em P2. Ainda assim, observou-se que esse preço esteve subcotado em relação ao preço médio ponderado praticado pela indústria no mesmo período. Como consequência, as importações das origens investigadas aumentaram em [RESTRITO] p.p. a participação tanto no mercado brasileiro e quanto no CNA.
+
+788\. Nessa conjuntura, a indústria doméstica também aumentou o preço (2,9%), e observou redução no volume de suas vendas internas (redução de 7,1%), que continuou a tendência de redução que havia sido observada desde o início do período, e enfrentou nova redução na receita líquida da empresa, na ordem de 4,4%.
+
+789\. Em relação aos indicadores financeiros, observou-se aumento de 246,2% do resultado bruto da empresa e de deterioração do resultado operacional (-32,4%). Contudo, ao ser desconsiderado o resultado financeiro do resultado operacional notou-se melhoria de 53,6% nesse indicador, que foi acompanhada de incremento no resultado operacional excluídos o resultado financeiro e as outras despesas (98,9%). Novamente, pontua-se que os resultados alcançados nesses indicadores não foram suficientes para reverter a situação de prejuízo operacional da empresa em P3.
+
+790\. Destaca-se que o volume apurado para o mercado brasileiro atingiu o ápice em P3 ([RESTRITO] toneladas), contudo, as importações sob análise continuaram a ser internalizadas no Brasil a preços subcotados, de forma que a Aperam Tubos perdeu participação [RESTRITO] p.p. tanto no mercado brasileiro como no CNA.
+
+791\. Ainda em relação a P3, constatou-se que o volume de produção da indústria doméstica reduziu 4,9%. Não obstante, identificou-se melhoria no grau de ocupação da Aperam Tubos, gerado pelo aumento do volume de produção de outros produtos fora do escopo da presente investigação.
+
+792\. No interregno de P3 a P4, identificou-se aumento no preço do produto objeto no percentual de 54,4%. Tal aumento foi seguido da redução de 48,3% no volume das importações das origens investigadas em relação a P3, o que gerou retração na participação dessas importações tanto no mercado brasileiro ([RESTRITO]) quanto no CNA ([RESTRITO]).
+
+793\. Ao serem observados os dados de vendas da indústria doméstica, observou-se que de P3 para P4 o volume das vendas da Aperam Tubos diminuiu novamente (4,0%). O aumento do preço praticado pela indústria doméstica em 22,8% ocorreu em proporção inferior ao aumento identificado para as importações do produto objeto (54,4%), o que culminou com o aumento da participação da indústria doméstica no mercado brasileiro ([RESTRITO]).
+
+794\. Considerando-se o aumento do preço do produto similar doméstico, de P3 para P4, constatou-se incremento de 18,0% na receita líquida da Aperam Tubos nas vendas destinadas ao mercado brasileiro no mesmo período. Em decorrência do aumento do preço em maior proporção do que o aumento identificado no custo de produção desse produto, foram observadas melhoras no resultado bruto de 30,8%. Observaram-se também melhorias no demais indicadores: 40,1% no resultado operacional; 86,6% no resultado operacional desconsiderado o resultado financeiro; e 2.171,0% no resultado operacional desconsiderados o resultado financeiro e as outras despesas/receitas.
+
+795\. Dessa forma, infere-se que houve relativa melhoria na situação econômico-financeira da indústria doméstica de P3 para P4, intervalo em que se observou a redução dos volumes importados das origens investigadas.
+
+796\. Por fim, considerando-se P5 em relação a P4, constatou-se que o volume das importações das origens investigadas cresceu 62,8%, sendo que o preço dessas transações diminuiu 17,6%. Ao comparar o preço CIF dessas importações, em P5, ao preço médio ponderado da indústria doméstica, apurou-se que tais volumes chegaram ao mercado brasileiro a preços subcotados. Considerando-se esse cenário, o volume das importações do produto objeto da presente investigação recuperou [RESTRITO] p.p. de participação no mercado brasileiro e no CNA.
+
+797\. Por seu turno, as vendas do produto similar da indústria doméstica destinadas ao mercado brasileiro contraíram 16,0%, em P5, ainda que a Aperam Tubos tenha praticado preço 15,1% inferior ao preço praticado em P4. Aliado a essa situação, o volume das vendas internas da indústria doméstica perdeu participação de [RESTRITO] p.p., no mercado brasileiro e [RESTRITO] p.p no CNA.
+
+798\. A redução do preço do produto em intensidade maior do que a diminuição no custo de produção, aliadas às deteriorações do volume das vendas destinadas ao mercado interno e da participação no mercado brasileiro/CNA, ocasionaram a piora nos indicadores financeiros da empresa. De P4 para P5, a receita líquida diminuiu 28,7% e o resultado bruto diminuiu 123,6%. Nesse período, observou-se que a empresa voltou a operar com todas as margens de rentabilidade apuradas negativas, inclusive a margem bruta [CONFIDENCIAL] %, o que só foi observado em P1. A margem operacional alcançou [CONFIDENCIAL]%, a margem operacional exceto resultado financeiro atingiu [CONFIDENCIAL] % e a margem operacional exceto resultado financeiro e outras despesas/receitas totalizou [CONFIDENCIAL]%.
+
+799\. Considerando-se as análises efetuadas neste documento, infere-se que a indústria doméstica já apresentava deterioração expressiva de seus indicadores financeiros em P1, período em que operava em situação de prejuízo bruto. A partir de P1, a fim de recuperar seus indicadores financeiros, observou-se aumento do preço do produto similar até P4. Contudo, o aumento das importações do produto das origens investigadas, sempre a preços subcotados, levou à deterioração dos indicadores de volume da indústria doméstica (vendas, produção e participação no mercado/CNA) e culminou com o retorno à situação de prejuízo bruto em P5, período em que as importações sob análise alcançaram o ápice do volume observado no período de análise de dano.
+
+800\. Assim, observa-se, para fins de determinação final, que, embora outros fatores mencionados possam ter contribuído para a deterioração da situação da indústria doméstica, especialmente ao início da série analisada (P1), as importações a preços de dumping contribuíram significativamente para o dano material constatado, nos termos do art. 32 do Decreto nº 8.058, de 2013, e do Artigo 3.5 do Acordo Antidumping.
+
+7.2 Dos possíveis outros fatores causadores de dano e da não atribuição
+
+801\. Consoante o determinado pelo § 4º do art. 32 do Decreto nº 8.058, de 2013, procurou-se identificar outros fatores relevantes, além das importações a preços com indícios de dumping, que possam ter causado o eventual dano à indústria doméstica no período de investigação de dano.
+
+7.2.1 Do volume e preço de importação da demais origens
+
+802\. Verificou-se, a partir da análise das importações brasileiras de tubos de aço inoxidável, que as importações oriundas das demais origens diminuíram entre P1 e P2 e cresceram entre P2 e P5. De P1 para P5 houve crescimento de 139,8% do volume importado dessas origens, com destaque para produtos chineses.
+
+803\. A representatividade, em termos de volume, das importações originárias da China dentre as demais origens, excluídas aquelas ora sob investigação, cresceu paulatinamente entre os períodos, tendo correspondido a [RESTRITO] % em P1, [RESTRITO] % em P2, [RESTRITO] % em P3, [RESTRITO] % em P4 e [RESTRITO] % em P5.
+
+804\. Conforme já mencionado, apurou-se redução no volume das importações das demais origens apenas de P1 para P2, em 18,5%. Por outro lado, foram observados crescimentos de 75,0% de P2 para P3, de 34,0% de P3 para P4 e 25,5% de P4 para P5.
+
+805\. Destaque-se que o volume das importações das origens investigadas apresentou aumento acumulado de 73,8% ao longo dos cinco períodos, tendo alcançado [RESTRITO] t em P5. Já o volume oriundo das outras origens cresceu 139,8% nesse mesmo interstício, tendo alcançado [RESTRITO] t em P5. Em P1, as importações das outras origens correspondiam a [RESTRITO] % das importações totais, passando a representar, em P5, [RESTRITO] %, crescimento de [RESTRITO] p.p.
+
+806\. Cumpre destacar que existe medida antidumping em vigor para a China, conforme indicado no item 1.1.1 deste documento. Ademais, observou-se que os tubos de aço inoxidável originários das demais origens foram exportados, em todos os períodos, a preços superiores àqueles praticados por Índia e Taipé Chinês.
+
+807\. Nesse sentido, após realizadas essas considerações, buscou-se verificar o impacto das importações oriundas das outras origens em eventual dano causado à indústria doméstica mesmo após a constatação de que o preço CIF do produto originário dessas outras superou o preço das origens investigadas em todos os períodos sob análise.
+
+808\. O quadro seguinte compara os preços das demais origens com os preços da indústria doméstica ponderado pela participação de cada CODIP em relação ao volume total importado das outras origens. Frise-se que 98,3% das importações das demais origens foi passível de identificação do grau do aço e foi este o volume utilizado para fins da ponderação do preço da indústria doméstica.
+
+| Preço médio CIF internado e subcotação - Origens não investigadas (em número-índice) [RESTRITO] |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | P1 | P2 | P3 | P4 | P5 |
+| CIF (R$/t) | 100,0 | 111,7 | 130,3 | 164,6 | 136,7 |
+| Imposto de Importação (R$/t) | 100,0 | 116,4 | 144,2 | 156,7 | 114,1 |
+| AFRMM (R$/t) | 100,0 | 122,5 | 498,5 | 363,9 | 72,4 |
+| Despesas de Internação (R$/t) | 100,0 | 111,7 | 130,3 | 164,6 | 136,7 |
+| CIF Internado (R$/t) | 100,0 | 112,2 | 133,6 | 164,7 | 134,0 |
+| CIF Internado (R$ atualizados/t) | 100,0 | 103,9 | 91,6 | 98,3 | 81,9 |
+| Preço Ind. Doméstica [Ponderado] (R$ atualizados/t) | 100,0 | 98,2 | 105,8 | 129,2 | 104,5 |
+| Subcotação [Ponderada] (R$ atualizados/t) | -100,0 | 132,7 | 19,5 | -59,0 | -32,9 |
+| Subcotação [Ponderada] (%) | -19,6% | -26,5% | -3,6% | 9,0% | 6,2% |
+| Fonte: Indústria doméstica e RFB Elaboração: DECOM |  |  |  |  |  |
+
+809\. Dos dados apresentados, observou-se que houve subcotação dos preços das importações das demais origens em relação ao preço ponderado da indústria doméstica em P4 e P5.
+
+810\. Dessa forma, pode-se concluir que as importações das demais origens contribuíram para o dano à indústria doméstica ao longo do período analisado, especialmente entre os últimos dois períodos, quando passaram a exercer maior pressão, em termos de preço, sobre o similar doméstico.
+
+811\. No entanto, considerando o volume absoluto menos expressivo dessas importações em relação às importações das origens investigadas, entende-se que as importações das origens investigadas contribuíram de forma mais significativa para o dano observado, de modo que não se pode excluir o nexo de causalidade entre eles.
+
+7.2.2 Do impacto de eventuais processos de liberalização das importações sobre os preços domésticos
+
+812\. As alíquotas do Imposto de Importação dos subitens tarifários 7306.40.00 e 7306.90.20 foram definidas em 14%, conforme Resoluções CAMEX nº 43/2006 e nº 94/2011. Contudo, tais alíquotas foram reduzidas temporariamente de 14% para 12,6%, em 12 de novembro de 2021, por meio da Resolução GECEX nº 269, de 4 de novembro de 2021, e para 11,2 %, até 31 de dezembro de 2023, por meio da Resolução GECEX nº 353, de 23 de maio de 2022, tendo por objetivo atenuar os efeitos dos choques de oferta causados pela pandemia e pela crise internacional na economia brasileira.
+
+813\. Cabe notar que, por meio da Resolução GECEX nº 391, de 23 de agosto de 2022, publicada no D.O.U. de 25 de agosto de 2022, que entrou em vigor a partir de 1º de setembro de 2022, a redução inicial de 10% estabelecida pela Resolução GECEX nº 269, de 2021, passou a ser definitiva. Na prática, entretanto, considerando a vigência da Resolução GECEX nº 353, de 2022, as alíquotas permaneceram reduzidas para 11,2 %, até 31 de dezembro de 2023.
+
+814\. Registra-se que as reduções do imposto de importação ocorreram em P4, período com o segundo menor quantitativo de importações investigadas. Apesar disso, observa-se que as importações provenientes das origens investigadas demonstraram tendência de aumento ao longo de toda a série analisada, à exceção de P4, mesmo antes da redução tarifária.
+
+815\. Adicionalmente, os montantes de subcotação apurados no item 6.1.3.2 deste documento afastam eventual tese de que o preço das importações sob análise somente esteve subcotado em relação ao preço da indústria doméstica em decorrência da redução do imposto de importação. Desse modo, a referida liberalização não descarta, para fins de determinação final, a existência de causalidade entre as exportações a preços de dumping e o dano suportado pela indústria doméstica
+
+7.2.3 Da contração na demanda ou mudanças nos padrões de consumo
+
+816\. O mercado brasileiro de tubos de aço inoxidável apresentou aumentos de 16,8% de P1 para P2 e de 5,7% de P2 para P3. De P3 para P4, esse mercado decresceu 21,3%, tendo voltado a crescer em 18% entre P4 e P5. Dessa forma, ao analisar o período completo (P1 a P5), o mercado brasileiro de tubos de aço inoxidável aumentou 14,5%.
+
+81327\. Não houve, portanto, contração da demanda de tubos de aço inoxidável ou mudança nos padrões de consumo, de modo que o dano observado na indústria doméstica não pode ser atribuído a esses fatores.
+
+7.2.4 Das práticas restritivas ao comércio de produtores domésticos e estrangeiros e a concorrência entre eles
+
+818\. Não foram identificadas práticas restritivas ao comércio dos tubos de aço inoxidável, pelos produtores domésticos ou pelos produtores estrangeiros, tampouco fatores que afetassem a concorrência entre eles.
+
+7.2.5 Do progresso tecnológico
+
+819\. Não foram identificadas evoluções tecnológicas que pudessem resultar na preferência do produto importado ao nacional.
+
+7.2.6 Do desempenho exportador
+
+820\. Ressalte-se que, ao longo do período de análise de indícios de dano, as exportações sempre representaram percentual pequeno em relação às vendas no mercado interno. Apenas em P5, essas exportações representaram [RESTRITO] % das vendas totais, não ultrapassando [RESTRITO] % nos demais períodos. Ademais, o volume de vendas de tubos de aço inoxidável ao mercado externo pela indústria doméstica cresceu tanto de P1 para P5 (199,7%) quanto de P4 para P5 (630,2%), de forma que o dano à indústria doméstica não pode ser atribuído ao seu desempenho exportador.
+
+7.2.7 Da produtividade da indústria doméstica
+
+821\. A produtividade da indústria doméstica, calculada como o quociente entre a quantidade produzida e o número de empregados envolvidos na produção, aumentou 24,5% entre P1 e P5, sendo que foi observada redução na produtividade apenas entre P3 e P4, de 6,3%.
+
+822\. Ademais, cumpre notar que, ao se analisar o detalhamento do custo de produção da Aperam Tubos associado à fabricação do produto similar pela indústria doméstica, verificou-se que, em P5, [CONFIDENCIAL]% daquele custo correspondeu à soma de matérias-primas, insumos, utilidades e outros custos-fixos que não mão de obra. Assim, a mão de obra responde por percentual diminuto do custo de produção ([CONFIDENCIAL]%), de modo que à produtividade não podem ser atribuídos o dano observado nos indicadores da indústria doméstica.
+
+7.2.8 Do consumo cativo
+
+823\. Não houve consumo cativo pela indústria doméstica ao longo do período de análise de indícios de dano.
+
+7.2.9 Da industrialização por encomenda (***tolling***)
+
+824\. Conforme já mencionado nos itens 5.2 e 6.1.2, a indústria doméstica prestou serviço de industrialização de tubos de aço inoxidável austenítico para terceiros (*tolling*) em P4 e P5. Contudo, em volumes relativamente pequenos ao serem comparados ao volume total de produção própria (o*tolling*representou entre [RESTRITO] % e [RESTRITO] % da produção total da Aperam Tubos), bem como ao mercado brasileiro (o*tolling*representou cerca de [RESTRITO] % do mercado brasileiro).
+
+825\. Diante do exposto, não se pode afirmar que*o tolling*prestado tenha contribuído para o dano causado à indústria doméstica.
+
+7.2.10 Das importações ou revenda do produto importado pela indústria doméstica
+
+826\. Constou da petição que a revenda de produto adquirido de terceiros no mercado interno foi pontual e pouco representativa.
+
+827\. Destaque-se que a proporção das revendas em relação ao volume de vendas internas líquidas de produção da indústria doméstica representou [CONFIDENCIAL]%, em P3, e [CONFIDENCIAL]% em P5.
+
+828\. Dessa forma, considerando a representatividade da aquisição de produtos nos mercados interno e/ou externo para a revenda, tais volumes não podem ser tidos como fatores causadores de dano.
+
+7.2.11 Dos outros produtores nacionais
+
+829\. As vendas dos outros produtores nacionais de tubos de aço inoxidável apresentaram queda em todos os períodos, exceto entre P1 e P2. Analisando o volume de vendas em cada intervalo, de P1 a P2, ocorreu crescimento de 9,9%, seguido de decréscimos sucessivos de 19,1%, 13,1% 0,8%, em P3, P4 e P5, na comparação com o respectivo período anterior. De P1 a P5, o volume de vendas dos outros produtores nacionais acumulou queda de 23,3%.
+
+830\. No que tange à participação das vendas dos outros produtores nacionais no mercado brasileiro, é possível observar decréscimos dessa participação em todos os períodos analisados, à exceção de P4. Assim, houve queda de [RESTRITO] p.p. em P2, [RESTRITO] p.p. em P3 e [RESTRITO] p.p. em P5, em relação ao período imediatamente anterior. De P3 para P4 foi observado aumento de partição de [RESTRITO] p.p. Considerando os extremos da série, constatou-se queda de [RESTRITO] p.p. da participação do volume de vendas dos outros produtores nacionais no mercado brasileiro.
+
+831\. Diante do exposto, é possível afirmar que as quedas das vendas dos outros produtores nacionais, tanto em relação ao volume quanto à participação no mercado brasileiro, em contexto de aumento das importações das origens investigadas, afastam eventuais impactos sobre os indicadores da indústria doméstica.
+
+7.3 Das manifestações acerca da causalidade
+
+832\. Em 17 de janeiro de 2025, a Aperam Tubos apresentou suas considerações sobre os temas elencados pela Aprodinox e Prakash que seriam abordados em audiência. Sobre os temas "indicadores da indústria e elementos da caracterização do dano à indústria doméstica" e "conjuntura internacional e análise dos efeitos das importações sobre os preços da indústria doméstica", a peticionária asseverou que a autoridade investigadora, conforme determinação preliminar, teria concluído que houve dano à indústria doméstica durante o período analisado e que tal dano seria, sobretudo, decorrente das importações objeto da investigação. A peticionária salientou que a autoridade investigadora, em sede de determinação preliminar, teria analisado todos os elementos do processo e verificou que as importações a preços de dumping contribuíram significativamente para o dano à indústria doméstica.
+
+833\. Em manifestação protocolada em 10 de fevereiro de 2025, a Sun Mark destacou a importância de analisar separadamente as importações da Índia, Taipé Chinês e China, devido às peculiaridades do caso, tais como: (i) extinção do direito antidumping para Taipé Chinês durante o período investigado; (ii) aplicação de direito antidumping para outras origens (Malásia, Vietnã e Tailândia) durante o período investigado; (iii) queda nas quantidades importadas da Índia (redução de 19,4% entre P1 e P5) com aumento de 27,3% nos preços (FOB) no mesmo período; e (iv) crescimento das importações de tubos de aço da China, superando as importações da Índia em P5, com os preços mais baixos entre as origens analisadas (USD 2.983,17/t, FOB).
+
+834\. Portanto, para a produtora indiana, seria essencial separar as importações da Índia das demais origens para identificar os fatores causadores de dano, aprofundando as análises de dano e nexo de causalidade para Nota Técnica de fatos essenciais e determinação final.
+
+835\. Em 10 de fevereiro de 2025, a Prakash protocolou manifestação contendo seus argumentos apresentados em sede de audiência. A produtora indiana solicitou que fosse considerado o impacto das importações chinesas nos indicadores da indústria doméstica. Diferente das importações da Índia e do Taipé Chinês, as importações da China teriam se mantido crescentes e subcotadas durante todo o período analisado. Pontuou-se que o pico dessas importações ocorreu em P5, quando se observou a maior deterioração dos indicadores da Aperam Tubos, enquanto as importações indianas estavam em um dos menores patamares na série histórica. Para a empresa indiana, seria fundamental distinguir os efeitos causados pela China daqueles atribuídos às origens investigadas, especialmente a Índia.
+
+836\. Em 10 de fevereiro de 2025, a Aprodinox protocolou a transcrição de seus argumentos apresentados durante a audiência. De acordo com a associação, a análise do DECOM partiria da premissa de que em P1 a indústria doméstica já se encontraria em prejuízo, comparando os indicadores dos outros períodos com P4, o que seria uma análise enviesada. O mercado internacional teria sofrido influência de fatores externos como a pandemia de COVID-19 e tensões geopolíticas, afetando custos e demanda. P3 e P4 teriam sido períodos atípicos de bons resultados devido ao aumento da demanda e preços elevados do níquel. P5, por outro lado, foi um momento de queda de preços no mercado global.
+
+837\. Os indicadores financeiros da indústria doméstica melhoraram entre P1 e P5, com aumento no resultado bruto e operacional. O declínio em P5 teria sido observado em decorrência de uma comparação inadequada com um período excepcional. Nesse sentido, a indústria doméstica teria apresentado resultados semelhantes às flutuações normais do mercado, e a redução em P5 não seria uma particularidade do mercado brasileiro, mas uma oscilação normal. Portanto, não seria adequado usar essa conjuntura atípica para caracterizar o dano, especialmente quando a peticionária não atende todas as exigências do mercado interno.
+
+838\. De acordo com a associação, não estaria clara a relação de causalidade entre o aumento das importações e o dano à indústria doméstica. Apesar do aumento das importações entre P1 e P2, os resultados bruto e operacional da indústria, bem como as margens de rentabilidade, haviam melhorado. Com o aumento das importações em P3, teria havido outra melhora nos resultados da empresa, sem clara deterioração dos indicadores financeiros. Outros fatores relevantes para a atribuição de dano incluíram: (i) práticas da própria peticionária, que diminuiriam sua capacidade efetiva de produção apesar do crescimento do mercado; (ii) competição com outros produtores, que tiveram crescimento nas vendas enquanto a Aperam Tubos tivera queda; e (iii) aumento das importações da China, que se mantiveram crescentes e influenciaram negativamente os indicadores financeiros da indústria doméstica. Portanto, pontuou a Aprodinox, seria necessário separar os efeitos das importações da China das investigadas para evitar atribuição indevida de dano.
+
+839\. Em 10 de fevereiro de 2025, a Aperam Tubos reduziu a termo seus argumentos apresentados durante a audiência. A peticionária, relativamente às alegações de nexo de causalidade, contrapôs às alegações de que o dano à indústria doméstica advinha das importações da China. Segundo ela, a autoridade investigadora já teria concluído que as importações investigadas a preços de dumping contribuíram significativamente para o dano à indústria doméstica.
+
+840\. A peticionária, relativamente à alegação de que a situação da indústria doméstica estaria relacionada à conjuntura internacional, e que a deterioração dos indicadores em P5 era esperada, considerando que P4 foi um período bom para todos os produtores mundiais, repisou a conclusão preliminar pela existência de dano à indústria doméstica durante o período analisado. Acerca dos argumentos de priorização da produção de outros produtos, da opção por importar e revender o produto similar e da insuficiência de capacidade para atender ao mercado, a peticionária indicou que a autoridade investigadora verificou que a indústria doméstica teria capacidade ociosa para produzir o produto similar e que a concorrência com importações realizadas com prática de dumping teria prejudicado a produção do produto similar. As revendas foram pouco representativas, conforme atestado na determinação preliminar e teria sido confirmada a existência de dano à indústria doméstica e o nexo de causalidade entre este e as importações objeto da investigação.
+
+841\. Em manifestação protocolada em 19 de março de 2025, a Aprodinox repisou todos seus argumentos apresentados no tocante ao nexo de causalidade e outros fatores de dano.
+
+842\. Em manifestação de 19 de março de 2025, a Aperam Tubos destacou que a redução em sua capacidade instalada não teria comprometido o fornecimento. Enfatizou, ademais, que a indústria doméstica teria capacidade ociosa e poderia atender à demanda se não houvesse prática de dumping. Assim, alegações de "negligência da indústria doméstica" seriam infundadas, pois teria capacidade suficiente para atender à demanda de tubos e outros produtos. A peticionária defendeu que a produção de outros produtos não compensaria a queda na produção de tubos similares, pois teria ocorrido com o viés de aumentar sua produção e vendas para esse mercado sem prejudicar outros seguimentos, como o do similar nacional.
+
+843\. A empresa afirmou que as importações que realizou teriam sido pontuais e não indicariam desinteresse ou incapacidade de produção. Em relação à argumentos sobre a Aperam Serviços, a peticionária destacou tratar de empresa distinta e que alegações de reestruturação dos negócios do Grupo Aperam seriam descabidas e sem base factual.
+
+844\. Em relação à análise da conjuntura internacional requerida pela Aprodinox, a Aperam Tubos asseverou que os dados apresentados se referem a períodos e produtos distintos, e não refletem o cenário da análise. Ademais, enfatizou que os dados do processo confirmam o dano à indústria doméstica e seu nexo de causalidade com as importações objeto da prática de dumping.
+
+845\. Acerca das importações oriundas da China, foi indicado que o direito antidumping aplicado a essas importações estaria em processo de revisão, abrangendo os mesmos períodos de análise de dumping e dano do presente processo. Portanto, as importações da China, assim como de outras origens, já teriam sido analisadas em sede de determinação preliminar.
+
+846\. As empresas indianas Prakash e Seth, em sede de manifestações finais, protocoladas em 6 de maio de 2025, destacaram que as importações oriundas da China teriam sido responsáveis pela maior parte do volume importado e teria apresentado os menores preços entre todas as origens. Desse modo, pontuaram que, diferentemente da Índia e de Taipé Chinês, as importações chinesas mantiveram-se em crescimento contínuo ao longo de todo o período investigado, sendo que as importações das origens investigadas teriam aumentado 73,8% entre P1 e P5, as da China cresceram 139,8% no mesmo intervalo. Foi apontado, ademais, que o pico dessas importações teria ocorrido em P5, devendo ser considerado como fator determinante para a deterioração relativa dos indicadores financeiros da indústria doméstica, especialmente considerando que muitas das conclusões sobre dano e nexo de causalidade se basearam no desempenho da indústria nesse período específico.
+
+847\. A Aprodinox, em manifestação final apresentada em 6 de maio de 2025, repisou argumentos passados em relação à análise conjuntural dos indicadores de dano da indústria doméstica, apresentados em sua manifestação de 10 de fevereiro de 2025. Como conclusão sobre o tema, apontou que a análise dos indicadores apresentados pela indústria doméstica não demonstra dano e, sim, um comportamento esperado e alinhado com as flutuações normais do mercado internacional. No tocante ao nexo de causalidade e outros fatores de não atribuição, a entidade destacou que, ao longo do período analisado, houve oscilações no volume de importações, mas que os indicadores da indústria doméstica teriam melhorado justamente em momentos de aumento das importações, como em P2, quando o resultado operacional cresceu. Alegou que o agravamento dos indicadores em P3 teria sido influenciado por um aumento expressivo das despesas operacionais, especialmente financeiras e outras não especificadas, que variaram 133% em relação a P2, sem justificativa nos autos. A entidade sustentou que, desconsideradas essas despesas, o resultado operacional teria permanecido positivo de P1 a P4.
+
+848\. A Aprodinox também afirmou que a produção do produto similar diminuiu ao longo do período, enquanto a produção de outros produtos teria aumentado significativamente, especialmente em P3, quando houve crescimento de 125%. Alegou que esse comportamento indicaria desinteresse da indústria doméstica pelo segmento de tubos de aço, reforçado por investimentos em receitas financeiras improdutivas e despesas sem retorno, o que demonstraria ineficiência operacional. Nesse contexto, defendeu que o pedido de aplicação de medidas antidumping teria caráter meramente protecionista.
+
+849\. A associação ainda afirmou que P5 teria sido um ano de retomada econômica, inclusive em nível internacional, e que os resultados negativos da indústria nesse período decorreriam da comparação com P4, que teria sido excepcionalmente positivo. Ressaltou que, ao comparar P5 com P1, observava-se melhora nos indicadores financeiros.
+
+850\. Por fim, a Aprodinox reiterou que outros fatores teriam influenciado os resultados da indústria, como a prática de importação do próprio produto investigado por parte da peticionária e a concorrência com distribuidores nacionais. Também enfatizou a influência das importações da China, que apresentaram crescimento contínuo e preços mais baixos do que todas as demais origens. Enquanto as importações das origens investigadas aumentaram 73,8% entre P1 e P5, as da China cresceram 139,8%, atingindo seu pico em P5 - justamente o período utilizado como base para as conclusões sobre dano e causalidade. A entidade concluiu que tais elementos deveriam ter sido considerados de forma mais rigorosa na análise da autoridade investigadora, além de ressaltar a existência de medidas antidumping aplicadas para importações do mesmo produto originárias da China, Malásia, Tailândia e Vietnã. A aplicação de medida antidumping definitiva para Índia e Taipé Chinês representaria, portanto, o fechamento do mercado brasileiro de tubos para as importações das principais origens do produto.
+
+851\. A Aperam Tubos, em manifestação final apresentada em 6 de maio de 2025, destacou que, mesmo após considerar outros possíveis fatores de dano - incluindo as importações chinesas -, a autoridade teria concluído que as importações a preços de dumping contribuíram de forma significativa para o dano material verificado, nos termos do art. 32 do Decreto nº 8.058, de 2013 e do Artigo 3.5 do Acordo Antidumping.
+
+7.4 Dos comentários do DECOM sobre as manifestações
+
+852\. Com relação ao pleito da Sun Mark para que as importações da Índia fossem analisadas separadamente, reforça-se o entendimento quanto à adequação da análise cumulada das importações investigadas, conforme asseverado nos itens 5.1.1 e 5.4 deste documento. Não há que se falar, portanto, em segregação dos efeitos decorrentes das referidas importações.
+
+853\. Quanto à solicitação da Prakash referente à análise das importações originárias da China e seus efeitos sobre a indústria doméstica, remeta-se ao item 7.2.1, em que os efeitos das referidas importações são reconhecidos e mensurados. Reitera-se, entretanto, que, considerando o volume absoluto menos expressivo dessas importações em relação às importações das origens investigadas, entende-se que as importações das origens investigadas contribuíram de forma mais significativa para o dano observado, de modo que não se pode excluir o nexo de causalidade entre eles.
+
+854\. A Aprodinox buscou desqualificar a caracterização de dano material à indústria doméstica, tendo aludido que as variações dos indicadores econômico-financeiros da Aperam responderiam a oscilações normais do mercado. Não ficou claro, entretanto, a razão pela qual a análise de dano seria enviesada. A avaliação objetiva dos indicadores em questão demonstra deterioração dos indicadores de volume consistente de P1 a P5, bem como melhora dos resultados financeiros de P1 a P4, com posterior piora de P4 para P5. Importa ainda mencionar o cenário de prejuízo bruto da indústria doméstica em P1 e em P5, o que não pode ser ignorado ao se apontar alegada melhora da situação geral da indústria ao se avaliar o período completo de análise de dano.
+
+855\. No âmbito da análise da causalidade, a evolução dos indicadores passa então a ser avaliada vis a vis ao comportamento das importações investigadas. Nesse sentido, o item 7.1 detalha período a período essa análise. O fato de a indústria doméstica já operar em situação de dano em P1 não foi ignorado, como faz parecer a Associação. A Associação alegou ainda que P3 e P4 seriam períodos atípicos, porém pontua-se que os efeitos decorrentes da pandemia afetaram não somente a indústria doméstica, como todos os demais atores do mercado, inclusive as empresas investigadas. O fato de ter havido aumento da demanda e incremento dos preços internacionais não afasta, por si só, os efeitos danosos decorrente da prática de dumping.
+
+856\. A Associação apontou ainda que de P1 a P2 e de P2 a P3, o aumento das importações investigadas teria se dado em cenário de melhora dos resultados financeiros da indústria doméstica. Asse respeito, esclarece-se que a análise do dano não se limite aos indicadores financeiros. Nesse sentido, importa frisar que, nos intervalos citados, a indústria doméstica diminuiu seu volume de vendas e produção, tendo perdido participação no mercado para as importações investigadas.
+
+857\. Com relação aos outros possíveis fatores de dano listados pela Aprodinox, destaca-se, inicialmente, não ser possível avaliar alegações de práticas da peticionária que teriam diminuído sua capacidade efetiva de produção, por ausência de parâmetros objetivos que viabilizem a análise pela autoridade. Conforme dados fornecidos pela Aperam, verificados pelo DECOM, a empresa operou com capacidade ociosa ao longo de todo o período analisado. Quanto à concorrência com os outros produtores nacionais e com a China, remeta-se aos itens 7.2.11 e 7.2.1, respectivamente.
+
+858\. Diferentemente do alegado pelas empresas indianas Prakash e Seth, as importações chineses ocorreram sempre em volume inferior ao das origens investigadas. Àquelas importações representaram entre 12,5% e 52,8% dessas, sendo que o pico da representatividade ocorreu em P4. De todo modo, como já indicado no item 7.2.1 deste documento, as importações das demais origens, sobretudo da China,
+
+"contribuíram para o dano à indústria doméstica ao longo do período analisado, especialmente entre os últimos dois períodos, quando passaram a exercer maior pressão, em termos de preço, sobre o similar doméstico. No entanto, considerando o volume absoluto menos expressivo dessas importações em relação às importações das origens investigadas, entende-se que as importações das origens investigadas contribuíram de forma mais significativa para o dano observado, de modo que não se pode excluir o nexo de causalidade entre eles."
+
+7.5 Da conclusão sobre a causalidade
+
+859\. Para fins de determinação final desta investigação, considerando-se a análise dos fatores previstos no art. 32 do Decreto nº 8.058, de 2013, verificou-se que as importações das origens investigada a preços de dumping contribuíram significativamente para a ocorrência de dano à indústria doméstica constatados no item 6 deste documento.
+
+8 DAS OUTRAS MANIFESTAÇÕES
+
+860\. Em 17 de janeiro de 2025, a Ingatubos apresentou suas considerações sobre os temas elencados pela Aprodinox e Prakash que seriam abordados em audiência. Sobre o tema "Indicadores da indústria e elementos da caracterização do dano à indústria doméstica", a importadora pontuou que abordaria argumentos relativos: (i) aos "impactos negativos da medida antidumping"; e (ii) às "deficiências da indústria nacional". Ademais, a empresa asseverou que estaria inserida na comercialização, distribuição e importação de aços inoxidáveis, o que tem fortalecido suas operações. Indicou, ainda, que o livre comércio teria papel fundamental no fortalecimento econômico, gerando empregos, impostos e fomentando a produtividade em diversos setores.
+
+861\. Em 6 de fevereiro de 2025, a Ingatubos reduziu a termo seus argumentos apresentados durante a audiência. A importadora enfatizou que a implementação de medidas antidumping prejudicaria a economia nacional, pois os fabricantes brasileiros de aço inoxidável buscariam criar um monopólio, restringindo a concorrência e concentrando o mercado.
+
+862\. A empresa destacou que a indústria nacional não conseguiria atender à demanda de forma eficiente, e muitas vezes venderia diretamente ao consumidor final em condições mais favoráveis do que para distribuidores e revendedores, criando concorrência desleal. Desse modo, a importação seria uma alternativa mais eficiente, oferecendo melhores prazos e volumes de entrega. Argumentou, ademais, que a aplicação de medidas antidumping não seria justificada, pois não haveria indícios de prática de dumping nas importações para o Brasil, e a dinâmica do mercado não comprometeria a concorrência.
+
+863\. Em 10 de fevereiro de 2025, a Aprodinox protocolou a transcrição de seus argumentos apresentados durante a audiência. De acordo com a associação seria necessário ressaltar a existência de medidas antidumping aplicadas para importações do mesmo produto originárias da China, Malásia, Tailândia e Vietnã. Nesse sentido, a aplicação de medida antidumping definitiva para Índia e Taipé Chinês representaria o fechamento do mercado brasileiro de tubos para as importações das principais origens do produto.
+
+864\. Em 10 de fevereiro de 2025, a Aperam Tubos reduziu a termo seus argumentos apresentados durante a audiência. A peticionária, em relação às alegações da Ingatubos e da Aprodinox, asseverou que a preferência dos distribuidores e clientes pelo produto investigado se daria em função dos preços inferiores distorcidos pelo dumping. A Aperam Tubos categorizou como infundadas as alegações de que a indústria doméstica não prestigiaria certos clientes e não vendia o produto similar para certos distribuidores.
+
+865\. No tocante ao alegado que medidas antidumping fechariam o mercado brasileiro, servindo de proteção para a peticionária, foi reiterado que medidas antidumping seriam aplicadas apenas quando existir comprovação de dumping causador de dano e não implicariam em restrições quantitativas, mas visariam eliminar práticas desleais de comércio, garantindo a livre concorrência de forma justa.
+
+866\. Em manifestação apresentada em 19 de março de 2025, a Aperam Tubos destacou também apoia o livre comércio, mas sem práticas desleais como o dumping realizado por exportadores da Índia e Taipé Chinês. A medida antidumping visaria a corrigir distorções de preços causadas pelo dumping, não limitando as importações e nem criando monopólio e elevação de preços. A indústria doméstica pontuou que possuiria capacidade suficiente para abastecer o mercado brasileiro, além de indicar a existência de outros produtores nacionais concorrendo no mercado.
+
+867\. A Aperam Tubos, em manifestação final, diante de todos os fatos e elementos constantes nos autos, devidamente consolidados na Nota Técnica, solicitou o encerramento da investigação com a aplicação de direito antidumping definitivo às importações investigadas. A empresa sustentou que a aplicação da medida seria justificada pela comprovação da prática de dumping, da existência de dano à indústria doméstica e do nexo causal entre ambos.
+
+8.1 Dos comentários acerca das manifestações
+
+868\. Com relação aos argumentos atinentes à criação de um monopólio, fechamento do mercado brasileiro e incapacidade da indústria doméstica para atender o referido mercado, salienta-se que a aplicação de medida antidumping visa tão somente à neutralização de prática desleal de comércio, causadora de dano à referida indústria.
+
+869\. No mais, avaliações de impacto das referidas medidas fogem do escopo da presente investigação de defesa comercial.
+
+9 DO CÁLCULO DO DIREITO ANTIDUMPING DEFINITIVO
+
+870\. Nos termos do art. 78 do Decreto nº 8.058, de 2013, direito antidumping é o montante em dinheiro igual ou inferior à margem de dumping apurada. De acordo com os §§ 1º e 2º do referido artigo, o direito antidumping a ser aplicado será inferior à margem de dumping sempre que um montante inferior a essa margem for suficiente para eliminar o dano à indústria doméstica causado por importações objeto de dumping, não podendo exceder a margem de dumping apurada na investigação. Ademais, o inciso I do § 3º do referido artigo assenta que o direito antidumping a ser aplicado corresponderá necessariamente à margem de dumping aos produtores ou exportadores cuja margem de dumping foi apurada com base na melhor informação disponível.
+
+9.1 Da Índia
+
+871\. Os cálculos desenvolvidos indicaram a existência de dumping nas exportações de tubos de aço inoxidável para o Brasil, conforme evidenciado no item 4.3 deste documento, e demonstrado a seguir:
+
+|  | Margens de dumping finais |  |  |
+| --- | --- | --- | --- |
+| Produtor/Exportador | Margem absolutade dumping (USD/t) | Margem relativa de dumping (%) |  |
+| Sun Mark | 397,42 | 13,8% |  |
+| Prakash | 460,26 | 14,0% |  |
+| Fonte: tabelas anteriores. Elaboração: DECOM |  |  |  |
+
+872\. Para as empresas citadas no quadro anterior, considerando a atuação cooperativa em relação à investigação, cabe realizar o cálculo do menor direito, de modo a verificar se a margem de dumping apurada para cada uma delas seria inferior à subcotação observada nas suas exportações para o Brasil, em P5.
+
+873\. A subcotação é calculada com base na comparação entre o preço de venda da indústria doméstica no mercado interno brasileiro e o preço CIF das operações de exportação dos respectivos produtores/exportadores, internado no mercado brasileiro, líquidos de descontos e abatimentos. Ambos os preços foram ponderados por tipo de produto (CODIP), quantidade e categoria de cliente tendo por base as exportações para o Brasil em P5 das respectivas empresas.
+
+874\. Com relação ao preço da indústria doméstica, considerou-se o preço*ex fabrica*(líquido de devoluções, abatimentos, tributos e livre de despesas de frete e seguro interno), convertido em dólares estadunidenses, considerando a taxa de câmbio diária, disponibilizada pelo Banco Central do Brasil, relativa à data de cada operação de venda do produto similar nacional comercializado no mercado interno, nos moldes do estipulado pelo art. 23 do Regulamento Brasileiro. Cumpre mencionar que para os binômios de CODIP e categoria de cliente exportados que não puderam ser integralmente correlacionados com aqueles vendidos pela Aperam Tubos em P5, buscou-se, inicialmente o preço relativo ao CODIP sem considerar a categoria de cliente, na sequência, buscou-se o CODIP mais próximo considerando a mesma categoria de cliente.
+
+875\. Tendo em vista a situação de dano observada nos indicadores da indústria doméstica, como extenuado ao longo dos itens 6.1 e 7.1 deste documento, buscou-se ajustar os preços da indústria doméstica de modo a refletir um preço em um cenário de ausência de dano decorrente das importações a preços de dumping.
+
+876\. Conforme dados constantes deste documento, a indústria doméstica apresentou cenário consistente de prejuízo operacional ao longo do período de análise de dano. Observou-se ainda que outros fatores contribuíram para o referido dano, dentre os quais se destacam as importações de outras origens. Nesse contexto, buscou-se fator de ajuste que refletisse o contexto descrito. Optou-se, dessa forma, por utilizar o resultado bruto auferido em P4, momento em que as importações investigadas recuaram a níveis comparáveis a P1, tendo os indicadores financeiros da Aperam apresentado melhora em relação aos períodos anteriores. Pontua-se que a própria Aperam solicitou, em sede de manifestações finais, que o preço de não dano fosse apurado a partir da rentabilidade de P4, tendo em vista a demonstrada existência de depressão nos preços de P4 para P5, em decorrência da concorrência com as importações investigadas realizadas com prática de dumping.
+
+877\. Assim, de modo a se obter fator de ajuste do preço, partiu-se, da margem de lucro bruta de P4, considerando-se todas as vendas no mercado brasileiro do produto similar, a qual alcançou [CONFIDENCIAL] %.
+
+878\. Essa margem foi adicionada ao CPV relativo a P5 da presente investigação, ambos unitários, por meio da seguinte fórmula:
+
+\- Preço médio ajustado da indústria doméstica em P5 = (CPV de P5) ÷ (1 - margem bruta de P4 ([CONFIDENCIAL]%))
+
+879\. Obteve-se, dessa forma, preço médio ajustado de R$ [CONFIDENCIAL]/t. Dividindo-se o mencionado preço pelo preço médio de venda de P5 (R$ [RESTRITO] /t), obteve-se fator de ajuste equivalente a [CONFIDENCIAL]. Esse fator foi aplicado a todas as vendas do produto similar no mercado brasileiro da peticionária de forma a refletir o preço na ausência da prática desleal de comércio. Na sequência, como mencionado, cada transação foi convertida para dólares estadunidense considerando a taxa de câmbio diária, disponibilizada pelo Banco Central do Brasil, relativa à data de cada operação de venda do produto similar nacional comercializado no mercado interno, nos moldes do estipulado pelo art. 23 do Regulamento Brasileiro.
+
+880\. No cálculo dos preços de exportação internados apurados para fins de menor direito, nos termos dos §§ 1º e 2º do art. 78 do Decreto nº 8.058, de 2013, considerou-se o preço de exportação reconstruído a partir das revendas das exportadoras relacionadas (empresas do grupo Sun Mark e Prakash/Seth), ou ainda, do preço praticado pelo próprio produtor/exportador (exportações diretas da Sun Mark), a depender do caso.
+
+881\. Em seguida, foram adicionados os valores de frete e seguro internacional, AFRMM e imposto de importação, apurado a partir do valor efetivamente recolhido com base nos dados de importação da RFB e das despesas de internação, no percentual de 0,5% sobre o valor CIF (mesmo utilizado no cálculo da subcotação do produto objeto da investigação, constante do item 6.1.3.2 deste documento).
+
+882\. Cumpre informar que para se obter o preço CIF de determinadas transações FOB e CFR reportadas pelas empresas, foram adicionados, a depender do termo de comércio, os valores relativos ao frete e seguro internacionais com base em estimativas considerando os próprios dados apresentados pelas produtoras/exportadoras.
+
+883\. Os cálculos do preço de exportação internados são apresentados nos itens seguintes.
+
+9.1.1 Do produtor/exportador Sun Mark
+
+884\. Os cálculos realizados indicaram a existência de dumping nas exportações do grupo Sun Mark para o Brasil de USD 397,42/t.
+
+885\. Com os preços CIF internados ponderados da Sun Mark, obteve-se a respectiva subcotação média ponderada de USD 813,40/t, demonstrada no quadro a seguir:
+
+| Subcotação Sun Mark [CONFIDENCIAL] |  |
+| --- | --- |
+| Preço de Exportação Internado (USD/t) | [CONF.] |
+| Preço Ind. Doméstica [Ajustado e Ponderado] (USD/t) | [CONF.] |
+| Subcotação (USD/t) | 813,40 |
+| Subcotação***ad valorem***em relação ao preço CIF | [CONF.]% |
+| Fonte: RFB, Indústria doméstica e Sun Mark. Elaboração: DECOM. |  |
+
+9.1.2 Do produtor/exportador Prakash
+
+886\. Os cálculos realizados indicaram a existência de dumping nas exportações da Prakash para o Brasil de USD 460,26/t.
+
+887\. Com os preços CIF internados ponderados da Prakash, obteve-se a respectiva subcotação média ponderada de USD 521,79/t, demonstrada no quadro a seguir:
+
+| Subcotação Prakash [CONFIDENCIAL] |  |
+| --- | --- |
+| Preço de Exportação Internado (USD/t) | [CONF.] |
+| Preço Ind. Doméstica [Ajustado e Ponderado] (USD/t) | [CONF.] |
+| Subcotação (USD/t) | 521,79 |
+| Subcotação***ad valorem***em relação ao preço CIF | [CONF.]% |
+| Fonte: RFB, Indústria doméstica e Prakash. Elaboração: DECOM. |  |
+
+9.1.3 Dos montantes de direito calculados para a Índia
+
+888\. Considerando as informações dispostas nos itens 9.1.1 e 9.1.2 conclui-se que os valores apurados de subcotação para as empresas indianas cooperativas foram superiores às respectivas margens de dumping.
+
+889\. Cumpre relembrar que a determinação final de dumping referente à empresa Suncity, tanto em relação ao valor normal quanto ao preço de exportação, levou em consideração os fatos disponíveis no que tange aos elementos citados em atendimento ao estabelecido no § 3º do art. 50 do Decreto nº 8.058, de 2013, não cabendo, portanto, análise do menor direito. Assim, o direito antidumping apurado para a empresa teve por base a margem de dumping para fins início da Índia, conforme consta do item 4.1.1 deste documento, a qual foi equivalente à USD 1.207,06/t.
+
+890\. Em relação aos produtores/exportadores indianos não selecionados, o cálculo do direito antidumping foi realizado com base na margem de dumping apurada para o único produtor/exportador cooperante selecionado (Sun Mark), nos termos do §1º do art. 80 do Regulamento Brasileiro. Nesse sentido, o montante observado foi de USD 397,42/t.
+
+891\. Para os demais produtores/exportadores indianos, o direito antidumping apurado seguiu o que determina o art. 80, § 4º, do Decreto nº 8.058, de 2013, tendo se baseado na melhor informação disponível, qual seja, a margem de dumping para fins início apurada para a Índia, conforme consta do item 4.1.1 deste documento, a qual foi equivalente à USD 1.207,06/t.
+
+9.2 De Taipé Chinês
+
+892\. Tendo em vista a ausência de colaboração de produtores/exportadores de Taipé Chinês, a apuração da margem de dumping para fins de determinação final para a origem teve por base a melhor informação disponível nos autos, de modo que não cabe análise sobre eventual aplicação de menor direito.
+
+893\. O direito antidumping recomendado para os produtores/exportadores de Taipé Chinês, consoante o art. 179 do Decreto nº 8.058, de 2013, se baseou na melhor informação disponível, tendo em vista (i) que a resposta ao questionário apresentada pela empresa Froch, de Taipé Chinês, que havia sido selecionada, não foi juntada aos autos do processo em questão, conforme indicado no item 1.6.3 deste documento; e (ii) não terem sido recebidas respostas ao questionário pelos demais produtores/exportadores da referida origem.
+
+894\. Desse modo, aos produtores/exportadores de Taipé Chinês apurou-se direito antidumping equivalente a USD 1.258,77/t, conforme o item 4.3.2 deste documento.
+
+9.3 Das manifestações acerca do cálculo do direito antidumping definitivo
+
+895\. Em sede de manifestações finais, protocola em 5 de maio de 2025, a Sun Mark, com fundamento no art. 110 do Decreto nº 8.058, de 2013, requereu a aplicação do menor direito antidumping possível, desde que suficiente para eliminar o dano à indústria doméstica.
+
+896\. As empresas indianas Prakash e Seth apresentaram suas manifestações finais em 6 de maio de 2025. O documento, em referência ao que determina o § 1º do art. 78 do Decreto 8.058, de 2013, solicitaram que a autoridade investigadora utilizasse a margem de subcotação como parâmetro para definir qual é o menor direito suficiente para neutralizar o dano. Foi ressaltado, com relação às premissas que vem sendo adotadas pela autoridade investigadora para a construção de um preço da indústria doméstica sem dano, que seria "imperioso que seja reconsiderada a margem de lucro aplicada para o cálculo de um valor razoável em vez de considerar o pico de lucratividade observado pela indústria".
+
+897\. Quanto à aplicação da regra do menor direito, a Aperam Tubos, apontou que, tendo em vista a demonstrada existência de depressão nos preços de P4 para P5, em decorrência da concorrência com as importações investigadas realizadas com prática de dumping, seria fundamental que a análise de subcotação considere a reconstrução dos preços da indústria doméstica, considerando sua rentabilidade verificada em P4.
+
+9.4 Dos comentários do DECOM sobre as manifestações
+
+898\. Remete-se ao item 9.1 com a fundamentação da autoridade investigadora em relação ao cálculo do direito antidumping e apuração de eventual menor direito.
+
+10 DA RECOMENDAÇÃO
+
+899\. Verificada a existência de dumping nas exportações de tubos com costura, de aço inoxidável austenítico, dos graus 304 e 316, de seção circular, com diâmetro externo igual ou superior a 6 mm (1/4 polegada) e não superior a 2.032 mm (80 polegadas), com espessura igual ou superior a 0,40 mm e igual ou inferior a 12,70 mm, comumente classificados nos subitens 7306.40.00 e 7306.90.20 da Nomenclatura Comum do Mercosul (NCM), quando originários da Índia e de Taipé Chinês, e de dano à indústria doméstica brasileira decorrente de tal prática, propõe-se a aplicação de medida antidumping definitiva, por um período de até cinco anos, na forma de alíquotas específica, fixadas em dólares estadunidenses por tonelada, nos montantes a seguir especificados, apurados conforme item 9 deste documento.
+
+| País | Produtor/Exportador | Direito Antidumping Definitivo(USD/t) |
+| --- | --- | --- |
+| Índia | Suncity Metals and Tubes Pvt. Ltd. | 1.207,06 |
+| Índia | Sun Mark Stainless Pvt. Ltd. | 397,42 |
+| Índia | Sunrise Stainless Private Limited | 397,42 |
+| Índia | Prakash Steelage Limited | 460,26 |
+| Índia | Hall Offshore Svcs Inc. | 397,42 |
+| Índia | Hindustan Inox Ltd. | 397,42 |
+| Índia | Mlti Private Limited | 397,42 |
+| Índia | Moonlight Tube Industries | 397,42 |
+| Índia | Nascent Pipe & Tubes | 397,42 |
+| Índia | Shri Kanha Stainless Pvt Limited | 397,42 |
+| Índia | Venus Pipes and Tubes Pvt. Ltd. | 397,42 |
+| Índia | Demais empresas indianas | 1.207,06 |
+| Taipé Chinês | Todos os produtores/exportadores | 1.258,77 |

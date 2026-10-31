@@ -1,0 +1,142 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.690, DE 28 DE JULHO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "2690"
+data: 2020-07-28
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 29/07/2020, seção 1, p. 76"
+data_publicacao: 2020-07-29
+edicao: "144"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.690-de-28-de-julho-de-2020-269157125"
+sha256_html_fonte: 7bcd97f7492eef4f09e32d347b98fc4cc34fd9ae7d717415a43f2004a25d9415
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 2.690, DE 28 DE JULHO DE 2020
+
+RESOLUÇÃO-RE Nº 2.690, DE 28 DE JULHO DE 2020
+
+A Coordenadora de Autorização de Funcionamento de Empresas, no uso das atribuições que lhe confere o Art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º.** Conceder Autorização de Funcionamento para Empresas constantes no anexo desta Resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+PATRICIA AZEVEDO CHAGAS
+
+## ANEXO
+
+DALVAN LOPES BATISTA REPRESENTACAO DE PRODUTOS FARMACEUTICOS / 031.522.119/0001-58
+
+25351.508509/2020-07 / 1240472
+
+7056 - AFE/AE - Recurso Administrativo - DEMAIS EMPRESAS (exceto farmácia e drogaria) / 2277636207
+
+--------------------------------------
+
+TRANSPORTES MARVEL LTDA / 083.084.301/0001-78
+
+25351.582967/2020-08 / 3095170
+
+737 - AFE - CONCESSÃO - SANEANTES DOMISSANITÁRIOS - TRANSPORTADORA (SOMENTE MATRIZ) / 2009150201
+
+25351.583013/2020-12 / 4021964
+
+728 - AFE - CONCESSÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - TRANSPORTADORA (SOMENTE MATRIZ) / 2009204204
+
+--------------------------------------
+
+DENTAL ICONE COMERCIO DE PRODUTOS ODONTOLOGICOS LTDA / 037.169.883/0001-78
+
+25351.583020/2020-14 / 8203132
+
+860 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - VAREJISTA / 2009225201
+
+--------------------------------------
+
+ROCHA E ROCHA DISTRIBUIDORA DE PRODUTOS HOSPITALARES EIRELI / 036.850.210/0001-16
+
+25351.583038/2020-16 / 8203129
+
+856 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - DISTRIBUIDORA / 2009250206
+
+--------------------------------------
+
+ARTERIAL MED DISTRIBUIDORA DE MEDICAMENTOS EIRELI / 026.531.282/0001-47
+
+25351.103271/2020-19 / 8203194
+
+7056 - AFE/AE - Recurso Administrativo - DEMAIS EMPRESAS (exceto farmácia e drogaria) / 0886768209
+
+--------------------------------------
+
+LIBERTY PRODUTOS MEDICOS EIRELI / 034.660.594/0001-89
+
+25351.630963/2020-35 / 8203181
+
+859 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - IMPORTADORA / 2165209200
+
+--------------------------------------
+
+ELENARA ISABELA STERTZ / 035.587.372/0001-40
+
+25351.583071/2020-38 / 4021920
+
+721 - AFE - CONCESSÃO - COSMÉTICOS, PERFUMES E PRODUTOS PARA HIGIENE - INDÚSTRIA (SOMENTE MATRIZ) / 2009285204
+
+--------------------------------------
+
+GNEL PRODUTOS QUIMICOS LTDA ME / 013.712.454/0001-37
+
+25351.583055/2020-45 / 3095152
+
+712 - AFE - CONCESSÃO - SANEANTES - INDÚSTRIA (SOMENTE MATRIZ) / 2009268202
+
+--------------------------------------
+
+TUNGSTEEL DO BRASIL IMPORTADORA E EXPORTADORA LTDA / 035.321.031/0001-29
+
+25351.650748/2020-51 / 8203150
+
+859 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - IMPORTADORA / 2224253206
+
+--------------------------------------
+
+ECO SYSTEM IMPORTAÇÃO E EXPORTAÇÃO NA ÁREA DE HIGIENE LTDA / 029.803.057/0001-00
+
+25351.582980/2020-59 / 3095166
+
+735 - AFE - CONCESSÃO - SANEANTES DOMISSANITÁRIOS - IMPORTADORA (SOMENTE MATRIZ) / 2009179200
+
+--------------------------------------
+
+NATURAL OIL COSMETICOS LTDA. / 030.624.008/0001-90
+
+25351.607284/2020-62 / 4021978
+
+723 - AFE - CONCESSÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - DISTRIBUIDORA (SOMENTE MATRIZ) / 2089570202
+
+--------------------------------------
+
+AMPLIGENIX INDUSTRIA E COMERCIO DE PRODUTOS BIOTECNOLOGICOS LTDA / 008.698.724/0001-62
+
+25351.616451/2020-66 / 8203101
+
+861 - AFE - CONCESSÃO - PRODUTO PARA SAÚDE - FABRICANTE / 2118087209
+
+--------------------------------------
+
+NSB DISTRIBUIDORA E SERVICOS EIRELI / 026.657.071/0001-55
+
+25351.583033/2020-85 / 1240441
+
+702 - AFE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA (SOMENTE MATRIZ) / 2009244206
+
+--------------------------------------
+
+X ZHANG - ELETRONICOS / 013.989.407/0001-35
+
+25351.713511/2020-98 / 8203206
+
+860 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - VAREJISTA / 2417902206

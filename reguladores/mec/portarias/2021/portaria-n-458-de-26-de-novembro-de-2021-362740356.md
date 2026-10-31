@@ -1,0 +1,24 @@
+---
+titulo: "PORTARIA Nº 458, DE 26 DE NOVEMBRO DE 2021"
+orgao: "Ministério da Educação/Universidade Federal de Alagoas/Pró-Reitoria de Gestão de Pessoas e do Trabalho"
+tipo: "Portaria"
+numero: "458"
+data: 2021-11-26
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 29/11/2021, seção 1, p. 410"
+data_publicacao: 2021-11-29
+edicao: "223"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-458-de-26-de-novembro-de-2021-362740356"
+sha256_html_fonte: 305508d912ffd81c1e5e59dd7b7fdaba093ebaa95298d8af07fb9e07fddbf85d
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 458, DE 26 DE NOVEMBRO DE 2021
+
+PORTARIA Nº 458, DE 26 DE NOVEMBRO DE 2021
+
+O PRÓ-REITOR DE GESTÃO DE PESSOAS E DO TRABALHO DA UNIVERSIDADE FEDERAL DE ALAGOAS, no uso de suas atribuições legais contidas na portaria de delegação de competências GR/UFAL nº 646, de 23 de junho de 2020, publicada no Boletim de Pessoal nº 97, de 02/07/2020, considerando o artigo 9º, inciso III, da Lei nº 8.745/93 e tendo em vista o que consta no processo 23065.030308/2021-08, resolve:
+
+Declarar impossibilitada a celebração de contrato entre a UFAL e RIVALDO JOSÉ DE SOUZA SILVA, candidato/a habilitado/a em processo seletivo simplificado de provas e títulos na área de estudo Educação Musical, categoria de ampla concorrência, classe Auxiliar, em regime de 40 (quarenta) horas semanais de trabalho, que seria lotado no ICHCA/ETA para prestar serviços a esta Universidade como Professor(a) Substituto(a).
+
+WELLINGTON DA SILVA PEREIRA

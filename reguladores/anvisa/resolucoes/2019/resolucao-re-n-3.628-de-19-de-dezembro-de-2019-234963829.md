@@ -1,0 +1,178 @@
+---
+titulo: "RESOLUÇÃO - RE Nº 3.628, DE 19 DE DEZEMBRO DE 2019"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Terceira Diretoria/Gerência-Geral de Toxicologia"
+tipo: "Resolução"
+numero: "3628"
+data: 2019-12-19
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 23/12/2019, seção 1, p. 257"
+data_publicacao: 2019-12-23
+edicao: "247"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.628-de-19-de-dezembro-de-2019-234963829"
+sha256_html_fonte: 51de77e8ae00ad08fa0ba1902a63061b5546a5bc2d3f0f61689df4047dba5b05
+baixado_em: 2026-10-27
+---
+# RESOLUÇÃO - RE Nº 3.628, DE 19 DE DEZEMBRO DE 2019
+
+RESOLUÇÃO - RE Nº 3.628, DE 19 DE DEZEMBRO DE 2019
+
+O Gerente-Geral de Toxicologia, Substituto, no uso das atribuições que lhe confere o art. 149, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º** Aprovar os atos de avaliação toxicológica para fins de pós-registro de produtos agrotóxicos, componentes e afins, identificados no anexo, com o respectivo resultado da análise.
+
+**Art. 2º** A publicação do extrato desta avaliação de resíduos não exime a requerente do cumprimento das demais avaliações procedidas pelos órgãos responsáveis pelas áreas de agricultura e de meio ambiente, conforme legislação vigente no país, aplicável ao objeto do requerimento.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+CARLOS ALEXANDRE OLIVEIRA GOMES
+
+## ANEXO
+
+RAZÃO SOCIAL/CNPJ
+
+MARCA COMERCIAL
+
+NÚMERO DO PROCESSO
+
+PETIÇÃO(ÕES)/EXPEDIENTE(S)
+
+-----------------------------
+
+BRA DEFENSIVOS AGRÍCOLAS LTDA / 07.057.944/0001-44
+
+CLOROTALONIL TÉCNICO BRA
+
+25351.288205/2016-39
+
+5049 - AVALIAÇÃO TOXICOLÓGICA PARA ALTERAÇÃO DE FABRICANTE EM PRODUTO TÉCNICO, 0307529/19-0
+
+-----------------------------
+
+CROPCHEM LTDA / 03.625.679/0001-00
+
+MANTIS 400 WG
+
+25351.789641/2014-12
+
+5000 - AVALIAÇÃO TOXICOLÓGICA PARA INCLUSÃO DE CULTURAS, 0537521/19-5
+
+-----------------------------
+
+FMC QUÍMICA DO BRASIL LTDA. / 04.136.367/0001-98
+
+INDOXACARBE TÉCNICO 900
+
+25351.002060/2007-92
+
+5049 - AVALIAÇÃO TOXICOLÓGICA PARA ALTERAÇÃO DE FABRICANTE EM PRODUTO TÉCNICO, 2562760/16-9
+
+INDOXACARBE TÉCNICO 900
+
+25351.002060/2007-92
+
+5052 - AVALIAÇÃO TOXICOLÓGICA PARA ALTERAÇÃO DE COMPOSIÇÃO OU DO PROCESSO DE SÍNTESE DE PRODUTO TÉCNICO, 2348629/16-9
+
+-----------------------------
+
+IHARABRAS S.A INDÚSTRIAS QUÍMICAS / 61.142.550/0001-30
+
+FIRMEZA N
+
+25351.738877/2011-16
+
+5000 - AVALIAÇÃO TOXICOLÓGICA PARA INCLUSÃO DE CULTURAS, 0570316/19-6
+
+VIVIFUL SC
+
+25351.447021/2015-87
+
+5000 - AVALIAÇÃO TOXICOLÓGICA PARA INCLUSÃO DE CULTURAS, 0570313/19-1
+
+-----------------------------
+
+INDOFIL INDUSTRIES DO BRASIL LTDA / 24.386.081/0001-78
+
+TROIA
+
+25351.501069/2012-91
+
+5000 - AVALIAÇÃO TOXICOLÓGICA PARA INCLUSÃO DE CULTURAS, 0504047/19-6
+
+-----------------------------
+
+PROPHYTO COMÉRCIO E SERVIÇOS LTDA. / 07.118.820/0001-21
+
+SALERO
+
+25351.521073/2012-39
+
+5000 - AVALIAÇÃO TOXICOLÓGICA PARA INCLUSÃO DE CULTURAS, 0497391/19-5
+
+-----------------------------
+
+ISK BIOSCIENCES DO BRASIL DEFENSIVOS AGRÍCOLAS LTDA / 02.657.037/0001-12
+
+FOSTHIAZATE TÉCNICO ISK
+
+25351.133791/2009-36
+
+5049 - AVALIAÇÃO TOXICOLÓGICA PARA ALTERAÇÃO DE FABRICANTE EM PRODUTO TÉCNICO, 2308301/17-4
+
+-----------------------------
+
+NORTOX S/A / 75.263.400/0001-99
+
+2,4-D NORTOX
+
+25351.412311/2008-24
+
+5047 - AVALIAÇÃO TOXICOLÓGICA PARA ALTERAÇÃO DE MODALIDADE DE APLICAÇÃO, 0576688/19-5
+
+IMIDACLOPRID NORTOX
+
+25351.008852/2010-23
+
+5047 - AVALIAÇÃO TOXICOLÓGICA PARA ALTERAÇÃO DE MODALIDADE DE APLICAÇÃO, 0552681/19-7
+
+-----------------------------
+
+SABERO ORGANICS AMERICA LTDA / 04.016.649/0001-51
+
+MANCOZEB SABERO 800 WP
+
+25351.203653/2011-61
+
+5000 - AVALIAÇÃO TOXICOLÓGICA PARA INCLUSÃO DE CULTURAS, 0524604/19-1
+
+SABIZEB 800 WP
+
+25351.204291/2011-49
+
+5000 - AVALIAÇÃO TOXICOLÓGICA PARA INCLUSÃO DE CULTURAS, 0524609/19-1
+
+-----------------------------
+
+SUMITOMO CHEMICAL DO BRASIL REPRESENTACOES LTDA / 42.462.952/0001-77
+
+SUMYZIN 500 SC
+
+25351.689361/2010-97
+
+5000 - AVALIAÇÃO TOXICOLÓGICA PARA INCLUSÃO DE CULTURAS, 0517959/19-8
+
+SUMISOYA 500 SC
+
+25351.689368/2010-81
+
+5000 - AVALIAÇÃO TOXICOLÓGICA PARA INCLUSÃO DE CULTURAS, 0517963/19-9
+
+-----------------------------
+
+SYNGENTA PROTEÇÃO DE CULTIVOS LTDA / 60.744.463/0001-90
+
+TRIFLOXYSULFURON SODIUM TÉCNICO
+
+25351.025622/00-92
+
+5049 - AVALIAÇÃO TOXICOLÓGICA PARA ALTERAÇÃO DE FABRICANTE EM PRODUTO TÉCNICO, 1225027/17-9

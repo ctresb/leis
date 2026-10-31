@@ -1,0 +1,34 @@
+---
+titulo: "Ato Declaratório SRF nº 121, de 17 de agosto de 1993"
+orgao: "Secretaria da Receita Federal"
+tipo: "Ato Declaratório"
+numero: "121"
+data: "1993-08-17"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 25/08/1993, página 12499"
+data_publicacao: "1993-08-25"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/2703/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/2703/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "2703"
+sha256_texto: "bcb432323c637c287c918d3cdc332b6bd598c786c86cb174410114c8c12c8787"
+baixado_em: "2026-10-21"
+---
+# Ato Declaratório SRF nº 121, de 17 de agosto de 1993
+
+"Declara o enquadramento das bebidas no IPI."
+
+O SECRETÁRIO DA RECEITA FEDERAL EM EXERCÍCIO, no uso da delegação de competência conferida pela Portaria MF nº 678, de 22 de outubro de 1992,
+
+Declara que os produtos relacionados no anexo a este Ato Declaratório, para efeito de cálculo e pagamento do Imposto sobre Produtos Industrializados - IPI, de que tratam os arts. 1º da Lei nº 7.798, de 10 de julho de 1989, e 2º da Lei nº 8.133, de 27 de dezembro de 1990, passam a ser classificados conforme o enquadramento ora estabelecido, observado, no que for aplicável, o disposto na Portaria MF nº 139, de 19 de julho de 1989.
+
+OSIRES DE AZEVEDO LOPES FILHO
+
+A N E X O
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ LETRA CGC COD. TIPI MARCA COMERCIAL CAPAC \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ B 94.079.746/0001-86 2208.90.0600 CAIPIRINHA TAITI 300 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ E 59.373.597/0001-62 2205.10.0100 SUZANO 900 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ G 66.789.959/0001-66 2208.40.0200 BRANQUINHA 960 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ I 67.546.895/0001-35 2208.90.0599 CHICLETE C/BANANA 960 88.624.184/0001-01 2208.90.0599 KOMEMBERG 900 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 58.835.935/0001-78 2208.90.0400 DONAPOLI 970 59.373.597/0001-62 2208.90.0400 CHICLEBANA 900 K 59.373.597/0001-62 2208.90.0400 BOMBEIRINHO 900 59.373.597/0001-62 2208.90.0400 COKITO ZAPPONI 900 67.546.895/0001-35 2208.90.0400 CASEIRO DINALLE -Milho 720 67.546.895/0001-35 2208.90.0400 CASEIRO DINALLE -Chocolate 720 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ L 58.835.935/0001-78 2208.90.0201 DONAPOLI 970 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+<table>        <tbody>          <tr>            <td>              <div>                <div>                  <table>                    <tbody>                      <tr>                        <td>                          ____________________________________________________________                          <div>                            LETRA     CGC         COD. TIPI       MARCACOMERCIAL  CAPAC                          </div>                          <div>                            ____________________________________________________________                          </div>                          <div>                            B   94.079.746/0001-86  2208.90.0600  CAIPIRINHA TAITI  300                          </div>                          <div>                            ____________________________________________________________                          </div>                          <div>                            E   59.373.597/0001-62  2205.10.0100  SUZANO            900                          </div>                          <div>                            ____________________________________________________________                          </div>                          <div>                            G   66.789.959/0001-66  2208.40.0200  BRANQUINHA        960                          </div>                          <div>                            ____________________________________________________________                          </div>                          <div>                            I   67.546.895/0001-35  2208.90.0599  CHICLETE C/BANANA 960                          </div>                          <div>                                88.624.184/0001-01  2208.90.0599  KOMEMBERG         900                          </div>                          <div>                            _____________________________________________________________                          </div>                          <div>                                58.835.935/0001-78  2208.90.0400  DONAPOLI          970                          </div>                          <div>                                59.373.597/0001-62  2208.90.0400  CHICLEBANA        900                          </div>                          <div>                            K   59.373.597/0001-62  2208.90.0400  BOMBEIRINHO       900                          </div>                          <div>                                59.373.597/0001-62  2208.90.0400  COKITO ZAPPONI    900                          </div>                          <div>                                67.546.895/0001-35  2208.90.0400  CASEIRO DINALLE                          </div>                          <div>                                                                  -Milho            720                          </div>                          <div>                                67.546.895/0001-35  2208.90.0400  CASEIRO DINALLE                          </div>                          <div>                                                                  -Chocolate        720                          </div>                          <div>                            ____________________________________________________________                          </div>                          <div>                            L   58.835.935/0001-78  2208.90.0201  DONAPOLI          970                          </div>                          <div>                            _____________________________________________________________                          </div>                        </td>                      </tr>                    </tbody>                  </table>                </div>              </div>            </td>          </tr>        </tbody>      </table>

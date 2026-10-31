@@ -1,0 +1,78 @@
+---
+titulo: "PORTARIA Nº 189/DPC, DE 24 DE SETEMBRO DE 2025"
+orgao: "Ministério da Defesa/Comando da Marinha/Diretoria-Geral de Navegação/Diretoria de Portos e Costas"
+tipo: "Portaria"
+numero: "189"
+data: 2025-09-24
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 30/09/2025, seção 1, p. 106"
+data_publicacao: 2025-09-30
+edicao: "186"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-189/dpc-de-24-de-setembro-de-2025-659311925"
+baixado_em: 2026-10-16
+---
+# PORTARIA Nº 189/DPC, DE 24 DE SETEMBRO DE 2025
+
+PORTARIA Nº 189/DPC, DE 24 DE SETEMBRO DE 2025
+
+Suspende os Certificados, concedidos por endosso, emitidos em nome da Administração Marítima de Sint Maarten.
+
+O DIRETOR DE PORTOS E COSTAS, no uso de suas atribuições e com o fundamento no art. 4º, inciso I, alínea a da Lei nº 9.537/97; art. 45 da Lei nº 9.784/1999; art. 1.21, alínea a, inciso II da NORMAM-101/DPC; e art. 9º, §1º, inciso X, alínea a da Portaria MB/MD nº 37 de 21 de fevereiro de 2022, resolve:
+
+**Art. 1º** Instaurar o Processo Administrativo autuado sob o NUP 63012.005962/2025-01 e suspender, cautelarmente, os Certificados de Competência (Modelo DPC-1033) e Certificados de Proficiência (Modelo DPC-1034) abaixo relacionados, até o término do processo em lide, em virtude de fraudes nos certificados supostamente emitidos pela Administração de Sint Maarten, apontadas na Carta-Circular nº 5019/IMO:
+
+| CERTIFICADOS DE COMPETÊNCIA (MODELO DPC-1033) |  |
+| --- | --- |
+| NOME | Nº DO CERTIFICADO |
+| WEKSLEY CARDOSO DOS SANTOS | 332510094 |
+| ARNILDO LEITE DOS SANTOS | 332510100 |
+| FRANCISCO PEREIRA DE AGUIAR | 332510068 |
+| LUCIENIO SILVA DA CUNHA | 332510112 |
+| LUCIENIO SILVA DA CUNHA | 332510113 |
+| JACQUES DOUGLAS VELASQUES SILVA | 332510137 |
+| DOUGLAS DA COSTA SANT ANNA | 332510129 |
+| DOUGLAS DA COSTA SANT ANNA | 332510130 |
+| ALAN KARDEC MELO DA SILVA | 332510133 |
+| ALAN KARDEC MELO DA SILVA | 332510134 |
+| LUIZ FELIPE DE OLIVEIRA | 332510104 |
+| LUIZ FELIPE DE OLIVEIRA | 332510105 |
+| EDUARDO ANTUNES DOS SANTOS | 332510080 |
+| SIDENEI RAMOS PORTEL | 332510158 |
+| SIDENEI RAMOS PORTEL | 332510159 |
+| ALESSANDRO PEREIRA DA SILVA | 103303918 |
+| ALESSANDRO PEREIRA DA SILVA | 103303919 |
+| CLAUDINEI DA SILVA LOURENCO | 332510124 |
+| CLAUDINEI DA SILVA LOURENCO | 332510125 |
+| FRANKLIN MENDES FONTINELE | 332510101 |
+| WILLIAM RODRIGUES SANTOS JUNIOR | 103303861 |
+| MAYCON RIBEIRO | 332510114 |
+| MAYCON RIBEIRO | 332510115 |
+| KLEYSON DE MELLO SILVA | 332510152 |
+| ADAN FERNANDO DO MONTE DA COSTA | 332510116 |
+| ADAN FERNANDO DO MONTE DA COSTA | 332510118 |
+| LEANDRO BATISTA DA COSTA | 332510147 |
+| LEANDRO BATISTA DA COSTA | 332510148 |
+| ANDERSON LUIZ DA SILVA DOS SANTOS | 332510135 |
+
+| CERTIFICADOS DE PROFICIÊNCIA (MODELO DPC-1034) |  |
+| --- | --- |
+| NOME | Nº DO CERTIFICADO |
+| RAFAEL DE OLIVEIRA SÁ VIANA | 997-25-00694 |
+| JUAN GUSTAVO FERREIRA DO CARMO | 997-25-00739 |
+| MARCELO SIQUEIRA SANTOS | 997-25-00795 |
+| THIAGO SOUSA AQUINO | 997-25-00847 |
+| VALTER VALTENIR SAGAS | 997-25-00871 |
+| ANDRE DE AQUINO | 997-25-00880 |
+| LUCAS VICENTE ROCADO | 997-25-00886 |
+| ELVANDRO SERGIO BARBOZA PRATA | 997-25-00960 |
+| HIGOR ALVES PETRALHA | 997-25-01201 |
+| MARCOS AURELIO MARQUES DE ANDRADE | 997-25-01252 |
+| DAVID DIAS FERREIRA | 997-25-01283 |
+| EDIVAN RODRIGUES VIEIRA | 997-25-01347 |
+| FABIANO JOSE ALVES DA SILVA | 997-25-01424 |
+| GEAN CLEITON SILVA DO NASCIMENTO | 997-25-01460 |
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação em DOU.
+
+CARLOS ANDRÉ CORONHA MACEDO Vice-Almirante

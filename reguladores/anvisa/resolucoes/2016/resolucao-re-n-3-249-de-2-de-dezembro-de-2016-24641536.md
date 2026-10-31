@@ -1,0 +1,32 @@
+---
+titulo: "RESOLUÇÃO - RE Nº 3.249, DE 2 DE DEZEMBRO DE 2016(*)"
+orgao: "Ministério da Saúde/AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA/GERÊNCIA-GERAL DE MEDICAMENTOS E PRODUTOS BIOLÓGICOS"
+tipo: "Resolução"
+numero: "3249"
+data: 2016-12-02
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 05/12/2016, seção 1, p. 29"
+data_publicacao: 2016-12-05
+edicao: "232"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3-249-de-2-de-dezembro-de-2016-24641536"
+sha256_html_fonte: fdd3fa48fcdbf6ebf02fb403c30d6cb3c1b0a2171364f1d19aa7ff3f9ecc85c1
+baixado_em: 2026-10-28
+---
+# RESOLUÇÃO - RE Nº 3.249, DE 2 DE DEZEMBRO DE 2016(*)
+
+RESOLUÇÃO - RE Nº 3.249, DE 2 DE DEZEMBRO DE 2016(\*)
+
+A Gerente-Geral de Medicamentos e Produtos Biológicos nouso das atribuições que lhe foram conferidas pela Portaria nº 921, de15 de abril de 2016, aliado ao disposto no art. 54, I, § 1º da Resoluçãoda Diretoria Colegiada - RDC nº 61, de 3 de fevereiro de2016, resolve:
+
+**Art. 1º** Cancelar o registro sanitário de medicamentos e produtosbiológicos, ou de apresentações, conforme relação anexa;
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+PATRÍCIA FERRARI ANDREOTTI
+
+(\*) Esta Resolução e o anexo a que se refere serão publicados emsuplemento à presente edição.
+
+PATRÍCIA FERRARI ANDREOTTI
+
+Este conteúdo não substitui o publicado na versão certificada.

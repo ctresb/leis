@@ -1,0 +1,81 @@
+---
+titulo: "PORTARIA UPE-TERMINOS/CGIL-GAB/GAB-DEMIG/DEMIG/SENAJUS/MJSP Nº 202, DE 18 DE AGOSTO DE 2025"
+orgao: "Ministério da Justiça e Segurança Pública/Secretaria Nacional de Justiça/Departamento de Migrações/Coordenação-Geral de Imigração Laboral"
+tipo: "Portaria"
+numero: "202"
+data: 2025-08-18
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 19/08/2025, seção 1, p. 64"
+data_publicacao: 2025-08-19
+edicao: "156"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-upe-terminos/cgil-gab/gab-demig/demig/senajus/mjsp-n-202-de-18-de-agosto-de-2025-649119574"
+baixado_em: 2026-10-16
+---
+# PORTARIA UPE-TERMINOS/CGIL-GAB/GAB-DEMIG/DEMIG/SENAJUS/MJSP Nº 202, DE 18 DE AGOSTO DE 2025
+
+PORTARIA UPE-TERMINOS/CGIL-GAB/GAB-DEMIG/DEMIG/SENAJUS/MJSP Nº 202, DE 18 DE AGOSTO DE 2025
+
+A COORDENADORA-GERAL DE IMIGRAÇÃO LABORAL - SUBSTITUTA, no uso da competência delegada, nos termos do art. 2°, inciso I, da Portaria SENAJUS nº 432, de 17 de junho de 2019, publicada no Diário Oficial da União nº 118, de 21 de junho de 2019, Seção 1, página 38, resolve: DECRETAR a perda da autorização de residência, Processo SEI nº 08018.064852/2025-12, concedida ao imigrante SEONGCHAN JEON, RNM F256664F, nacional da COREIA DO SUL, nascido(a) em 20/09/1969, filho(a) de JAEHO JEON e de GONGOK KIM, com fundamento no inciso I, art. 135, do Decreto nº 9.199, de 20 de novembro de 2017, tendo em vista a cessação do fundamento que embasou a autorização de residência. Processo MigranteWeb nº 47039.000609/2020-67.
+
+SILVIA CRISTINA TAVARES DA SILVA
+
+PORTARIA UPE-TERMINOS/CGIL-GAB/GAB-DEMIG/DEMIG/SENAJUS/MJSP Nº 203,DE 18 DE AGOSTO DE 2025
+
+A COORDENADORA-GERAL DE IMIGRAÇÃO LABORAL - SUBSTITUTA, no uso da competência delegada, nos termos do art. 2°, inciso I, da Portaria SENAJUS nº 432, de 17 de junho de 2019, publicada no Diário Oficial da União nº 118, de 21 de junho de 2019, Seção 1, página 38, DETERMINA: a instauração do procedimento de perda da autorização de residência, Processo SEI nº 08018.067176/2025-21, concedida ao imigrante SHUICHI YOSHIKAWA, RNM F479706L, nacional do JAPÃO, nascido(a) em 09/01/1967, filho(a) de KENICHI YOSHIKAWA, com fundamento no inciso I, art. 135, do Decreto nº 9.199, de 20 de novembro de 2017, tendo em vista a cessação do fundamento que embasou a autorização de residência. Processo MigranteWeb nº 47039.016263/2021-08.
+
+SILVIA CRISTINA TAVARES DA SILVA
+
+PORTARIA DIMAA/CGIL-GAB/GAB-DEMIG/DEMIG/SENAJUS/MJSP Nº 1.011, DE 18 DE AGOSTO DE 2025
+
+A COORDENADORA-GERAL DE IMIGRAÇÃO LABORAL - SUBSTITUTA, no uso da competência delegada, nos termos do art. 2°, inciso I, da Portaria SENAJUS nº 432, de 17 de junho de 2019, publicada no Diário Oficial da União nº 118, de 21 de junho de 2019, Seção 1, página 38, e considerando o Despacho nº 484/2025/DIMAA/CGIL-GAB/Gab-DEMIG/DEMIG/SENAJUS, DETERMINA: a instauração do procedimento de perda da autorização de residência, Processo SEI nº 08018.060044/2025-78, concedida ao imigrante LUÍS PEDRO FLORINDO MARQUES, RNM V890442H, nacional de PORTUGAL, nascido(a) em 27/01/1972, filho(a) de MARIA DO CARMO CARRASQUEIRO FLORINDO, com fundamento no inciso I, art. 135, do Decreto nº 9.199, de 20 de novembro de 2017, tendo em vista a cessação do fundamento que embasou a autorização de residência. Processo MigranteWeb nº 08228.006238/2022-18.
+
+SILVIA CRISTINA TAVARES DA SILVA
+
+PORTARIA DIMAA/CGIL-GAB/GAB-DEMIG/DEMIG/SENAJUS/MJSP Nº 1.012, DE 18 DE AGOSTO DE 2025
+
+A COORDENADORA-GERAL DE IMIGRAÇÃO LABORAL - SUBSTITUTA, no uso da competência delegada, nos termos do art. 2°, inciso I, da Portaria SENAJUS nº 432, de 17 de junho de 2019, publicada no Diário Oficial da União nº 118, de 21 de junho de 2019, Seção 1, página 38, e considerando o Despacho nº 485/2025/DIMAA/CGIL-GAB/Gab-DEMIG/DEMIG/SENAJUS, DETERMINA: a instauração do procedimento de perda da autorização de residência, Processo SEI nº 08018.060038/2025-11, concedida à imigrante CAROL HENRI BOLL, RNM F636616A, nacional da HOLANDA, nascido(a) em 25/11/1944, filho(a) de JAKOBA VEURINK, com fundamento no inciso I, art. 135, do Decreto nº 9.199, de 20 de novembro de 2017, tendo em vista a cessação do fundamento que embasou a autorização de residência. Processo MigranteWeb nº 08228.005327/2022-39.
+
+SILVIA CRISTINA TAVARES DA SILVA
+
+PORTARIA DIMAA/CGIL-GAB/GAB-DEMIG/DEMIG/SENAJUS/MJSP Nº 1.013, DE 18 DE AGOSTO DE 2025
+
+A COORDENADORA-GERAL DE IMIGRAÇÃO LABORAL - SUBSTITUTA, no uso da competência delegada, nos termos do art. 2°, inciso I, da Portaria SENAJUS nº 432, de 17 de junho de 2019, publicada no Diário Oficial da União nº 118, de 21 de junho de 2019, Seção 1, página 38, resolve: DECRETAR a perda da autorização de residência, Processo SEI nº 08018.057116/2025-08, concedida ao imigrante ARTUR JOAQUIM SAMPAIO COUTINHO, RNM F686948T, nacional de PORTUGAL, nascido(a) em 02/07/1966, filho(a) de MARIA DE BELEM FERREIRA SAMPAIO, com fundamento no inciso I, art. 135, do Decreto nº 9.199, de 20 de novembro de 2017, tendo em vista a cessação do fundamento que embasou a autorização de residência. Processo MigranteWeb nº 08228.003531/2022-15.
+
+SILVIA CRISTINA TAVARES DA SILVA
+
+PORTARIA DIMAA/CGIL-GAB/GAB-DEMIG/DEMIG/SENAJUS/MJSP Nº 1.014, DE 18 DE AGOSTO DE 2025
+
+A COORDENADORA-GERAL DE IMIGRAÇÃO LABORAL - SUBSTITUTA, no uso da competência delegada, nos termos do art. 2°, inciso I, da Portaria SENAJUS nº 432, de 17 de junho de 2019, publicada no Diário Oficial da União nº 118, de 21 de junho de 2019, Seção 1, página 38, resolve: DECRETAR a perda da autorização de residência concedida ao imigrante TROND ROSBAK, RNM V868378F, nacional da NORUEGA, nascido(a) em 22/12/1952, filho(a) de TRYGVE ROSBAK, com fundamento no inciso III, art. 135, do Decreto nº 9.199, de 20 de novembro de 2017, tendo em vista a ausência do País por período superior a dois anos. Processo SEI nº 08513.000554/2025-03.
+
+SILVIA CRISTINA TAVARES DA SILVA
+
+PORTARIA DIMAA/CGIL-GAB/GAB-DEMIG/DEMIG/SENAJUS/MJSP Nº 1.015, DE 18 DE AGOSTO DE 2025
+
+A COORDENADORA-GERAL DE IMIGRAÇÃO LABORAL - SUBSTITUTA, no uso da competência delegada, nos termos do art. 2°, inciso I, da Portaria SENAJUS nº 432, de 17 de junho de 2019, publicada no Diário Oficial da União nº 118, de 21 de junho de 2019, Seção 1, página 38, resolve: DECRETAR a perda da autorização de residência concedida ao imigrante MARTIN CHEAH KOK CHOON, RNM V3557228, nacional da MALÁSIA, nascido(a) em 14/09/1966, filho(a) de CHEAH WAW CHOONG, com fundamento no inciso III, art. 135, do Decreto nº 9.199, de 20 de novembro de 2017, tendo em vista a ausência do País por período superior a dois anos. Processo SEI nº 08460.001819/2025-45.
+
+SILVIA CRISTINA TAVARES DA SILVA
+
+PORTARIA DIMAA/CGIL-GAB/GAB-DEMIG/DEMIG/SENAJUS/MJSP Nº 1.016, DE 18 DE AGOSTO DE 2025
+
+A COORDENADORA-GERAL DE IMIGRAÇÃO LABORAL - SUBSTITUTA, no uso da competência delegada, nos termos do art. 2°, inciso I, da Portaria SENAJUS nº 432, de 17 de junho de 2019, publicada no Diário Oficial da União nº 118, de 21 de junho de 2019, Seção 1, página 38, resolve: DECRETAR a perda da autorização de residência concedida à imigrante MARIA CRISTINA MARTINEZ SOTO DE SANTOS, RNM V057056U, nacional da ESPANHA, nascido(a) em 18/11/1960, filho(a) de GONZALO MARTINEZ FLOREZ, com fundamento no inciso III, art. 135, do Decreto nº 9.199, de 20 de novembro de 2017, tendo em vista a ausência do País por período superior a dois anos. Processo SEI nº 08704.000525/2025-96.
+
+SILVIA CRISTINA TAVARES DA SILVA
+
+PORTARIA DIMAA/CGIL-GAB/GAB-DEMIG/DEMIG/SENAJUS/MJSP Nº 1.017,DE 18 DE AGOSTO DE 2025
+
+A COORDENADORA-GERAL DE IMIGRAÇÃO LABORAL - SUBSTITUTA, no uso da competência delegada, nos termos do art. 2°, inciso I, da Portaria SENAJUS nº 432, de 17 de junho de 2019, publicada no Diário Oficial da União nº 118, de 21 de junho de 2019, Seção 1, página 38, resolve: DECRETAR a perda da autorização de residência concedida ao imigrante CESAR OCTAVIO PARRA PINO, RNM V145286M, nacional do CHILE, nascido(a) em 22/11/1955, filho(a) de JOSE PARRA PACHECO, com fundamento no inciso III, art. 135, do Decreto nº 9.199, de 20 de novembro de 2017, tendo em vista a ausência do País por período superior a dois anos. Processo SEI nº 08704.004085/2025-46.
+
+SILVIA CRISTINA TAVARES DA SILVA
+
+PORTARIA DIMAA/CGIL-GAB/GAB-DEMIG/DEMIG/SENAJUS/MJSP Nº 1.018, DE 18 DE AGOSTO DE 2025
+
+A COORDENADORA-GERAL DE IMIGRAÇÃO LABORAL - SUBSTITUTA, no uso da competência delegada, nos termos do art. 2°, inciso I, da Portaria SENAJUS nº 432, de 17 de junho de 2019, publicada no Diário Oficial da União nº 118, de 21 de junho de 2019, Seção 1, página 38, resolve: DECRETAR a perda da autorização de residência concedida ao imigrante HIROJI NAKATSURU, RNM V174334O, nacional do JAPÃO, nascido(a) em 19/08/1957, com fundamento no inciso III, art. 135, do Decreto nº 9.199, de 20 de novembro de 2017, tendo em vista a ausência do País por período superior a dois anos. Processo SEI nº 08704.004216/2025-95.
+
+SILVIA CRISTINA TAVARES DA SILVA
+
+PORTARIA DIMAA/CGIL-GAB/GAB-DEMIG/DEMIG/SENAJUS/MJSP Nº 1.019, DE 18 DE AGOSTO DE 2025
+
+A COORDENADORA-GERAL DE IMIGRAÇÃO LABORAL - SUBSTITUTA, no uso da competência delegada, nos termos do art. 2°, inciso I, da Portaria SENAJUS nº 432, de 17 de junho de 2019, publicada no Diário Oficial da União nº 118, de 21 de junho de 2019, Seção 1, página 38, DETERMINA: a instauração do procedimento de perda da autorização de residência concedida ao imigrante RONALD DEAN BROOKS, RNM V706565W, nacional dos ESTADOS UNIDOS, nascido(a) em 27/11/1945, com fundamento no inciso III, art. 135, do Decreto nº 9.199, de 20 de novembro de 2017, tendo em vista a ausência do País por período superior a dois anos. Processo SEI nº 08704.005614/2025-29.
+
+SILVIA CRISTINA TAVARES DA SILVA

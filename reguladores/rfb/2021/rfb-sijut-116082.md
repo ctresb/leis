@@ -1,0 +1,63 @@
+---
+titulo: "Ato Declaratório Executivo SRRF10 nº 10, de 11 de março de 2021"
+orgao: "Superintendência Regional da Receita Federal do Brasil 10ª Região Fiscal"
+tipo: "Ato Declaratório Executivo"
+numero: "10"
+data: "2021-03-11"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 19/03/2021, seção 1, página 53"
+data_publicacao: "2021-03-19"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/116082/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/116082/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "116082"
+sha256_texto: "8b2ac50d762019fa43fac87a325cd97f669c299cf84019ad7a3efb94a6308ebd"
+baixado_em: "2026-10-16"
+---
+# Ato Declaratório Executivo SRRF10 nº 10, de 11 de março de 2021
+
+Concede regime especial de substituição tributária do Imposto sobre Produtos Industrializados (IPI).
+
+O SUPERINTENDENTE DA RECEITA FEDERAL DO BRASIL DA 10ª REGIÃO FISCAL, no uso das atribuições que lhe conferem o inciso I do art. 359 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, tendo em vista o disposto no art. 3º da Instrução Normativa RFB nº 1.081, de 4 de novembro de 2010, e de acordo com os elementos constantes do processo nº 10265.291436/2020-01, resolve:
+
+**Art. 1º** Fica concedido o Regime Especial de Substituição Tributária do Imposto sobre Produtos Industrializados (IPI), de que trata a Instrução Normativa RFB nº 1.081, de 4 de novembro de 2010, sendo identificado na condição de contribuinte SUBSTITUTO o estabelecimento da empresa RANDON TRIEL HT IMPLEMENTOS RODOVIÁRIOS LTDA., inscrito no CNPJ sob nº 33.204.183/0001-16, e na condição de contribuinte SUBSTITUÍDO o estabelecimento da empresa INSTALADORA SÃO MARCOS LTDA. inscrito no CNPJ sob nº 88.624.242/0001-05.
+
+**Art. 2º** O regime especial aplica-se, exclusivamente, aos produtos abaixo relacionados, os quais serão remetidos com suspensão do IPI pelo contribuinte SUBSTITUÍDO ao contribuinte SUBSTITUTO.
+
+Art. 2º
+
+| Descrição Do Produto | Código/Tipi | Alíquota |
+| --- | --- | --- |
+| Box de carga 660X500X530MM média | 8708.99.90 | 5% |
+| Kit para-barro Randon (100000008412) 620X570 c/anti spray, c/fixadores P&A | 8716.90.90 | 5% |
+| Box de carga 660X500X500MM média | 8708.99.90 | 5% |
+| Saboneteira (6985) | 8708.99.90 | 5% |
+| Barrica água 26L plástico preto modelo Randon c/torneira, c/suporte plástico para caminhão | 3926.90.90 | 10% |
+
+**Parágrafo único.** O contribuinte SUBSTITUTO assume a condição de responsável tributário relativamente ao IPI devido nas operações realizadas com o contribuinte SUBSTITUÍDO.
+
+**Art. 3º** Na Nota Fiscal de saída do contribuinte SUBSTITUÍDO deverá constar a expressão "Saída com suspensão do IPI - ADE SRRF10 nº 10, de 11 de março de 2021, publicado no D.O.U de dd.mm.aaaa", onde "dd.mm.aaaa" corresponde à data da publicação deste ato no Diário Oficial da União.
+
+**§ 1º** Fica vedado o destaque do valor do imposto suspenso, devendo este constar da Nota Fiscal referida no caput apenas no campo "Informações Complementares".
+
+**§ 2º** O valor do IPI suspenso não poderá ser utilizado como crédito do imposto.
+
+**Art. 4º** Os produtos constantes do art. 2º serão recebidos pelo SUBSTITUTO com suspensão do IPI e utilizados para a industrialização ou revenda, no caso de substituto equiparado a industrial, dos produtos a seguir relacionados:
+
+Art. 4º
+
+| Descrição Do Produto | Código/Tipi | Alíquota |
+| --- | --- | --- |
+| Outros reboques e semirreboques, para transporte de mercadorias: "Cisternas" | 8716.31.00 | 0% |
+| Outros reboques e semirreboques, para transporte de mercadorias | 8716.39.00 | 0% |
+
+**Art. 5º** Este Ato Declaratório Executivo não convalida a classificação fiscal, bem como a correspondente alíquota, dos produtos mencionados nos arts. 2º e 4º.
+
+**Art. 6º** O regime especial de que trata este Ato Declaratório Executivo produzirá efeitos por um prazo de 3 (três) anos a partir da data de sua publicação no Diário Oficial da União, podendo a Secretaria Especial da Receita Federal do Brasil alterá-lo, de ofício ou a pedido, cancelá-lo, a pedido, ou, ainda, cassá-lo, nas hipóteses previstas no art. 10 da Instrução Normativa RFB nº 1.081, de 2010.
+
+**Art. 7º** Este Ato Declaratório Executivo entra em vigor na data de sua publicação no Diário Oficial da União.
+
+LUIZ BERNARDI

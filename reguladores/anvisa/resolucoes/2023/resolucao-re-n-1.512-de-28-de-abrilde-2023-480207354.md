@@ -1,0 +1,194 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 1.512, DE 28 DE ABRILDE 2023"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "1512"
+data: ""
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 02/05/2023, seção 1, p. 141"
+data_publicacao: 2023-05-02
+edicao: "82"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.512-de-28-de-abrilde-2023-480207354"
+sha256_html_fonte: e3cab0119c0bf0c30befb147994d54445cc07012201e558faf3579d0e808230d
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE Nº 1.512, DE 28 DE ABRILDE 2023
+
+RESOLUÇÃO-RE Nº 1.512, DE 28 DE ABRILDE 2023
+
+O Coordenador de Autorização de Funcionamento de Empresas, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Alterar a Autorização de Funcionamento das Empresas constantes no anexo desta Resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+PRETI & LIMA FARMACIA LTDA. / 20.300.128/0001-88
+
+25351.484055/2014-15 / 7268360
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 5053254225
+
+--------------------------------------
+
+G. T. GONCALVES & CIA LTDA / 26.941.540/0001-63
+
+25351.131015/2017-16 / 7505842
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0428047238
+
+--------------------------------------
+
+VESTE S.A. ESTILO / 49.669.856/0001-43
+
+25351.271562/2013-17 / 2068745
+
+724 - AFE - ALTERAÇÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - RAZÃO SOCIAL / 0427755239
+
+--------------------------------------
+
+FARMEDICON DISTRIBUIDORA DE MEDICAMENTOS LTDA / 34.129.443/0001-07
+
+25351.259107/2022-27 / 8246407
+
+829 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - RAZÃO SOCIAL / 0427630231
+
+--------------------------------------
+
+LM CASTRO LTDA / 27.908.044/0001-70
+
+25351.509106/2019-33 / 4013833
+
+751 - AFE - ALTERAÇÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - ENDEREÇO MATRIZ / 0392250233
+
+25351.509106/2019-33 / 4013833
+
+724 - AFE - ALTERAÇÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - RAZÃO SOCIAL / 4701294225
+
+--------------------------------------
+
+DENISE WEIRICH SANTANA LTDA / 15.900.640/0001-25
+
+25351.172619/2002-36 / 0002721
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0422385239
+
+--------------------------------------
+
+BIONEXT PRODUTOS BIOTECNOLOGICOS LTDA / 05.423.767/0001-47
+
+25351.206801/2005-41 / 8025512
+
+867 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 4925885227
+
+25351.206801/2005-41 / 8025512
+
+867 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 4925863223
+
+--------------------------------------
+
+LACERDA E TOLEDO PRODUTOS MEDICOS E HOSPITALARES LTDA / 25.019.831/0002-17
+
+25351.088923/2019-44 / 8178276
+
+867 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 5062415225
+
+--------------------------------------
+
+ESFERA MEDICAL LTDA / 29.455.608/0002-73
+
+25351.655871/2021-49 / 8226267
+
+7056 - AFE/AE - Recurso Administrativo / 0395343232
+
+--------------------------------------
+
+ENDOMASTER DISTRIBUIDORA COMERCIAL E IMPORTADORA LTDA / 47.912.507/0001-85
+
+25351.188533/2023-50 / 8267604
+
+867 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 0313983232
+
+--------------------------------------
+
+DROGARIA NOSSA FE LTDA / 33.523.183/0001-89
+
+25351.296316/2019-56 / 7655608
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0421321237
+
+--------------------------------------
+
+MÓVEIS ANDRADE - INDÚSTRIA E COMÉRCIO DE MÓVEIS HOSPITALARES LTDA / 04.910.323/0001-73
+
+25351.147858/2007-62 / 8038012
+
+867 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 0084675233
+
+--------------------------------------
+
+DROGARIA BOM PRECO MEDICAMENTOS LTDA / 15.178.182/0001-62
+
+25351.598761/2013-62 / 7031752
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0422092231
+
+--------------------------------------
+
+MÓVEIS ANDRADE - INDÚSTRIA E COMÉRCIO DE MÓVEIS HOSPITALARES LTDA / 04.910.323/0001-73
+
+25351.147858/2007-62 / 8038012
+
+866 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - ENDEREÇO / 0360012230
+
+--------------------------------------
+
+PH FARMACIA MAGISTRAL LTDA / 24.648.099/0001-09
+
+25351.241114/2014-62 / 7178510
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 0020309236
+
+--------------------------------------
+
+CRESCERFARMA LTDA / 08.663.039/0001-09
+
+25351.457485/2014-64 / 7257371
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0422538230
+
+--------------------------------------
+
+GERSON VIEIRA JUNIOR - DROGARIA / 31.358.263/0001-09
+
+25351.813626/2018-67 / 7626683
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0428678238
+
+--------------------------------------
+
+CAMARGO E NEIVA LTDA / 15.241.265/0001-59
+
+25351.552601/2022-68 / 4051503
+
+7170 - AFE - ALTERAÇÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 0038275236
+
+--------------------------------------
+
+PHARMA VIDA & SAUDE LTDA / 76.215.854/0001-57
+
+25351.627869/2013-70 / 7029581
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0427853231
+
+--------------------------------------
+
+FOREVER LIVING PRODUCTS BRASIL LTDA / 74.036.112/0001-39
+
+25000.015051/94-93 / 2019481
+
+751 - AFE - ALTERAÇÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - ENDEREÇO MATRIZ / 0084415231

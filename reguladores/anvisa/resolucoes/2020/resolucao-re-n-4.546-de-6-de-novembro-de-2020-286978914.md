@@ -1,0 +1,278 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 4.546, DE 6 DE NOVEMBRO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "4546"
+data: 2020-11-06
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 09/11/2020, seção 1, p. 86"
+data_publicacao: 2020-11-09
+edicao: "213"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.546-de-6-de-novembro-de-2020-286978914"
+sha256_html_fonte: f9061cc2422f225b24b1d7e57b26c353de426b017233d8c87ea04cdfbc4b091f
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 4.546, DE 6 DE NOVEMBRO DE 2020
+
+RESOLUÇÃO-RE Nº 4.546, DE 6 DE NOVEMBRO DE 2020
+
+O Coordenador de Autorização de Funcionamento de Empresas, Substituto, no uso das atribuições que lhe confere o art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º** Conceder Alteração de Autorização de Funcionamento para os estabelecimentos de Farmácias e Drogarias, em conformidade com o anexo desta Resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+FARMACIA MARANATA MAIS VIDA LTDA / 20.793.627/0001-54
+
+25351.658315/2014-03 / 7321485
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 3261617201
+
+25351.658315/2014-03 / 7321485
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3261647203
+
+--------------------------------------
+
+Farmacia Dose Extra Ltda / 73.358.947/0001-42
+
+25351.613058/2018-04 / 7607473
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3261645207
+
+--------------------------------------
+
+CAMPESTRE FARMA LTDA - EPP / 26.450.135/0001-42
+
+25351.043201/2017-07 / 7500940
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 3280544206
+
+--------------------------------------
+
+DROGARIA GONÇALVES & DUTRA LTDA ME / 14.532.211/0001-80
+
+25351.770035/2011-11 / 0820367
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3261643201
+
+--------------------------------------
+
+AROEIRAS FARMACIA E PERFUMARIA LTDA - ME / 08.769.514/0001-18
+
+25351.648380/2014-12 / 7324342
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 3280538201
+
+--------------------------------------
+
+AKACIA FARMACIA DE MANIPULACAO EIRELI / 40.230.666/0001-50
+
+25351.057096/2015-13 / 7367193
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3247390207
+
+--------------------------------------
+
+MIGUEL HENRIQUE ALVES LTDA / 21.466.031/0001-02
+
+25351.013787/2015-13 / 7367851
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3247388205
+
+--------------------------------------
+
+NEIRIBERTO DE CASTRO EPP / 06.164.731/0001-59
+
+25351.237022/2004-14 / 0418931
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3261635200
+
+--------------------------------------
+
+R. B. S MEDICAMENTOS LTDA / 17.490.463/0001-81
+
+25351.025962/2015-15 / 7362469
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 3261621200
+
+--------------------------------------
+
+farmacia borges ltda me / 12.292.275/0001-25
+
+25351.359927/2014-16 / 7311779
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 3261627209
+
+--------------------------------------
+
+ANNEFARMA FARMACIA LTDA - ME / 06.324.575/0001-46
+
+25351.651704/2013-19 / 7041898
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 3277312209
+
+--------------------------------------
+
+SANFARMA COMERCIO E SERVIÇOS FARMACEUTICOS EIRELI / 30.309.474/0001-80
+
+25351.570415/2018-24 / 7603758
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3247367202
+
+--------------------------------------
+
+S. P. O. DO NASCIMENTO E CIA LTDA / 37.565.146/0001-94
+
+25351.802195/2020-28 / 7741487
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 3261619208
+
+--------------------------------------
+
+O. DE CARVALHO DA SILVA / 35.804.587/0001-76
+
+25351.108283/2020-30 / 7709700
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 3261623206
+
+--------------------------------------
+
+DROGARIA E PERFUMARIA COSTA EIRELI / 20.934.634/0001-29
+
+25351.627841/2013-32 / 7029274
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 3261613209
+
+--------------------------------------
+
+PATRICIA MARCATTO BENETTON ME / 07.474.236/0002-90
+
+25351.287316/2012-34 / 0852518
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3261639202
+
+--------------------------------------
+
+EVA VILMA RODRIGUES BARRETO / 15.348.398/0001-29
+
+25351.692181/2014-41 / 7325672
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 3261631207
+
+--------------------------------------
+
+B T F DA SILVA DROGARIA EPP / 27.764.237/0001-03
+
+25351.877925/2020-44 / 7745228
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 3261629205
+
+--------------------------------------
+
+SOL E MAR FARMACIA E PERFUMARIA LTDA / 09.491.182/0001-15
+
+25351.152936/2010-46 / 0653459
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 3280536205
+
+--------------------------------------
+
+FARMACELLE PRODUTOS FARMACEUTICOS LTDA / 04.289.661/0001-30
+
+25351.832384/2016-49 / 7434008
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 3280542200
+
+--------------------------------------
+
+FARMACOLÂNDIA COMÉRCIO DE PRODUTOS FARMACÊUTICOS LTDA / 80.545.148/0001-40
+
+25351.678784/2013-50 / 7046756
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3247376201
+
+--------------------------------------
+
+AVENIDA CORUMBA Nº 141 AREA 6-B / 04.899.807/0001-69
+
+25351.184854/2002-51 / 0215151
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3247364208
+
+--------------------------------------
+
+DROGARIA M. O. QUEIROZ LTDA / 13.426.207/0001-74
+
+25351.093271/2014-55 / 7116541
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3247378208
+
+--------------------------------------
+
+FARMÁCIA IMPERATRIZ LTDA- ME / 22.673.552/0001-01
+
+25351.006476/2003-56 / 0264999
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3258231205
+
+--------------------------------------
+
+3R COMERCIO DE PRODUTOS FARMACEUTICOS LTDA-ME / 34.117.067/0001-22
+
+25351.684347/2019-61 / 7694503
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 3279697208
+
+--------------------------------------
+
+M & S COMERCIO DE MEDICAMENTOS LTDA - ME / 18.661.121/0001-40
+
+25351.498245/2017-62 / 7543404
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3261641204
+
+--------------------------------------
+
+SUAFARMA MEDICAMENTOS E PERFUMARIAS LTDA / 75.787.432/0001-93
+
+25351.438414/2014-62 / 7249328
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3261633203
+
+--------------------------------------
+
+MZ FARMA LTDA. / 38.100.022/0001-04
+
+25351.910225/2020-79 / 7747215
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 3261625202
+
+--------------------------------------
+
+DROGARIA MIX FARMA LTDA / 15.718.502/0001-20
+
+25351.640364/2014-81 / 7316762
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3247361203
+
+--------------------------------------
+
+JUNQUEIRA E JAROS LTDA. / 05.354.140/0001-81
+
+25351.008571/2003-94 / 0277636
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3247372209
+
+--------------------------------------
+
+Hilario Bezerra Monteiro / 12.771.984/0001-93
+
+25351.442602/2014-95 / 7331130
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3258807201

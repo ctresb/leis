@@ -1,0 +1,154 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.053, DE 14 DE AGOSTO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "3053"
+data: 2020-08-14
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 17/08/2020, seção 1, p. 90"
+data_publicacao: 2020-08-17
+edicao: "157"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.053-de-14-de-agosto-de-2020-272509604"
+sha256_html_fonte: be0b7e754b664623206d220b608be8e5c015993c604e3ae9d1e9e932bda983d6
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 3.053, DE 14 DE AGOSTO DE 2020
+
+RESOLUÇÃO-RE Nº 3.053, DE 14 DE AGOSTO DE 2020
+
+A Coordenadora de Autorização de Funcionamento de Empresas, no uso das atribuições que lhe confere o art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º.** Conceder Autorização de Funcionamento para Empresas constantes no anexo desta Resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+PATRICIA AZEVEDO CHAGAS
+
+## ANEXO
+
+CARRION SILVA COMERCIAL EIRELI / 011.453.808/0001-40
+
+25351.796561/2020-01 / 8204766
+
+856 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - DISTRIBUIDORA / 2667935209
+
+--------------------------------------
+
+FLEXTRONICS INTERNATIONAL TECNOLOGIA LTDA / 074.404.229/0001-28
+
+25351.682452/2020-07 / 8204770
+
+861 - AFE - CONCESSÃO - PRODUTO PARA SAÚDE - FABRICANTE / 2321286202
+
+--------------------------------------
+
+ASSOCIAÇÃO ADVENTISTA NORTE BRASILEIRA DE PREVENÇÃO E ASSISTENCIA A SAÚDE / 083.367.342/0001-71
+
+25351.801736/2020-09 / 8204809
+
+859 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - IMPORTADORA / 2682780202
+
+--------------------------------------
+
+LÓTUS COMÉRCIO DE PRODUTOS DE LIMPEZA LTDA / 035.238.193/0001-06
+
+25351.682459/2020-11 / 3095854
+
+740 - AFE - CONCESSÃO - SANEANTES DOMISSANITÁRIOS - DISTRIBUIDORA (SOMENTE MATRIZ) / 2321295201
+
+--------------------------------------
+
+NICOLAU SATURNINO VIEIRA / 034.413.040/0001-87
+
+25351.592156/2020-15 / 3095868
+
+7056 - AFE/AE - Recurso Administrativo - DEMAIS EMPRESAS (exceto farmácia e drogaria) / 2562024206
+
+--------------------------------------
+
+W2 COMERCIO, IMPORTACAO E EXPORTACAO DE MEDICAMENTOS LTDA / 019.079.667/0001-50
+
+25351.682400/2020-22 / 4022817
+
+723 - AFE - CONCESSÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - DISTRIBUIDORA (SOMENTE MATRIZ) / 2321209208
+
+--------------------------------------
+
+OTAVIO HART PRETTO ME / 010.475.042/0001-32
+
+25351.582950/2020-42 / 8204830
+
+7056 - AFE/AE - Recurso Administrativo - DEMAIS EMPRESAS (exceto farmácia e drogaria) / 2573129209
+
+--------------------------------------
+
+NEW UNION EXPORTAÇÃO E IMPORTAÇÃO LTDA / 023.286.868/0001-03
+
+25351.796313/2020-51 / 8204826
+
+859 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - IMPORTADORA / 2667665201
+
+--------------------------------------
+
+CARRION SILVA COMERCIAL EIRELI / 011.453.808/0001-40
+
+25351.796585/2020-51 / 3095841
+
+740 - AFE - CONCESSÃO - SANEANTES DOMISSANITÁRIOS - DISTRIBUIDORA (SOMENTE MATRIZ) / 2667960203
+
+--------------------------------------
+
+RD COMERCIO DE PRODUTOS FARMACEUTICOS EIRELI / 011.737.546/0001-46
+
+25351.682395/2020-58 / 3095885
+
+740 - AFE - CONCESSÃO - SANEANTES DOMISSANITÁRIOS - DISTRIBUIDORA (SOMENTE MATRIZ) / 2321197200
+
+--------------------------------------
+
+CARRION SILVA COMERCIAL EIRELI / 011.453.808/0001-40
+
+25351.796287/2020-61 / 1241420
+
+702 - AFE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA (SOMENTE MATRIZ) / 2667629205
+
+--------------------------------------
+
+ASSOCIAÇÃO ADVENTISTA NORTE BRASILEIRA / 083.367.342/0007-67
+
+25351.650802/2020-68 / 8204812
+
+859 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - IMPORTADORA / 2224352204
+
+--------------------------------------
+
+ESPIRITO BIRD MEDICAL IMPORTACAO LTDA / 037.078.764/0001-00
+
+25351.791216/2020-72 / 8204797
+
+859 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - IMPORTADORA / 2652656201
+
+--------------------------------------
+
+LÓTUS COMÉRCIO DE PRODUTOS DE LIMPEZA LTDA / 035.238.193/0001-06
+
+25351.682458/2020-76 / 4022791
+
+723 - AFE - CONCESSÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - DISTRIBUIDORA (SOMENTE MATRIZ) / 2321294205
+
+--------------------------------------
+
+ODILA CASA DOS ENFEITES LTDA / 080.140.106/0001-20
+
+25351.682401/2020-77 / 4022803
+
+723 - AFE - CONCESSÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - DISTRIBUIDORA (SOMENTE MATRIZ) / 2321214201
+
+--------------------------------------
+
+N J FABRICAÇÃO DE PRODUTOS DE LIMPEZA LTDA / 036.614.882/0001-22
+
+25351.682398/2020-91 / 3095871
+
+712 - AFE - CONCESSÃO - SANEANTES - INDÚSTRIA (SOMENTE MATRIZ) / 2321205202

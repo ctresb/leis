@@ -1,0 +1,170 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 1.817, DE 22 DE MAIO DE 2023"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "1817"
+data: 2023-05-22
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 23/05/2023, seção 1, p. 119"
+data_publicacao: 2023-05-23
+edicao: "97"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.817-de-22-de-maio-de-2023-484895289"
+sha256_html_fonte: 5ffbcfdd96b73ce35a7f6df0bdf10b8e9702b471228986c8031f8f22359f4b35
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE Nº 1.817, DE 22 DE MAIO DE 2023
+
+RESOLUÇÃO-RE Nº 1.817, DE 22 DE MAIO DE 2023
+
+O Coordenador de Autorização de Funcionamento de Empresas, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Alterar a Autorização de Funcionamento das Empresas constantes no anexo desta Resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+SGA PRODUTOS MEDICOS LTDA / 45.141.847/0001-24
+
+25351.234566/2022-06 / 8245771
+
+829 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - RAZÃO SOCIAL / 0276279239
+
+25351.234566/2022-06 / 8245771
+
+866 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - ENDEREÇO / 0276411234
+
+--------------------------------------
+
+GLT DISTRIBUIDORA HOSPITALAR LTDA / 09.460.388/0001-88
+
+25351.137342/2013-15 / 1095861
+
+70798 - AFE - ALTERAÇÃO - MEDICAMENTOS E/OU INSUMOS FARMACÊUTICOS - ENDEREÇO MATRIZ / 0274980231
+
+--------------------------------------
+
+DROGARIA POSSELANDIA LTDA / 04.708.925/0001-42
+
+25351.191787/2002-21 / 0034661
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0508108233
+
+--------------------------------------
+
+OCEANIC GREEN MARITIME SERVICES GROUP LTDA / 39.145.802/0001-25
+
+25351.271359/2022-24 / 8250704
+
+829 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - RAZÃO SOCIAL / 0508179238
+
+--------------------------------------
+
+ELADIO MORINI LTDA / 13.410.913/0001-28
+
+25351.749739/2011-25 / 0818610
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0508807239
+
+--------------------------------------
+
+INFINITY ENTERPRISE CORPORATION IM5 LTDA / 45.539.144/0001-59
+
+25351.211546/2023-30 / 8268903
+
+867 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 0387730231
+
+25351.211546/2023-30 / 8268903
+
+867 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 0387717234
+
+--------------------------------------
+
+SARA SALES DOS SANTOS LTDA / 21.853.608/0001-39
+
+25351.090467/2017-31 / 7502391
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0508175232
+
+--------------------------------------
+
+SPACE LOGISTICA INTEGRADA LTDA / 26.594.755/0001-55
+
+25351.168045/2019-40 / 4008241
+
+751 - AFE - ALTERAÇÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - ENDEREÇO MATRIZ / 0274939231
+
+--------------------------------------
+
+PEREIRA BRUNO PRODUTOS FARMACEUTICOS LTDA / 08.933.703/0001-84
+
+25351.415552/2007-44 / 0508977
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0508649234
+
+--------------------------------------
+
+VALENSS WELLNESS BRASIL LTDA / 47.184.203/0001-49
+
+25351.144822/2023-47 / 4054882
+
+7170 - AFE - ALTERAÇÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 0280736231
+
+--------------------------------------
+
+M S REVERS LTDA / 04.789.026/0001-11
+
+25351.264867/2013-65 / 0944202
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0508124239
+
+--------------------------------------
+
+O GOMES DA MATA LTDA / 41.988.865/0001-95
+
+25351.509023/2021-69 / 7809647
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0508998239
+
+--------------------------------------
+
+DROGARIA MEDI FARMA LTDA / 39.792.653/0001-96
+
+25351.000503/2021-69 / 7783358
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0508311233
+
+--------------------------------------
+
+DROGARIA USA FARMA MORADA DO VALE LTDA / 24.978.100/0001-55
+
+25351.520566/2016-70 / 7489925
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0508339235
+
+--------------------------------------
+
+DROGARIA GALHARDIA LTDA / 14.357.449/0001-16
+
+25351.622099/2013-79 / 7022094
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0508484235
+
+--------------------------------------
+
+TECHLIFE COMÉRCIO DE PRODUTOS MÉDICOS LTDA - ME / 16.724.157/0001-08
+
+25351.374182/2013-91 / 8096742
+
+866 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - ENDEREÇO / 0280219237
+
+--------------------------------------
+
+VIDARA DO BRASIL LTDA. / 72.923.113/0016-56
+
+25004.032546/96-27 / 1039592
+
+70800 - AFE - ALTERAÇÃO - MEDICAMENTOS E/OU INSUMOS FARMACÊUTICOS - RAZÃO SOCIAL / 0280601239

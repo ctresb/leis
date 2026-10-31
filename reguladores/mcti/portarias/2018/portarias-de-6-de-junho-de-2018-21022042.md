@@ -1,0 +1,28 @@
+---
+titulo: "PORTARIAS DE 6 DE JUNHO DE 2018"
+orgao: "Ministério da Ciência, Tecnologia, Inovações e Comunicações/Secretaria de Radiodifusão/Departamento de Radiodifusão Educativa, Comunitária e de Fiscalização"
+tipo: "Portaria"
+numero: ""
+data: ""
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 08/06/2018, seção 1, p. 124"
+data_publicacao: 2018-06-08
+edicao: "109"
+fonte: "https://www.in.gov.br/web/dou/-/portarias-de-6-de-junho-de-2018-21022042"
+sha256_html_fonte: deba65ef2c6e711c59b200ac5fb4a945464217367a6706835b0eecd1f3ac2a46
+baixado_em: 2026-10-27
+---
+# PORTARIAS DE 6 DE JUNHO DE 2018
+
+PORTARIAS DE 6 DE JUNHO DE 2018
+
+A DIRETORA DO DEPARTAMENTO DE RADIODIFUSÃO EDUCATIVA, COMUNITÁRIA E DE FISCALIZAÇÃO, no uso das atribuições que lhe confere o Anexo III, artigo 77, § 2º, X do Regimento Interno da Secretaria de Radiodifusão, aprovado pela Portaria MCTIC nº 1.729, de 31 de março de 2017, e tendo em vista o que consta nos processos abaixo, resolve:
+
+**Art. 1º** Aplicar às Entidades abaixo relacionadas a penalidade de multa.
+
+**Art.3º** Estas Portarias entram em vigor na data de suas publicações.
+
+<table><tr></tr><tr><td><p>N° do Processo</p></td><td><p>Entidade</p></td><td><p>Serviço</p></td><td><p>Município</p></td><td><p>UF</p></td><td><p>Sanção</p></td><td><p>Valor (R$)</p></td><td><p>Enquadramento Legal</p></td><td><p>Portaria</p></td><td><p>Embasamento da Portaria de Multa</p></td></tr><tr><td><p>53000.060508/2013</p></td><td><p>Associação De Assistência Ao Homem Do Campo</p></td><td><p>RADCOM</p></td><td><p>Caxias</p></td><td><p>MA</p></td><td><p>Multa</p></td><td><p>913,86</p></td><td><p>Art. 40, inciso XXIX do Decreto nº 2.615/1998.</p></td><td><p>Portaria DECEF n° 853, de 06/06/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53000.006177/2013</p></td><td><p>Associação Cultural De Morungaba</p></td><td><p>RADCOM</p></td><td><p>Morungaba</p></td><td><p>SP</p></td><td><p>Multa</p></td><td><p>913,86</p></td><td><p>Art. 40, inciso XXIX do Decreto nº 2.615/1998.</p></td><td><p>Portaria DECEF n° 855, de 06/06/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53000.043115/2013</p></td><td><p>Associação De Difusão Comunitária De Galante</p></td><td><p>RADCOM</p></td><td><p>Campina Grande</p></td><td><p>PB</p></td><td><p>Multa</p></td><td><p>1.827,73</p></td><td><p>Art. 40, inciso XXIX do Decreto nº 2.615/1998.</p></td><td><p>Portaria DECEF n° 856, de 06/06/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53000.015724/2013</p></td><td><p>Ssociação Cultural Beneficente El Shadday</p></td><td><p>RADCOM</p></td><td><p>Recife</p></td><td><p>PE</p></td><td><p>Multa</p></td><td><p>913,86</p></td><td><p>Art. 40, inciso XXIX do Decreto nº 2.615/1998</p></td><td><p>Portaria DECEF n° 857, de 06/06/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53000.073134/2013</p></td><td><p>Associação Cultural Educativa De Vicentinópolis</p></td><td><p>RADCOM</p></td><td><p>Vicentinópolis</p></td><td><p>GO</p></td><td><p>Multa</p></td><td><p>913,86</p></td><td><p>Art. 40, inciso XXIX do Decreto nº 2.615/1998</p></td><td><p>Portaria DECEF n° 859, de 06/06/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53000.028319/2013</p></td><td><p>Pantanal Som E Imagem Ltda</p></td><td><p>TV</p></td><td><p>Cuiabá</p></td><td><p>MT</p></td><td><p>Multa</p></td><td><p>16.632,30</p></td><td><p>Art. 62 da Lei n° 4.117/1962.</p></td><td><p>Portaria DECEF n° 860, de 06/06/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53000.049962/2013</p></td><td><p>Portugal Telecomunicações Ltda</p></td><td><p>FM</p></td><td><p>Faxinal dos Guedes</p></td><td><p>SC</p></td><td><p>Multa</p></td><td><p>7.676,45</p></td><td><p>Art. 62 da Lei n° 4.117/1962.</p></td><td><p>Portaria DECEF n° 868, de 06/06/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53000.073120/2013</p></td><td><p>Energia Fm De São José Dos Campos Ltda</p></td><td><p>FM</p></td><td><p>São José dos Campos</p></td><td><p>SP</p></td><td><p>Multa</p></td><td><p>20.150,67</p></td><td><p>Art. 62 da Lei n° 4.117/1962.</p></td><td><p>Portaria DECEF n° 869, de 06/06/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53000.049965/2013</p></td><td><p>Rádio Fronteira Ltda</p></td><td><p>OM</p></td><td><p>Fronteira</p></td><td><p>MG</p></td><td><p>Multa</p></td><td><p>9.595.56</p></td><td><p>Art. 62 da Lei n° 4.117/1962.</p></td><td><p>Portaria DECEF n° 870, de 06/06/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53000.060505/2013</p></td><td><p>Rádio Fm Vale Do Mearim Ltda</p></td><td><p>FM</p></td><td><p>Caxias</p></td><td><p>MA</p></td><td><p>Multa</p></td><td><p>17.911,71</p></td><td><p>Art. 62 da Lei n° 4.117/1962.</p></td><td><p>Portaria DECEF n° 873, de 06/06/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53000.015717/2013</p></td><td><p>Associação Comunitária De Comunicação Da Região Norte</p></td><td><p>RADCOM</p></td><td><p>Belo Horizonte</p></td><td><p>MG</p></td><td><p>Multa</p></td><td><p>913,86</p></td><td><p>Art. 40, inciso XXIX do Decreto nº 2.615/1998.</p></td><td><p>Portaria DECEF n° 880, de 06/06/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr></table>
+
+INEZ JOFFILY FRANÇA

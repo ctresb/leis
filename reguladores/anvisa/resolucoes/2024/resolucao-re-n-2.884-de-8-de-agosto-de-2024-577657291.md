@@ -1,0 +1,854 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.884, DE 8 DE AGOSTO DE 2024"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/3ª Diretoria/Gerência de Produtos de Higiene, Perfumes, Cosméticos e Saneantes"
+tipo: "Resolução"
+numero: "2884"
+data: 2024-08-08
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 12/08/2024, seção 1, p. 99"
+data_publicacao: 2024-08-12
+edicao: "154"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.884-de-8-de-agosto-de-2024-577657291"
+sha256_html_fonte: 7483f012b5b9cca982aee13f0fc71faeaa37e36c1efc2775610a9d1f7584cf08
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE Nº 2.884, DE 8 DE AGOSTO DE 2024
+
+RESOLUÇÃO-RE Nº 2.884, DE 8 DE AGOSTO DE 2024
+
+O GERENTE DE PRODUTOS DE HIGIENE, PERFUMES, COSMÉTICOS E SANEANTES DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 129, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Deferir os registros e as petições dos produtos saneantes, conforme relação anexa.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+RODRIGO JOSÉ VIANA OTTONI
+
+## ANEXO
+
+STAR FLASH IND E COM DE PRODUTOS QUIMICOS LTDA / 65.895.484/0001-20
+
+FLASH CLOR FLORAL- CLORO GEL
+
+25351.213392/2024-00 / 342300007
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 0532860241
+
+--------------------------------------
+
+American Nutrients do Brasil Indústria e Comércio Ltda. / 08.998.348/0001-21
+
+ECOTREX
+
+25351.474207/2015-01 / 355220002
+
+389 - REG. SANEANTES - Alteração de Rotulagem de Produto / 0447308246
+
+--------------------------------------
+
+SAUBER QUIMICA - INDUSTRIA E COMERCIO DE PRODUTOS DE LIMPEZA LTDA / 12.157.539/0001-38
+
+LIMPADOR DESINFETANTE PARA USO GERAL CLEAN ALLE
+
+25351.080281/2024-01 / 347610016
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 0273750241
+
+--------------------------------------
+
+American Nutrients do Brasil Indústria e Comércio Ltda. / 08.998.348/0001-21
+
+ECOTREX
+
+25351.474207/2015-01 / 355220002
+
+389 - REG. SANEANTES - Alteração de Rotulagem de Produto / 0482152249
+
+--------------------------------------
+
+QUIMICA LOURENCI - LTDA / 12.217.749/0001-74
+
+STRONG TA 600
+
+25351.130652/2024-02 / 383680028
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 0367135248
+
+--------------------------------------
+
+INDUSTRIA E COMÉRCIO DE PRODUTOS QUÍMICOS TANGARÁ LTDA / 03.242.201/0001-93
+
+ÁLCOOL FLOP'S 46,2° INPM COM BACTERICIDA, MATA 99,9% DAS BACTÉRIAS
+
+25351.052685/2024-04 / 341360009
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 0222720247
+
+--------------------------------------
+
+MUSTANG PLURON QUÍMICA LTDA / 47.078.704/0001-40
+
+PLURON 418 A
+
+25351.042922/2017-08 / 305463159
+
+389 - REG. SANEANTES - Alteração de Rotulagem de Produto / 0428150241
+
+--------------------------------------
+
+SEVEN GEL INDÚSTRIA E COMÉRCIO LTDA - EPP / 03.365.708/0001-34
+
+SEVEN LUMIN INDUSTRIAL
+
+25351.832389/2023-09 / 323310122
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 1398009237
+
+--------------------------------------
+
+RBM INDUSTRIA E COMERCIO DE PRODUTOS DE LIMPEZA LTDA / 90.357.773/0001-12
+
+HIPERGRAX 50 RBM
+
+25351.172630/2024-10 / 317990007
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 0444941240
+
+--------------------------------------
+
+INTERFINA INDUSTRIA QUIMICA LTDA / 12.846.660/0001-77
+
+LETALREX SF
+
+25351.733685/2023-10 / 356850051
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 1205916237
+
+--------------------------------------
+
+DISTRIBUIDORA MONTENEGRO AÇÚCAR, ÁLCOOL E CEREAIS LTDA / 29.121.720/0001-97
+
+ÁLCOOL MONTENEGRO 70º INPM
+
+25351.500200/2006-11 / 304240006
+
+389 - REG. SANEANTES - Alteração de Rotulagem de Produto / 0638317240
+
+--------------------------------------
+
+Terceiriza Brasil Ltda / 23.218.488/0001-23
+
+BLUEMILK BM 40
+
+25351.338457/2024-11 / 330990001
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 0757549241
+
+--------------------------------------
+
+BIOSAN INDÚSTRIA E COMÉRCIO LTDA / 68.219.435/0001-65
+
+LA-23
+
+25351.188336/2024-11 / 313990039
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 0472573241
+
+--------------------------------------
+
+MUSTANG PLURON QUÍMICA LTDA / 47.078.704/0001-40
+
+PLURON 428 A4
+
+25351.134239/2012-12 / 305463110
+
+389 - REG. SANEANTES - Alteração de Rotulagem de Produto / 0408522241
+
+--------------------------------------
+
+RECKITT BENCKISER (BRASIL) LTDA / 59.557.124/0001-15
+
+PRO VEJA MULTIUSO
+
+25351.790266/2021-13 / 302271030
+
+389 - REG. SANEANTES - Alteração de Rotulagem de Produto / 0567596249
+
+330 - REG. SANEANTES - Modificação de Fórmula de Produto / 0601866240
+
+--------------------------------------
+
+SEVEN GEL INDÚSTRIA E COMÉRCIO LTDA - EPP / 03.365.708/0001-34
+
+SEVEN QUATER FIVE
+
+25351.832806/2023-13 / 323310123
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 1398469238
+
+--------------------------------------
+
+ECO QUÍMICA INDÚSTRIA HIGIENISTA LTDA / 72.688.484/0001-14
+
+AQUA BLOND ALGICIDA SEM COBRE 2 EM 1
+
+25351.212848/2024-14 / 325530057
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 0531678245
+
+--------------------------------------
+
+BETTER CLEANER COMERCIO DE PRODUTOS QUIMICOS LTDA / 38.447.087/0001-12
+
+BETTER CLOR
+
+25351.961875/2024-14 / 321640004
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 0125792247
+
+--------------------------------------
+
+MAXBRIO INDÚSTRIA E COMÉRCIO DE PRODUTOS DE LIMPEZA LTDA-ME / 10.470.936/0001-30
+
+ALCALINO CLORADO MAXBRIO
+
+25351.264337/2012-15 / 348080006
+
+330 - REG. SANEANTES - Modificação de Fórmula de Produto / 1133548237
+
+--------------------------------------
+
+LIMA & PERGHER INDÚSTRIA E COMÉRCIO S/A / 22.685.341/0001-80
+
+START DESENGRAXE F
+
+25351.601524/2015-15 / 312820032
+
+330 - REG. SANEANTES - Modificação de Fórmula de Produto / 1435321235
+
+--------------------------------------
+
+OXGLI INDÚSTRIA E COMERCIO LTDA - ME / 23.858.094/0001-30
+
+CLORO OXGLI
+
+25351.325888/2024-17 / 368320005
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 0735143242
+
+--------------------------------------
+
+GOEDERT LTDA / 79.846.465/0001-18
+
+UPPRO EXPERT DESINCRUSTRANTE ALCALINO CONCENTRADO
+
+25351.547034/2023-17 / 341540003
+
+390 - REG. SANEANTES - Mudança de Nome de Produto / 0734500246
+
+--------------------------------------
+
+SALMIX INDUSTRIA E COMÉRCIO LTDA. / 02.801.279/0001-38
+
+RODEN VL BLOCO EXTRUSADO
+
+25351.002019/2024-17 / 358730014
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 0136353240
+
+--------------------------------------
+
+RISCEK INDUSTRIA E COMERCIO LTDA / 04.331.432/0001-36
+
+DICLOR RICEK 12%
+
+25351.338286/2024-20 / 325520018
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 0757366244
+
+--------------------------------------
+
+BOLTZ INDUSTRIA E COMÉRCIO DE PRODUTOS QUÍMICOS LTDA - ME / 17.305.035/0001-31
+
+BOLTZ ÁGUA SANITÁRIA
+
+25351.552518/2017-21 / 354020010
+
+392 - REG. SANEANTES - Novo Prazo de Validade de Produto / 0577990241
+
+--------------------------------------
+
+MASTERLIMP FABRICACAO DE PRODUTOS DE LIMPEZA LTDA - ME / 17.426.603/0001-52
+
+D.100 DESINCRUSTANTE ALCALINO SUPER CONCENTRADO MASTERLIMP
+
+25351.329337/2024-22 / 357300018
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 0740099248
+
+--------------------------------------
+
+QUIMICA LOURENCI - LTDA / 12.217.749/0001-74
+
+STRONG TA 900
+
+25351.056275/2024-24 / 383680027
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 0229444245
+
+--------------------------------------
+
+BIOCLEAN - COMÉRCIO E INDÚSTRIA DE PRODUTOS DE LIMPEZA LTDA / 09.228.004/0001-04
+
+PÓS OBRA - BIOCLEAN
+
+25351.233538/2024-25 / 341860030
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 0566818248
+
+--------------------------------------
+
+GOEDERT LTDA / 79.846.465/0001-18
+
+UPPRO EXPERT UP SANIT
+
+25351.547062/2023-26 / 341540004
+
+390 - REG. SANEANTES - Mudança de Nome de Produto / 0734957246
+
+--------------------------------------
+
+MP INDUSTRIA E COMERCIO LTDA / 45.854.434/0001-97
+
+MPD-H
+
+25351.929979/2024-26 / 327260002
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 0071207244
+
+--------------------------------------
+
+MEDEIROS DOMISSANITARIO LTDA / 40.450.633/0001-16
+
+HIPOCLORITO DE SÓDIO 4% P/P TOP 10
+
+25351.722335/2023-28 / 325410004
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 1186485230
+
+--------------------------------------
+
+LOWEST INDUSTRIA QUIMICA LTDA - EPP / 18.562.909/0001-07
+
+DESINCRUSTANTE A BASE DE HIPOCLORITO DE SÓDIO LOWEST
+
+25351.087098/2024-28 / 361880006
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 0285939246
+
+--------------------------------------
+
+BIOCHEMICAL PRODUTOS QUIMICOS LTDA ME / 01.815.686/0001-31
+
+POLICHEM
+
+25351.608164/2010-28 / 325930037
+
+392 - REG. SANEANTES - Novo Prazo de Validade de Produto / 0065475241
+
+--------------------------------------
+
+INDUSTRIA E COMÉRCIO DE PRODUTOS QUÍMICOS TANGARÁ LTDA / 03.242.201/0001-93
+
+ÁLCOOL EM GEL FLOP'S 70º INPM
+
+25351.083801/2024-29 / 341360010
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 0280109245
+
+--------------------------------------
+
+RECKITT BENCKISER (BRASIL) LTDA / 59.557.124/0001-15
+
+VEJA GOLD MULTIUSO
+
+25351.355739/2021-30 / 302271031
+
+389 - REG. SANEANTES - Alteração de Rotulagem de Produto / 0567309240
+
+--------------------------------------
+
+CADILLAC IMPORTAÇÃO E EXPORTAÇÃO INDÚSTRIA E COMÉRCIO DE PRODUTOS AUTOMOTIVOS LTDA - ME / 07.598.316/0001-76
+
+EXTRATCAR LIMPADOR SANITIZANTE DE TECIDOS CADILLAC
+
+25351.411035/2019-30 / 333590006
+
+3782 - REG. SANEANTES - Retificação de Publicação de Registro / 0374816247
+
+--------------------------------------
+
+RECKITT BENCKISER (BRASIL) LTDA / 59.557.124/0001-15
+
+VEJA GOLD MULTIUSO
+
+25351.355739/2021-30 / 302271031
+
+330 - REG. SANEANTES - Modificação de Fórmula de Produto / 0601248244
+
+--------------------------------------
+
+ELDOURADO INDÚSTRIA E COMÉRCIO ATACADISTA LTDA / 74.154.113/0001-88
+
+LIMPA ALUMÍNIO PLUS PROPREMIUM
+
+25351.130461/2024-32 / 324330007
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 0366887246
+
+--------------------------------------
+
+BURN INDÚSTRIA E COMÉRCIO LTDA / 11.636.336/0001-61
+
+DESINFETANTE ODD
+
+25351.625101/2023-33 / 353990003
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 1011236231
+
+--------------------------------------
+
+D. SUMOCOSKI - LTDA / 25.334.340/0001-80
+
+ALVEJANTE CLORO GEL LIDA
+
+25351.721428/2023-35 / 309070003
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 1185504231
+
+--------------------------------------
+
+BIOCLEAN - COMÉRCIO E INDÚSTRIA DE PRODUTOS DE LIMPEZA LTDA / 09.228.004/0001-04
+
+PROLIQUIM CLORADO XP PLUS
+
+25351.233536/2024-36 / 341860029
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 0566816245
+
+--------------------------------------
+
+CHRISTEYNS BRASIL - PRODUTOS QUIMICOS LTDA / 13.707.444/0002-94
+
+PERACID FORTE
+
+25351.537305/2022-37 / 350980045
+
+392 - REG. SANEANTES - Novo Prazo de Validade de Produto / 1341763234
+
+--------------------------------------
+
+SANTA MONICA PRODUTOS QUIMICOS CATANDUVA LTDA. / 69.300.028/0001-40
+
+SM CONCENTRADO SANTA
+
+25351.833249/2023-40 / 318630015
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 1398958239
+
+--------------------------------------
+
+INFINITY CHEMICAL INDUSTRIA E COMERCIO DE PRODUTOS QUIMICOS LTDA / 33.865.554/0001-00
+
+HARUS SANITIZER FOOD
+
+25351.263716/2024-42 / 393810030
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 0622515241
+
+--------------------------------------
+
+RAWELL QUÍMICA LTDA / 08.400.893/0001-74
+
+REPIK
+
+25351.126357/2024-43 / 335540045
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 0358714249
+
+--------------------------------------
+
+EBANO PRODUTOS DE LIMPEZA LTDA / 43.263.517/0001-86
+
+ÁGUA SANITÁRIA ÉBANO
+
+25351.318218/2024-44 / 324560010
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 0720875242
+
+--------------------------------------
+
+BRILHO NATURAL- INDUSTRIA E COMÉRCIO DE SANEANTES LTDA / 17.302.964/0001-97
+
+ÁGUA SANITÁRIA BRILHO NATURAL
+
+25351.284761/2017-45 / 361280001
+
+389 - REG. SANEANTES - Alteração de Rotulagem de Produto / 0745343244
+
+--------------------------------------
+
+PALTERM INDÚSTRIA E COMÉRCIO LTDA. / 72.559.297/0001-30
+
+DESODORIZANTE PARA CALÇADOS ODOR FREE
+
+25351.657264/2008-46 / 327510004
+
+389 - REG. SANEANTES - Alteração de Rotulagem de Produto / 0490194249
+
+--------------------------------------
+
+GOEDERT LTDA / 79.846.465/0001-18
+
+UPPRO EXPERT LIMPA PEDRAS E PÓS-OBRA CONCENTRADO
+
+25351.546971/2023-47 / 341540001
+
+390 - REG. SANEANTES - Mudança de Nome de Produto / 0734954247
+
+--------------------------------------
+
+LUPO INDUSTRIA E COMERCIO PRODUTOS QUIMICOS LTDA / 18.361.831/0001-54
+
+DESINFETANTE LUPO (MARINER)
+
+25351.325794/2024-48 / 324640009
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 0735044244
+
+--------------------------------------
+
+Terceiriza Brasil Ltda / 23.218.488/0001-23
+
+Eurolatte Oxy Latte
+
+25351.338726/2024-49 / 330990002
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 0757836241
+
+--------------------------------------
+
+CAMPO LARGO IND DE PRODUTOS DE LIMPEZA E HIGIENE LTDA / 16.707.658/0001-78
+
+DETERGENTE CLORADO TROPPEL
+
+25351.536671/2023-50 / 370150004
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 0866481231
+
+--------------------------------------
+
+REAÇÃO TÉCNICA INDÚSTRIA E COMÉRCIO LTDA / 05.243.920/0001-54
+
+TEC SPEEL PEROX
+
+25351.338795/2024-52 / 338620009
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 0757913245
+
+--------------------------------------
+
+COMERCIAL DE BOMBAS E MOTORES LTDA / 00.057.359/0001-03
+
+ULTRACLOR ULTRA HIPOCLORITO DE CÁLCIO - DESINFETANTE DE ÁGUA DE CONSUMO HUMANO
+
+25351.037777/2024-56 / 357220009
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 0195768248
+
+--------------------------------------
+
+SLG INDUSTRIA QUIMICA E COMERCIO DE MATERIAL DE LIMPEZA LTDA / 07.557.842/0001-98
+
+70 FORT - HIGIFORT
+
+25351.052525/2024-57 / 340780014
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 0222532246
+
+--------------------------------------
+
+SAUBER QUIMICA - INDUSTRIA E COMERCIO DE PRODUTOS DE LIMPEZA LTDA / 12.157.539/0001-38
+
+LIMPA PEDRA VOLK
+
+25351.333741/2021-58 / 347610013
+
+330 - REG. SANEANTES - Modificação de Fórmula de Produto / 1417284234
+
+--------------------------------------
+
+BEM ESTAR INDUSTRIAL LTDA / 08.962.163/0001-67
+
+ÁLCOOL ETÍLICO HIDRATADO 70° INPM LINEX
+
+25351.276724/2024-59 / 330660001
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 0645424242
+
+--------------------------------------
+
+CAMPO LARGO IND DE PRODUTOS DE LIMPEZA E HIGIENE LTDA / 16.707.658/0001-78
+
+DESINFETANTE PARA USO GERAL É TOP
+
+25351.746488/2023-61 / 370150005
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 1227553234
+
+--------------------------------------
+
+INDÚSTRIA E COMÉRCIO DE PRODUTOS DE LIMPEZA MACATUBA LTDA - ME / 05.971.158/0001-22
+
+TM 5118 DESINFETANTE ACIDO PERACÉTICO AL
+
+25351.045473/2024-62 / 332290021
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 0208973249
+
+--------------------------------------
+
+GLOBAL SHIELD SOLUTIONS BRASIL IMPORTACAO E COMERCIO LTDA / 19.358.578/0001-42
+
+SD PRO
+
+25351.180200/2024-63 / 311830001
+
+3782 - REG. SANEANTES - Retificação de Publicação de Registro / 0983522243
+
+--------------------------------------
+
+SUMITOMO CHEMICAL BRASIL INDUSTRIA QUIMICA S.A. / 07.467.822/0001-26
+
+VECTOBAC WG
+
+25351.090182/2022-67 / 309870005
+
+389 - REG. SANEANTES - Alteração de Rotulagem de Produto / 0438141245
+
+--------------------------------------
+
+GOEDERT LTDA / 79.846.465/0001-18
+
+UPPRO SUPER CLORO CONCENTRADO
+
+25351.547001/2023-69 / 341540010
+
+390 - REG. SANEANTES - Mudança de Nome de Produto / 0734955243
+
+UPPRO ÁGUA SANITÁRIA
+
+25351.547352/2023-70 / 341540009
+
+390 - REG. SANEANTES - Mudança de Nome de Produto / 0734641249
+
+--------------------------------------
+
+COMERCIAL DE BOMBAS E MOTORES LTDA / 00.057.359/0001-03
+
+ULTRACLOR ULTRA HIPOLCORITO DE CÁLCIO - DESINFETANTE PARA PISCINAS
+
+25351.037068/2024-71 / 357220008
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 0194999246
+
+--------------------------------------
+
+VIC PHARMA INDUSTRIA E COMERCIO LTDA / 39.032.974/0001-92
+
+VIC PERACÉTICO 0,2 % - PRONTO USO
+
+25351.440449/2015-71 / 326488025
+
+389 - REG. SANEANTES - Alteração de Rotulagem de Produto / 0620392240
+
+--------------------------------------
+
+REAÇÃO TÉCNICA INDÚSTRIA E COMÉRCIO LTDA / 05.243.920/0001-54
+
+MED SUPER
+
+25351.091518/2024-71 / 338620008
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 0293976244
+
+--------------------------------------
+
+KELLDRIN INDUSTRIAL LTDA - ME / 03.237.990/0001-74
+
+MAT INSET GEL INSETICIDA PARA FORMIGAS
+
+25351.033384/2024-73 / 325220109
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 0188577246
+
+--------------------------------------
+
+UNILEVER BRASIL INDUSTRIAL LTDA / 01.615.814/0001-01
+
+CIF LIMPEZA PROFISSIONAL DESINFETANTE SUPER CONCENTRADO
+
+25351.263541/2024-73 / 320660540
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 0622316249
+
+--------------------------------------
+
+Ki-Joia Industria e Comercio de Produtos de Limpeza / 00.799.056/0001-58
+
+DESINFETANTE KÍ-JÓIA
+
+25351.411980/2015-76 / 312410025
+
+335 - REG. SANEANTES - Cancelamento de Registro de Produto a Pedido / 1038823242
+
+--------------------------------------
+
+ARY SILVIO C FILHO INDUSTRIA E COMERCIO DE PRODUTOS DE LIMPEZA LTDA / 04.828.297/0001-39
+
+CLORO ORGÂNICO ESTABILIZADO HIDROCLOR
+
+25351.073060/2024-78 / 332710008
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 0259952249
+
+--------------------------------------
+
+UNICLEAN QUÍMICA INDUSTRIAL DO BRASIL LTDA / 08.332.586/0001-01
+
+CLEANING 40
+
+25351.553887/2023-80 / 335570062
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 0894032232
+
+--------------------------------------
+
+CITROMAX INDUSTRIA E COMERCIO LTDA EPP / 00.187.467/0001-92
+
+UFC LAMBDA 10,6% SC
+
+25351.578515/2019-80 / 329230146
+
+390 - REG. SANEANTES - Mudança de Nome de Produto / 0622953249
+
+--------------------------------------
+
+BETTER CLEANER COMERCIO DE PRODUTOS QUIMICOS LTDA / 38.447.087/0001-12
+
+BETTER SOLV GEL
+
+25351.803750/2023-81 / 321640003
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 1342186231
+
+--------------------------------------
+
+UNILEVER BRASIL INDUSTRIAL LTDA / 01.615.814/0001-01
+
+BRILHANTE TIRA MANCHAS SEM CLORO UTILE LÍQUIDO
+
+25351.582201/2019-81 / 320660494
+
+330 - REG. SANEANTES - Modificação de Fórmula de Produto / 0432049240
+
+--------------------------------------
+
+M. NOBRE PRODUTOS DE LIMPEZA LTDA / 18.256.185/0001-65
+
+ÁLCOOL NOBRE ZERO BAC
+
+25351.338341/2024-81 / 362400004
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 0757422241
+
+--------------------------------------
+
+SANTA MONICA PRODUTOS QUIMICOS CATANDUVA LTDA. / 69.300.028/0001-40
+
+ATIVADO CONCENTRADO - SM
+
+25351.832431/2023-83 / 318630014
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 1398056235
+
+--------------------------------------
+
+MP INDUSTRIA E COMERCIO LTDA / 45.854.434/0001-97
+
+MPD-X
+
+25351.929992/2024-85 / 327260003
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 0071229248
+
+--------------------------------------
+
+FUZETTO INDÚSTRIA E COMÉRCIO DE PASTA MECÂNICA LTDA - EPP / 38.969.440/0001-24
+
+ÁGUA SANITÁRIA FUZETTO
+
+25351.462325/2020-85 / 331220007
+
+389 - REG. SANEANTES - Alteração de Rotulagem de Produto / 0619755245
+
+--------------------------------------
+
+SENIR EMBALAGENS LTDA / 05.953.723/0001-29
+
+CLORO LÍQUIDO WILLY
+
+25351.719388/2015-88 / 331930030
+
+389 - REG. SANEANTES - Alteração de Rotulagem de Produto / 0625191242
+
+--------------------------------------
+
+SRC INDÚSTRIA E COMÉRCIO DE PRODUTOS PARA POLIMENTO LTDA / 05.787.733/0001-31
+
+ÁGUA SANITÁRIA PLANETA DETERGENTE
+
+25351.938149/2024-90 / 351200003
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 0084271248
+
+--------------------------------------
+
+ARY SILVIO C FILHO INDUSTRIA E COMERCIO DE PRODUTOS DE LIMPEZA LTDA / 04.828.297/0001-39
+
+CLORO ORGÂNICO TRIPLA AÇÃO ESTABILIZADO HIDROCLOR
+
+25351.073116/2024-94 / 332710009
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 0260013242
+
+--------------------------------------
+
+IDEAL QUIMICA INDUSTRIA DE DETERGENTES LTDA - ME / 07.176.255/0001-59
+
+ID 3000
+
+25351.331288/2024-98 / 343090013
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 0743523245
+
+--------------------------------------
+
+DISTRIBUIDORA MONTENEGRO AÇÚCAR, ÁLCOOL E CEREAIS LTDA / 29.121.720/0001-97
+
+ÁLCOOL GEL MONTENEGRO 70º INPM
+
+25351.402750/2010-98 / 304240008
+
+389 - REG. SANEANTES - Alteração de Rotulagem de Produto / 0639119247

@@ -1,0 +1,41 @@
+---
+titulo: "PORTARIA CONJUNTA Nº 52, DE 12 DE JULHO DE 2016"
+orgao: "Ministério da Educação/SECRETARIA DE EDUCAÇÃO SUPERIOR"
+tipo: "Portaria"
+numero: "52"
+data: 2016-07-12
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 22/07/2016, seção 1, p. 144"
+data_publicacao: 2016-07-22
+edicao: "140"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-conjunta-n-52-de-12-de-julho-de-2016-23366322-23366322"
+sha256_html_fonte: 1654e489c36ddce93f73ec3fd1c587720cda6938e259a2f00ac8e0f5f60d6652
+baixado_em: 2026-10-28
+---
+# PORTARIA CONJUNTA Nº 52, DE 12 DE JULHO DE 2016
+
+PORTARIA CONJUNTA Nº 52, DE 12 DE JULHO DE 2016
+
+O A SECRETÁRIA DE EDUCAÇÃO SUPERIOR DO MINISTÉRIODA EDUCAÇÃO SUBSTITUTA e o SECRETÁRIO DEPOLÍTICAS E PROGRAMAS DE PESQUISA E DESENVOLVIMENTODO MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕESE COMUNICAÇÕES SUBSTITUTO, no uso de suas atribuiçõese considerando as disposições da Lei nº 8.958, de 20 dedezembro de 1994, do Decreto nº 7.423, de 31 de dezembro de 2010e da Portaria Interministerial nº 191, de 13 de março de 2012, combase nas recomendações do Grupo de Apoio Técnico MEC/MCTICapresentadas na reunião ordinária de 28 de junho de 2016 e pelosfundamentos da Informação nº 53/2016-CGLNES/GAB/SESu/MECcv,resolvem:
+
+**Art. 1º.** Fica autorizada, pelo período de 01 (um) ano, aFundação Escola Politécnica da Bahia (FEP), CNPJ nº15.255.367/0001-23, para atuar como Fundação de Apoio ao InstitutoFederal da Bahia (IFBA), processo nº 23000.023054/2016-14.
+
+**Art. 2º.** Esta Portaria entra em vigor na data de sua publicação.
+
+DULCE MARIA TRISTÃO  
+Secretária de Educação Superior do Ministério da Educação  
+Substituta
+
+SÁVIO TÚLIO OSELIERI RAEDER
+
+Secretário de Políticas e Programas de Pesquisa e  
+Desenvolvimento do Ministério da Ciência,  
+Tecnologia, Inovações e Comunicações  
+Substituto
+
+DULCE MARIA TRISTÃO
+
+Secretária de Educação Superior do Ministério da Educação Substituta
+
+Este conteúdo não substitui o publicado na versão certificada.

@@ -1,0 +1,110 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 4.623, DE 12 DE NOVEMBRO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "4623"
+data: 2020-11-12
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 13/11/2020, seção 1, p. 149"
+data_publicacao: 2020-11-13
+edicao: "217"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.623-de-12-de-novembro-de-2020-288060947"
+sha256_html_fonte: 6ae5cdba69456d42952ddb739038d9157188f24e14a19bf19976b61f492ba264
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 4.623, DE 12 DE NOVEMBRO DE 2020
+
+RESOLUÇÃO-RE Nº 4.623, DE 12 DE NOVEMBRO DE 2020
+
+O Coordenador de Autorização de Funcionamento de Empresas, Substituto, no uso das atribuições que lhe confere o art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º.** Alterar a Autorização de Funcionamento das Empresas constantes no anexo desta Resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+HIRAI INDÚSTRIA E COMÉRCIO LTDA / 07.497.238/0001-13
+
+25351.603736/2009-01 / 8057298
+
+867 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 3415851206
+
+--------------------------------------
+
+CM HOSPITALAR S.A. / 12.420.164/0001-57
+
+25351.151547/2011-13 / 1088798
+
+7152 - AFE - ALTERAÇÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA - AMPLIAÇÃO DE ATIVIDADES / 3637144204
+
+25351.151547/2011-13 / 1088798
+
+7152 - AFE - ALTERAÇÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA - AMPLIAÇÃO DE ATIVIDADES / 3621982205
+
+--------------------------------------
+
+AGTL ARMAZÉNS GERAIS TRANSPORTES E LOGÍSTICA LTDA E.P.P. / 05.334.406/0001-24
+
+25351.516163/2008-16 / 2048591
+
+7187 - AFE - ALTERAÇÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - AMPLIAÇÃO OU REDUÇÃO DE CLASSE / 3416148207
+
+--------------------------------------
+
+GMP-ORPHAN FARMACEUTICA DO BRASIL LTDA. / 36.727.426/0001-99
+
+25351.149434/2020-18 / 1244702
+
+7152 - AFE - ALTERAÇÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA - AMPLIAÇÃO DE ATIVIDADES / 3533679209
+
+--------------------------------------
+
+UNICA PHARMACEUTICALS PRODUTOS FARMACEUTICOS E NUTRICIONAIS LTDA / 26.751.186/0001-04
+
+25351.243253/2019-35 / 4009111
+
+751 - AFE - ALTERAÇÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - ENDEREÇO MATRIZ / 3416152204
+
+--------------------------------------
+
+TNM IMPORTACAO E COMERCIALIZACAO DE EQUIPAMENTOS E PRODUTOS MEDICOS ODONTOLOGICOS E HOSPITALARES LTDA / 36.169.040/0001-09
+
+25351.149469/2020-49 / 8209777
+
+867 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 3446376208
+
+--------------------------------------
+
+CHEMI-MARKET COMERCIAL EXPORTADORA EIRELI / 59.083.519/0001-23
+
+25351.778011/2010-60 / 8071449
+
+866 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - ENDEREÇO / 3423642203
+
+--------------------------------------
+
+CM HOSPITALAR S.A. / 12.420.164/0001-57
+
+25351.176253/2011-81 / 8074399
+
+867 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 3757697201
+
+--------------------------------------
+
+DENTAL BRASILEIRA PRODUTOS E EQUIPAMENTOS ODONTOLOGICOS LTDA. / 15.003.764/0001-08
+
+25351.518750/2015-85 / 8126759
+
+829 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - RAZÃO SOCIAL / 3416058208
+
+--------------------------------------
+
+UNICA PHARMACEUTICALS PRODUTOS FARMACEUTICOS E NUTRICIONAIS LTDA / 26.751.186/0001-04
+
+25351.243705/2019-89 / 8182098
+
+866 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - ENDEREÇO / 3415876209

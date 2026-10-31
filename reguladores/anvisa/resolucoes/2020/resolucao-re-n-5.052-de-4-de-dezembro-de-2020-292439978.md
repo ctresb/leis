@@ -1,0 +1,274 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 5.052, DE 4 DE DEZEMBRO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "5052"
+data: 2020-12-04
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 07/12/2020, seção 1, p. 98"
+data_publicacao: 2020-12-07
+edicao: "233"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-5.052-de-4-de-dezembro-de-2020-292439978"
+sha256_html_fonte: e7cbf88d60dcd47844ef60cb2da1fa1a90f8809beec1b8234bc1602ddcf45c13
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 5.052, DE 4 DE DEZEMBRO DE 2020
+
+RESOLUÇÃO-RE Nº 5.052, DE 4 DE DEZEMBRO DE 2020
+
+O Coordenador de Autorização de Funcionamento de Empresas, Substituto, no uso das atribuições que lhe confere o art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º** Conceder Alteração de Autorização de Funcionamento para os estabelecimentos de Farmácias e Drogarias, em conformidade com o anexo desta Resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+FARMA CENTER MEDICAMENTOS E PERFUMARIA LTDA / 06.017.072/0001-28
+
+25351.031914/2004-03 / 0406341
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 3895637203
+
+--------------------------------------
+
+FARMACIA SANTA CRUZ CENTRO LTDA / 18.084.957/0001-29
+
+25351.407827/2014-03 / 7231865
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3880030206
+
+--------------------------------------
+
+L. JORGE DE ALENCAR EIRELI - ME / 26.034.403/0001-45
+
+25351.796220/2018-11 / 7624990
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3880042200
+
+--------------------------------------
+
+A P Cesar Medicamentos - ME / 15.402.420/0001-71
+
+25351.657625/2013-11 / 7016960
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3880036205
+
+--------------------------------------
+
+C.A. TOQUINI JUNIOR DROGARIA LTDA / 07.420.744/0001-04
+
+25351.326520/2005-11 / 0441673
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 3895633201
+
+--------------------------------------
+
+CDM DISTRIBUIDORA DE PRODUTOS FARMACEUTICOS LTDA. / 23.286.921/0001-68
+
+25351.612791/2017-12 / 7552007
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3880026208
+
+--------------------------------------
+
+NAZARIO ROSA E RODRIGUES COMERCIO DE MEDICAMENTOS LTDA / 10.768.389/0003-35
+
+25351.699868/2019-12 / 7695679
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 3930620208
+
+--------------------------------------
+
+M O DOS S SIMAO / 23.109.738/0001-97
+
+25351.957168/2016-13 / 7445901
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 3930628203
+
+--------------------------------------
+
+DROGARIA ALAMEDA LTDA - FILIAL 03 / 01.276.256/0004-31
+
+25351.018709/2014-16 / 7129939
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3881957201
+
+--------------------------------------
+
+L. H. BORGES DROGARIA LTDA / 09.651.275/0001-60
+
+25351.339008/2014-18 / 7203975
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 3895683207
+
+--------------------------------------
+
+DEISE GRAEFF SERVICOS FARMACEUTICOS EIRELI / 31.071.308/0001-51
+
+25351.036157/2019-32 / 7633041
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 3895628204
+
+--------------------------------------
+
+DROGARIA ALAMEDA LTDA FILIAL 24 / 01.276.256/0023-02
+
+25351.023859/2014-41 / 7088064
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3877423202
+
+--------------------------------------
+
+M I BEZERRA DE JESUS / 08.281.904/0001-44
+
+25351.302554/2017-46 / 7521766
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 3930624201
+
+--------------------------------------
+
+MIRANDA & MORAES LTDA - ME / 19.280.690/0001-08
+
+25351.347529/2014-49 / 7212152
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 3895690200
+
+--------------------------------------
+
+DROGARIA SANTO ANTONIO GJ LTDA / 25.753.773/0001-70
+
+25351.049386/2003-50 / 0383823
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 3895635207
+
+--------------------------------------
+
+ULTRAPOP PRODUTOS FARMACEUTICOS EIRELI - ME / 17.214.672/0001-00
+
+25351.212280/2014-51 / 7181340
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3895432200
+
+--------------------------------------
+
+SANTA MARIA COMERCIO DE MEDICAMENTOS LTDA - ME / 19.909.093/0001-08
+
+25351.517271/2014-54 / 7281208
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3895696209
+
+--------------------------------------
+
+FABIFARMA FARMACIA E DROGARIA LTDA / 11.480.463/0001-14
+
+25351.042293/2014-57 / 7095459
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3895692206
+
+--------------------------------------
+
+FARMACIA TROPICAL DE MACAE LTDA / 31.507.213/0001-38
+
+25351.215573/2002-57 / 0148991
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3880038201
+
+--------------------------------------
+
+KGF FARMÁCIA LTDS. - EPP / 11.065.938/0001-06
+
+25351.634660/2009-58 / 0630446
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3880028204
+
+--------------------------------------
+
+IRMÃOS CANDEU DROGARIA LTDA - ME / 22.985.373/0001-00
+
+25351.555406/2015-61 / 7415430
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3880032202
+
+--------------------------------------
+
+THAIS T.PEDRO DROGARIA ME / 18.519.536/0001-83
+
+25351.159683/2014-65 / 7139233
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3880040203
+
+--------------------------------------
+
+W B GOMES PEREIRA / 31.342.633/0001-01
+
+25351.780498/2018-68 / 7623335
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 3895681201
+
+--------------------------------------
+
+JOAO MONTYLA DE ANDRADE EIRELI / 13.568.658/0001-46
+
+25351.132675/2014-71 / 7128811
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 3930618206
+
+--------------------------------------
+
+DROGARIA ALAMEDA LTDA FILIAL 18 / 01.276.256/0020-51
+
+25351.018708/2014-71 / 7120580
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3881961209
+
+--------------------------------------
+
+DROGARIA ALAMEDA LTDA / 01.276.256/0010-80
+
+25351.264761/2004-71 / 0418533
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3877500200
+
+--------------------------------------
+
+FARMACIAS ORTH LTDA / 08.840.140/0001-80
+
+25351.101081/2008-71 / 0532163
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 3895630206
+
+--------------------------------------
+
+DROGARIA UNIFAM SAUDE LTDA / 30.401.499/0001-00
+
+25351.423783/2018-84 / 7599781
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 3895639200
+
+--------------------------------------
+
+PROINFUSION S/A / 07.028.603/0001-40
+
+25351.267437/2013-90 / 0967401
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 3930626207
+
+--------------------------------------
+
+DROGARIA SANSANA LTDA ME / 65.078.271/0002-96
+
+25351.162582/2013-91 / 0911713
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3880034209
+
+--------------------------------------
+
+DROGARIA MELHOR PREÇO LTDA / 36.495.550/0001-76
+
+25351.807271/2020-91 / 7742098
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 3895686201

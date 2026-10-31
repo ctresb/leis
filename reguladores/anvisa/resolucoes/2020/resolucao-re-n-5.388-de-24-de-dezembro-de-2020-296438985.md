@@ -1,0 +1,170 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 5.388, DE 24 DE DEZEMBRO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Terceira Diretoria/Gerência de Produtos de Higiene, Perfumes, Cosméticos e Saneantes"
+tipo: "Resolução"
+numero: "5388"
+data: 2020-12-24
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 28/12/2020, seção 1, p. 503"
+data_publicacao: 2020-12-28
+edicao: "247"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-5.388-de-24-de-dezembro-de-2020-296438985"
+sha256_html_fonte: 7c9eb5173cc4cd746b0e0a4efd42392c1bc8f0066d86344920966b3c13b5bbc9
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 5.388, DE 24 DE DEZEMBRO DE 2020
+
+RESOLUÇÃO-RE Nº 5.388, DE 24 DE DEZEMBRO DE 2020
+
+O Gerente de Produtos de Higiene, Cosméticos, Perfumes e Saneantes Substituto, no uso das atribuições que lhe confere o art. 164, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º** Deferir as petições de Cancelamento de Notificação de Produto Saneante de Risco 1 por ato de ofício, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+WEBERT GONÇALVES DE SANTANA
+
+## ANEXO
+
+NOME DA EMPRESA: ALTOLIN INDÚSTRIA E COMÉRCIO DE PRODUTOS DE LIMPEZA LTDA
+
+AUTORIZAÇÃO: 3.02598-5
+
+NOME DO PRODUTO E MARCA: ÁLCOOL GEL 70 GLICERINADO ALTOLIM
+
+VERSÃO: [SEM NOME]
+
+NUMERO DE PROCESSO: 25351.614221/2019-29
+
+NUMERO DE REGISTRO: 000
+
+VENDA E EMPREGO: PRODUTO DE VENDA LIVRE
+
+APRESENTAÇÃO: FRASCO DE PLASTICO TRANSPARENTE COM VALVULA DOSADORA + CAIXA DE PAPELAO
+
+VALIDADE DO PRODUTO: 36 Ano(s)
+
+CATEGORIA: 3222028 LIMPA VIDROS
+
+ASSUNTO DA PETIÇÃO: 3199 Cancelamento de Notificação de Produto de Risco 1 por ato de ofício.
+
+EXPEDIENTE DA PETIÇÃO: 4366938/20-7
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NOME DA EMPRESA: CENTRO OESTE PRODUTOS DE LIMPEZA INDUSTRIA E COMERCIO LTDA
+
+AUTORIZAÇÃO: 3.01815-8
+
+NOME DO PRODUTO E MARCA: ALCOOL BE CLEAN GEL
+
+VERSÃO: ALCOOL EM GEL 500G
+
+NUMERO DE PROCESSO: 25351.341172/2019-08
+
+NUMERO DE REGISTRO: 000
+
+VENDA E EMPREGO: PRODUTO DE VENDA LIVRE
+
+APRESENTAÇÃO: FRASCO DE PLASTICO OPACO SQUEEZE + CAIXA DE PAPELAO
+
+VALIDADE DO PRODUTO: 24 Ano(s)
+
+CATEGORIA: 3222021 LIMPADOR DE USO GERAL
+
+ASSUNTO DA PETIÇÃO: 3199 Cancelamento de Notificação de Produto de Risco 1 por ato de ofício.
+
+EXPEDIENTE DA PETIÇÃO: 4322644/20-2
+
+NOME DO PRODUTO E MARCA: HIGIENIZANTE EBÃO LIMPADOR DE USO GERAL COM CLORO ATIVO
+
+VERSÃO: COM CLORO ATIVO
+
+NUMERO DE PROCESSO: 25351.616679/2020-56
+
+NUMERO DE REGISTRO: 000
+
+VENDA E EMPREGO: PRODUTO DE VENDA LIVRE
+
+APRESENTAÇÃO: FRASCO DE PLASTICO OPACO + CAIXA DE PAPELAO
+
+VALIDADE DO PRODUTO: 6 Ano(s)
+
+CATEGORIA: 3222021 LIMPADOR DE USO GERAL
+
+ASSUNTO DA PETIÇÃO: 3199 Cancelamento de Notificação de Produto de Risco 1 por ato de ofício.
+
+EXPEDIENTE DA PETIÇÃO: 4323427/20-5
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NOME DA EMPRESA: CENTRO OESTE OLEO QUIMICA LTDA
+
+AUTORIZAÇÃO: 3.04393-9
+
+NOME DO PRODUTO E MARCA: ÁLCOOL GEL OESTE
+
+VERSÃO: [SEM NOME]
+
+NUMERO DE PROCESSO: 25351.417159/2015-03
+
+NUMERO DE REGISTRO: 000
+
+VENDA E EMPREGO: PRODUTO DE VENDA LIVRE
+
+APRESENTAÇÃO: GALAO PLASTICO + CAIXA DE PAPELAO
+
+VALIDADE DO PRODUTO: 24 Ano(s)
+
+CATEGORIA: 3222021 LIMPADOR DE USO GERAL
+
+ASSUNTO DA PETIÇÃO: 3199 Cancelamento de Notificação de Produto de Risco 1 por ato de ofício.
+
+EXPEDIENTE DA PETIÇÃO: 4480658/20-2
+
+NOME DO PRODUTO E MARCA: ÁLCOOL GEL OESTE
+
+VERSÃO: [SEM NOME]
+
+NUMERO DE PROCESSO: 25351.417159/2015-03
+
+NUMERO DE REGISTRO: 000
+
+VENDA E EMPREGO: PRODUTO DE VENDA LIVRE
+
+APRESENTAÇÃO: FRASCO DE PLASTICO TRANSPARENTE + CAIXA DE PAPELAO
+
+VALIDADE DO PRODUTO: 24 Ano(s)
+
+CATEGORIA: 3222021 LIMPADOR DE USO GERAL
+
+ASSUNTO DA PETIÇÃO: 3199 Cancelamento de Notificação de Produto de Risco 1 por ato de ofício.
+
+EXPEDIENTE DA PETIÇÃO: 4480658/20-2
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NOME DA EMPRESA: JALLES MACHADO S/A
+
+AUTORIZAÇÃO: 3.02455-0
+
+NOME DO PRODUTO E MARCA: ÁLCOOL EM GEL65º INPM MULTIUSO ITAJÁ
+
+VERSÃO: FRASCO PET TRANSPARENTE DE 500 G
+
+NUMERO DE PROCESSO: 25351.004134/2003-00
+
+NUMERO DE REGISTRO: 000
+
+VENDA E EMPREGO:
+
+APRESENTAÇÃO: FRASCO + CAIXA DE PAPELAO
+
+VALIDADE DO PRODUTO: 36 Ano(s)
+
+CATEGORIA: 3222021 LIMPADOR DE USO GERAL
+
+ASSUNTO DA PETIÇÃO: 3199 Cancelamento de Notificação de Produto de Risco 1 por ato de ofício.
+
+EXPEDIENTE DA PETIÇÃO: 4479818/20-1

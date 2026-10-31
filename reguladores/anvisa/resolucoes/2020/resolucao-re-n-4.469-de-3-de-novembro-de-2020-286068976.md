@@ -1,0 +1,98 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 4.469, DE 3 DE NOVEMBRO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "4469"
+data: 2020-11-03
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 04/11/2020, seção 1, p. 95"
+data_publicacao: 2020-11-04
+edicao: "210"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.469-de-3-de-novembro-de-2020-286068976"
+sha256_html_fonte: 285f8910fc05f54225a620e674172cfcde4688d636a15a9ff587370a81f78e1d
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 4.469, DE 3 DE NOVEMBRO DE 2020
+
+RESOLUÇÃO-RE Nº 4.469, DE 3 DE NOVEMBRO DE 2020
+
+O Coordenador de Autorização de Funcionamento de Empresas, Substituto, no uso das atribuições que lhe confere o art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º.** Conceder Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344 de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+AVITALOG TRANSPORTES LTDA. / 08.483.385/0001-05
+
+25351.990778/2020-05 / 1244028
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 3230724208
+
+--------------------------------------
+
+BRASPRESS TRANSPORTES URGENTES LTDA / 48.740.351/0014-80
+
+25351.975049/2020-11 / 1243941
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 3184702201
+
+--------------------------------------
+
+H. W. C. DA SILVA / 28.692.942/0001-05
+
+25351.996279/2020-13 / 1244093
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 3245699204
+
+--------------------------------------
+
+NAVARRO DISTRIBUIDORA DE MEDICAMENTOS S/A / 24.415.230/0004-22
+
+25351.985031/2020-27 / 1243985
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 3215196204
+
+--------------------------------------
+
+TNT MERCURIO CARGAS E ENCOMENDAS EXPRESSAS LTDA / 95.591.723/0162-01
+
+25351.973887/2020-50 / 1243954
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 3181197203
+
+--------------------------------------
+
+PHARMTECH DISTRIBUIDORA DE MEDICAMENTOS E MATERIAL HOSPITALAR EIRELI / 25.165.389/0001-56
+
+25351.973929/2020-52 / 1243971
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 3181242209
+
+--------------------------------------
+
+PROVIDA COMERCIAL IMPORTAÇÃO E EXPORTAÇÃO LTDA / 17.882.205/0001-40
+
+25351.990907/2020-57 / 1244122
+
+706 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - IMPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 3230867203
+
+--------------------------------------
+
+HUNTER transportes E LOGISTICA ltda / 15.437.790/0002-25
+
+25351.990905/2020-68 / 1244105
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 3230863208
+
+--------------------------------------
+
+VELTEN LOGÍSTICA E TRANSPORTE LTDA / 05.593.147/0014-70
+
+25351.985094/2020-83 / 1244001
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 3215265206

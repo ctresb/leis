@@ -1,0 +1,28 @@
+---
+titulo: "RESOLUÇÃO Nº 7.030, DE 1º DE JULHO DE 2019"
+orgao: "Ministério da Infraestrutura/Agência Nacional de Transportes Aquaviários"
+tipo: "Resolução"
+numero: "7030"
+data: 2019-07-01
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 02/07/2019, seção 1, p. 38"
+data_publicacao: 2019-07-02
+edicao: "125"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-n-7.030-de-1-de-julho-de-2019-185271973"
+sha256_html_fonte: 0b1eb6ff59989a37217ae704770096198225c93de5f50c74e10d1e16d8756d0e
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO Nº 7.030, DE 1º DE JULHO DE 2019
+
+RESOLUÇÃO Nº 7.030, DE 1º DE JULHO DE 2019
+
+A DIRETORIA DA AGÊNCIA NACIONAL DE TRANSPORTES AQUAVIÁRIOS - ANTAQ, no uso da competência que lhe é conferida pelo art. 19 do Regimento Interno, considerando o que consta do Processo nº 50300.010352/2017-13 e tendo em vista o deliberado em sua 464ª Reunião Ordinária, realizada em 26 de junho de 2019, resolve:
+
+**Art. 1º** Autorizar o registro de instalação de apoio ao transporte aquaviário de titularidade da empresa REBELO INDÚSTRIA COMÉRCIO E NAVEGAÇÃO LTDA, inscrita no CNPJ/MF sob o nº 05.685.961/0004-43, denominada "Reicon - Senador José Porfírio", localizada na Rua das Flores, s/nº, esquina com Rua Quatorze de Abril - Senador José Porfírio/PA, em consonância com o disposto no inciso V do art. 2º do anexo da Resolução Normativa nº 13-ANTAQ, ressaltando que o registro ora deferido não desonera a requerente do atendimento aos padrões de regularidade e segurança exigidos pelos entes intervenientes na operação, mormente no tocante às competências afetas à Marinha do Brasil, ao Poder Público Municipal, à Autoridade Aduaneira, ao Corpo de Bombeiros local e ao Órgão de Meio Ambiente.
+
+**Art. 2º** Esta resolução entrará em vigor na data de sua publicação no Diário Oficial da União - DOU.
+
+MÁRIO POVIA
+
+Diretor-Geral

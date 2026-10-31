@@ -1,0 +1,198 @@
+---
+titulo: "Portaria GM/MS Nº 8.089, DE 10 DE setembro DE 2025"
+orgao: "Ministério da Saúde/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "8089"
+data: 2025-09-10
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 22/09/2025, seção 1, p. 183"
+data_publicacao: 2025-09-22
+edicao: "180"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-gm/ms-n-8.089-de-10-de-setembro-de-2025-657210282"
+baixado_em: 2026-10-16
+---
+# Portaria GM/MS Nº 8.089, DE 10 DE setembro DE 2025
+
+Portaria GM/MS Nº 8.089, DE 10 DE setembro DE 2025
+
+Aprova, no âmbito do Programa Nacional de Expansão e Qualificação da Atenção Ambulatorial Especializada - Componente Ambulatorial do Programa Agora tem Especialistas, a reprogramação físico-financeira do Plano de Ação Regional das Macrorregiões do estado do Paraíba e dá outras providências.
+
+O MINISTRO DE ESTADO DA SAÚDE, no uso das atribuições que lhe conferem os incisos I e II do parágrafo único do art. 87 da Constituição, resolve:
+
+**Art. 1º** Fica aprovada a Reprogramação do Plano de Ação Regional das Macrorregiões de Saúde do estado e municípios da Paraíba: Macrorregião I - João Pessoa; Macrorregião II - Campina Grande; Macrorregião III - Sertão/Alto Sertão, referente ao Programa Nacional de Expansão e Qualificação da Atenção Ambulatorial Especializada, Componente Ambulatorial do Programa Agora tem Especialistas, conforme aprovado pela Resolução CIB-PB nº 113, de 5 de maio de 2025, no âmbito do Sistema Único de Saúde (SUS), conforme Anexos a esta Portaria.
+
+**Parágrafo único.** A reprogramação aprovada no caput se refere à programação físico-orçamentária para realização de 275.836 (duzentos e setenta e cinco mil oitocentos e trinta e seis) Ofertas de Cuidados Integrados - OCIs, distribuídas conforme o Anexo I desta Portaria, considerando o atendimento aos 4.059.905 (quatro milhões cinquenta e nove mil novecentos e cinco) habitantes, segundo dados da população TCU 2021, nos seus 223 (duzentos e vinte e três) municípios do estado da Paraíba.
+
+**Art. 2º** Fica redefinido o recurso do Bloco de Manutenção das Ações e Serviços Públicos de Saúde - Grupo de Atenção Especializada, de R$ 49.097.291,60 (quarenta e nove milhões noventa e sete mil duzentos e noventa e um reais e sessenta centavos), aprovado pela Portaria GM/MS nº 6.038, de 11 de dezembro de 2024, para R$ 49.096.496,00 (quarenta e nove milhões noventa e seis mil quatrocentos e noventa e seis reais), a ser disponibilizado ao estado e municípios da Paraíba por meio do Fundo de Ações Estratégicas e Compensação-FAEC, conforme Anexo II a esta Portaria.
+
+I - Fica mantido o montante de R$ 3.420.000,00 (três milhões quatrocentos e vinte mil reais) referente à 50% do Incentivo à Implementação das Ações e Estratégias de Gestão do PAR, cuja distribuição foi realizada pela Portaria GM/MS nº 6.259, de 23 de dezembro de 2024.
+
+II - Fica mantido o recurso de R$ 13.703.187,48 (treze milhões setecentos e três mil cento e oitenta e sete reais e quarenta e oito centavos), cuja distribuição foi realizada pela Portaria GM/MS nº 6.259, de 23 de dezembro de 2024 e conforme Anexo II; e
+
+III - Fica estabelecido o decréscimo no montante de R$ 795,60 (setecentos e noventa e cinco reais e sessenta centavos) com a reprogramação dos Planos de Ação Regional que redefine o recurso pós-produção de até R$ 31.974.104,12 (trinta e um milhões novecentos e setenta e quatro mil cento e quatro reais e doze centavos) para até R$ 31.973.308,52 (trinta e um milhões novecentos e setenta e três mil trezentos e oito reais e cinquenta e dois centavos) e redistribuído conforme anexo II a esta Portaria, cuja transferência se dará mediante a apresentação de produção de serviços registrada e aprovada no Sistema de Informações Ambulatoriais - SIA/SUS.
+
+**Art. 3º** O Fundo Nacional de Saúde adotará as medidas necessárias para a transferência do recurso financeiro aos respectivos Fundos de Saúde que produzirem conforme as OCIs e fizerem parte dos PARs aprovados, após a apuração da produção na Base de Dados dos Sistemas de Informações do SUS, mediante processo autorizativo encaminhado pela Secretaria de Atenção Especializada à Saúde.
+
+**Art. 4º** O recurso orçamentário objeto desta Portaria dar-se-á por conta do orçamento do Ministério da Saúde, devendo onerar o Programa de Trabalho 10.302.5118.8585 - Atenção à Saúde da População para procedimentos em Média e Alta Complexidade - Plano Orçamentário 0005 (Fundo de Ações Estratégicas e Compensação - FAEC).
+
+**Art. 5º** A prestação de contas sobre a aplicação dos recursos recebidos pelo estado e municípios deverá compor o Relatório Anual de Gestão - RAG.
+
+**Art. 6º** Esta Portaria entra em vigor na data de sua publicação, com efeitos operacionais nos sistemas de informação do SUS a partir da competência seguinte à da sua publicação.
+
+ALEXANDRE ROCHA SANTOS PADILHA
+
+## ANEXO I — REPROGRAMAÇÃO FISICO-FINANCEIRA DAS OFERTAS DE CUIDADOS INTEGRADOS
+
+| Paraíba - Reprogramação Físico-financeira das Ofertas de Cuidados Integrados (OCIs) |  |  |  |
+| --- | --- | --- | --- |
+| Código da OCI | Nome da OCI | Programação Física | Programação Financeira |
+| 0901010014 | OCI AVALIAÇÃO DIAGNÓSTICA INICIAL DE CÂNCER DE MAMA | 3.180 | R$ 397.500,00 |
+| 0901010049 | OCI PROGRESSÃO DA AVALIAÇÃO DIAGNÓSTICA DE CÂNCER DE PRÓSTATA | 2.332 | R$ 699.600,00 |
+| 0901010057 | OCI INVESTIGAÇÃO DIAGNÓSTICA DE CÂNCER DE COLO DO ÚTERO | 1.478 | R$ 147.800,00 |
+| 0901010073 | OCI AVALIAÇÃO DIAGNÓSTICA DE CÂNCER GÁSTRICO | 3.703 | R$ 925.750,00 |
+| 0901010081 | OCI AVALIAÇÃO DIAGNÓSTICA DE CÂNCER DE COLORRETAL | 663 | R$ 186.966,00 |
+| 0901010090 | OCI PROGRESSÃO DA AVALIAÇÃO DIAGNÓSTICA DE CÂNCER DE MAMA - I | 1.043 | R$ 417.200,00 |
+| 0901010103 | OCI PROGRESSÃO DA AVALIAÇÃO DIAGNÓSTICA DE CÂNCER DE MAMA-II | 791 | R$ 316.400,00 |
+| 0901010111 | OCI AVALIAÇÃO DIAGNÓSTICA E TERAPÊUTICA DE CÂNCER DE COLO DO ÚTERO-I | 561 | R$ 123.420,00 |
+| 0901010120 | OCI AVALIAÇÃO DIAGNÓSTICA E TERAPÊUTICA DE CÂNCER DE COLO DO ÚTERO-II | 554 | R$ 121.880,00 |
+| 0902010018 | OCI AVALIAÇÃO DE RISCO CIRÚRGICO | 23.588 | R$ 3.066.440,00 |
+| 0902010026 | OCI AVALIAÇÃO CARDIOLÓGICA | 36.818 | R$ 7.363.600,00 |
+| 0902010034 | OCI AVALIAÇÃO DIAGNÓSTICA INICIAL - SÍNDROME CORONARIANA CRÔNICA | 9.656 | R$ 2.607.120,00 |
+| 0902010042 | OCI PROGRESSÃO DA AVALIAÇÃO DIAGNÓSTICA I - SÍNDROME CORONARIANA CRÔNICA | 1.739 | R$ 434.750,00 |
+| 0902010050 | OCI PROGRESSÃO DA AVALIAÇÃO DIAGNÓSTICA II - SÍNDROME CORONARIANA CRÔNICA | 1.554 | R$ 1.305.360,00 |
+| 0902010069 | OCI AVALIAÇÃO DIAGNÓSTICA - INSUFICIÊNCIA CARDÍACA | 7.033 | R$ 2.461.550,00 |
+| 0903010011 | OCI AVALIAÇÃO DIAGNÓSTICA EM ORTOPEDIA COM RECURSOS DE RADIOLOGIA | 105.433 | R$ 10.543.300,00 |
+| 0903010020 | OCI AVALIAÇÃO DIAGNÓSTICA EM ORTOPEDIA COM RECURSOS DE RADIOLOGIA E ULTRASSONOGRAFIA | 11.697 | R$ 1.637.580,00 |
+| 0903010038 | OCI AVALIAÇÃO DIAGNÓSTICA EM ORTOPEDIA COM RECURSOS DE RADIOLOGIA E TOMOGRAFIA COMPUTADORIZADA | 9.367 | R$ 2.154.410,00 |
+| 0903010040 | OCI AVALIAÇÃO DIAGNÓSTICA EM ORTOPEDIA COM RECURSOS DE RADIOLOGIA E RESSONÂNCIA MAGNÉTICA | 7.816 | R$ 2.813.760,00 |
+| 0904010015 | OCI AVALIAÇÃO INICIAL DIAGNÓSTICA DE DÉFICIT AUDITIVO | 2.337 | R$ 233.700,00 |
+| 0904010023 | OCI PROGRESSÃO DA AVALIAÇÃO DIAGNÓSTICA DE DÉFICIT AUDITIVO | 730 | R$ 109.500,00 |
+| 0904010031 | OCI AVALIAÇÃO DIAGNÓSTICA DE NASOFARINGE E DE OROFARINGE | 1.241 | R$ 248.200,00 |
+| 0905010019 | OCI AVALIAÇÃO INICIAL EM OFTALMOGIA - 0 A 8 ANOS | 3.519 | R$ 703.800,00 |
+| 0905010027 | OCI AVALIAÇÃO DE ESTRABISMO | 785 | R$ 157.000,00 |
+| 0905010035 | OCI AVALIAÇÃO INICIAL EM OFTALMOLOGIA - A PARTIR DE 9 ANOS | 31.426 | R$ 5.028.160,00 |
+| 0905010043 | OCI AVALIAÇÃO DE RETINOPATIA DIABÉTICA | 4.873 | R$ 974.600,00 |
+| 0905010051 | OCI AVALIAÇÃO INICIAL PARA ONCOLOGIA OFTALMOLÓGICA | 569 | R$ 142.250,00 |
+| 0905010060 | OCI AVALIAÇÃO DIAGNÓSTICA EM NEURO OFTALMOLOGIA | 849 | R$ 254.700,00 |
+| 0905010078 | OCI EXAMES OFTALMOLÓGICOS SOB SEDAÇÃO | 501 | R$ 100.200,00 |
+| Total | 275.836 | R$ 45.676.496,00 |  |
+| Macrorregião I - João Pessoa - Paraíba - Reprogramação Físico-financeira das Ofertas de Cuidados Integrados (OCIs) |  |  |  |
+| Código da OCI | Nome da OCI | Programação Física | Programação Financeira |
+| 0901010014 | OCI AVALIAÇÃO DIAGNÓSTICA INICIAL DE CÂNCER DE MAMA | 1.889 | R$ 236.125,00 |
+| 0901010049 | OCI PROGRESSÃO DA AVALIAÇÃO DIAGNÓSTICA DE CÂNCER DE PRÓSTATA | 526 | R$ 157.800,00 |
+| 0901010057 | OCI INVESTIGAÇÃO DIAGNÓSTICA DE CÂNCER DE COLO DO ÚTERO | 1.231 | R$ 123.100,00 |
+| 0901010073 | OCI AVALIAÇÃO DIAGNÓSTICA DE CÂNCER GÁSTRICO | 2.738 | R$ 684.500,00 |
+| 0901010081 | OCI AVALIAÇÃO DIAGNÓSTICA DE CÂNCER DE COLORRETAL | 471 | R$ 132.822,00 |
+| 0901010090 | OCI PROGRESSÃO DA AVALIAÇÃO DIAGNÓSTICA DE CÂNCER DE MAMA - I | 829 | R$ 331.600,00 |
+| 0901010103 | OCI PROGRESSÃO DA AVALIAÇÃO DIAGNÓSTICA DE CÂNCER DE MAMA-II | 533 | R$ 213.200,00 |
+| 0901010111 | OCI AVALIAÇÃO DIAGNÓSTICA E TERAPÊUTICA DE CÂNCER DE COLO DO ÚTERO-I | 354 | R$ 77.880,00 |
+| 0901010120 | OCI AVALIAÇÃO DIAGNÓSTICA E TERAPÊUTICA DE CÂNCER DE COLO DO ÚTERO-II | 348 | R$ 76.560,00 |
+| 0902010018 | OCI AVALIAÇÃO DE RISCO CIRÚRGICO | 9.727 | R$ 1.264.510,00 |
+| 0902010026 | OCI AVALIAÇÃO CARDIOLÓGICA | 16.861 | R$ 3.372.200,00 |
+| 0902010034 | OCI AVALIAÇÃO DIAGNÓSTICA INICIAL - SÍNDROME CORONARIANA CRÔNICA | 2.508 | R$ 677.160,00 |
+| 0902010042 | OCI PROGRESSÃO DA AVALIAÇÃO DIAGNÓSTICA I - SÍNDROME CORONARIANA CRÔNICA | 745 | R$ 186.250,00 |
+| 0902010050 | OCI PROGRESSÃO DA AVALIAÇÃO DIAGNÓSTICA II - SÍNDROME CORONARIANA CRÔNICA | 547 | R$ 459.480,00 |
+| 0902010069 | OCI AVALIAÇÃO DIAGNÓSTICA - INSUFICIÊNCIA CARDÍACA | 1.976 | R$ 691.600,00 |
+| 0903010011 | OCI AVALIAÇÃO DIAGNÓSTICA EM ORTOPEDIA COM RECURSOS DE RADIOLOGIA | 39.335 | R$ 3.933.500,00 |
+| 0903010020 | OCI AVALIAÇÃO DIAGNÓSTICA EM ORTOPEDIA COM RECURSOS DE RADIOLOGIA E ULTRASSONOGRAFIA | 7.535 | R$ 1.054.900,00 |
+| 0903010038 | OCI AVALIAÇÃO DIAGNÓSTICA EM ORTOPEDIA COM RECURSOS DE RADIOLOGIA E TOMOGRAFIA COMPUTADORIZADA | 6.379 | R$ 1.467.170,00 |
+| 0903010040 | OCI AVALIAÇÃO DIAGNÓSTICA EM ORTOPEDIA COM RECURSOS DE RADIOLOGIA E RESSONÂNCIA MAGNÉTICA | 7.108 | R$ 2.558.880,00 |
+| 0904010015 | OCI AVALIAÇÃO INICIAL DIAGNÓSTICA DE DÉFICIT AUDITIVO | 991 | R$ 99.100,00 |
+| 0904010023 | OCI PROGRESSÃO DA AVALIAÇÃO DIAGNÓSTICA DE DÉFICIT AUDITIVO | 527 | R$ 79.050,00 |
+| 0904010031 | OCI AVALIAÇÃO DIAGNÓSTICA DE NASOFARINGE E DE OROFARINGE | 621 | R$ 124.200,00 |
+| 0905010019 | OCI AVALIAÇÃO INICIAL EM OFTALMOGIA - 0 A 8 ANOS | 2.359 | R$ 471.800,00 |
+| 0905010027 | OCI AVALIAÇÃO DE ESTRABISMO | 769 | R$ 153.800,00 |
+| 0905010035 | OCI AVALIAÇÃO INICIAL EM OFTALMOLOGIA - A PARTIR DE 9 ANOS | 18.561 | R$ 2.969.760,00 |
+| 0905010043 | OCI AVALIAÇÃO DE RETINOPATIA DIABÉTICA | 1.988 | R$ 397.600,00 |
+| 0905010051 | OCI AVALIAÇÃO INICIAL PARA ONCOLOGIA OFTALMOLÓGICA | 400 | R$ 100.000,00 |
+| 0905010060 | OCI AVALIAÇÃO DIAGNÓSTICA EM NEURO OFTALMOLOGIA | 240 | R$ 72.000,00 |
+| 0905010078 | OCI EXAMES OFTALMOLÓGICOS SOB SEDAÇÃO | 240 | R$ 48.000,00 |
+| Total | 128.336 | R$ 22.214.547,00 |  |
+| Macrorregião II - Campina Grande - Paraíba - Reprogramação Físico-financeira das Ofertas de Cuidados Integrados (OCIs) |  |  |  |
+| Código da OCI | Nome da OCI | Programação Física | Programação Financeira |
+| 0901010014 | OCI AVALIAÇÃO DIAGNÓSTICA INICIAL DE CÂNCER DE MAMA | 692 | R$ 86.500,00 |
+| 0901010049 | OCI PROGRESSÃO DA AVALIAÇÃO DIAGNÓSTICA DE CÂNCER DE PRÓSTATA | 906 | R$ 271.800,00 |
+| 0901010057 | OCI INVESTIGAÇÃO DIAGNÓSTICA DE CÂNCER DE COLO DO ÚTERO | 124 | R$ 12.400,00 |
+| 0901010073 | OCI AVALIAÇÃO DIAGNÓSTICA DE CÂNCER GÁSTRICO | 568 | R$ 142.000,00 |
+| 0901010081 | OCI AVALIAÇÃO DIAGNÓSTICA DE CÂNCER DE COLORRETAL | 120 | R$ 33.840,00 |
+| 0901010090 | OCI PROGRESSÃO DA AVALIAÇÃO DIAGNÓSTICA DE CÂNCER DE MAMA - I | 102 | R$ 40.800,00 |
+| 0901010103 | OCI PROGRESSÃO DA AVALIAÇÃO DIAGNÓSTICA DE CÂNCER DE MAMA-II | 135 | R$ 54.000,00 |
+| 0901010111 | OCI AVALIAÇÃO DIAGNÓSTICA E TERAPÊUTICA DE CÂNCER DE COLO DO ÚTERO-I | 105 | R$ 23.100,00 |
+| 0901010120 | OCI AVALIAÇÃO DIAGNÓSTICA E TERAPÊUTICA DE CÂNCER DE COLO DO ÚTERO-II | 105 | R$ 23.100,00 |
+
+| 0902010018 | OCI AVALIAÇÃO DE RISCO CIRÚRGICO | 7.264 | R$ 944.320,00 |
+| --- | --- | --- | --- |
+| 0902010026 | OCI AVALIAÇÃO CARDIOLÓGICA | 4.785 | R$ 957.000,00 |
+| 0902010034 | OCI AVALIAÇÃO DIAGNÓSTICA INICIAL - SÍNDROME CORONARIANA CRÔNICA | 4.520 | R$ 1.220.400,00 |
+| 0902010042 | OCI PROGRESSÃO DA AVALIAÇÃO DIAGNÓSTICA I - SÍNDROME CORONARIANA CRÔNICA | 871 | R$ 217.750,00 |
+| 0902010050 | OCI PROGRESSÃO DA AVALIAÇÃO DIAGNÓSTICA II - SÍNDROME CORONARIANA CRÔNICA | 948 | R$ 796.320,00 |
+| 0902010069 | OCI AVALIAÇÃO DIAGNÓSTICA - INSUFICIÊNCIA CARDÍACA | 3.939 | R$ 1.378.650,00 |
+| 0903010011 | OCI AVALIAÇÃO DIAGNÓSTICA EM ORTOPEDIA COM RECURSOS DE RADIOLOGIA | 35.599 | R$ 3.559.900,00 |
+| 0903010020 | OCI AVALIAÇÃO DIAGNÓSTICA EM ORTOPEDIA COM RECURSOS DE RADIOLOGIA E ULTRASSONOGRAFIA | 2.149 | R$ 300.860,00 |
+| 0903010038 | OCI AVALIAÇÃO DIAGNÓSTICA EM ORTOPEDIA COM RECURSOS DE RADIOLOGIA E TOMOGRAFIA COMPUTADORIZADA | 1.349 | R$ 310.270,00 |
+| 0903010040 | OCI AVALIAÇÃO DIAGNÓSTICA EM ORTOPEDIA COM RECURSOS DE RADIOLOGIA E RESSONÂNCIA MAGNÉTICA | 533 | R$ 191.880,00 |
+| 0904010015 | OCI AVALIAÇÃO INICIAL DIAGNÓSTICA DE DÉFICIT AUDITIVO | 1.112 | R$ 111.200,00 |
+| 0904010023 | OCI PROGRESSÃO DA AVALIAÇÃO DIAGNÓSTICA DE DÉFICIT AUDITIVO | 162 | R$ 24.300,00 |
+| 0904010031 | OCI AVALIAÇÃO DIAGNÓSTICA DE NASOFARINGE E DE OROFARINGE | 472 | R$ 94.400,00 |
+| 0905010019 | OCI AVALIAÇÃO INICIAL EM OFTALMOGIA - 0 A 8 ANOS | 861 | R$ 172.200,00 |
+| 0905010027 | OCI AVALIAÇÃO DE ESTRABISMO | 12 | R$ 2.400,00 |
+| 0905010035 | OCI AVALIAÇÃO INICIAL EM OFTALMOLOGIA - A PARTIR DE 9 ANOS | 6.308 | R$ 1.009.280,00 |
+| 0905010043 | OCI AVALIAÇÃO DE RETINOPATIA DIABÉTICA | 2.748 | R$ 549.600,00 |
+| 0905010051 | OCI AVALIAÇÃO INICIAL PARA ONCOLOGIA OFTALMOLÓGICA | 152 | R$ 38.000,00 |
+| 0905010060 | OCI AVALIAÇÃO DIAGNÓSTICA EM NEURO OFTALMOLOGIA | 489 | R$ 146.700,00 |
+| 0905010078 | OCI EXAMES OFTALMOLÓGICOS SOB SEDAÇÃO | 259 | R$ 51.800,00 |
+| Total | 77.389 | R$ 12.764.770,00 |  |
+| Macrorregião III - Vale dos Dinossauros - Paraíba - Reprogramação Físico-financeira das Ofertas de Cuidados Integrados (OCIs) |  |  |  |
+| Código da OCI | Nome da OCI | Programação Física | Programação Financeira |
+| 0901010014 | OCI AVALIAÇÃO DIAGNÓSTICA INICIAL DE CÂNCER DE MAMA | 599 | R$ 74.875,00 |
+| 0901010049 | OCI PROGRESSÃO DA AVALIAÇÃO DIAGNÓSTICA DE CÂNCER DE PRÓSTATA | 900 | R$ 270.000,00 |
+| 0901010057 | OCI INVESTIGAÇÃO DIAGNÓSTICA DE CÂNCER DE COLO DO ÚTERO | 123 | R$ 12.300,00 |
+| 0901010073 | OCI AVALIAÇÃO DIAGNÓSTICA DE CÂNCER GÁSTRICO | 397 | R$ 99.250,00 |
+| 0901010081 | OCI AVALIAÇÃO DIAGNÓSTICA DE CÂNCER DE COLORRETAL | 72 | R$ 20.304,00 |
+| 0901010090 | OCI PROGRESSÃO DA AVALIAÇÃO DIAGNÓSTICA DE CÂNCER DE MAMA - I | 112 | R$ 44.800,00 |
+| 0901010103 | OCI PROGRESSÃO DA AVALIAÇÃO DIAGNÓSTICA DE CÂNCER DE MAMA-II | 123 | R$ 49.200,00 |
+| 0901010111 | OCI AVALIAÇÃO DIAGNÓSTICA E TERAPÊUTICA DE CÂNCER DE COLO DO ÚTERO-I | 102 | R$ 22.440,00 |
+| 0901010120 | OCI AVALIAÇÃO DIAGNÓSTICA E TERAPÊUTICA DE CÂNCER DE COLO DO ÚTERO-II | 101 | R$ 22.220,00 |
+| 0902010018 | OCI AVALIAÇÃO DE RISCO CIRÚRGICO | 6.597 | R$ 857.610,00 |
+| 0902010026 | OCI AVALIAÇÃO CARDIOLÓGICA | 15.172 | R$ 3.034.400,00 |
+| 0902010034 | OCI AVALIAÇÃO DIAGNÓSTICA INICIAL - SÍNDROME CORONARIANA CRÔNICA | 2.628 | R$ 709.560,00 |
+| 0902010042 | OCI PROGRESSÃO DA AVALIAÇÃO DIAGNÓSTICA I - SÍNDROME CORONARIANA CRÔNICA | 123 | R$ 30.750,00 |
+| 0902010050 | OCI PROGRESSÃO DA AVALIAÇÃO DIAGNÓSTICA II - SÍNDROME CORONARIANA CRÔNICA | 59 | R$ 49.560,00 |
+| 0902010069 | OCI AVALIAÇÃO DIAGNÓSTICA - INSUFICIÊNCIA CARDÍACA | 1.118 | R$ 391.300,00 |
+| 0903010011 | OCI AVALIAÇÃO DIAGNÓSTICA EM ORTOPEDIA COM RECURSOS DE RADIOLOGIA | 30.499 | R$ 3.049.900,00 |
+| 0903010020 | OCI AVALIAÇÃO DIAGNÓSTICA EM ORTOPEDIA COM RECURSOS DE RADIOLOGIA E ULTRASSONOGRAFIA | 2.013 | R$ 281.820,00 |
+| 0903010038 | OCI AVALIAÇÃO DIAGNÓSTICA EM ORTOPEDIA COM RECURSOS DE RADIOLOGIA E TOMOGRAFIA COMPUTADORIZADA | 1.639 | R$ 376.970,00 |
+| 0903010040 | OCI AVALIAÇÃO DIAGNÓSTICA EM ORTOPEDIA COM RECURSOS DE RADIOLOGIA E RESSONÂNCIA MAGNÉTICA | 175 | R$ 63.000,00 |
+| 0904010015 | OCI AVALIAÇÃO INICIAL DIAGNÓSTICA DE DÉFICIT AUDITIVO | 234 | R$ 23.400,00 |
+| 0904010023 | OCI PROGRESSÃO DA AVALIAÇÃO DIAGNÓSTICA DE DÉFICIT AUDITIVO | 41 | R$ 6.150,00 |
+| 0904010031 | OCI AVALIAÇÃO DIAGNÓSTICA DE NASOFARINGE E DE OROFARINGE | 148 | R$ 29.600,00 |
+| 0905010019 | OCI AVALIAÇÃO INICIAL EM OFTALMOGIA - 0 A 8 ANOS | 299 | R$ 59.800,00 |
+| 0905010027 | OCI AVALIAÇÃO DE ESTRABISMO | 4 | R$ 800,00 |
+| 0905010035 | OCI AVALIAÇÃO INICIAL EM OFTALMOLOGIA - A PARTIR DE 9 ANOS | 6.557 | R$ 1.049.120,00 |
+| 0905010043 | OCI AVALIAÇÃO DE RETINOPATIA DIABÉTICA | 137 | R$ 27.400,00 |
+| 0905010051 | OCI AVALIAÇÃO INICIAL PARA ONCOLOGIA OFTALMOLÓGICA | 17 | R$ 4.250,00 |
+| 0905010060 | OCI AVALIAÇÃO DIAGNÓSTICA EM NEURO OFTALMOLOGIA | 120 | R$ 36.000,00 |
+| 0905010078 | OCI EXAMES OFTALMOLÓGICOS SOB SEDAÇÃO | 2 | R$ 400,00 |
+| Total | 70.111 | R$ 10.697.179,00 |  |
+
+## ANEXO II — DISTRIBUIÇÃO DOS RECURSOS APROVADOS NA REPROGRAMAÇÃO DE 2025
+
+| UF | CODMUN\_GESTOR | DESCRIÇÃO DO GESTOR | GESTÃO DO RECURSO | VALOR FOMENTO PELA PRT GM/MS Nº 6.259/2024 | VL LIMITE PÓS PRODUÇÃO | Valor total pós-produção após reprogramção de 2025 |
+| --- | --- | --- | --- | --- | --- | --- |
+| PB | 250000 | PARAÍBA | ESTADUAL | R$ 7.000.295,38 | R$ 16.333.616,11 | R$ 23.333.911,49 |
+| PB | 250750 | JOÃO PESSOA | MUNICIPAL | R$ 3.677.696,88 | R$ 8.581.079,19 | R$ 12.258.776,07 |
+| PB | 250320 | CABEDELO | MUNICIPAL | R$ 47.100,24 | R$ 109.897,83 | R$ 156.998,07 |
+| PB | 251370 | SANTA RITA | MUNICIPAL | R$ 93.219,63 | R$ 217.507,06 | R$ 310.726,69 |
+| PB | 250150 | BANANEIRAS | MUNICIPAL | R$ 60.482,57 | R$ 141.122,49 | R$ 201.605,06 |
+| PB | 250630 | GUARABIRA | MUNICIPAL | R$ 211.592,82 | R$ 493.704,30 | R$ 705.297,12 |
+| PB | 250790 | JURIPIRANGA | MUNICIPAL | R$ 36.553,94 | R$ 85.290,40 | R$ 121.844,34 |
+| PB | 251150 | PILAR | MUNICIPAL | R$ 40.624,49 | R$ 94.788,12 | R$ 135.412,61 |
+| PB | 250970 | MONTEIRO | MUNICIPAL | R$ 113.536,60 | R$ 264.912,14 | R$ 378.448,74 |
+| PB | 250400 | CAMPINA GRANDE | MUNICIPAL | R$ 1.813.095,63 | R$ 4.230.451,20 | R$ 6.043.546,83 |
+| PB | 251080 | PATOS | MUNICIPAL | R$ 367.112,26 | R$ 856.573,96 | R$ 1.223.686,22 |
+| PB | 251130 | PIANCO | MUNICIPAL | R$ 54.500,13 | R$ 127.163,81 | R$ 181.663,94 |
+| PB | 250200 | BELEM DO BREJO DO CRUZ | MUNICIPAL | R$ 24.828,33 | R$ 57.931,33 | R$ 82.759,66 |
+| PB | 251690 | UIRAUNA | MUNICIPAL | R$ 51.830,31 | R$ 120.934,38 | R$ 172.764,69 |
+| PB | 251210 | POMBAL | MUNICIPAL | R$ 110.718,27 | R$ 258.336,20 | R$ 369.054,47 |
+| TOTAL | R$ 13.703.187,48 | R$ 31.973.308,52 | R$ 45.676.496,00 |  |  |  |

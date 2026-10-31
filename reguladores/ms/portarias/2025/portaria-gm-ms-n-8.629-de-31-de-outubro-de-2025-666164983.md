@@ -1,0 +1,71 @@
+---
+titulo: "PORTARIA GM/MS Nº 8.629, DE 31 DE OUTUBRO DE 2025"
+orgao: "Ministério da Saúde/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "8629"
+data: 2025-10-31
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 03/11/2025, seção 1, p. 84"
+data_publicacao: 2025-11-03
+edicao: "209"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-gm/ms-n-8.629-de-31-de-outubro-de-2025-666164983"
+baixado_em: 2026-10-16
+---
+# PORTARIA GM/MS Nº 8.629, DE 31 DE OUTUBRO DE 2025
+
+PORTARIA GM/MS Nº 8.629, DE 31 DE OUTUBRO DE 2025
+
+Autoriza o Município ou Distrito Federal a receber recursos referentes ao incremento temporário ao custeio dos serviços de Atenção Primária à Saúde.
+
+O MINISTRO DE ESTADO DA SAÚDE, no uso das atribuições que lhe conferem os incisos I e II do parágrafo único do art. 87 da Constituição, em observância a Lei nº 15.121, de 10 de abril de 2025, Lei Complementar nº 141, de 13 de janeiro de 2012, Lei nº 8.080, de 19 de setembro de 1990, resolve:
+
+**Art. 1º** Ficam autorizados os Municípios e o Distrito Federal descritos no anexo a esta Portaria a receberem recursos financeiros referentes ao incremento temporário para o custeio dos serviços de Atenção Primária à Saúde.
+
+**Art. 2º** Os recursos financeiros tratados nesta Portaria referem-se à aplicação das emendas parlamentares para incremento temporário do Piso da Atenção Primária à Saúde.
+
+**Art. 3º** As propostas de que tratam esta portaria serão processadas no InvestSUS, disponível no portalfns.saude.gov.br.
+
+**Art. 4º** O Fundo Nacional de Saúde adotará as medidas necessárias para as transferências de recursos financeiros estabelecidas nesta Portaria aos respectivos Fundos de Saúde, em parcela única, em conformidade com os processos de pagamento instruídos pela Secretaria Finalística, após atendidas as condições previstas para essa modalidade de transferência.
+
+**Art. 5º** A prestação de contas sobre a aplicação dos recursos financeiros será realizada por meio do Relatório Anual de Gestão - RAG aprovado pelo respectivo Conselho local de saúde, nos termos dos artigos 34 a 36 da Lei Complementar nº 141, de 14 de janeiro de 2012.
+
+**Art. 6º** Esta Portaria entra em vigor na data de sua publicação.
+
+ALEXANDRE ROCHA SANTOS PADILHA
+
+## ANEXO
+
+Entes federados autorizados a receberem recursos financeiros federais de emendas destinados ao incremento temporário ao custeio dos serviços de Atenção Primária à Saúde.
+
+| UF | MUNICÍPIO | ENTIDADE | Nº DA PROPOSTA | CÓD. EMENDA | VALOR POR EMENDA (R$) | VALOR TOTAL DA PROPOSTA (R$) | FUNCIONAL PROGRAMÁTICA |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| CE | MONSENHOR TABOSA | FUNDO MUNICIPAL DE SAUDE DE MONSENHOR TABOSA | 36000714831202500 | 60060003 | 850.000,00 | 850.000,00 | 1030151192E890001 |
+| ES | AGUIA BRANCA | FUNDO MUNICIPAL DE SAUDE | 36000706175202500 | 60060003 | 200.000,00 | 200.000,00 | 1030151192E890001 |
+| ES | AGUIA BRANCA | FUNDO MUNICIPAL DE SAUDE | 36000706194202500 | 50410001 | 200.000,00 | 200.000,00 | 1030151192E890001 |
+| ES | AGUIA BRANCA | FUNDO MUNICIPAL DE SAUDE | 36000706207202500 | 60060003 | 205.000,00 | 205.000,00 | 1030151192E890001 |
+| ES | DOMINGOS MARTINS | FUNDO MUNICIPAL DE SAUDE DE DOMINGOS MARTINS | 36000698325202500 | 60060003 | 500.000,00 | 500.000,00 | 1030151192E890001 |
+| ES | MUCURICI | FUNDO MUNICIPAL DE SAUDE DE MUCURICI | 36000712785202500 | 60060003 | 300.000,00 | 300.000,00 | 1030151192E890001 |
+| ES | MUNIZ FREIRE | FUNDO MUNICIPAL DE SAUDE | 36000708757202500 | 60060003 | 400.000,00 | 400.000,00 | 1030151192E890001 |
+| ES | VILA PAVAO | FUNDO MUNICIPAL DE SAUDE DE VILA PAVAO | 36000698610202500 | 50410001 | 300.000,00 | 300.000,00 | 1030151192E890001 |
+| GO | MONTE ALEGRE DE GOIAS | FUNDO MUNICIPAL DE SAUDE DE MONTE ALEGRE DE GOIAS | 36000714111202500 | 60060003 | 300.000,00 | 300.000,00 | 1030151192E890001 |
+| MG | ORATORIOS | FUNDO MUNICIPAL DE SAUDE DE ORATORIOS | 36000696554202500 | 50410001 | 200.000,00 | 200.000,00 | 1030151192E890001 |
+| PA | ITAITUBA | FUNDO MUNICIPAL DE SAUDE DE ITAITUBA | 36000711119202500 | 50410001 | 1.000.005,00 | 1.000.005,00 | 1030151192E890001 |
+| PE | AFOGADOS DA INGAZEIRA | FUNDO MUNICIPAL DE SAUDE - FMS | 36000714434202500 | 50410001 | 450.000,00 | 450.000,00 | 1030151192E890001 |
+| PE | EXU | FUNDO MUNICIPAL DE SAUDE | 36000704330202500 | 50410001 | 1.000.000,00 | 1.000.000,00 | 1030151192E890001 |
+| PE | JATAUBA | FUNDO MUNICIPAL DE SAUDE DE JATAUBA | 36000697173202500 | 50410001 | 500.000,00 | 500.000,00 | 1030151192E890001 |
+| PI | CAMPO ALEGRE DO FIDALGO | FUNDO MUNICIPAL DE SAUDE DE CAMPO ALEGRE DO FIDALGO | 36000714696202500 | 60060003 | 170.000,00 | 170.000,00 | 1030151192E890001 |
+| RN | SAO PAULO DO POTENGI | FUNDO MUNICIPAL DE SAUDE | 36000706306202500 | 60060003 | 840.000,00 | 840.000,00 | 1030151192E890001 |
+| RN | SERRA DE SAO BENTO | FUNDO MUNICIPAL DE SAUDE DE SERRA DE SAO BENTO/RN | 36000709240202500 | 50410001 | 300.000,00 | 300.000,00 | 1030151192E890001 |
+| RS | ARARICA | FUNDO MUNICIPAL DE SAUDE DE ARARICA | 36000702601202500 | 50410001 | 100.000,00 | 100.000,00 | 1030151192E890001 |
+| RS | CIDREIRA | FUNDO MUNICIPAL DE SAUDE DE CIDREIRA | 36000703844202500 | 60060003 | 300.000,00 | 300.000,00 | 1030151192E890001 |
+| RS | PONTE PRETA | FUNDO MUNICIPAL DE SAUDE - PONTE PRETA | 36000705007202500 | 50410001 | 300.000,00 | 300.000,00 | 1030151192E890001 |
+| RS | UNIAO DA SERRA | FUNDO MUNICIPAL DA SAUDE - UNIAO DA SERRA | 36000714680202500 | 60060003 | 200.000,00 | 200.000,00 | 1030151192E890001 |
+| SC | ARROIO TRINTA | FUNDO MUNICIPAL DA SAUDE - FMS | 36000699693202500 | 60060003 | 200.000,00 | 200.000,00 | 1030151192E890001 |
+| SC | BOCAINA DO SUL | FUNDO MUN DE SAUDE - BOCAINA DO SUL | 36000705350202500 | 60060003 | 200.000,00 | 200.000,00 | 1030151192E890001 |
+| SC | BRUNOPOLIS | FUNDO MUNICIPAL DE SAUDE DE BRUNOPOLIS | 36000709507202500 | 60060003 | 200.000,00 | 200.000,00 | 1030151192E890001 |
+| SC | SAO BENTO DO SUL | FUNDO MUNICIPAL DE SAUDE DE SAO BENTO DO SUL | 36000699167202500 | 50410001 | 100.000,00 | 100.000,00 | 1030151192E890001 |
+| SC | URUPEMA | FUNDO MUNICIPAL DE SAUDE DE URUPEMA | 36000704645202500 | 60060003 | 120.573,00 | 120.573,00 | 1030151192E890001 |
+| SE | PINHAO | FUNDO MUNICIPAL DE SAUDE DE PINHAO | 36000704067202500 | 60060003 | 400.000,00 | 400.000,00 | 1030151192E890001 |
+| SP | ENGENHEIRO COELHO | FUNDO MUNICIPAL DE SAUDE | 36000699127202500 | 50410001 | 100.000,00 | 100.000,00 | 1030151192E890001 |
+| TOTAL | 28 PROPOSTAS |  | 9.935.578,00 |  |  |  |  |

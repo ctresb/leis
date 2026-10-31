@@ -1,0 +1,122 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.126, DE 6 DE NOVEMBRO DE 2019"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quinta Diretoria/Gerência-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados"
+tipo: "Resolução"
+numero: "3126"
+data: 2019-11-06
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 11/11/2019, seção 1, p. 73"
+data_publicacao: 2019-11-11
+edicao: "218"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.126-de-6-de-novembro-de-2019-227108730"
+sha256_html_fonte: 20fc9b9aec9ec0887be7f9e16e7e5015aa343321d5e20adf596397a13fe223d0
+baixado_em: 2026-10-27
+---
+# RESOLUÇÃO-RE Nº 3.126, DE 6 DE NOVEMBRO DE 2019
+
+RESOLUÇÃO-RE Nº 3.126, DE 6 DE NOVEMBRO DE 2019
+
+A Gerente-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados, Substituta, no uso das atribuições que lhe confere o art. 189, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, e ainda amparado pela Resolução da Diretoria Colegiada - RDC nº 345, de 16 de dezembro de 2002, resolve:
+
+**Art. 1º** Conceder Autorização de Funcionamento de Empresas Prestadoras de Serviços de Interesse da Saúde Pública em conformidade com o disposto no anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+GLÁUCIA RIBEIRO LIMA
+
+## ANEXO
+
+EMPRESA: ASSEAGRO SAÚDE AMBIENTAL LTDA- ME
+
+ENDEREÇO: TRAVESSIA ROSAS PASSOS, 1785
+
+BAIRRO: SANTÍSSIMO
+
+MUNICÍPIO: SANTARÉM
+
+UF: PA
+
+CEP: 68.010-250
+
+CNPJ: 08.642.532/0001-34
+
+PROCESSO Nº: 25760374306/2019-47 (EXP: 0573743195
+
+AUTORIZ/MS: 9.09003-2
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇO DE LIMPEZA, DESINFECÇÃO OU DESCONTAMINAÇÃO DE SUPERFÍCIES DE VEÍCULOS TERRESTRE EM TRÂNSITO POR POSTO DE FRONTEIRAS, AERONAVES, EMBARCAÇÕES, TERMINAIS AQUAVIÁRIOS, PORTOS ORGANIZADOS, AEROPORTO, POSTO DE FRONTEIRAS E RECINTO ALFANDEGADOS.
+
+------------------------------------------------------------------
+
+EMPRESA: PROTECTA CONTROLE INTEGRADA DE PRAGAS LTDA
+
+ENDEREÇO: RUA PROJETADA N. 08
+
+BAIRRO: CRUZEIRO DO ANIL
+
+MUNICÍPIO: SÃO LUÍS
+
+UF: MA
+
+CEP: 65.060-520
+
+CNPJ: 24.353.544/0001-03
+
+PROCESSO: 25765-620853/2019-60 (EXP.: 2621093/19-2)
+
+AUTORIZ./MS: 9.09004-6
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE DESINSETIZAÇÃO OU DESRATIZAÇÃO DE VEÍCULOS TERRESTRES EM TRÂNSITO POR POSTOS DE FRONTEIRAS, EMBARCAÇÕES, AERONAVES, TERMINAIS AQUAVIÁRIOS, PORTOS ORGANIZADOS, AEROPORTOS, POSTOS DE FRONTEIRAS E RECINTOS ALFANDEGADOS.
+
+------------------------------------------------------------------
+
+EMPRESA: DR SAMPAIO SERVIÇOS LTDA
+
+ENDEREÇO: RUA M Nº 25
+
+BAIRRO: COHATRAC I
+
+MUNICÍPIO: SÃO LUÍS
+
+UF: MA
+
+CEP: 65.053-690
+
+CNPJ: 10.257.877/0001-16
+
+PROCESSO: 25745.577696/2019-01 (EXP.: 2363336/19-1)
+
+AUTORIZ./MS: 9.09010-6
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE DESINSETIZAÇÃO OU DESRATIZAÇÃO DE VEÍCULOS TERRESTRES EM TRÂNSITO POR POSTOS DE FRONTEIRAS, EMBARCAÇÕES, AERONAVES, TERMINAIS AQUAVIÁRIOS, PORTOS ORGANIZADOS, AEROPORTOS, POSTOS DE FRONTEIRAS E RECINTOS ALFANDEGADOS.
+
+------------------------------------------------------------------
+
+EMPRESA: MJM SERVIÇOS DE LIMPEZA LTDA
+
+ENDEREÇO: BR 290 KM 143 Nº 6815
+
+BAIRRO: PARQUE ELDORADO
+
+MUNICÍPIO: ELDORADO DO SUL
+
+UF: RS
+
+CEP: 92990-000
+
+CNPJ: 18.910.025/0001-98
+
+PROCESSO Nº. 25751.505922/2019-65 (EXP: 2083030/19-1)
+
+AUTORIZ/MS: 9.08940-2
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇO DE LIMPEZA E RECOLHIMENTO DE RESÍDUOS RESULTANTES DE ÁGUAS SERVIDAS E DEJETOS EM TERMINAIS AQUAVIÁRIOS, PORTOS ORGANIZADOS, AEROPORTOS, POSTOS DE FRONTEIRAS E RECINTOS ALFANDEGADOS.

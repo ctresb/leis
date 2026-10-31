@@ -1,0 +1,26 @@
+---
+titulo: "Portaria Previc Nº 846, DE 20 DE dezembro DE 2021"
+orgao: "Ministério do Trabalho e Previdência/Superintendência Nacional de Previdência Complementar/Diretoria de Licenciamento"
+tipo: "Portaria"
+numero: "846"
+data: 2021-12-20
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 23/12/2021, seção 1, p. 559"
+data_publicacao: 2021-12-23
+edicao: "241"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-previc-n-846-de-20-de-dezembro-de-2021-369778325"
+sha256_html_fonte: f62b00d2a18b44d52ed8047c131066b9d996e7fe8a6d7c562ca4d11de112e0cb
+baixado_em: 2026-10-21
+---
+# Portaria Previc Nº 846, DE 20 DE dezembro DE 2021
+
+Portaria Previc Nº 846, DE 20 DE dezembro DE 2021
+
+O DIRETOR DE LICENCIAMENTO, no uso das atribuições que lhe confere o art. 13 da Lei Complementar nº 109, de 29 de maio de 2001, art. 22, inciso I, alínea "c", do Anexo I do Decreto nº 8.992, de 20 de fevereiro de 2017, e o inciso I do art. 21 da Instrução Previc nº 24, de 13 de abril de 2020, considerando as manifestações técnicas exaradas nos respectivos processos, resolve:
+
+**Art. 1º** Aprovar, com vigência a partir da data de emissão do protocolo pelo sistema informatizado da Previc, os convênios de adesão ao Plano de Benefícios BBPrev Brasil, CNPB nº 2021.0030-19, administrado pelo BB PREVIDÊNCIA - FUNDO DE PENSÃO BANCO DO BRASIL, CNPJ nº 00.544.659/0001-09, na condição de entidade fechada de previdência complementar, celebrados com os seguintes entes federados, na condição de patrocinadores:
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>Ente Federado Patrocinador</p></td>      <td rowspan="1" colspan="1"><p>CNPJ do Ente Federado</p></td>      <td rowspan="1" colspan="1"><p>Processo SEI</p></td>      <td rowspan="1" colspan="1"><p>Data de emissão do Protocolo</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Município de Campo Novo do Parecis - MT</p></td>      <td rowspan="1" colspan="1"><p>24.772.287/0001-36</p></td>      <td rowspan="1" colspan="1"><p>44011.006604/2021-49</p></td>      <td rowspan="1" colspan="1"><p>08/12/2021</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Município de Canarana - MT</p></td>      <td rowspan="1" colspan="1"><p>15.023.922/0001-91</p></td>      <td rowspan="1" colspan="1"><p>44011.006585/2021-51</p></td>      <td rowspan="1" colspan="1"><p>07/12/2021</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Município de Cotriguaçu - MT</p></td>      <td rowspan="1" colspan="1"><p>37.465.309/0001-67</p></td>      <td rowspan="1" colspan="1"><p>44011.006747/2021-51</p></td>      <td rowspan="1" colspan="1"><p>16/12/2021</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Município de Diamantina - MG</p></td>      <td rowspan="1" colspan="1"><p>17.754.136/0001-90</p></td>      <td rowspan="1" colspan="1"><p>44011.006274/2021-91</p></td>      <td rowspan="1" colspan="1"><p>24/11/2021</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Município de Encantado - RS</p></td>      <td rowspan="1" colspan="1"><p>88.349.238/0001-78</p></td>      <td rowspan="1" colspan="1"><p>44011.006275/2021-36</p></td>      <td rowspan="1" colspan="1"><p>24/11/2021</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Município de Flores da Cunha - RS</p></td>      <td rowspan="1" colspan="1"><p>87.843.819/0001-07</p></td>      <td rowspan="1" colspan="1"><p>44011.006765/2021-32</p></td>      <td rowspan="1" colspan="1"><p>17/12/2021</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Município de Nova Prata do Iguaçu - PR</p></td>      <td rowspan="1" colspan="1"><p>78.103.884/0001-05</p></td>      <td rowspan="1" colspan="1"><p>44011.006599/2021-74</p></td>      <td rowspan="1" colspan="1"><p>07/12/2021</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Município de Porto Esperidião - MT</p></td>      <td rowspan="1" colspan="1"><p>03.238.904/0001-48</p></td>      <td rowspan="1" colspan="1"><p>44011.006605/2021-93</p></td>      <td rowspan="1" colspan="1"><p>08/12/2021</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Município de Ronda Alta - RS</p></td>      <td rowspan="1" colspan="1"><p>87.711.503/0001-53</p></td>      <td rowspan="1" colspan="1"><p>44011.006606/2021-38</p></td>      <td rowspan="1" colspan="1"><p>08/12/2021</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Município de Santa Vitória do Palmar - RS</p></td>      <td rowspan="1" colspan="1"><p>88.824.099/0001-97</p></td>      <td rowspan="1" colspan="1"><p>44011.006607/2021-82</p></td>      <td rowspan="1" colspan="1"><p>08/12/2021</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Município de Santo Cristo - RS</p></td>      <td rowspan="1" colspan="1"><p>87.612.818/0001-43</p></td>      <td rowspan="1" colspan="1"><p>44011.006621/2021-86</p></td>      <td rowspan="1" colspan="1"><p>08/12/2021</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Município de Veranópolis - RS</p></td>      <td rowspan="1" colspan="1"><p>98.671.597/0001-09</p></td>      <td rowspan="1" colspan="1"><p>44011.006601/2021-13</p></td>      <td rowspan="1" colspan="1"><p>07/12/2021</p></td>     </tr>    </tbody>   </table>
+
+JOSÉ REYNALDO DE ALMEIDA FURLANI

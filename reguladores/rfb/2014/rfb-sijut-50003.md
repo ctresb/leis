@@ -1,0 +1,50 @@
+---
+titulo: "Ato Declaratório Executivo DRF/NIT nº 6, de 12 de fevereiro de 2014"
+orgao: "Delegacia da Receita Federal do Brasil em Niterói"
+tipo: "Ato Declaratório Executivo"
+numero: "6"
+data: "2014-02-12"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 17/02/2014, seção 1, página 25"
+data_publicacao: "2014-02-17"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/50003/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/50003/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "50003"
+sha256_texto: "d059142d6a958a00a403f006516df3ae45e466ba4ce962fa516961a1442dfd21"
+baixado_em: "2026-10-20"
+---
+# Ato Declaratório Executivo DRF/NIT nº 6, de 12 de fevereiro de 2014
+
+Exclui pessoas físicas e jurídicas do Parcelamento Especial (Paes), de que trata o art. 1º da Lei nº 10.684, de 30 de maio de 2003.
+
+O Chefe do Serviço de Controle e Acompanhamento Tributário, abaixo identificado, em exercício na DRF/NITEROI, no uso de suas atribuições e tendo em vista o disposto nos arts. 1º e 7º da Lei nº 10.684, de 30 de maio de 2003, no art. 12 da Lei nº 11.033, de 21 de dezembro de 2004, nos arts. 9º a 17 da Portaria Conjunta PGFN/SRF nº 3, de 25 de agosto de 2004, e na Portaria Conjunta PGFN/SRF nº 4, de 20 de setembro de 2004, declara:
+
+**Art. 1º** Ficam excluídas do Parcelamento Especial (Paes) de que trata o art. 1º da Lei nº 10.684, de 30 de maio de 2003, de acordo com seu art. 7º, as pessoas físicas e jurídicas relacionadas no Anexo Único a este Ato Declaratório (ADE), tendo em vista que foi constatada a ocorrência de três meses consecutivos ou seis alternados sem recolhimento das parcelas do Paes ou que este tenha sido efetuado em valor inferior ao fixado nos incisos II e III do § 3º, incisos I e II do § 4º e § 6º do art. 1º da Lei nº 10.684, de 2003.
+
+**Art. 2º** O detalhamento do motivo da exclusão poderá ser obtido na página da Secretaria da Receita Federal do Brasil (RFB) na Internet, no endereço www.receita.fazenda.gov.br, com a utilização da Senha Paes.
+
+**Art. 3º** É facultado ao sujeito passivo, no prazo de 10 dias, contado da data de publicação deste ADE, apresentar recurso administrativo dirigido ao Delegado da DRF/NITERÓI.
+
+**Art. 4º** Não havendo apresentação de recurso no prazo previsto no art. 3º, a exclusão do Paes será definitiva.
+
+**Art. 5º** Este ADE entra em vigor na data de sua publicação.
+
+MARCELO CRUZ PONTUAL
+
+ANEXO ÚNICO
+
+Relação das pessoas excluídas do Parcelamento Especial (Paes).
+
+Três parcelas consecutivas ou seis alternadas sem recolhimento ou com recolhimento inferior ao fixado nos incisos II e III do § 3º, incisos I e II do § 4º e § 6º do art. 1º da Lei nº 10.684, de 2003.
+
+Relação dos CPF das pessoas físicas excluídas
+
+<table>   <tr>    <td>    <p>003.021.517-02 </p>    </td>    <td>    <p>005.039.409-68 </p>    </td>    <td>    <p>005.507.927-08 </p>    </td>   </tr>   <tr>    <td>    <p>014.384.927-15 </p>    </td>    <td>    <p>019.112.277-77 </p>    </td>    <td>    <p>026.486.547-20 </p>    </td>   </tr>   <tr>    <td>    <p>028.916.977-15 </p>    </td>    <td>    <p>038.847.737-71 </p>    </td>    <td>    <p>043.479.437-68 </p>    </td>   </tr>   <tr>    <td>    <p>049.207.677-49 </p>    </td>    <td>    <p>083.554.247-51 </p>    </td>    <td>    <p>094.634.293-87 </p>    </td>   </tr>   <tr>    <td>    <p>101.768.617-34 </p>    </td>    <td>    <p>129.294.507-97 </p>    </td>    <td>    <p>149.539.517-00 </p>    </td>   </tr>   <tr>    <td>    <p>157.610.107-04 </p>    </td>    <td>    <p>174.138.347-15 </p>    </td>    <td>    <p>230.557.077-53 </p>    </td>   </tr>   <tr>    <td>    <p>272.570.707-25 </p>    </td>    <td>    <p>278.177.257-72 </p>    </td>    <td>    <p>327.785.037-49 </p>    </td>   </tr>   <tr>    <td>    <p>390.655.707-30 </p>    </td>    <td>    <p>422.174.827-34 </p>    </td>    <td>    <p>436.023.046-04 </p>    </td>   </tr>   <tr>    <td>    <p>487.471.817-53 </p>    </td>    <td>    <p>550.773.747-91 </p>    </td>    <td>    <p>573.838.397-49 </p>    </td>   </tr>   <tr>    <td>    <p>611.754.717-04 </p>    </td>    <td>    <p>788.998.508-87 </p>    </td>    <td>    <p>792.838.107-91 </p>    </td>   </tr>   <tr>    <td>    <p>812.185.917-49 </p>    </td>    <td>    <p>XXX.XXX.XXX-XX </p>    </td>    <td>    <p>XXX.XXX.XXX-XX </p>    </td>   </tr>  </table>
+
+Relação dos CNPJ das pessoas jurídicas excluídas
+
+<table>   <tr>    <td>    <p>00.073.750/0001-93 </p>    </td>    <td>    <p>00.110.463/0001-06 </p>    </td>    <td>    <p>00.152.667/0001-00 </p>    </td>   </tr>   <tr>    <td>    <p>00.185.891/0001-06 </p>    </td>    <td>    <p>00.247.271/0001-46 </p>    </td>    <td>    <p>00.336.629/0001-07 </p>    </td>   </tr>   <tr>    <td>    <p>00.355.416/0001-22 </p>    </td>    <td>    <p>00.504.799/0001-53 </p>    </td>    <td>    <p>00.543.612/0001-20 </p>    </td>   </tr>   <tr>    <td>    <p>00.794.963/0001-04 </p>    </td>    <td>    <p>00.798.156/0001-60 </p>    </td>    <td>    <p>00.885.811/0001-17 </p>    </td>   </tr>   <tr>    <td>    <p>00.899.961/0001-80 </p>    </td>    <td>    <p>01.033.386/0001-09 </p>    </td>    <td>    <p>01.149.540/0001-02 </p>    </td>   </tr>   <tr>    <td>    <p>01.180.865/0001-40 </p>    </td>    <td>    <p>01.208.000/0001-44 </p>    </td>    <td>    <p>01.235.386/0001-83 </p>    </td>   </tr>   <tr>    <td>    <p>01.235.387/0001-28 </p>    </td>    <td>    <p>01.315.802/0001-53 </p>    </td>    <td>    <p>01.332.515/0001-51 </p>    </td>   </tr>   <tr>    <td>    <p>01.373.167/0001-60 </p>    </td>    <td>    <p>01.382.078/0001-80 </p>    </td>    <td>    <p>01.462.486/0001-42 </p>    </td>   </tr>   <tr>    <td>    <p>01.468.985/0001-47 </p>    </td>    <td>    <p>01.487.480/0001-20 </p>    </td>    <td>    <p>01.574.765/0001-06 </p>    </td>   </tr>   <tr>    <td>    <p>01.618.702/0001-04 </p>    </td>    <td>    <p>01.638.818/0001-05 </p>    </td>    <td>    <p>01.724.678/0001-80 </p>    </td>   </tr>   <tr>    <td>    <p>01.941.003/0001-92 </p>    </td>    <td>    <p>02.045.955/0001-90 </p>    </td>    <td>    <p>02.055.849/0001-98 </p>    </td>   </tr>   <tr>    <td>    <p>02.125.594/0001-92 </p>    </td>    <td>    <p>02.177.821/0001-23 </p>    </td>    <td>    <p>02.185.139/0001-82 </p>    </td>   </tr>   <tr>    <td>    <p>02.205.332/0001-38 </p>    </td>    <td>    <p>02.295.859/0001-09 </p>    </td>    <td>    <p>02.314.766/0001-76 </p>    </td>   </tr>   <tr>    <td>    <p>02.404.322/0001-21 </p>    </td>    <td>    <p>02.479.918/0001-90 </p>    </td>    <td>    <p>02.563.766/0001-00 </p>    </td>   </tr>   <tr>    <td>    <p>02.631.465/0001-76 </p>    </td>    <td>    <p>02.634.369/0001-81 </p>    </td>    <td>    <p>02.901.813/0001-88 </p>    </td>   </tr>   <tr>    <td>    <p>03.060.911/0001-00 </p>    </td>    <td>    <p>03.121.058/0001-81 </p>    </td>    <td>    <p>03.237.623/0001-70 </p>    </td>   </tr>   <tr>    <td>    <p>03.380.776/0001-72 </p>    </td>    <td>    <p>03.800.993/0001-74 </p>    </td>    <td>    <p>03.916.471/0001-32 </p>    </td>   </tr>   <tr>    <td>    <p>04.350.266/0001-15 </p>    </td>    <td>    <p>04.500.718/0001-06 </p>    </td>    <td>    <p>04.593.934/0001-35 </p>    </td>   </tr>   <tr>    <td>    <p>04.596.446/0001-81 </p>    </td>    <td>    <p>04.633.359/0001-57 </p>    </td>    <td>    <p>04.661.095/0001-45 </p>    </td>   </tr>   <tr>    <td>    <p>04.706.547/0001-68 </p>    </td>    <td>    <p>05.000.238/0001-30 </p>    </td>    <td>    <p>27.789.122/0001-65 </p>    </td>   </tr>   <tr>    <td>    <p>27.857.788/0001-03 </p>    </td>    <td>    <p>28.116.721/0001-80 </p>    </td>    <td>    <p>28.344.661/0001-53 </p>    </td>   </tr>   <tr>    <td>    <p>28.514.248/0001-90 </p>    </td>    <td>    <p>28.645.224/0001-70 </p>    </td>    <td>    <p>29.542.438/0001-83 </p>    </td>   </tr>   <tr>    <td>    <p>29.570.611/0001-57 </p>    </td>    <td>    <p>29.704.574/0001-22 </p>    </td>    <td>    <p>29.836.665/0001-11 </p>    </td>   </tr>   <tr>    <td>    <p>29.864.873/0001-24 </p>    </td>    <td>    <p>29.909.520/0001-01 </p>    </td>    <td>    <p>29.911.625/0001-97 </p>    </td>   </tr>   <tr>    <td>    <p>29.933.132/0001-58 </p>    </td>    <td>    <p>30.064.950/0001-40 </p>    </td>    <td>    <p>30.106.371/0001-13 </p>    </td>   </tr>   <tr>    <td>    <p>30.112.163/0001-27 </p>    </td>    <td>    <p>30.351.837/0001-46 </p>    </td>    <td>    <p>30.531.511/0001-09 </p>    </td>   </tr>   <tr>    <td>    <p>30.594.378/0001-21 </p>    </td>    <td>    <p>30.825.566/0001-13 </p>    </td>    <td>    <p>31.010.812/0001-41 </p>    </td>   </tr>   <tr>    <td>    <p>31.405.970/0001-09 </p>    </td>    <td>    <p>31.671.522/0001-49 </p>    </td>    <td>    <p>31.694.599/0001-34 </p>    </td>   </tr>   <tr>    <td>    <p>31.713.282/0001-06 </p>    </td>    <td>    <p>31.829.971/0001-72 </p>    </td>    <td>    <p>31.840.333/0001-52 </p>    </td>   </tr>   <tr>    <td>    <p>31.964.182/0001-44 </p>    </td>    <td>    <p>32.148.066/0001-10 </p>    </td>    <td>    <p>32.226.854/0001-87 </p>    </td>   </tr>   <tr>    <td>    <p>32.261.430/0001-53 </p>    </td>    <td>    <p>32.588.451/0001-88 </p>    </td>    <td>    <p>33.880.964/0001-20 </p>    </td>   </tr>   <tr>    <td>    <p>35.811.348/0001-43 </p>    </td>    <td>    <p>36.172.245/0001-43 </p>    </td>    <td>    <p>36.479.749/0001-00 </p>    </td>   </tr>   <tr>    <td>    <p>36.488.484/0001-07 </p>    </td>    <td>    <p>39.242.052/0001-00 </p>    </td>    <td>    <p>39.515.036/0001-43 </p>    </td>   </tr>   <tr>    <td>    <p>68.676.345/0001-01 </p>    </td>    <td>    <p>68.732.205/0001-03 </p>    </td>    <td>    <p>73.347.627/0001-97 </p>    </td>   </tr>   <tr>    <td>    <p>74.100.082/0001-82 </p>    </td>    <td>    <p>86.800.729/0001-68 </p>    </td>    <td>    <p>97.385.314/0001-91 </p>    </td>   </tr>  </table>

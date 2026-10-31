@@ -1,0 +1,26 @@
+---
+titulo: "PORTARIA Nº 2.591, DE 6 DE JUNHO DE 2019"
+orgao: "Ministério da Infraestrutura/Secretaria Nacional de Transportes Terrestre/Departamento Nacional de Trânsito"
+tipo: "Portaria"
+numero: "2591"
+data: 2019-06-06
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 10/06/2019, seção 1, p. 53"
+data_publicacao: 2019-06-10
+edicao: "110"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-2.591-de-6-de-junho-de-2019-161204311"
+sha256_html_fonte: 3820a726aa9362c6f638b67610c3aa410e31d35e4995f6d5e7ffccecedc00e52
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 2.591, DE 6 DE JUNHO DE 2019
+
+PORTARIA Nº 2.591, DE 6 DE JUNHO DE 2019
+
+O DIRETOR DO DEPARTAMENTO NACIONAL DE TRÂNSITO (DENATRAN), no uso das atribuições legais, e, considerando o disposto na Resolução nº 632, de 30 de novembro de 2016, do Conselho Nacional de Trânsito (CONTRAN), e na Portaria nº 27, de 25 de janeiro de 2017, do Departamento Nacional de Trânsito (DENATRAN), bem como o que consta do Processo Administrativo nº 80000.031424/2018-92, resolve:
+
+**Art. 1º** Conceder, por quatro anos, a partir da data de publicação desta Portaria, nos termos do §1º do art. 8º da Resolução nº 632, de 30 de novembro de 2016, do CONTRAN, licença de funcionamento à pessoa jurídica RINIVE INSPEÇÕES VEICULARES LTDA, CNPJ nº 30.302.994/0001-61, situada no Município de Rio Negro - PR, Rua Miguel Valério, nº 28, Tijuco Preto, CEP: 83.880-000, para atuar como Instituição Técnica Licenciada - ITL.
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação.
+
+JERRY ADRIANE DIAS RODRIGUES

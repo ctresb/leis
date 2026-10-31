@@ -1,0 +1,282 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 938, DE 22 DE MARÇO DE 2023"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "938"
+data: 2023-03-22
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 24/03/2023, seção 1, p. 86"
+data_publicacao: 2023-03-24
+edicao: "58"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-938-de-22-de-marco-de-2023-472376562"
+sha256_html_fonte: 6c382a3e213baa86522dc7d2d773fd424866c82c345f8eb38c028e2f41532450
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE Nº 938, DE 22 DE MARÇO DE 2023
+
+RESOLUÇÃO-RE Nº 938, DE 22 DE MARÇO DE 2023
+
+O Coordenador de Autorização de Funcionamento de Empresas, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Conceder Autorização de Funcionamento para Empresas constantes no anexo desta Resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+S2FARMA MEDICAMENTOS LTDA / 45.321.819/0001-99
+
+25351.098825/2023-00 / 7967976
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 0159827230
+
+--------------------------------------
+
+RAIA DROGASIL S/A / 61.585.865/3117-42
+
+25351.097652/2023-02 / 7967928
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 0157024237
+
+--------------------------------------
+
+DROGARIA BANDEIRA ROCHA LTDA / 45.916.945/0001-96
+
+25351.097677/2023-06 / 7967931
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 0157051234
+
+--------------------------------------
+
+LIVIA NICOLE F R OLIVEIRA DROGARIA / 49.562.576/0001-31
+
+25351.107028/2023-12 / 7968326
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 0173119239
+
+--------------------------------------
+
+EVOPHARMA LTDA / 42.582.138/0001-96
+
+25351.101040/2023-13 / 4054453
+
+722 - AFE - CONCESSÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - IMPORTADORA (SOMENTE MATRIZ) / 0163552231
+
+--------------------------------------
+
+BAHIA FARMA LTDA / 48.463.946/0001-10
+
+25351.098966/2023-14 / 7967980
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 0160191238
+
+--------------------------------------
+
+Drogarias do Posto Guaratiba LTDA / 48.428.850/0001-11
+
+25351.106530/2023-14 / 7968221
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 0172569231
+
+--------------------------------------
+
+J E VERAS ROCHA / 35.457.267/0001-97
+
+25351.099215/2023-15 / 7968022
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 0160793238
+
+--------------------------------------
+
+DROGARIA DROGAVISTA LTDA / 00.958.548/0054-50
+
+25351.106470/2023-21 / 7968189
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 0172503230
+
+--------------------------------------
+
+K.S. LOJA 2 COM. DE MED. E PERF. LTDA / 30.905.916/0002-32
+
+25351.098643/2023-21 / 7967962
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 0159461235
+
+--------------------------------------
+
+DROGARIA MINHA SAUDE LTDA / 49.121.596/0001-77
+
+25351.106417/2023-21 / 7968161
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 0172446236
+
+--------------------------------------
+
+MED LINE COMÉRCIO E DISTRIBUIÇÃO DE MEDICAMENTOS LTDA. / 03.286.352/0001-43
+
+25351.100043/2023-30 / 8265530
+
+856 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - DISTRIBUIDORA / 0161723233
+
+--------------------------------------
+
+DROGARIA SAO PAULO S.A. / 61.412.110/1183-18
+
+25351.106976/2023-31 / 7968312
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 0173065236
+
+--------------------------------------
+
+DROGARIA MAIS POPULAR DE TINGUA LTDA / 47.434.176/0001-15
+
+25351.099130/2023-37 / 7968005
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 0160696232
+
+--------------------------------------
+
+DROGARIA MS MARTINS LTDA / 49.539.853/0001-95
+
+25351.097678/2023-42 / 7967945
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 0157052231
+
+--------------------------------------
+
+ABREU BRAGA PRODUTOS FARMACEUTICOS LTDA / 49.377.355/0001-93
+
+25351.106798/2023-48 / 7968297
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 0172862230
+
+--------------------------------------
+
+HYGITECH COMERCIO ATACADISTA DE PRODUTOS DE LIMPEZA LTDA / 31.487.462/0001-09
+
+25351.114102/2023-57 / 3120326
+
+740 - AFE - CONCESSÃO - SANEANTES DOMISSANITÁRIOS - DISTRIBUIDORA (SOMENTE MATRIZ) / 0184765234
+
+--------------------------------------
+
+ALAM RAMOS DOS PASSOS ME / 48.749.480/0001-14
+
+25351.099183/2023-58 / 7968019
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 0160757231
+
+--------------------------------------
+
+DROGARIAS PACHECO S/A / 33.438.250/0670-75
+
+25351.106716/2023-65 / 7968283
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 0172770238
+
+--------------------------------------
+
+VITTA FARMA DROGARIA LTDA / 47.718.529/0001-09
+
+25351.106561/2023-67 / 7968235
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 0172607230
+
+--------------------------------------
+
+DROGARIA SAO PAULO S.A. / 61.412.110/1181-56
+
+25351.106498/2023-69 / 7968204
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 0172532230
+
+--------------------------------------
+
+DROGARIA FARMASIL LTDA / 46.870.948/0001-07
+
+25351.056671/2023-71 / 7968084
+
+7056 - AFE/AE - Recurso Administrativo / 0266490239
+
+--------------------------------------
+
+VENANCIO PRODUTOS FARMACEUTICOS LTDA / 00.285.753/0124-40
+
+25351.106961/2023-72 / 7968309
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 0173047238
+
+--------------------------------------
+
+DARAH DA PAZ ARAUJO / 48.816.315/0001-38
+
+25351.097619/2023-74 / 7967914
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 0156990237
+
+--------------------------------------
+
+RUDINEI MILESKI SCHELSKI / 48.213.308/0001-41
+
+25351.098193/2023-76 / 7967959
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 0158439236
+
+--------------------------------------
+
+FARMACIA SHALON LTDA / 49.352.481/0001-93
+
+25351.106656/2023-81 / 7968252
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 0172707234
+
+--------------------------------------
+
+DROGARIA ULTRADESCONTÃO DO CALU LTDA - ME / 49.123.579/0001-79
+
+25351.106670/2023-84 / 7968266
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 0172721237
+
+--------------------------------------
+
+E. DE LIMA SACRAMENTA LTDA - ME / 45.646.844/0001-42
+
+25351.106712/2023-87 / 7968270
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 0172766231
+
+--------------------------------------
+
+DESCONTÃO PHARMA COMÉRCIO DE MEDICAMENTOS LTDA. / 48.415.661/0001-04
+
+25351.097550/2023-89 / 7967901
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 0156918234
+
+--------------------------------------
+
+HIPER FARMA LTDA / 29.474.162/0066-99
+
+25351.106649/2023-89 / 7968249
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 0172698235
+
+--------------------------------------
+
+BLF COSMETICOS LTDA / 40.167.641/0001-50
+
+25351.099845/2023-90 / 4054440
+
+723 - AFE - CONCESSÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - DISTRIBUIDORA (SOMENTE MATRIZ) / 0161499236
+
+--------------------------------------
+
+DROGARIA POPULAR DE QUEIMADOS LTDA / 47.858.973/0001-20
+
+25351.099122/2023-91 / 7967993
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 0160686237

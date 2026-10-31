@@ -1,0 +1,23 @@
+---
+titulo: "DESPACHO Nº 2.135, DE 15 DE JULHO DE 2025"
+orgao: "Ministério de Minas e Energia/Agência Nacional de Energia Elétrica/Diretoria Colegiada"
+tipo: "Portaria"
+numero: "2135"
+data: 2025-07-15
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 17/07/2025, seção 1, p. 76"
+data_publicacao: 2025-07-17
+edicao: "133"
+fonte: "https://www.in.gov.br/web/dou/-/despacho-n-2.135-de-15-de-julho-de-2025-642500362"
+baixado_em: 2026-10-16
+---
+# DESPACHO Nº 2.135, DE 15 DE JULHO DE 2025
+
+DESPACHO Nº 2.135, DE 15 DE JULHO DE 2025
+
+A DIRETORA-GERAL SUBSTITUTA DA AGÊNCIA NACIONAL DE ENERGIA ELÉTRICA -ANEEL, conforme a Portaria nº 160, de 23 de maio de 2025, no uso de suas atribuições regimentais, de acordo com deliberação da Diretoria, tendo em vista o disposto no art. 21 da Lei nº 10.438, de 26 de abril de 2002, no parágrafo 2º do art. 6º e nos artigos 14, 15 e 16 do Decreto nº 11.027, de 31 de março de 2022, no Decreto nº 12.390, de 28 de fevereiro de 2025, na Resolução Normativa nº 1.003, de 1º de fevereiro de 2022 e nas informações prestadas pela Empresa Brasileira de Participações em Energia Nuclear e Binacional S.A. - ENBPar por meio do Ofício nº 272/2025/ENBPar, de 25 de abril de 2025, e do que consta no Processo nº 48500.007732/2007-09:, decide:
+
+(i) homologar o valor, para 2025, da Reserva Técnica Financeira da Conta de Comercialização de Itaipu, em R$ 360.000.000,00 (trezentos e sessenta milhões de reais), correspondendo a aproximadamente 3,07% do recolhimento anual previsto de R$ 11.728.526.978,88 (onze bilhões, setecentos e vinte e oito milhões, quinhentos e vinte e seis mil, novecentos e setenta e oito reais e oitenta e oito centavos), calculado a partir da multiplicação da potência contratada de 2025, de 114.348 MW pela tarifa de Itaipu de 2025, de US$ 17,66/kW.mês, e convertido em reais com base na taxa de câmbio PTAX média de venda, em R$/U$$, de 1º a 30 de novembro do 2024, no valor de R$ 5,807/US$, o que resulta em um valor de R$ 883.070.372,13 (oitocentos e oitenta e três milhões, setenta mil, trezentos e setenta e dois reais e treze centavos) a ser destinado ao bônus de Itaipu em 2025; (ii) indeferir a recomendação da área técnica quanto à delegação de competência para que a Superintendência de Gestão Tarifária e Regulação Econômica - STR homologue a Reserva Técnica Financeira da Conta de Itaipu, e manter essa atribuição com a Diretoria da ANEEL; (iii) autorizar a utilização do valor do rendimento, sem imposto, apurado pela Empresa Brasileira de Participações em Energia Nuclear e Binacional S.A. - ENBPar até a conclusão da instrução do processo do bônus de Itaipu pela STR, em substituição ao procedimento de estimação do rendimento estabelecido no Submódulo 6.2 do PRORET, de maneira a capturar no bônus de Itaipu e o rendimento efetivo dos valores recompostos à Conta de Itaipu pelas distribuidoras em 2024. Adicionalmente, definir que a ENBPar deve manter o procedimento de atualização do valor homologado pela ANEEL até o efetivo repasse para as distribuidoras; (iv) deferir os pedidos da Amazonas Energia e da CEEE Equatorial para ressarcimento dos valores de R$ 5.401.888,99 (cinco milhões, quatrocentos e um mil, oitocentos e oitenta e oito reais e noventa e nove centavos) e R$ 1.567.873,62 (um milhão, quinhentos e sessenta e sete mil, oitocentos e setenta e três reais e sessenta e dois centavos), respectivamente, sem correção monetária e estabelecer que a fonte de recursos para tais ressarcimento deverão ser os valores devolvidos pelo conjunto de distribuidoras após a aplicação do bônus de Itaipu, de 2024, nas faturas de janeiro de 2025; (v) determinar que a ENBPar apresente, até o dia 21 de julho de 2025, a rentabilidade acumulada na Conta de Comercialização com a posição do 18 de julho de 2025; (vi) determinar que a STR emita despacho com o valor da tarifa bônus de Itaipu e os valores a serem repassados pela ENBPar para as concessionárias e permissionárias de distribuição de energia elétrica, do Sistema Interligado Nacional, até 25 de julho de 2025; (vii) determinar que a ENBPar repasse os valores para as concessionárias e permissionárias de distribuição de energia elétrica até 30 de julho de 2025; (viii) determinar que as concessionárias e permissionárias de distribuição de energia apliquem o crédito do bônus de Itaipu nas faturas de energia elétrica a serem emitidas entre 1º e 31 de agosto de 2025; e (ix) determinar que a STR apresente proposta de incorporação dos novos procedimentos, decorrentes da criação da Reserva Técnica Financeira pelo Decreto nº 12.390, de 2025, no Submódulo 6.2 do PRORET no prazo de até 240 (duzentos e quarenta) dias.
+
+AGNES MARIA DE ARAGÃO DA COSTA

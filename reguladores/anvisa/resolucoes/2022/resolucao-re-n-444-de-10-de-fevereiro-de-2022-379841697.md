@@ -1,0 +1,230 @@
+---
+titulo: "RESOLUÇÃO - RE Nº 444, DE 10 DE FEVEREIRO DE 2022"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/3ª Diretoria/Gerência-Geral de Toxicologia"
+tipo: "Resolução"
+numero: "444"
+data: 2022-02-10
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 14/02/2022, seção 1, p. 87"
+data_publicacao: 2022-02-14
+edicao: "31"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-444-de-10-de-fevereiro-de-2022-379841697"
+sha256_html_fonte: e4ac07a2abe8a773b1b77cfacbf851712dac84d678f7d7d5a3d9dea82b350722
+baixado_em: 2026-10-20
+---
+# RESOLUÇÃO - RE Nº 444, DE 10 DE FEVEREIRO DE 2022
+
+RESOLUÇÃO - RE Nº 444, DE 10 DE FEVEREIRO DE 2022
+
+O Gerente-Geral de Toxicologia no uso das atribuições que lhe conferem o art. 114, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Aprovar a avaliação toxicológica preliminar para fins de Registro Especial Temporário (RET), conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+CARLOS ALEXANDRE OLIVEIRA GOMES
+
+## ANEXO
+
+EMPRESA/CNPJ
+
+PROCESSO
+
+FASE DO EXPERIMENTO
+
+-----------------------------
+
+AVGUST DO BRASIL ASSESSORIA INTERNACIONAL LTDA - 09.721.963/0001-59
+
+25351.832526/2021-35
+
+FASE I
+
+-----------------------------
+
+BASF S/A - 48.539.407/0001-18
+
+25351.866916/2021-17
+
+FASE III
+
+25351.867014/2021-90
+
+FASE III
+
+25351.190495/2021-33
+
+FASE II
+
+25351.190733/2021-19
+
+FASE II
+
+25351.190863/2021-43
+
+FASE II
+
+25351.190902/2021-11
+
+FASE II
+
+25351.190915/2021-81
+
+FASE II
+
+25351.190920/2021-94
+
+FASE II
+
+25351.190929/2021-03
+
+FASE II
+
+25351.190995/2021-75
+
+FASE II
+
+25351.711539/2021-71
+
+FASE II
+
+25351.711629/2021-62
+
+FASE II
+
+25351.283156/2021-08
+
+FASE II
+
+25351.080524/2021-50
+
+FASE II
+
+25351.080553/2021-11
+
+FASE II
+
+25351.080618/2021-29
+
+FASE II
+
+25351.080750/2021-31
+
+FASE II
+
+25351.080878/2021-02
+
+FASE II
+
+25351.080919/2021-52
+
+FASE II
+
+25351.081033/2021-26
+
+FASE II
+
+25351.019685/2021-41
+
+FASE II
+
+25351.031155/2021-71
+
+FASE II
+
+25351.031163/2021-18
+
+FASE II
+
+25351.031170/2021-10
+
+FASE II
+
+25351.031452/2021-17
+
+FASE II
+
+25351.031472/2021-98
+
+FASE II
+
+-----------------------------
+
+BAYER S.A. - 18.459.628/0001-15
+
+25351.832478/2021-85
+
+FASE III
+
+25351.897697/2021-18
+
+FASE II
+
+25351.190885/2021-11
+
+FASE I
+
+25351.710658/2021-15
+
+FASE I
+
+25351.016358/2021-38
+
+FASE III
+
+-----------------------------
+
+FMC QUÍMICA DO BRASIL LTDA. - 04.136.367/0001-98
+
+25351.019818/2021-80
+
+FASE III
+
+-----------------------------
+
+IHARABRAS S.A INDÚSTRIAS QUÍMICAS - 61.142.550/0001-30
+
+25351.168409/2021-14
+
+FASE II
+
+25351.168414/2021-19
+
+FASE I
+
+25351.168420/2021-76
+
+FASE II
+
+25351.168954/2021-01
+
+FASE I
+
+25351.016805/2021-59
+
+FASE III
+
+-----------------------------
+
+SYNGENTA PROTEÇÃO DE CULTIVOS LTDA - 60.744.463/0001-90
+
+25351.897726/2021-33
+
+FASE III
+
+25351.897979/2021-15
+
+FASE III
+
+25351.711344/2021-21
+
+FASE III
+
+-----------------------------
+
+TZ BIOTECH - 11.425.100/0001-86
+
+25351.024659/2021-35
+
+## ANEXO III

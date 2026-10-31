@@ -1,0 +1,48 @@
+---
+titulo: "PORTARIA Nº 5, DE 3 DE OUTUBRO DE 2018"
+orgao: "Ministério da Cultura/Secretaria da Cidadania e da Diversidade Cultural/Departamento de Livro, Leitura, Literatura e Bibliotecas"
+tipo: "Portaria"
+numero: "5"
+data: 2018-10-03
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 04/10/2018, seção 1, p. 15"
+data_publicacao: 2018-10-04
+edicao: "192"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-5-de-3-de-outubro-de-2018-43885258"
+sha256_html_fonte: e99f3ce6c95eeb8e224002a9c6926b717bfce4428fb5decaa1c05fa9cf26b695
+baixado_em: 2026-10-27
+---
+# PORTARIA Nº 5, DE 3 DE OUTUBRO DE 2018
+
+PORTARIA Nº 5, DE 3 DE OUTUBRO DE 2018
+
+A DIRETORA DE LIVRO, LEITURA, LITERATURA E BIBLIOTECAS SUBSTITUTA DA SECRETARIA DE ECONOMIA CRIATIVA DO MINISTÉRIO DA CULTURA, no uso das atribuições conferidas pela Portaria n. 589, de 02 de outubro de 2017, considerando o disposto no Decreto n. 9.411, de 18 de junho de 2018, na Portaria MinC n. 29, de 21 de maio de 2009, torna público o resultado final do Edital de Bibliotecas Digitais 2018, bem como o nome dos participantes da Comissão de Avaliação e Seleção.
+
+<table><tr></tr><tr><td><p><strong>POSIÇÃO</strong></p></td><td><p><strong>PROPONENTE</strong></p></td><td><p><strong>PRONAC</strong></p></td><td><p><strong>MUNICÍPIO</strong></p></td><td><p><strong>UF</strong></p></td><td><p><strong>NOTA</strong></p></td><td><p><strong>VALOR DO APOIO</strong></p></td></tr><tr><td><p>1ª</p></td><td><p>Município de Cedro</p></td><td><p>18-3548</p></td><td><p>Cedro</p></td><td><p>CE</p></td><td><p>24,50</p></td><td><p>R$ 100.000,00</p></td></tr><tr><td><p>2º</p></td><td><p>Município de Gravataí</p></td><td><p>18-3567</p></td><td><p>Gravataí</p></td><td><p>RS</p></td><td><p>24,25</p></td><td><p>R$ 100.000,00</p></td></tr><tr><td><p>3º</p></td><td><p>Município de São Benedito</p></td><td><p>18-3564</p></td><td><p>São Benedito</p></td><td><p>CE</p></td><td><p>24,00</p></td><td><p>R$ 100.000,00</p></td></tr><tr><td><p>4º</p></td><td><p>Secretaria de Estado de Cultura de Minas Gerais</p></td><td><p>18-3549</p></td><td><p>Belo Horizonte</p></td><td><p>MG</p></td><td><p>24,00</p></td><td><p>R$ 100.000,00</p></td></tr><tr><td><p>5º</p></td><td><p>Secretaria de Estado de Cultura do Distrito Federal</p></td><td><p>18-3568</p></td><td><p>Brasília</p></td><td><p>DF</p></td><td><p>23,50</p></td><td><p>R$ 100.000,00</p></td></tr><tr><td><p>6º</p></td><td><p>Secretaria de Estado de Cultura de Mato Grosso</p></td><td><p>18-3556</p></td><td><p>Cuiabá</p></td><td><p>MT</p></td><td><p>23,50</p></td><td><p>R$ 100.000,00</p></td></tr><tr><td><p>7º</p></td><td><p>Município de São Leopoldo</p></td><td><p>18-3566</p></td><td><p>São Leopoldo</p></td><td><p>RS</p></td><td><p>23,50</p></td><td><p>R$ 100.000,00</p></td></tr><tr><td><p>8º</p></td><td><p>Município de Iguatu</p></td><td><p>18-3563</p></td><td><p>Iguatu</p></td><td><p>CE</p></td><td><p>23,00</p></td><td><p>R$ 100.000,00</p></td></tr><tr><td><p>9º</p></td><td><p>Fundação Cultural Alfredo Ferreira Lage</p></td><td><p>18-3569</p></td><td><p>Juiz de Fora</p></td><td><p>MG</p></td><td><p>22,50</p></td><td><p>R$ 100.000,00</p></td></tr><tr><td><p>10º</p></td><td><p>Município de Itapetininga</p></td><td><p>18-3546</p></td><td><p>Itapetininga</p></td><td><p>SP</p></td><td><p>22,25</p></td><td><p>R$ 100.000,00</p></td></tr><tr><td><p>11º</p></td><td><p>Prefeitura Municipal de Gramado</p></td><td><p>18-3543</p></td><td><p>Gramado</p></td><td><p>RS</p></td><td><p>21,00</p></td><td><p>R$ 100.000,00</p></td></tr><tr><td><p>12º</p></td><td><p>Prefeitura Municipal de Bom Despacho</p></td><td><p>18-3545</p></td><td><p>Bom Despacho</p></td><td><p>MG</p></td><td><p>20,50</p></td><td><p>R$ 100.000,00</p></td></tr><tr><td><p>13º</p></td><td><p>Fundação Casa das Artes de Bento Goncalves</p></td><td><p>18-3565</p></td><td><p>Bento Gonçalves</p></td><td><p>RS</p></td><td><p>20,25</p></td><td><p>R$ 100.000,00</p></td></tr><tr><td><p>14º</p></td><td><p>Prefeitura Municipal de São Caetano do Sul</p></td><td><p>18-3551</p></td><td><p>São Caetano do Sul</p></td><td><p>SP</p></td><td><p>19,75</p></td><td><p>R$ 100.000,00</p></td></tr><tr><td><p>15º</p></td><td><p>Município de Pentecoste</p></td><td><p>18-3570</p></td><td><p>Pentecoste</p></td><td><p>CE</p></td><td><p>19,50</p></td><td><p>R$ 100.000,00</p></td></tr><tr><td><p>16º</p></td><td><p>Prefeitura Municipal de Itanhaém</p></td><td><p>18-3555</p></td><td><p>Itanhaém</p></td><td><p>SP</p></td><td><p>18,75</p></td><td><p>R$ 100.000,00</p></td></tr><tr><td><p>17º</p></td><td><p>Município de São Carlos</p></td><td><p>18-3553</p></td><td><p>São Carlos</p></td><td><p>SP</p></td><td><p>18,00</p></td><td><p>R$ 100.000,00</p></td></tr><tr><td><p>18º</p></td><td><p>Fundação Cultural do Estado do Pará</p></td><td><p>18-3544</p></td><td><p>Belém</p></td><td><p>PA</p></td><td><p>17,50</p></td><td><p>R$ 100.000,00</p></td></tr><tr><td><p>19º</p></td><td><p>Município de Campo Bom</p></td><td><p>18-3550</p></td><td><p>Campo Bom</p></td><td><p>RS</p></td><td><p>16,75</p></td><td><p>R$ 100.000,00</p></td></tr></table>
+
+**Art. 1º** Os proponentes selecionados devem cadastrar suas propostas no Portal de Convênios - SICONV (http://www.convenios.gov.br), no Programa nº 4200020180013, anexando os documentos listados no Anexo IV do Edital de Bibliotecas Digitais 2018, além de outros solicitados pelo Ministério da Cultura.
+
+**Art. 2º** A Comissão de Avaliação e Seleção foi composta por:
+
+I- Almiraci Dantas dos Santos
+
+II- Ana Cristina Araruna Melo
+
+III- Ana Maria da Costa Souza
+
+IV- Daniela de Oliveira Estevam
+
+V- Francisco Fernando Braga Menezes
+
+VI- Gregório Borges Machado
+
+VII- Greyciane Souza Lins
+
+VIII- Guilherme Relvas D'Oliveira
+
+IX- Jaqueline Ferreira dos Santos Gomes
+
+X- Melly Fátima Goes Sena
+
+ANA CRISTINA ARARUNA MELO

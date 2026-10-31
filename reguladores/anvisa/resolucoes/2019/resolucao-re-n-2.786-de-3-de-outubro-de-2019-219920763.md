@@ -1,0 +1,142 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.786, DE 3 DE OUTUBRO DE 2019"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Terceira Diretoria/Gerência de Produtos de Higiene, Perfumes, Cosméticos e Saneantes"
+tipo: "Resolução"
+numero: "2786"
+data: 2019-10-03
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 04/10/2019, seção 1, p. 64"
+data_publicacao: 2019-10-04
+edicao: "193"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.786-de-3-de-outubro-de-2019-219920763"
+sha256_html_fonte: ab34b66179c24f540af5c222164f5da16acb056aba0dda95a38e1f45a8a42b22
+baixado_em: 2026-10-27
+---
+# RESOLUÇÃO-RE Nº 2.786, DE 3 DE OUTUBRO DE 2019
+
+RESOLUÇÃO-RE Nº 2.786, DE 3 DE OUTUBRO DE 2019
+
+O Gerente de Produtos de Higiene, Cosméticos, Perfumes e Saneantes, Substituto, no uso das atribuições que lhe confere o art. 164, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:
+
+**Art.1º** Tornar insubsistente a Resolução - RE nº 2558, de 12 de setembro de 2019, publicada no Diário Oficial da União nº 179, de 16 de setembro de 2019, Seção 1, página 94 e Suplemento, página 36, única e exclusivamente referente ao processo em anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+ITAMAR DE FALCO JUNIOR
+
+## ANEXO
+
+NOME DA EMPRESA: VR MEDICAL IMPORTADORA E DISTRIBUIDORA DE PRODUTOS MÉDICOS LTDA
+
+AUTORIZAÇÃO: 3.02721-9
+
+NOME DO PRODUTO E MARCA: VESPHENE II
+
+VERSÃO: SE
+
+NUMERO DE PROCESSO: 25351.221121/2013-16
+
+NUMERO DE REGISTRO: 3.2721.0021.001-1
+
+VENDA E EMPREGO: PRODUTO DE USO PROFISSIONAL OU DE VENDA RESTRITA
+
+VENCIMENTO: 12/2023
+
+APRESENTAÇÃO: GALAO PLASTICO + CAIXA DE PAPELAO
+
+VALIDADE DO PRODUTO: 36 Meses
+
+CATEGORIA: 3205029 DESINFETANTE HOSPITALAR PARA SUPERFÍCIES FIXAS E ARTIGOS NÃO CRÍTICOS
+
+ASSUNTO DA PETIÇÃO: 391 Cancelamento de Registro de Produto de Risco 2 por Transferência de Titularidade
+
+EXPEDIENTE DA PETIÇÃO: 0488290/19-3
+
+NOME DO PRODUTO E MARCA: VESPHENE II
+
+VERSÃO: SE
+
+NUMERO DE PROCESSO: 25351.221121/2013-16
+
+NUMERO DE REGISTRO: 3.2721.0021.002-1
+
+VENDA E EMPREGO: PRODUTO DE USO PROFISSIONAL OU DE VENDA RESTRITA
+
+VENCIMENTO: 12/2023
+
+APRESENTAÇÃO: TAMBOR PLASTICO OPACO
+
+VALIDADE DO PRODUTO: 36 Meses
+
+CATEGORIA: 3205029 DESINFETANTE HOSPITALAR PARA SUPERFÍCIES FIXAS E ARTIGOS NÃO CRÍTICOS
+
+ASSUNTO DA PETIÇÃO: 391 Cancelamento de Registro de Produto de Risco 2 por Transferência de Titularidade
+
+EXPEDIENTE DA PETIÇÃO: 0488290/19-3
+
+NOME DO PRODUTO E MARCA: VESPHENE II
+
+VERSÃO: ST
+
+NUMERO DE PROCESSO: 25351.221121/2013-16
+
+NUMERO DE REGISTRO: 3.2721.0021.003-8
+
+VENDA E EMPREGO: PRODUTO DE USO PROFISSIONAL OU DE VENDA RESTRITA
+
+VENCIMENTO: 12/2023
+
+APRESENTAÇÃO: SACHET + CAIXA DE PAPELAO
+
+VALIDADE DO PRODUTO: 36 Meses
+
+CATEGORIA: 3205029 DESINFETANTE HOSPITALAR PARA SUPERFÍCIES FIXAS E ARTIGOS NÃO CRÍTICOS
+
+ASSUNTO DA PETIÇÃO: 391 Cancelamento de Registro de Produto de Risco 2 por Transferência de Titularidade
+
+EXPEDIENTE DA PETIÇÃO: 0488290/19-3
+
+NOME DO PRODUTO E MARCA: VESPHENE II
+
+VERSÃO: ST
+
+NUMERO DE PROCESSO: 25351.221121/2013-16
+
+NUMERO DE REGISTRO: 3.2721.0021.004-6
+
+VENDA E EMPREGO: PRODUTO DE USO PROFISSIONAL OU DE VENDA RESTRITA
+
+VENCIMENTO: 12/2023
+
+APRESENTAÇÃO: GALAO PLASTICO + CAIXA DE PAPELAO
+
+VALIDADE DO PRODUTO: 36 Meses
+
+CATEGORIA: 3205029 DESINFETANTE HOSPITALAR PARA SUPERFÍCIES FIXAS E ARTIGOS NÃO CRÍTICOS
+
+ASSUNTO DA PETIÇÃO: 391 Cancelamento de Registro de Produto de Risco 2 por Transferência de Titularidade
+
+EXPEDIENTE DA PETIÇÃO: 0488290/19-3
+
+NOME DO PRODUTO E MARCA: VESPHENE II
+
+VERSÃO: ST
+
+NUMERO DE PROCESSO: 25351.221121/2013-16
+
+NUMERO DE REGISTRO: 3.2721.0021.005-4
+
+VENDA E EMPREGO: PRODUTO DE USO PROFISSIONAL OU DE VENDA RESTRITA
+
+VENCIMENTO: 12/2023
+
+APRESENTAÇÃO: FRASCO
+
+VALIDADE DO PRODUTO: 36 Meses
+
+CATEGORIA: 3205029 DESINFETANTE HOSPITALAR PARA SUPERFÍCIES FIXAS E ARTIGOS NÃO CRÍTICOS
+
+ASSUNTO DA PETIÇÃO: 391 Cancelamento de Registro de Produto de Risco 2 por Transferência de Titularidade
+
+EXPEDIENTE DA PETIÇÃO: 0488290/19-3

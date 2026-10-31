@@ -1,0 +1,104 @@
+---
+titulo: "PORTARIA Nº 301, DE 15 DE MAIO DE 2017"
+orgao: "Ministério da Cultura/SECRETARIA DE FOMENTO E INCENTIVO À CULTURA"
+tipo: "Portaria"
+numero: "301"
+data: 2017-05-15
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 16/05/2017, seção 1, p. 13"
+data_publicacao: 2017-05-16
+edicao: "92"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-301-de-15-de-maio-de-2017-20214749"
+sha256_html_fonte: 18203da2eeeef5d6ef84613bcb57972a607c84e6df508ce6c84593602253c91e
+baixado_em: 2026-10-27
+---
+# PORTARIA Nº 301, DE 15 DE MAIO DE 2017
+
+PORTARIA Nº 301, DE 15 DE MAIO DE 2017
+
+O SECRETÁRIO DE FOMENTO E INCENTIVO À CULTURA,no uso de suas atribuições legais, que lhe confere a Portarianº 1317, de 01 de julho de 2016 e o art. 4º da Portaria nº 120, de 30de março de 2010, resolve:
+
+**Art. 1.º** - Aprovar o(s) projeto(s) cultural(is), relacionado(s)no(s) anexo(s) desta Portaria, para o(s) qual(is) o(s) proponente(s)fica(m) autorizado(s) a captar recursos, mediante doações ou patrocínios,na forma prevista no § 1º do artigo 18 e no artigo 26 da Lein.º 8.313, de 23 de dezembro de 1991, alterada pela Lei nº 9.874, de23 de novembro de 1999.
+
+**Art. 2.º** - Esta portaria entra em vigor na data de sua publicação.
+
+JOSÉ PAULO SOARES MARTINS
+
+## ANEXO I — ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )170306 - O Colecionador de HistóriasLuthero Renato de AlmeidaCNPJ/CPF: 064.787.869-00
+
+Processo: 01400002658201762Cidade: Curitiba - PR;Valor Aprovado: R$ 121.300,00Prazo de Captação: 16/05/2017 à 30/11/2017Resumo do Projeto: Circulação do Espetáculo Teatral Infantil "OColecionar de Histórias" em escolas públicas do estado do Paraná,estatuais, municipais e preferencialmente em escolas rurais. Todas asapresentações com entradas gratuitas para alunos, educadores e comunidade.Em conjunto com a realização de encontros de sensibilizaçãoteatral gratuitos para os educadores e agentes culturais locais.
+
+170081 - O Suplício de Frei CanecaMANOEL CONSTANTINO FILHO
+
+CNPJ/CPF: 138.092.884-20Processo: 01400001154201725Cidade: Recife - PE;Valor Aprovado: R$ 458.617,00Prazo de Captação: 16/05/2017 à 31/12/2017Resumo do Projeto: Montagem e apresentações do oratório dramáticoO SUPLÍCIO DE FREI CANECA, baseado no texto homônimo deCláudio Aguiar e direção de José Francisco Filho. O projeto visarealizar 18 apresentações nas igrejas da Ordem Carmelira do Estadode Pernambuco, nas seguintes cidades: Recife (10), Olinda(08), Goiana(02), Caruaru (02), Arcoverde (02) e Garanhuns (02). Ainda serárealizada duas palestras para a comunidade carmelita, ressaltando aimportância de Frei Caneca no Cenário político e social do Estado.
+
+170500 - Os FugitivosAtividartes Produçõe Artísticas e Culturais Ltda-ME.CNPJ/CPF: 06.652.057/0001-51Processo: 01400004315201732Cidade: São Bernardo do Campo - SP;Valor Aprovado: R$ 497.000,00Prazo de Captação: 16/05/2017 à 31/12/2017Resumo do Projeto: O projeto visa a produção e encenação da peça AEstalagem dos Trampolineiros (tradução de L'Auberge des Adrets, deBenjamin Antier, Lacoste de Saint-Amand e Paulyanthe) - aqui intituladoOS FUGITIVOS. Serão realizadas oficina, workshop e masterclassessobre o gênero melodramático.
+
+170653 - PALHAÇARIA SEM DOR - SORRIR É UM SANTO REMÉDIOAMAZON FEIRAS, EVENTOS, PUBLICIDADES E PRODUÇÕES LTDACNPJ/CPF: 21.959.251/0001-78Processo: 01400005195201791Cidade: Manaus - AM;Valor Aprovado: R$ 596.837,50Prazo de Captação: 16/05/2017 à 31/12/2017Resumo do Projeto: PALHAÇARIA SEM DOR - SORRIR É UMSANTO REMÉDIO é um projeto de intervenções cênicas da arte dapalhaçaria a ser realizado por duplas de palhaços e seus assistentes,em hospitais da região metropolitana de Manaus/AM. Contará com apromoção de apresentações em visitas às enfermarias e ambulatórios,e será complementada por oficinas que vão buscar difundir o estudoteórico e prático da milenar arte da palhaçaria para dezenas de multiplicadores.Permanecendo 10 meses em atividades lúdicas, todos osdias da semana, buscando contribuir para a recuperação de milharesde pacientes.
+
+164771 - Pampa no litoralSUZANA PEREIRA SCHWUCHOW - MECNPJ/CPF: 13.504.512/0001-37Processo: 01400222841201600Cidade: Porto Alegre - RS;Valor Aprovado: R$ 672.488,80Prazo de Captação: 16/05/2017 à 31/12/2017Resumo do Projeto: Realizar apresentações circenses, danças, musica eteatro com diversas linguagens artisticas, que possibilitarão a interaçãoentre moradores e visitantes das regiões do Rio Grande do Sul e paisesvizinhos.O projeto visa a inclusão sociocultural e a difusão destasculturas através das danças, musica, teatro e dança.O projeto prevepalestras para os frequentadores e moradores do locais de realização.
+
+165070 - PELO BURACO DA FECHADURACooperativa Paulista de TeatroCNPJ/CPF: 51.561.819/0001-69Processo: 01400225266201699Cidade: São Paulo - SP;Valor Aprovado: R$ 213.286,00Prazo de Captação: 16/05/2017 à 31/12/2017Resumo do Projeto: Realizar a produção e 20 apresentações gratuitasdo espetáculo de bonecos "PELO BURACO DA FECHADURA",para o público em geral em ONGs, entidades beneficentes, instituiçõessociais, comunidades, escolas da rede pública e espaços alternativos.O espetáculo de animação utiliza bonecos de manipulaçãodireta, difundindo a linguagem do teatro de bonecos para jovens eadultos. As apresentações serão realizadas na capital, cidades daGrande São Paulo e em cidades do litoral e do interior do estadodistantes até 200 km da capital. O projeto prevê 12 meses de trabalho:4 meses de preparação, 7 meses de apresentação e 1 mês de finalização.
+
+170486 - Projeto Cena 11Associação Cultural Corpo RastreadoCNPJ/CPF: 07.818.952/0001-66Processo: 01400004219201794Cidade: São Paulo - SP;Valor Aprovado: R$ 1.114.350,00Prazo de Captação: 16/05/2017 à 31/12/2017Resumo do Projeto: Esse projeto visa realizar a circulação dos espetáculos"Monotonia de aproximação e Fuga para sete corpos " e " Protocolo Elefante",bem como residência no Japão para o enriquecimento do espetáculo " ProtocoloElefante" . Por todas as cidades onde o projeto irá passar, ofereceremosuma oficina gratuita para até 30 pessoas com 8 horas de carga horária cada.
+
+170332 - Projeto Criando com Arte na UnidadeUnidade Social Nossa Senhora AparecidaCNPJ/CPF: 75.341.560/0001-09Processo: 01400002695201771Cidade: Rolândia - PR;Valor Aprovado: R$ 183.500,00Prazo de Captação: 16/05/2017 à 31/12/2017Resumo do Projeto: O Projeto Criando com Arte na Unidade se dápor meio de oficinas, nas áreas de Dança (Ballet Clássico), Teatro,Música Instrumental e Artes Plásticas. Ao final de cada semestreserão realizadas apresentações culturais com todos os envolvidos noprojeto.
+
+164755 - PROJETO JÁ PRA CAMA!Barracão Cultural Produções Artísticas S/S Ltda. MECNPJ/CPF: 05.613.627/0001-31Processo: 01400222681201691Cidade: São Paulo - SP;Valor Aprovado: R$ 201.600,00Prazo de Captação: 16/05/2017 à 31/12/2017Resumo do Projeto: Este projeto tem como objetivo realizar umatemporada popular do espetáculo teatral infantil Já pra Cama!
+
+170203 - Rodeio Campo dos Bugres - Festival de DançasCentro de Tradições Gauchas Campo dos BugresCNPJ/CPF: 91.106.484/0001-03Processo: 01400002055201761Cidade: Caxias do Sul - RS;Valor Aprovado: R$ 266.360,00Prazo de Captação: 16/05/2017 à 31/12/2017Resumo do Projeto: O festival de danças prevê a realização de mostrae concurso no segmento do folclore, tradicionalismo e etnias, paragrupos nas categorias mirim, juvenil, adulto e veteranos, reunindocoreógrafos, dançarinos e invernadas artísticas dos Centros de Tradiçõesdo Brasil, Uruguai, Paraguai e Argentina num encontro deintegração cultural na área das tradições com o propósito de valorizar,dar visibilidade, resgatar e cultivar as danças que passadas de geraçãopara geração mantém vivas as raízes culturais que caracterizam olegado de cada comunidade.
+
+ÁREA: 3 MÚSICA (Artigo 18 , § 1º )170331 - Festival SouPor do Som Produções Artísticas Ltda.CNPJ/CPF: 04.491.146/0001-38Processo: 01400002694201726Cidade: São Paulo - SP;Valor Aprovado: R$ 915.000,00Prazo de Captação: 16/05/2017 à 01/12/2017Resumo do Projeto: O Festival Sou consiste na realização de umfestival de música instrumental brasileira reunindo em quatro dias 12artistas da música instrumental brasileira, intervenções de manifestaçõesculturais como dança e grupos folclóricos, food trucks, exposiçãofotográfica, barracas artesanais e artistas visuais.
+
+170549 - Música no Museu da PampulhaVEREDAS PRODUCOES EIRELI - EPP
+
+CNPJ/CPF: 00.614.034/0001-76Processo: 01400004485201717Cidade: Belo Horizonte - MG;
+
+Valor Aprovado: R$ 737.881,50Prazo de Captação: 16/05/2017 à 31/12/2017Resumo do Projeto: O projeto "MÚSICA NO MUSEU DA PAMPULHA"realiza há 18 anos uma série de espetáculos no auditório doMuseu de Arte da Pampulha, divulgando artistas locais e nacionaisem encontros de grande qualidade técnica e artística a preços populares.Desde as suas primeiras edições, o projeto passou a fazerparte do calendário artístico-cultural da cidade, trazendo música comprimazia em um local que é um dos mais importantes cartões postaisde Belo Horizonte e Patrimônio da Humanidade.
+
+170501 - Novo Galpão 2017Associação dos Profissionais de Artes Técnicas e Afins - AprataCNPJ/CPF: 02.313.296/0001-26Processo: 01400004316201787Cidade: Novo Hamburgo - RS;Valor Aprovado: R$ 77.500,00
+
+Prazo de Captação: 16/05/2017 à 31/12/2017Resumo do Projeto: Realização de um grande show da Orquestra deSopros de Novo Hamburgo (OSNH) com gravação de DVD e aparticipação de músicos convidados do cenário musical. Além disso,estão programadas duas apresentações gratuitas da Orquestra e oficinasde música instrumental.
+
+165092 - O som do BrasilAcademia de CordasCNPJ/CPF: 00.965.174/0001-99Processo: 01400225563201634Cidade: Blumenau - SC;Valor Aprovado: R$ 788.040,00Prazo de Captação: 16/05/2017 à 31/12/2017Resumo do Projeto: Realização de 8 Concertos a serem apresentadospela Orquestra de Câmara de Blumenau com a participação do musicistaRenato Borghetti e outros renomados solistas. As cidades selecionadasserão no estado de Santa Catarina (Blumenau, Florianópolis,Jaraguá do sul, Brusque, Lages, Joinville e Itajaí) e no estadodo Paraná (Curitiba). Todos os concertos terão ENTRADA FRANCA,e serão realizados em teatros ou salas de espetáculos das respectivascidades.
+
+170423 - Pautando VidasCASSIO APARECIDO SIQUEIRACNPJ/CPF: 328.661.668-09Processo: 01400003721201788Cidade: Atibaia - SP;Valor Aprovado: R$ 200.470,68Prazo de Captação: 16/05/2017 à 31/12/2017Resumo do Projeto: O projeto vai oferecer gratuitamente aulas deiniciação musical , violino, viola ,violoncello, harpa, flauta e percussãopara crianças e jovens em situação de vulnerabilidade social.O projeto ainda oferecerá quatro apresentações gratuitas da cameratados professores.Serão apresentações abertas ao público nos locaisonde acontecerão as aulas periódicas.
+
+170615 - Pipoca Jazz - música instrumentalTrestada Produções Artísticas e EventosCNPJ/CPF: 05.148.950/0001-81Processo: 01400004890201735Cidade: Rio de Janeiro - RJ;Valor Aprovado: R$ 390.900,00Prazo de Captação: 16/05/2017 à 31/12/2017Resumo do Projeto: O projeto Pipoca Jazz - Música Instrumental tempor objetivo difundir e democratizar a música instrumental em suasdiversas formas de manifestação. Para isso, apresenta um projeto quepropõe a realização de 35 concertos, a começar pela cidade de Poçosde Caldas e seguir pelos municípios que pertencem à Estrada Real, noEstado de Minas Gerais. O projeto propõe a apresentação de trêsconcertos distintos: O Concerto Pipoca & Jazz, realizados em praçaspúblicas, o Concerto M.I.B. - Música Instrumental Brasileira, destinadoà Casas de Teatro ou Instituições Culturais, e os ConcertosDidáticos, que visam à formação de público, em escolas de educaçãoformal. O projeto tem direção musical de Felipe Dias e segue aformação originalmente composta por Júlio Melo, no baixo acústico,Fábio Guido, na bateria e, no piano, o músico Felipe Dias.
+
+164966 - Projeto DóRéMiAssociação Cultural e Recreativa IlluminareCNPJ/CPF: 13.609.611/0001-83Processo: 01400224275201662Cidade: Rolândia - PR;Valor Aprovado: R$ 164.095,00Prazo de Captação: 16/05/2017 à 31/12/2017Resumo do Projeto: O projeto apresentado visa a manutenção deinstrumentos da orquestra e a contratação de instrutores, para o anode 2017, visando melhorar a qualidade técnica dos atuais integrantesda orquestra, bem como ampliar de 90 para 140 o número de vagaspara a formação musical gratuita ofertadas a comunidade. Será realizadono decorrer do projeto apresentações musicais e concertosdidáticos visando difundir a musica instrumental e orquestra.
+
+ÁREA: 4 ARTES VISUAIS (Artigo 18 , § 1º )170756 - Exposição São Paulo, Caderno de DesenhosInstituto Cultural AnastassiadisCNPJ/CPF: 07.020.094/0001-00Processo: 01400005642201710Cidade: São Paulo - SP;Valor Aprovado: R$ 76.745,00Prazo de Captação: 16/05/2017 à 17/08/2017Resumo do Projeto: A exposição São Paulo, Caderno de Desenhosapresenta o olhar sensível do artista plástico Eduardo Bajzek sobre acidade de São Paulo, retratada por meio de aquarelas, nanquins,markers e grafite. Como desenhista urbano, Eduardo observa a cidade,fonte de inspiração para retratar seus vários momentos e paisagens,que são registradas em seu caderno de desenhos.São mais de18 anos como artista e arquiteto e mais de 2000 ilustrações nesseperíodo, com prêmios, exposições e livros realizados.
+
+170171 - Partituras: Marina NazarethMarina de Oliveira NazarethCNPJ/CPF: 251.627.726-15Processo: 01400001726201776Cidade: Belo Horizonte - MG;
+
+Valor Aprovado: R$ 297.502,00Prazo de Captação: 16/05/2017 à 31/12/2017Resumo do Projeto: O projeto "Partituras: Marina Nazareth" apresentauma exposição e um concerto musical, resultado de uma longapesquisa elaborada pela artista sobrea interseção e pontos de conexãoentre a música e as artes visuais.
+
+170259 - São Paullo, Geometria e LacunaMILOG TECNOLOGIA DA INFORMACAO LTDA.CNPJ/CPF: 10.733.781/0001-87Processo: 01400002365201785Cidade: Cotia - SP;Valor Aprovado: R$ 400.000,00Prazo de Captação: 16/05/2017 à 30/12/2017Resumo do Projeto: Geometria e Lacuna em São Paulo. Geometria:Parte da matemática que tem por objeto o estudo rigoroso do espaçoe das formas. Lacuna: Espaço vazio, real ou imaginário; falha, falta.São Paulo: Cidade com 17 milhões de pessoas querendo coisas. Tratasede uma exposição de fotografias sobre a cidade de São Paulo, ondeserão produzidos um catálogo e um site na Internet. A exposição serárealizada na Biblioteca Mario de Andrade, em São Paulo - Capital.Carta de anuência em anexo.
+
+ÁREA: 5 PATRIMÔNIO CULTURAL (Artigo 18 , § 1º )170480 - Restauração e revitalização do Museu do Santuario NacionalSão José de AnchietaInstituto Modus Vivendi de Desenvolvimento Social, Cultural e AmbientalCNPJ/CPF:08.636.850/0001-92Processo: 01400004213201717Cidade: Vitória - ES;Valor Aprovado: R$ 5.664.442,67Prazo de Captação: 16/05/2017 à 31/12/2017Resumo do Projeto: O projeto visa restaurar e revitalizar o importantemuseu do santuario São José de Anchieta criado em 1965 para preservaras imagens e objetos litúrgicos da Igreja que estavam fora deuso, bem como preservar uma das mais importante cultura e históricajesuitica do Brasil. O projeto pretende conservar e requalificar umaparte que se remete ao museu , do tetracentenário complexo históricoe arquitetônico formado pela igreja e residência dos jesuítas, iniciadasem 1579, na época Reritiba, e hoje Anchieta/ES, às quais se vinculamnão apenas a vida e obra de São José de Anchieta, mas a história doBrasil. Visa-se a adequação deste vestuto patrimônio nacional a novasvalências científicas, históricas, culturais e sociais, preservando o seupapel de difusor da memória da construção da brasilidade.
+
+164037 - Restauro e Conservação da Cobertura e Torre Sineira daCatedral de Santana - Barra do PiraíMarcelo Maracajá GonçalvesCNPJ/CPF: 099.225.757-36Processo: 01400219103201677Cidade: Vassouras - RJ;Valor Aprovado: R$ 641.820,17Prazo de Captação: 16/05/2017 à 01/09/2017Resumo do Projeto: Obras de Restauração e Conservação da Coberturae Torre Sineira da Catedral de Santana em Barra do Piraí,localizada no Estado do Rio de Janeiro, bem tombado municipal.
+
+ÁREA: 6 HUMANIDADES (Artigo 18 , § 1º )170766 - JORGE BISPO - RETRATOSMEMOO PRODUCOES E DESIGN LTDA - MECNPJ/CPF: 24.497.910/0001-90Processo: 01400005653201791Cidade: Rio de Janeiro - RJ;Valor Aprovado: R$ 526.110,00Prazo de Captação: 16/05/2017 à 31/12/2017Resumo do Projeto: O Projeto JORGE BISPO - RETRATOS trata daprodução de um livro de fotografias, de valor artístico e documental,com tiragem de 3.000 cópias, com cerca de 200 retratos do fotógrafobrasileiro e carioca, Jorge Bispo, além da exposição de 20 retratos,palestra do fotógrafo e lançamento no Rio de Janeiro e em São Paulo,com projeção. Para citar alguns nomes dos retratados que constarãono livro: Roberto Carlos, Caetano Veloso, Chico Buarque, DavidLynch, Patti Smith, entre outros. O período de execução desta propostaserá de 9 meses.
+
+170215 - Museus da Bahia - Museu de Arte da Bahia (MAB)ExpoartCNPJ/CPF: 04.671.069/0001-06Processo: 01400002072201706Cidade: Salvador - BA;Valor Aprovado: R$ 575.945,00Prazo de Captação: 16/05/2017 à 31/12/2017Resumo do Projeto: Produção de um livro sobre o acervo e históriado MAB (Museu de Arte da Bahia), com tiragem de 3.000 exemplareso livro estará disponível na loja do museu e aliado a um guiade visitação em formato de folder ajudará o visitante a conhecer oacervo da instituição. Também será feito um site com um tour virtualpelas dependências do Museu e visita de 400 crianças da rede públicade ensino com lanche e transporte para conhecer o MAB.
+
+170482 - O folclore na perspectiva infantil (título provisório)Hibrys Ensino de Arte e CulturaCNPJ/CPF: 11.175.891/0001-33Processo: 01400004215201714Cidade: São Paulo - SP;Valor Aprovado: R$ 324.307,50Prazo de Captação: 16/05/2017 à 25/10/2017Resumo do Projeto: Projeto tem como objetivo despertar o interessesobre cultura do folclore brasileiro em crianças de 3 aos 11 anos, pormeio do desenvolvimento e da disposição gratuita de materiais lúdicos,literários, intuitivos, ramatúrgicos e interativos - site, livro,jogo de tabuleiro, peça teatral e oficinas debrincadeiras.
+
+## ANEXO II
+
+ÁREA: 3 MÚSICA (Artigo 26)170431 - Idealização/Produção/Gravação/Divulgação do CD Nilo RicarJR7 GESTAO, PRODUCAO E EDITORA ARTISTICA MUSICALEIRELI - MECNPJ/CPF: 18.569.934/0001-04Processo: 01400003756201717Cidade: Curitiba - PR;Valor Aprovado: R$ 343.970,00Prazo de Captação: 16/05/2017 à 31/12/2017Resumo do Projeto: O projeto tem por objetivo a produção, gravaçãoe divulgação de um CD com vinte canções do músico "Nilo Ricar".
+
+165000 - Nelson Sargento em: Samba! Um Clássico PopularCONEXÃO SOCIAL PRODUÇÕES LTDA MECNPJ/CPF: 13.790.247/0001-09Processo: 01400224499201674Cidade: Rio de Janeiro - RJ;Valor Aprovado: R$ 3.540.400,00Prazo de Captação: 16/05/2017 à 31/12/2017Resumo do Projeto: Com projeto inédito, Nelson Sargento, baluartedo samba, associa o clássico e o popular, através de um show commúsicos de regionais de samba e orquestra. No roteiro além de músicasinéditas, percorrerá a discografia do mestre, além de contemplarmúsicas de seus parceiros e de outros sambistas históricos.
+
+170127 - O PROBLEMA É A VELOCIDADEArtedarte Produções Ltda.-EPPCNPJ/CPF: 04.514.650/0001-06Processo: 01400001551201705Cidade: Rio de Janeiro - RJ;Valor Aprovado: R$ 773.795,00Prazo de Captação: 16/05/2017 à 31/08/2017Resumo do Projeto: O Projeto "O Problema é a Velocidade" dacantora e atriz Emanuelle Araújo trata-se de por na estrada em 2017um espetáculo musical inédito de lançamento do primeiro trabalhosolo da artista, a ser realizado em quatro cidades. Um potente materialde sonoridade única e totalmente brasileira, sem bateria combaixos sem muito grave, como dos discos franceses dos anos 60, comarranjos de clarinete, flautas e metais profundamente sensorial e poético,incorporando toda esta musicalidade com a encenação como umprolongamento desses sentidos. Conduzindo as pessoas a todo tipo desensações que vai além de um show, tocando os sentidos do público.
+
+164967 - Qualquer PalavraRodrigo Márcio Cardoso BorgesCNPJ/CPF: 034.697.416-03Processo: 01400224276201615Cidade: Belo Horizonte - MG;
+
+Valor Aprovado: R$ 211.150,00Prazo de Captação: 16/05/2017 à 03/09/2017Resumo do Projeto: Este projeto consiste na gravação do DVD epublicação de um livro que virá dentro da capa deste DVD. Juntos osdois produtos farão um memorial do acervo da história da músicamineira desde suas raízes até os dias atuais. O álbum não só se ateráàs ricas influências do Clube da Esquina, mas passará também pelaretratará a poesia da Bossa Nova, a consistência dos metais do Jazz ea alegria e irreverência do Samba: uma bela combinação de sons, emdoses certeiras, que o interprete Rodrigo Borges realizará com aousadia e primor de quem não só nasceu na música, mas dela vive.
+
+JOSÉ PAULO SOARES MARTINS
+
+Este conteúdo não substitui o publicado na versão certificada.

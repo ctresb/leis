@@ -1,0 +1,32 @@
+---
+titulo: "PORTARIA Nº 638, de 26 de setembro de 2019"
+orgao: "Ministério da Educação/Universidade Federal de Santa Catarina/Pró-Reitoria de Desenvolvimento e Gestão de Pessoas/Departamento de Desenvolvimento de Pessoas"
+tipo: "Portaria"
+numero: "638"
+data: 2019-09-26
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 27/09/2019, seção 1, p. 145"
+data_publicacao: 2019-09-27
+edicao: "188"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-638-de-26-de-setembro-de-2019-218532687"
+sha256_html_fonte: 736705741b941c2ab057be594ec6f2ec35171a44cffd87424c3e6bd252ebefdc
+baixado_em: 2026-10-27
+---
+# PORTARIA Nº 638, de 26 de setembro de 2019
+
+PORTARIA Nº 638, de 26 de setembro de 2019
+
+A Diretora do Departamento de Desenvolvimento de Pessoas da Universidade Federal de Santa Catarina, no uso de suas atribuições e tendo em vista o que consta do processo nº 23080.057205/2019-38 resolve:
+
+Homologar o resultado do Processo Seletivo Simplificado do Colégio de Aplicação - CA/CED, instituído pelo Edital nº 109/2019/DDP, de 05 de setembro de 2019, publicado no Diário Oficial da União nº 173, Seção 3, de 06/09/2019.
+
+Campo de conhecimento: Educação Especial.
+
+Regime de Trabalho: 40 (quarenta) horas semanais
+
+N°de Vagas: 01 (uma).
+
+NÃO HOUVE CANDIDATO APROVADO
+
+ELIETE WARQUEN BAHIA COSTA

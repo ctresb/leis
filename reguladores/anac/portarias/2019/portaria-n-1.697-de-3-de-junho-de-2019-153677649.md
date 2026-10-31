@@ -1,0 +1,42 @@
+---
+titulo: "PORTARIA Nº 1.697, DE 3 DE JUNHO DE 2019"
+orgao: "Ministério da Infraestrutura/Agência Nacional de Aviação Civil/Superintendência de Acompanhamento de Serviços Aéreos/Gerência de Regulação das Relações de Consumo"
+tipo: "Portaria"
+numero: "1697"
+data: 2019-06-03
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 05/06/2019, seção 1, p. 31"
+data_publicacao: 2019-06-05
+edicao: "107"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-1.697-de-3-de-junho-de-2019-153677649"
+sha256_html_fonte: b6295c8dd2cc0e47bd7250f6ec1e650beef2a9a3c6164e93f0bb87c0aa503b5a
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 1.697, DE 3 DE JUNHO DE 2019
+
+PORTARIA Nº 1.697, DE 3 DE JUNHO DE 2019
+
+O GERENTE DE REGULAÇÃO DAS RELAÇÕES DE CONSUMO, no uso da atribuição que lhe confere o art. 3º da Portaria nº 764/SAS, de 11 de março de 2019, e considerando o que consta do processo nº 00058.046434/2018-28, resolve:
+
+**Art. 1º** Os Anexos I e III da Portaria nº 867/SAS, de 21 de março de 2019, publicada no Diário Oficial da União de 26 de março de 2019, Seção 1, páginas 27 a 30, que aprova o código classificador ANAC para reclamações registradas contra empresas aéreas no Consumidor.gov.br, passam a vigorar na forma dos Anexos I e II desta Portaria.
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação.
+
+CRISTIAN VIEIRA DOS REIS
+
+## ANEXO I
+
+ANEXO I À PORTARIA Nº 867/SAS, DE 21 DE MARÇO DE 2019.
+
+<table><tr></tr><tr><td><p>ESPECIFICAÇÕES DO CÓDIGO CLASSIFICADOR</p></td></tr><tr><td><p>Sequencial</p></td><td><p>Descrição</p></td><td><p>Instruções de preenchimento</p></td></tr><tr><td><p>1</p></td><td><p>Abertura</p></td><td><p>Preencher com ***.</p></td></tr><tr><td><p>2</p></td><td><p>Atendimento</p></td><td><p>Preencher com S, caso haja reclamação sobre o atendimento* da empresa aérea; N, caso não haja.</p></td></tr><tr><td><p>3</p></td><td><p>Avaliação</p></td><td><p>Na avaliação da empresa aérea, preencher com P, caso a reclamação seja procedente; I, caso seja improcedente; M, caso seja parcialmente procedente; N, caso a empresa aérea opte por não informar a sua avaliação.</p></td></tr><tr><td><p>4</p></td><td><p>Local 1</p></td><td><p>Designador IATA de 3 caracteres do aeroporto em que ocorreu o problema reclamado. Se o problema não ocorreu em um aeroporto, preencher W para ocorrências no website da empresa aérea; A, no aplicativo mobile; T, no atendimento telefônico; L, em loja própria fora do aeroporto; G, em agência de turismo; O, em outro local.</p></td></tr><tr><td><p>5</p></td><td><p>Operação 1</p></td><td><p>Preencher D, caso a operação seja doméstica; I, caso internacional; N, caso não conhecida/não aplicável.</p></td></tr><tr><td><p>6</p></td><td><p>Operador 1</p></td><td><p>Preencher P tratando-se de voo operado pela própria empresa aérea; tratando-se de voo operado por empresa aérea terceira, preencher o respectivo designador IATA de 2 caracteres; N, caso não conhecido/não aplicável.</p></td></tr><tr><td><p>7</p></td><td><p>Assuntos 1</p></td><td><p>Código(s) correspondente(s) aos assuntos relacionados ao Local 1, à Operação 1 e ao Operador 1.</p></td></tr><tr><td><p>8</p></td><td><p>...</p></td><td><p>Repetição do grupo sequencial Local, Operação, Operador e Assuntos, caso necessário, até o limite de cinco grupos (Local 5, Operação 5, Operador 5 e Assuntos 5).</p></td></tr><tr><td><p>9</p></td><td><p>Encerramento</p></td><td><p>Preencher com ***.</p></td></tr><tr><td><p>Separadores</p></td><td><p>;</p></td><td><p>Entre cada sequencial, exceto após a abertura e antes do encerramento, preencher com ";".</p></td></tr><tr><td></td><td><p>/</p></td><td><p>Entre cada código de assunto, preencher com "/".</p></td></tr><tr><td><p>*Isto é, em relação ao atendimento eventualmente prestado pela empresa aérea antes do registro da reclamação no Consumidor.gov.br, se houve reclamação do consumidor de que não conseguiu atendimento, de que o atendimento foi demorado, descortês, ou nele foram repassadas informações incompletas ou erradas.</p></td></tr></table>
+
+\*\*\* leia-se jogo da velha
+
+## ANEXO II
+
+ANEXO III À PORTARIA Nº 867/SAS, DE 21 DE MARÇO DE 2019.
+
+<table><tr></tr><tr><td><p>EXEMPLOS</p></td></tr><tr><td><p>Exemplo 1</p></td></tr><tr><td><p>Texto fictício de reclamação</p></td><td><p>Compra de promoção de 3.000 (três mil) pontos a serem cobrados em cartão de crédito em parcelas de R$ 99,00 (noventa e nove reais), sendo descontado desde dezembro de 2018. Até a presente data, nada foi creditado em minha conta. Após inúmeros telefonemas, só obtenho como resposta que o meu caso está "sendo analisado para tratativa". Na data de hoje, mais uma vez, fiz contato e a resposta é a mesma, enquanto continuam sendo cobradas as parcelas no cartão. Quero a devolução dos valores descontados em minha fatura do cartão de crédito desde janeiro de 2019.</p></td></tr><tr><td><p>Abertura</p></td><td><p>***</p></td></tr><tr><td><p>Atendimento</p></td><td><p>Sim, há reclamação sobre o atendimento - S</p></td></tr><tr><td><p>Avaliação</p></td><td><p>Improcedente - I</p></td></tr><tr><td><p>Local 1</p></td><td><p>Atendimento telefônico - T</p></td></tr><tr><td><p>Operação 1</p></td><td><p>Não conhecida/não aplicável - N</p></td></tr><tr><td><p>Operador 1</p></td><td><p>Não conhecido/não aplicável - N</p></td></tr><tr><td><p>Assuntos 1</p></td><td><p>Tema: Programas de fidelidade - 8000</p></td></tr><tr><td><p>Encerramento</p></td><td><p>***</p></td></tr><tr><td><p>Código classificador</p></td><td><p>***S;I;T;N;N;8000***</p></td></tr><tr><td><p>Exemplo 2</p></td></tr><tr><td><p>Texto fictício de reclamação</p></td><td><p>Bom dia! Lá em Congonhas, vocês se prontificaram a realizar o reembolso do voo que cancelaram e até hoje não é possível visualizar na fatura de meu cartão de crédito o pagamento. Aguardo o ressarcimento e gostaria de saber se foi realmente realizado.</p></td></tr><tr><td><p>Abertura</p></td><td><p>***</p></td></tr><tr><td><p>Atendimento</p></td><td><p>Não há reclamação sobre o atendimento - N</p></td></tr><tr><td><p>Avaliação</p></td><td><p>Parcialmente procedente - M</p></td></tr><tr><td><p>Local 1</p></td><td><p>Aeroporto - CGH</p></td></tr><tr><td><p>Operação 1</p></td><td><p>Doméstica - D</p></td></tr><tr><td><p>Operador 1</p></td><td><p>Própria empresa aérea - P</p></td></tr><tr><td><p>Assuntos 1</p></td><td><p>Tema: Reembolso</p><p>Subtema: Prazo de reembolso - 5300</p></td></tr><tr><td><p>Encerramento</p></td><td><p>***</p></td></tr><tr><td><p>Código classificador</p></td><td><p>***N;M;CGH;D;P;5300***</p></td></tr><tr><td><p>Exemplo 3</p></td></tr><tr><td><p>Texto fictício de reclamação</p></td><td><p>Meu voo de Guarulhos para Nova York atrasou por mais de cinco horas e não deram nada pra gente comer enquanto esperávamos, nem ofereceram pra voar outro dia. Não bastasse isso, quando chegamos a Nova York e fomos pegar nossas malas, elas estavam totalmente destruídas e não tinha ninguém para fazer o registro do problema. Como isso fica, vão consertar as malas?</p></td></tr><tr><td><p>Abertura</p></td><td><p>***</p></td></tr><tr><td><p>Atendimento</p></td><td><p>Sim, há reclamação sobre o atendimento - S</p></td></tr><tr><td><p>Avaliação</p></td><td><p>A empresa aérea optou por não informar a sua avaliação - N</p></td></tr><tr><td><p>Local 1</p></td><td><p>Aeroporto - GRU</p></td></tr><tr><td><p>Operação 1</p></td><td><p>Internacional - I</p></td></tr><tr><td><p>Operador 1</p></td><td><p>Própria empresa aérea - P</p></td></tr><tr><td><p>Assuntos 1</p></td><td><p>Tema: Execução do voo</p><p>Subtema: Assistência material (comunicação, alimentação, hospedagem e traslado)</p><p>Assunto: Alimentação - 3410</p></td></tr><tr><td></td><td><p>Tema: Execução do voo</p><p>Subtema: Alternativas em atrasos, cancelamentos, interrupção do serviço ou preterição (reacomodação, reembolso integral ou outra modalidade de transporte)</p><p>Assunto: Não foi ofertada reacomodação - 3305</p></td></tr><tr><td><p>Local 2</p></td><td><p>Aeroporto - JFK</p></td></tr><tr><td><p>Operação 2</p></td><td><p>Internacional - I</p></td></tr><tr><td><p>Operador 2</p></td><td><p>Empresa aérea terceira - XX</p></td></tr><tr><td><p>Assuntos 2</p></td><td><p>Tema: Transporte de bagagem</p><p>Subtema: Avaria da bagagem despachada</p><p>Assunto: Dificuldade em registrar a avaria - 4205</p></td></tr><tr><td><p>Encerramento</p></td><td><p>***</p></td></tr><tr><td><p>Código classificador</p></td><td><p>***S;N;GRU;I;P;3410/3305;JFK;I;XX;4205***</p></td></tr></table>
+
+\*\*\* leia-se jogo da velha

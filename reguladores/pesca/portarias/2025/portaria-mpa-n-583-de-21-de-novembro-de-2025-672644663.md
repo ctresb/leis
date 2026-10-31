@@ -1,0 +1,71 @@
+---
+titulo: "PORTARIA MPA Nº 583, DE 21 DE NOVEMBRO DE 2025"
+orgao: "Ministério da Pesca e Aquicultura/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "583"
+data: 2025-11-21
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 02/12/2025, seção 1, p. 155"
+data_publicacao: 2025-12-02
+edicao: "229"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-mpa-n-583-de-21-de-novembro-de-2025-672644663"
+baixado_em: 2026-10-16
+---
+# PORTARIA MPA Nº 583, DE 21 DE NOVEMBRO DE 2025
+
+PORTARIA MPA Nº 583, DE 21 DE NOVEMBRO DE 2025
+
+Cancela a pedido as inscrições no Registro Geral da Atividade Pesqueira e as Licenças de Pescadores e Pescadoras Profissionais, do Ministério da Pesca e Aquicultura.
+
+O MINISTRO DE ESTADO DA PESCA E AQUICULTURA, no uso das atribuições que lhe confere o art. 87, parágrafo único, inciso II, da Constituição, e em vista do disposto na Lei nº 11.959, de 29 de junho de 2009, na Lei nº 14.600, de 19 de junho de 2023, no Decreto nº 8.425, de 31 de março de 2015, na Portaria nº 127, de 29 de agosto de 2023, do Ministério da Pesca e Aquicultura, resolve:
+
+**Art. 1º** Ficam cancelados a pedido, as inscrições no Registro Geral da Atividade Pesqueira - RGP, as Licenças de Pescadores e Pescadoras Profissionais nos estados do Ceará, Distrito Federal, Espírito Santo, Maranhão, Minas Gerais, Pará, Paraíba, Piauí, Rio de Janeiro, Rio Grande do Sul, Santa Catarina, São Paulo e Sergipe, de acordo com o disposto no art. 26, inciso IV, da Portaria nº 127, de 29 de agosto de 2023, do Ministério da Pesca e Aquicultura, na forma do Anexo.
+
+**Art. 2º** Esta portaria deverá ser afixada em lugar visível e de fácil acesso na sede das Superintendências Federais de Pesca e Aquicultura nas Unidades da Federação - SFPA's.
+
+**Art. 3º** Esta Portaria entra em vigor na data de sua publicação.
+
+ANDRÉ DE PAULA
+
+## ANEXO
+
+| Nº | NOME | CPF | RGP | ESTADO |
+| --- | --- | --- | --- | --- |
+| 1 | FRANCISCO LUAN SILVA CASTRO | XXX.816.453-XX | CEPAXXX.816.453-XX | CEARÁ |
+| 2 | ANTONIO FERREIRA DOS SANTOS NETO | XXX.039.953-XX | CEPAXXX.039.953-XX | CEARÁ |
+| 3 | ADRIANA DOS SANTOS | XXX.465.866XX | MGPAXXX.465.866XX | DISTRITO FEDERAL |
+| 4 | VANDERLINE GABRIELLI CORADELLO LAIBER TOSTA | XXX.721.677-XX | ESPAXXX.721.677-XX | ESPÍRITO SANTO |
+| 5 | ELIEZER DA CONCEIÇÃO ROCHA | XXX.532.413-XX | MAPAXXX.532.413-XX | MARANHÃO |
+| 6 | YARLA LUIZA SANTOS DA SILVA | XXX.383.803-XX | MAPAXXX.383.803-XX | MARANHÃO |
+| 7 | SAMIRA COIMBRA ALMEIDA | XXX.183.193-XX | MAPAXXX.183.193-XX | MARANHÃO |
+| 8 | JOEL DONISETE ANDREJA | XXX.407.626-XX | MGPAXXX.407.626-XX | MINAS GERAIS |
+| 9 | LILIA CRISTINA DA SILVA PEREIRA | XXX.455.316-XX | MGPAXXX.455.316-XX | MINAS GERAIS |
+| 10 | VALDELINO RODRIGUES MOREIRA | XXX.274.906-XX | MGPAXXX.274.906-XX | MINAS GERAIS |
+| 11 | MARCELO SOARES DE MELO | XXX.038.036XX | MGPAXXX..038.036XX | MINAS GERAIS |
+| 12 | RENATO SANTOS DE OLIVEIRA | XXX.193.122-XX | PAPAXXX.193.122-XX | PARÁ |
+| 13 | WAGNER GEOVANNI NOBAYASHI DA SILVA | XXX.560.312-XX | PAPAXXX.560.312-XX | PARÁ |
+| 14 | ISABELA SILVA DO NASCIMENTO | XXX.071.272-XX | PAPAXXX.071.272-XX | PARÁ |
+| 15 | DAMIÃO PEREIRA LIMA | XXX.162.094-XX | PBPAXXX.162.094-XX | PARAÍBA |
+| 16 | CARLOS ANTONIO PEREIRA LIMA | XXX.999.764-XX | PBPAXXX.999.764-XX | PARAÍBA |
+| 17 | JÉSSICA FERNANDA MELO DE LIMA | XXX.761.794-XX | PBPAXXX.761.794-XX | PARAÍBA |
+| 18 | MARCELO DA COSTA ASSIS | XXX.828.083-XX | PIPAXXX.828.083-XX | PIAUÍ |
+| 19 | JOSE RAIMUNDO DA COSTA ASSIS | XXX.127.503-XX | PIPAXXX.127.503-XX | PIAUÍ |
+| 20 | GLAUCILENE PEREIRA DOS SANTOS | XXX.699.146-XX | PIPAXXX.699.146-XX | PIAUÍ |
+| 21 | NATANIEL GOMES PEREIRA | XXX.203.407XX | RJPAXXX.203.407-XX | RIO DE JANEIRO |
+| 22 | GUILHERME DA FONTE MACIEL | XXX.460.954-XX | PEPAXXX.460.954-XX | RIO DE JANEIRO |
+| 23 | ROSANE OLIVEIRA PEREIRA | XXX.304.580-XX | RSPAXXX.304.580-XX | RIO GRANDE DO SUL |
+| 24 | MARCIEL STORCK | XXX.120.680-XX | RSPAXXX.120.680-XX | RIO GRANDE DO SUL |
+| 25 | LISLEY MARQUES DE SOUZA | XXX.255.510XX | RSPAXXX..255.510XX | RIO GRANDE DO SUL |
+| 26 | ROBISON HUGO EINHARDT DE ALMEIDA | XXX.210.690-XX | RSPAXXX.210.690-XX | RIO GRANDE DO SUL |
+| 27 | FABIANO WOLLINGER | XXX.592.719-XX | SCPAXXX.592.719-XX | SANTA CATARINA |
+| 28 | ROSIMERI DE OLIVEIRA ANTUNES | XXX.619.029-XX | SCPAXXX.619.029-XX | SANTA CATARINA |
+| 29 | RAFAEL FILIPE DE LIMA E SANTOS | XXX.510.146-XX | SPPAXXX.510.146-XX | SÃO PAULO |
+| 30 | JURANDIR ALVES MARTINS | XXX.941.288-XX | SPPAXXX.941.288-XX | SÃO PAULO |
+| 31 | JOSE CARLOS RODRIGUES DOS REIS | XXX.164.668-XX | SPPAXXX.164.668-XX | SÃO PAULO |
+| 32 | ÍCARO FRANCO RIBEIRO | XXX.180.728-XX | SPPAXXX.180.728-XX | SÃO PAULO |
+| 33 | MARCOS ALBURQUERQUE DE OLIVEIRA | XXX.617.498-XX | SPPAXXX.617.498-XX | SÃO PAULO |
+| 34 | JOAO VIEIRA DE LIMA | XXX.109.438-XX | SPPAXXX.109.438-XX | SÃO PAULO |
+| 35 | MARIA APARECIDA JOSE DOS SANTOS MACHADO | XXX.188.288-XX | SPPAXXX.188.288-XX | SÃO PAULO |
+| 36 | LAZARO ANTONIO DA SILVA | XXX.964.028-XX | SPPAXXX.964.028-XX | SÃO PAULO |
+| 37 | CASSIANO DA ROCHA | XXX.522.355-XX | SEPAXXX.522.355-XX | SERGIPE |

@@ -1,0 +1,26 @@
+---
+titulo: "PORTARIA Nº 400/SEI, de 12 de maio de 2020"
+orgao: "Ministério da Ciência, Tecnologia, Inovações e Comunicações/Secretaria de Radiodifusão/Departamento de Radiodifusão Comercial"
+tipo: "Portaria"
+numero: "400"
+data: 2020-05-12
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 23/07/2020, seção 1, p. 5"
+data_publicacao: 2020-07-23
+edicao: "140"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-400/sei-de-12-de-maio-de-2020-268188742"
+sha256_html_fonte: 1de8b0baa2cb75b007ad518a9f010ff0fa27d4e3b2e0a1c0c22306480cb93591
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 400/SEI, de 12 de maio de 2020
+
+PORTARIA Nº 400/SEI, de 12 de maio de 2020
+
+O DIRETOR DO DEPARTAMENTO DE RADIODIFUSÃO COMERCIAL, no uso das atribuições que lhe são conferidas pelo artigo 41, da Portaria nº 366, de 14 de agosto de 2012, publicada no Diário Oficial da União, de 15 de agosto de 2012, e tendo em vista o que consta do Processo 01250.013160/2019-58, invocando as razões presentes da Nota Técnica nº 1967/2020/SEI-MCTIC, resolve:
+
+**Art. 1º** Homologar a operação efetuada pela Rádio e Televisão Bandeirantes S.A, executante do serviço de retransmissão de televisão, em caráter primário, no município de Piracicaba, estado de São Paulo, utilizando o canal 15 (quinze), em tecnologia digital, consistente na alteração da geradora cedente de sua programação, que passará a ser a Rádio e TV Bandeirantes de Campinas S.A, concessionária do serviço de radiodifusão de sons e imagens,
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação.
+
+FLÁVIO FERREIRA LIMA

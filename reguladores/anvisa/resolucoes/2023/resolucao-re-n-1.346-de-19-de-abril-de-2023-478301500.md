@@ -1,0 +1,178 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 1.346, DE 19 DE ABRIL DE 2023"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "1346"
+data: 2023-04-19
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 20/04/2023, seção 1, p. 96"
+data_publicacao: 2023-04-20
+edicao: "76"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.346-de-19-de-abril-de-2023-478301500"
+sha256_html_fonte: 39ab4551bfed6f9a433015a498347345fdf2edcad353337a77fcdcd5d65e8c5f
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE Nº 1.346, DE 19 DE ABRIL DE 2023
+
+RESOLUÇÃO-RE Nº 1.346, DE 19 DE ABRIL DE 2023
+
+O Coordenador de Autorização de Funcionamento de Empresas, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Alterar a Autorização de Funcionamento das Empresas constantes no anexo desta Resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+COELHO COMERCIO DE MEDICAMENTOS LTDA / 18.442.559/0001-37
+
+25351.170950/2020-01 / 7713609
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0386887233
+
+--------------------------------------
+
+MAXI CONFORT IMPORTACAO E EXPORTACAO LTDA / 20.480.457/0001-58
+
+25351.109289/2017-09 / 2092131
+
+724 - AFE - ALTERAÇÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - RAZÃO SOCIAL / 0387051236
+
+--------------------------------------
+
+FARMACIA VITALIS AVARE LTDA / 03.525.701/0001-32
+
+25351.596010/2013-10 / 7032346
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0387181237
+
+--------------------------------------
+
+DROGARIA SAO FRANCISCO LTDA / 27.253.675/0001-07
+
+25351.422793/2017-11 / 7534361
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0387061231
+
+--------------------------------------
+
+FARMACIAS ULTRAMED POPULAR LTDA / 08.928.058/0009-69
+
+25351.111496/2018-24 / 7570581
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0388013231
+
+--------------------------------------
+
+DROGARIA MAGALHAES LTDA / 13.966.959/0001-28
+
+25351.412635/2017-53 / 7530722
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0387622233
+
+--------------------------------------
+
+FARMACIAS ULTRAMED POPULAR LTDA / 08.928.058/0012-64
+
+25351.076776/2019-60 / 7636156
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0387890238
+
+--------------------------------------
+
+PHARMA SAUDE LTDA / 43.357.362/0001-47
+
+25351.007675/2021-63 / 7867505
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0387533231
+
+--------------------------------------
+
+DROGARIA BRASIL POPULAR DE GOIAS LTDA / 12.398.345/0001-24
+
+25351.563977/2010-64 / 0730517
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0386922233
+
+--------------------------------------
+
+N. K. AOKI LTDA / 20.542.139/0001-74
+
+25351.116723/2015-65 / 7371092
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0387897232
+
+--------------------------------------
+
+DROGARIA COSTA LTDA / 04.253.903/0001-35
+
+25756.182848/2013-69 / 0904700
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0386995231
+
+--------------------------------------
+
+MATERIA PURA MEDICAMENTOS E COSMETICOS LTDA / 94.306.883/0001-06
+
+25351.240200/2013-77 / 0973440
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0387733230
+
+--------------------------------------
+
+ONEVISION DISTRIBUIDORA LTDA / 18.228.827/0001-12
+
+25351.362450/2021-77 / 4038512
+
+724 - AFE - ALTERAÇÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - RAZÃO SOCIAL / 0180686232
+
+--------------------------------------
+
+DROGARIA SILVA LTDA / 42.989.594/0001-55
+
+25351.083244/2022-84 / 7910058
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0387437231
+
+--------------------------------------
+
+I. M. M. VIEIRA & A. M. V. CONCEICAO & M. V. D. DA SILVEIRA & R. L. M. VIEIRA LTDA / 92.222.835/0001-04
+
+25351.194667/2002-85 / 0193398
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0387907238
+
+--------------------------------------
+
+COMERCIO DE MEDICAMENTOS SUMARE LTDA / 00.855.497/0001-20
+
+25351.514742/2013-91 / 0989895
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0388066237
+
+--------------------------------------
+
+LINUS LOG LTDA / 13.409.775/0001-67
+
+25351.156131/2023-96 / 1289662
+
+70792 - AFE - ALTERAÇÃO - MEDICAMENTOS E/OU INSUMOS FARMACÊUTICOS - AMPLIAÇÃO DE ATIVIDADES / 0335750231
+
+--------------------------------------
+
+FARMA & VIDA DE COLINA LTDA / 22.225.041/0001-19
+
+25351.858298/2016-66 / 7438611
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0387477233
+
+--------------------------------------
+
+FARMACIA LS PHARMA LTDA / 45.745.848/0001-88
+
+25351.280467/2022-98 / 7900997
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0387783237

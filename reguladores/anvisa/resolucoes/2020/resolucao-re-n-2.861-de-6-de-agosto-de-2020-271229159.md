@@ -1,0 +1,88 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.861, DE 6 DE AGOSTO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Segunda Diretoria/Gerência-Geral de Alimentos"
+tipo: "Resolução"
+numero: "2861"
+data: 2020-08-06
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 10/08/2020, seção 1, p. 70"
+data_publicacao: 2020-08-10
+edicao: "152"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.861-de-6-de-agosto-de-2020-271229159"
+sha256_html_fonte: fb159021912874c6433d5a604aa4d4f1f3a8acfa14b857865b51eee125beb7e0
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 2.861, DE 6 DE AGOSTO DE 2020
+
+RESOLUÇÃO-RE Nº 2.861, DE 6 DE AGOSTO DE 2020
+
+A Gerente-Geral de Alimentos, no uso das atribuições que lhe confere o art. 126, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:
+
+**Art.1º** Deferir as petições de avaliação relacionadas à Gerência-Geral de Alimentos, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+THALITA ANTONY DE SOUZA LIMA
+
+## ANEXO
+
+RELATÓRIO DE CONFERÊNCIA DE ALIMENTOS - PUBLICAÇÃO NR: 479220
+
+NOME DA EMPRESA CNPJ
+
+NOME DO PRODUTO
+
+NUMERO DO PROCESSO
+
+CLASS/CAT DESCRIÇÃO
+
+ASSUNTO PETIÇÃO
+
+-------------------------------
+
+ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A 60.659.463/0029-92
+
+INOSITOL EM PO
+
+25351.322407/2019-54
+
+NOVOS ALIMENTOS E NOVOS INGREDIENTES
+
+4109 AVALIAÇÃO DE SEGURANÇA E EFICÁCIA DE PROPRIEDADES FUNCIONAL OU DE SAÚDE DE NOVOS ALIMENTOS E NOVOS INGREDIENTES, EXCETO PROBIÓTICOS E ENZIMAS
+
+-------------------------------
+
+DANISCO BRASIL LTDA 46.278.016/0001-61
+
+BETA-GALACTOSIDASE DE LACTOBACILLUS DELBRUECKII BULGARICUS EXPRESSA EM BACILLUS SUBTILIS
+
+25351.262665/2019-74
+
+COADJUVANTES DE TECNOLOGIA
+
+4116 AVALIAÇÃO DE INCLUSÃO DE ENZIMAS PARA USO COMO COADJUVANTES DE TECNOLOGIA
+
+-------------------------------
+
+FONTERRA BRASIL LTDA. 00.245.967/0001-33
+
+PROTEÍNA CONCENTRADA DE LEITE E PROTEÍNA ISOLADA DE LEITE
+
+25351.633106/2019-53
+
+NOVOS ALIMENTOS E NOVOS INGREDIENTES
+
+4109 AVALIAÇÃO DE SEGURANÇA E EFICÁCIA DE PROPRIEDADES FUNCIONAL OU DE SAÚDE DE NOVOS ALIMENTOS E NOVOS INGREDIENTES, EXCETO PROBIÓTICOS E ENZIMAS
+
+-------------------------------
+
+RICERA IMPORTAÇÃO, EXPORTAÇÃO, COMÉRCIO E REPRESENTAÇÃO LTDA 47.967.468/0001-13
+
+PALMITOILETANOLAMIDA
+
+25351.094554/2019-29
+
+NOVOS ALIMENTOS E NOVOS INGREDIENTES
+
+4109 AVALIAÇÃO DE SEGURANÇA E EFICÁCIA DE PROPRIEDADES FUNCIONAL OU DE SAÚDE DE NOVOS ALIMENTOS E NOVOS INGREDIENTES, EXCETO PROBIÓTICOS E ENZIMAS

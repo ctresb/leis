@@ -1,0 +1,64 @@
+---
+titulo: "PORTARIA SERES/MEC Nº 652, DE 22 de setembro de 2025"
+orgao: "Ministério da Educação/Secretaria de Regulação e Supervisão da Educação Superior"
+tipo: "Portaria"
+numero: "652"
+data: 2025-09-22
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 23/09/2025, seção 1, p. 734"
+data_publicacao: 2025-09-23
+edicao: "181"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-seres/mec-n-652-de-22-de-setembro-de-2025-657758383"
+baixado_em: 2026-10-16
+---
+# PORTARIA SERES/MEC Nº 652, DE 22 de setembro de 2025
+
+PORTARIA SERES/MEC Nº 652, DE 22 de setembro de 2025
+
+A SECRETÁRIA DE REGULAÇÃO E SUPERVISÃO DA EDUCAÇÃO SUPERIOR, no uso da atribuição que lhe confere o Decreto nº 11.691, de 5 de setembro de 2023, e tendo em vista o Decreto n° 9.235, de 15 de dezembro de 2017, e as Portarias Normativas n° 20 e nº 23, de 21 de dezembro de 2017, do Ministério da Educação, e considerando o disposto no(s) processo(s) e-MEC listado(s) na planilha anexa, resolve:
+
+**Art. 1º** Fica(m) reconhecido(s) o(s) curso(s) superior(es) de graduação constante(s) da tabela do anexo desta Portaria, ministrado(s) pela(s) Instituição(ões) de Educação Superior citada(s), nos termos do disposto no art. 10, do Decreto nº 9.235/2017.
+
+**Art. 2º** O reconhecimento a que se refere esta Portaria é válido exclusivamente para o curso ministrado no endereço citado na tabela constante do anexo.
+
+**Art. 3º** O reconhecimento a que se refere esta Portaria é válido até o ciclo avaliativo seguinte.
+
+**Art. 4º** Esta Portaria entra em vigor na data de sua publicação.
+
+MARTA ABRAMO
+
+ANEXO (Reconhecimento de Cursos)
+
+| Nº de Ordem | Registro e-MEC nº | Curso | Nº de vagas totais anuais | Mantida | Mantenedora | Endereço de funcionamento do curso |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | 202329265 | BIOMEDICINA (Bacharelado) | 120 (cento e vinte) | CENTRO UNIVERSITÁRIO AGES | AGES EDUCACAO LTDA | AVENIDA UNIVERSITÁRIA, 23, PARQUE DAS PALMEIRAS, CENTRO, PARIPIRANGA/BA |
+| 2 | 202331095 | GESTÃO FINANCEIRA (Tecnológico) | 120 (cento e vinte) | CENTRO UNIVERSITÁRIO ALVES FARIA | CENTRO EDUCACIONAL ALVES FARIA LTDA. | AVENIDA PERIMETRAL NORTE, 4.129, VILA JOÃO VAZ, GOIÂNIA/GO |
+| 3 | 202320805 | AGRONOMIA (Bacharelado) | 100 (cem) | CENTRO UNIVERSITÁRIO ATENAS | CENTRO EDUCACIONAL HYARTE-ML LTDA | RUA EURIDAMAS AVELINO DE BARROS, 1.400, , PRADO, PARACATU/MG |
+| 4 | 202327922 | HISTÓRIA (Licenciatura) | 100 (cem) | CENTRO UNIVERSITÁRIO BRASILEIRO | IBGM - INSTITUTO BRASILEIRO DE GESTAO & MARKETING LTDA - EPP | R RUA JOAQUIM FELIPE, 250, , BOA VISTA, RECIFE/PE |
+| 5 | 202329793 | BIOMEDICINA (Bacharelado) | 100 (cem) | Centro Universitário Católico Ítalo Brasileiro | INSTITUICAO EDUCACIONAL PROFESSOR PASQUALE CASCINO | AVENIDA JOÃO DIAS, 2046, , SANTO AMARO, SÃO PAULO/SP |
+| 6 | 201929175 | JOGOS DIGITAIS (Tecnológico) | 120 (cento e vinte) | CENTRO UNIVERSITÁRIO CURITIBA | INSTITUTO DE EDUCACAO UNICURITIBA LTDA | RUA CHILE, 1678, PRÉDIO, REBOUÇAS, CURITIBA/PR |
+| 7 | 202329506 | ARQUITETURA E URBANISMO (Bacharelado) | 60 (sessenta) | CENTRO UNIVERSITÁRIO DA FUNDAÇÃO EDUCACIONAL DE BARRETOS | FUNDACAO EDUCACIONAL DE BARRETOS | AVENIDA PROFESSOR ROBERTO FRADE MONTE, 389, AEROPORTO, BARRETOS/SP |
+| 8 | 202330365 | LOGÍSTICA (Tecnológico) | 100 (cem) | Centro Universitário de Tecnologia de Curitiba | ESCOLA TECNOLOGICA DE CURITIBA LTDA - EPP | RUA ITACOLOMI, 450, SEDE, PORTÃO, CURITIBA/PR |
+| 9 | 202332458 | FISIOTERAPIA (Bacharelado) | 120 (cento e vinte) | Centro Universitário do Rio São Francisco Unirios | ORGANIZACAO SETE DE SETEMBRO DE CULTURA E ENSINO LTDA | RUA VEREADOR JOSÉ MOREIRA, 1000, , PERPÉTUO SOCORRO, PAULO AFONSO/BA |
+| 10 | 202327278 | FARMÁCIA (Bacharelado) | 120 (cento e vinte) | CENTRO UNIVERSITÁRIO ESTÁCIO DE SERGIPE | IREP SOCIEDADE DE ENSINO SUPERIOR, MEDIO E FUNDAMENTAL LTDA. | RUA TEIXEIRA DE FREITAS, 10, , SALGADO FILHO, ARACAJU/SE |
+| 11 | 202331122 | ARQUITETURA E URBANISMO (Bacharelado) | 100 (cem) | Centro Universitário Estácio do Recife | IREP SOCIEDADE DE ENSINO SUPERIOR, MEDIO E FUNDAMENTAL LTDA. | AVENIDA ENGENHEIRO ABDIAS DE CARVALHO, 1678, ABDIAS DE CARVALHO, MADALENA, RECIFE/PE |
+| 12 | 202327096 | ENGENHARIA CIVIL (Bacharelado) | 180 (cento e oitenta) | Centro Universitário FAMA | INSTITUTO METROPOLITANO DE EDUCACAO E CULTURA LTDA - ME | AVENIDA FERNANDO COSTA, 49, VILA JAIARA, ANÁPOLIS/GO |
+| 13 | 202327099 | ENGENHARIA MECÂNICA (Bacharelado) | 120 (cento e vinte) | Centro Universitário FAMA | INSTITUTO METROPOLITANO DE EDUCACAO E CULTURA LTDA - ME | AVENIDA FERNANDO COSTA, 49, VILA JAIARA, ANÁPOLIS/GO |
+| 14 | 202323493 | CIÊNCIAS ECONÔMICAS (Bacharelado) | 200 (duzentas) | CENTRO UNIVERSITÁRIO FUNDAÇÃO DE ENSINO OCTÁVIO BASTOS - FEOB | FUNDACAO DE ENSINO OCTAVIO BASTOS | AV. DR. OCTÁVIO DA SILVA BASTOS, 2439, CAMPUS II - MANTIQUEIRA, JARDIM NOVA SÃO JOÃO, SÃO JOÃO DA BOA VISTA/SP |
+| 15 | 202331124 | ANÁLISE E DESENVOLVIMENTO DE SISTEMAS (Tecnológico) | 100 (cem) | CENTRO UNIVERSITÁRIO IBMEC RIO DE JANEIRO | IBMEC EDUCACIONAL LTDA. | AVENIDA ARMANDO LOMBARDI, 940, - LADO PAR, BARRA DA TIJUCA, RIO DE JANEIRO/RJ |
+| 16 | 202333114 | LETRAS (Licenciatura) | 50 (cinquenta) | Centro Universitário IDEAU | INSTITUTO DE DESENVOLVIMENTO EDUCACIONAL DO ALTO URUGUAI LTDA | RUA JACOB GREMMELMAIER, 215, , CENTRO, GETÚLIO VARGAS/RS |
+| 17 | 202320859 | FARMÁCIA (Bacharelado) | 240 (duzentas e quarenta) | CENTRO UNIVERSITÁRIO MAURÍCIO DE NASSAU | SER EDUCACIONAL S.A. | AVENIDA JOAQUIM RIBEIRO, 1054, CAXANGÁ, CAXANGÁ, RECIFE/PE |
+| 18 | 202320856 | SERVIÇO SOCIAL (Bacharelado) | 60 (sessenta) | CENTRO UNIVERSITÁRIO MAURÍCIO DE NASSAU | SER EDUCACIONAL S.A. | AVENIDA JOAQUIM RIBEIRO, 1054, CAXANGÁ, CAXANGÁ, RECIFE/PE |
+| 19 | 202329283 | EDUCAÇÃO FÍSICA (Bacharelado) | 300 (trezentas) | CENTRO UNIVERSITÁRIO RITTER DOS REIS | SOCIEDADE DE EDUCACAO RITTER DOS REIS LTDA. | AVENIDA MANOEL ELIAS, 2001, CAMPUS FAPA, PASSO DAS PEDRAS, PORTO ALEGRE/RS |
+| 20 | 202329272 | FISIOTERAPIA (Bacharelado) | 100 (cem) | CENTRO UNIVERSITÁRIO SÃO JUDAS TADEU | INSTITUTO DE EDUCACAO, CULTURA E ENSINO SUPERIOR S/A | AVENIDA RANGEL PESTANA, 99, CAMPUS UNIMONTE, VILA MATHIAS, SANTOS/SP |
+| 21 | 201802719 | ENGENHARIA CIVIL (Bacharelado) | 120 (cento e vinte) | Centro Universitário UNA de Betim | BRASIL EDUCACAO S/A | AVENIDA GOVERNADOR VALADARES, 640, - DE 400 A 698 - LADO PAR, CENTRO, BETIM/MG |
+| 22 | 202329256 | JORNALISMO (Bacharelado) | 114 (cento e quatorze) | Centro Universitário UniCuritiba | IEDUC - INSTITUTO DE EDUCACAO E CULTURA S/A | RUA CHILE, 1678, CAMPUS MILTON VIANNA FILHO, REBOUÇAS, CURITIBA/PR |
+| 23 | 202320561 | ENGENHARIA AGRONÔMICA (Bacharelado) | 50 (cinquenta) | Centro Universitário Unifacig | CENTRO SUPERIOR DE ESTUDOS DE MANHUACU LTDA | RUA DARCY CÉSAR DE OLIVEIRA LEITE, 600, , ALFA SUL, MANHUAÇU/MG |
+| 24 | 202320641 | NUTRIÇÃO (Bacharelado) | 100 (cem) | Centro Universitário Uninovo | SOEC SOCIEDADE OLINDENSE DE EDUCACAO E CULTURA | AV.GETÚLIO VARGAS, 1360, BAIRRO NOVO, OLINDA/PE |
+| 25 | 202330045 | MEDICINA VETERINÁRIA (Bacharelado) | 150 (cento e cinquenta) | CENTRO UNIVERSITÁRIO VALE DO SALGADO | TCC EDUCACAO, CIENCIA E CULTURA LTDA - EPP | RUA MONSENHOR FROTA, 609, CENTRO, ICÓ/CE |
+| 26 | 202320406 | ENFERMAGEM (Bacharelado) | 200 (duzentas) | Faculdade AGES de Senhor do Bonfim | AGES EDUCACAO LTDA | RODOVIA LOMANTO JÚNIOR, BR 407, S/N, KM 104, CENTRO, SENHOR DO BONFIM/BA |
+| 27 | 202328344 | FISIOTERAPIA (Bacharelado) | 54 (cinquenta e quatro) | FACULDADE ANHANGUERA DE BRASÍLIA | ANHANGUERA EDUCACIONAL PARTICIPACOES S/A | AVENIDA DAS ARAUCÁRIAS, 785, FACNET, SUL (ÁGUAS CLARAS), BRASÍLIA/DF |
+| 28 | 202329919 | GESTÃO DE RECURSOS HUMANOS (Tecnológico) | 100 (cem) | FACULDADE CATEDRAL | FACULDADE CATEDRAL LTDA | RUA 13, 08-12, SEDE, MORADA NOBRE, VALPARAÍSO DE GOIÁS/GO |
+| 29 | 202121233 | PSICOLOGIA (Bacharelado) | 99 (noventa e nove) | Faculdade Católica Paulista | ASSOCIACAO EDUCACIONAL LATINO AMERICANA | AVENIDA CRISTO REI, 270-305, , BANZATO, MARÍLIA/SP |
+| 30 | 202328021 | PEDAGOGIA (Licenciatura) | 60 (sessenta) | Faculdade de Direito, Ciências e Tecnologia Santa Maria Mada | FACULDADE DE DIREITO, CIENCIAS E TECNOLOGIAS SANTA MARIA MADALENA LTDA - ME | RUA SALVADOR CALMON, 111-A, , POÇO, MACEIÓ/AL |

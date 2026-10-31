@@ -1,0 +1,46 @@
+---
+titulo: "PORTARIA Nº 3.121, DE 21 DE NOVEMBRO DE 2017"
+orgao: "Ministério da Saúde/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "3121"
+data: 2017-11-21
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 30/11/2017, seção 1, p. 5-111"
+data_publicacao: 2017-11-30
+edicao: "229"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-3-121-de-21-de-novembro-de-2017-575367"
+sha256_html_fonte: 26209d483fad2727249d9e96f2b98394ff61b4d354bb41b874834ff6a6135cac
+baixado_em: 2026-10-28
+---
+# PORTARIA Nº 3.121, DE 21 DE NOVEMBRO DE 2017
+
+O MINISTRO DE ESTADO DA SAÚDE, no uso das atribuições que lhe conferem os incisos I e II do parágrafo único do art. 87 da Constituição, e
+
+Considerando o art. 3º e o Capítulo I do Anexo V, da Portaria de Consolidação nº 3/GM/MS, de 28 de setembro de 2017, a qual consolida as normas sobre as redes do Sistema Único de Saúde;
+
+Considerando o Título I e a seção III do Capítulo III, da Portaria de Consolidação nº 6/GM/MS, de 28 de setembro de 2017, a qual consolida as normas sobre financiamento e as transferências dos recursos federais para as ações e os serviços de saúde do Sistema Único de Saúde;
+
+Considerando a necessidade de reforçar a rede de atenção à Saúde Mental nas grandes cidades (incluindo regiões metropolitanas);
+
+Considerando a necessidade de aperfeiçoamento e adequação do modelo de atenção oferecida pelo SUS aos usuários de álcool e outras drogas e de estruturação e fortalecimento de uma rede de assistência centrada na atenção comunitária, associada à rede de serviços de saúde e sociais, com ênfase na reabilitação e reinserção social; e
+
+Considerando a documentação apresentada pelos Estados solicitando a habilitação dos Centros de Atenção Psicossocial e a correspondente avaliação pelo Departamento de Ações Programáticas Estratégicas - Coordenação-Geral de Saúde Mental, Álcool e Outras Drogas - SAS/MS, resolve:
+
+**Art. 1º** Fica habilitado o Centro de Atenção Psicossocial a seguir relacionado, para realizar os procedimentos específicos previstos na Tabela de Procedimentos, Medicamentos, Órteses e Próteses e Materiais Especiais do Sistema Único de Saúde - SUS:
+
+<table><tr></tr><tr><td><p>UF</p></td><td><p>MUNICÍPIO</p></td><td><p>Código do IBGE</p></td><td><p>Tipo</p></td><td><p>CNES</p></td><td><p>Plano Interno</p></td><td><p>CNPJ</p></td><td><p>Gestão</p></td><td><p>Número da Proposta SAIPS</p></td></tr><tr><td><p>SP</p></td><td><p>MAIRINQUE</p></td><td><p>352840</p></td><td><p>CAPS I</p></td><td><p>9088318</p></td><td><p>RSM-RSME</p></td><td><p>11.472.723/0001- 00</p></td><td><p>MUNICIPAL</p></td><td><p>13732</p></td></tr></table>
+
+**Art. 2º** Fica estabelecido recurso no montante anual de R$ 339.660,00 (trezentos e trinta e nove mil e seiscentos e sessenta reais) a ser incorporado ao Limite Financeiro de Média e Alta Complexidade do Estado de São Paulo e Município de Mairinque.
+
+**Art. 3º** O Fundo Nacional de Saúde adotará as medidas necessárias para a transferência regular e automática do montante estabelecido no art. 2º, em parcelas mensais, para o Fundo Municipal de Saúde de Mairinque, mediante processo autorizativo encaminhado pela Secretaria responsável pelo programa de trabalho.
+
+**Art. 4º** Os recursos orçamentários, objeto desta Portaria, correrão por conta do orçamento do Ministério da Saúde, devendo onerar o Programa de Trabalho 10.302.2015.8585 - Atenção à Saúde da População para Procedimentos de Média e Alta Complexidade - Plano Orçamentário 000F.
+
+**Parágrafo único.** Os recursos relativos aos estabelecimentos consignados ao programa de trabalho de que trata o caput, tem como finalidade o custeio de quaisquer ações e serviços de média e alta complexidade para atenção à saúde da população, desde que garantida a manutenção das unidades.
+
+**Art. 5º** Esta Portaria entra em vigor na data de sua publicação, com efeitos financeiros a partir da 10ª (décima) parcela de 2017.
+
+RICARDO BARROS
+
+Este conteúdo não substitui o publicado na versão certificada.

@@ -1,0 +1,158 @@
+---
+titulo: "RESOLUÇÃO-RE nº 3.508, de 12 de dezembro de 2019"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Segunda Diretoria/Gerência-Geral de Alimentos"
+tipo: "Resolução"
+numero: "3508"
+data: 2019-12-12
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 16/12/2019, seção 1, p. 420"
+data_publicacao: 2019-12-16
+edicao: "242"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.508-de-12-de-dezembro-de-2019-233554202"
+sha256_html_fonte: 112cfa1719258bff546ec3f358e7b48521224d81c460bc61862f555adacd96ef
+baixado_em: 2026-10-27
+---
+# RESOLUÇÃO-RE nº 3.508, de 12 de dezembro de 2019
+
+RESOLUÇÃO-RE nº 3.508, de 12 de dezembro de 2019
+
+A Gerente-Geral de Alimentos Substituta, no uso das atribuições que lhe confere o art. 126, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º** Deferir as petições relacionadas à Gerência-Geral de Alimentos, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+ÂNGELA KARINNE FAGUNDES DE CASTRO
+
+## ANEXO
+
+Relatório de Conferência de Alimentos. Publicação nr.: 792519
+
+NOME DA EMPRESA CNPJ
+
+NOME DO PRODUTO UF
+
+NUMERO DO PROCESSO NUMERO DE REGISTRO
+
+EMBALAGEM VALIDADE PRODUTO
+
+CLASS/CAT DESCRIÇÃO VALIDADE REGISTRO
+
+MARCA DO PRODUTO
+
+ASSUNTO PETIÇÃO
+
+------------------------------------
+
+DANONE LTDA. 23.643.315/0115-10
+
+ALIMENTO P/ SITUAÇÃO METABÓLICA ESPECIAL P/ NUTRIÇÃO ENTERAL/ORAL FORMULADO P/ CRIANÇAS PORTADORAS DE EPILEPSIA REFRATÁRIA - INGLATERRA
+
+25351.528403/2009-31 6.6577.0079.001-7
+
+METALICA 18 Meses
+
+PLASTICA 18 Meses
+
+CELULOSICA 18 Meses
+
+ELASTOMERICA 18 Meses
+
+ALIMENTOS PARA NUTRIÇÃO ENTERAL 08/2024
+
+456 Alteração de Rotulagem
+
+ALIMENTO P/ SITUAÇÃO METABÓLICA ESPECIAL P/ NUTRIÇÃO ENTERAL/ORAL FORMULADO P/ CRIANÇAS PORTADORAS DE EPILEPSIA REFRATÁRIA - ALEMANHA
+
+25351.528403/2009-31 6.6577.0079.002-5
+
+CELULOSICA 18 Meses
+
+PLASTICA 18 Meses
+
+METALICA 18 Meses
+
+ELASTOMERICA 18 Meses
+
+ALIMENTOS PARA NUTRIÇÃO ENTERAL 08/2024
+
+456 Alteração de Rotulagem
+
+ALIMENTO P/ SITUAÇÃO METABÓLICA ESPECIAL P/ NUTRIÇÃO ENTERAL/ORAL FORMULADO P/ CRIANÇAS PORTADORAS DE EPILEPSIA REFRATÁRIA - POÇOS DE CALDAS/MG
+
+25351.528403/2009-31 6.6577.0079.003-3
+
+CELULOSICA 18 Meses
+
+ELASTOMERICA 18 Meses
+
+METALICA 18 Meses
+
+PLASTICA 18 Meses
+
+ALIMENTOS PARA NUTRIÇÃO ENTERAL 08/2024
+
+456 Alteração de Rotulagem
+
+ALIMENTO P/ SITUAÇÃO METABÓLICA ESPECIAL P/ NUTRIÇÃO ENTERAL/ORAL FORMULADO P/ CRIANÇAS PORTADORAS DE EPILEPSIA REFRATÁRIA - CHINA
+
+25351.528403/2009-31 6.6577.0079.004-1
+
+ELASTOMERICA 18 Meses
+
+CELULOSICA 18 Meses
+
+PLASTICA 18 Meses
+
+METALICA 18 Meses
+
+ALIMENTOS PARA NUTRIÇÃO ENTERAL 08/2024
+
+456 Alteração de Rotulagem
+
+ALIMENTO P/ SITUAÇÃO METABÓLICA ESPECIAL P/ NUTRIÇÃO ENTERAL/ORAL FORMULADO P/ CRIANÇAS PORTADORAS DE EPILEPSIA REFRATÁRIA - HOLANDA
+
+25351.528403/2009-31 6.6577.0079.005-1
+
+ELASTOMERICA 18 Meses
+
+CELULOSICA 18 Meses
+
+PLASTICA 18 Meses
+
+METALICA 18 Meses
+
+ALIMENTOS PARA NUTRIÇÃO ENTERAL 08/2024
+
+456 Alteração de Rotulagem
+
+ALIMENTO P/ SITUAÇÃO METABÓLICA ESPECIAL P/ NUTRIÇÃO ENTERAL/ORAL FORMULADO P/ CRIANÇAS PORTADORAS DE EPILEPSIA REFRATÁRIA - ARGENTINA
+
+25351.528403/2009-31 6.6577.0079.006-8
+
+ELASTOMERICA 18 Meses
+
+CELULOSICA 18 Meses
+
+PLASTICA 18 Meses
+
+METALICA 18 Meses
+
+ALIMENTOS PARA NUTRIÇÃO ENTERAL 08/2024
+
+456 Alteração de Rotulagem
+
+------------------------------------
+
+LABORATÓRIOS B. BRAUN S/A 31.673.254/0001-02
+
+FÓRMULA MODIFICADA PARA NUTRIÇÃO ENTERAL
+
+25351.465703/2011-96 4.9660.0139.001-7
+
+PLASTICA 18 Meses
+
+ALIMENTOS PARA NUTRIÇÃO ENTERAL 11/2021
+
+442 Alteração do Prazo de Validade do Produto

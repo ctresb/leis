@@ -1,0 +1,150 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.397, DE 28 DE NOVEMBRO DE 2019"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "3397"
+data: 2019-11-28
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 02/12/2019, seção 1, p. 121"
+data_publicacao: 2019-12-02
+edicao: "232"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.397-de-28-de-novembro-de-2019-230746806"
+sha256_html_fonte: 457b7a58674a17ed1dd63df4fe943f168fdbbb197e9a463fdd0e39b96bd0e42d
+baixado_em: 2026-10-27
+---
+# RESOLUÇÃO-RE Nº 3.397, DE 28 DE NOVEMBRO DE 2019
+
+RESOLUÇÃO-RE Nº 3.397, DE 28 DE NOVEMBRO DE 2019
+
+A Coordenadora de Autorização de Funcionamento de Empresas, no uso das atribuições que lhe confere o art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º** Alterar Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344 de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+PATRICIA AZEVEDO CHAGAS
+
+## ANEXO
+
+EMPRESA: MEDFARMA COMERCIO DE MEDICAMENTOS, MATERIAIS E EQUIPAMENTOS HOSPITALARES LTDA - ME
+
+ENDEREÇO: RUA ARGENTINA, Nº 1629
+
+BAIRRO: MONTE CASTELO CEP: 64017630 - TERESINA/PI
+
+CNPJ: 11.229.270/0001-95
+
+PROCESSO: 25351.086431/2014-17 AUTORIZ/MS: 1.00552.6
+
+ATIVIDADE/CLASSE
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+EXPORTAR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+----------------------------------------------------
+
+EMPRESA: WLMC TRANSPORTES RODOVIÁRIOS LTDA - EPP
+
+ENDEREÇO: AV IRENO DA SILVA VENANCIO, 199
+
+BAIRRO: PROTESTANTES CEP: 18111100 - VOTORANTIM/SP
+
+CNPJ: 11.476.664/0001-48
+
+PROCESSO: 25351.335347/2015-31 AUTORIZ/MS: 1.14123.7
+
+ATIVIDADE/CLASSE
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS/MEDICAMENTO
+
+----------------------------------------------------
+
+EMPRESA: PACIFICO LOG LOGISTICA E TRANSPORTES LTDA
+
+ENDEREÇO: R MARINARO 203
+
+BAIRRO: JARDIM NOSSA SENHORA APARECIDA CEP: 07177170 - GUARULHOS/SP
+
+CNPJ: 02.964.147/0001-27
+
+PROCESSO: 25351.185918/2015-57 AUTORIZ/MS: 1.13828.7
+
+ATIVIDADE/CLASSE
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS/MEDICAMENTO
+
+----------------------------------------------------
+
+EMPRESA: MEDLOGISTICA PRESTAÇÃO DE SERVIÇOS DE LOGISTICA S.A.
+
+ENDEREÇO: AV GENERAL DAVID SARNOFF, 3445 LOT 02 GALPÃO 05 SALA 02 QUADRA 31A
+
+BAIRRO: CIDADE INDUSTRIAL CEP: 32210110 - CONTAGEM/MG
+
+CNPJ: 24.585.959/0004-47
+
+PROCESSO: 25351.400082/2019-58 AUTORIZ/MS: 1.19126.0
+
+ATIVIDADE/CLASSE
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS/MEDICAMENTO
+
+----------------------------------------------------
+
+EMPRESA: Medlogistica Prestação de Serviços de Logistica S.A.
+
+ENDEREÇO: Rodovia RS 118, S/N, KM 11, Galpão 03, Mod. 05, Sala 02
+
+BAIRRO: Neopolis CEP: 94100420 - GRAVATAÍ/RS
+
+CNPJ: 24.585.959/0006-09
+
+PROCESSO: 25351.442984/2019-61 AUTORIZ/MS: 1.19236.0
+
+ATIVIDADE/CLASSE
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS/MEDICAMENTO
+
+----------------------------------------------------
+
+EMPRESA: NOVA QUIMICA FARMACÊUTICA S/A
+
+ENDEREÇO: ROD. JORNALISTA FRANCISCO AGUIRRE PROENÇA, KM 08, S/N
+
+BAIRRO: CHÁCARA ASSAY CEP: 13186901 - HORTOLÂNDIA/SP
+
+CNPJ: 72.593.791/0001-11
+
+PROCESSO: 25000.029145/99-18 AUTORIZ/MS: 1.20698.6
+
+ATIVIDADE/CLASSE
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS/MEDICAMENTO
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS/MEDICAMENTO
+
+EMBALAR: INSUMOS FARMACÊUTICOS/MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS/MEDICAMENTO
+
+EXPORTAR: INSUMOS FARMACÊUTICOS/MEDICAMENTO
+
+FABRICAR: MEDICAMENTO
+
+IMPORTAR: INSUMOS FARMACÊUTICOS/MEDICAMENTO
+
+REEMBALAR: INSUMOS FARMACÊUTICOS/MEDICAMENTO
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS/MEDICAMENTO
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+Total de Empresas: 6

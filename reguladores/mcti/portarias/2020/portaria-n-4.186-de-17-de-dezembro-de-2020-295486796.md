@@ -1,0 +1,28 @@
+---
+titulo: "PORTARIA Nº 4.186, DE 17 DE DEZEMBRO DE 2020"
+orgao: "Ministério da Ciência, Tecnologia e Inovações/Secretaria Executiva"
+tipo: "Portaria"
+numero: "4186"
+data: 2020-12-17
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 22/12/2020, seção 1, p. 13"
+data_publicacao: 2020-12-22
+edicao: "244"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-4.186-de-17-de-dezembro-de-2020-295486796"
+sha256_html_fonte: 96fabcef725aa8cb86478364bdea9a5e3cd3eb794d2ace3b766609c7caf45fd7
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 4.186, DE 17 DE DEZEMBRO DE 2020
+
+PORTARIA Nº 4.186, DE 17 DE DEZEMBRO DE 2020
+
+Alteração de titularidade de Portaria MCTI que reconhece produto como bem desenvolvido no País, de acordo com o art. 3º da Lei nº 8.248, de 23 de outubro de 1991, e art. 7º do Decreto nº 5.906, de 26 de setembro de 2006.
+
+O SECRETÁRIO-EXECUTIVO DO MINISTÉRIO DA CIÊNCIA, TECNOLOGIA E INOVAÇÕES, no uso das atribuições que lhes são conferidas pela Portaria MCTIC nº 5.071, de 24 de setembro de 2019, e tendo em vista o disposto no art. 3º da Lei nº 8.248, de 1991, e art. 7º do Decreto nº 5.906, de 2006, e o contido no Processo MCTI nº 01245.007500/2020-14, resolve:
+
+**Art. 1º** Fica alterada a titularidade da Portaria MCTI nº 5.131, de 1 de setembro de 2017, publicada no DOU em 13/9/2017, referente ao reconhecimento da condição de bem de informática e automação desenvolvido no País, nos termos da Portaria MCT nº 950, de 12 de dezembro de 2006, da empresa Linear Equipamentos e Serviços Eireli, CNPJ/ME nº 72.853.039/0001-62, para a empresa Nice Brasil Indústria e Comércio de Eletrônicos e Automação Eireli, CNPJ/ME nº 05.653.764/0001-08, a partir da data em que se efetivou o ato de incorporação, conforme registro junto aos órgãos próprios.
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação, ficando convalidados todos os atos praticados pela empresa Nice Brasil Indústria e Comércio de Eletrônicos e Automação Eireli, CNPJ/ME nº 05.653.764/0001-08, em virtude da sucessão de direitos decorrentes da incorporação, desde a data em que esta se operou.
+
+LEONIDAS DE ARAÚJO MEDEIROS JUNIOR

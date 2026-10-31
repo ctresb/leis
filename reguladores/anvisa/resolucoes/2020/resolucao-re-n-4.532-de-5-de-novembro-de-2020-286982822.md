@@ -1,0 +1,162 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 4.532, DE 5 DE NOVEMBRO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Terceira Diretoria/Gerência de Produtos de Higiene, Perfumes, Cosméticos e Saneantes"
+tipo: "Resolução"
+numero: "4532"
+data: 2020-11-05
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 09/11/2020, seção 1, p. 103"
+data_publicacao: 2020-11-09
+edicao: "213"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.532-de-5-de-novembro-de-2020-286982822"
+sha256_html_fonte: d1fe5df8c9693e6d592ffcf44b4269d95f517cdc2a0fd281b20ff86246a17a57
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 4.532, DE 5 DE NOVEMBRO DE 2020
+
+RESOLUÇÃO-RE Nº 4.532, DE 5 DE NOVEMBRO DE 2020
+
+O Gerente de Produtos de Higiene, Cosméticos, Perfumes e Saneantes, no uso das atribuições que lhe confere o art. 164, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º** Deferir as petições de Cancelamento de Notificação de Produto Saneante de Risco 1 por ato de ofício, conforme relação anexa.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+ITAMAR DE FALCO JUNIOR
+
+## ANEXO
+
+NOME DA EMPRESA: FORTSAN DO BRASIL INDÚSTRIA QUÍMICA FARMACÊUTICA LTDA
+
+AUTORIZAÇÃO: 3.02337-3
+
+NOME DO PRODUTO E MARCA: SUAV GEL
+
+VERSÃO: [SEM NOME]
+
+NUMERO DE PROCESSO: 25351.029206/2017-19
+
+NUMERO DE REGISTRO: 000
+
+VENDA E EMPREGO: PRODUTO DE VENDA LIVRE
+
+APRESENTAÇÃO: SACHE DE PLASTICO TRANSPARENTE + CAIXA DE PAPELAO
+
+VALIDADE DO PRODUTO: 24 Ano(s)
+
+CATEGORIA: 3222021 LIMPADOR DE USO GERAL
+
+ASSUNTO DA PETIÇÃO: 3199 Cancelamento de Notificação de Produto de Risco 1 por ato de ofício.
+
+EXPEDIENTE DA PETIÇÃO: 3807422/20-2
+
+NOME DO PRODUTO E MARCA: SUAV GEL
+
+VERSÃO: [SEM NOME]
+
+NUMERO DE PROCESSO: 25351.029206/2017-19
+
+NUMERO DE REGISTRO: 000
+
+VENDA E EMPREGO: PRODUTO DE VENDA LIVRE
+
+APRESENTAÇÃO: BOMBONA PLASTICA + CAIXA DE PAPELAO
+
+VALIDADE DO PRODUTO: 24 Ano(s)
+
+CATEGORIA: 3222021 LIMPADOR DE USO GERAL
+
+ASSUNTO DA PETIÇÃO: 3199 Cancelamento de Notificação de Produto de Risco 1 por ato de ofício.
+
+EXPEDIENTE DA PETIÇÃO: 3807422/20-2
+
+NOME DO PRODUTO E MARCA: SUAV GEL
+
+VERSÃO: [SEM NOME]
+
+NUMERO DE PROCESSO: 25351.029206/2017-19
+
+NUMERO DE REGISTRO: 000
+
+VENDA E EMPREGO: PRODUTO DE VENDA LIVRE
+
+APRESENTAÇÃO: FRASCO DE PLASTICO TRANSPARENTE + CAIXA DE PAPELAO
+
+VALIDADE DO PRODUTO: 24 Ano(s)
+
+CATEGORIA: 3222021 LIMPADOR DE USO GERAL
+
+ASSUNTO DA PETIÇÃO: 3199 Cancelamento de Notificação de Produto de Risco 1 por ato de ofício.
+
+EXPEDIENTE DA PETIÇÃO: 3807422/20-2
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NOME DA EMPRESA: JAIR BRIXI
+
+AUTORIZAÇÃO: 3.07820-2
+
+NOME DO PRODUTO E MARCA: AGUA SANITARIA QUIBRIX
+
+VERSÃO: TRADICIONAL
+
+NUMERO DE PROCESSO: 25351.815058/2018-39
+
+NUMERO DE REGISTRO: 000
+
+VENDA E EMPREGO: PRODUTO DE VENDA LIVRE
+
+APRESENTAÇÃO: BOMBONA PLASTICA
+
+VALIDADE DO PRODUTO: 3 Ano(s)
+
+CATEGORIA: 3222021 LIMPADOR DE USO GERAL
+
+ASSUNTO DA PETIÇÃO: 3199 Cancelamento de Notificação de Produto de Risco 1 por ato de ofício.
+
+EXPEDIENTE DA PETIÇÃO: 1975509/19-1
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NOME DA EMPRESA: KMG SOLUCOES EM DOMISSANITARIOS EIRELI - ME
+
+AUTORIZAÇÃO: 3.08177-9
+
+NOME DO PRODUTO E MARCA: SANTO BRILHO - TIRA LIMO CLORO ATIVO
+
+VERSÃO: SANTO BRILHO - TIRA LIMO SPRAY 500ML
+
+NUMERO DE PROCESSO: 25351.524043/2020-89
+
+NUMERO DE REGISTRO: 000
+
+VENDA E EMPREGO: PRODUTO DE VENDA LIVRE
+
+APRESENTAÇÃO: FRASCO DE PLASTICO OPACO SQUEEZE + CAIXA DE PAPELAO
+
+VALIDADE DO PRODUTO: 24 Ano(s)
+
+CATEGORIA: 3222021 LIMPADOR DE USO GERAL
+
+ASSUNTO DA PETIÇÃO: 3199 Cancelamento de Notificação de Produto de Risco 1 por ato de ofício.
+
+EXPEDIENTE DA PETIÇÃO: 3748560/20-1
+
+NOME DO PRODUTO E MARCA: SANTO BRILHO - TIRA LIMO CLORO ATIVO
+
+VERSÃO: SANTO BRILHO - TIRA LIMO SPRAY 500ML
+
+NUMERO DE PROCESSO: 25351.524043/2020-89
+
+NUMERO DE REGISTRO: 000
+
+VENDA E EMPREGO: PRODUTO DE VENDA LIVRE
+
+APRESENTAÇÃO: FRASCO DE PLASTICO OPACO SPRAY + CAIXA DE PAPELAO
+
+VALIDADE DO PRODUTO: 24 Ano(s)
+
+CATEGORIA: 3222021 LIMPADOR DE USO GERAL
+
+ASSUNTO DA PETIÇÃO: 3199 Cancelamento de

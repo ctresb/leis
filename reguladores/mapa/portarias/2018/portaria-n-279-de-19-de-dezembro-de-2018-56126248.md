@@ -1,0 +1,196 @@
+---
+titulo: "PORTARIA Nº 279, DE 19 DE DEZEMBRO DE 2018"
+orgao: "Ministério da Agricultura, Pecuária e Abastecimento/Secretaria de Política Agrícola"
+tipo: "Portaria"
+numero: "279"
+data: 2018-12-19
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 20/12/2018, seção 1, p. 28"
+data_publicacao: 2018-12-20
+edicao: "244"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-279-de-19-de-dezembro-de-2018-56126248"
+sha256_html_fonte: 6cad95e5bc0f6810da09d509a26b5c6f3e8c0b435aca4da13d594f0ad1b324c4
+baixado_em: 2026-10-27
+---
+# PORTARIA Nº 279, DE 19 DE DEZEMBRO DE 2018
+
+PORTARIA Nº 279, DE 19 DE DEZEMBRO DE 2018
+
+O SECRETÁRIO DE POLÍTICA AGRÍCOLA, no uso de suas atribuições e competências estabelecidas pelo Decreto nº 8.701, de 31 de março de 2016, publicado no Diário Oficial da União de 1º de abril de 2016, e observado, no que couber, o contido nas Instruções Normativas nº 2, de 9 de outubro de 2008, publicada no Diário Oficial da União de 13 de outubro de 2008, da Secretaria de Política Agrícola, e nº 16, de 9 de abril de 2018, publicada no Diário Oficial da União de 12 de abril de 2018, do Ministério da Agricultura, Pecuária e Abastecimento, resolve:
+
+**Art. 1º** Aprovar o Zoneamento Agrícola de Risco Climático para a cultura de milho consorciado com braquiária no Estado de Mato Grosso do Sul, ano-safra 2018/2019, conforme anexo.
+
+**Art. 2º** Esta Portaria tem vigência específica para o ano-safra definido no art. 1º e entra em vigor na data de sua publicação.
+
+WILSON VAZ DE ARAUJO
+
+## ANEXO
+
+1\. NOTA TÉCNICA
+
+O cultivo consorciado de plantas produtoras de grãos com forrageiras tropicais, em sistema de plantio direto, tem aumentado significativamente, nos últimos anos nas regiões que apresentam inverno seco.
+
+No Estado o plantio consorciado de braquiária com o milho vem sendo utilizado, predominantemente, no cultivo do milho 2ª safra (safrinha).
+
+O consórcio do milho com a braquiária é possível graças ao diferencial de tempo e espaço no acúmulo de biomassa entre as espécies.
+
+No consórcio do milho com braquiária a forrageira pode servir como alimento para a exploração pecuária, a partir do final do verão até início da primavera e, posteriormente, para formação de palhada no sistema plantio direto. Há também possibilidade da utilização da forrageira, exclusivamente, como planta produtora de palhada, proporcionando cobertura permanente do solo até a semeadura da safra de verão subsequente.
+
+A forrageira pode ser semeada simultaneamente com o milho. Para isso, as sementes são misturadas ao adubo e depositadas no compartimento de fertilizante da semeadora, sendo distribuídas na mesma profundidade do adubo. Nesse sistema, a braquiária apresenta desenvolvimento lento até a colheita do milho, iniciando seu pleno desenvolvimento, beneficiado pelo adubo residual após essa colheita.
+
+Os resultados de pesquisas envolvendo o cultivo consorciado de milho com Brachiária sp demonstram a viabilidade desse sistema de produção.
+
+Para que ocorra um mínimo de competição entre as culturas é fundamental proporcionar condições para que o milho se desenvolva e ocupe o terreno antes de a braquiária se estabelecer plenamente.
+
+Os efeitos do consórcio (reciclagem de nutrientes, acúmulo de palha na superfície, melhoria da parte física do solo pela ação conjunta dos sistemas radiculares e pela incorporação e acúmulo de matéria orgânica) são benéficos para os plantios subsequentes, em especial para os de soja, contribuindo para o aumento de produtividade.
+
+Objetivou-se, com o Zoneamento Agrícola de Risco Climático, identificar os municípios aptos e os períodos de semeadura para o cultivo do milho, consorciado com brachiária sp no Estado, em condições de baixo risco climático.
+
+Essa identificação foi realizada a partir de análises térmicas e hídricas. A análise hídrica baseou-se em um modelo de balanço hídrico das culturas, considerando-se as seguintes variáveis:
+
+Precipitação pluvial, evapotranspiração potencial, ciclos e fases fenológicas de cultivares de milho, coeficiente de cultura (Kc) e capacidade de água disponível dos solos.
+
+O balanço hídrico foi realizado para períodos decendiais de semeadura. Para cada período, fase fenológica e local da estação pluviométrica, foram estimados os valores do índice de satisfação da necessidade de água (ISNA), expresso pela relação ETr/ETm (evapotranspiração real/evapotranspiração máxima).
+
+A definição das áreas de risco climático para o consórcio foi associada à ocorrência de déficit hídrico na fase de florescimento/enchimento de grãos para a cultura do milho e na fase de germinação/estabelecimento da cultura para a braquiária.
+
+As cultivares de milho foram classificadas em três grupos de características homogêneas: Grupo I (n£120 dias); Grupo II (120 dias&lt;n£140 dias); e Grupo III (n>140 dias), onde n expressa o número de dias da emergência à maturação fisiológica;
+
+Foram adotados os seguintes critérios para o cultivo consorciado do milho com a brachiária sp, em condições de baixo risco climático:
+
+\- ISNA maior ou igual a 0,60 na fase de germinação/estabelecimento da braquiária;
+
+\- ISNA maior ou igual a 0,50 na fase de floração/enchimento de grãos da cultura do milho;
+
+\- Risco de ocorrência de geada inferior a 20%.
+
+Considerou-se indicado o município que apresentou, no mínimo, 20% de sua área com condições climáticas dentro dos critérios considerados, em 80% dos anos avaliados.
+
+2\. TIPOS DE SOLOS APTOS AO CULTIVO
+
+São aptos ao cultivo de milho consorciado com braquiária no Estado os solos dos tipos 2 e 3, observadas as especificações e recomendações contidas na Instrução Normativa nº 2, de 9 de outubro de 2008.
+
+Não são indicadas para o cultivo:
+
+\- áreas de preservação permanente, de acordo com a Lei 12.651, de 25 de maio de 2012;
+
+\- áreas com solos que apresentam profundidade inferior a 50 cm ou com solos muito pedregosos, isto é, solos nos quais calhaus e matacões ocupem mais de 15% da massa e/ou da superfície do terreno.
+
+3\. TABELA DE PERÍODOS DE SEMEADURA
+
+<table><tr></tr><tr><td><p>Períodos</p></td><td><p>1</p></td><td><p>2</p></td><td><p>3</p></td><td><p>4</p></td><td><p>5</p></td><td><p>6</p></td><td><p>7</p></td><td><p>8</p></td><td><p>9</p></td><td><p>10</p></td><td><p>11</p></td><td><p>12</p></td></tr><tr><td><p>Datas</p></td><td><p>1º</p><p>a</p><p>10</p></td><td><p>11</p><p>a</p><p>20</p></td><td><p>21</p><p>a</p><p>31</p></td><td><p>1º</p><p>a</p><p>10</p></td><td><p>11</p><p>a</p><p>20</p></td><td><p>21</p><p>a 28</p></td><td><p>1º</p><p>a</p><p>10</p></td><td><p>11</p><p>a</p><p>20</p></td><td><p>21</p><p>a</p><p>31</p></td><td><p>1º</p><p>a</p><p>10</p></td><td><p>11</p><p>a</p><p>20</p></td><td><p>21</p><p>a</p><p>30</p></td></tr><tr><td><p>Meses</p></td><td><p>Janeiro</p></td><td><p>Fevereiro</p></td><td><p>Março</p></td><td><p>Abril</p></td></tr></table>
+
+<table><tr></tr><tr><td><p>Períodos</p></td><td><p>13</p></td><td><p>14</p></td><td><p>15</p></td><td><p>16</p></td><td><p>17</p></td><td><p>18</p></td><td><p>19</p></td><td><p>20</p></td><td><p>21</p></td><td><p>22</p></td><td><p>23</p></td><td><p>24</p></td></tr><tr><td><p>Datas</p></td><td><p>1º</p><p>a</p><p>10</p></td><td><p>11</p><p>a</p><p>20</p></td><td><p>21</p><p>a</p><p>31</p></td><td><p>1º</p><p>a</p><p>10</p></td><td><p>11</p><p>a</p><p>20</p></td><td><p>21</p><p>a</p><p>30</p></td><td><p>1º</p><p>a</p><p>10</p></td><td><p>11</p><p>a</p><p>20</p></td><td><p>21</p><p>a</p><p>31</p></td><td><p>1º</p><p>a</p><p>10</p></td><td><p>11</p><p>a</p><p>20</p></td><td><p>21</p><p>a</p><p>31</p></td></tr><tr><td><p>Meses</p></td><td><p>Maio</p></td><td><p>Junho</p></td><td><p>Julho</p></td><td><p>Agosto</p></td></tr></table>
+
+<table><tr></tr><tr><td><p>Períodos</p></td><td><p>25</p></td><td><p>26</p></td><td><p>27</p></td><td><p>28</p></td><td><p>29</p></td><td><p>30</p></td><td><p>31</p></td><td><p>32</p></td><td><p>33</p></td><td><p>34</p></td><td><p>35</p></td><td><p>36</p></td></tr><tr><td><p>Datas</p></td><td><p>1º</p><p>a 10</p></td><td><p>11</p><p>a</p><p>20</p></td><td><p>21</p><p>a</p><p>30</p></td><td><p>1º</p><p>a</p><p>10</p></td><td><p>11</p><p>a</p><p>20</p></td><td><p>21</p><p>a</p><p>31</p></td><td><p>1º</p><p>a</p><p>10</p></td><td><p>11</p><p>a</p><p>20</p></td><td><p>21</p><p>a</p><p>30</p></td><td><p>1º</p><p>a</p><p>10</p></td><td><p>11</p><p>a</p><p>20</p></td><td><p>21</p><p>a</p><p>31</p></td></tr><tr><td><p>Meses</p></td><td><p>Setembro</p></td><td><p>Outubro</p></td><td><p>Novembro</p></td><td><p>Dezembro</p></td></tr></table>
+
+4\. CULTIVARES INDICADAS
+
+Para efeito de indicação dos períodos de plantio, as cultivares de milho indicadas pelos obtentores /mantenedores para o Estado, foram agrupadas conforme a seguir especificado.
+
+GRUPO I
+
+ADVANTA COMERCIO DE SEMENTES LTDA: ADV9339, ADV9860, ADV9860 PRO, ADV9853 PRO, ADV9105 PRO, PAC 105, ADV9534, ADV9534 PRO, ADV9853, ADV9105 PRO2 e ADV9860 PRO2;
+
+AGRIGENETICA LAND MELHORAMENTO DE PLANTAS LTDA - ME: L356;
+
+AGROPLANTA SEMENTES: AGR 20, AGR 10, AGR 30, AGR 50 e AGR 90;
+
+AVANTI SEEDS: AV 4142, SW 5130, SW 5156, SW 5198 e SW 5560;
+
+COODETEC DESENVOLVIMENTO, PRODUCAO E COMERCIALIZACAO AGRICOLA LTDA: CD 316;
+
+CRIAGENE SK PESQUISA E DESENVOLVIMENTO: CR106, CR120, CR BA 02, CR PB 01, CR101, CR102, CR107, CR113, CR109, CR130, CR808, CRAM01, CRWX01, CRWX02, CRWX03, CRWX04, CRWX05, CRWX06, CrSw01, CrSw02 e CR804;
+
+DOW AGROSCIENCES INDUSTRIAL LTDA: 2A401PW, 2B346PW, 2B433PW, 2B640PW, 2B647PW, 2B655PW, 2B688PW, 2B688RR, 2B810PW, CD 384PW, CD3312PW, CD3410PW, CD3610PW, CD3612PW, DB 2B339PW, NEX 5617PW, CD3765PW, CD3770PW, CD3775PW e CD384RR;
+
+DOW AGROSCIENCES SEMENTES & BIOTECNOLOGIA BRASIL LTDA.: 2B587RR, 20A55PW, 2B512PW, 2B710PW, 30A37PW, 30A91PW, 30A95PW, 2B587PW, 30A77PW, 2B610PW, 30A37RR, 2A620PW, MG300PW, MG652PW, 2B633PW, 20A78PW, MG699PW, 2B210PW, MG580PW, MG600PW, MG744PW, MG699RR, MG711PW, 2A521PW, 2B533PW, FS450PW, FS481PW, FS500PW, FS620PWU, MG545PW, 30A37PWU, FS587PWU e MG652RR;
+
+DU PONT DO BRASIL S.A.: 30F53VYH, 30F53VYHR, 30K73, 30K73H, 30K73YHR, P3431, BG7032YH, P3456, 30F35YH, 30F35VYHR, P3456VYH, 30F53R, 30F35, 30F35H, 30F35HR, 30F35R, P3431H, P3431YH, P3431YHR, P3456H, P2830H, 30F53, 30F53EH, 30F53H, 30F53HR, 30F53YHR, 30F53YH, P2830VYH, P3250, BG7032, BG7032H, BG7032HR, BG7432H, P1630YH, 30K75, 30K75Y, 30K75YH, 30K75YHR, 30S31, 30S31H, 30S31VYH, 30S31VYHR, 30S31YH, 30S31YHR, BG7032YHR, BG7037H, BG7037VYH, BG7037VYHR, BG7037YHR, BG7046, BG7046H, BG7046VYH, BG7049, BG7049H, BG7049YH, BG7049YHR, BG7061H, BG7061YHR, BG7318YH, BG7330, BG7330H, BG7330VYH, BG7439, BG7439H, BG7542H, BG7542VYH, BG7542VYHR, BG7640H, BG7640R, BG7640VYH, BG7640VYHR, P2830, P3161, P3161H, P3161HR, P3161VYH, P3161YH, P3161YHR, P3340, P3340H, P3340VYH, P3340VYHR, P3340YH, P3380HR, P3431VYH, P3456R, P3630H, P3646, P3646H, P3646VYH, P3646VYHR, P3646YH, P3646YHR, P3779H, P3844R, P3844VYH, P3844VYHR, P3862H, P3862VYH, P3862VYHR, P3862YH, P3898, P4285, P4285H, P4285HR, P4285R, P4285VYH, P4285VYHR, P4285YH, P4285YHR, P3707VYH, P3844H, BG7720VYHR, B2612PWU, B2688PWU, B2810PWU, P3565PWU, P3754PWU, B2433PWU, B2401PWU, B2700PWU, P3016H, BG7049VYH e P3380R;
+
+EMBRAPA MILHO E SORGO: BRS 1010, BRS 1060, BRS 3025, BRS 3035, BRS 3040, BR 205, BR 206, BRS 2020, BRS 2022, BRS 2223, BR 451, BR 473, BRS 4103, BRS 3046, BRS 4154, BRS Caimbé, BRS Sol da Manhã, BRS Gorutuba, BRS 4104 e BRS 3042;
+
+GENESEEDS: BM 3061;
+
+GENEZE SEMENTES S/A: GNZ7280, GNZ7280PRO2, GNZ7210, GNZ7210PRO2 e GNZ 2005;
+
+HELIX SEMENTES E MUDAS LTDA : BM 207, BM 810, BM 709, BM 955, BM 905, BM 820, BM 3063, SHS 4080, SHS 4090, SHS 4070, SHS 5050, SHS 5060, SHS 5080, SHS 5090, SHS 5550, SHS 5560, SHS 7090, SHS 3031, BM 709PRO2, BM810PRO2, BM904, BM812, SHS7990, SHS7990PRO2, BM812PRO2, BM855PRO2, SHS7930PRO2, BM815, BM815PRO2, BM270, SHS7939, SHS7939PRO2, BM 620, SHS 5070, BM3066PRO2 e BM 3063PRO2;
+
+LEONARDO MENDONCA TAVARES: 2M88, 2M80, 2M77, 2M60, 3M51 e 4M50;
+
+LIMAGRAIN BRASIL S.A: LG6310, LG36701PRO2 e LX3W720PRO2;
+
+MELHORAMENTO AGROPASTORIL LTDA: AM 4002, AM 606, AM 811, AM 997, AX 727, BALU 7690, MS 2010 e AM 4003;
+
+MHATRIZ PESQUISA AGRÍCOLA: PR 27D28, ANHEMBI, PR 1150, SOBERANO e M 274;
+
+MONSANTO DO BRASIL LTDA: AG9045PRO2, AS 1551, DKB 330RR2, AS 1551PRO, DKB330PRO2, GNZ 9505YG, GNZ 9505PRO, DKB285PRO2, DKB230PRO3, AG9030PRO2, AG9030PROX, AG9030RR2, DKB340PRO2, DKB 315, DKB 285RR2, DKB285PRO3, DKB 285PRO, DKB 285, AS 1660PRO, AG8061PRO3, RB 9006PRO3, RB 9005PRO3, RB 9005RR2, 2200RR2, ADV9345PRO3, AS 1572PRO, AS1777PRO3, DKB 330, AG 9040YG, LG 6304YG, LG 6304PRO, ADV 9434, ADV 9275, LG 3055PRO3, AS 1633, AS1660PRO3, AS1575PRO3, AG9030PRO3, AG 9010, RB 9110YG, RB 9110RR2, RB 9110PRO2, RB9110PRO, AG 9010PRO, AG 9030, AS 1660PRO2, AS1665PRO3, AS 1665PRO, AS1660PROX, AS 1660, AS1656RR2, AS1656PRO3, AS1633PRO3, AS1633PRO, AS1590PRO, AG 8544PRO2, AG 8544PRO, AG 7000PRO, AG 7000PRO2, AG 7088, AG 7088PRO, AG 7088PRO2, AG7088PRO3, AG 7088RR2, AG 8061PRO, AG 8061PRO2, AG8088, AG 8088PRO, AG 8088PRO2, AG 8500PRO, AG 8500PRO2, AG 8544, AG 7000, SHS7910PRO3, BALU 280PRO3, BM 840PRO3, AG8088PRO3, NS 92PRO3, AG 7098RR2, AG 8011PRO, DKB 340PRO, DKB 390, ADV 9434PRO2, ADV 9434PRO3, AG 1051, AG 5011, AG 5011YG, AG 5055, AG 5055PRO, AS1777, AG 7098, LG 3055PRO2, BALU 280PRO, BM 650, BM 650 PRO2, BM 650 RR2, RB 9108PRO2, AS1642PRO, AS 1575, LG 6036RR2, AG8677PRO2, AG8677PRO3, AG8677PROX, AG8690PRO3, AG8780, AG8780PRO, AG8780PRO3, AG9080PRO, AG 9080PRO2, AG9080RR2, AG 8061, AG8061PROX, NS 90PRO, NS 56RR2, NS 56PRO3, NS 56PRO, NS 50RR2, NS 50PRO3, NS 50PRO2, DKB315PRO, AG 8061RR2, AG8500RR2, AG8544PRO3, AG8580PRO2, AG8580PRO3, AG8580PROX, NS 56PRO2, DKB275PRO3, AG7098PRO2, AG7098PRO3, AG7098PROX, AG 7098PRO, NS 90PRO2, LG 6038PRO2, LG 6038PRO, AG 8580PRO, AG 8676PRO2, AG8690PRO2, AG9000, AG9000PRO3, AG9030PRO, AG 9040, AG7088PROX, LG 6036PRO2, LG 6036PRO, LG 6033PRO2, LG 6033PRO, LG 6030RR2, LG 6030PRO3, LG 6030PRO2, LG 6030PRO, LG 6030, GNZ 9690RR2, RB 9005PRO2, LG6036PRO3, RB 9005PRO, RB 9004RR2, RB 9004PRO2, RB 9004PRO, NS 92PRO2, NS92PRO, NS 90RR2, GNZ 9690PRO2, GNZ 9690PRO, GNZ 9688PRO, GNZ 9626RR2, GNZ 9626PRO, GNZ 9505RR2, GNZ 9505PRO3, DKB 350, DKB 350PRO, DKB 390PRO, DKB 390PRO2, DKB 390RR2, LG 3055PRO, AS 1581PRO, AS 1596, AS 1596PRO, AS 1596PRO2, AS 1596RR2, AS 1598, AS 1598PRO, AS 1598PRO2, RB 9210PRO, RB 9210, RB 9110, AS1573PRO, RB 9108PRO3, AS1596PRO3, RB 9108PRO, RB 9108, SHS 7920PRO, SHS7915PRO3, AS1555RR2, SHS 7915PRO, SHS 7910PRO2, SG 6030YG, RB 9308YG, RB 9210PRO2, LG 6038PRO3, AS 1642 PRO2, AS1551PRO2, LG 3055, AS1555PRO, SHS 7920PRO3, AS1555PRO2, AS1555PRO3, SHS 7920PRO2, AS 1633PRO2, AS 1642, NS 50PRO, LG6050PRO2, DKB245PRO2, DKB250PRO2, DKB250PRO3, DKB290, DKB290PRO, AS1656PRO, AS 1656PRO2, AS1656PROX, AS 1661PRO, AS1661PRO3, AS1666, 2300RR2, DKB230, DKB230PROX, DKB310PRO3, DKB330PRO, DKB330PRO3, DKB340PROX, DKB290PRO3, DKB 310, DKB 310PRO2, 3020RR2, 3200RR2, 3400RR2, GNZ 9501, GNZ9501PRO, GNZ 9505PRO2, 3700RR2, 3770RR2, 4600RR2, ADV 9275PRO, ADV 9434PRO, BM 915PRO, BM780RR2, CD324PRO, DKB390PRO3, DKB390PROX, DKB395PRO, DKB395PRO2, DKB395PRO3, AG9025, AG9025PRO3, RB 9108PROX, BM780PRO, BM 780PRO2, BM 780PRO3, BM 840PRO, BM 840RR2, RB 9077PRO, RB 9006RR2, RB 9006PRO2, CD 324PRO3, CD 3715, CD 3715PRO, CD 3715PRO2, CD 3715RR2, CD 397PRO, AS1677PRO3, BALU 480PRO, BALU 480PRO2, BALU 480PROX, AS 1575PRO, AS 1581, CD 397YG, DKB 175, DKB 175PRO, RB 9006PRO, AS1666PRO, AS1666PROX, DKB 177PRO2, DKB177PRO3, DKB 177RR2, BALU 480RR2, AG9045PRO3, DKB 245RR2, DKB 250, DKB 310PRO, DKB 390YG, DKB177PRO, DKB177PROX, DKB 175PRO2, DKB 175RR2, DKB 177, AG9050PRO3, NS 92RR2, GNZ 9626PRO2, DKB 275PRO, ADV 9434RR2, ADV 9275PRO3, BM950, BM950PRO3, AG8700, AG8700PRO3, NS30PRO3, NS88, NS88PRO3, DKB265PRO3, RB 9110PRO3, RB 9210PRO3, RB 9308PRO, LG 6036, LG36610PRO3, LG36790, LG36790PRO3, DKB255PRO3 , DKB255, AG8480PRO3 , AG8480, AS1844PRO3 , AS1844, AS1770PRO3 , AS1770 , DKB335PRO3 , DKB335, AS1780PRO3 , AS1780, BM910PRO3, AS1735PRO3, BM 650PRO3 e GNZ 9707PRO3;
+
+NIDERA SEEDS BRASIL LTDA: NS70, NS77PRO2 e HS14939;
+
+PRIMAIZ SEMENTES LTDA: PZ 242, PZ 677, PZ 204, PZ 316 e PZ 240;
+
+PRODUTORA E COMERCIAL AGRÍCOLA ARAPONGAS LTDA: BALU 163, BALU 163 RL, Balu 445 RL, Balu198, Balu293, Balu297, Balu434, Balu445, Balu787, Balu460, Balu 490, Balu 785, Balu198RL, Balu297RL, Balu434RL, Balu460RL, Balu 787 RL e BALU 788;
+
+RIBER - KWS SEMENTES LTDA: R9080PRO2, K9600PRO2, K9800PRO2, R9080, FTH 960, GNZ 9506, GNZ 9510, ATL 310, ATL 200, ATL 400, Balu 188, DG 213, DG 501, DG 601, SG 6011, SG 6302, SM 511, SM 966, K9200, K9220PRO2, ATL 100, ATL 110, R9330PRO2, RK3014, RK3115, FTH 510, K9105 VIP3, K9960 VIP3, K9606 VIP3, K9555 VIP3, K9460, RB9789 VIP3, RB9060, K9822 VIP3 e ATL 300S;
+
+SEMEALI SEMENTES HIBRIDAS LTDA: XB 4013, XB 7116, XB 6012, XB 6012 Bt, XB 7253, XB 8010, XB 8030, XB 9003, 90XB06 Bt, XB 9003 Bt, 90XB06, 60XB14, XB 8018, XB 8018 Bt, 60XB14 Bt e XB 7253 Bt;
+
+SEMILHA AGRONEGOCIOS: MS3022 e S8044;
+
+SEMPRE SEMENTES: PRE 22S18 TP3, SX1093, PRE 22S18 TP, PRE 22T10 TP, PRE 22T10, PRE 22D11, PRE22S18, PRE 22S18 TP2, SX1076 TP, SX1076 TP2, SX1076 TP3, SX1093 TP, SX1093 TP2, SX1093 TP3, SX1060 TP3, SX1060 TP4, SX1388 TP2, SX3197TP2 e SX3345 TP1;
+
+SYNGENTA SEEDS LTDA: SX7331 Viptera, SYN7205 VIP2, SW8004 VIP3, SW8014 VIP3, SW8054 VIP3, Syn422 VIP3, SX7331 TG, NS73 VIP3, Syn555 VIP3, 3040VIP3, SYN7205, SYN7205 TG, SYN7205 TLTG Viptera, SYN7205 Viptera, SYN7316 TLTG Viptera, SYN7316 Viptera, SYN7G17 TLTG Viptera, SYN7G17 Viptera, SYN8A98 TLTG Viptera, SYN8A98 Viptera, SZ7030 TLTG Viptera, Tork TL, Balu 184, BALU 761, Celeron TLTG, Garra, Somma, SYN4306, SYN4306 TL, SYN7205 TL, GSS41242, SX8110 TLTG Viptera, SX8332 TLTG Viptera, Formula VIP2, SYN3040, Cargo TL, Celeron TL, Formula, Fórmula TL, Formula Viptera, Garra Viptera, Impacto, Impacto TG, Impacto TLTG Viptera, Maximus TLTG Viptera, Penta TLTG Viptera, Somma Viptera, SX6663 VIP3, SX7341 VIP3, Syn522 VIP3, Syn488 VIP3, Syn455 VIP3, SX6552 VIP3, Formula TG, SYN5T78 TLTG Viptera, SZ6995 VIP3, SW8044 VIP3, SW8064 VIP3, SW8074 VIP3, SX8555 VIP3, SX8773 VIP3, SZ7634 VIP3 e SZ7684 VIP3.
+
+GRUPO II
+
+AGRIGENETICA LAND MELHORAMENTO DE PLANTAS LTDA - ME: LAND 468, L225, L229, LAND 544, L 617, L 569, L 940 e L 480;
+
+AGROPLANTA SEMENTES: AGR 40 e AGR VEREDA;
+
+COODETEC DESENVOLVIMENTO, PRODUCAO E COMERCIALIZACAO AGRICOLA LTDA: CD 3408 Hx, CD 316Hx, CD 393, CD 393Hx, CD 3344Hx e CD 316PRO2;
+
+DI SOLO SEMENTES MELHORADAS LTDA: DSS 1001 e IPANEMA;
+
+DOW AGROSCIENCES INDUSTRIAL LTDA: CD3880PW e Dow WxA504;
+
+EMBRAPA MILHO E SORGO: BRS 1055 e BR 106;
+
+GENEZE SEMENTES S/A: GNZ 2005 YG e GNZ 2004;
+
+IAC: IAC 3330;
+
+IAPAR: IPR 164, IPR 127, IPR 119 e IPR 114;
+
+JOSE FERNANDO MARTINS BORGES: RG 02A, RG 03 e RG 01;
+
+MELHORAMENTO AGROPASTORIL LTDA: AM 9724 e MS 2013;
+
+NIDERA SEEDS BRASIL LTDA: NS82;
+
+RIBER - KWS SEMENTES LTDA: K9100, SG 6010, DG 627 e SM 505;
+
+SEMPRE SEMENTES: SX1076, SX1086, PRE 32D10, SX1086 TP2, SX1086 TP, SX1086 TP3, PRE2601, PRE2601 TP2, PRE2601 TP3 e PRE2601 TP;
+
+SYNGENTA SEEDS LTDA: CD 308 e SG 6418;
+
+TROPIGENE COMERCIAL AGRÍCOLA LTDA - ME: AGRI340, AGRI-104 e AGRI320.
+
+GRUPO III
+
+SECRETARIA DE AGRICULTURA E ABASTECIMENTO - CATI/DSMM: AL Bandeirante, Al Bianco, AL 34, CATIVERDE 02, AL Avaré e AL Piratininga.
+
+Notas:
+
+1\. Informações específicas sobre as cultivares indicadas devem ser obtidas junto aos respectivos obtentores/mantenedores.
+
+2\. Devem ser utilizadas no plantio sementes produzidas em conformidade com a legislação brasileira sobre sementes e mudas (Lei nº 10.711, de 5 de agosto de 2003, e Decreto nº 5.153, de 23 de agosto de 2004).
+
+5\. RELAÇÃO DOS MUNICÍPIOS APTOS AO CULTIVO E PERÍODOS INDICADOS PARA SEMEADURA
+
+<table><tr></tr><tr><td><p>MUNICÍPIOS</p></td><td><p>PERÍODOS DE SEMEADURA PARA CULTIVARES DO GRUPO I</p></td></tr><tr><td></td><td><p>SOLOS TIPO 2</p></td><td><p>SOLOS TIPO 3</p></td></tr><tr><td><p>Água Clara</p></td><td><p>1 a 5</p></td><td><p>1 a 5</p></td></tr><tr><td><p>Alcinópolis</p></td><td><p>1 a 6</p></td><td><p>1 a 7</p></td></tr><tr><td><p>Amambaí</p></td><td><p>1 a 7</p></td><td><p>1 a 7</p></td></tr><tr><td><p>Anaurilândia</p></td><td><p></p></td><td><p>1 a 5</p></td></tr><tr><td><p>Angélica</p></td><td><p>1 a 7</p></td><td><p>1 a 7</p></td></tr><tr><td><p>Antônio João</p></td><td><p>1 a 7</p></td><td><p>1 a 7</p></td></tr><tr><td><p>Aparecida do Taboado</p></td><td><p>1 a 5</p></td><td><p>1 a 5</p></td></tr><tr><td><p>Aral Moreira</p></td><td><p>1 a 7</p></td><td><p>1 a 7</p></td></tr><tr><td><p>Batayporã</p></td><td><p>1 a 2 + 6 a 7</p></td><td><p>1 a 7</p></td></tr><tr><td><p>Bela Vista</p></td><td><p>1 a 6</p></td><td><p>1 a 7</p></td></tr><tr><td><p>Bonito</p></td><td><p>4 a 6</p></td><td><p>1 a 7</p></td></tr><tr><td><p>Caarapó</p></td><td><p>1 a 7</p></td><td><p>1 a 7</p></td></tr><tr><td><p>Caracol</p></td><td><p>1 a 6</p></td><td><p>1 a 7</p></td></tr><tr><td><p>Cassilândia</p></td><td><p>1 a 5</p></td><td><p>1 a 6</p></td></tr><tr><td><p>Chapadão do Sul</p></td><td><p>1 a 5</p></td><td><p>1 a 6</p></td></tr><tr><td><p>Coronel Sapucaia</p></td><td><p>1 a 7</p></td><td><p>1 a 7</p></td></tr><tr><td><p>Corumbá</p></td><td><p>1 a 4</p></td><td><p>1 a 5</p></td></tr><tr><td><p>Costa Rica</p></td><td><p>1 a 6</p></td><td><p>1 a 6</p></td></tr><tr><td><p>Coxim</p></td><td><p>1 a 5</p></td><td><p>1 a 5</p></td></tr><tr><td><p>Deodápolis</p></td><td><p>1 a 6</p></td><td><p>1 a 7</p></td></tr><tr><td><p>Douradina</p></td><td><p>1 a 7</p></td><td><p>1 a 7</p></td></tr><tr><td><p>Dourados</p></td><td><p>1 a 7</p></td><td><p>1 a 7</p></td></tr><tr><td><p>Eldorado</p></td><td><p>1 a 6</p></td><td><p>1 a 7</p></td></tr><tr><td><p>Fátima do Sul</p></td><td><p>1 a 7</p></td><td><p>1 a 7</p></td></tr><tr><td><p>Figueirão</p></td><td><p>1 a 5</p></td><td><p>1 a 5</p></td></tr><tr><td><p>Glória de Dourados</p></td><td><p>1 a 6</p></td><td><p>1 a 7</p></td></tr><tr><td><p>Guia Lopes da Laguna</p></td><td><p>4 a 6</p></td><td><p>1 a 7</p></td></tr><tr><td><p>Iguatemi</p></td><td><p>1 a 6</p></td><td><p>1 a 7</p></td></tr><tr><td><p>Inocência</p></td><td><p>1 a 5</p></td><td><p>1 a 5</p></td></tr><tr><td><p>Itaporã</p></td><td><p>1 a 7</p></td><td><p>1 a 7</p></td></tr><tr><td><p>Itaquiraí</p></td><td><p>1 a 6</p></td><td><p>1 a 7</p></td></tr><tr><td><p>Ivinhema</p></td><td><p>1 a 6</p></td><td><p>1 a 7</p></td></tr><tr><td><p>Japorã</p></td><td><p>1 a 6</p></td><td><p>1 a 7</p></td></tr><tr><td><p>Jardim</p></td><td><p>4 a 6</p></td><td><p>1 a 7</p></td></tr><tr><td><p>Jateí</p></td><td><p>1 a 6</p></td><td><p>1 a 7</p></td></tr><tr><td><p>Juti</p></td><td><p>1 a 6</p></td><td><p>1 a 7</p></td></tr><tr><td><p>Laguna Carapã</p></td><td><p>1 a 7</p></td><td><p>1 a 7</p></td></tr><tr><td><p>Maracaju</p></td><td><p>1 a7</p></td><td><p>1 a 7</p></td></tr><tr><td><p>Mundo Novo</p></td><td><p>1 a 6</p></td><td><p>1 a 7</p></td></tr><tr><td><p>Naviraí</p></td><td><p>1 a 6</p></td><td><p>1 a 7</p></td></tr><tr><td><p>Nioaque</p></td><td><p>1 a 6</p></td><td><p>1 a 7</p></td></tr><tr><td><p>Nova Alvorada do Sul</p></td><td><p>1 a 5</p></td><td><p>1 a 7</p></td></tr><tr><td><p>Nova Andradina</p></td><td><p>1 a 3</p></td><td><p>1 a 7</p></td></tr><tr><td><p>Novo Horizonte do Sul</p></td><td><p>1 a 6</p></td><td><p>1 a 7</p></td></tr><tr><td><p>Paranaíba</p></td><td><p>1 a 5</p></td><td><p>1 a 6</p></td></tr><tr><td><p>Paranhos</p></td><td><p>1 a 6</p></td><td><p>1 a 7</p></td></tr><tr><td><p>Paraíso das Águas</p></td><td><p>1 a 6</p></td><td><p>1 a 6</p></td></tr><tr><td><p>Pedro Gomes</p></td><td><p>1 a 6</p></td><td><p>1 a 7</p></td></tr><tr><td><p>Ponta Porã</p></td><td><p>1 a 7</p></td><td><p>1 a 7</p></td></tr><tr><td><p>Porto Murtinho</p></td><td><p>1 a 6</p></td><td><p>1 a 7</p></td></tr><tr><td><p>Rio Brilhante</p></td><td><p>1 a 6</p></td><td><p>1 a 7</p></td></tr><tr><td><p>Sete Quedas</p></td><td><p>1 a 6</p></td><td><p>1 a 7</p></td></tr><tr><td><p>Sidrolândia</p></td><td><p>1 a 6</p></td><td><p>1 a 7</p></td></tr><tr><td><p>Sonora</p></td><td><p>1 a 6</p></td><td><p>1 a 7</p></td></tr><tr><td><p>Tacuru</p></td><td><p>1 a 6</p></td><td><p>1 a 7</p></td></tr><tr><td><p>Taquarussu</p></td><td><p>5 a 6</p></td><td><p>1 a 7</p></td></tr><tr><td><p>Vicentina</p></td><td><p>1 a 7</p></td><td><p>1 a 7</p></td></tr></table>
+
+<table><tr></tr><tr><td><p>MUNICÍPIOS</p></td><td><p>PERÍODOS DE SEMEADURA PARA CULTIVARES DO GRUPO II</p></td></tr><tr><td></td><td><p>SOLOS TIPO 2</p></td><td><p>SOLOS TIPO 3</p></td></tr><tr><td><p>Alcinópolis</p></td><td><p>1 a 4</p></td><td><p>1 a 5</p></td></tr><tr><td><p>Amambaí</p></td><td><p>1 a 6</p></td><td><p>1 a 6</p></td></tr><tr><td><p>Anaurilândia</p></td><td><p></p></td><td><p>1 a 4</p></td></tr><tr><td><p>Angélica</p></td><td><p>1 a 4</p></td><td><p>1 a 4</p></td></tr><tr><td><p>Antônio João</p></td><td><p>1 a 6</p></td><td><p>1 a 6</p></td></tr><tr><td><p>Aral Moreira</p></td><td><p>1 a 6</p></td><td><p>1 a 6</p></td></tr><tr><td><p>Batayporã</p></td><td><p>1 a 4</p></td><td><p>1 a 6</p></td></tr><tr><td><p>Bela Vista</p></td><td><p>1 a 4</p></td><td><p>1 a 5</p></td></tr><tr><td><p>Bonito</p></td><td><p>1 a 4</p></td><td><p>1 a 5</p></td></tr><tr><td><p>Caarapó</p></td><td><p>1 a 6</p></td><td><p>1 a 6</p></td></tr><tr><td><p>Caracol</p></td><td><p>1 a 4</p></td><td><p>1 a 5</p></td></tr><tr><td><p>Coronel Sapucaia</p></td><td><p>1 a 6</p></td><td><p>1 a 6</p></td></tr><tr><td><p>Costa Rica</p></td><td><p>1 a 4</p></td><td><p>1 a 5</p></td></tr><tr><td><p>Deodápolis</p></td><td><p>1 a 4</p></td><td><p>1 a 4</p></td></tr><tr><td><p>Douradina</p></td><td><p>1 a 6</p></td><td><p>1 a 6</p></td></tr><tr><td><p>Dourados</p></td><td><p>1 a 6</p></td><td><p>1 a 6</p></td></tr><tr><td><p>Eldorado</p></td><td><p>1 a 4</p></td><td><p>1 a 6</p></td></tr><tr><td><p>Fátima do Sul</p></td><td><p>1 a 6</p></td><td><p>1 a 6</p></td></tr><tr><td><p>Glória de Dourados</p></td><td><p>1 a 4</p></td><td><p>1 a 4</p></td></tr><tr><td><p>Guia Lopes da Laguna</p></td><td><p>1 a 4</p></td><td><p>1 a 5</p></td></tr><tr><td><p>Iguatemi</p></td><td><p>1 a 4</p></td><td><p>1 a 6</p></td></tr><tr><td><p>Itaporã</p></td><td><p>1 a 6</p></td><td><p>1 a 6</p></td></tr><tr><td><p>Itaquiraí</p></td><td><p>1 a 4</p></td><td><p>1 a 6</p></td></tr><tr><td><p>Ivinhema</p></td><td><p>1 a 4</p></td><td><p>1 a 4</p></td></tr><tr><td><p>Japorã</p></td><td><p>1 a 4</p></td><td><p>1 a 6</p></td></tr><tr><td><p>Jardim</p></td><td><p>1 a 4</p></td><td><p>1 a 5</p></td></tr><tr><td><p>Jateí</p></td><td><p>1 a 4</p></td><td><p>1 a 4</p></td></tr><tr><td><p>Juti</p></td><td><p>1 a 4</p></td><td><p>1 a 6</p></td></tr><tr><td><p>Laguna Carapã</p></td><td><p>1 a 6</p></td><td><p>1 a 6</p></td></tr><tr><td><p>Maracaju</p></td><td><p>1 a 6</p></td><td><p>1 a 6</p></td></tr><tr><td><p>Mundo Novo</p></td><td><p>1 a 4</p></td><td><p>1 a 6</p></td></tr><tr><td><p>Naviraí</p></td><td><p>1 a 4</p></td><td><p>1 a 6</p></td></tr><tr><td><p>Nioaque</p></td><td><p></p></td><td><p>1 a 5</p></td></tr><tr><td><p>Nova Alvorada do Sul</p></td><td><p>1 a 6</p></td><td><p>1 a 6</p></td></tr><tr><td><p>Nova Andradina</p></td><td><p>1 a 4</p></td><td><p>1 a 4</p></td></tr><tr><td><p>Novo Horizonte do Sul</p></td><td><p>1 a 4</p></td><td><p>1 a 4</p></td></tr><tr><td><p>Paranhos</p></td><td><p>1 a 4</p></td><td><p>1 a 6</p></td></tr><tr><td><p>Paraíso das Águas</p></td><td><p>1 a 4</p></td><td><p>1 a 5</p></td></tr><tr><td><p>Pedro Gomes</p></td><td><p>1 a 4</p></td><td><p>1 a 5</p></td></tr><tr><td><p>Ponta Porã</p></td><td><p>1 a 6</p></td><td><p>1 a 6</p></td></tr><tr><td><p>Porto Murtinho</p></td><td><p>1 a 4</p></td><td><p>1 a 5</p></td></tr><tr><td><p>Rio Brilhante</p></td><td><p>1 a 6</p></td><td><p>1 a 6</p></td></tr><tr><td><p>Sete Quedas</p></td><td><p>1 a 4</p></td><td><p>1 a 6</p></td></tr><tr><td><p>Sidrolândia</p></td><td><p>1 a 6</p></td><td><p>1 a 7</p></td></tr><tr><td><p>Sonora</p></td><td><p>1 a 4</p></td><td><p>1 a 5</p></td></tr><tr><td><p>Tacuru</p></td><td><p>1 a 4</p></td><td><p>1 a 6</p></td></tr><tr><td><p>Taquarussu</p></td><td><p>1 a 4</p></td><td><p>1 a 4</p></td></tr><tr><td><p>Vicentina</p></td><td><p>1 a 6</p></td><td><p>1 a 6</p></td></tr></table>
+
+<table><tr></tr><tr><td><p>MUNICÍPIOS</p></td><td><p>PERÍODOS DE SEMEADURA PARA CULTIVARES DO GRUPO III</p></td></tr><tr><td></td><td><p>SOLOS TIPO 2</p></td><td><p>SOLOS TIPO 3</p></td></tr><tr><td><p>Amambaí</p></td><td><p>1 a 2</p></td><td><p>1 a 3</p></td></tr><tr><td><p>Anaurilândia</p></td><td><p></p></td><td><p>1 a 3</p></td></tr><tr><td><p>Angélica</p></td><td><p>1 a 2</p></td><td><p>1 a 3</p></td></tr><tr><td><p>Antônio João</p></td><td><p>1 a 5</p></td><td><p>1 a 5</p></td></tr><tr><td><p>Aral Moreira</p></td><td><p>1 a 5</p></td><td><p>1 a 5</p></td></tr><tr><td><p>Batayporã</p></td><td><p>1 a 2</p></td><td><p>1 a 7</p></td></tr><tr><td><p>Bela Vista</p></td><td><p>1 a 3</p></td><td><p>1 a 4</p></td></tr><tr><td><p>Bonito</p></td><td><p>1 a 3</p></td><td><p>1 a 4</p></td></tr><tr><td><p>Caarapó</p></td><td><p>1 a 5</p></td><td><p>1 a 5</p></td></tr><tr><td><p>Caracol</p></td><td><p>1 a 3</p></td><td><p>1 a 4</p></td></tr><tr><td><p>Coronel Sapucaia</p></td><td><p>1 a 5</p></td><td><p>1 a 5</p></td></tr><tr><td><p>Deodápolis</p></td><td><p>1 a 2</p></td><td><p>1 a 3</p></td></tr><tr><td><p>Douradina</p></td><td><p>4 a 5</p></td><td><p>1 a 5</p></td></tr><tr><td><p>Dourados</p></td><td><p>4 a 5</p></td><td><p>1 a 5</p></td></tr><tr><td><p>Eldorado</p></td><td><p>1 a 3</p></td><td><p>1 a 5</p></td></tr><tr><td><p>Fátima do Sul</p></td><td><p>1 a 5</p></td><td><p>1 a 5</p></td></tr><tr><td><p>Glória de Dourados</p></td><td><p>1 a 2</p></td><td><p>1 a 3</p></td></tr><tr><td><p>Guia Lopes da Laguna</p></td><td><p>1 a 3</p></td><td><p>1 a 4</p></td></tr><tr><td><p>Iguatemi</p></td><td><p>2 a 3</p></td><td><p>1 a 5</p></td></tr><tr><td><p>Itaporã</p></td><td><p>1 a 5</p></td><td><p>1 a 5</p></td></tr><tr><td><p>Itaquiraí</p></td><td><p>1 a 3</p></td><td><p>1 a 5</p></td></tr><tr><td><p>Ivinhema</p></td><td><p>1 a 2</p></td><td><p>1 a 3</p></td></tr><tr><td><p>Japorã</p></td><td><p>1 a 3</p></td><td><p>1 a 5</p></td></tr><tr><td><p>Jardim</p></td><td><p>1 a 3</p></td><td><p>1 a 4</p></td></tr><tr><td><p>Jateí</p></td><td><p>1 a 2</p></td><td><p>1 a 3</p></td></tr><tr><td><p>Juti</p></td><td><p>1 a 3</p></td><td><p>1 a 5</p></td></tr><tr><td><p>Laguna Carapã</p></td><td><p>1 a 5</p></td><td><p>1 a 5</p></td></tr><tr><td><p>Maracaju</p></td><td><p>1 a 5</p></td><td><p>1 a 5</p></td></tr><tr><td><p>Mundo Novo</p></td><td><p>1 a 3</p></td><td><p>1 a 5</p></td></tr><tr><td><p>Naviraí</p></td><td><p>1 a 3</p></td><td><p>1 a 5</p></td></tr><tr><td><p>Nova Alvorada do Sul</p></td><td><p>1 a 5</p></td><td><p>1 a 5</p></td></tr><tr><td><p>Nova Andradina</p></td><td><p>1 a 2</p></td><td><p>1 a 3</p></td></tr><tr><td><p>Novo Horizonte do Sul</p></td><td><p>1 a 2</p></td><td><p>1 a 3</p></td></tr><tr><td><p>Paranhos</p></td><td><p>1 a 3</p></td><td><p>1 a 5</p></td></tr><tr><td><p>Ponta Porã</p></td><td><p>1 a 5</p></td><td><p>1 a 5</p></td></tr><tr><td><p>Porto Murtinho</p></td><td><p>1 a 3</p></td><td><p>1 a 4</p></td></tr><tr><td><p>Rio Brilhante</p></td><td><p>4 a 5</p></td><td><p>1 a 5</p></td></tr><tr><td><p>Sete Quedas</p></td><td><p>1 a 3</p></td><td><p>1 a 5</p></td></tr><tr><td><p>Sidrolândia</p></td><td><p></p></td><td><p>1 a 5</p></td></tr><tr><td><p>Tacuru</p></td><td><p>1 a 3</p></td><td><p>1 a 5</p></td></tr><tr><td><p>Taquarussu</p></td><td><p>1 a 2</p></td><td><p>1 a 3</p></td></tr><tr><td><p>Vicentina</p></td><td><p>1 a 5</p></td><td><p>1 a 5</p></td></tr></table>

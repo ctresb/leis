@@ -1,0 +1,34 @@
+---
+titulo: "PORTARIA Nº 55, DE 29 DE JANEIRO DE 2018"
+orgao: "Ministério da Integração Nacional/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "55"
+data: 2018-01-29
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 30/01/2018, seção 1, p. 48"
+data_publicacao: 2018-01-30
+edicao: "21"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-55-de-29-de-janeiro-de-2018-2237956"
+sha256_html_fonte: 885282a53a987ca65d220cdf13cd8621e4dd1b8b179afdc22b5431381ef428a1
+baixado_em: 2026-10-27
+---
+# PORTARIA Nº 55, DE 29 DE JANEIRO DE 2018
+
+O MINISTRO DE ESTADO DA INTEGRAÇÃO NACIONAL, no uso da atribuição que lhe confere o art. 87, parágrafo único, inciso IV da Constituição, e tendo em vista o disposto na Lei n. 12.340, de 1º de dezembro de 2010, Lei n. 12.608, de 10 de abril de 2012 e no Decreto n. 7.257, de 4 de agosto de 2010, resolve:
+
+**Art. 1º** Autorizar o empenho e o repasse de recursos ao Município de Florianópolis/SC, no valor de R$ 2.066.804,46 (dois milhões, sessenta e seis mil oitocentos e quatro reais e quarenta e seis centavos), para a execução de ações de resposta, conforme processo n. 59052.001422/2018-77.
+
+**Art. 2º** Os recursos financeiros serão empenhados a título de Transferência Obrigatória, conforme legislação vigente, observando a classificação orçamentária: PT: 06.182.2040.22BO.0001; Natureza de Despesa: 3.3.40.41; Fonte: 0100; UG: 530012.
+
+**Art. 3º** Considerando a natureza e o volume de ações a serem implementadas, o prazo de execução das obras e serviços é de 180 dias, a partir da publicação desta portaria no Diário Oficial da União - D.O.U.
+
+**Art. 4º** A utilização, pelo ente beneficiário, dos recursos transferidos está vinculada exclusivamente à execução das ações especificadas no art. 1° desta Portaria.
+
+**Art. 5º** O proponente deverá apresentar prestação de contas final no prazo de 30 dias a partir do término da vigência, nos termos do art. 14 do Decreto n. 7.257, de 4 de agosto de 2010.
+
+**Art. 6º** Esta Portaria entra em vigor na data de sua publicação.
+
+HELDER BARBALHO
+
+Este conteúdo não substitui o publicado na versão certificada.

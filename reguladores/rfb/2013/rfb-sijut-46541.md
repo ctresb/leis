@@ -1,0 +1,171 @@
+---
+titulo: "Solução de Consulta Disit/SRRF09 nº 177, de 6 de setembro de 2013"
+orgao: "Divisão de Tributação da 9ª Região Fiscal"
+tipo: "Solução de Consulta"
+numero: "177"
+data: "2013-09-06"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 02/10/2013, seção 1, página 26"
+data_publicacao: "2013-10-02"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/46541/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/46541/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "46541"
+sha256_texto: "01304bf842a1aa9679b9eefc84182e53f4bde4fd32820f6433a9d6316d0541d6"
+baixado_em: "2026-10-20"
+---
+# Solução de Consulta Disit/SRRF09 nº 177, de 6 de setembro de 2013
+
+Assunto: Contribuição para o Financiamento da Seguridade Social – Cofins ADICIONAL DE COFINS-IMPORTAÇÃO. PRODUÇÃO DE EFEITOS. EXIGÊNCIA DE REGULAMENTAÇÃO. PUBLICAÇÃO DO DECRETO Nº 7.828/2012. A majoração da alíquota da Cofins-Importação em um ponto percentual, promovida pelo art. 53 da Lei nº 12.715, de 2012, cumpriu o requisito de regulamentação com a publicação do Decreto nº 7.828, de 16 de outubro de 2012, estando apta para produzir efeitos a partir de 01.01.2013. Dispositivos Legais: Lei nº 10.865, de 2004, art. 8º, § 21, com redação dada pela Lei nº 12.715, de 2012; Lei nº 12.715, de 2012, arts. 53, 56 e 78, § 2º; Decreto nº 7.828, de 2012; e Parecer Normativo nº 2, de 2013.
+
+
+
+SRRF09/Disit Fls. 44
+
+Superintendência Regional da Receita Federal do Brasil da 9ª RF
+
+Solução de Consulta nº 177 - SRRF09/Disit Data 6 de setembro de 2013 Processo \*\*\*\* Interessado \*\*\*\* CNPJ/CPF \*\*\*\*
+
+ASSUNTO: CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL - COFINS ADICIONAL DE COFINS-IMPORTAÇÃO. PRODUÇÃO DE EFEITOS. EXIGÊNCIA DE REGULAMENTAÇÃO. PUBLICAÇÃO DO
+
+DECRETO Nº 7.828/2012. A majoração da alíquota da Cofins-Importação em um ponto percentual, promovida pelo art. 53 da Lei nº 12.715, de 2012, cumpriu o requisito de regulamentação com a publicação do Decreto nº 7.828, de 16 de outubro de 2012, estando apta para produzir efeitos a partir de 01.01.2013. Dispositivos Legais: Lei nº 10.865, de 2004, art. 8º, § 21, com redação dada pela Lei nº 12.715, de 2012; Lei nº 12.715, de 2012, arts. 53, 56 e 78,
+
+§ 2º; Decreto nº 7.828, de 2012; e Parecer Normativo nº 2, de 2013.
+
+Relatório
+
+O interessado, acima identificado, vem formular consulta a esta Superintendência sobre a interpretação do § 2º do art. 78 da Lei nº 12.715, de 17 de setembro de 2012, no que tange ao início de produção de efeitos do adicional à Cofins-Importação.
+
+2. Afirma que seu ramo de atividade é o comércio atacadista de materiais de construção em geral.
+
+3. Aduz que é optante pelo lucro presumido e que atua na importação direta e venda de diversas mercadorias. Narra que, em suas importações (basicamente metais sanitários), recolhia a Cofins-Importação à alíquota de 7,6%, nos termos do art. 8º da Lei nº 10.865, de 30 de abril de 2004. Relata que, por força do art. 53 da Lei nº 12.715, de 2012, fora promovido um aumento de 1% à Cofins-Importação para os produtos por ele importados.
+
+4. Explica ter interpretado à época que a majoração da Cofins-Importação teria entrado em vigor em 08/2012, contudo, considerando os arts. 78 e 79 da Lei nº 12.715, de 2012, teme ter-se equivocado. É que a produção de efeitos da alteração da Lei nº 10.865, de
+
+Fls. 45
+
+2004, promovida pelo art. 53 da Lei nº 12.715, de 2012, somente ocorreria após sua regulamentação, o que ainda não teria ocorrido. Enfatiza que o inciso III do art. 79 da Lei nº 12.715, de 2012, teria reforçado a necessidade de regulamentação para a produção de efeitos.
+
+5. Traz à colação ementa da Solução de Consulta SRRF/7ª RF/Disit nº 11, de 29 de janeiro de 2013, que afirma que a majoração da alíquota da Cofins-Importação encontrar-se-ia sobrestada até a publicação da norma regulamentadora.
+
+6. Por fim indaga se a majoração da alíquota da Cofins-Importação em um ponto percentual, promovida pelo art. 53 da Lei nº 12.715, de 2012, já produz efeitos ou ainda aguarda regulamentação. Pergunta também se, concluindo pela inaplicabilidade da majoração da alíquota da Cofins-Importação, poderia requerer o ressarcimento ou a compensação do montante indevidamente recolhido e sob qual procedimento.
+
+Fundamentos
+
+7. O adicional da Cofins-Importação foi criado pela Medida Provisória nº 540, de 2 de agosto de 2011, com seu valor inicialmente fixado em 1,5%. Transcreve-se excerto da Exposição de Motivos referente a esta Medida Provisória no que tange ao adicional da Cofins-Importação:
+
+33. Por fim, propõe-se instituir adicional na alíquota da COFINS-Importação para os produtos que especifica. 34. Foi instituída contribuição sobre o faturamento de segmentos econômicos específicos, ou seja, os produtos vendidos no mercado interno passaram a ter o preço onerado, o que reduz a competitividade face aos mesmos produtos quantos importados. 35. Desta forma, a medida proposta trata da criação de adicional da COFINS-Importação sobre produtos específicos, correlatos àqueles já onerados no mercado interno. Entre os produtos importados sobre os quais deverá incidir o adicional estão os calçados, indústria de confecções e móveis. 36. A medida proposta se alinha à alteração na sistemática de tributação da nova contribuição incidente sobre os setores mencionados, a qual será exigida com base na receita auferida pelas empresas, ao invés da folha de salários. Assim, por simetria, passa- se a exigir o adicional da COFINS-Importação nas operações de importação destes mesmos produtos.
+
+8. Vê-se, pois, que o adicional da Cofins-Importação guarda correspondência com a contribuição sobre a receita, substitutiva da contribuição patronal sobre a folha de salários. Este adicional é aplicável sobre a importação dos mesmos produtos já onerados no mercado interno com a contribuição substitutiva. Em suma, trata-se de uma exigência simétrica à da contribuição sobre a receita, com vistas a equalizar a carga tributária incidente sobre os produtos produzidos no mercado interno com a carga tributária incidente sobre a importação.
+
+9. Pois bem, esse adicional da Cofins-Importação foi reduzido para 1% pela Medida Provisória nº 563, de 3 de abril de 2012, posteriormente convertida na Lei nº 12.715, de 17 de setembro de 2012, que manteve a redução do adicional da Cofins-Importação. Veja-se a redação do § 21 do art. 8º da Lei nº 10.865, de 30 de abril de 2004, na redação dada pela Lei nº 12.715, de 2012:
+
+Fls. 46
+
+**Art. 8o** As contribuições serão calculadas mediante aplicação, sobre a base de cálculo de que trata o art. 7o desta Lei, das alíquotas de:
+
+I - 1,65% (um inteiro e sessenta e cinco centésimos por cento), para o PIS/PASEP- Importação
+
+II - 7,6% (sete inteiros e seis décimos por cento), para a COFINS-Importação. (...)
+
+**§ 21.** As alíquotas da COFINS-Importação de que trata este artigo ficam acrescidas de um ponto percentual, na hipótese de importação dos bens classificados na TIPI, aprovada pelo Decreto nº 7.660, de 2011, relacionados no Anexo da Lei nº 12.546, de 14 de dezembro de 2011. (Redação dada pela Lei nº 12.715, de 2012, art. 53) [sem grifo no original]
+
+10. Cabe também mencionar que o art. 46 da MP nº 563, de 2012, criou o
+
+Anexo da Lei nº 12.546, de 2011. Na lei de conversão, reproduz a criação do Anexo o art. 56 da Lei nº 12.715, de 2012: incluindo mais produtos na sujeição ao adicional de alíquota da Cofins-Importação, dentre eles os produtos importados pelo consulente:
+
+**Art. 56.** A Lei no 12.546, de 14 de dezembro de 2011, passa a vigorar acrescida do
+
+Anexo desta Lei.
+
+11. Em relação à vigência, determinou o § 2º do art. 78 da Lei nº 12.715, de 2012, que a norma do art. 53, que trata do adicional da Cofins-Importação, nos termos da redação dada pela Lei nº 12.715, de 2012, e a norma do art. 56, que cria o Anexo da Lei nº 12.546, de 2011, entrariam em vigor no primeiro dia do quarto mês subsequente à data de publicação da MP nº 563, de 2012, e produziriam efeitos a partir de sua regulamentação:
+
+**Art. 78.** Esta Lei entra em vigor na data de sua publicação, produzindo efeitos:
+
+I - em relação aos arts. 15 a 23, a partir de sua regulamentação, até 31 de dezembro de 2015; e
+
+II - em relação aos arts. 40 a 44 e 62, a partir de sua regulamentação.
+
+§ 1o Os arts. 48 e 50 entram em vigor em 1o de janeiro de 2013.
+
+§ 2o Os arts. 53 a 56 entram em vigor no 1o (primeiro) dia do 4o (quarto) mês subsequente à data de publicação da Medida Provisória no 563, de 3 de abril de 2012, produzindo efeitos a partir de sua regulamentação, à exceção:
+
+I - da nova redação dada ao § 15 e ao novo § 23 do art. 8o da Lei no 10.865, de 30 de abril de 2004, que entram em vigor na data de publicação desta Lei;
+
+II - do disposto no inciso III do caput do art. 7o e no § 3o do art. 8o da Lei no 12.546, de 14 de dezembro de 2011, que entra em vigor em 1o de janeiro de 2013;
+
+III - da contribuição sobre o valor da receita bruta relativa às empresas que fabricam os produtos classificados nas posições 2515.11.00, 2515.12.10, 2516.11.00, 2516.12.00, 6801.00.00, 6802.10.00, 6802.21.00, 6802.23.00, 6802.29.00, 6802.91.00, 6802.92.00, 6802.93.10, 6802.93.90, 6802.99.90, 6803.00.00, 8473.30.99, 8504.90.10, 8518.90.90 e 8522.90.20 da Tipi, que entra em vigor no 1o (primeiro) dia do 4o (quarto) mês subsequente à data de publicação desta Lei; e
+
+IV - da contribuição sobre o valor da receita bruta relativa às empresas que fabricam os produtos classificados nas posições 01.03, 02.06, 02.09, 05.04, 05.05, 05.07, 05.10, 05.11, 10.05, 11.06, 12.01, 12.08, 12.13, no Capítulo 15, no Capítulo 16, no Capítulo 19, nas posições 23.01, 23.04, 23.06, 2309.90, 30.02, 30.03, 30.04 da Tipi, que entra em vigor no
+
+Fls. 47
+
+1o (primeiro) dia do 4o (quarto) mês subsequente à data de publicação desta Lei. [sem grifo no original]
+
+12. Registre-se que, enquanto para a contribuição previdenciária sobre a receita, substitutiva da contribuição sobre a folha de salários, justificava-se a necessidade de regulamentação para fins de esclarecimento e de compilação do rol de pessoas jurídicas submetidas à nova contribuição. Diferentemente, no caso do adicional da Cofins-Importação, a regulamentação foi exigida exclusivamente para manter correspondência com a contribuição previdenciária sobre a receita.
+
+13. O Parecer Normativo RFB nº 2, de 28 de maio de 2013, publicado no Diário Oficial da União – D.O.U.do dia 12.07.2013, estabeleceu o entendimento da Receita Federal do Brasil acerca da questão da produção de efeitos das alterações promovidas pela Lei nº 12.715, de 2012, na Lei nº 10.865, de 2004. Transcreve-se excerto desse Parecer Normativo:
+
+12. Conforme se observa, em relação ao adicional da Cofins-Importação em lume, a
+
+Lei nº 12.715, de 2012, não alterou significativamente as disposições da Medida Provisória nº 563, de 2012. Deveras, em comparação com a referida Medida Provisória, o art. 53, combinado com o art. 56, da Lei nº 12.715, de 2012, apenas incluiu alguns produtos no campo de incidência do adicional de alíquota em voga, mantendo as demais regras inicialmente instituídas pela Medida Provisória em referência. 13. Diferentemente, em relação à contribuição previdenciária sobre a receita devida pelas pessoas jurídicas de que tratam os arts. 7º a 9º da Lei nº 12.546, de 2011, os arts. 54 a 56 da Lei nº 12.715, de 2012, alteraram substancialmente as disposições da Medida Provisória nº 563, de 2012, pois, quanto à contribuição em comento, incluíram setores econômicos entre os contemplados, alteraram critérios de sujeição passiva, de determinação da base de cálculo, entre outros. 14. Fixadas essas premissas interpretativas, pode-se analisar especificamente as regras de vigência e de produção de efeitos das alterações promovidas nas regras relativas ao adicional da Cofins-Importação e à contribuição substitutiva pela Lei nº 12.715, de 2012, publicada no Diário Oficial da União de 18 de setembro de 2012, estabelecidas em seu
+
+art. 78, in verbis: “Art. 78. Esta Lei entra em vigor na data de sua publicação, produzindo efeitos: (...)
+
+**§ 2º** Os arts. 53 a 56 entram em vigor no 1º (primeiro) dia do 4º (quarto) mês subsequente à data de publicação da Medida Provisória nº 563, de 3 de abril de 2012, produzindo efeitos a partir de sua regulamentação, à exceção:
+
+I - da nova redação dada ao § 15 e ao novo § 23 do art. 8º da Lei nº 10.865, de 30 de abril de 2004, que entram em vigor na data de publicação desta Lei;
+
+II - do disposto no inciso III do caput do art. 7º e no § 3º do art. 8º da Lei nº 12.546, de 14 de dezembro de 2011, que entra em vigor em 1º de janeiro de 2013;
+
+III - da contribuição sobre o valor da receita bruta relativa às empresas que fabricam os produtos classificados nas posições 2515.11.00, 2515.12.10, 2516.11.00, 2516.12.00, 6801.00.00, 6802.10.00, 6802.21.00, 6802.23.00, 6802.29.00, 6802.91.00, 6802.92.00, 6802.93.10, 6802.93.90, 6802.99.90, 6803.00.00, 8473.30.99, 8504.90.10, 8518.90.90 e 8522.90.20 da Tipi, que entra em vigor no 1º (primeiro) dia do 4º (quarto) mês subsequente à data de publicação desta Lei; e
+
+IV - da contribuição sobre o valor da receita bruta relativa às empresas que fabricam os produtos classificados nas posições 01.03, 02.06, 02.09, 05.04, 05.05, 05.07, 05.10, 05.11, 10.05, 11.06, 12.01, 12.08, 12.13, no Capítulo 15, no Capítulo 16, no Capítulo 19, nas posições 23.01, 23.04, 23.06, 2309.90, 30.02, 30.03, 30.04
+
+Fls. 48
+
+da Tipi, que entra em vigor no 1º (primeiro) dia do 4º (quarto) mês subsequente à data de publicação desta Lei.” (grifos nossos) 15. Consoante se observa, em relação às alterações em comento, o dispositivo transcrito distinguiu os momentos de entrada em vigor e de produção de efeitos. 16. Quanto à vigência, determinou-se que as disposições coincidentes entre a Medida Provisória nº 563, de 2012, e a Lei nº 12.715, de 2012, e algumas outras que não dependiam da concessão de prazo, entrassem em vigor na mesma data inicialmente fixada pela Medida Provisória nº 563, de 2012, qual seja dia 1º de agosto de 2012. Diversamente, algumas disposições da mencionada Lei de Conversão que constituíram inovação em relação à citada Medida Provisória e que dependiam da concessão de prazo somente entraram em vigor em 1º de janeiro de 2013. 17. De outra banda, as determinações do supratranscrito dispositivo acerca da produção de efeitos das alterações efetuadas nas legislações da contribuição substitutiva e do adicional em testilha e a forma escolhida para sua implementação demandam análise acurada. 18. Nos termos do § 2º do art. 78 da Lei nº 12.715, de 2012, as imposições dos arts. 53 a 56 da mesma Lei somente produziriam efeitos “a partir de sua regulamentação”. Dessarte, a produção de efeitos dos dispositivos da Lei nº 12.715, de 2012, relativos à contribuição previdenciária sobre a receita e ao adicional da Cofins-Importação restou condicionada à edição de regulamento pelo Poder Executivo. 19. Evidentemente, em relação à contribuição previdenciária em testilha, a exigência de regulamentação decorreu da necessidade de esclarecimento e de compilação do rol de pessoas jurídicas submetidas à nova contribuição e dos termos de vigência correlatos, e, principalmente, de definição de rotinas operacionais relativas às alterações estruturais promovidas pela referida Lei de Conversão em sua legislação. 20. Diferentemente, quanto ao adicional da Cofins-Importação, exigiu-se regulamentação exclusivamente para manter correspondência com a citada contribuição, especialmente para garantir a simultaneidade da produção de efeitos das alterações protagonizadas pela Lei nº 12.715, de 2012, em suas legislações. Isso porque, como relatado, o adicional de alíquota e a contribuição previdenciária em comento constituem dipolo inseparável, sendo a instituição daquele consequência da instituição desta. 21. Em comparação com a Medida Provisória nº 563, de 2012, as alterações da Lei nº 12.715, de 2012, na legislação do adicional da Cofins-Importação limitam-se à inclusão de produtos em seu campo de incidência. Assim, considerando que a mencionada Medida Provisória, que já houvera incluído produtos na base imponível do adicional, não condicionou a produção de efeitos de seus dispositivos à edição de regulamento, impende concluir que a exigência de regulamentação feita pelo § 2º do art. 78 da Lei nº 12.715, de 2012, para produção de efeitos dos dispositivos dessa Lei que versam sobre o citado adicional da Cofins-Importação objetiva unicamente garantir a coincidência de datas de início da produção de efeitos dos dispositivos dessa Lei que versam sobre a contribuição previdenciária em comento e sobre o mencionado adicional de alíquota. 22. Deveras, corrobora com essa conclusão o fato de nenhuma das demais normas que cuidam do adicional de alíquota da Cofins-Importação (Medida Provisória nº 540, de 2011, Lei nº 12.546, de 2011, Medida Provisória nº 563, de 2012, Medida Provisória nº 582, de 20 de setembro de 2012, Medida Provisória nº 601, de 28 de dezembro de 2012), jamais haver condicionado a vigência ou a produção de efeitos de seus dispositivos correlatos ao tema à expedição de regulamento. 23. Nesse contexto, foi editado o Decreto nº 7.828, de 16 de outubro de 2012, publicado no Diário Oficial da União de 17 de outubro de 2012, que cumpriu a exigência de regulamentação estabelecida no § 2º do art. 78 da Lei nº 12.715, de 2012, para produção de efeitos das disposições dos arts. 53 a 56 dessa Lei relativas à contribuição previdenciária sobre a receita de que tratam os arts. 7º a 9º da Lei nº 12.546, de 2011, e ao adicional de alíquota da Cofins-Importação de que trata o § 21 do art. 8º da Lei nº 10.865, de 2004. 24. Conquanto o referido Decreto nº 7.828, de 2012, mencione apenas a regulamentação da contribuição previdenciária sobre a receita de que tratam os arts. 7º a 9º da Lei nº
+
+Fls. 49
+
+12.546, de 2011, mostra-se evidente que sua edição se destina a cumprir a determinação estabelecida no § 2º do art. 78 da Lei nº 12.715, de 2012, relativa à citada contribuição e ao adicional de alíquota da Cofins-Importação em testilha. 25. Verdadeiramente, o Decreto nº 7.828, de 2012, não se referiu expressamente ao mencionado adicional da Cofins-Importação porque, conforme explicado, não havia dispositivos legais referentes a tal adicional que demandassem regulamentação, como jamais houve no histórico da legislação desse adicional, e continuou não existindo nas normas correlatas posteriores à Lei nº 12.715, de 2012. 26. Ora, considerando a desnecessidade de regulamentação das disposições legais relativas ao adicional da Cofins em voga, adrede demonstrada, o Poder Executivo optou por não apor dispositivos inócuos no Decreto nº 7.828, de 2012, concernentes ao tema. Daí a inexistência de referência ao adicional em lume no citado Decreto. 27. Todavia, isso não muda o fato de que o referido Decreto foi editado para promover a regulamentação exigida pelo § 2º do art. 78 da Lei nº 12.715, de 2012, para viabilizar a produção de efeitos das normas constantes dessa Lei relativas ao adicional de alíquota da Cofins-Importação e à contribuição previdenciária sobre a receita, o que resta evidente na observação da urgência na edição do indigitado Decreto (menos de um mês após a publicação da Lei regulamentada). 28. Interpretação diversa conduziria à conclusão de que atualmente, conquanto as normas relativas à contribuição previdenciária sobre a receita estejam em plena produção de efeitos, as normas relativas ao adicional da Cofins-Importação não produziriam efeitos, pois estariam à espera de regulamentação. 29. Inexoravelmente, essa conclusão é absolutamente inaceitável por três motivos fundamentais:
+
+a) a uma, porque, se as normas relativas ao adicional de alíquota da Cofins-Importação estivessem impossibilitadas de produzir efeitos à espera de regulamentação, forçosamente as inclusões de novos produtos na sistemática da contribuição previdenciária sobre a receita promovidas pela Lei nº 12.715, de 2012, estariam com sua vigência suspensa, à espera de efetiva compensação da renúncia fiscal que ensejaram. Isso porque, nos termos do § 2º do art. 14 da Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), medida que enseja renúncia de receitas, como a inclusão de produtos na sistemática da referida contribuição previdenciária, somente entra em vigor quando implementada a medida de compensação estabelecida, no caso a instituição do mencionado adicional de alíquota;
+
+b) a duas, porque fragmentaria todo o sistema planejado quando da implementação da alcunhada “desoneração da folha de pagamentos” que, como explanado, baseou-se na coexistência inseparável da contribuição previdenciária sobre a receita e do adicional da Cofins-Importação, para garantir a equivalência de tratamento tributário dispensado a produtos nacionais e importados;
+
+c) a três, porque tornaria a produção de efeitos das normas relativas ao adicional de alíquota em voga dependentes da edição de regulamento comprovadamente despiciendo. Conclusão 30. Diante do exposto, conclui-se que as alterações promovidas pelos arts. 53 a 56 da Lei nº 12.715, de 17 de setembro de 2012, na legislação do adicional de alíquota da Cofins- Importação de que trata o § 21 do art. 8º da Lei nº 10.865, de 30 de abril de 2004, estão em plena produção de efeitos, tendo o Decreto nº 7.828, de 16 de outubro de 2012, cumprido a exigência de regulamentação estabelecida pelo § 2º do art. 78 da citada
+
+Lei nº 12.715, de 2012. [sem grifo no original]
+
+14. Em suma, entende esta Secretaria que a exigência de regulamentação para a produção de efeitos das alterações efetuadas pela Lei nº 12.715, de 2012, na Contribuição Previdenciária sobre a Receita e no adicional de alíquota da Cofins-Importação foi cumprida com a edição do Decreto nº 7.828, de 16 de outubro de 2012, em que pese haver este tratado
+
+Fls. 50
+
+somente da primeira, eis que nada havia a regulamentar em relação ao adicional de alíquota da Cofins-Importação.
+
+15. Esclareça-se ainda ter sido superado, com a publicação do Parecer Normativo RFB nº 2, de 28 de maio de 2013, publicado no D.O.U.do dia 12.07.2013, o entendimento veiculado pela Solução de Consulta SRRF/7ª RF/Disit nº 11, de 29 de janeiro de 2013, citada pelo consulente, no sentido de que a majoração da alíquota da Cofins-Importação encontrar-se-ia sobrestada até a publicação da norma regulamentadora.
+
+Conclusão
+
+16. Diante do exposto, soluciona-se a consulta respondendo ao interessado que a majoração da alíquota da Cofins-Importação em um ponto percentual, promovida pelo art. 53 da Lei nº 12.715, de 2012, cumpriu o requisito de regulamentação com a publicação do
+
+Decreto nº 7.828, de 16 de outubro de 2012, estando apta para produzir efeitos a partir de 01.01.2013.
+
+Propõe-se o encaminhamento deste processo à \*\*\*\*, para dar ciência ao consulente e demais providências cabíveis.
+
+À consideração superior.
+
+Assinatura digital
+
+JOSÉ FERNANDO HÜNING Auditor-Fiscal da Receita Federal do Brasil
+
+Ordem de Intimação
+
+Aprovo a Solução de Consulta e o encaminhamento proposto.
+
+Assinatura digital MARCO ANTÔNIO FERREIRA POSSETTI Chefe da Divisão de Tributação SRRF 9ª RF - Matr. 1936 Competência delegada pela Portaria SRRF09 nº 794, de 11/10/2011 (DOU de 18/10/2011)
+

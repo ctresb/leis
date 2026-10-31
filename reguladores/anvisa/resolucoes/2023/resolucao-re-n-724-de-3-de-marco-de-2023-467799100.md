@@ -1,0 +1,158 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 724, DE 3 DE MARÇO DE 2023"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos"
+tipo: "Resolução"
+numero: "724"
+data: 2023-03-03
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 06/03/2023, seção 1, p. 231"
+data_publicacao: 2023-03-06
+edicao: "44"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-724-de-3-de-marco-de-2023-467799100"
+sha256_html_fonte: e85fb94ec49561ac175069239c7eaf96c2fc5045c1681bdd04ef9201c97cd023
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE Nº 724, DE 3 DE MARÇO DE 2023
+
+RESOLUÇÃO-RE Nº 724, DE 3 DE MARÇO DE 2023
+
+A Gerente-Geral substituta de Medicamentos, no uso das atribuições que lhe confere o art. 100, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Deferir petições relacionadas à Gerência-Geral de Medicamentos, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+.......................................................................
+
+FLÁVIA NEVES ROCHA ALVES
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+PRINCIPIO(S) ATIVO(S)
+
+---------------------------
+
+ASTRAZENECA DO BRASIL LTDA 60318797000100
+
+MALEATO DE ACALABRUTINIBE MONOIDRATADO
+
+CALQUENCE COMPRIMIDOS 25351.047342/2022-58 03/2033
+
+11318 MEDICAMENTO INOVADOR - REGISTRO DE MEDICAMENTO COM INOVAÇÃO DIVERSA 0364744/22-7
+
+1.1618.0297.001-3 24 Meses
+
+100 MG COM REV CT BL AL AL X 60
+
+---------------------------
+
+DAIICHI SANKYO BRASIL FARMACÊUTICA LTDA 60874187000184
+
+EDARAVONA
+
+RADICAVA 25351.654677/2021-46 03/2026
+
+11306 MEDICAMENTO NOVO - REGISTRO DE MEDICAMENTO NOVO 2412512/21-1
+
+1.0454.0192.001-7 24 Meses
+
+1,5 MG/ML SOL DIL INFUS IV CT 2 AMP VD TRANS X 20 ML
+
+OLMESARTANA MEDOXOMILA
+
+BENICAR OD 25351.892087/2021-10 03/2033
+
+1456 MEDICAMENTO NOVO - REGISTRO DE FORMA FARMACÊUTICA NOVA NO PAÍS 4740047/21-1
+
+1.0454.0193.001-2 24 Meses
+
+20 MG COM ORODISP CT BL AL AL X 10
+
+1.0454.0193.002-0 24 Meses
+
+20 MG COM ORODISP CT BL AL AL X 30
+
+1.0454.0193.003-9 24 Meses
+
+40 MG COM ORODISP CT BL AL AL X 10
+
+1.0454.0193.004-7 24 Meses
+
+40 MG COM ORODISP CT BL AL AL X 30
+
+---------------------------
+
+DR. REDDYS FARMACÊUTICA DO BRASIL LTDA 03978166000175
+
+enzalutamida
+
+ENLUTOZA 25351.264319/2021-45 03/2033
+
+150 SIMILAR - REGISTRO DE MEDICAMENTO SIMILAR 1228989/21-2
+
+1.5143.0073.001-1 36 Meses
+
+40 MG CAP MOLE CT BL AL PLAS PVC/PCTFE TRANS X 40
+
+1.5143.0073.002-8 36 Meses
+
+40 MG CAP MOLE CT BL AL PLAS PVC/PCTFE TRANS X 120
+
+---------------------------
+
+EMS S/A 57507378000365
+
+dimesilato de lisdexanfetamina
+
+LYBERDIA 25351.120823/2021-34 03/2033
+
+150 SIMILAR - REGISTRO DE MEDICAMENTO SIMILAR 0803732/21-9
+
+1.0235.1425.001-6 24 Meses
+
+30 MG CAP DURA CT FR PLAS PEAD OPC X 30
+
+1.0235.1425.002-4 24 Meses
+
+30 MG CAP DURA CT FR PLAS PEAD OPC X 60
+
+1.0235.1425.003-2 24 Meses
+
+50 MG CAP DURA CT FR PLAS PEAD OPC X 30
+
+1.0235.1425.004-0 24 Meses
+
+70 MG CAP DURA CT FR PLAS PEAD OPC X 30
+
+---------------------------
+
+SANOFI MEDLEY FARMACÊUTICA LTDA. 10588595001092
+
+cloridrato de metilfenidato 25351.111662/2020-09 03/2033
+
+155 GENERICO - REGISTRO DE MEDICAMENTO 0504203/20-4
+
+1.8326.0495.001-7 36 Meses
+
+10 MG COM CT BL AL AL X 20
+
+1.8326.0495.002-5 36 Meses
+
+10 MG COM CT BL AL AL X 30
+
+1.8326.0495.003-3 36 Meses
+
+10 MG COM CT BL AL AL X 60

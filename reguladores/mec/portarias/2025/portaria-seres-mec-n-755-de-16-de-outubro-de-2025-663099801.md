@@ -1,0 +1,58 @@
+---
+titulo: "PORTARIA SERES/MEC Nº 755, DE 16 de outubro de 2025"
+orgao: "Ministério da Educação/Secretaria de Regulação e Supervisão da Educação Superior"
+tipo: "Portaria"
+numero: "755"
+data: 2025-10-16
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 17/10/2025, seção 1, p. 27"
+data_publicacao: 2025-10-17
+edicao: "199"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-seres/mec-n-755-de-16-de-outubro-de-2025-663099801"
+baixado_em: 2026-10-16
+---
+# PORTARIA SERES/MEC Nº 755, DE 16 de outubro de 2025
+
+PORTARIA SERES/MEC Nº 755, DE 16 de outubro de 2025
+
+A SECRETÁRIA DE REGULAÇÃO E SUPERVISÃO DA EDUCAÇÃO SUPERIOR, no uso da atribuição que lhe confere o Decreto nº 11.691, de 5 de setembro de 2023, e tendo em vista os Decretos nº 9.235, de 15 de dezembro de 2017, e nº 12.456, de 19 de maio de 2025, as Portarias Normativas MEC nºs 20 e 23, de 21 de dezembro de 2017, e nº 11, de 22 de junho de 2017, e conforme consta dos processos e-MEC listados na planilha anexa, resolve:
+
+**Art. 1º** Fica(m) indeferido(s) o(s) pedido(s) de autorização de curso superior na modalidade a distância, relacionado(s) no Anexo desta Portaria, conforme disposto nos arts. 10 e 44 do Decreto nº 9.235, de 15 de dezembro de 2017.
+
+**Art. 2º** Esta portaria entra em vigor na data de sua publicação.
+
+MARTA ABRAMO
+
+ANEXO (Autorização de Cursos EaD)
+
+| Nº de Ordem | Registro e-MEC nº | Curso | Nº de vagas totais anuais | Mantida | Mantenedora |
+| --- | --- | --- | --- | --- | --- |
+| 1 | 202121844 | PSICOLOGIA (Bacharelado) | 1260 (uma mil, duzentas e sessenta) | CENTRO UNIVERSITÁRIO ADVENTISTA DE SÃO PAULO | INSTITUTO ADVENTISTA DE ENSINO |
+| 2 | 202123980 | PSICOLOGIA (Bacharelado) | 3000 (três mil) | CENTRO UNIVERSITÁRIO BRAZ CUBAS | SOCIEDADE EDUCACIONAL BRAZ CUBAS LTDA. |
+| 3 | 202123978 | PSICOLOGIA (Bacharelado) | 3000 (três mil) | CENTRO UNIVERSITÁRIO DA SERRA GAÚCHA | SOCIEDADE EDUCACIONAL SANTA RITA S.A. |
+| 4 | 202123983 | PSICOLOGIA (Bacharelado) | 3000 (três mil) | CENTRO UNIVERSITÁRIO DE JOÃO PESSOA | IPE EDUCACIONAL LTDA |
+| 5 | 202122444 | PSICOLOGIA (Bacharelado) | 500 (quinhentas) | CENTRO UNIVERSITÁRIO DE PINHAIS | CENTRO DE ENSINO SUPERIOR DE PINHAIS LTDA. |
+| 6 | 202111680 | PSICOLOGIA (Bacharelado) | 300 (trezentas) | CENTRO UNIVERSITÁRIO DE SETE LAGOAS | FUNDACAO EDUCACIONAL MONSENHOR MESSIAS |
+| 7 | 202023769 | PSICOLOGIA (Bacharelado) | 500 (quinhentas) | CENTRO UNIVERSITÁRIO DINÂMICA DAS CATARATAS | UNIAO DINAMICA DE FACULDADES CATARATAS UDC LTDA |
+| 8 | 202123070 | PSICOLOGIA (Bacharelado) | 200 (duzentas) | CENTRO UNIVERSITÁRIO DO PLANALTO CENTRAL APPARECIDO DOS SANTOS | UNIAO EDUCACIONAL DO PLANALTO CENTRAL S.A |
+| 9 | 202121918 | PSICOLOGIA (Bacharelado) | 300 (trezentas) | CENTRO UNIVERSITÁRIO EURO-AMERICANO | INSTITUTO EURO-AMERICANO DE EDUCACAO, CIENCIA E TECNOLOGIA S.A. |
+| 10 | 202121690 | PSICOLOGIA (Bacharelado) | 300 (trezentas) | CENTRO UNIVERSITÁRIO FAEMA | UNIDAS SOCIEDADE DE EDUCACAO E CULTURA LTDA |
+| 11 | 202124446 | PSICOLOGIA (Bacharelado) | 600 (seiscentas) | CENTRO UNIVERSITÁRIO JORGE AMADO | ASBEC-SOCIEDADE BAIANA DE EDUCACAO E CULTURA LTDA |
+| 12 | 202112531 | PSICOLOGIA (Bacharelado) | 2000 (duas mil) | CENTRO UNIVERSITÁRIO MAURÍCIO DE NASSAU DE CAMPINA GRANDE | INSTITUTO CAMPINENSE DE ENSINO SUPERIOR LTDA |
+| 13 | 202124825 | PSICOLOGIA (Bacharelado) | 100 (cem) | CENTRO UNIVERSITÁRIO MULTIVERSA DO JAGUARIBE- UNIJAGUARIBE | ASSOCIACAO MULTIVERSA EDUCACIONAL - AME |
+| 14 | 202122151 | PSICOLOGIA (Bacharelado) | 500 (quinhentas) | CENTRO UNIVERSITÁRIO SALESIANO DE SÃO PAULO | LICEU CORACAO DE JESUS |
+| 15 | 202023795 | PSICOLOGIA (Bacharelado) | 300 (trezentas) | CENTRO UNIVERSITÁRIO SANTA AMÉLIA | SOCIEDADE EDUCATIVA E CULTURAL AMELIA LTDA |
+| 16 | 202125963 | PSICOLOGIA (Bacharelado) | 2000 (duas mil) | CENTRO UNIVERSITÁRIO UNIDOM - BOSCO | DOM BOSCO ENSINO SUPERIOR LTDA. |
+| 17 | 202124457 | PSICOLOGIA (Bacharelado) | 100 (cem) | CENTRO UNIVERSITÁRIO UNIVEL | UNIAO EDUCACIONAL DE CASCAVEL - UNIVEL LTDA |
+| 18 | 202113011 | PSICOLOGIA (Bacharelado) | 900 (novecentas) | FACULDADE AUDEN EDUCACIONAL | AUDEN EDUCACAO LTDA |
+| 19 | 202124430 | PSICOLOGIA (Bacharelado) | 500 (quinhentas) | FACULDADE CENSUPEG | SOCIEDADE DE EDUCACAO, CULTURA E TECNOLOGIA SAO FIDELIS LTDA |
+| 20 | 202113173 | PSICOLOGIA (Bacharelado) | 200 (duzentas) | FACULDADE SANTO ANTÔNIO | OLHAR EDUCACIONAL LTDA |
+| 21 | 202112928 | ENFERMAGEM (Bacharelado) | 2000 (duas mil) | FACULDADE SUPREMO REDENTOR | FACULDADE SUPREMO REDENTOR LTDA - EPP |
+| 22 | 202113783 | PSICOLOGIA (Bacharelado) | 2000 (duas mil) | FACULDADE SUPREMO REDENTOR | FACULDADE SUPREMO REDENTOR LTDA - EPP |
+| 23 | 202111827 | PSICOLOGIA (Bacharelado) | 500 (quinhentas) | FACULDADE UNIGUAÇU FOZ | UNIAO DE ENSINO SUPERIOR DO IGUACU LTDA - ME |
+| 24 | 202123976 | PSICOLOGIA (Bacharelado) | 3000 (três mil) | UNIVERSIDADE CIDADE DE SÃO PAULO | SECID - SOCIEDADE EDUCACIONAL CIDADE DE SAO PAULO S.A. |
+| 25 | 202123977 | PSICOLOGIA (Bacharelado) | 3000 (três mil) | UNIVERSIDADE DE FRANCA | ACEF S/A. |
+| 26 | 202123687 | PSICOLOGIA (Bacharelado) | 2000 (duas mil) | UNIVERSIDADE PARANAENSE | UNIPAR - SOCIEDADE EMPRESARIAL LTDA. |
+| 27 | 202125452 | PSICOLOGIA (Bacharelado) | 1800 (uma mil, oitocentas) | UNIVERSIDADE SÃO FRANCISCO | CASA DE NOSSA SENHORA DA PAZ ACAO SOCIAL FRANCISCANA |
+| 28 | 202124474 | PSICOLOGIA (Bacharelado) | 600 (seiscentas) | UNIVERSIDADE VEIGA DE ALMEIDA | ANTARES EDUCACIONAL S.A. |

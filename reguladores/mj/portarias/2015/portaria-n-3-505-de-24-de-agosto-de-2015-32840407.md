@@ -1,0 +1,30 @@
+---
+titulo: "PORTARIA Nº 3.505, DE 24 DE AGOSTO DE 2015"
+orgao: "Ministério da Justiça/DEPARTAMENTO DE POLÍCIA FEDERAL/DIRETORIA EXECUTIVA COORDENAÇÃO-GERAL DE CONTROLE DE SEGURANÇA PRIVADA"
+tipo: "Portaria"
+numero: "3505"
+data: 2015-08-24
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 10/09/2015, seção 1, p. 34"
+data_publicacao: 2015-09-10
+edicao: "173"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-3-505-de-24-de-agosto-de-2015-32840407"
+sha256_html_fonte: 4574f70f047f5d5047372e4bb8a86c1d515df3993fd74a9a3b63368cff41b6f4
+baixado_em: 2026-10-28
+---
+# PORTARIA Nº 3.505, DE 24 DE AGOSTO DE 2015
+
+PORTARIA Nº 3.505, DE 24 DE AGOSTO DE 2015
+
+O COORDENADOR-GERAL DE CONTROLE DE SEGURANÇAPRIVADA, por delegação do DIREX/DPF, no uso das atribuições,acolhendo os fundamentos do Parecer nº 15001/2015, decide:
+
+Aplicara pena de MULTA equivalente a 5.000 (cinco mil)UFIR a CURSO DE FORMAÇÃO DE VIGILANTES MINAS GERAISLTDA., CNPJ nº 08.549.657/0001-14, sediada em Minas Gerais,por praticar a conduta tipificada no artigo 125, inciso I PORT.N°387/06-DG/DPF DE 28/08/06 e artigo 136, inciso II PORT.N°387/06-DG/DPF DE 28/08/06 e artigo 137, inciso I PORT.N° 387/06-DG/DPFDE 28/08/06, conforme consta no Processo nº2014/14833.
+
+O prazo para apresentação de recurso é de 10 (dez) dias acontar da ciência no processo.
+
+LICINIO NUNES DE MORAES NETTO
+
+LICINIO NUNES DE MORAES NETTO
+
+Este conteúdo não substitui o publicado na versão certificada.

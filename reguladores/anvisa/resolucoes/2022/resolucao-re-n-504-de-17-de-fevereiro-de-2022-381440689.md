@@ -1,0 +1,350 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 504, DE 17 DE FEVEREIRO DE 2022"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Alimentos"
+tipo: "Resolução"
+numero: "504"
+data: 2022-02-17
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 21/02/2022, seção 1, p. 77"
+data_publicacao: 2022-02-21
+edicao: "36"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-504-de-17-de-fevereiro-de-2022-381440689"
+sha256_html_fonte: 4b39301926f917056bab7e1afb15d86fc05af528bff99f47ade164a664de2cbd
+baixado_em: 2026-10-20
+---
+# RESOLUÇÃO-RE Nº 504, DE 17 DE FEVEREIRO DE 2022
+
+RESOLUÇÃO-RE Nº 504, DE 17 DE FEVEREIRO DE 2022
+
+A Gerente-Geral de Alimentos, Substituta, no uso das atribuições que lhe confere o art. 96, aliado ao art. 203, I, §1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada-RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art.1º** Deferir as petições relacionadas à Gerência-Geral de Alimentos, conforme relação anexa.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+ÂNGELA KARINNE FAGUNDES DE CASTRO
+
+## ANEXO
+
+Relatório de Conferência de Alimentos. Publicação nr.: 223422
+
+NOME DA EMPRESA CNPJ
+
+NOME DO PRODUTO UF
+
+NUMERO DO PROCESSO NUMERO DE REGISTRO
+
+EMBALAGEM VALIDADE PRODUTO
+
+CLASS/CAT DESCRIÇÃO VALIDADE REGISTRO
+
+MARCA DO PRODUTO
+
+ASSUNTO PETIÇÃO
+
+----------------------------------------
+
+FRESENIUS KABI BRASIL LTDA 49.324.221/0001-04
+
+FÓRMULA PADRÃO PARA NUTRIÇÃO ENTERAL
+
+25004.120422/2006-95 6.2047.9959.001-9
+
+PLASTICA 15 Meses
+
+ALIMENTOS PARA NUTRIÇÃO ENTERAL 11/2026
+
+4095 Revalidação de registro de fórmulas padrão para nutrição enteral
+
+----------------------------------------
+
+GOURMETZINHO ALIMENTOS PARA BEBÊS - EIRELI - ME 22.456.299/0001-26
+
+SOPINHA DE RAGU DE CORDEIRO COM PURÊ DE MANDIOQUINHA
+
+25351.166223/2021-12 6.7306.0019.001-2
+
+CELULOSICA 06 Meses
+
+ALIMENTOS INFANTIS 02/2027
+
+FASE 3 GOURMETZINHO
+
+4065 Registro de alimentos de transição para lactentes e crianças de primeira infância
+
+----------------------------------------
+
+MEAD JOHNSON DO BRASIL COMÉRCIO E IMPORTAÇÃO DE PRODUTOS DE NUTRIÇÃO LTDA 10.351.637/0001-86
+
+FÓRMULA INFANTIL PARA RECÉM-NASCIDOS PRÉ-TERMO E/OU DE ALTO RISCO
+
+25351.791533/2016-62 6.6609.0028.001-2
+
+CELULOSICA 18 Meses
+
+PLASTICA 18 Meses
+
+METALICA 18 Meses
+
+ELASTOMERICA 18 Meses
+
+ALIMENTOS INFANTIS 01/2027
+
+4094 Revalidação de registro de fórmulas infantis destinadas a necessidades dietoterápicas específicas
+
+----------------------------------------
+
+NESTLE BRASIL LTDA 60.409.075/0001-52
+
+FÓRMULA MODIFICADA PARA NUTRIÇÃO ENTERAL E ORAL - ESTADOS UNIDOS (GLENDALE)
+
+25004.026031/00 4.0076.1785.002-9
+
+PLASTICO 12 Meses
+
+ALIMENTOS PARA NUTRIÇÃO ENTERAL 05/2026
+
+4096 Revalidação de registro de fórmulas modificadas para nutrição enteral
+
+FÓRMULA MODIFICADA PARA NUTRIÇÃO ENTERAL E ORAL - ESTADOS UNIDOS (EAU CLAIRE)
+
+25004.026031/00 4.0076.1785.003-7
+
+PLASTICA 12 Meses
+
+ALIMENTOS PARA NUTRIÇÃO ENTERAL 05/2026
+
+4096 Revalidação de registro de fórmulas modificadas para nutrição enteral
+
+FÓRMULA MODIFICADA PARA NUTRIÇÃO ENTERAL E ORAL - SÃO JOSÉ DO RIO PARDO/SP
+
+25004.026031/00 4.0076.1785.004-5
+
+PLASTICA 12 Meses
+
+ALIMENTOS PARA NUTRIÇÃO ENTERAL 05/2026
+
+4096 Revalidação de registro de fórmulas modificadas para nutrição enteral
+
+FÓRMULA MODIFICADA PARA NUTRIÇÃO ENTERAL E ORAL - ARAÇATUBA/SP
+
+25004.026031/00 4.0076.1785.005-3
+
+PLASTICA 12 Meses
+
+ALIMENTOS PARA NUTRIÇÃO ENTERAL 05/2026
+
+4096 Revalidação de registro de fórmulas modificadas para nutrição enteral
+
+FÓRMULA MODIFICADA PARA NUTRIÇÃO ENTERAL E ORAL - ESTADOS UNIDOS (GLENDALE)
+
+25004.026031/00 4.0076.1785.006-1
+
+CELULOSICA 15 Meses
+
+PLASTICA 15 Meses
+
+METALICA 15 Meses
+
+ALIMENTOS PARA NUTRIÇÃO ENTERAL 05/2026
+
+4096 Revalidação de registro de fórmulas modificadas para nutrição enteral
+
+FÓRMULA MODIFICADA PARA NUTRIÇÃO ENTERAL E ORAL - ESTADOS UNIDOS (EAU CLAIRE)
+
+25004.026031/00 4.0076.1785.007-1
+
+CELULOSICA 15 Meses
+
+METALICA 15 Meses
+
+PLASTICA 15 Meses
+
+ALIMENTOS PARA NUTRIÇÃO ENTERAL 05/2026
+
+4096 Revalidação de registro de fórmulas modificadas para nutrição enteral
+
+FÓRMULA MODIFICADA PARA NUTRIÇÃO ENTERAL E ORAL - SÃO JOSÉ DO RIO PARDO/SP
+
+25004.026031/00 4.0076.1785.008-8
+
+CELULOSICA 15 Meses
+
+METALICA 15 Meses
+
+PLASTICA 15 Meses
+
+ALIMENTOS PARA NUTRIÇÃO ENTERAL 05/2026
+
+4096 Revalidação de registro de fórmulas modificadas para nutrição enteral
+
+FÓRMULA MODIFICADA PARA NUTRIÇÃO ENTERAL E ORAL - ARAÇATUBA/SP
+
+25004.026031/00 4.0076.1785.009-6
+
+CELULOSICA 15 Meses
+
+METALICA 15 Meses
+
+PLASTICA 15 Meses
+
+ALIMENTOS PARA NUTRIÇÃO ENTERAL 05/2026
+
+4096 Revalidação de registro de fórmulas modificadas para nutrição enteral
+
+CEREAIS PARA ALIMENTAÇÃO INFANTIL COM PROBIÓTICO B. LACTIS - ARROZ, MILHO, CEVADA, AVEIA E QUINOA - SÃO JOSÉ DO RIO PARDO/SP
+
+25351.564045/2021-91 6.5965.0154.001-5
+
+METALICA 09 Meses
+
+PLASTICA 09 Meses
+
+ALIMENTOS INFANTIS 02/2027
+
+NESTLÉ / MUCILON / CULTIVE / ESPECIALIDADES / FARMERS SELECTION / NATURE SELECTION / NATURNES / SELECTION / SELEÇÃO / SELEÇÃO DA NATUREZA
+
+4068 Registro único de cereais para alimentação infantil
+
+CEREAIS PARA ALIMENTAÇÃO INFANTIL COM PROBIÓTICO B. LACTIS - ARROZ, MILHO, CEVADA, AVEIA E QUINOA - FEIRA DE SANTANA/BA
+
+25351.564045/2021-91 6.5965.0154.002-3
+
+PLASTICA 09 Meses
+
+METALICA 09 Meses
+
+ALIMENTOS INFANTIS 02/2027
+
+NESTLÉ / MUCILON / CULTIVE / ESPECIALIDADES / FARMERS SELECTION / NATURE SELECTION / NATURNES / SELECTION / SELEÇÃO / SELEÇÃO DA NATUREZA
+
+4068 Registro único de cereais para alimentação infantil
+
+CEREAIS PARA ALIMENTAÇÃO INFANTIL COM BANANA, MAÇÃ E PROBIÓTICO B. LACTIS - ARROZ, MILHO, CEVADA, AVEIA E QUINOA - SÃO JOSÉ DO RIO PARDO/SP
+
+25351.639478/2021-16 6.5965.0155.001-0
+
+METALICA 09 Meses
+
+PLASTICA 09 Meses
+
+ALIMENTOS INFANTIS 02/2027
+
+NESTLÉ / MUCILON / CULTIVE / ESPECIALIDADES / FARMERS SELECTION / NATURE SELECTION / NATURNES / SELECTION / SELEÇÃO / SELEÇÃO DA NATUREZA
+
+4068 Registro único de cereais para alimentação infantil
+
+CEREAIS PARA ALIMENTAÇÃO INFANTIL COM BANANA, MAÇÃ E PROBIÓTICO B. LACTIS - ARROZ, MILHO, CEVADA, AVEIA E QUINOA - FEIRA SANTANA/BA
+
+25351.639478/2021-16 6.5965.0155.002-9
+
+PLASTICA 09 Meses
+
+METALICA 09 Meses
+
+ALIMENTOS INFANTIS 02/2027
+
+NESTLÉ / MUCILON / CULTIVE / ESPECIALIDADES / FARMERS SELECTION / NATURE SELECTION / NATURNES / SELECTION / SELEÇÃO / SELEÇÃO DA NATUREZA
+
+4068 Registro único de cereais para alimentação infantil
+
+----------------------------------------
+
+PAPA-RICA PRODUTOS ALIMENTICIOS LTDA ME 02.682.356/0001-88
+
+SOPINHA DE CARNE COM MANDIOQUINHA E VEGETAIS
+
+25351.560406/2021-21 6.6414.0026.001-6
+
+PLASTICA 04 Meses
+
+ALIMENTOS INFANTIS 02/2027
+
+PAPA RICA
+
+4065 Registro de alimentos de transição para lactentes e crianças de primeira infância
+
+SOPINHA DE CARNE COM OVO, BATATA DOCE E VEGETAIS
+
+25351.879109/2021-56 6.6414.0027.001-1
+
+PLASTICA 04 Meses
+
+ALIMENTOS INFANTIS 02/2027
+
+PAPA RICA
+
+4065 Registro de alimentos de transição para lactentes e crianças de primeira infância
+
+SOPINHA DE FÍGADO COM ABÓBORA E VEGETAIS
+
+25351.879114/2021-69 6.6414.0028.001-7
+
+PLASTICA 04 Meses
+
+ALIMENTOS INFANTIS 02/2027
+
+PAPA RICA
+
+4065 Registro de alimentos de transição para lactentes e crianças de primeira infância
+
+SOPINHA DE CARNE COM FEIJÃO CARIOCA E VEGETAIS
+
+25351.879208/2021-38 6.6414.0029.001-2
+
+PLASTICA 04 Meses
+
+ALIMENTOS INFANTIS 02/2027
+
+PAPA RICA
+
+4065 Registro de alimentos de transição para lactentes e crianças de primeira infância
+
+SOPINHA DE PEIXE COM FUBÁ E VEGETAIS
+
+25351.891625/2021-59 6.6414.0030.001-8
+
+PLASTICA 04 Meses
+
+ALIMENTOS INFANTIS 02/2027
+
+PAPA RICA
+
+4065 Registro de alimentos de transição para lactentes e crianças de primeira infância
+
+SOPINHA DE FRANGO COM FEIJÃO BRANCO E VEGETAIS
+
+25351.891652/2021-21 6.6414.0031.001-3
+
+PLASTICA 04 Meses
+
+ALIMENTOS INFANTIS 02/2027
+
+PAPA RICA
+
+4065 Registro de alimentos de transição para lactentes e crianças de primeira infância
+
+SOPINHA DE FRANGO COM GRÃO DE BICO E VEGETAIS
+
+25351.891720/2021-52 6.6414.0032.001-9
+
+PLASTICA 04 Meses
+
+ALIMENTOS INFANTIS 02/2027
+
+PAPA RICA
+
+4065 Registro de alimentos de transição para lactentes e crianças de primeira infância
+
+SOPINHA DE FRANGO COM ERVILHAS E VEGETAIS
+
+25351.892005/2021-37 6.6414.0033.001-4
+
+PLASTICA 04 Meses
+
+ALIMENTOS INFANTIS 02/2027
+
+PAPA RICA
+
+4065 Registro de alimentos de transição para lactentes e crianças de primeira infância

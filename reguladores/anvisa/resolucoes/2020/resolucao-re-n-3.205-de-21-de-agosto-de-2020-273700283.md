@@ -1,0 +1,170 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.205, DE 21 DE AGOSTO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "3205"
+data: 2020-08-21
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 24/08/2020, seção 1, p. 109"
+data_publicacao: 2020-08-24
+edicao: "162"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.205-de-21-de-agosto-de-2020-273700283"
+sha256_html_fonte: ae5150eba6a38a6eadd161a4dc2ad3e2d512c802841302341394931a66229912
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 3.205, DE 21 DE AGOSTO DE 2020
+
+RESOLUÇÃO-RE Nº 3.205, DE 21 DE AGOSTO DE 2020
+
+A Coordenadora de Autorização de Funcionamento de Empresas, no uso das atribuições que lhe confere o art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º** Conceder Alteração de Autorização de Funcionamento para os estabelecimentos de Farmácias e Drogarias, em conformidade com o anexo desta Resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+PATRICIA AZEVEDO CHAGAS
+
+## ANEXO
+
+DROGARIA BOM JESUS LTDA ME / 05.974.892/0001-45
+
+25351.481333/2013-00 / 0992308
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2274290205
+
+--------------------------------------
+
+LUCILEA SANTOS DE ARAUJO CRUZ ME / 03.824.749/0001-41
+
+25351.742754/2013-12 / 7071363
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2258974201
+
+--------------------------------------
+
+AMORIM & BANDEIRA LTDA / 04.436.023/0001-02
+
+25351.308177/2014-14 / 7187143
+
+70152 - AFE/AE - RECURSO ADMINISTRATIVO - FARMÁCIAS E DROGARIAS / 2087168196
+
+--------------------------------------
+
+FL PRODUTOS FARMACEUTICOS LTDA ME / 30.732.632/0001-00
+
+25351.727366/2018-16 / 7618293
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 2260947204
+
+--------------------------------------
+
+DROGARIA ESTANCIA DO RIO QUENTE LTDA / 16.106.241/0001-50
+
+25351.558518/2012-21 / 0875076
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2276531200
+
+--------------------------------------
+
+DROGARIA DROGATEM EIRELI / 09.357.069/0001-41
+
+25351.365461/2008-31 / 0549427
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2274238207
+
+--------------------------------------
+
+DROGARIA 2000 LTDA / 02.770.943/0001-29
+
+25351.027928/2003-33 / 0356851
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2276542205
+
+--------------------------------------
+
+FARMACIA DA FAMILIA COMERCIO DE MEDICAMENTO LTDA - ME / 05.789.089/0001-30
+
+25351.430408/2015-48 / 7401522
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 1940353204
+
+--------------------------------------
+
+FARMACIA JMR DE ALCANTARA EIRELI / 15.814.704/0001-75
+
+25351.530900/2013-51 / 7429381
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2276533206
+
+--------------------------------------
+
+CGM DROGARIA LTDA- EPP / 16.878.675/0016-54
+
+25351.422453/2013-67 / 0964466
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2260976208
+
+--------------------------------------
+
+MAVERSON OLIVEIRA BARRA E CIA LTDA / 37.040.516/0001-70
+
+25351.035146/2003-78 / 0377508
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2264074206
+
+--------------------------------------
+
+M & R COMERCIO FARMA LTDA / 04.778.028/0001-05
+
+25351.030139/2003-80 / 0376551
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2276535202
+
+25351.030139/2003-80 / 0376551
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2276636207
+
+--------------------------------------
+
+RAIA DROGASIL S/A - FILIAL 453 / 61.585.865/0347-22
+
+25351.701447/2010-87 / 0711601
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 2276551204
+
+--------------------------------------
+
+SEMEGHINI E LOPES DROGARIA LTDA / 10.633.173/0001-09
+
+25351.040167/2013-87 / 0898456
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2276642201
+
+25351.040167/2013-87 / 0898456
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2276539205
+
+--------------------------------------
+
+FLAVIO JUNG ZANIRATTI FARMACIA LTDA / 27.967.768/0001-95
+
+25351.541414/2017-91 / 7545652
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2276529208
+
+--------------------------------------
+
+DROGARIA FORMIGA LTDA / 22.344.550/0001-60
+
+25351.613650/2013-93 / 7014313
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2260962208
+
+--------------------------------------
+
+CORREA E VOLTARELLI LTDA / 06.085.107/0001-66
+
+25351.033166/2004-95 / 0424831
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2276537209

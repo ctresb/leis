@@ -1,0 +1,156 @@
+---
+titulo: "RESOLUÇÃO-RE nº 3.087, de 31 de outubro de 2019"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Segunda Diretoria/Gerência-Geral de Medicamentos e Produtos Biológicos"
+tipo: "Resolução"
+numero: "3087"
+data: 2019-10-31
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 04/11/2019, seção 1, p. 161"
+data_publicacao: 2019-11-04
+edicao: "213"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.087-de-31-de-outubro-de-2019-225244132"
+sha256_html_fonte: 924a583fa07047dac6979cda40a5ba740d4340874fa14c9ef6b6d4ebab02cb42
+baixado_em: 2026-10-27
+---
+# RESOLUÇÃO-RE nº 3.087, de 31 de outubro de 2019
+
+RESOLUÇÃO-RE nº 3.087, de 31 de outubro de 2019
+
+O Gerente-Geral de Medicamentos e Produtos Biológicos, no uso das atribuições que lhe confere o art. 130, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º** Indeferir petições relacionadas à Gerência-Geral de Medicamentos, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+GUSTAVO MENDES LIMA SANTOS
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+PRINCIPIO(S) ATIVO(S)
+
+COMPLEMENTO DIFERENCIAL DA APRESENTAÇÃO
+
+----------------------------
+
+BAYER S.A. 18459628000115
+
+GADOPENTETATO DE DIMEGLUMINA
+
+MAGNEVISTAN 25351.092147/2008-24 02/2020
+
+10957 RDC 73/2016 - NOVO - MUDANÇA MAIOR DE MÉTODO ANALÍTICO 0454291/19-6
+
+1.7056.0065.001-5 48 Meses
+
+469 MG / ML SOL INJ CT FA VD INC X 10 ML
+
+1.7056.0065.002-3 48 Meses
+
+469 MG / ML SOL INJ CT FA VD INC X 15 ML
+
+1.7056.0065.003-1 48 Meses
+
+469 MG / ML SOL INJ CT FA VD INC X 20 ML
+
+1.7056.0065.004-1 48 Meses
+
+469 MG / ML SOL INJ CT FA VD INC X 30 ML
+
+1.7056.0065.005-8 48 Meses
+
+469 MG / ML SOL INJ CT 10 FA VD INC X 10 ML
+
+1.7056.0065.006-6 48 Meses
+
+469 MG / ML SOL INJ CT 10 FA VD INC X 15 ML
+
+1.7056.0065.007-4 48 Meses
+
+469 MG / ML SOL INJ CT 10 FA VD INC X 20 ML
+
+1.7056.0065.008-2 48 Meses
+
+469 MG / ML SOL INJ CT 10 FA VD INC X 30 ML
+
+1.7056.0065.009-0 48 Meses
+
+469 MG / ML SOL INJ CX 6 FA VD INC X 100 ML
+
+1.7056.0065.010-4 48 Meses
+
+469 MG / ML SOL INJ CX 10 FA VD INC X 100 ML
+
+gadoxetato dissódico
+
+PRIMOVIST 25351.733332/2009-19 10/2021
+
+10957 RDC 73/2016 - NOVO - MUDANÇA MAIOR DE MÉTODO ANALÍTICO 0473177/19-8
+
+1.7056.0086.001-1 24 Meses
+
+181,43 MG/ML SOL INJ CT SER PREENC VD TRANS X 10 ML
+
+----------------------------
+
+BLAU FARMACÊUTICA S.A. 58430828000160
+
+SULFATO DE SALBUTAMOL 25351.473610/2009-66
+
+155 GENERICO - REGISTRO DE MEDICAMENTO 613418/09-1
+
+100 MCG SUS AER INAL OR CT TB AL X 200 ACIONAMENTOS + DISP INAL
+
+----------------------------
+
+CIFARMA CIENTÍFICA FARMACÊUTICA LTDA 17562075000169
+
+CLORIDRATO DE DIFENIDRAMINA + CLORETO DE AMÔNIO + CITRATO DE SÓDIO DI-hIDRATADO
+
+BENATUX 25000.054485/99-78 12//2020
+
+11108 RDC 73/2016 - SIMILAR - AMPLIAÇÃO DO PRAZO DE VALIDADE DO MEDICAMENTO 0264623/19-4
+
+1.1560.0099.001-6 24 Meses
+
+(5,0 + 50,0 + 10,0) MG PAS DURA CT ENV AL X 12 (SBR FRAMBOESA)
+
+1.1560.0099.002-4 24 Meses
+
+(5,0 +50,0 +10,0) MG PAS DURA CT ENV AL X 12 (SBR MENTA)
+
+1.1560.0099.004-0 24 Meses
+
+(2,5 + 25,0 + 11,25) MG/ML XPE CT FR VD AMB X 120 ML + COP
+
+1.1560.0099.005-9 24 Meses
+
+(5,0 +50,0 +10,0) MG PAS DURA CT ENV AL X 12 (SBR MEL LIMÃO)
+
+----------------------------
+
+SANVAL COMÉRCIO E INDÚSTRIA LTDA 61068755000112
+
+NISTATINA 25351.679444/2008-89 09/2019
+
+143 GENÉRICO - RENOVAÇÃO DE REGISTRO DE MEDICAMENTO 0115961/19-5
+
+1.0714.0251.001-6 24 Meses
+
+25000 UI/G CREM VAG CT BG AL X 60 G + 14 APLIC
+
+1.0714.0251.002-4 24 Meses
+
+25000 UI/G CREM VAG CX 50 BG AL X 60 G + 700 APLIC

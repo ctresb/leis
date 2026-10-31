@@ -1,0 +1,306 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 5.377, DE 23 DE DEZEMBRO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Terceira Diretoria/Gerência-Geral de Toxicologia"
+tipo: "Resolução"
+numero: "5377"
+data: 2020-12-23
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 28/12/2020, seção 1, p. 501"
+data_publicacao: 2020-12-28
+edicao: "247"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-5.377-de-23-de-dezembro-de-2020-296416637"
+sha256_html_fonte: 91a89f3d4f3c8e76c330a413422dc319bca6109204b8daca72c065b8381ee31c
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 5.377, DE 23 DE DEZEMBRO DE 2020
+
+RESOLUÇÃO-RE Nº 5.377, DE 23 DE DEZEMBRO DE 2020
+
+A Gerente-Geral de Toxicologia, Substituta, no uso das atribuições que lhe confere o art. 149, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º** Aprovar a avaliação toxicológica preliminar para fins de Registro Especial Temporário (RET).
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIELLE CHRISTINE DE SOUZA FILADELPHO
+
+## ANEXO
+
+EMPRESA/CNPJ
+
+PROCESSO
+
+FASE DO EXPERIMENTO
+
+-----------------------------
+
+ADAMA BRASIL S/A - 02.290.510/0001-76
+
+25351.175465/2020-16
+
+FASE II
+
+25351.175549/2020-50
+
+FASE II
+
+25351.175583/2020-24
+
+FASE II
+
+-----------------------------
+
+ALTA - AMERICA LATINA TECNOLOGIA AGRICOLA LTDA - 10.409.614/0001-85
+
+25351.071410/2020-38
+
+FASE I
+
+-----------------------------
+
+BASF S/A - 48.539.407/0001-18
+
+25351.230739/2020-47
+
+FASE III
+
+25351.893965/2020-33
+
+FASE I
+
+-----------------------------
+
+BAYER S.A. - 18.459.628/0001-15
+
+25351.258178/2020-41
+
+FASE III
+
+25351.258219/2020-07
+
+FASE III
+
+25351.258220/2020-23
+
+FASE III
+
+-----------------------------
+
+BIO CONTROLE - MÉTODOS DE CONTROLE DE PRAGAS LTDA - 01.841.604/0001-23
+
+25351.807050/2020-13
+
+## ANEXO III — -----------------------------
+
+DOW AGROSCIENCES INDUSTRIAL LTDA - 47.180.625/0001-46
+
+25351.323613/2020-15
+
+FASE II
+
+25351.175297/2020-69
+
+FASE II
+
+25351.323773/2020-64
+
+FASE II
+
+-----------------------------
+
+DU PONT DO BRASIL SA - 61.064.929/0001-79
+
+25351.088344/2020-35
+
+FASE II
+
+-----------------------------
+
+FMC QUÍMICA DO BRASIL LTDA. - 04.136.367/0001-98
+
+25351.963236/2020-51
+
+## ANEXO III — 25351.963277/2020-48
+
+## ANEXO III — 25351.963357/2020-01
+
+## ANEXO III — 25351.973895/2020-04
+
+## ANEXO III — 25351.973957/2020-70
+
+## ANEXO III — 25351.996383/2020-16
+
+## ANEXO III — 25351.833567/2020-68
+
+## ANEXO III — 25351.833579/2020-92
+
+FASE I
+
+25351.833774/2020-12
+
+## ANEXO III — 25351.899270/2020-65
+
+## ANEXO III — 25351.899271/2020-18
+
+## ANEXO III — 25351.899273/2020-07
+
+## ANEXO III — 25351.929466/2020-91
+
+## ANEXO III — -----------------------------
+
+IHARABRAS S.A INDÚSTRIAS QUÍMICAS - 61.142.550/0001-30
+
+25351.159898/2020-24
+
+FASE I
+
+25351.135398/2020-05
+
+FASE III
+
+25351.230644/2020-23
+
+FASE II
+
+25351.277804/2020-06
+
+FASE I
+
+25351.277805/2020-42
+
+FASE I
+
+-----------------------------
+
+INDIGO BRAZIL AGRICULTURA LTDA - 28.689.723/0001-69
+
+25351.827923/2020-12
+
+## ANEXO III — 25351.828063/2020-26
+
+## ANEXO III — 25351.828065/2020-15
+
+## ANEXO III — 25351.828187/2020-10
+
+## ANEXO III — -----------------------------
+
+INNOVA LTDA - 17.687.819/0001-71
+
+25351.899406/2020-37
+
+## ANEXO III — -----------------------------
+
+ISK BIOSCIENCES DO BRASIL DEFENSIVOS AGRÍCOLAS LTDA - 02.657.037/0001-12
+
+25351.277697/2020-16
+
+FASE III
+
+-----------------------------
+
+KOPPERT DO BRASIL HOLDING LTDA - 11.074.190/0001-08
+
+25351.839314/2020-06
+
+## ANEXO III — -----------------------------
+
+OMEX AGRIFLUIDS DO BRASIL PRODUTOS AGRÍCOLAS LTDA. - 11.210.387/0001-27
+
+25351.323581/2020-58
+
+FASE I
+
+-----------------------------
+
+PLANT HEALTH CARE INSUMOS AGRICOLAS LTDA - 24.155.104/0001-33
+
+25351.940470/2020-19
+
+## ANEXO III — -----------------------------
+
+SUMITOMO CHEMICAL DO BRASIL REPRESENTACOES LTDA - 42.462.952/0001-77
+
+25351.105278/2020-75
+
+FASE I
+
+-----------------------------
+
+SYNCROS ASSESSORIA E COMERCIO DE PRODUTOS AGRÍCOLAS LTDA - 06.876.953/0001-02
+
+25351.149150/2020-13
+
+FASE I
+
+25351.839276/2020-83
+
+## ANEXO III — 25351.839277/2020-28
+
+## ANEXO III — 25351.839050/2020-82
+
+## ANEXO III — 25351.839091/2020-79
+
+## ANEXO III — -----------------------------
+
+SYNGENTA PROTEÇÃO DE CULTIVOS LTDA - 60.744.463/0001-90
+
+25351.904816/2020-15
+
+FASE I
+
+25351.801834/2020-38
+
+FASE I
+
+25351.861605/2020-72
+
+FASE I
+
+25351.861643/2020-25
+
+FASE I
+
+25351.861714/2020-90
+
+FASE I
+
+25351.861751/2020-06
+
+FASE I
+
+25351.899367/2020-78
+
+FASE I
+
+25351.225667/2020-16
+
+FASE III
+
+25351.225888/2020-94
+
+FASE III
+
+25351.315884/2020-05
+
+FASE I
+
+25351.159893/2020-00
+
+FASE III
+
+25351.316045/2020-04
+
+FASE III
+
+-----------------------------
+
+UPL DO BRASIL INDÚSTRIA E COMÉRCIO DE INSUMOS AGROPECUÁRIOS S.A. - 02.974.733/0001-52
+
+25351.175330/2020-51
+
+FASE II
+
+25351.957614/2020-68
+
+## ANEXO III

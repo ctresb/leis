@@ -1,0 +1,146 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 4.677, DE 13 DE NOVEMBRO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "4677"
+data: 2020-11-13
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 16/11/2020, seção 1, p. 118"
+data_publicacao: 2020-11-16
+edicao: "218"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.677-de-13-de-novembro-de-2020-288334495"
+sha256_html_fonte: 8d7a7821b1706a9a22f270464f2b88f679c4996972b65c1835b3ab1fb6059d50
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 4.677, DE 13 DE NOVEMBRO DE 2020
+
+RESOLUÇÃO-RE Nº 4.677, DE 13 DE NOVEMBRO DE 2020
+
+O Coordenador de Autorização de Funcionamento de Empresas, Substituto, no uso das atribuições que lhe confere o art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º.** Conceder Autorização de Funcionamento para Empresas constantes no anexo desta Resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+CRISTALINA TRANSPORTES LTDA / 80.585.052/0001-06
+
+25351.105434/2020-06 / 8209442
+
+862 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - TRANSPORTADORA / 3379859206
+
+--------------------------------------
+
+TRANSPORTES MOBILINE EIRELI / 03.341.775/0001-19
+
+25351.105400/2020-11 / 4025494
+
+728 - AFE - CONCESSÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - TRANSPORTADORA (SOMENTE MATRIZ) / 3379837202
+
+--------------------------------------
+
+Cath-Care Indústria importação exportação e comércio de produtos para saúde ltda. / 27.055.841/0001-52
+
+25351.105513/2020-17 / 1244579
+
+7088 - AFE - CONCESSÃO - MEDICAMENTOS - INDÚSTRIA (SOMENTE MATRIZ) / 3379958204
+
+--------------------------------------
+
+PMEDICAL PRODUTOS HOSPITALARES LTDA / 36.446.119/0001-30
+
+25351.088321/2020-21 / 8209806
+
+856 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - DISTRIBUIDORA / 3364434204
+
+--------------------------------------
+
+ARVC LOCACOES E TRANSPORTES LTDA / 27.865.293/0001-26
+
+25351.148860/2020-26 / 1244608
+
+701 - AFE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA (SOMENTE MATRIZ) / 3431107206
+
+--------------------------------------
+
+AB MED DISTRIBUICAO DE MEDICAMENTOS EIRELI / 37.174.427/0001-16
+
+25351.105349/2020-30 / 8209439
+
+856 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - DISTRIBUIDORA / 3379785202
+
+--------------------------------------
+
+DINAMICA COMERCIAL E ATACADO LTDA / 14.424.239/0001-01
+
+25351.148724/2020-36 / 4025523
+
+723 - AFE - CONCESSÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - DISTRIBUIDORA (SOMENTE MATRIZ) / 3431087205
+
+--------------------------------------
+
+DISTRIBUIDORA DE MEDICAMENTOS TOTAL MA LTDA - EPP / 24.299.152/0001-03
+
+25351.105509/2020-41 / 4025510
+
+723 - AFE - CONCESSÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - DISTRIBUIDORA (SOMENTE MATRIZ) / 3379954209
+
+--------------------------------------
+
+L PISCINAS E ACESSORIOS EIRELI / 21.605.856/0001-60
+
+25351.133985/2020-51 / 3097869
+
+740 - AFE - CONCESSÃO - SANEANTES DOMISSANITÁRIOS - DISTRIBUIDORA (SOMENTE MATRIZ) / 3415743209
+
+--------------------------------------
+
+LUMINATA DISTRIBUIDORA - EIRELI / 17.930.584/0001-05
+
+25351.746064/2020-53 / 8208862
+
+7056 - AFE/AE - Recurso Administrativo - DEMAIS EMPRESAS (exceto farmácia e drogaria) / 3435630205
+
+--------------------------------------
+
+LOPEX QUIMICA DO BRASIL LTDA / 31.206.664/0001-35
+
+25351.258343/2020-64 / 3097946
+
+712 - AFE - CONCESSÃO - SANEANTES - INDÚSTRIA (SOMENTE MATRIZ) / 3622140208
+
+--------------------------------------
+
+ZEIT COMERCIAL IMPORTADORA E EXPORTADORA LTDA / 10.868.482/0001-50
+
+25351.415535/2020-84 / 8209794
+
+859 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - IMPORTADORA / 1494556208
+
+--------------------------------------
+
+DIMPLE INDÚSTRIA E COMÉRCIO DE PRODUTOS AUTOMOTIVOS LTDA. ME / 04.097.456/0001-72
+
+25351.183465/2020-90 / 4025568
+
+721 - AFE - CONCESSÃO - COSMÉTICOS, PERFUMES E PRODUTOS PARA HIGIENE - INDÚSTRIA (SOMENTE MATRIZ) / 3482328200
+
+--------------------------------------
+
+SUPRAMED DISTRIBUIDORA DE PRODUTOS MEDICO-HOSPITALAR E ODONTOLOGICO LTDA / 02.165.865/0001-33
+
+25351.105482/2020-96 / 3097841
+
+740 - AFE - CONCESSÃO - SANEANTES DOMISSANITÁRIOS - DISTRIBUIDORA (SOMENTE MATRIZ) / 3379921203
+
+--------------------------------------
+
+KONICA MINOLTA HEALTHCARE DO BRASIL INDUSTRIA DE EQUIPAMENTOS MEDICOS LTDA / 71.256.283/0001-85
+
+25351.002943/02-07 / 8010138
+
+7056 - AFE/AE - Recurso Administrativo - DEMAIS EMPRESAS (exceto farmácia e drogaria) / 3964544205

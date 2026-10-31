@@ -1,0 +1,238 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 1.310, DE 14 DE ABRIL DE 2023"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "1310"
+data: 2023-04-14
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 17/04/2023, seção 1, p. 160"
+data_publicacao: 2023-04-17
+edicao: "73"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.310-de-14-de-abril-de-2023-477403757"
+sha256_html_fonte: 3bedf3bb7c488201c940f02d0558dffaa98c5ef740766c6103995af983c81b98
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE Nº 1.310, DE 14 DE ABRIL DE 2023
+
+RESOLUÇÃO-RE Nº 1.310, DE 14 DE ABRIL DE 2023
+
+O Coordenador de Autorização de Funcionamento de Empresas, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Alterar a Autorização de Funcionamento das Empresas constantes no anexo desta Resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+CARMELITA DE LIMA LEITE PONTES BARROS E CIA LTDA / 10.238.049/0001-30
+
+25351.222473/2014-11 / 7160997
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0370764234
+
+--------------------------------------
+
+DROGAMED SAO MIGUEL ARCANJO LTDA / 30.381.996/0001-93
+
+25351.570377/2018-18 / 7603605
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0369746236
+
+--------------------------------------
+
+plena distribuidora de medicamentos ltda / 37.897.425/0001-55
+
+25351.996559/2020-21 / 1248917
+
+70798 - AFE - ALTERAÇÃO - MEDICAMENTOS E/OU INSUMOS FARMACÊUTICOS - ENDEREÇO MATRIZ / 0161200231
+
+--------------------------------------
+
+FERNANDO DE JESUS BACELAR DA SILVA LTDA / 32.143.363/0001-72
+
+25351.654003/2022-22 / 1286038
+
+70792 - AFE - ALTERAÇÃO - MEDICAMENTOS E/OU INSUMOS FARMACÊUTICOS - AMPLIAÇÃO DE ATIVIDADES / 0161794238
+
+--------------------------------------
+
+VIDA DROGARIA LTDA / 24.743.260/0001-15
+
+25351.078619/2017-27 / 7501690
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0370816234
+
+--------------------------------------
+
+natus farma comercio de medicamentos ltda - me / 08.698.543/0020-07
+
+25351.521306/2015-31 / 7413013
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 0151039232
+
+--------------------------------------
+
+CARDOSO & CAVALCANTE LTDA / 06.299.068/0001-08
+
+25351.417349/2014-31 / 7238357
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0370614232
+
+--------------------------------------
+
+MARTA E URIAS COMERCIO LTDA / 43.880.299/0001-29
+
+25351.643137/2021-37 / 7858518
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 0150768231
+
+--------------------------------------
+
+F W SILVA & CIA LTDA / 13.019.316/0001-77
+
+25351.860776/2016-41 / 1151676
+
+70800 - AFE - ALTERAÇÃO - MEDICAMENTOS E/OU INSUMOS FARMACÊUTICOS - RAZÃO SOCIAL / 0369852231
+
+--------------------------------------
+
+1000MEDIC DISTRIBUIDORA IMPORTADORA EXPORTADORA DE MEDICAMENTOS LTDA / 05.993.698/0001-07
+
+25351.484503/2014-44 / 1114251
+
+70792 - AFE - ALTERAÇÃO - MEDICAMENTOS E/OU INSUMOS FARMACÊUTICOS - AMPLIAÇÃO DE ATIVIDADES / 0161663231
+
+--------------------------------------
+
+JESUS ALVES BITU NETO & CIA LTDA / 17.843.783/0001-78
+
+25351.311839/2013-44 / 0940154
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0369752236
+
+--------------------------------------
+
+O-LINKE MEDICAL LTDA. / 40.021.197/0001-60
+
+25351.563731/2021-45 / 8224910
+
+867 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 0161571239
+
+--------------------------------------
+
+UNIMED CUIABA COOPERATIVA DE TRABALHO MÉDICO / 03.533.726/0007-73
+
+25351.342536/2011-45 / 8078221
+
+867 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 0161082238
+
+--------------------------------------
+
+M&R DROGARIA E PERFUMARIA LTDA / 44.202.069/0001-73
+
+25351.881375/2021-49 / 7864955
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0370634233
+
+--------------------------------------
+
+TECHPRENE INDUSTRIA E COMERCIO LTDA / 10.779.632/0001-59
+
+25024.000954/2010-57 / 8067809
+
+829 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - RAZÃO SOCIAL / 0369996232
+
+--------------------------------------
+
+LOTUS LOGISTICA LTDA / 17.056.143/0001-18
+
+25351.523697/2022-57 / 3113391
+
+716 - AFE - ALTERAÇÃO - SANEANTES DOMISSANITÁRIOS - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 0161865232
+
+--------------------------------------
+
+DROGARIA VIANA & VIANA LTDA / 17.763.863/0001-13
+
+25351.414046/2014-67 / 7239890
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0370676238
+
+--------------------------------------
+
+AMANDA FLAVIA DE OLIVEIRA E SILVA LTDA / 28.140.436/0001-03
+
+25351.639447/2017-71 / 7555541
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0370187237
+
+--------------------------------------
+
+t. b. wingenbach ltda / 47.541.257/0001-14
+
+25351.326616/2022-72 / 7934953
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 0150890231
+
+--------------------------------------
+
+F W SILVA & CIA LTDA / 13.019.316/0001-77
+
+25351.860792/2016-79 / 8133407
+
+829 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - RAZÃO SOCIAL / 0369756231
+
+--------------------------------------
+
+EF BRASIL INDUSTRIA LTDA / 06.009.747/0001-97
+
+25351.241010/2009-79 / 3040261
+
+732 - AFE - ALTERAÇÃO - SANEANTES DOMISSANITÁRIOS - RAZÃO SOCIAL / 0370442237
+
+--------------------------------------
+
+FARMACIAS ULTRAMED POPULAR LTDA / 08.928.058/0014-26
+
+25351.647019/2019-83 / 7695222
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0370737237
+
+--------------------------------------
+
+MRA Industria de Equipamentos Eletrônicos / 59.657.874/0001-69
+
+25351.091652/2023-91 / 8265327
+
+867 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 0161686231
+
+25351.091652/2023-91 / 8265327
+
+867 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 0161030238
+
+--------------------------------------
+
+A J MED COMERCIO DE PRODUTOS HOSPITALARES E ALIMENTÍCIOS LTDA - ME / 10.954.672/0001-90
+
+25351.640322/2017-93 / 8158822
+
+867 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 0161248233
+
+--------------------------------------
+
+A J COMERCIO ATACADISTA DE MEDICAMENTOS E PRODUTOS HOSPITALAR LTDA / 32.137.731/0001-70
+
+25351.267081/2019-95 / 8181031
+
+866 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - ENDEREÇO / 0161815235
+
+--------------------------------------
+
+ALEXANDRE AUGUSTO ALVES DROGARIA / 10.775.523/0001-63
+
+25351.500455/2014-85 / 7273021
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0370462238

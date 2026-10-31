@@ -1,0 +1,200 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 4.720, DE 18 DE NOVEMBRO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "4720"
+data: 2020-11-18
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 23/11/2020, seção 1, p. 111"
+data_publicacao: 2020-11-23
+edicao: "223"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.720-de-18-de-novembro-de-2020-289554425"
+sha256_html_fonte: 01a3ec6d960f0c91fd5116e11873cf301885ebdf390e0a7efab241e3df71ae21
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 4.720, DE 18 DE NOVEMBRO DE 2020
+
+RESOLUÇÃO-RE Nº 4.720, DE 18 DE NOVEMBRO DE 2020
+
+O Gerente-Geral de Inspeção e Fiscalização Sanitária, no uso das atribuições que lhe confere o art. 171, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018,
+
+considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:
+
+**Art. 1º** Conceder à(s) Empresa(s) constante(s) no ANEXO, a Certificação de Boas Práticas de Fabricação de Medicamentos.
+
+**Art. 2º** A presente Certificação terá validade de 2 (dois) anos a partir da sua publicação.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+RONALDO LUCIO PONCIANO GOMES
+
+## ANEXO
+
+EMPRESA FABRICANTE: CATALENT ARGENTINA S.A.I.C.
+
+ENDEREÇO: AVENIDA MÁRQUEZ 654/ 91, LOMA HERMOSA, PARTIDO DE TRES DE FEBRERO, PROVINCIA DE BUENOS AIRES - PAÍS: ARGENTINA - CÓDIGO ÚNICO: A.0130
+
+EMPRESA SOLICITANTE: BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A - CNPJ: 05.161.069/0001-10
+
+AUTORIZ/MS: 1055849 - EXPEDIENTE(s): 3431300/20-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Cápsulas Moles
+
+.........................................
+
+EMPRESA FABRICANTE: GE HEALTHCARE IRELAND LIMITED
+
+ENDEREÇO: IDA BUSSINESS PARK, CARRIGTOHILL, CO. - CORK - PAÍS: IRLANDA - CÓDIGO ÚNICO: A.0242
+
+EMPRESA SOLICITANTE: GE HEALTHCARE DO BRASIL COMÉRCIO E SERVIÇOS PARA EQUIPAMENTOS MEDICO-HOSPITALARES LTDA - CNPJ: 00.029.372/0001-40
+
+AUTORIZ/MS: 1083968 - EXPEDIENTE(s): 1407373/20-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Grande Volume com Esterilização Terminal; Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+.........................................
+
+EMPRESA FABRICANTE: F. HOFFMANN - LA ROCHE LTD
+
+ENDEREÇO: 4303 KAISERAUGST - PAÍS: SUÍÇA - CÓDIGO ÚNICO: A.0216
+
+EMPRESA SOLICITANTE: PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. - CNPJ: 33.009.945/0001-23
+
+AUTORIZ/MS: 1001004 - EXPEDIENTE(s): 1294698/20-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Cefalosporínicos): Pós com Preparação Asséptica; Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+Produtos estéreis: Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Esterilização Terminal; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: SANOFI PASTEUR LIMITED
+
+ENDEREÇO: 1755 STEELES AVE. WEST, TORONTO, ON M2R 3T4 - PAÍS: CANADÁ - CÓDIGO ÚNICO: A.0550
+
+EMPRESA SOLICITANTE: SANOFI MEDLEY FARMACÊUTICA LTDA. - CNPJ: 10.588.595/0010-92
+
+AUTORIZ/MS: 1083267 - EXPEDIENTE(s): 0977541/20-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Suspensões Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: DSM NUTRITIONAL PRODUCTS COLOMBIA S.A.
+
+ENDEREÇO: PARQUE INDUSTRIAL TIBITOC LOTE 41B Y 42B KM 2,4 VIA BRICENO - ZIOAQUIRÁ DEL MUNICIPIO DE TOCANCIPÁ - CUNDINAMARCA - PAÍS: COLÔMBIA - CÓDIGO ÚNICO: A.1219
+
+EMPRESA SOLICITANTE: JANSSEN-CILAG FARMACÊUTICA LTDA - CNPJ: 51.780.468/0001-87
+
+AUTORIZ/MS: 1012361 - EXPEDIENTE(s): 0089318/20-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis (Granel): Soluções
+
+.........................................
+
+EMPRESA FABRICANTE: BAXTER HEALTHCARE CORPORATION
+
+ENDEREÇO: 25212 WEST ILLINOIS ROUTE 120, ROUND LAKE, ILLINOIS (IL) 60073 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.1343
+
+EMPRESA SOLICITANTE: BAXTER HOSPITALAR LTDA - CNPJ: 49.351.786/0001-80
+
+AUTORIZ/MS: 1006839 - EXPEDIENTE(s): 1639445/20-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Grande Volume com Preparação Asséptica; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: CATALENT CTS, LLC
+
+ENDEREÇO: 10245 HICKMAN MILLS DR, KANSAS CITY, MISSOURI (MO) 64137 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.1009
+
+EMPRESA SOLICITANTE: AEGERION BRASIL COMERCIO E IMPORTACAO DE MEDICAMENTOS LTDA. - CNPJ: 14.555.259/0001-03
+
+AUTORIZ/MS: 1175042 - EXPEDIENTE(s): 1725799/20-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas
+
+.........................................
+
+EMPRESA FABRICANTE: SHANGHAI ROCHE PHARMACEUTICALS LTD.
+
+ENDEREÇO: NO. 1100, LONGDONG AVENUE, PUDONG NEW AREA, SHANGHAI - PAÍS: CHINA, REPÚBLICA POPULAR - CÓDIGO ÚNICO: A.1220
+
+EMPRESA SOLICITANTE: PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. - CNPJ: 33.009.945/0001-23
+
+AUTORIZ/MS: 1001004 - EXPEDIENTE(s): 0762640/20-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: CATALENT ARGENTINA S.A.I.C.
+
+ENDEREÇO: AVENIDA MÁRQUEZ 654/ 91, LOMA HERMOSA, PARTIDO DE TRES DE FEBRERO, PROVINCIA DE BUENOS AIRES - PAÍS: ARGENTINA - CÓDIGO ÚNICO: A.0130
+
+EMPRESA SOLICITANTE: COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. - CNPJ: 61.082.426/0002-07
+
+AUTORIZ/MS: 1078177 - EXPEDIENTE(s): 3431448/20-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Cápsulas Moles
+
+.........................................
+
+EMPRESA FABRICANTE: MERZ PHARMA GMBH & CO. KGAA
+
+ENDEREÇO: LUDWIGSTRASSE 22, 64354 REINHEIM - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.0419
+
+EMPRESA SOLICITANTE: LUNDBECK BRASIL LTDA - CNPJ: 04.522.600/0001-70
+
+AUTORIZ/MS: 1004750 - EXPEDIENTE(s): 1323099/20-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem primária; Embalagem secundária): Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: INNOTHERA CHOUZY
+
+ENDEREÇO: RENÉ CHANTEREAU, 41150, CHOUZY-SUR-CISSE - LOIER-ET-CHER - PAÍS: FRANÇA - CÓDIGO ÚNICO: A.0747
+
+EMPRESA SOLICITANTE: LABORATÓRIO GROSS S. A. - CNPJ: 33.145.194/0001-72
+
+AUTORIZ/MS: 1004443 - EXPEDIENTE(s): 1581702/20-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: NOVARTIS FARMA S.P.A.
+
+ENDEREÇO: VIA PROVINCIALE SCHITO 131, TORRE ANNUNZIATA - NÁPOLI - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.0430
+
+EMPRESA SOLICITANTE: NOVARTIS BIOCIENCIAS S.A - CNPJ: 56.994.502/0001-30
+
+AUTORIZ/MS: 1000685 - EXPEDIENTE(s): 1594535/20-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: ANESTA LLC
+
+ENDEREÇO: 4745 WILEY POST WAY, SALT LAKE CITY, UTAH (UT) 84116 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.0824
+
+EMPRESA SOLICITANTE: SCHERING-PLOUGH INDÚSTRIA FARMACÊUTICA LTDA - CNPJ: 03.560.974/0001-18
+
+AUTORIZ/MS: 1001711 - EXPEDIENTE(s): 1467198/20-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem primária; Granel): Comprimidos
+
+.........................................
+
+EMPRESA FABRICANTE: OTSUKA PHARMACEUTICAL CO., LTD. TOKUSHIMA FACTORY
+
+ENDEREÇO: 463-10, KAGASUNO, KAWAUCHI-CHO, TOKUSHIMA-SHI, TOKUSHIMA, 771-0192 - PAÍS: JAPÃO - CÓDIGO ÚNICO: A.1153
+
+EMPRESA SOLICITANTE: LUNDBECK BRASIL LTDA - CNPJ: 04.522.600/0001-70
+
+AUTORIZ/MS: 1004750 - EXPEDIENTE(s): 1323152/20-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Comprimidos Revestidos

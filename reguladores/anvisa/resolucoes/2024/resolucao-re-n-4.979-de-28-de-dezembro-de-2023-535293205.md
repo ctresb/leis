@@ -1,0 +1,232 @@
+---
+titulo: "RESOLUÇÃO-RE N° 4.979, DE 28 DE DEZEMBRO DE 2023"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/3ª Diretoria/Gerência-Geral de Toxicologia"
+tipo: "Resolução"
+numero: "4979"
+data: 2023-12-28
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 02/01/2024, seção 1, p. 175"
+data_publicacao: 2024-01-02
+edicao: "1"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.979-de-28-de-dezembro-de-2023-535293205"
+sha256_html_fonte: ca2b6a9f3a34ddea482deaa413fd1dc593f9e3affeedd59987d7384b6e1ddbe6
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE N° 4.979, DE 28 DE DEZEMBRO DE 2023
+
+RESOLUÇÃO-RE N° 4.979, DE 28 DE DEZEMBRO DE 2023
+
+A GERENTE-GERAL SUBSTITUTA DE TOXICOLOGIA DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA no uso das atribuições que lhe confere o art.114, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Aprovar a avaliação toxicológica preliminar para fins de Registro Especial Temporário (RET).
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIELLE CHRISTINE DE SOUZA FILADELPHO
+
+## ANEXO
+
+EMPRESA - CNPJ
+
+PROCESSO
+
+FASE DO EXPERIMENTO
+
+-----------------------------
+
+AGROALLIANZ S.A - 27.150.699/0001-22
+
+25351.749855/2023-88
+
+FASE I
+
+-----------------------------
+
+AGROBIOLÓGICA SUSTENTABILIDADE S.A. - 20.220.461/0002-68
+
+25351.771616/2023-12
+
+## ANEXO III — 25351.771964/2023-81
+
+## ANEXO III — -----------------------------
+
+BASF S/A. - 48.539.407/0001-18
+
+25351.746323/2023-99
+
+FASE I
+
+25351.746241/2023-44
+
+FASE I
+
+25351.746276/2023-83
+
+FASE I
+
+25351.746279/2023-17
+
+FASE I
+
+25351.746285/2023-74
+
+FASE I
+
+25351.746295/2023-18
+
+FASE I
+
+25351.746307/2023-04
+
+FASE I
+
+25351.746327/2023-77
+
+FASE I
+
+25351.791516/2023-02
+
+FASE III
+
+-----------------------------
+
+COMPANHIA NITRO QUÍMICA BRASILEIRA - 61.150.348/0013-93
+
+25351.734760/2023-60
+
+## ANEXO III — -----------------------------
+
+GLOBACHEM PROTECAO DE CULTIVOS DO BRASIL LTDA - 43.741.357/0001-33
+
+25351.817486/2023-63
+
+FASE I
+
+25351.818095/2023-66
+
+FASE I
+
+-----------------------------
+
+INDUSTRIAL RIGEL DO BRASIL LTDA - 34.319.752/0001-31
+
+25351.800109/2023-95
+
+## ANEXO III — -----------------------------
+
+INFLORA BIOCIÊNCIA LTDA. - 05.755.199/0001-81
+
+25351.754524/2023-60
+
+## ANEXO III — -----------------------------
+
+KOPPERT DO BRASIL HOLDING LTDA - 11.074.190/0001-08
+
+25351.808170/2023-81
+
+## ANEXO III — -----------------------------
+
+NICHINO DO BRASIL AGROQUÍMICOS LTDA - 20.664.619/0001-08
+
+25351.754744/2023-93
+
+FASE I
+
+25351.754262/2023-33
+
+FASE I
+
+-----------------------------
+
+NISSO BRASILEIRA REPRESENTAÇÃO LTDA. - 03.633.052/0001-93
+
+25351.746332/2023-80
+
+FASE II
+
+-----------------------------
+
+OURO FINO QUÍMICA S.A - 09.100.671/0001-07
+
+25351.758691/2023-80
+
+FASE I
+
+25351.758756/2023-97
+
+FASE I
+
+25351.758757/2023-31
+
+FASE I
+
+25351.758787/2023-48
+
+FASE I
+
+-----------------------------
+
+PROPHYTO COMÉRCIO E SERVIÇOS LTDA. - 07.118.820/0001-21
+
+25351.749977/2023-74
+
+## ANEXO III — -----------------------------
+
+SM AGROCARE BRASIL IMPORTACAO COMERCIO E SERVICOS AGRICOLAS - 34.866.068/0001-70
+
+25351.778515/2023-64
+
+FASE I
+
+-----------------------------
+
+SUMITOMO CHEMICAL BRASIL INDUSTRIA QUIMICA S.A - 07.467.822/0001-26
+
+25351.791159/2023-74
+
+FASE I
+
+-----------------------------
+
+SYNCROM ASSESSORIA E COMERCIO DE PRODUTOS AGROPECUARIOS LTDA - 06.876.953/0001-02
+
+25351.817313/2023-45
+
+FASE I
+
+-----------------------------
+
+SYNGENTA PROTEÇÃO DE CULTIVOS LTDA - 60.744.463/0001-90
+
+25351.807948/2023-34
+
+FASE III
+
+25351.808032/2023-00
+
+FASE III
+
+25351.808077/2023-76
+
+FASE III
+
+25351.808087/2023-10
+
+FASE III
+
+25351.807902/2023-15
+
+FASE III
+
+25351.787395/2023-96
+
+## ANEXO III — 25351.787725/2023-43
+
+## ANEXO III — -----------------------------
+
+UPL DO BRASIL INDÚSTRIA E COMÉRCIO DE INSUMOS AGROPECUÁRIOS S.A - 02.974.733/0001-52
+
+25351.652245/2023-62
+
+FASE I

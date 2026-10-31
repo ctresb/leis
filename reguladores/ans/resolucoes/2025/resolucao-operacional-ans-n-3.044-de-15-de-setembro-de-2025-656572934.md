@@ -1,0 +1,29 @@
+---
+titulo: "RESOLUÇÃO OPERACIONAL ANS Nº 3.044, DE 15 DE SETEMBRO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Saúde Suplementar"
+tipo: "Resolução"
+numero: "3044"
+data: 2025-09-15
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 17/09/2025, seção 1, p. 107"
+data_publicacao: 2025-09-17
+edicao: "177"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-operacional-ans-n-3.044-de-15-de-setembro-de-2025-656572934"
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO OPERACIONAL ANS Nº 3.044, DE 15 DE SETEMBRO DE 2025
+
+RESOLUÇÃO OPERACIONAL ANS Nº 3.044, DE 15 DE SETEMBRO DE 2025
+
+Dispõe sobre a instauração do regime especial de Direção Técnica na operadora ASSOCIAÇÃO ASSISTENCIAL DE SAÚDE SUPLEMENTAR CRUZ AZUL SAÚDE.
+
+A Diretoria Colegiada da Agência Nacional de Saúde Suplementar - ANS, no uso das atribuições que lhe confere o art. 70 do Regimento Interno, instituído pela Resolução Regimental (RR) nº 21, de 26 de janeiro de 2022, na forma do disposto no art. 24 da Lei nº. 9.656, de 3 de junho de 1998, alterada pela Medida Provisória nº 2.177-44, de 24 de agosto de 2001, na reunião ordinária de 15 de setembro de 2025, considerando as anormalidades administrativas e assistenciais graves que colocam em risco a continuidade do atendimento à saúde dos beneficiários, de acordo com os elementos constantes do processo administrativo nº 33910.000366/2024-51, adotou a seguinte Resolução Operacional e eu, Diretor-Presidente, determino a sua publicação:
+
+**Art. 1º** Fica instaurado o regime especial de Direção Técnica na operadora ASSOCIAÇÃO ASSISTENCIAL DE SAÚDE SUPLEMENTAR CRUZ AZUL SAÚDE, registro ANS nº 41175-2, inscrita no CNPJ sob o nº 03.849.449/0001-17.
+
+**Art. 2º** Esta Resolução Operacional - RO entra em vigor na data de sua publicação.
+
+WADIH NEMER DAMOUS FILHO
+
+Diretor-Presidente

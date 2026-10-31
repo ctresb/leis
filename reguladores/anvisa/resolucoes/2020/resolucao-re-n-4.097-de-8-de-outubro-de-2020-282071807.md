@@ -1,0 +1,146 @@
+---
+titulo: "RESOLUÇÃO-RE nº 4.097, DE 8 DE OUTUBRO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "4097"
+data: 2020-10-08
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 09/10/2020, seção 1, p. 125"
+data_publicacao: 2020-10-09
+edicao: "195"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.097-de-8-de-outubro-de-2020-282071807"
+sha256_html_fonte: ef4c6be0338a8f5179b0ae6b6973d33b3335ee2d1b402ae773f0fb703df75c43
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE nº 4.097, DE 8 DE OUTUBRO DE 2020
+
+RESOLUÇÃO-RE nº 4.097, DE 8 DE OUTUBRO DE 2020
+
+O Coordenador de Autorização de Funcionamento de Empresas, substituto, no uso das atribuições que lhe confere o Art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º.** Conceder Autorização de Funcionamento para Empresas constantes no anexo desta Resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+FORMULA MEDICAMENTOS EIRELI / 31.492.478/0001-00
+
+25351.839064/2020-04 / 4024181
+
+723 - AFE - CONCESSÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - DISTRIBUIDORA (SOMENTE MATRIZ) / 2791673202
+
+--------------------------------------
+
+Giordano e Giordano Industria e Comercio de Produtos Medicos e Odontologicos Ltda / 19.526.217/0001-68
+
+25351.839152/2020-06 / 8207117
+
+861 - AFE - CONCESSÃO - PRODUTO PARA SAÚDE - FABRICANTE / 2791768203
+
+--------------------------------------
+
+A.M.R. SANTOS PRODUTOS VETERINÁRIOS LTDA / 18.633.316/0001-86
+
+25351.490333/2020-11 / 1243221
+
+702 - AFE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA (SOMENTE MATRIZ) / 1725759209
+
+--------------------------------------
+
+STOKMETAL COMERCIO DE MÓVEIS LTDA / 32.597.474/0001-59
+
+25351.839048/2020-11 / 8207088
+
+861 - AFE - CONCESSÃO - PRODUTO PARA SAÚDE - FABRICANTE / 2791655204
+
+--------------------------------------
+
+PROMEDIOL DO BRASIL LTDA / 36.984.046/0001-30
+
+25351.839229/2020-30 / 4024195
+
+722 - AFE - CONCESSÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - IMPORTADORA (SOMENTE MATRIZ) / 2791849203
+
+25351.839236/2020-31 / 1243131
+
+703 - AFE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - IMPORTADORA (SOMENTE MATRIZ) / 2791856200
+
+--------------------------------------
+
+MAIS ASSISTENCIA MEDICA DOMICILIAR LTDA / 32.086.835/0001-00
+
+25351.839162/2020-33 / 8207121
+
+856 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - DISTRIBUIDORA / 2791778209
+
+--------------------------------------
+
+XMEDICINE IMPORTADORA E DISTRIBUIDORA DE PRODUTOS PARA A SAUDE LTDA / 36.619.587/0001-69
+
+25351.934998/2020-41 / 4024241
+
+722 - AFE - CONCESSÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - IMPORTADORA (SOMENTE MATRIZ) / 3071420200
+
+--------------------------------------
+
+MRA MEDICAL COM IMP E EXP DE PRODUTOS PARA A SAÚDE LTDA / 28.183.570/0001-83
+
+25351.839178/2020-46 / 8207134
+
+859 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - IMPORTADORA / 2791796207
+
+--------------------------------------
+
+FORMULA MEDICAMENTOS EIRELI / 31.492.478/0001-00
+
+25351.839137/2020-50 / 1243113
+
+702 - AFE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA (SOMENTE MATRIZ) / 2791750207
+
+--------------------------------------
+
+BARRA EMBALAGENS E ACESSÓRIOS LTDA / 14.722.310/0001-24
+
+25351.834731/2020-54 / 3097014
+
+740 - AFE - CONCESSÃO - SANEANTES DOMISSANITÁRIOS - DISTRIBUIDORA (SOMENTE MATRIZ) / 2780755202
+
+--------------------------------------
+
+Health Logística Hospitalar S.A / 18.320.396/0006-24
+
+25351.839216/2020-61 / 8207148
+
+855 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - ARMAZENADORA / 2791836209
+
+--------------------------------------
+
+PROMEDIOL DO BRASIL LTDA / 36.984.046/0001-30
+
+25351.839135/2020-61 / 8207103
+
+859 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - IMPORTADORA / 2791748202
+
+--------------------------------------
+
+FORMULA MEDICAMENTOS EIRELI / 31.492.478/0001-00
+
+25351.838997/2020-76 / 8207061
+
+856 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - DISTRIBUIDORA / 2791642200
+
+25351.839188/2020-81 / 3097028
+
+740 - AFE - CONCESSÃO - SANEANTES DOMISSANITÁRIOS - DISTRIBUIDORA (SOMENTE MATRIZ) / 2791806202
+
+--------------------------------------
+
+L.I.S.A LOGISTICA INTEGRADA SULAMERICANA S.A / 08.248.539/0009-23
+
+25351.839075/2020-86 / 8207091
+
+855 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - ARMAZENADORA / 2791686207

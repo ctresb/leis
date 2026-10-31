@@ -1,0 +1,48 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.472, DE 3 DE SETEMBRO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Terceira Diretoria/Gerência-Geral de Registro e Fiscalização de Produtos Fumígenos Derivados ou Não do Tabaco"
+tipo: "Resolução"
+numero: "3472"
+data: 2020-09-03
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 08/09/2020, seção 1, p. 101"
+data_publicacao: 2020-09-08
+edicao: "172"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.472-de-3-de-setembro-de-2020-276155056"
+sha256_html_fonte: 969405f3436fb27b7aee34afc8c7c35e86975613f3ae65be56f78ff37e526fb2
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 3.472, DE 3 DE SETEMBRO DE 2020
+
+RESOLUÇÃO-RE Nº 3.472, DE 3 DE SETEMBRO DE 2020
+
+A Gerente-Geral de Registro e Fiscalização de Produtos Fumígenos Derivados ou Não do Tabaco, no uso das atribuições que lhe confere o art. 162, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, e tendo em vista o disposto na Resolução de Diretoria Colegiada nº 226, de 30 de abril de 2018, resolve:
+
+**Art. 1º** Deferir as petições relativas a produtos fumígenos derivados do tabaco, conforme anexo, em cumprimento à Decisão Liminar concedida pelo Tribunal Regional Federal da 1ª Região, no processo 1011264-65.2019.4.01.0000.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+STEFANIA SCHIMANESKI PIRAS
+
+## ANEXO
+
+IBC-INDUSTRIA BRASILEIRA DE CIGARROS LTDA
+
+CNPJ: 20.901.675/0001-19
+
+Marca: R 8 Y RED (cigarro com filtro) - embalagem primária box e embalagem secundária pacote para 10 embalagens primárias box
+
+Processo: 25351.823706/2020-45
+
+Expediente: 2748920/20-5
+
+Assunto: 6001 - Registro de Produto Fumígeno - Dados Cadastrais
+
+Marca: ROYALE BLUE (cigarro com filtro) - embalagem primária box e embalagem secundária pacote para 10 embalagens primárias box
+
+Processo: 25351.862258/2020-03
+
+Expediente: 2861870/20-0
+
+Assunto: 6001 - Registro de Produto Fumígeno - Dados Cadastrais

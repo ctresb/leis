@@ -1,0 +1,32 @@
+---
+titulo: "PORTARIA Nº 1.066, DE 7 DE DEZEMBRO DE 2018"
+orgao: "Poder Judiciário/Tribunal Superior Eleitoral/Secretaria do Tribunal/Secretaria de Planejamento, Orçamento, Finanças e Contabilidade/Gabinete"
+tipo: "Portaria"
+numero: "1066"
+data: 2018-12-07
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 14/12/2018, seção 1, p. 117"
+data_publicacao: 2018-12-14
+edicao: "240"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-1-066-de-7-de-dezembro-de-2018-55217839"
+sha256_html_fonte: 3fc74f6c80b427b810800df44957f3091ebad6d8230f9c2a9ef94ac0a448b0e0
+baixado_em: 2026-10-27
+---
+# PORTARIA Nº 1.066, DE 7 DE DEZEMBRO DE 2018
+
+PORTARIA Nº 1.066, DE 7 DE DEZEMBRO DE 2018
+
+Estabelece o limite de pagamento dos Tribunais Eleitorais e do Fundo Partidário no valor que especifica.
+
+A PRESIDENTE DO TRIBUNAL SUPERIOR ELEITORAL, no uso de suas atribuições e tendo em vista o disposto no inciso II do art. 107 do Ato das Disposições Constitucionais Transitórias e no Procedimento Administrativo SEI nº 2018.00.000000616-9, resolve:
+
+**Art. 1º** Fica estabelecido o limite de pagamento de despesas primárias dos Tribunais Eleitorais e do Fundo Partidário para o exercício 2018, conforme indicado no Anexo I desta Portaria.
+
+**Art. 2º** Fica revogada a Portaria nº 851, de 21 de setembro de 2018.
+
+**Art. 3º** Esta Portaria entra em vigor na data de sua publicação.
+
+Min. ROSA WEBER
+
+<table><tr><td><p>ANEXO I</p></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td><p><em>Valores em R$</em></p></td></tr><tr><td><p><em>UNIDADE</em></p><p>ORÇAMENTÁRIA</p></td><td><p><em>LIMITES DE PAGAMENTOS PARA AS DESPESAS PRIMÁRIAS</em></p></td></tr><tr><td></td><td><p><em>OBRIGATÓRIAS</em></p></td><td><p><em>DISCRICIONÁRIAS</em></p></td><td><p><em>TOTAL</em></p></td></tr><tr><td><p><em>TSE</em></p></td><td><p><em>291.209.073</em></p></td><td><p><em>338.593.034</em></p></td><td><p><em>629.802.107</em></p></td></tr><tr><td><p><em>TRE - AC</em></p></td><td><p><em>37.305.790</em></p></td><td><p><em>23.614.439</em></p></td><td><p><em>60.920.229</em></p></td></tr><tr><td><p><em>TRE - AL</em></p></td><td><p><em>87.144.454</em></p></td><td><p><em>15.023.162</em></p></td><td><p><em>102.167.616</em></p></td></tr><tr><td><p><em>TRE - AM</em></p></td><td><p><em>102.927.278</em></p></td><td><p><em>25.306.929</em></p></td><td><p><em>128.234.207</em></p></td></tr><tr><td><p><em>TRE - BA</em></p></td><td><p><em>281.600.602</em></p></td><td><p><em>50.480.855</em></p></td><td><p><em>332.081.457</em></p></td></tr><tr><td><p><em>TRE - CE</em></p></td><td><p><em>189.364.589</em></p></td><td><p><em>35.450.262</em></p></td><td><p><em>224.814.851</em></p></td></tr><tr><td><p><em>TRE - DF</em></p></td><td><p><em>78.838.961</em></p></td><td><p><em>18.969.099</em></p></td><td><p><em>97.808.060</em></p></td></tr><tr><td><p><em>TRE - ES</em></p></td><td><p><em>98.149.127</em></p></td><td><p><em>20.017.508</em></p></td><td><p><em>118.166.635</em></p></td></tr><tr><td><p><em>TRE - GO</em></p></td><td><p><em>151.201.003</em></p></td><td><p><em>25.585.861</em></p></td><td><p><em>176.786.864</em></p></td></tr><tr><td><p><em>TRE - MA</em></p></td><td><p><em>143.643.927</em></p></td><td><p><em>27.848.547</em></p></td><td><p><em>171.492.474</em></p></td></tr><tr><td><p><em>TRE - MT</em></p></td><td><p><em>94.409.561</em></p></td><td><p><em>17.639.078</em></p></td><td><p><em>112.048.639</em></p></td></tr><tr><td><p><em>TRE - MS</em></p></td><td><p><em>88.555.683</em></p></td><td><p><em>24.872.032</em></p></td><td><p><em>113.427.715</em></p></td></tr><tr><td><p><em>TRE - MG</em></p></td><td><p><em>501.386.103</em></p></td><td><p><em>54.616.160</em></p></td><td><p><em>556.002.263</em></p></td></tr><tr><td><p><em>TRE - PA</em></p></td><td><p><em>150.117.321</em></p></td><td><p><em>33.218.189</em></p></td><td><p><em>183.335.510</em></p></td></tr><tr><td><p><em>TRE - PB</em></p></td><td><p><em>120.145.267</em></p></td><td><p><em>19.031.414</em></p></td><td><p><em>139.176.681</em></p></td></tr><tr><td><p><em>TRE - PR</em></p></td><td><p><em>251.874.266</em></p></td><td><p><em>45.833.022</em></p></td><td><p><em>297.707.288</em></p></td></tr><tr><td><p><em>TRE - PE</em></p></td><td><p><em>219.974.938</em></p></td><td><p><em>33.379.437</em></p></td><td><p><em>253.354.375</em></p></td></tr><tr><td><p><em>TRE - PI</em></p></td><td><p><em>130.103.672</em></p></td><td><p><em>32.927.458</em></p></td><td><p><em>163.031.130</em></p></td></tr><tr><td><p><em>TRE - RJ</em></p></td><td><p><em>426.790.450</em></p></td><td><p><em>45.799.327</em></p></td><td><p><em>472.589.777</em></p></td></tr><tr><td><p><em>TRE - RN</em></p></td><td><p><em>117.849.901</em></p></td><td><p><em>22.501.849</em></p></td><td><p><em>140.351.750</em></p></td></tr><tr><td><p><em>TRE - RS</em></p></td><td><p><em>247.880.922</em></p></td><td><p><em>73.958.467</em></p></td><td><p><em>321.839.389</em></p></td></tr><tr><td><p><em>TRE - RO</em></p></td><td><p><em>61.920.735</em></p></td><td><p><em>19.753.043</em></p></td><td><p><em>81.673.778</em></p></td></tr><tr><td><p><em>TRE - SC</em></p></td><td><p><em>158.361.915</em></p></td><td><p><em>27.137.176</em></p></td><td><p><em>185.499.091</em></p></td></tr><tr><td><p><em>TRE - SP</em></p></td><td><p><em>632.660.434</em></p></td><td><p><em>81.307.283</em></p></td><td><p><em>713.967.717</em></p></td></tr><tr><td><p><em>TRE - SE</em></p></td><td><p><em>72.341.509</em></p></td><td><p><em>12.154.690</em></p></td><td><p><em>84.496.199</em></p></td></tr><tr><td><p><em>TRE - TO</em></p></td><td><p><em>62.833.907</em></p></td><td><p><em>21.237.592</em></p></td><td><p><em>84.071.499</em></p></td></tr><tr><td><p><em>TRE - RR</em></p></td><td><p><em>40.049.963</em></p></td><td><p><em>11.117.667</em></p></td><td><p><em>51.167.630</em></p></td></tr><tr><td><p><em>TRE - AP</em></p></td><td><p><em>38.938.341</em></p></td><td><p><em>13.701.891</em></p></td><td><p><em>52.640.232</em></p></td></tr><tr><td><p><em>SUBTOTAL</em></p></td><td><p><em>4.877.579.692</em></p></td><td><p><em>1.171.075.471</em></p></td><td><p><em>6.048.655.163</em></p></td></tr><tr><td><p><em>FUNDO PARTIDÁRIO</em></p></td><td><p><em>888.735.090</em></p></td><td><p><em>-</em></p></td><td><p><em>888.735.090</em></p></td></tr><tr><td><p><em>TOTAL</em></p></td><td><p><em>5.766.314.782</em></p></td><td><p><em>1.171.075.471</em></p></td><td><p><em>6.937.390.253</em></p></td></tr></table>

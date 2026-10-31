@@ -1,0 +1,88 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 13, DE 3 DE JANEIRO DE 2024"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "13"
+data: 2024-01-03
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 04/01/2024, seção 1, p. 204"
+data_publicacao: 2024-01-04
+edicao: "3"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-13-de-3-de-janeiro-de-2024-535754198"
+sha256_html_fonte: 9806a7204045bfea5c8755bf14c8240661460e68e7b506db4a6912495ecd1ebb
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE Nº 13, DE 3 DE JANEIRO DE 2024
+
+RESOLUÇÃO-RE Nº 13, DE 3 DE JANEIRO DE 2024
+
+A COORDENADORA SUBSTITUTA DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Alterar a Autorização de Funcionamento das Empresas constantes no anexo desta Resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+TACIANE PIMENTEL DA SILVA
+
+## ANEXO
+
+GAIA SOLUÇÕES SUSTENTÁVEIS LTDA / 40.172.701/0001-22
+
+25351.362293/2021-08 / 4038509
+
+ARMAZENAR: PRODUTOS DE HIGIENE
+
+DISTRIBUIR: PRODUTOS DE HIGIENE
+
+EXPEDIR: PRODUTOS DE HIGIENE
+
+IMPORTAR: PRODUTOS DE HIGIENE
+
+751 - AFE - ALTERAÇÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - ENDEREÇO MATRIZ / 1405237236
+
+--------------------------------------
+
+INGRID LETICIA AMARO FARMACIA LTDA / 85.338.788/0001-01
+
+25351.352068/2014-26 / 7221841
+
+COMÉRCIO: ALIMENTOS PERMITIDOS / CORRELATOS / COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE
+
+DISPENSAÇÃO DE MEDICAMENTOS, INCLUSIVE SUJEITOS A CONTROLE ESPECIAL
+
+DISPENSAÇÃO DE PLANTAS MEDICINAIS: -
+
+PRESTAÇÃO DE SERVIÇOS FARMACÊUTICOS: -
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0002548241
+
+--------------------------------------
+
+VICTÓRIA RÉGIA COMÉRCIO DE MATERIAS MÉDICOS LTDA / 80.779.259/0001-11
+
+25351.266863/2014-38 / 1107174
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70792 - AFE - ALTERAÇÃO - MEDICAMENTOS E/OU INSUMOS FARMACÊUTICOS - AMPLIAÇÃO DE ATIVIDADES / 1233984233
+
+--------------------------------------
+
+FARMACIA MARCELLUS LTDA ME / 11.509.887/0001-64
+
+25351.311462/2010-44 / 0664387
+
+COMÉRCIO: ALIMENTOS PERMITIDOS / CORRELATOS / COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE
+
+DISPENSAÇÃO DE MEDICAMENTOS, INCLUSIVE SUJEITOS A CONTROLE ESPECIAL
+
+PRESTAÇÃO DE SERVIÇOS FARMACÊUTICOS: -
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 1405192232

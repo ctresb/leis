@@ -1,0 +1,338 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.607, DE 14 DE SETEMBRO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "3607"
+data: 2020-09-14
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 15/09/2020, seção 1, p. 103"
+data_publicacao: 2020-09-15
+edicao: "177"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.607-de-14-de-setembro-de-2020-277430364"
+sha256_html_fonte: 9afeecd439430d6cfb1aa3d95ec05807fca1a06bf166143a016d2c5567374ba2
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 3.607, DE 14 DE SETEMBRO DE 2020
+
+RESOLUÇÃO-RE Nº 3.607, DE 14 DE SETEMBRO DE 2020
+
+A Coordenadora de Autorização de Funcionamento de Empresas, no uso das atribuições que lhe confere o art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º** Conceder Autorização de Funcionamento para os estabelecimentos de Farmácias e Drogarias, em conformidade com o anexo desta Resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+PATRICIA AZEVEDO CHAGAS
+
+## ANEXO
+
+SOUSA FERNANDES COMERCIO DE MEDICAMENTOS LTDA / 35.223.212/0001-12
+
+25351.894356/2020-00 / 7746146
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2954995207
+
+--------------------------------------
+
+R C L C REIS EIRELI EPP / 06.298.912/0005-00
+
+25351.888951/2020-06 / 7745964
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2940150200
+
+--------------------------------------
+
+L.R.DA CAMARA EIRELI / 18.291.032/0002-30
+
+25351.888928/2020-11 / 7745765
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2940100203
+
+--------------------------------------
+
+T S CARVALHO FARMACIA / 37.779.703/0001-70
+
+25351.894354/2020-11 / 7746129
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2954991204
+
+--------------------------------------
+
+A.L.FURTADO DROGARIA / 33.943.334/0003-10
+
+25351.888935/2020-13 / 7745839
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2940115201
+
+--------------------------------------
+
+gianne lobato r da silva -me / 24.557.583/0001-14
+
+25351.894352/2020-13 / 7746115
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2954987206
+
+--------------------------------------
+
+DROGARIA COSTA E MACHADO LTDA / 26.854.535/0001-13
+
+25351.682789/2020-14 / 7745887
+
+70152 - AFE/AE - RECURSO ADMINISTRATIVO - FARMÁCIAS E DROGARIAS / 2966685206
+
+--------------------------------------
+
+L2F COMERCIO DE MEDICAMENTOS LTDA / 37.582.148/0001-91
+
+25351.833889/2020-15 / 7745860
+
+70152 - AFE/AE - RECURSO ADMINISTRATIVO - FARMÁCIAS E DROGARIAS / 2955385207
+
+--------------------------------------
+
+A N N DA COSTA DROGARIA E ENGENHARIA / 31.619.163/0001-80
+
+25351.888933/2020-16 / 7745811
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2940111209
+
+--------------------------------------
+
+yagnolys montes de oca morales drogaria / 35.068.517/0001-05
+
+25351.812899/2020-17 / 7745873
+
+70152 - AFE/AE - RECURSO ADMINISTRATIVO - FARMÁCIAS E DROGARIAS / 2957330201
+
+--------------------------------------
+
+RENILDO RIBEIRO NUNES - ME / 26.020.848/0002-57
+
+25351.888956/2020-21 / 7746007
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2940160207
+
+--------------------------------------
+
+NOSSA FARMÁCIA DROGARIA E PERFUMARIA LTDA / 37.762.998/0001-71
+
+25351.888931/2020-27 / 7745796
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2940107201
+
+--------------------------------------
+
+FMP FARMACIA MELHOR PRECO LTDA / 01.903.314/0003-29
+
+25351.888949/2020-29 / 7745947
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2940146201
+
+--------------------------------------
+
+farmacia do trabalhador prime LTDA / 32.655.678/0008-75
+
+25351.888947/2020-30 / 7745920
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2940142209
+
+--------------------------------------
+
+Asa Lagos Drogarias Eireli / 32.259.328/0001-13
+
+25351.888954/2020-31 / 7745995
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2940156209
+
+--------------------------------------
+
+DROGARIA CENTRAL PHARMA EIRELI / 36.291.476/0001-76
+
+25351.796846/2020-33 / 7746055
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2668763201
+
+--------------------------------------
+
+MARCELOS SIMÃO BASILIO SOBRINHO / 37.610.172/0001-97
+
+25351.888961/2020-33 / 7746069
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2940170204
+
+--------------------------------------
+
+DROGARIA S L LTDA / 04.707.705/0008-70
+
+25351.839564/2020-38 / 7745916
+
+70152 - AFE/AE - RECURSO ADMINISTRATIVO - FARMÁCIAS E DROGARIAS / 3002632206
+
+--------------------------------------
+
+GABI FARMA MEDICAMENTOS E PERFUMARIA LTDA / 36.988.858/0001-53
+
+25351.812903/2020-39 / 7745891
+
+70152 - AFE/AE - RECURSO ADMINISTRATIVO - FARMÁCIAS E DROGARIAS / 2974492200
+
+--------------------------------------
+
+LIDER ORGANIZAÇÃO COMERCIAL LTDA / 23.879.331/0052-99
+
+25351.888952/2020-42 / 7745978
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2940152206
+
+--------------------------------------
+
+DROGAFARMA MANIPULAÇAO LTdA EPP / 02.949.221/0004-89
+
+25351.894357/2020-46 / 7746150
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2954997203
+
+--------------------------------------
+
+DROGARIA LAMEIRO NI 2 LTDA / 37.995.304/0001-46
+
+25351.888936/2020-50 / 7745842
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2940117208
+
+--------------------------------------
+
+BIZZI E BARBOSA LTDA / 34.716.986/0001-12
+
+25351.888950/2020-53 / 7745951
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2940148208
+
+--------------------------------------
+
+Drogaria Farma Mais LTDA / 28.786.618/0001-48
+
+25351.894355/2020-57 / 7746132
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2954993201
+
+--------------------------------------
+
+FMP FARMÁCIA MELHOR PREÇO LTDA / 01.903.314/0006-71
+
+25351.888929/2020-58 / 7745779
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2940102200
+
+--------------------------------------
+
+HRM DROGARIA EIRELI / 35.795.995/0001-09
+
+25351.888934/2020-61 / 7745825
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2940113205
+
+--------------------------------------
+
+ANDREIA LOPES FERNANDES / 37.649.887/0001-53
+
+25351.862142/2020-66 / 7745856
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2861342202
+
+--------------------------------------
+
+DROGAPOSSE MD PHARMA LTDA ME / 34.865.706/0001-38
+
+25351.894272/2020-68 / 7746086
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2954845204
+
+--------------------------------------
+
+SMFJS COMERCIO DE MEDICAMENTOS LTDA / 05.247.439/0003-07
+
+25351.888927/2020-69 / 7745751
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2940098208
+
+--------------------------------------
+
+RAIA DROGASIL S/A / 61.585.865/2483-66
+
+25351.888932/2020-71 / 7745808
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2940109207
+
+--------------------------------------
+
+DROGARIA MEGA FARMA RAGUEB LTDA / 32.272.807/0001-70
+
+25351.888957/2020-75 / 7746011
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2940162203
+
+--------------------------------------
+
+FARMACIA 6D EIRELI / 35.486.595/0001-11
+
+25351.833893/2020-75 / 7745902
+
+70152 - AFE/AE - RECURSO ADMINISTRATIVO - FARMÁCIAS E DROGARIAS / 2988700203
+
+--------------------------------------
+
+BRUNO ARRUDA FERREIRA COMERCIAL DE MEDICAMENTOS / 37.467.165/0001-88
+
+25351.894351/2020-79 / 7746090
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2954985200
+
+--------------------------------------
+
+ECONO FARMA COMERCIO DE MEDICAMENTOS LTDA / 10.379.265/0001-04
+
+25351.888930/2020-82 / 7745782
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2940105204
+
+--------------------------------------
+
+Itamar Agostinho Campos Junior / 37.636.033/0001-32
+
+25351.888948/2020-84 / 7745933
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2940144205
+
+--------------------------------------
+
+RAIA DROGASIL S/A / 61.585.865/2420-82
+
+25351.893081/2020-89 / 7746072
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2952315200
+
+--------------------------------------
+
+RAIA DROGASIL S/A / 61.585.865/2500-00
+
+25351.894358/2020-91 / 7746163
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2954999200
+
+--------------------------------------
+
+F.S.A. PREPARE FARMACIA E MANIPULACAO LTDA / 03.043.240/0007-57
+
+25351.888953/2020-97 / 7745981
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2940154202
+
+--------------------------------------
+
+R C L C REIS EIRELI EPP / 06.298.912/0006-82
+
+25351.888960/2020-99 / 7746041
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2940168202

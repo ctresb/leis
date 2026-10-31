@@ -1,0 +1,40 @@
+---
+titulo: "RESOLUÇÃO - RE Nº 171, DE 20 DE JANEIRO DE 2015"
+orgao: "Ministério da Saúde/AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA/SUPERINTENDÊNCIA DE CORRELATOS E ALIMENTOS GERÊNCIA-GERAL DE COSMÉTICOS"
+tipo: "Resolução"
+numero: "171"
+data: 2015-01-20
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 30/01/2015, seção 1, p. 107"
+data_publicacao: 2015-01-30
+edicao: "21"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-171-de-20-de-janeiro-de-2015-32139112"
+sha256_html_fonte: e0db1ef8840f4fb0faaad33f8e543d70dfaa1558beb95c6c379e2f677fcad2dc
+baixado_em: 2026-10-28
+---
+# RESOLUÇÃO - RE Nº 171, DE 20 DE JANEIRO DE 2015
+
+RESOLUÇÃO - RE Nº 171, DE 20 DE JANEIRO DE 2015
+
+A Gerente-Geral de Cosméticos da Agência Nacional deVigilância Sanitária, no uso de suas atribuições legais conferidas pelaPortaria nº 1.726, de 21 de outubro de 2014, tendo em vista odisposto no inciso I, § 1º do art. 6º do Regimento Interno aprovadonos termos do Anexo I da Portaria nº 650, de 29 de maio de 2014,publicada no DOU de 2 de junho de 2014, e suas alterações,
+
+considerando a Resolução da Diretoria Colegiada n° 4, de 30de janeiro de 2014, publicada em 31 de janeiro de 2014, e considerandoo art. 12 e o art. 26 e seguintes da Lei nº 6.360 de 23 desetembro de 1976, bem como o inciso IX, do art. 7º da Lei 9.782, de26 de janeiro de 1999, resolve:
+
+**Art. 1º** Deferir os registros e as petições dos produtos dehigiene pessoal, cosméticos e perfumes, conforme relação anexa.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+JOSINEIRE MELO COSTA SALLUM
+
+## ANEXO
+
+NOME DA EMPRESA AUTORIZAÇÃONOME DO PRODUTO E MARCACOR E/OU TONALIDADE NUMERO DE PROCESSO NUMERODE REGISTROLOCAL DE FABRICAÇÃO VENCIMENTODESTINAÇÃO PRAZO DE VALIDADE DO PRODUTOGRUPO DO PRODUTOEMBALAGEM PRIMÁRIAEMBALAGEM SECUNDÁRIAFORMA FÍSICAASSUNTO DA PETIÇÃORESTRIÇÃO DE USOCONSERVAÇÃODEVINTEX COSMÉTICOS LTDA 2.02959-4SALON LINE PROFESSIONAL PÓ DESCOLORANTE RÁPIDOSEM AMÔNIA25351.376272/2014-78SÃO PAULO/SP 09/2019PROFISSIONAL 2 ANOSDESCOLORANTE CAPILAR - GRAU 2SACHÊCAIXA DISPLAY DE CARTOLINAPÓ2019 - Alteração de Rotulagem de Produto RegistradoUSO PROFISSIONALCUIDADOS ESPECIAIS DE CONSERVAÇÃO INDICADOS NAROTULAGEM25351.376272/2014-78SÃO PAULO/SP 09/2019PROFISSIONAL 2 ANOSDESCOLORANTE CAPILAR - GRAU 2POTE DE PLÁSTICOPRODUTO SOMENTE CONTÉM EMBALAGEM PRIMÁRIAPÓ2019 - Alteração de Rotulagem de Produto RegistradoUSO PROFISSIONALCUIDADOS ESPECIAIS DE CONSERVAÇÃO INDICADOS NAROTULAGEMOXILINE ÁGUA OXIGENADA CREMOSA 10 VOLUMES25351.516841/2014-18SÃO PAULO/SP 10/2019PROFISSIONAL 3 ANOSÁGUA OXIGENADA 10 A 40 VOLUMES (INCLUÍDAS AS CREMOSASEXCETO OS PRODUTOS DE USO MEDICINAL) GRAU2FRASCO DE PLÁSTICOPRODUTO SOMENTE CONTÉM EMBALAGEM PRIMÁRIALÍQUIDO VISCOSO2018 - Alteração Embalagem Secundária de Produto RegistradoUSO PROFISSIONALCUIDADOS ESPECIAIS DE CONSERVAÇÃO INDICADOS NAROTULAGEMPROCOSA PRODUTOS DE BELEZA LTDA 2.00070-9LIGTH MASTER MATRIX25351.610351/2013-24HUWELL CHEMICALS S.P.A (ITÁLIA)/ITÁLIA 02/2019L'ORÉAL (ESPANHA)/ESPANHA 02/2019PROFISSIONAL 36 MESESCLAREADOR PARA PELOS - GRAU 2POUCHSPRODUTO SOMENTE CONTÉM EMBALAGEM PRIMÁRIAPÓ2031 - Exclusão de Fórmula (Tonalidade) a Pedido de Produto Registrado2044- Anexação de documento de instrução para Alteração de dadoscomplementares de produto registrado - Outros Arquivos2011 - Exclusão de Local de Fabricação Produto RegistradoUSO PROFISSIONALCONSERVAR EM LUGAR FRESCO (TEMPERATURA NÃO SUPERIORA 40ºC)COLGATE PALMOLIVE INDUSTRIAL LTDA 2.04970-3PROTEX SABONETE LÍQUIDO PARA AS MÃOS OMEGA 325351.588488/2013-33SÃO PAULO/SP 02/2019COMERCIAL 3 ANOSSABONETE ANTISSÉPTICO E/OU COM FINALIDADE ESPECÍFICA- GRAU 2FRASCO DE PLÁSTICO COM VÁLVULA DOSADORAPRODUTO SOMENTE CONTÉM EMBALAGEM PRIMÁRIALÍQUIDO VISCOSO2038 - Anexação de documento de instrução para Alteração de dadoscomplementares de produto registrado - Análise Físico-Quimica2043 - Anexação de documento de instrução para Alteração de dadoscomplementares de produto registrado - Estudo de EficáciaRESTRIÇÃO DE USO CONFORME MENCIONADO NA ROTULAGEMCONSERVAREM LOCAL FRESCOPROTEX SABONETE LÍQUIDO ANTIBACTERIANO PARA ASMÃOS25351.422427/2011-41SÃO PAULO/SP 11/2016
+
+COMERCIAL 3 ANOSSABONETE ANTISSÉPTICO E/OU COM FINALIDADE ESPECÍFICA- GRAU 2FRASCO DE PLÁSTICO COM VÁLVULA DOSADORAPRODUTO SOMENTE CONTÉM EMBALAGEM PRIMÁRIALÍQUIDO VISCOSO2044 - Anexação de documento de instrução para Alteração de dadoscomplementares de produto registrado - Outros ArquivosRESTRIÇÃO DE USO CONFORME MENCIONADO NA ROTULAGEMCONSERVAREM LOCAL FRESCO25351.422427/2011-41SÃO PAULO/SP 11/2016COMERCIAL 2 ANOSSABONETE ANTISSÉPTICO E/OU COM FINALIDADE ESPECÍFICA- GRAU 2POUCHSPRODUTO SOMENTE CONTÉM EMBALAGEM PRIMÁRIALÍQUIDO VISCOSO2044 - Anexação de documento de instrução para Alteração de dadoscomplementares de produto registrado - Outros ArquivosRESTRIÇÃO DE USO CONFORME MENCIONADO NA ROTULAGEMCONSERVAREM LOCAL FRESCOPROTEX BALANCE SABONETE LÍQUIDO PARA AS MÃOS25351.659781/2010-99SÃO PAULO/SP 12/2015COMERCIAL 2 ANOSSABONETE ANTISSÉPTICO E/OU COM FINALIDADE ESPECÍFICA- GRAU 2POUCHSPRODUTO SOMENTE CONTÉM EMBALAGEM PRIMÁRIALÍQUIDO VISCOSO2038 - Anexação de documento de instrução para Alteração de dadoscomplementares de produto registrado - Análise Físico-Quimica2040 - Anexação de documento de instrução para Alteração de dadoscomplementares de produto registrado - Dados de EstabilidadeRESTRIÇÃO DE USO CONFORME MENCIONADO NA ROTULAGEMCONSERVAREM LUGAR FRESCO (TEMPERATURA NÃO SUPERIORA 40ºC)25351.659781/2010-99SÃO PAULO/SP 12/2015COMERCIAL 3 ANOSSABONETE ANTISSÉPTICO E/OU COM FINALIDADE ESPECÍFICA- GRAU 2FRASCO DE PLÁSTICO COM VÁLVULA DOSADORAPRODUTO SOMENTE CONTÉM EMBALAGEM PRIMÁRIALÍQUIDO VISCOSO2038 - Anexação de documento de instrução para Alteração de dadoscomplementares de produto registrado - Análise Físico-Quimica2040 - Anexação de documento de instrução para Alteração de dadoscomplementares de produto registrado - Dados de EstabilidadeNÃO APRESENTA RESTRIÇÃO DE USOCONSERVAR EM LUGAR FRESCO (TEMPERATURA NÃO SUPERIORA 40ºC)CCD COSM CIENTIFICA DERM COMERCIO E INDUSTRIA LTDA2.01717-1SECATRIZ SABONETE LÍQUIDO25351.437361/2007-33RIO DE JANEIRO/RJ 11/2017COMERCIAL 36 MESESSABONETE ANTISSÉPTICO E/OU COM FINALIDADE ESPECÍFICA- GRAU 2FRASCO DE PLÁSTICO COM VÁLVULA DOSADORAPRODUTO SOMENTE CONTÉM EMBALAGEM PRIMÁRIALÍQUIDO VISCOSO2031 - Exclusão de Fórmula (Tonalidade) a Pedido de Produto Registrado2040- Anexação de documento de instrução para Alteração de dadoscomplementares de produto registrado - Dados de Estabilidade2039 - Anexação de documento de instrução para Alteração de dadoscomplementares de produto registrado - Análise Microbiológica2018 - Alteração Embalagem Secundária de Produto Registrado
+
+RESTRIÇÃO DE USO CONFORME MENCIONADO NA ROTULAGEMCUIDADOSESPECIAIS DE CONSERVAÇÃO INDICADOS NAROTULAGEM
+
+JOSINEIRE MELO COSTA SALLUM
+
+Este conteúdo não substitui o publicado na versão certificada.

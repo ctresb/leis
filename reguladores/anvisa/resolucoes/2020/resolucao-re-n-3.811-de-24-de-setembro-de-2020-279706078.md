@@ -1,0 +1,138 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.811, DE 24 DE SETEMBRO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Segunda Diretoria/Gerência-Geral de Medicamentos e Produtos Biológicos"
+tipo: "Resolução"
+numero: "3811"
+data: 2020-09-24
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 28/09/2020, seção 1, p. 557"
+data_publicacao: 2020-09-28
+edicao: "186"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.811-de-24-de-setembro-de-2020-279706078"
+sha256_html_fonte: f09a9b4371730f65c39f17a7d677aaa26acc650ab2cab22734c865be5fda29e3
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 3.811, DE 24 DE SETEMBRO DE 2020
+
+RESOLUÇÃO-RE Nº 3.811, DE 24 DE SETEMBRO DE 2020
+
+O Gerente-Geral de Medicamentos e Produtos Biológicos, no uso das atribuições que lhe confere o art. 130, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º** Cancelar o registro sanitário de medicamentos, produtos biológicos e insumos farmacêuticos, ou de apresentações, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor a partir da data de sua publicação.
+
+GUSTAVO MENDES LIMA SANTOS
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+PRINCIPIO(S) ATIVO(S)
+
+----------------------------
+
+BRISTOL-MYERS SQUIBB FARMACÊUTICA LTDA 56998982000107
+
+ipilimumabe
+
+YERVOY 25351.231323/2011-57 06/2027
+
+1613 PRODUTO BIOLÓGICO - CANCELAMENTO DE REGISTRO DA APRESENTAÇÃO DO MEDICAMENTO 2556468/20-4
+
+1.0180.0402.002-0 36 Meses
+
+200 MG SOL INJ CT 1 FA VD TRANS X 40 ML
+
+----------------------------
+
+FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP 43640754000119
+
+DIPIRONA
+
+FURP- DIPIRONA 25991.006361/81 02/2027
+
+1988 SIMILAR - CANCELAMENTO DE REGISTRO DA APRESENTAÇÃO DO MEDICAMENTO 3033721/20-6
+
+1.1039.0034.005-1 24 Meses
+
+500 MG COM CX BL AL PLAS TRANS X 500
+
+----------------------------
+
+LABORATÓRIO FARMACÊUTICO VITAMED LTDA 29346301000153
+
+ISOVIT 25351.053962/2003-63 08/2025
+
+1810 MEDICAMENTO FITOTERÁPICO - CANCELAMENTO DO REGISTRO DA APRESENTAÇÃO 2402468/20-6
+
+1.1695.0032.001-2 36 Meses
+
+75 MG COM REV CT BL AL PLAS TRANS X 30
+
+GLYCINE MAX (L.) MERRL
+
+1.1695.0032.002-3 36 Meses
+
+75 MG COM REV CT BL AL PLAS TRANS X 60
+
+GLYCINE MAX
+
+1.1695.0032.003-4 36 Meses
+
+100 MG COM REV CT BL AL PLAS TRANS X 30
+
+GLYCINE MAX (L.) MERRL
+
+1.1695.0032.004-5 36 Meses
+
+100 MG COM REV CT BL AL PLAS TRANS X 60
+
+GLYCINE MAX (L.) MERRL
+
+1.1695.0032.007-8 36 Meses
+
+150 MG COM REV CT FR PLAS OPC X 30
+
+GLYCINE MAX
+
+1.1695.0032.014-5 36 Meses
+
+100 MG COM REV CT FR PLAS OPC X 30
+
+GLYCINE MAX (L.) MERRL
+
+1.1695.0032.015-6 36 Meses
+
+100 MG COM REV CT FR PLAS OPC X 60
+
+GLYCINE MAX
+
+1.1695.0032.017-7 36 Meses
+
+100 MG COM REV CT FR PLAS OPC X 90
+
+GLYCINE MAX (L.) MERRL
+
+1.1695.0032.018-8 36 Meses
+
+150 MG COM REV CT FR PLAS OPC X 60
+
+GLYCINE MAX
+
+1.1695.0032.019-9 36 Meses
+
+150 MG COM REV CT FR PLAS OPC X 90
+
+GLYCINE MAX

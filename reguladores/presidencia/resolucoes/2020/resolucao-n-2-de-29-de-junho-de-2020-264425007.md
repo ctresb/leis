@@ -1,0 +1,68 @@
+---
+titulo: "RESOLUÇÃO Nº 2, DE 29 DE JUNHO DE 2020 (*)"
+orgao: "Presidência da República/Casa Civil"
+tipo: "Resolução"
+numero: "2"
+data: 2020-06-29
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 01/07/2020, seção 1, p. 37"
+data_publicacao: 2020-07-01
+edicao: "124"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-n-2-de-29-de-junho-de-2020-*-264425007"
+sha256_html_fonte: 5d05ad75f26f31a444853cfe16c9585fa4f395549f6727722d7eeed91c174778
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO Nº 2, DE 29 DE JUNHO DE 2020 (*)
+
+CASA CIVIL
+
+RESOLUÇÃO Nº 2, DE 29 DE JUNHO DE 2020 (\*)
+
+Estabelece o fluxo, os prazos e as obrigações relacionados ao monitoramento das recomendações e dos alertas exarados pelo Tribunal de Contas da União no âmbito do Processo de Prestação de Contas do Presidente da República.
+
+**O COMITÊ INTERMINISTERIAL DE GOVERNANÇA**, no uso das atribuições que lhe foram conferidas pelo art. 9º-A do Decreto nº 9.203, de 22 de novembro de 2017, resolve:
+
+**Art. 1º** Esta Resolução estabelece o fluxo, os prazos e as obrigações relacionados ao monitoramento das recomendações e dos alertas exarados pelo Tribunal de Contas da União no âmbito do Processo de Prestação de Contas do Presidente da República, na forma do Anexo.
+
+**Art. 2º** A Casa Civil da Presidência da República será responsável, em articulação com a Controladoria-Geral da União e o Ministério da Economia e observadas as respectivas competências, por acompanhar o processo de monitoramento das recomendações e alertas expedidos pelo Tribunal de Contas da União quando da apreciação da Prestação de Contas do Presidente da República.
+
+**Art. 3º** As propostas para atendimento das recomendações e alertas aos Ministérios serão:
+
+I - analisadas pelas respectivas Assessorias Especiais de Controle Interno ou equivalentes;
+
+II - registradas em sistema eletrônico específico; e
+
+III - validadas eletronicamente pelo Ministro de Estado ou autoridade competente.
+
+**Art. 4º** No âmbito das entidades da administração indireta, as propostas para atendimento das recomendações e alertas serão:
+
+I - analisadas pelas respectivas Auditorias Internas;
+
+II - aprovadas pelo dirigente máximo da entidade;
+
+III - encaminhadas aos Ministérios a que se vinculam; e
+
+IV - validadas eletronicamente pelo Ministro de Estado ou Autoridade Competente.
+
+**Art. 5º** Os registros estabelecidos no fluxo de monitoramento serão formalizados em sistema eletrônico específico estabelecido pela Casa Civil.
+
+**Art. 6º** Esta Resolução entre em vigor em 1º de julho de 2020.
+
+PAULO ROBERTO NUNES GUEDES
+
+Ministro de Estado da Economia
+
+WAGNER DE CAMPOS ROSÁRIO
+
+Ministro de Estado da Controladoria-Geral da União
+
+WALTER SOUZA BRAGA NETTO
+
+Ministro de Estado Chefe da Casa Civil
+
+da Presidência da República
+
+<table><tr><td><p>ANEXO</p></td></tr><tr><td></td><td><p>FLUXO DE MONITORAMENTO DAS RECOMENDAÇÕES E ALERTAS DA PCPR</p></td><td><p></p></td><td><p>CRONOGRAMA GERAL</p></td></tr><tr><td><p>ITEM</p></td><td><p>AÇÃO</p></td><td><p>RESPONSABILIDADE</p></td><td><p>INÍCIO<strong>1</strong></p></td><td><p>TÉRMINO<strong>1</strong></p></td><td><p>JUN</p></td><td><p>JUL</p></td><td><p>AGO</p></td><td><p>SET</p></td><td><p>OUT</p></td><td><p>NOV</p></td><td><p>DEZ</p></td><td><p>JAN</p></td><td><p>FEV</p></td><td><p>MAR</p></td><td><p>ABR</p></td><td><p>MAI</p></td><td><p>JUN</p></td></tr><tr><td><p>00</p></td><td><p><em>SESSÃO PLENÁRIA DO TCU PARA APRECIAÇÃO DA PRESTAÇÃO DE CONTAS DO PRESIDENTE</em></p></td><td><p></p></td><td><p>0</p></td><td><p>0</p></td><td><p>XX</p></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p></p></td><td><p>Internalização</p></td><td><p></p></td><td><p>0</p></td><td><p>30</p></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p>01</p></td><td><p>Relação de todas as recomendações e alertas do Tribunal, classificadas pela Corte de Contas como objeto de monitoramento, por não terem sido consideradas integralmente atendidas, com a identificação dos órgãos responsáveis pela implementação</p></td><td><p>Casa Civil</p></td><td><p>0</p></td><td><p>7</p></td><td><p>XX</p></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p>02</p></td><td><p>Registro das recomendações e alertas emitidos a cada Ministério</p></td><td><p>Casa Civil e CGU</p></td><td><p>7</p></td><td><p>14</p></td><td><p>XX</p></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p>03</p></td><td><p>Reunião de alinhamento com os Ministérios sobre o fluxo de monitoramento, forma, responsabilidades e prazo das providências</p></td><td><p>Casa Civil</p></td><td><p>14</p></td><td><p>22</p></td><td><p>XX</p></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p>04</p></td><td><p>Calendário de reuniões com grupos específicos de Ministérios, que dependam de providências transversais;</p></td><td><p>Casa Civil</p></td><td><p>22</p></td><td><p>30</p></td><td></td><td><p>XX</p></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p></p></td><td><p>1º Ciclo de Monitoramento</p></td><td><p></p></td><td><p>30</p></td><td><p>120</p></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p>05</p></td><td><p>Registro de proposta para solução de cada recomendação/alerta de sua competência, indicando:i) providências já adotadas pela área; ii) área responsável; iii) prazo para atendimento integral ainda dentro do exercício financeiro; iv) recursos humanos e materiais necessários (e disponíveis) para atendimento integral no exercício financeiro; v) justificativas para eventuais perspectivas de não atendimento no exercício financeiro e proposta para solução definitiva, com cronograma</p></td><td><p>Ministérios</p></td><td><p>30</p></td><td><p>70</p></td><td></td><td><p>XX</p></td><td><p>XX</p></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p>06</p></td><td><p>Registro de análise acerca das propostas apresentadas pelos Ministérios</p></td><td><p>Casa Civil e CGU</p></td><td><p>70</p></td><td><p>90</p></td><td></td><td></td><td><p>XX</p></td><td><p>XX</p></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p>07</p></td><td><p>Identificação de eventuais necessidades de adequação ao cronograma de atendimento estabelecido, por meio do monitoramento das informações registradas no sistema e/ou reuniões setoriais específicas.</p></td><td><p>Casa Civil e CGU</p></td><td><p>90</p></td><td><p>100</p></td><td></td><td></td><td></td><td><p>XX</p></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p>08</p></td><td><p>Dar conhecimento aos Comitês de Governança da Casa Civil da Presidência da República (CMG-CC), da Controladoria-Geral da União (CGI-CGU) e do Ministério da Economia (CMG-ME) do nível de atendimento às recomendações e alertas, resultado do 1º Ciclo de Monitoramento</p></td><td><p>Casa Civil</p></td><td><p>100</p></td><td><p>110</p></td><td></td><td></td><td></td><td><p>XX</p></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p>09</p></td><td><p>Encaminhamento ao Tribunal de Contas da União dos resultados do 1º Ciclo de Monitoramento</p></td><td><p>Casa Civil</p></td><td><p>110</p></td><td><p>120</p></td><td></td><td></td><td></td><td><p>XX</p></td><td><p>XX</p></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p></p></td><td><p>2º Ciclo de Monitoramento</p></td><td><p></p></td><td><p>120</p></td><td><p>210</p></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p>10</p></td><td><p>Registro de proposta para solução de cada recomendação/alerta de sua competência, indicando:i) providências já adotadas pela área; ii) área responsável; iii) prazo para atendimento integral ainda dentro do exercício financeiro; iv) recursos humanos e materiais necessários (e disponíveis) para atendimento integral no exercício financeiro; v) justificativas para eventuais perspectivas de não atendimento no exercício financeiro e proposta para solução definitiva, com cronograma</p></td><td><p>Ministérios</p></td><td><p>120</p></td><td><p>160</p></td><td></td><td></td><td></td><td></td><td><p>XX</p></td><td><p>XX</p></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p>11</p></td><td><p>Registro de análise acerca das propostas apresentadas pelos Ministérios</p></td><td><p>Casa Civil e CGU</p></td><td><p>160</p></td><td><p>180</p></td><td></td><td></td><td></td><td></td><td></td><td><p>XX</p></td><td><p>XX</p></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p>12</p></td><td><p>Identificação de eventuais necessidades de adequação ao cronograma de atendimento estabelecido, por meio do monitoramento das informações registradas no sistema e/ou reuniões setoriais específicas.</p></td><td><p>Casa Civil e CGU</p></td><td><p>180</p></td><td><p>190</p></td><td></td><td></td><td></td><td></td><td></td><td></td><td><p>XX</p></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p>13</p></td><td><p>Dar conhecimento aos Comitês de Governança da Casa Civil da Presidência da República (CMG-CC), da Controladoria-Geral da União (CGI-CGU) e do Ministério da Economia (CMG-ME) do nível de atendimento às recomendações e alertas, resultado do 1º Ciclo de Monitoramento</p></td><td><p>Casa Civil</p></td><td><p>190</p></td><td><p>200</p></td><td></td><td></td><td></td><td></td><td></td><td></td><td><p>XX</p></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p>14</p></td><td><p>Encaminhamento ao Tribunal de Contas da União dos resultados do 2º Ciclo de Monitoramento</p></td><td><p>Casa Civil</p></td><td><p>200</p></td><td><p>210</p></td><td></td><td></td><td></td><td></td><td></td><td></td><td><p>XX</p></td><td><p>XX</p></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p></p></td><td><p>Subsídios à elaboração da PCPR</p></td><td><p></p></td><td><p>210</p></td><td><p>240</p></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p>15</p></td><td><p>Registro da posição consolidada das providências adotadas para o atendimento às recomendações e aos alertas da Corte de Contas, de forma a subsidiar a elaboração da Prestação de Contas do Presidente da República</p></td><td><p>Ministérios</p></td><td><p>210</p></td><td><p>230</p></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><p>XX</p></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p>16</p></td><td><p>Registro de análises acerca das providências adotadas pelos Ministérios para atendimento das recomendações e alertas</p></td><td><p>Casa Civil e CGU</p></td><td><p>230</p></td><td><p>240</p></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><p>XX</p></td><td><p>XX</p></td><td></td><td></td><td></td><td></td></tr><tr><td><p></p></td><td><p>Auditoria Financeira (BGU) e Apreciação da PCPR</p></td><td><p></p></td><td><p>240</p></td><td><p>330</p></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p>17</p></td><td><p>Identificação de eventuais pendências referentes à auditoria financeira e busca de soluções junto aos Ministérios</p></td><td><p>Casa Civil e ME</p></td><td><p>240</p></td><td><p>330</p></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><p>XX</p></td><td><p>XX</p></td><td><p>XX</p></td><td><p>XX</p></td><td></td></tr><tr><td><p>18</p></td><td><p>Audiência da Casa Civil da Presidência da República, Controladoria-Geral da União e Ministério da Economia com o Ministro-Relator/TCU das Contas do Presidente</p></td><td><p>Casa Civil, CGU e ME</p></td><td><p>330</p></td><td><p>360</p></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><p>XX</p></td><td></td></tr><tr><td><p>19</p></td><td><p>Formalização de subsídios ao acompanhamento da sessão plenária do TCU para apreciação da PCPR, pela Casa Civil da Presidência da República, pela Controladoria-Geral da União e pelo Ministério da Economia</p></td><td><p>Casa Civil</p></td><td><p>360</p></td><td><p>365</p></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><p>XX</p></td></tr><tr><td><p></p></td><td><p>SESSÃO PLENÁRIA DO TCU PARA APRECIAÇÃO DA PRESTAÇÃO DE CONTAS DO PRESIDENTE</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td><p>XX</p></td></tr><tr><td><p>Obs.:</p></td><td><p><em>1 - As datas de INÍCIO e de TÉRMINO do cronograma geral são contadas em dias a partir da sessão plenária do TCU para apreciação das Contas do Presidente</em></p></td></tr></table>
+
+(\*) Republicada por ter constado incorreção quanto ao original no DOU de 30/06/2020 seção 1 página 5.

@@ -1,0 +1,34 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.669, DE 27 SETEMBRO DE 2018"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Diretoria de Controle e Monitoramento Sanitários/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "2669"
+data: ""
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 28/09/2018, seção 1, p. 99"
+data_publicacao: 2018-09-28
+edicao: "188"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2-669-de-27-setembro-de-2018-42826057"
+sha256_html_fonte: e75440f7e51940053ced965df6182a35e9e7a7d1be4e300526603f3e1ac3d7ff
+baixado_em: 2026-10-27
+---
+# RESOLUÇÃO-RE Nº 2.669, DE 27 SETEMBRO DE 2018
+
+RESOLUÇÃO-RE Nº 2.669, DE 27 SETEMBRO DE 2018
+
+A Gerente-Geral de Inspeção e Fiscalização Sanitária, no uso das atribuições que lhe foram conferidas pela Portaria n° 749, de 4 de junho de 2018, aliado ao disposto no art. 54, I, § 1º do Regimento Interno aprovado nos termos do Anexo I da Resolução da Diretoria Colegiada - RDC nº 61, de 3 de fevereiro de 2016,
+
+considerando o art. 7º da Lei nº 6.360, de 23 de setembro de 1976;
+
+considerando o comunicado de recolhimento voluntário encaminhado pela Sandoz do Brasil Indústria Farmacêutica Ltda., em razão de distribuição ao mercado dos medicamentos listados em anexo, originalmente destinados à venda institucional, resolve:
+
+**Art. 1º** Anular a Resolução-RE nº 1.893, de 18 de julho de 2018, publicada no DOU de 19 de julho de 2018, Seção 1, pág. 34.
+
+**Art. 2º** Determinar, como medida de interesse sanitário, que a empresa promova, em todo o território nacional, o recolhimento do estoque existente no mercado dos lotes dos medicamentos listados em anexo, que contenham a expressão "Proibida venda ao comércio" e tenham sido distribuídos erroneamente ao mercado, fabricados pela empresa Sandoz do Brasil Indústria Farmacêutica Ltda. (CNPJ: 61.286.647/0001-16).
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+MARIÂNGELA TORCHIA DO NASCIMENTO
+
+<table><tr></tr><tr><td><p>Medicamento</p></td><td><p>Apresentação</p></td><td><p>Nº de registro</p></td><td><p>Nº de lote</p></td></tr><tr><td><p>DESOGESTREL</p></td><td><p>0,075 MG COMPRIMIDO REVESTIDO</p></td><td><p>1004705170010</p></td><td><p>HM2343</p></td></tr><tr><td><p>DESOGESTREL</p></td><td><p>0,075 MG COMPRIMIDO REVESTIDO</p></td><td><p>1004705170037</p></td><td><p>HR0948 E HR2494</p></td></tr><tr><td><p>MESILATO DE DOXAZOSINA</p></td><td><p>4 MG COMPRIMIDO</p></td><td><p>1004703210074</p></td><td><p>HM9574</p></td></tr><tr><td><p>AMOXICILINA + CLAVULANATO DE POTÁSSIO</p></td><td><p>(80+11,4) MG/ML PÓ PARA SUSPENSÃO ORAL</p></td><td><p>1004704310056</p></td><td><p>HN1569</p></td></tr><tr><td><p>CLORIDRATO DE CIPROFLOXACINO</p></td><td><p>500 MG COMPRIMIDO REVESTIDO</p></td><td><p>1004703510108</p></td><td><p>HP4483</p></td></tr><tr><td><p>ATENOLOL</p></td><td><p>50 MG COMPRIMIDO REVESTIDO</p></td><td><p>1004703630073</p></td><td><p>HT4278</p></td></tr><tr><td><p>BISSULFATO DE CLOPIDOGREL</p></td><td><p>75 MG COMPRIMIDO REVESTIDO</p></td><td><p>1004704240058</p></td><td><p>HM7032</p></td></tr><tr><td><p>ATENOLOL</p></td><td><p>50 MG COMPRIMIDO REVESTIDO</p></td><td><p>1004703630146</p></td><td><p>HU8895</p></td></tr><tr><td><p>AZITROMICINA</p></td><td><p>500 MG COMPRIMIDO REVESTIDO</p></td><td><p>1004704460023</p></td><td><p>HN3643</p></td></tr><tr><td><p>CITRATO DE TAMOXIFENO</p></td><td><p>10 MG COMPRIMIDO REVESTIDO</p></td><td><p>1004702800013</p></td><td><p>HR4976AA</p></td></tr><tr><td><p>MESILATO DE DOXAZOSINA</p></td><td><p>2 MG COMPRIMIDO</p></td><td><p>1004703210031</p></td><td><p>HV5186</p></td></tr><tr><td><p>MESILATO DE DOXAZOSINA</p></td><td><p>4 MG COMPRIMIDO</p></td><td><p>1004703210074</p></td><td><p>HR7899</p></td></tr><tr><td><p>LEVOFLOXACINO</p></td><td><p>500 MG COMPRIMIDO REVESTIDO</p></td><td><p>1004704340060</p></td><td><p>HN7918</p></td></tr><tr><td><p>LEVOFLOXACINO</p></td><td><p>500 MG COMPRIMIDO REVESTIDO</p></td><td><p>1004704340079</p></td><td><p>HL7206</p></td></tr><tr><td><p>ALENDRONATO DE SÓDIO</p></td><td><p>70 MG COMPRIMIDO REVESTIDO</p></td><td><p>1004704740026</p></td><td><p>HE2263AA</p></td></tr><tr><td><p>ALOPURINOL</p></td><td><p>300 MG COMPRIMIDO</p></td><td><p>1004703310079</p></td><td><p>HP7825</p></td></tr><tr><td><p>PANTOPRAZOL</p></td><td><p>20 MG COMPRIMIDO REVESTIDO</p></td><td><p>1004704560028</p></td><td><p>W13727</p></td></tr><tr><td><p>PANTOPRAZOL</p></td><td><p>20 MG COMPRIMIDO REVESTIDO</p></td><td><p>1004704560036</p></td><td><p>W05244</p></td></tr><tr><td><p>PANTOPRAZOL</p></td><td><p>40 MG COMPRIMIDO REVESTIDO</p></td><td><p>1004704560060</p></td><td><p>W13252</p></td></tr><tr><td><p>PANTOPRAZOL</p></td><td><p>40 MG COMPRIMIDO REVESTIDO</p></td><td><p>1004704560079</p></td><td><p>W10249</p></td></tr><tr><td><p>CANDESARTANA CILEXETILA</p></td><td><p>8 MG COMPRIMIDO</p></td><td><p>1004704760027</p></td><td><p>HE0093AA</p></td></tr><tr><td><p>CANDESARTANA CILEXETILA</p></td><td><p>16 MG COMPRIMIDO</p></td><td><p>1004704760051</p></td><td><p>HL6788AA</p></td></tr><tr><td><p>CITRATO DE SILDENAFILA</p></td><td><p>25 MG COMPRIMIDO</p></td><td><p>1004704790031</p></td><td><p>HV1128</p></td></tr><tr><td><p>CITRATO DE SILDENAFILA</p></td><td><p>50 MG COMPRIMIDO</p></td><td><p>1004704790082</p></td><td><p>HV5093</p></td></tr><tr><td><p>CITRATO DE SILDENAFILA</p></td><td><p>50 MG COMPRIMIDO</p></td><td><p>1004704790090</p></td><td><p>HP3692</p></td></tr><tr><td><p>CITRATO DE SILDENAFILA</p></td><td><p>50 MG COMPRIMIDO</p></td><td><p>1004704790104</p></td><td><p>HP3695</p></td></tr><tr><td><p>CITRATO DE SILDENAFILA</p></td><td><p>50 MG COMPRIMIDO</p></td><td><p>1004704790112</p></td><td><p>HV5092</p></td></tr><tr><td><p>AMOXICILINA + CLAVULANATO DE POTÁSSIO</p></td><td><p>500 MG + 125 MG COMPRIMIDO REVESTIDO</p></td><td><p>1004704570295</p></td><td><p>HP5832A</p></td></tr><tr><td><p>GESTODENO + ETINILESTRADIOL</p></td><td><p>0,06 MG + 0,015 MG COMPRIMIDO REVESTIDO</p></td><td><p>1004704750013</p></td><td><p>HV5079AA</p></td></tr><tr><td><p>AMOXICILINA + CLAVULANATO DE POTÁSSIO</p></td><td><p>50 MG/ML + 12,5 MG/ML PÓ PARA SUSPENSÃO ORAL</p></td><td><p>1004704310013</p></td><td><p>HK1857</p></td></tr><tr><td><p>BESILATO DE ANLODIPINO</p></td><td><p>5 MG COMPRIMIDO</p></td><td><p>1004705570027</p></td><td><p>HL7585</p></td></tr><tr><td><p>BESILATO DE ANLODIPINO</p></td><td><p>10 MG COMPRIMIDO</p></td><td><p>1004705570061</p></td><td><p>HT0483</p></td></tr><tr><td><p>DROSPIRENONA + ETINILESTRADIOL</p></td><td><p>3,00 MG + 0,03 MG COMPRIMIDO REVESTIDO</p></td><td><p>1004705490015</p></td><td><p>LF10166A</p></td></tr><tr><td><p>PANTOPRAZOL</p></td><td><p>20 MG COMPRIMIDO REVESTIDO</p></td><td><p>1004704560095</p></td><td><p>W16136</p></td></tr><tr><td><p>AMOXICILINA + CLAVULANATO DE POTÁSSIO</p></td><td><p>500 MG + 125 MG COMPRIMIDO REVESTIDO</p></td><td><p>1004704570295</p></td><td><p>HA7126</p></td></tr></table>

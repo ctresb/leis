@@ -1,0 +1,34 @@
+---
+titulo: "PORTARIAS DE 22 DE FEVEREIRO DE 2023"
+orgao: "Ministério das Comunicações/Secretaria de Comunicação Social Eletrônica/Departamento de Inovação, Regulamentação e Fiscalização"
+tipo: "Portaria"
+numero: ""
+data: ""
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 24/02/2023, seção 1, p. 4"
+data_publicacao: 2023-02-24
+edicao: "38"
+fonte: "https://www.in.gov.br/web/dou/-/portarias-de-22-de-fevereiro-de-2023-465822742"
+sha256_html_fonte: 5e4eb0f22e82cf3290c9d33fdee97be26515f540b435efe0538f1cd21ccd5c37
+baixado_em: 2026-10-16
+---
+# PORTARIAS DE 22 DE FEVEREIRO DE 2023
+
+PORTARIAS DE 22 DE FEVEREIRO DE 2023
+
+O DIRETOR DO DEPARTAMENTO DE INOVAÇÃO, REGULAMENTAÇÃO E FISCALIZAÇÃO, no uso de suas atribuições, observados os critérios e parâmetros estabelecidos pelas Portarias n° 112, de 22 de abril de 2013, e/ou nº 353, de 19 de janeiro de 2018, e/ou nº 294, de 30 de janeiro de 2015, e tendo em vista o que consta nos processos abaixo, resolve:
+
+**Art. 1º** Aplicar às Entidades, abaixo relacionadas, a penalidade de multa ou advertência.
+
+**Art. 2º** Estas Portarias entram em vigor na data de suas publicações.
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>N° do Processo</p></td>      <td rowspan="1" colspan="1"><p>Entidade</p></td>      <td rowspan="1" colspan="1"><p>Serviço</p></td>      <td rowspan="1" colspan="1"><p>Município</p></td>      <td rowspan="1" colspan="1"><p>UF</p></td>      <td rowspan="1" colspan="1"><p>Sanção</p></td>      <td rowspan="1" colspan="1"><p>Valor (R$)</p></td>      <td rowspan="1" colspan="1"><p>Enquadramento Legal</p></td>      <td rowspan="1" colspan="1"><p>Portaria</p></td>      <td rowspan="1" colspan="1"><p>Embasamento da Portaria de Multa</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>53000.031936/2013</p></td>      <td rowspan="1" colspan="1"><p>Fundação Brasil de Arte e Cultura</p></td>      <td rowspan="1" colspan="1"><p>FME</p></td>      <td rowspan="1" colspan="1"><p>Piraquara</p></td>      <td rowspan="1" colspan="1"><p>PR</p></td>      <td rowspan="1" colspan="1"><p>Multa</p></td>      <td rowspan="1" colspan="1"><p>1.469,39</p></td>      <td rowspan="1" colspan="1"><p>Art. 62 da Lei nº 4.117/62.</p></td>      <td rowspan="1" colspan="1"><p>Portaria DEIRF n° 6566 de 22/02/2023</p></td>      <td rowspan="1" colspan="1"><p>Portaria MC n° 294/2015</p><p>Portaria MC n° 112/2013</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>53115.009138/2020</p></td>      <td rowspan="1" colspan="1"><p>Rádio Jaraguá Ltda</p></td>      <td rowspan="1" colspan="1"><p>FM</p></td>      <td rowspan="1" colspan="1"><p>Jaraguá do Sul</p></td>      <td rowspan="1" colspan="1"><p>SC</p></td>      <td rowspan="1" colspan="1"><p>Multa</p></td>      <td rowspan="1" colspan="1"><p>7.948,95</p></td>      <td rowspan="1" colspan="1"><p>Art. 62 da Lei nº 4.117/62.</p></td>      <td rowspan="1" colspan="1"><p>Portaria DEIRF n° 6581 de 22/02/2023</p></td>      <td rowspan="1" colspan="1"><p>Portaria MC n° 353/2018</p><p>Portaria MC n° 112/2013</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>53504.006295/2019</p></td>      <td rowspan="1" colspan="1"><p>Associação Cultural Comunitária Cidade das Rosas</p></td>      <td rowspan="1" colspan="1"><p>RADCOM</p></td>      <td rowspan="1" colspan="1"><p>Cotia</p></td>      <td rowspan="1" colspan="1"><p>SP</p></td>      <td rowspan="1" colspan="1"><p>Multa</p></td>      <td rowspan="1" colspan="1"><p>630,87</p></td>      <td rowspan="1" colspan="1"><p>Art. 40, XIX, do Decreto nº 2.615/98.</p></td>      <td rowspan="1" colspan="1"><p>Portaria DEIRF n° 7156 de 22/02/2023</p></td>      <td rowspan="1" colspan="1"><p>Portaria MC n° 353/2018</p><p>Portaria MC n° 112/2013</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>53504.008820/2019</p></td>      <td rowspan="1" colspan="1"><p>Associação de Desenvolvimento Artístico, Cultural e Social Liberdade</p></td>      <td rowspan="1" colspan="1"><p>RADCOM</p></td>      <td rowspan="1" colspan="1"><p>Ipuã</p></td>      <td rowspan="1" colspan="1"><p>SP</p></td>      <td rowspan="1" colspan="1"><p>Advertência</p></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>Art. 40, XII, do Decreto nº 2.615/98.</p></td>      <td rowspan="1" colspan="1"><p>Portaria DEIRF n° 8362 de 22/02/2023</p></td>      <td rowspan="1" colspan="1"><p>Portaria MC n° 112/2013</p></td>     </tr>    </tbody>   </table>
+
+**Art. 1º** Anular as decisões exaradas pelas Portarias contidas na coluna Portaria de Sanção da tabela abaixo e arquivar os processos sem aplicação de sanção, conforme a decisão constante nas Portarias referenciadas na coluna Portaria de Anulação.
+
+**Art. 2º** As Portarias indicadas na coluna Portaria de Anulação entram em vigor na data de suas publicações.
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>N° do Processo</p></td>      <td rowspan="1" colspan="1"><p>Entidade</p></td>      <td rowspan="1" colspan="1"><p>Serviço</p></td>      <td rowspan="1" colspan="1"><p>Município</p></td>      <td rowspan="1" colspan="1"><p>UF</p></td>      <td rowspan="1" colspan="1"><p>Portaria de Sanção</p></td>      <td rowspan="1" colspan="1"><p>Portaria de Anulação</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>53520.000973/2017</p></td>      <td rowspan="1" colspan="1"><p>Rádio Regional Ltda</p></td>      <td rowspan="1" colspan="1"><p>FM</p></td>      <td rowspan="1" colspan="1"><p>Rancho Queimado</p></td>      <td rowspan="1" colspan="1"><p>SC</p></td>      <td rowspan="1" colspan="1"><p>Portaria DEIRF n° 810 de 26/03/2020 (DOU de 30/03/2020)</p></td>      <td rowspan="1" colspan="1"><p>Portaria DEIRF n° 6553 de 22/02/2023</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>53504.005824/2017</p></td>      <td rowspan="1" colspan="1"><p>Fundação Evangélica Trindade</p></td>      <td rowspan="1" colspan="1"><p>FME</p></td>      <td rowspan="1" colspan="1"><p>Jundiaí</p></td>      <td rowspan="1" colspan="1"><p>SP</p></td>      <td rowspan="1" colspan="1"><p>Portaria DEIRF n° 1072 de 26/03/2020 (DOU de 30/03/2020)</p></td>      <td rowspan="1" colspan="1"><p>Portaria DEIRF n° 6555 de 22/02/2023</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>53504.001665/2017</p></td>      <td rowspan="1" colspan="1"><p>Associação Comunitária Central de Araraquara</p></td>      <td rowspan="1" colspan="1"><p>RADCOM</p></td>      <td rowspan="1" colspan="1"><p>Araraquara</p></td>      <td rowspan="1" colspan="1"><p>SP</p></td>      <td rowspan="1" colspan="1"><p>Portaria DEIRF n° 703 de 13/03/2020 (DOU de 18/03/2020)</p></td>      <td rowspan="1" colspan="1"><p>Portaria DEIRF n° 6794 de 22/02/2023</p></td>     </tr>    </tbody>   </table>
+
+TAWFIC AWWAD JUNIOR

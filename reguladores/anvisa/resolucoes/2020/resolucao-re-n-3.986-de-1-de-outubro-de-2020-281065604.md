@@ -1,0 +1,144 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.986, DE 1º DE OUTUBRO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Terceira Diretoria/Gerência-Geral de Toxicologia"
+tipo: "Resolução"
+numero: "3986"
+data: 2020-10-01
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 05/10/2020, seção 1, p. 161"
+data_publicacao: 2020-10-05
+edicao: "191"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.986-de-1-de-outubro-de-2020-281065604"
+sha256_html_fonte: 510dcccea8289dc511d715d2901e0c5103a67ff8d60401271bd1e78e051049c3
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 3.986, DE 1º DE OUTUBRO DE 2020
+
+RESOLUÇÃO-RE Nº 3.986, DE 1º DE OUTUBRO DE 2020
+
+O Gerente-Geral de Toxicologia no uso das atribuições que lhe confere o art. 149, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º** Aprovar os atos de avaliação toxicológica para fins de registro de produtos agrotóxicos, componentes e afins, identificados no anexo, com o respectivo resultado da análise.
+
+**Art. 2º** A publicação do extrato deste informe de avaliação toxicológica não exime a requerente do cumprimento das demais avaliações procedidas pelos órgãos responsáveis pelas áreas de agricultura e de meio ambiente, conforme legislação vigente no país, aplicável ao objeto do requerimento.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+CARLOS ALEXANDRE OLIVEIRA GOMES
+
+## ANEXO
+
+RAZÃO SOCIAL/CNPJ
+
+MARCA COMERCIAL
+
+NÚMERO DO PROCESSO
+
+PETIÇÃO(ÕES)/EXPEDIENTE(S)
+
+CLASSIFICAÇÃO TOXICOLÓGICA
+
+-----------------------------
+
+BAYER S.A. / 18.459.628/0001-15
+
+THIENCARBAZONE METHYL TECNICO
+
+25351.124820/2009-02
+
+5003 - PRODUTO TÉCNICO NOVO - AVALIAÇÃO TOXICOLÓGICA DE PRODUTO COM INGREDIENTE ATIVO AINDA NÃO REGISTRADO NO PAÍS, 161125/09-9
+
+PRODUTO TÉCNICO
+
+-----------------------------
+
+BIOTROP SOLUÇÕES BIOLÓGICAS LTDA / 30.284.246/0001-01
+
+BOMBARDEIRO
+
+25351.697884/2020-12
+
+5086 - PRODUTO MICROBIOLÓGICO - AVALIAÇÃO TOXICOLÓGICA DE PRODUTO COM INGREDIENTE ATIVO MICROBIOLÓGICO JÁ REGISTRADO NO PAÍS, 2372127/20-9
+
+CATEGORIA 5 - PRODUTO IMPROVÁVEL DE CAUSAR DANO AGUDO
+
+-----------------------------
+
+KOPPERT DO BRASIL HOLDING LTDA / 11.074.190/0001-08
+
+BOVERIL PLUS
+
+25351.417240/2019-17
+
+5086 - PRODUTO MICROBIOLÓGICO - AVALIAÇÃO TOXICOLÓGICA DE PRODUTO COM INGREDIENTE ATIVO MICROBIOLÓGICO JÁ REGISTRADO NO PAÍS, 0638728/19-4
+
+CATEGORIA 5 - PRODUTO IMPROVÁVEL DE CAUSAR DANO AGUDO
+
+-----------------------------
+
+NOOA CIENCIA E TECNOLOGIA LTDA / 26.142.665/0001-23
+
+BETTUS ORG
+
+25351.587637/2020-09
+
+5064 - PRODUTO FITOSSANITÁRIO APROVADO PARA AGRICULTURA ORGÂNICA - AVALIAÇÃO TOXICOLÓGICA DE PRODUTO BASEADO EM ESPECIFICAÇÃO DE REFERÊNCIA, 2023321/20-4
+
+CATEGORIA 5 - PRODUTO IMPROVÁVEL DE CAUSAR DANO AGUDO
+
+-----------------------------
+
+NORTOX S/A / 75.263.400/0001-99
+
+AZOXY
+
+25351.127108/2014-55
+
+5065 - PRODUTO FORMULADO COM BASE EM PRODUTO TÉCNICO EQUIVALENTE, 0172446/14-1
+
+CATEGORIA 5 - PRODUTO IMPROVÁVEL DE CAUSAR DANO AGUDO
+
+AZOXISTROBIN NORTOX
+
+25351.175301/2013-78
+
+5065 - PRODUTO FORMULADO COM BASE EM PRODUTO TÉCNICO EQUIVALENTE, 0249250/13-4
+
+CATEGORIA 5 - PRODUTO IMPROVÁVEL DE CAUSAR DANO AGUDO
+
+-----------------------------
+
+PRENTISS QUÍMICA LTDA / 00.729.422/0001-00
+
+PRIMUM
+
+25351.348582/2017-02
+
+5065 - PRODUTO FORMULADO COM BASE EM PRODUTO TÉCNICO EQUIVALENTE, 1258217/17-0
+
+CATEGORIA 4 - PRODUTO POUCO TÓXICO
+
+-----------------------------
+
+TOPBIO - INSUMOS BIOLÓGICOS INDÚSTRIA E COMÉRCIO LTDA. / 22.296.945/0001-35
+
+CRISOP
+
+25351.713651/2020-66
+
+5064 - PRODUTO FITOSSANITÁRIO APROVADO PARA AGRICULTURA ORGÂNICA - AVALIAÇÃO TOXICOLÓGICA DE PRODUTO BASEADO EM ESPECIFICAÇÃO DE REFERÊNCIA, 2418131/20-3
+
+NÃO CLASSIFICADO
+
+-----------------------------
+
+YONON BIOCIENCIAS E DEFENSIVOS AGRICOLAS LTDA / 24.941.471/0001-62
+
+OFFER 200 SL
+
+25351.493530/2015-73
+
+5065 - PRODUTO FORMULADO COM BASE EM PRODUTO TÉCNICO EQUIVALENTE, 0716602/15-8
+
+CATEGORIA 3 - PRODUTO MODERADAMENTE TÓXICO - FAIXA AMARELA

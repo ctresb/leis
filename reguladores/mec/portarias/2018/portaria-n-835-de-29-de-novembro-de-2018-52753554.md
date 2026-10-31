@@ -1,0 +1,36 @@
+---
+titulo: "PORTARIA Nº 835, DE 29 de novembro de 2018"
+orgao: "Ministério da Educação/Secretaria de Regulação e Supervisão da Educação Superior"
+tipo: "Portaria"
+numero: "835"
+data: 2018-11-29
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 30/11/2018, seção 1, p. 52"
+data_publicacao: 2018-11-30
+edicao: "230"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-835-de-29-de-novembro-de-2018-52753554"
+sha256_html_fonte: 7360df4371ac17f265ac3af570079560a12d64ca8c8f45873a1d88500b84f94f
+baixado_em: 2026-10-27
+---
+# PORTARIA Nº 835, DE 29 de novembro de 2018
+
+PORTARIA Nº 835, DE 29 de novembro de 2018
+
+O SECRETÁRIO DE REGULAÇÃO E SUPERVISÃO DA EDUCAÇÃO SUPERIOR, no uso da atribuição que lhe confere o Decreto nº 9.005, de 14 de março de 2017, e tendo em vista os Decretos n° 9.235, de 15 de dezembro de 2017 e n° 9.057, de 25 de maio de 2017, as Portarias MEC n°s 20 e 23, de 21 de dezembro de 2017,e n° 11, de 22 de junho de 2017, e conforme consta dos processos e-MEC listados na planilha anexa, , resolve
+
+**Art. 1º** Ficam autorizados os cursos superiores na modalidade a distância, relacionados no Anexo desta Portaria, com as vagas totais anuais nele estabelecidas, nos termos do disposto no art. 10, do Decreto n° 9.235, de 2017.
+
+**Art. 2º** Os endereços utilizados para as atividades presenciais dos cursos neste ato autorizados são, exclusivamente, aqueles constantes do PDI e PPC, nos termos do Art. 4º do Decreto nº 9.057, de 2017.
+
+**Art. 3º** As instituições deverão solicitar reconhecimento dos cursos, neste ato autorizados, nos termos do art. 46 do Decreto nº 9.235, de 2017.
+
+**Art. 4º** Esta portaria entra em vigor na data de sua publicação.
+
+SILVIO JOSÉ CECCHI
+
+## ANEXO
+
+(Autorização de Cursos EaD)
+
+<table><tr></tr><tr><td><p>Nº de Ordem</p></td><td><p>Registro e-MEC nº</p></td><td><p>Curso</p></td><td><p>Nº de vagas totais anuais</p></td><td><p>Mantida</p></td><td><p>Mantenedora</p></td><td><p>Endereço de funcionamento do curso</p></td></tr><tr><td><p>1</p></td><td><p>201808078</p></td><td><p>HISTÓRIA (Licenciatura)</p></td><td><p>500 (quinhentas)</p></td><td><p>FACULDADE ARAGUAIA</p></td><td><p>SOCIEDADE DE EDUCACAO E CULTURA DE GOIAS S/C LTDA</p></td><td><p>AVENIDA T-10, 1047, UNIDADE BUENO, SETOR BUENO, GOIÂNIA/GO</p></td></tr><tr><td><p>2</p></td><td><p>201703359</p></td><td><p>HISTÓRIA (Licenciatura)</p></td><td><p>500 (quinhentas)</p></td><td><p>FACULDADE CAMPUS ELÍSEOS</p></td><td><p>INSTITUTO DE ENSINO MEDIO E SUPERIOR FRANCOIS MARIE AROUET LTDA - ME</p></td><td><p>RUA VITORINO CARMILO, 644, CASA, CAMPOS ELÍSIOS, SÃO PAULO/SP</p></td></tr><tr><td><p>3</p></td><td><p>201703069</p></td><td><p>LOGÍSTICA (Tecnológico)</p></td><td><p>500 (quinhentas)</p></td><td><p>FACULDADE CAMPUS ELÍSEOS</p></td><td><p>INSTITUTO DE ENSINO MEDIO E SUPERIOR FRANCOIS MARIE AROUET LTDA - ME</p></td><td><p>RUA VITORINO CARMILO, 644, CASA, CAMPOS ELÍSIOS, SÃO PAULO/SP</p></td></tr><tr><td><p>4</p></td><td><p>201807975</p></td><td><p>HISTÓRIA (Licenciatura)</p></td><td><p>800 (oitocentas)</p></td><td><p>FACULDADE CATÓLICA PAULISTA</p></td><td><p>ASSOCIACAO EDUCACIONAL LATINO AMERICANA</p></td><td><p>RUA COMENDADOR FRAGATA, 58, - ATÉ 570/571, FRAGATA, MARÍLIA/SP</p></td></tr><tr><td><p>5</p></td><td><p>201713065</p></td><td><p>JORNALISMO (Bacharelado)</p></td><td><p>130 (cento e trinta)</p></td><td><p>FACULDADE CATÓLICA PAULISTA</p></td><td><p>ASSOCIACAO EDUCACIONAL LATINO AMERICANA</p></td><td><p>RUA COMENDADOR FRAGATA, 58, - ATÉ 570/571, FRAGATA, MARÍLIA/SP</p></td></tr><tr><td><p>6</p></td><td><p>201712081</p></td><td><p>TEOLOGIA (Bacharelado)</p></td><td><p>130 (cento e trinta)</p></td><td><p>FACULDADE CATÓLICA PAULISTA</p></td><td><p>ASSOCIACAO EDUCACIONAL LATINO AMERICANA</p></td><td><p>RUA COMENDADOR FRAGATA, 58, - ATÉ 570/571, FRAGATA, MARÍLIA/SP</p></td></tr><tr><td><p>7</p></td><td><p>201807915</p></td><td><p>GESTÃO DE RECURSOS HUMANOS (Tecnológico)</p></td><td><p>500 (quinhentas)</p></td><td><p>FACULDADE CESUSC</p></td><td><p>CESUSC - COMPLEXO DE ENSINO SUPERIOR DE SANTA CATARINA LTDA</p></td><td><p>RODOVIA SC 401, KM 10, S/N, TREVO DE SANTO ANTÔNIO DE LISBOA, SANTO ANTÔNIO DE LISBOA, FLORIANÓPOLIS/SC</p></td></tr><tr><td><p>8</p></td><td><p>201807902</p></td><td><p>PEDAGOGIA (Licenciatura)</p></td><td><p>500 (quinhentas)</p></td><td><p>FACULDADE CESUSC</p></td><td><p>CESUSC - COMPLEXO DE ENSINO SUPERIOR DE SANTA CATARINA LTDA</p></td><td><p>RODOVIA SC 401, KM 10, S/N, TREVO DE SANTO ANTÔNIO DE LISBOA, SANTO ANTÔNIO DE LISBOA, FLORIANÓPOLIS/SC</p></td></tr><tr><td><p>9</p></td><td><p>201712947</p></td><td><p>PEDAGOGIA (Licenciatura)</p></td><td><p>600 (seiscentas)</p></td><td><p>FACULDADE CIDADE DE JOÃO PINHEIRO</p></td><td><p>ASSOCIACAO EDUCACIONAL DE JOAO PINHEIRO</p></td><td><p>RUA DONA LUIZA, 145, CENTRO, PATOS DE MINAS/MG</p><p>AVENIDA ZICO DORNELAS, 380, SANTA CRUZ II, JOÃO PINHEIRO/MG</p></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td><p>AVENIDA ADOLFO TIMÓTEO DA SILVA, 433, NOVO, COROMANDEL/MG</p></td></tr><tr><td><p>10</p></td><td><p>201713725</p></td><td><p>LOGÍSTICA (Tecnológico)</p></td><td><p>300 (trezentas)</p></td><td><p>FACULDADE DE TECNOLOGIA FAESA</p></td><td><p>JAPANN SERVICOS EDUCACIONAIS LTDA</p></td><td><p>RUA ANSELMO SERRAT, 199, MONTE BELO, VITÓRIA/ES</p></td></tr><tr><td><p>11</p></td><td><p>201713181</p></td><td><p>ESTÉTICA E COSMÉTICA (Tecnológico)</p></td><td><p>10000 (dez mil)</p></td><td><p>FACULDADE DE TEOLOGIA, FILOSOFIA E CIÊNCIAS HUMANAS GAMALIEL</p></td><td><p>CECAM - CENTRO EDUCACIONAL E CULTURAL DA AMAZONIA - EPP</p></td><td><p>RUA DONA FRANCISCA, 934, SAGUAÇU, JOINVILLE/SC</p><p>AV. SÃO PAULO, 1982, AVIAÇÃO, ABAETETUBA/PA</p></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td><p>RUA J, S/N, CENTRO, CANAÃ DOS CARAJÁS/PA</p></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td><p>TRAV. CASTELO BRANCO, 1417, SÃO BRÁZ, BELÉM/PA</p><p>AV. FLORIANÓPOLIS, 76, BAIRRO NOVO, TAILÂNDIA/PA</p><p>FOLHA 28, QD.22, 09, NOVA MARABÁ,</p></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td><p>MARABÁ/PA</p><p>TRAVESSA PAULA MARQUES, S/N, ESQUINA COM ERNESTO ACIOLE, CENTRO,ALTAMIRA/PA</p></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td><p>RUA GAMALIEL, 11, JARDIM MARILUCY, TUCURUÍ/PA</p><p>RUA FORTALEZA, S/N, JARDIM BELA VISTA, PARAGOMINAS/PA</p></td></tr><tr><td><p>12</p></td><td><p>201809409</p></td><td><p>PEDAGOGIA (Licenciatura)</p></td><td><p>100 (cem)</p></td><td><p>FACULDADE FAMART</p></td><td><p>FACULDADE E INSTITUTO MARTINS LTDA - EPP</p></td><td><p>RUA OSÓRIO SANTOS, 207, NOGUEIRA MACHADO, ITAÚNA/MG</p></td></tr><tr><td><p>13</p></td><td><p>201807885</p></td><td><p>FÍSICA (Licenciatura)</p></td><td><p>3000 (três mil)</p></td><td><p>FACULDADE ÚNICA DE IPATINGA</p></td><td><p>UNICA EDUCACIONAL LTDA</p></td><td><p>RUA SALERMO, 299, BETHÂNIA, IPATINGA/MG</p></td></tr><tr><td><p>14</p></td><td><p>201807889</p></td><td><p>HISTÓRIA (Licenciatura)</p></td><td><p>3000 (três mil)</p></td><td><p>FACULDADE ÚNICA DE IPATINGA</p></td><td><p>UNICA EDUCACIONAL LTDA</p></td><td><p>RUA SALERMO, 299, BETHÂNIA, IPATINGA/MG</p></td></tr></table>

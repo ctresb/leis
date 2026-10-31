@@ -1,0 +1,46 @@
+---
+titulo: "PORTARIA Nº 25, DE 15 DE ABRIL DE 2016"
+orgao: "Ministério do Meio Ambiente/INSTITUTO CHICO MENDES DE CONSERVAÇÃO DA BIODIVERSIDADE"
+tipo: "Portaria"
+numero: "25"
+data: 2016-04-15
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 18/04/2016, seção 1, p. 100"
+data_publicacao: 2016-04-18
+edicao: "73"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-25-de-15-de-abril-de-2016-22676009"
+sha256_html_fonte: a83acabbfc2eb3d0ee8262e7fe803ccdf4e4b27eb9b4300bc4e0c182d95db8f0
+baixado_em: 2026-10-28
+---
+# PORTARIA Nº 25, DE 15 DE ABRIL DE 2016
+
+PORTARIA Nº 25, DE 15 DE ABRIL DE 2016
+
+Cria a Reserva Particular do PatrimônioNatural - RPPN Vilar. (Processo n°02070.003399/2013-13)
+
+O PRESIDENTE DO INSTITUTO CHICO MENDES DECONSERVAÇÃO DA BIODIVERSIDADE, no uso das competênciasatribuídas pelo artigo 21 do Decreto nº. 7.515, de 08 de julho de2011, pela Portaria nº. 899/Casa Civil, de 14 de maio de 2015,publicada no Diário Oficial da União de 15 de maio de 2015,
+
+Considerando o disposto no art. 21 da Lei nº 9.985, de 18 dejulho de 2000, que instituiu o Sistema Nacional de Unidades deConservação da Natureza; no Decreto nº 4.340, de 22 de agosto de2002, que o regulamenta; no Decreto nº 5.746, de 05 de abril de2006, que regulamenta a categoria de unidade de conservação de usosustentável, Reserva Particular do Patrimônio Natural - RPPN; e naInstrução Normativa ICMBio nº 07, de 17 de dezembro de 2009; e,
+
+Considerando as proposições apresentadas no Processo ICMBio/MMAn° 02070.003399/2013-13, resolve:
+
+**Art. 1º** Fica criada a Reserva Particular do Patrimônio Natural- RPPN VILAR, de interesse público e em caráter de perpetuidade,em parte do imóvel denominado Vilar do Boi, situado noMunicípio de Jaguariaíva, no Estado do Paraná, matriculado no registrode imóveis da comarca de Jaguariaíva/PR, sob a matrícula nº.3.058, registro número 3 do livro de registro geral nº 2, em 08 demarço de 1982.
+
+**Art. 2º** A RPPN Vilar inicia-se a descrição do perímetro novértice inicia-se no Ponto 1 de coordenadas N 7281758,14 e E639465,25 Rio, segue até o Ponto 2 de coordenadas N 7281659,92 eE 640007,89 Seca, segue até o Ponto 3 de coordenadas N 7279802,21e E 639979,10 Rio, segue até o Ponto 4 de coordenadas N7279805,02 e E 639949,11 Rio, segue até o Ponto 5 de coordenadasN 7279815,54 e E 639926,29 Rio, segue até o Ponto 6 de coordenadasN 7279832,54 e E 639910,35 Rio, segue até o Ponto 7 decoordenadas N 7279870,91 e E 639888,00 Rio, segue até o Ponto 8de coordenadas N 7279891,01 e E 639872,40 Rio, segue até o Ponto9 de coordenadas N 7279916,61 e E 639858,46 Rio, segue até oPonto 10 de coordenadas N 7279930,71 e E 639846,59 Rio, segue atéo Ponto 11 de coordenadas N 7279938,22 e E 639832,05 Rio, segueaté o Ponto 12 de coordenadas N 7279939,05 e E 639818,55 Rio,segue até o Ponto 13 de coordenadas N 7279930,17 e E 639804,41Rio, segue até o Ponto 14 de coordenadas N 7279923,47 e E639800,41 Rio, segue até o Ponto 15 de coordenadas N 7279898,90e E 639795,77 Rio, segue até o Ponto 16 de coordenadas N7279886,85 e E 639783,45 Rio, segue até o Ponto 17 de coordenadasN 7279878,90 e E 639756,75 Rio, segue até o Ponto 18 de coordenadasN 7279879,99 e E 639737,19 Rio, segue até o Ponto 19 decoordenadas N 7279885,94 e E 639721,85 Rio, segue até o Ponto 20de coordenadas N 7279897,49 e E 639710,47 Rio, segue até o Ponto21 de coordenadas N 7279928,55 e E 639703,22 Rio, segue até oPonto 22 de coordenadas N 7279941,68 e E 639691,01 Rio, segue atéo Ponto 23 de coordenadas N 7279949,36 e E 639673,28 Rio, segueaté o Ponto 24 de coordenadas N 7279956,28 e E 639635,19 Rio,segue até o Ponto 25 de coordenadas N 7279971,69 e E 639599,53Rio, segue até o Ponto 26 de coordenadas N 7279983,97 e E639578,25 Rio, segue até o Ponto 27 de coordenadas N 7280015,59e E 639544,13 Rio, segue até o Ponto 28 de coordenadas N7280046,00 e E 639517,60 Rio, segue até o Ponto 29 de coordenadasN 7280077,89 e E 639497,07 Rio, segue até o Ponto 30 de co-
+
+ordenadas N 7280088,12 e E 639485,96 Rio, segue até o Ponto 31 decoordenadas N 7280105,93 e E 639475,81 Rio, segue até o Ponto 32de coordenadas N 7280128,63 e E 639471,73 Rio, segue até o Ponto33 de coordenadas N 7280152,21 e E 639480,09 Rio, segue até oPonto 34 de coordenadas N 7280198,04 e E 639489,25 Rio, segue atéo Ponto 35 de coordenadas N 7280227,51 e E 639486,71 Rio, segueaté o Ponto 36 de coordenadas N 7280241,85 e E 639479,55 Rio,segue até o Ponto 37 de coordenadas N 7280250,05 e E 639467,63Rio, segue até o Ponto 38 de coordenadas N 7280253,25 e E639450,57 Rio, segue até o Ponto 39 de coordenadas N 7280246,07e E 639418,45 Rio, segue até o Ponto 40 de coordenadas N7280246,59 e E 639408,81 Rio, segue até o Ponto 41 de coordenadasN 7280264,62 e E 639364,06 Rio, segue até o Ponto 42 de coordenadasN 7280288,11 e E 639331,81 Rio, segue até o Ponto 43 decoordenadas N 7280295,53 e E 639327,13 Rio, segue até o Ponto 44de coordenadas N 7280311,25 e E 639324,01 Rio, segue até o Ponto45 de coordenadas N 7280319,61 e E 639326,21 Rio, segue até oPonto 46 de coordenadas N 7280403,60 e E 639348,27 Rio, segue atéo Ponto 47 de coordenadas N 7280439,52 e E 639362,06 Rio, segueaté o Ponto 48 de coordenadas N 7280486,60 e E 639391,50 Rio,segue até o Ponto 49 de coordenadas N 7280497,15 e E 639402,35Rio, segue até o Ponto 50 de coordenadas N 7280506,19 e E639418,06 Rio, segue até o Ponto 51 de coordenadas N 7280548,07e E 639476,75 Rio, segue até o Ponto 52 de coordenadas N7280579,83 e E 639514,28 Rio, segue até o Ponto 53 de coordenadasN 7280590,20 e E 639537,75 Rio, segue até o Ponto 54 de coordenadasN 7280594,84 e E 639574,13 Rio, segue até o Ponto 55 decoordenadas N 7280601,45 e E 639586,55 Rio, segue até o Ponto 56de coordenadas N 7280620,36 e E 639594,18 Rio, segue até o Ponto57 de coordenadas N 7280659,36 e E 639600,37 Rio, segue até oPonto 58 de coordenadas N 7280737,44 e E 639619,93 Rio, segue atéo Ponto 59 de coordenadas N 7280748,95 e E 639610,16 Rio, segueaté o Ponto 60 de coordenadas N 7280758,89 e E 639543,12 Rio,segue até o Ponto 61 de coordenadas N 7280764,42 e E 639523,89Rio, segue até o Ponto 62 de coordenadas N 7280777,57 e E639499,24 Rio, segue até o Ponto 63 de coordenadas N 7280788,83e E 639487,64 Rio, segue até o Ponto 64 de coordenadas N7280805,26 e E 639480,90 Rio, segue até o Ponto 65 de coordenadasN 7280815,01 e E 639480,75 Rio, segue até o Ponto 66 de coordenadasN 7280840,36 e E 639485,99 Rio, segue até o Ponto 67 decoordenadas N 7280889,04 e E 639503,02 Rio, segue até o Ponto 68de coordenadas N 7280897,35 e E 639503,43 Rio, segue até o Ponto69 de coordenadas N 7280902,92 e E 639499,82 Rio, segue até oPonto 70 de coordenadas N 7280904,29 e E 639498,94 Rio, segue atéo Ponto 71 de coordenadas N 7280904,52 e E 639483,08 Rio, segueaté o Ponto 72 de coordenadas N 7280890,19 e E 639435,96 Rio,segue até o Ponto 73 de coordenadas N 7280888,70 e E 639419,40Rio, segue até o Ponto 74 de coordenadas N 7280897,03 e E639378,14 Rio, segue até o Ponto 75 de coordenadas N 7280907,13e E 639353,92 Rio, segue até o Ponto 76 de coordenadas N7280917,91 e E 639341,36 Rio, segue até o Ponto 77 de coordenadasN 7280931,97 e E 639334,11 Rio, segue até o Ponto 78 de coordenadasN 7280993,51 e E 639320,84 Rio, segue até o Ponto 79 decoordenadas N 7281009,24 e E 639316,77 Rio, segue até o Ponto 80de coordenadas N 7281037,14 e E 639316,78 Rio, segue até o Ponto81 de coordenadas N 7281124,32 e E 639341,44 Rio, segue até oPonto 82 de coordenadas N 7281177,39 e E 639352,71 Rio, segue atéo Ponto 83 de coordenadas N 7281261,40 e E 639358,49 Rio, segueaté o Ponto 84 de coordenadas N 7281297,43 e E 639365,51 Rio,segue até o Ponto 85 de coordenadas N 7281323,27 e E 639376,10Rio, segue até o Ponto 86 de coordenadas N 7281382,12 e E639409,10 Rio, segue até o Ponto 87 de coordenadas N 7281389,35e E 639413,16 Rio, segue até o Ponto 88 de coordenadas N7281417,49 e E 639423,41 Rio, segue até o Ponto 89 de coordenadasN 7281441,12 e E 639427,85 Rio, segue até o Ponto 90 de coordenadasN 7281533,53 e E 639434,81 Rio, segue até o Ponto 91 decoordenadas N 7281591,46 e E 639446,44 Rio, segue até o Ponto 92de coordenadas N 7281604,14 e E 639455,60 Rio, segue até o Ponto93 de coordenadas N 7281632,41 e E 639490,21 Rio, segue até oPonto 94 de coordenadas N 7281647,48 e E 639498,46 Rio, segue atéo Ponto 95 de coordenadas N 7281674,49 e E 639498,16 Rio, segueaté o Ponto 96 de coordenadas N 7281688,87 e E 639497,99 Rio,segue até o Ponto 97 de coordenadas N 7281713,06 e E 639490,31Rio, segue até o Ponto 98 de coordenadas N 7281753,66 e E639470,73 Rio, seguindo até o Ponto 1, ponto inicial da descriçãodeste perímetro.
+
+**Art. 3º** A RPPN Vilar será administrada por João FernandesPires e Maria Aparecida Pires.
+
+**Parágrafo único.** Os administradores referidos no caput serãoresponsáveis pelo cumprimento das exigências contidas na Lei nº9.985, de 18 de julho de 2000, e no Decreto n.º 5.746, de 05 de abrilde 2006.
+
+**Art. 4º** As condutas e atividades lesivas à área reconhecidacomo RPPN criada sujeitarão os infratores às sanções cabíveis previstasna Lei n° 9.605, de 12 de fevereiro de 1998, e no Decreto n°6.514, de 22 de julho de 2008.
+
+**Art. 5o** Esta Portaria entra em vigor na data de sua publicação.
+
+CLAUDIO CARRERA MARETTI
+
+CLAUDIO CARRERA MARETTI
+
+Este conteúdo não substitui o publicado na versão certificada.

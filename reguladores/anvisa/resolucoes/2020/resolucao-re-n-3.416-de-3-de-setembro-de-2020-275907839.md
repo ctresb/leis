@@ -1,0 +1,250 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.416, DE 3 DE SETEMBRO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "3416"
+data: 2020-09-03
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 04/09/2020, seção 1, p. 122"
+data_publicacao: 2020-09-04
+edicao: "171"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.416-de-3-de-setembro-de-2020-275907839"
+sha256_html_fonte: ab891eb8dc445354dc50e0e114dc743d1d9190259c81bc7ad50efcf70f76a335
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 3.416, DE 3 DE SETEMBRO DE 2020
+
+RESOLUÇÃO-RE Nº 3.416, DE 3 DE SETEMBRO DE 2020
+
+A Coordenadora de Autorização de Funcionamento de Empresas, no uso das atribuições que lhe confere o art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º** Conceder Autorização de Funcionamento para os estabelecimentos de Farmácias e Drogarias, em conformidade com o anexo desta Resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+PATRICIA AZEVEDO CHAGAS
+
+## ANEXO
+
+DROGARIOS COMERCIO DE MEDICAMENTOS LTDA / 37.257.345/0001-35
+
+25351.857310/2020-00 / 7743981
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2849289207
+
+--------------------------------------
+
+HIPER FARMA LTDA / 29.474.162/0026-00
+
+25351.862089/2020-01 / 7744041
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2861274204
+
+--------------------------------------
+
+J M ALVES DA SILVA COMERCIO DE PRODUTOS FARMACEUTICOS EIRELI / 40.863.284/0001-64
+
+25351.844593/2020-11 / 7743841
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2807102206
+
+--------------------------------------
+
+J K DA SILVA CAVALCANTE / 37.494.609/0001-74
+
+25351.862087/2020-12 / 7744023
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2861270201
+
+--------------------------------------
+
+DROGARIA SAO MIGUEL DE MERITI LTDA EPP / 17.221.932/0001-67
+
+25351.862094/2020-14 / 7744071
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2861286208
+
+--------------------------------------
+
+ALDENOR NASCIMENTO DE SOUZA JUNIOR / 36.338.327/0001-15
+
+25351.862129/2020-15 / 7743932
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2861316203
+
+--------------------------------------
+
+DROGARIA SAO PAULO S/A / 61.412.110/1077-07
+
+25351.844588/2020-17 / 7743807
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2807092205
+
+--------------------------------------
+
+DROGARIA BELA FARMA LTDA / 34.548.709/0001-48
+
+25351.862127/2020-18 / 7743929
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2861312201
+
+--------------------------------------
+
+CHEILA JUVINO DE SOUZA / 36.124.903/0001-21
+
+25351.862132/2020-21 / 7743963
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2861322208
+
+--------------------------------------
+
+FARMACIA MACHADO LTDA / 37.629.799/0001-90
+
+25351.844591/2020-22 / 7743824
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2807098204
+
+--------------------------------------
+
+COMERCIO DE MEDICAMENTOS BRAIR LTDA / 88.212.113/0875-40
+
+25351.862100/2020-25 / 7743869
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2861298201
+
+--------------------------------------
+
+FARMÁCIA E DROGARIA NISSEI S.A / 79.430.682/0351-80
+
+25351.860840/2020-27 / 7744010
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2859244201
+
+--------------------------------------
+
+LINS FARMA - EIRELI / 37.283.385/0001-51
+
+25351.862090/2020-28 / 7744054
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2861276201
+
+--------------------------------------
+
+D. GUIMARAES LTDA / 37.932.080/0001-23
+
+25351.862123/2020-30 / 7743890
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2861304200
+
+--------------------------------------
+
+FARMACIA MAIS VIDA LTDA / 37.335.208/0001-71
+
+25351.862130/2020-31 / 7743946
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2861318200
+
+--------------------------------------
+
+FARMACIA SM LTDA / 00.720.496/0008-44
+
+25351.857313/2020-35 / 7744006
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2849295201
+
+--------------------------------------
+
+VENANCIO PRODUTOS FARMACEUTICOS LTDA / 00.285.753/0096-51
+
+25351.862099/2020-39 / 7743855
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2861296205
+
+--------------------------------------
+
+DROGARIA SAUDE VITA DE AUSTIN LTDA / 26.703.922/0001-59
+
+25351.862121/2020-41 / 7743872
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2861300207
+
+--------------------------------------
+
+FARMACIA SAO BENEDITO / 37.289.024/0001-12
+
+25351.857311/2020-46 / 7743994
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2849291209
+
+--------------------------------------
+
+V CARVALHO BATISTA PRODUTOS FARMACEUTICOS LTDA / 31.101.681/0001-08
+
+25351.862088/2020-59 / 7744037
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2861272208
+
+--------------------------------------
+
+DROGARIA MAIS EM CONTA CAXIAS LTDA / 37.365.513/0001-06
+
+25351.862091/2020-72 / 7744068
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2861280209
+
+--------------------------------------
+
+E A C DE ALMEIDA DROGARIA LTDA / 35.760.965/0001-67
+
+25351.862126/2020-73 / 7743915
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2861310204
+
+--------------------------------------
+
+DROGARIA BIG MED SOLAR VILLE LTDA / 35.343.960/0001-39
+
+25351.844592/2020-77 / 7743838
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2807100200
+
+--------------------------------------
+
+farmacia e drogaria alves ltda / 33.860.207/0001-95
+
+25351.857309/2020-77 / 7743977
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2849287201
+
+--------------------------------------
+
+FARMACIA MAIS POPULAR SANTA ROSA EIRELI / 35.280.828/0001-25
+
+25351.862124/2020-84 / 7743901
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2861306206
+
+--------------------------------------
+
+MOF FARMACIA EIRELI / 27.273.037/0001-40
+
+25351.862131/2020-86 / 7743950
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2861320201
+
+--------------------------------------
+
+DROGARIA JADI EIRELI / 37.313.786/0001-07
+
+25351.844590/2020-88 / 7743811
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2807096208
+
+--------------------------------------
+
+HIPER FARMA LTDA / 29.474.162/0040-50
+
+25351.862122/2020-95 / 7743886
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2861302203

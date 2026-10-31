@@ -1,0 +1,236 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.279, DE 19 DE NOVEMBRO DE 2019"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "3279"
+data: 2019-11-19
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 25/11/2019, seção 1, p. 87"
+data_publicacao: 2019-11-25
+edicao: "227"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.279-de-19-de-novembro-de-2019-229459451"
+sha256_html_fonte: 006ae1100999ca59cbb198366b5fb7d1480c670b90f490df952da38f19821642
+baixado_em: 2026-10-27
+---
+# RESOLUÇÃO-RE Nº 3.279, DE 19 DE NOVEMBRO DE 2019
+
+RESOLUÇÃO-RE Nº 3.279, DE 19 DE NOVEMBRO DE 2019
+
+O Gerente-Geral de Inspeção e Fiscalização Sanitária, no uso das atribuições que lhe confere o art. 171, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018,
+
+considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:
+
+**Art. 1º** Conceder à(s) Empresa(s) constante(s) no ANEXO, a Certificação de Boas Práticas de Fabricação de Medicamentos.
+
+**Art. 2º** A presente Certificação terá validade de 2 (dois) anos a partir da sua publicação.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+RONALDO LUCIO PONCIANO GOMES
+
+## ANEXO
+
+EMPRESA FABRICANTE: PATHEON ITALIA S.P.A.
+
+ENDEREÇO: 2º TRAV. SX VIA MOROLENSE, 5 - 03013 FERENTINO (FR) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.0478
+
+EMPRESA SOLICITANTE: CHIESI FARMACÊUTICA LTDA - CNPJ: 61.363.032/0001-46
+
+AUTORIZ/MS: 1000580 - EXPEDIENTE(s): 2234802/19-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: ROTTAPHARM LTD.
+
+ENDEREÇO: DAMASTOWN INDUSTRIAL PARK, MULHUDDART, DUBLIN 15 - PAÍS: IRLANDA - CÓDIGO ÚNICO: A.1211
+
+EMPRESA SOLICITANTE: MYLAN LABORATORIOS LTDA - CNPJ: 11.643.096/0001-22
+
+AUTORIZ/MS: 1088307 - EXPEDIENTE(s): 2121849/19-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Pós; Pós Efervescentes
+
+.........................................
+
+EMPRESA FABRICANTE: ALMAC PHARMA SERVICES LIMITED
+
+ENDEREÇO: SEAGOE INDUSTRIAL ESTATE, PORTADOWN, CRAIGAVON, COUNTY ARMAGH BT 63 5UA - PAÍS: REINO UNIDO - CÓDIGO ÚNICO: A.0027
+
+EMPRESA SOLICITANTE: ALEXION FARMACEUTICA BRASIL IMPORTACAO E DISTRIBUICAO DE PRODUTOS E SERVICOS DE ADMINISTRACAO - CNPJ: 10.284.284/0001-49
+
+AUTORIZ/MS: 1098118 - EXPEDIENTE(s): 0467591/19-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: PATHEON INC.
+
+ENDEREÇO: 111 CONSUMERS DRIVE, WHITBY, ONTARIO L1N - 5Z5 - PAÍS: CANADÁ - CÓDIGO ÚNICO: A.0475
+
+EMPRESA SOLICITANTE: MERCK SHARP & DOHME FARMACEUTICA LTDA - CNPJ: 45.987.013/0001-34
+
+AUTORIZ/MS: 1000290 - EXPEDIENTE(s): 0438032/19-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Comprimidos
+
+Sólidos não estéreis: Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: GLAXOSMITHKLINE DUNGARVAN LIMITED
+
+ENDEREÇO: KNOCKBRACK, DUNGARVAN. CO. WATERFORD - PAÍS: IRLANDA - CÓDIGO ÚNICO: A.0272
+
+EMPRESA SOLICITANTE: MAPPEL INDÚSTRIA DE EMBALAGENS S.A. - CNPJ: 01.233.103/0001-64
+
+AUTORIZ/MS: 1034806 - EXPEDIENTE(s): 0446168/19-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem primária; Granel): Adesivos
+
+.........................................
+
+EMPRESA FABRICANTE: CILAG AG
+
+ENDEREÇO: HOCHSTRASSE 201, 8200 SCHAFFHAUSEN - PAÍS: SUÍÇA - CÓDIGO ÚNICO: A.0157
+
+EMPRESA SOLICITANTE: FUNDAÇÃO OSWALDO CRUZ - CNPJ: 33.781.055/0001-35
+
+AUTORIZ/MS: 1010633 - EXPEDIENTE(s): 0428043/19-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados
+
+.........................................
+
+EMPRESA FABRICANTE: OCTAPHARMA AB
+
+ENDEREÇO: LARS FORSSELLS GATA 23, STOCKHOLM, 11275 - PAÍS: SUÉCIA - CÓDIGO ÚNICO: A.0454
+
+EMPRESA SOLICITANTE: OCTAPHARMA BRASIL LTDA - CNPJ: 02.552.927/0001-60
+
+AUTORIZ/MS: 1039712 - EXPEDIENTE(s): 0469245/19-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados; Soluções Parenterais de Grande Volume com Preparação Asséptica; Soluções Parenterais de Pequeno Volume com Esterilização Terminal; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: LG CHEM, LTD.
+
+ENDEREÇO: 151, OSONGSAENGMYEONG 1-RO, OSONG-EUP, HEUNGDEOK-GU, CHEONGJU-SI, CHUNGCHEONGBUK-DO - PAÍS: CORÉIA DO SUL - CÓDIGO ÚNICO: A.1257
+
+EMPRESA SOLICITANTE: INSTITUTO BUTANTAN - CNPJ: 61.821.344/0001-56
+
+AUTORIZ/MS: 1022340 - EXPEDIENTE(s): 2160030/19-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Suspensões Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: MERZ PHARMA GMBH & CO. KGAA
+
+ENDEREÇO: AM PHARMAPARK - 06861, DESSAU-ROSSLAU - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.0417
+
+EMPRESA SOLICITANTE: MERZ FARMACÊUTICA COMERCIAL LTDA - CNPJ: 11.681.446/0001-45
+
+AUTORIZ/MS: 1088021 - EXPEDIENTE(s): 0459606/19-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Pós Liofilizados
+
+.........................................
+
+EMPRESA FABRICANTE: NOVO NORDISK A/S
+
+ENDEREÇO: KIRKE VAERLOSEVEJ 30, 3500, VAERLOSE - PAÍS: DINAMARCA - CÓDIGO ÚNICO: A.0445
+
+EMPRESA SOLICITANTE: NOVO NORDISK FARMACÊUTICA DO BRASIL LTDA - CNPJ: 82.277.955/0001-55
+
+AUTORIZ/MS: 1017662 - EXPEDIENTE(s): 0423343/19-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: BAXALTA MANUFACTURING SÀRL
+
+ENDEREÇO: ROUTE DE PIERRE-À-BOT 111, 200 NEUCHÂTEL - PAÍS: SUÍÇA - CÓDIGO ÚNICO: A.0070
+
+EMPRESA SOLICITANTE: EMPRESA BRASILEIRA DE HEMODERIVADOS E BIOTECNOLOGIA - CNPJ: 07.607.851/0001-46
+
+AUTORIZ/MS: 1093047 - EXPEDIENTE(s): 0263667/19-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Pós Liofilizados
+
+.........................................
+
+EMPRESA FABRICANTE: SANOFI-AVENTIS DEUTSCHLAND GMBH
+
+ENDEREÇO: BRÜNINGSTRASSE 50, 65926 FRANKFURT AM MAIN - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.0560
+
+EMPRESA SOLICITANTE: SANOFI MEDLEY FARMACÊUTICA LTDA. - CNPJ: 10.588.595/0010-92
+
+AUTORIZ/MS: 1083267 - EXPEDIENTE(s): 0213357/19-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Esterilização Terminal; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: VETTER PHARMA-FERTIGUNG GMBH & CO. KG.
+
+ENDEREÇO: MOOSWIESEN 2, 88214, RAVENSBURG - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.0624
+
+EMPRESA SOLICITANTE: NOVARTIS BIOCIENCIAS S.A - CNPJ: 56.994.502/0001-30
+
+AUTORIZ/MS: 1000685 - EXPEDIENTE(s): 0481887/19-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: CATALENT BELGIUM S.A.
+
+ENDEREÇO: FONT SAINT LANDRY 10, BRUXELAS, 1120 - PAÍS: BÉLGICA - CÓDIGO ÚNICO: A.0131
+
+EMPRESA SOLICITANTE: FUNDAÇÃO OSWALDO CRUZ - CNPJ: 33.781.055/0001-35
+
+AUTORIZ/MS: 1010633 - EXPEDIENTE(s): 0533295/19-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: PATHEON MANUFACTURING SERVICES LLC
+
+ENDEREÇO: 5900 MARTIN LUTHER KING JR. HIGHWAY, GREENVILLE, NORTH CAROLINA 27834 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.0201
+
+EMPRESA SOLICITANTE: AMGEN BIOTECNOLOGIA DO BRASIL LTDA. - CNPJ: 18.774.815/0001-93
+
+AUTORIZ/MS: 1102440 - EXPEDIENTE(s): 0330397/19-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: BUSHU PHARMACEUTICALS LTD.
+
+ENDEREÇO: 1 TAKENO, KAWAGOE, SAITAMA 350-0801 - PAÍS: JAPÃO - CÓDIGO ÚNICO: A.1084
+
+EMPRESA SOLICITANTE: DAIICHI SANKYO BRASIL FARMACÊUTICA LTDA - CNPJ: 60.874.187/0001-84
+
+AUTORIZ/MS: 1004548 - EXPEDIENTE(s): 0468417/19-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: BIO SIDUS S.A.
+
+ENDEREÇO: AV. DE LOS QUILMES 137, BERNAL OESTE, PROVÍNCIA DE BUENOS AIRES DE LA REPÚBLICA ARGENTINA - PAÍS: ARGENTINA - CÓDIGO ÚNICO: A.0762
+
+EMPRESA SOLICITANTE: Aché Laboratórios Farmacêuticos S.A - CNPJ: 60.659.463/0029-92
+
+AUTORIZ/MS: 1005739 - EXPEDIENTE(s): 2048204/19-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Preparação Asséptica

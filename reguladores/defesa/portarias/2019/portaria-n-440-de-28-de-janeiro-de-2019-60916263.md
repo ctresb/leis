@@ -1,0 +1,248 @@
+---
+titulo: "PORTARIA Nº 440, DE 28 DE JANEIRO DE 2019"
+orgao: "Ministério da Defesa/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "440"
+data: 2019-01-28
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 29/01/2019, seção 1, p. 12"
+data_publicacao: 2019-01-29
+edicao: "20"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-440-de-28-de-janeiro-de-2019-60916263"
+sha256_html_fonte: e12a397942635a9d2fd7343d125b609327c766d951c38ed899e60a84d55a1d5e
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 440, DE 28 DE JANEIRO DE 2019
+
+PORTARIA Nº 440, DE 28 DE JANEIRO DE 2019
+
+O MINISTRO DE ESTADO DA DEFESA, no uso de suas atribuições legais e conforme o disposto no Decreto nº5.958, de 7 de novembro de 2006, e no art. 9º da Portaria nº 85/GM/MD, de 11 de janeiro de 2018 e o que consta do Processo 60041.000152/2019-76, resolve:
+
+Conceder a Medalha Mérito Desportivo Militar às personalidades civis e militares a seguir relacionadas:
+
+Tenente-Brigadeiro do Ar CARLOS DE ALMEIDA BAPTISTA JUNIOR
+
+Almirante de Esquadra CLAUDIO PORTUGAL DE VIVEIROS
+
+General de Exército LAERTE DE SOUZA SANTOS
+
+Tenente-Brigadeiro do Ar MARCELO KANITZ DAMASCENO
+
+General de Divisão TOMÁS MIGUEL MINÉ RIBEIRO PAIVA
+
+General de Divisão Intendente EDUARDO CASTANHEIRA GARRIDO ALVES
+
+General de Divisão ESTEVAM CALS THEOPHILO GASPAR DE OLIVEIRA
+
+General de Divisão Intendente LAELIO SOARES DE ANDRADE
+
+Vice-Almirante FLÁVIO AUGUSTO VIANA ROCHA
+
+Major-Brigadeiro Intendente R/1 VILMAR GARGALHONE CORRÊA
+
+Major-Brigadeiro do Ar R/1 ROGÉRIO GAMMERDINGER VERAS
+
+Secretária-Executiva do Ministério da Cidadania TATIANA BARBOSA DE ALVARENGA
+
+Secretário Nacional de Esporte de Alto Rendimento LUIZ CELSO GIACOMINI
+
+Contra-Almirante ANTÔNIO CAPISTRANO DE FREITAS FILHO
+
+General de Brigada CARLOS ALBERTO DAHMER
+
+Brigadeiro Intendente R/1 PAULO MAURICIO JABORANDY DE MATTOS DOURADO
+
+Diretor do Departamento de Esporte de Base e Alto Rendimento do Ministério da Cidadania DIEGO FERREIRA TONIETTI
+
+Capitão de Mar e Guerra (FN) FABIANO DE BRITO VILLELA
+
+Capitão de Mar e Guerra (FN) CARLOS EDUARDO VIEIRA NUNES
+
+Coronel de Cavalaria ALEXANDRE GINDRI ANGONESE
+
+Coronel de Infantaria HIDENOBU YATABE
+
+Coronel de Infantaria GUSTAVO DE ALMEIDA MAGALHÃES OLIVEIRA
+
+Coronel de Comunicações ANTONIO JOSÉ COSTA COUTINHO
+
+Coronel de infantaria MARCUS AUGUSTO BASTOS NEUVALD
+
+Coronel de Infantaria SANDRO BELCHIOR SANTOS DE SOUZA
+
+Coronel de Engenharia ANDRÉ LUIZ VIEIRA CASSIANO
+
+Coronel R/1 PAULO RINALDO FONSECA FRANCO
+
+Coronel R/1 GEOVANI AMORIM DE FARIA
+
+Coronel Intendente ELIAS AFIF ELOSSAIS
+
+Coronel Aviador ELISON MONTAGNER
+
+Coronel Aviador R/1 RICARDO JOSÉ SOARES DOS SANTOS
+
+Senhor RAUL SILVA COSTA JUNIOR
+
+Senhor JOÃO ALVES GRANGEIRO NETO
+
+Capitão de Fragata FABIO TAYAROL MARQUES
+
+Capitão de Fragata (T) MARCELO DE MESQUITA RODRIGUES FERRAZ
+
+Capitão de Fragata (MD) RITA DE CASSIA MACHADO PASSOS
+
+Capitão de Fragata (MD) DANIELA ALCÂNTARA DOS SANTOS
+
+Tenente-Coronel de Infantaria JORGE ANTÔNIO SANTOS COSTA
+
+Tenente-Coronel de Cavalaria HARRISON GOMES CABRAL DOS SANTOS
+
+Tenente-Coronel de Artilharia MARCELO LUCENA DE ALMEIDA
+
+Tenente-Coronel de Infantaria NELSON FERREIRA CAMPOS
+
+Tenente-Coronel R/1 ANDRÉ VALENTIM SIQUEIRA RODRIGUES
+
+Capitão de Corveta RICARDO BITTENCOURT DA SILVA
+
+Major de Intendência MICHEL MORAES GONÇALVES
+
+Major de Artilharia JAIME FLÔRES DE ARAUJO BASTOS
+
+Major de Infantaria ANDRÉ JUSTINO DE CARVALHO
+
+Major de Infantaria RAFAEL PEREIRA BEZERRA
+
+Major de Intendência PAOLO DE SOUZA LIMA
+
+Major de Artilharia FRANCISCO XAVIER MONTEIRO BEZERRA DO NASCIMENTO
+
+Major de Infantaria PETER SILVA JÚNIOR
+
+Major Aviador ANDRE CARDOSO MOURA
+
+Major de Infantaria MICHEL MARCONI HAKIME DE ANDRADE RAMOS
+
+Senhor JOSÉ MARIA PEREIRA DA SILVA
+
+Senhor ALVARO ROBERTO DE AVILA PIRES
+
+Senhor RAUL ALBERTO RASMUSEN AMAYA
+
+Senhora MARIA AUGUSTA RIBEIRO
+
+Capitão de Infantaria RENATO CAVALCANTI FERREIRA
+
+Capitão QAO ADEMAR ROQUE HIPPLER RUWER
+
+Capitão de Cavalaria JOÃO ALBERTO CARDOSO SOARES DE ANDRADE
+
+Capitão QAO R/1 FRANCISCO ANTÔNIO DE ANDRADE
+
+Capitão QAO R/1 RICARDO AVILA DE CÊA
+
+Capitão QOEA SVA ERCILIO RIBEIRO OLIVEIRA
+
+Capitão MUS R/1 DENILSON BATISTA DE OLIVEIRA
+
+Senhor SILVIO ACÁCIO BORGES
+
+Senhor ALBERTO CAVALCANTE MACIEL JUNIOR
+
+Senhor JOSÉ INÁCIO DO NASCIMENTO
+
+Senhora MARISA COSTA SILVA
+
+Senhor ALEXANDRE CARVALHO GONZAGA
+
+Senhor AMARO DOMINGUES
+
+Primeiro-Tenente (AA) NILTON CESAR RAMOS DE OLIVEIRA
+
+1º Tenente de Artilharia THIAGO DIAS SALES
+
+1º Tenente Aviador ARY BATISTA ROCHA NETO
+
+1º Tenente QCOA EFI R/2 GRACE BARROS DE SÁ
+
+1º Tenente QCOA EFI R/2 KIN SHUNG HWANG
+
+2º Tenente QAO ANDRÉ LUIZ ALVES
+
+Suboficial (FN-AT) GERSON FERREIRA DE ARAUJO
+
+Suboficial (FN-IF) VITOR OLIVEIRA DE SOUZA
+
+Suboficial (FN-IF) ALEXANDRE DUTRA FERREIRA DIAS
+
+Suboficial (RM1-FN-IF) ALEX FERNANDO LIMA DE ALENCAR
+
+Suboficial (RM1-FN-EF) PAULO ROBERTO RIBEIRO DE FARO
+
+Subtenente de Comunicações JEIEL MOREIRA MENDES
+
+Subtenente de Saúde MARCIO ANTONIO DE BARROS SENA
+
+Subtenente de Comunicações ADIERSON LUÍS PERUZZO
+
+Suboficial QSS SGS DELANEI LUIZ DIAS FILHO
+
+Suboficial BEV R/1 LUIZ CARLOS DO ROSARIO
+
+Suboficial Refº JOÃO MERCÊS FILHO
+
+Suboficial Refº HAMILTON SILVA
+
+Suboficial Refº ANTONIO CARLOS DE FELIPE SOUTO
+
+Suboficial Refº GILMAR DA SILVA
+
+Primeiro-Sargento (FN-ES) MÁRCIO DE OLIVEIRA MAIA
+
+Primeiro-Sargento (EP) WANDER BOCORNI DOS SANTOS
+
+Primeiro-Sargento (FN-EF) MARCELO MENDES PEREIRA
+
+Primeiro-Sargento (CN) GILSON BEZERRA DA SILVA
+
+1º Sargento de Infantaria ALFREDO DIAS DE OLIVEIRA JUNIOR
+
+1º Sargento de Infantaria ANDRÉ LUIZ NUNES DA MOTTA
+
+1º Sargento de Infantaria ALBERIONE GOMES DE SOUSA
+
+1º Sargento QSS SEF MARCELO RODRIGUES MACHADO
+
+1º Sargento QSS SEL FLÁVIO COELHO MAIA
+
+2º Sargento QE CRISTIANO LEITE RAMOS
+
+2º Sargento de Material Bélico ADALBERTO LIMA DOS SANTOS DE SOUZA
+
+2º Sargento QE ALEXANDRE NETO MARQUES
+
+2º Sargento de Infantaria JAYME DE OLIVEIRA ARANHA NETO
+
+2º Sargento QSS MUS CARLOS HENRIQUE SANTOS FRANÇA
+
+Senhora MÁRCIA CRISTINA BASTOS PAUL
+
+Senhora VIVIANE RIBEIRO SOARES
+
+3º Sargento QESA SAD ALBERTO PEREIRA DE JESUS
+
+3º Sargento QSCON ATL KARLA CRISTINA MARTINS DA COSTA
+
+3º Sargento QSCON ATL PEDRO HENRIQUE SILVA SPAJARI
+
+Cabo (FN-CN) SANDERSON ALVES DOS SANTOS
+
+Cabo (ES) CLÁUDIO JOSÉ MONTEIRO GAMA TEOBALDO
+
+Cabo de Material Bélico JOSUÉ OLIVEIRA DOS SANTOS
+
+Cabo de Intendência ANDRÉ LUIZ NUNES SIQUEIRA
+
+FERNANDO AZEVEDO E SILVA

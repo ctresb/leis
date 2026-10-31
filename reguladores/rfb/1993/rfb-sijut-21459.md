@@ -1,0 +1,34 @@
+---
+titulo: "Portaria MF nº 26, de 18 de janeiro de 1993"
+orgao: "Ministério da Fazenda"
+tipo: "Portaria"
+numero: "26"
+data: "1993-01-18"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 21/01/1993, página 864"
+data_publicacao: "1993-01-21"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/21459/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/21459/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "21459"
+sha256_texto: "80191b82534a27bff22a73bfdf5af198883c328ea2c44b33384ed846734292f2"
+baixado_em: "2026-10-21"
+---
+# Portaria MF nº 26, de 18 de janeiro de 1993
+
+"Altera alíquota ad valorem do imposto de importação."
+
+O MINISTRO DE ESTADO DA FAZENDA, INTERINO, no uso de suas atribuições, e de acordo com o artigo 16, inciso III, alíneas "b" e "h", e o artigo 28, da Lei nº 8.490, de 19 de novembro de 1992; de acordo, ainda, com o disposto no artigo 3º, alínea "a", da Lei nº 3.244, de 14 de agosto de 1957, alterado pelo artigo 1º do Decreto-lei nº 2.162, de 19 de setembro de 1984, e no artigo 5º do Decreto-lei nº 63, de 21 de novembro de 1966, e considerando terem os níveis tarifários dos produtos objeto desta Portaria se revelado inadequados ao cumprimento dos objetivos da Tarifa Aduaneira do Brasil, resolve:
+
+**Art. 1º** Ficam alteradas, para 0% (zero por cento), por até 1 (um) ano, as alíquotas "ad valorem" do imposto de importação incidentes sobre os seguintes produtos:
+
+CÓDIGO DA TAB MERCADORIA 8421.99.9900 "Ex" 001 - Permeador de osmose reversa, com vaso de pressão e membrana de osmose reversa. 8422.30.0200 "Ex" 001 - Máquina automática para envasar alimentos líquidos ou pastosos, alimentada por bobinas de cartão Kraft laminado com polietileno e alumínio, com controlador lógico programável. 8422.40.9900 "Ex" 001 - Máquina automática empacotadora de tecidos com fechamento longitudinal mediante soldagem. 8452.29.0100 "Ex" 001 - Máquina a dois fios para a costura de sapatos e botas a solas encaixadas. 8453.10.0300 "Ex" 001 - Máquina rotativa para acetinar e gravar couros com largura útil de trabalho igual ou superior a 1.600 mm. 8453.20.0000 "Ex" 001 - Máquina automática para asperar solas de borracha tipo "training". 8453.20.0000 "Ex" 002 - Máquina semi-automática para asperar e escavar sedes em solados de calçados. 8459.10.0400 "Ex" 001 - Máquina automática de abrir roscas (interna e externa) e furar, com capacidade igual ou superior a 3.000 operações/hora. 8463.30.0000 "Ex" 001 - Máquina esmaltadeira para fios de metal não ferroso. 8465.94.9900 "Ex" 001 - Prensa automática para montagem de quadros e portas de madeira, com posicionamento automático por fotocélula e transportador de esteira. 8471.91.9900 "Ex" 001 - Sistema computadorizado de desenho, integrado, para bordado por meio de máquina de multicabeçote, composto de estação de trabalho, digitalizador, unidade de programação, mesa/prancheta. 8474.80.9900 "Ex" 001 - Prensa automática de fricção para placas e coletores refratários de alta alumina, com controlador automático de espessura e densidade para cada ciclo de prensagem, sistema programável para desaeração e eliminação de laminação e sistema alimentador flutuante de massa cerâmica. 8479.89.9900 "Ex" 001 - Máquina para fabricar e embalar hastes flexíveis com pontas de algodão, com aplicador de líquido nas extremidades, estação de separação de hastes defeituosas e sistema automático de embalagem. 8705.90.9900 "Ex" 001 - Máquina de sinalização viária para aplicação de material termoplástico. 9006.20.0000 "Ex" 001 - Equipamento para microfilmagem com saída direta do computador ("Computer output microfilm"). 9009.12.0000 "Ex" 001 - Aparelho de fotocópia para reprodução em todas as cores simultaneamente. 9031.80.9999 "Ex" 001 - Máquina automática, de 5 estações ou mais, para detectar e separar embalagens de vidro defeituosas. 9031.80.9999 "Ex" 002 - Sistema óptico a laser para medição da velocidade de fios têxteis no processo de fabricação.
+
+CÓDIGO DA TAB MERCADORIA8421.99.9900 "Ex" 001 - Permeador de osmose reversa, com vasode pressão e membrana de osmose reversa.8422.30.0200 "Ex" 001 - Máquina automática para envasaralimentos líquidos ou pastosos, alimentada por bobinas de cartãoKraft laminado com polietileno e alumínio, com controlador lógicoprogramável.8422.40.9900 "Ex" 001 - Máquina automática empacotadora detecidos com fechamento longitudinal mediante soldagem.8452.29.0100 "Ex" 001 - Máquina a dois fios para a costura desapatos e botas a solas encaixadas.8453.10.0300 "Ex" 001 - Máquina rotativa para acetinar egravar couros com largura útil de trabalho igual ou superiora 1.600 mm.8453.20.0000 "Ex" 001 - Máquina automática para asperar solasde borracha tipo "training".8453.20.0000 "Ex" 002 - Máquina semi-automática para asperar eescavar sedes em solados de calçados.8459.10.0400 "Ex" 001 - Máquina automática de abrir roscas(interna e externa) e furar, com capacidade igual ou superior a3.000 operações/hora.8463.30.0000 "Ex" 001 - Máquina esmaltadeira para fios demetal não ferroso.8465.94.9900 "Ex" 001 - Prensa automática para montagem dequadros e portas de madeira, com posicionamento automático porfotocélula e transportador de esteira.8471.91.9900 "Ex" 001 - Sistema computadorizado de desenho,integrado, para bordado por meio de máquina de multicabeçote,composto de estação de trabalho, digitalizador, unidade deprogramação, mesa/prancheta.8474.80.9900 "Ex" 001 - Prensa automática de fricção paraplacas e coletores refratários de alta alumina, com contro-lador automático de espessura e densidade para cada ciclode prensagem, sistema programável para desaeração e eliminaçãode laminação e sistema alimentador flutuante de massa cerâmica.8479.89.9900 "Ex" 001 - Máquina para fabricar e embalar hastesflexíveis com pontas de algodão, com aplicador de líquido nasextremidades, estação de separação de hastes defeituosas esistema automático de embalagem.8705.90.9900 "Ex" 001 - Máquina de sinalização viária paraaplicação de material termoplástico.9006.20.0000 "Ex" 001 - Equipamento para microfilmagem comsaída direta do computador ("Computer output microfilm").9009.12.0000 "Ex" 001 - Aparelho de fotocópia para reproduçãoem todas as cores simultaneamente.9031.80.9999 "Ex" 001 - Máquina automática, de 5 estações oumais, para detectar e separar embalagens de vidro defeituosas.9031.80.9999 "Ex" 002 - Sistema óptico a laser para medição davelocidade de fios têxteis no processo de fabricação.
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação no Diário Oficial da União, podendo ser revogada, a qualquer tempo, se assim o recomendar o interesse nacional.
+
+PAULO ROBERTO HADDAD

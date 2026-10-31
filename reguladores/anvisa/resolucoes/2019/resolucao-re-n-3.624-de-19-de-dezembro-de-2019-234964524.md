@@ -1,0 +1,148 @@
+---
+titulo: "RESOLUÇÃO-RE nº 3.624, de 19 de dezembro de 2019"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quinta Diretoria/Gerência-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados"
+tipo: "Resolução"
+numero: "3624"
+data: 2019-12-19
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 23/12/2019, seção 1, p. 216"
+data_publicacao: 2019-12-23
+edicao: "247"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.624-de-19-de-dezembro-de-2019-234964524"
+sha256_html_fonte: 05bd9d595e11643c33ed58290cc47633b053f2c19ee1c49bed86a4d3e40fca01
+baixado_em: 2026-10-27
+---
+# RESOLUÇÃO-RE nº 3.624, de 19 de dezembro de 2019
+
+RESOLUÇÃO-RE nº 3.624, de 19 de dezembro de 2019
+
+A Gerente-Geral Substituta de Portos, Aeroportos, Fronteiras e Recintos Alfandegados, no uso das atribuições que lhe confere o disposto no art. 189, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC 255 - de 10 de dezembro de 2018, e ainda amparado pela Resolução da Diretoria Colegiada - RDC nº 346, de 16 de dezembro de 2002, resolve:
+
+**Art. 1º** Conceder alteração de endereço na Autorização de Funcionamento de Empresas Prestadoras de Serviços de Interesse da Saúde Pública em conformidade com o disposto no anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+GLAÚCIA RIBEIRO LIMA
+
+## ANEXO
+
+MATRIZ
+
+EMPRESA: DHL EXPRESS (BRAZIL) LTDA
+
+ENDEREÇO: AV. MANUEL BANDEIRA Nº 291 -COMPLEMENTO: ESCRITÓRIOS 32, 41, 42, 43 E 44 BLOCO D.
+
+BAIRRO: VILA LEOPOLDINA
+
+MUNICÍPIO: SÃO PAULO
+
+UF: SP
+
+CEP: 05.317-020
+
+CNPJ: 58.890.252/0001-13
+
+PROCESSO Nº: 25759.020289/2014-21 (EXP: 2021314/19-0)
+
+AUTORIZ/MS: 9.07620-1
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE ARMAZENAGEM DE SANEANTES DOMISSANITÁRIOS EM RECINTOS ALFANDEGADOS.
+
+MATRIZ
+
+EMPRESA: DHL EXPRESS (BRAZIL) LTDA
+
+ENDEREÇO: AV. MANUEL BANDEIRA Nº 291 -COMPLEMENTO: ESCRITÓRIOS 32, 41, 42, 43 E 44 BLOCO D.
+
+BAIRRO: VILA LEOPOLDINA
+
+MUNICÍPIO: SÃO PAULO
+
+UF: SP
+
+CEP: 05.317-020
+
+CNPJ: 58.890.252/0001-13
+
+PROCESSO Nº: 25759.020299/2014-34 (EXP: 2017687/19-2)
+
+AUTORIZ/MS: 9.07622-8
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE ARMAZENAGEM DE ALIMENTOS EM RECINTOS ALFANDEGADOS.
+
+MATRIZ
+
+EMPRESA: DHL EXPRESS (BRAZIL) LTDA
+
+ENDEREÇO: AV. MANUEL BANDEIRA Nº 291 -COMPLEMENTO: ESCRITÓRIOS 32, 41, 42, 43 E 44 BLOCO D.
+
+BAIRRO: VILA LEOPOLDINA
+
+MUNICÍPIO: SÃO PAULO
+
+UF: SP
+
+CEP: 05.317-020
+
+CNPJ: 58.890.252/0001-13
+
+PROCESSO Nº: 25759.510738/2017-03 (EXP: 2010207/19-1)
+
+AUTORIZ/MS: 9.08154-8
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇO DE ARMAZENAGEM DE PRODUTOS PARA A SAÚDE E PRODUTOS PARA DIAGNÓSTICOS EM RECINTOS ALFANDEGADOS.
+
+MATRIZ
+
+EMPRESA: DHL EXPRESS (BRASIL).
+
+ENDEREÇO: AV. MANUEL BANDEIRA Nº 291 -COMPLEMENTO: ESCRITÓRIOS 32, 41, 42, 43 E 44 BLOCO D.
+
+BAIRRO: VILA LEOPOLDINA
+
+MUNICÍPIO: SÃO PAULO
+
+UF: SP
+
+CEP: 05.317-020
+
+CNPJ: 58.890.252/0001-13
+
+PROCESSO Nº: 25759.020287/2014-73 (EXP: 2017705/19-4)
+
+AUTORIZ/MS: 9.07621-4
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇO DE ARMAZENAGEM DE PRODUTOS DE HIGIENE E PERFUMES EM RECINTOS ALFANDEGADOS.
+
+MATRIZ
+
+EMPRESA: DHL EXPRESS (BRAZIL)
+
+ENDEREÇO: AV. MANUEL BANDEIRA Nº 291 -COMPLEMENTO: ESCRITÓRIOS 32, 41, 42, 43 E 44 BLOCO D.
+
+BAIRRO: VILA LEOPOLDINA
+
+MUNICÍPIO: SÃO PAULO
+
+UF: SP
+
+CEP: 05.317-020
+
+CNPJ: 58.890.252/0001-13
+
+PROCESSO Nº: 25759.020272/2014-16 (EXP: 2017695/19-3)
+
+AUTORIZ/MS: 9.07619-9.
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇO DE ARMAZENAGEM DE MEDICAMENTOS, MATÉRIAS- PRIMAS E INSUMOS FARMACÊUTICOS RECINTOS ALFANDEGADOS.

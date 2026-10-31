@@ -1,0 +1,96 @@
+---
+titulo: "Ato Declaratório Executivo ALF/BSB nº 52, de 16 de agosto de 2022"
+orgao: "Alfândega da Receita Federal do Brasil no Aeroporto Internacional de Brasília"
+tipo: "Ato Declaratório Executivo"
+numero: "52"
+data: "2022-08-16"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 17/08/2022, seção 1, página 40"
+data_publicacao: "2022-08-17"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/125578/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/125578/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "125578"
+sha256_texto: "f8b83e96e73104fa0ec2393bd238e2cbad8179f45eb557b54f970770c427de67"
+baixado_em: "2026-10-16"
+---
+# Ato Declaratório Executivo ALF/BSB nº 52, de 16 de agosto de 2022
+
+Dispõe sobre o encerramento parcial do Processo Aduaneiro de Investigação de Origem instaurado por meio do ADE ALF/BSB Nº 72/2021.
+
+O DELEGADO ADJUNTO DA ALFÂNDEGA DA RECEITA FEDERAL DO BRASIL NO AEROPORTO INTERNACIONAL DE BRASÍLIA, no uso das atribuições que lhe são conferidas pelo artigo 298 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto na Portaria Coana nº 25, de 20 de maio de 2019, nos parágrafos 3 e 6 do artigo 26 do Anexo II ao Acordo de Complementação Econômica nº 55 (Regime de Origem), internalizado por meio do Decreto nº 4.458, de 5 de novembro de 2002, e ainda nos artigos 24, 25 e 30, da Instrução Normativa RFB nº 1.864, de 27 de dezembro de 2018, declara:
+
+**Art. 1º** Concluído parcialmente, com base no Relatório Fiscal de 15 de agosto de 2022, referente ao Dossiê nº 10265.547821/2021-91, o Processo Aduaneiro de Investigação de Origem de produtos do setor automotivo fabricados no México, aberto por meio do ADE ALF/BSB Nº 72/2021.
+
+**Art. 2º** Desqualificada totalmente a origem mexicana dos produtos fabricados pela empresa MANDO CORPORATION MEXICO S.A. DE C.V., importados para o Brasil pela empresa HYUNDAI MOTOR BRASIL MONTADORA DE AUTOMÓVEIS LTDA., CNPJ 10.394.422/0001-42, classificados no código NCM 8708.80.00 - Sistemas de suspensão e suas partes (incluindo os amortecedores de suspensão), e amparados pelos certificados de origem relacionados no Anexo I, em razão da não apresentação, dentro dos prazos concedidos, de informações suficientes para a comprovação do cumprimento dos requisitos de origem previstos no Regime de Origem do ACE 55 , tomando-se como base o disposto no parágrafo 3 do artigo 26 desse Regime.
+
+**Art. 3º** Fica denegado o tratamento tarifário preferencial para o desembaraço aduaneiro de novas importações de produtos idênticos do mesmo fabricante, nos termos previstos nos artigos 24, 25, inciso II e parágrafo 2º, e 30 da Instrução Normativa RFB nº 1.864/2018, bem como no artigo 26, parágrafos 3 e 6, do Regime de Origem do ACE 55.
+
+**Art. 4º** Este Ato Declaratório Executivo entra em vigor na data de sua publicação.
+
+OTÁVIO LIRA FERREIRA MAIA MARTINS
+
+## ANEXO I
+
+Produtos com Origem Desqualificada
+
+## Anexo I
+
+| Certificado de origem | Código NCM | Certificado de origem | Código NCM |
+| --- | --- | --- | --- |
+| MX123ACE000000185400 | 87088000 | MX123ACE200000263500 | 87088000 |
+| MX123ACE190001098800 | 87088000 | MX123ACE200000306100 | 87088000 |
+| MX123ACE190001099200 | 87088000 | MX123ACE200000382800 | 87088000 |
+| MX123ACE190001104200 | 87088000 | MX123ACE200000449000 | 87088000 |
+| MX123ACE190001105900 | 87088000 | MX123ACE200000517400 | 87088000 |
+| MX123ACE190001244400 | 87088000 | MX123ACE200000599500 | 87088000 |
+| MX123ACE190001408100 | 87088000 | MX123ACE200000659500 | 87088000 |
+| MX123ACE190001423900 | 87088000 | MX123ACE200000659600 | 87088000 |
+| MX123ACE190001614000 | 87088000 | MX123ACE200000843300 | 87088000 |
+| MX123ACE190001631200 | 87088000 | MX123ACE200000910600 | 87088000 |
+| MX123ACE190001631300 | 87088000 | MX123ACE200000935300 | 87088000 |
+| MX123ACE190001635500 | 87088000 | MX123ACE200000997000 | 87088000 |
+| MX123ACE190001853300 | 87088000 | MX123ACE200001385900 | 87088000 |
+| MX123ACE190001853800 | 87088000 | MX123ACE200001386000 | 87088000 |
+| MX123ACE190001856600 | 87088000 | MX123ACE200001455800 | 87088000 |
+| MX123ACE190001858100 | 87088000 | MX123ACE200001456000 | 87088000 |
+| MX123ACE190002168300 | 87088000 | MX123ACE200001478100 | 87088000 |
+| MX123ACE190002170300 | 87088000 | MX123ACE200001561300 | 87088000 |
+| MX123ACE190002177100 | 87088000 | MX123ACE200001659800 | 87088000 |
+| MX123ACE190002177200 | 87088000 | MX123ACE200001826300 | 87088000 |
+| MX123ACE190002225400 | 87088000 | MX123ACE200001867600 | 87088000 |
+| MX123ACE190002312500 | 87088000 | MX123ACE200001908300 | 87088000 |
+| MX123ACE190002411500 | 87088000 | MX123ACE200001968900 | 87088000 |
+| MX123ACE190002411900 | 87088000 | MX123ACE200002069500 | 87088000 |
+| MX123ACE190002570400 | 87088000 | MX123ACE200002070100 | 87088000 |
+| MX123ACE190002588400 | 87088000 | MX123ACE200002177800 | 87088000 |
+| MX123ACE190002670100 | 87088000 | MX123ACE200002179700 | 87088000 |
+| MX123ACE190002758300 | 87088000 | MX123ACE200002180300 | 87088000 |
+| MX123ACE190002788100 | 87088000 | MX123ACE200002180400 | 87088000 |
+| MX123ACE190002792700 | 87088000 | MX123ACE200002335200 | 87088000 |
+| MX123ACE190002793600 | 87088000 | MX123ACE200002367700 | 87088000 |
+| MX123ACE190002866100 | 87088000 | MX123ACE200002367900 | 87088000 |
+| MX123ACE190002907100 | 87088000 | MX123ACE200002379700 | 87088000 |
+| MX123ACE190003009800 | 87088000 | MX123ACE200002473600 | 87088000 |
+| MX123ACE190003016200 | 87088000 | MX123ACE200002473700 | 87088000 |
+| MX123ACE190003138100 | 87088000 | MX123ACE200002473800 | 87088000 |
+| MX123ACE190003147000 | 87088000 | MX123ACE200002474300 | 87088000 |
+| MX123ACE190003181100 | 87088000 | MX123ACE200002619500 | 87088000 |
+| MX123ACE190003250500 | 87088000 | MX123ACE200002687200 | 87088000 |
+| MX123ACE190003350500 | 87088000 | MX123ACE200002780500 | 87088000 |
+| MX123ACE190003354400 | 87088000 | MX123ACE200002879600 | 87088000 |
+| MX123ACE190003398300 | 87088000 | MX123ACE210000092100 | 87088000 |
+| MX123ACE190003464400 | 87088000 | MX123ACE210000096300 | 87088000 |
+| MX123ACE190003519100 | 87088000 | MX123ACE210000096500 | 87088000 |
+| MX123ACE190003583900 | 87088000 | MX123ACE210000150400 | 87088000 |
+| MX123ACE190003742000 | 87088000 | MX123ACE210000151700 | 87088000 |
+| MX123ACE190003744800 | 87088000 | MX123ACE210000163900 | 87088000 |
+| MX123ACE190003812400 | 87088000 | MX123ACE210000307700 | 87088000 |
+| MX123ACE200000095000 | 87088000 | MX123ACE210000325600 | 87088000 |
+| MX123ACE200000179500 | 87088000 | MX123ACE210000348300 | 87088000 |
+| MX123ACE200000192700 | 87088000 | MX123ACE210000348600 | 87088000 |
+| MX123ACE200000197100 | 87088000 | MX123ACE210000404200 | 87088000 |
+| MX123ACE200000237300 | 87088000 |  |  |

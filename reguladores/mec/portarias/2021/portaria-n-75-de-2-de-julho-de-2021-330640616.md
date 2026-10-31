@@ -1,0 +1,32 @@
+---
+titulo: "PORTARIA Nº 75, DE 2 DE JULHO DE 2021"
+orgao: "Ministério da Educação/Secretaria de Educação Básica"
+tipo: "Portaria"
+numero: "75"
+data: 2021-07-02
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 07/07/2021, seção 1, p. 447"
+data_publicacao: 2021-07-07
+edicao: "126"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-75-de-2-de-julho-de-2021-330640616"
+sha256_html_fonte: 369c4263618176ab3f50e9875df568e1a3e30d05b83a6156c73d6e2267e47aea
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 75, DE 2 DE JULHO DE 2021
+
+PORTARIA Nº 75, DE 2 DE JULHO DE 2021
+
+Autoriza o Fundo Nacional de Desenvolvimento da Educação (FNDE) a realizar a transferência de recursos financeiros aos municípios e ao Distrito Federal para a manutenção de novas matrículas em novos estabelecimentos públicos de educação infantil, construídos com recursos de programas federais, conforme Resolução CD/FNDE nº 15, de 16 de maio de 2013.
+
+O SECRETÁRIO DE EDUCAÇÃO BÁSICA DO MINISTÉRIO DA EDUCAÇÃO, no uso das atribuições que lhe foram conferidas, resolve:
+
+**Art. 1º** Divulgar os municípios e o Distrito Federal que estão aptos a receber o pagamento do recurso de apoio à manutenção de novas matrículas em novos estabelecimentos públicos de educação infantil, construídos com recursos de programas federais, em plena atividade e com matrículas que ainda não tenham sido contempladas com recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação (FUNDEB), de que trata a Lei nº 12.499, de 29 de setembro de 2011, e conforme as informações declaradas pelos municípios e pelo Distrito Federal no SIMEC - Módulo E.I. Manutenção - Unidades do Proinfância.
+
+**Art. 2º** Autorizar o FNDE/MEC a realizar transferência de recursos financeiros aos municípios e ao Distrito Federal para manutenção de novas matrículas em novos estabelecimentos públicos de educação infantil, conforme destinatários e valores constantes da listagem anexa.
+
+**Art. 3º** Esta Portaria entra em vigor na data de sua publicação.
+
+MAURO LUIZ RABELO
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="9"><p>ANEXO</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>UF</p></td>      <td rowspan="1" colspan="1"><p>Municípios</p></td>      <td rowspan="1" colspan="1"><p>CNPJ</p></td>      <td rowspan="1" colspan="1"><p>Código IBGE</p></td>      <td rowspan="1" colspan="4"><p>Quantidade de novas matrículas, declaradas pelos Municípios e o Distrito Federal, em novos estabelecimentos públicos de educação infantil, construídos com recursos de programas federais e que estão em plena atividade</p></td>      <td rowspan="1" colspan="1"><p>Valor do Repasse</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>Creche Parcial</p></td>      <td rowspan="1" colspan="1"><p>Creche Integral</p></td>      <td rowspan="1" colspan="1"><p>Pré-Escola Parcial</p></td>      <td rowspan="1" colspan="1"><p>Pré-Escola Integral</p></td>      <td rowspan="1" colspan="1"></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>CE</p></td>      <td rowspan="1" colspan="1"><p>Coreaú</p></td>      <td rowspan="1" colspan="1"><p>07.598.618/0001-44</p></td>      <td rowspan="1" colspan="1"><p>2304004</p></td>      <td rowspan="1" colspan="1"><p>0</p></td>      <td rowspan="1" colspan="1"><p>28</p></td>      <td rowspan="1" colspan="1"><p>0</p></td>      <td rowspan="1" colspan="1"><p>13</p></td>      <td rowspan="1" colspan="1"><p>137.525,69</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>MA</p></td>      <td rowspan="1" colspan="1"><p>São Luís Gonzaga do Maranhão</p></td>      <td rowspan="1" colspan="1"><p>06.460.018/0001-52</p></td>      <td rowspan="1" colspan="1"><p>2111409</p></td>      <td rowspan="1" colspan="1"><p>58</p></td>      <td rowspan="1" colspan="1"><p>0</p></td>      <td rowspan="1" colspan="1"><p>0</p></td>      <td rowspan="1" colspan="1"><p>0</p></td>      <td rowspan="1" colspan="1"><p>152.978,48</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>MA</p></td>      <td rowspan="1" colspan="1"><p>Trizidela do Vale</p></td>      <td rowspan="1" colspan="1"><p>01.558.070/0001-22</p></td>      <td rowspan="1" colspan="1"><p>2112233</p></td>      <td rowspan="1" colspan="1"><p>77</p></td>      <td rowspan="1" colspan="1"><p>0</p></td>      <td rowspan="1" colspan="1"><p>38</p></td>      <td rowspan="1" colspan="1"><p>0</p></td>      <td rowspan="1" colspan="1"><p>294.603,97</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>MA</p></td>      <td rowspan="1" colspan="1"><p>Tuntum</p></td>      <td rowspan="1" colspan="1"><p>06.138.911/0001-66</p></td>      <td rowspan="1" colspan="1"><p>2112308</p></td>      <td rowspan="1" colspan="1"><p>0</p></td>      <td rowspan="1" colspan="1"><p>107</p></td>      <td rowspan="1" colspan="1"><p>27</p></td>      <td rowspan="1" colspan="1"><p>38</p></td>      <td rowspan="1" colspan="1"><p>497.351,65</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>PA</p></td>      <td rowspan="1" colspan="1"><p>Itaituba</p></td>      <td rowspan="1" colspan="1"><p>05.138.730/0001-77</p></td>      <td rowspan="1" colspan="1"><p>1503606</p></td>      <td rowspan="1" colspan="1"><p>168</p></td>      <td rowspan="1" colspan="1"><p>13</p></td>      <td rowspan="1" colspan="1"><p>212</p></td>      <td rowspan="1" colspan="1"><p>0</p></td>      <td rowspan="1" colspan="1"><p>992.410,52</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>PB</p></td>      <td rowspan="1" colspan="1"><p>Queimadas</p></td>      <td rowspan="1" colspan="1"><p>08.742.264/0001-22</p></td>      <td rowspan="1" colspan="1"><p>2512507</p></td>      <td rowspan="1" colspan="1"><p>0</p></td>      <td rowspan="1" colspan="1"><p>68</p></td>      <td rowspan="1" colspan="1"><p>0</p></td>      <td rowspan="1" colspan="1"><p>0</p></td>      <td rowspan="1" colspan="1"><p>202.747,89</p></td>     </tr>     <tr>      <td rowspan="1" colspan="4"><p>TOTAL</p></td>      <td rowspan="1" colspan="1"><p>303</p></td>      <td rowspan="1" colspan="1"><p>216</p></td>      <td rowspan="1" colspan="1"><p>277</p></td>      <td rowspan="1" colspan="1"><p>51</p></td>      <td rowspan="1" colspan="1"><p>2.277.618,20</p></td>     </tr>    </tbody>   </table>

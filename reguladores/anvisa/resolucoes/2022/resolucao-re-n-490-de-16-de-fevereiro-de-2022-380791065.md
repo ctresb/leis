@@ -1,0 +1,138 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 490, DE 16 DE FEVEREIRO DE 2022"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "490"
+data: 2022-02-16
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 17/02/2022, seção 1, p. 206"
+data_publicacao: 2022-02-17
+edicao: "34"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-490-de-16-de-fevereiro-de-2022-380791065"
+sha256_html_fonte: 38a945faf6d13395fca63ff76b1400f75a717b6a85b1399b51f5f5e4ac0a3343
+baixado_em: 2026-10-20
+---
+# RESOLUÇÃO-RE Nº 490, DE 16 DE FEVEREIRO DE 2022
+
+RESOLUÇÃO-RE Nº 490, DE 16 DE FEVEREIRO DE 2022
+
+O Coordenador de Autorização de Funcionamento de Empresas, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Conceder Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+GENEROPHLORA MEDICAMENTOS LTDA / 05.554.569/0005-46
+
+25351.049860/2022-14 / 1269720
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 0395509225
+
+--------------------------------------
+
+MR SAFETY TECHNOLOGY EIRELI / 18.344.665/0001-88
+
+25351.051694/2022-16 / 1269687
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0405080221
+
+--------------------------------------
+
+NEW PHARMS LTDA / 43.641.608/0001-08
+
+25351.024474/2021-21 / 1269781
+
+7056 - AFE/AE - Recurso Administrativo - DEMAIS EMPRESAS (exceto farmácia e drogaria) / 0335242227
+
+--------------------------------------
+
+Alagoas Medicamentos e Correlatos Hospitalares do Nordeste LTDA / 38.345.097/0001-47
+
+25351.040832/2022-23 / 1269716
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0320550222
+
+--------------------------------------
+
+FOX ICELOG TRANSPORTES E LOGISTICAS LTDA / 44.250.366/0001-94
+
+25351.040799/2022-31 / 1269608
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0320369226
+
+--------------------------------------
+
+ZENATUR TRANSPORTES DE CARGAS LTDA / 53.717.120/0001-70
+
+25351.042764/2022-37 / 1269579
+
+761 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - ARMAZENADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0334012228
+
+--------------------------------------
+
+BELIVE MEDICAL PRODUTOS HOSPITALARES LTDA / 32.757.824/0002-88
+
+25351.046670/2022-37 / 1269886
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0358841224
+
+--------------------------------------
+
+R B DE ARAUJO TRANSPORTE DE CARGA / 30.980.794/0001-68
+
+25351.040839/2022-45 / 1269733
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0320599221
+
+--------------------------------------
+
+ARMAZEM GARAVELO DISTRIBUIDORA E SERVICOS - EIRELI / 35.830.966/0001-30
+
+25351.051672/2022-48 / 1269656
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0404920225
+
+--------------------------------------
+
+BD DISTRIBUIDORA DE MEDICAMENTOS E MATERIAL HOSPITALAR LTDA / 19.349.009/0003-00
+
+25351.049290/2022-54 / 1269639
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0392299224
+
+--------------------------------------
+
+med & farma comercio atacadista medicamentos ltda / 41.778.326/0001-21
+
+25351.711523/2021-69 / 1269625
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 6182099216
+
+--------------------------------------
+
+HUB HEALTH DISTRIBUIDORA DE PRODUTOS HOSPITALARES LTDA / 42.705.829/0001-30
+
+25351.049279/2022-94 / 1269901
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0392266229
+
+--------------------------------------
+
+JOHN EXPRESS TRANSPORTES E LOGISTICA EIRELI / 03.122.292/0001-23
+
+25351.051715/2022-95 / 1269811
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0405203225
+
+--------------------------------------
+
+AGERDAN BARROSO JUNIOR EIRELI / 35.094.501/0001-69
+
+25351.051722/2022-97 / 1269824
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0405242221

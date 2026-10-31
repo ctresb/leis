@@ -1,0 +1,114 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 1.509, DE 28 DE ABRIL DE 2023"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "1509"
+data: 2023-04-28
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 02/05/2023, seção 1, p. 141"
+data_publicacao: 2023-05-02
+edicao: "82"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.509-de-28-de-abril-de-2023-480220441"
+sha256_html_fonte: e4d616bb5e9ec6800c42e4515e0b97c40017613d9f03d71a159c8b023481ba68
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE Nº 1.509, DE 28 DE ABRIL DE 2023
+
+RESOLUÇÃO-RE Nº 1.509, DE 28 DE ABRIL DE 2023
+
+O Coordenador de Autorização de Funcionamento de Empresas, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Conceder Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344 de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+OSER NEGOCIOS E PARTICIPAÇÕES S.A / 33.370.100/0002-40
+
+25351.189094/2023-01 / 1290370
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0308213238
+
+--------------------------------------
+
+GRECCO ENCOMENDAS E TRANSPORTES LTDA / 01.327.657/0001-20
+
+25351.188622/2023-04 / 1290349
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0307698238
+
+--------------------------------------
+
+JKNE MEDICAMENTOS LTDA / 48.694.915/0001-70
+
+25351.185822/2023-05 / 1290231
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0302791230
+
+--------------------------------------
+
+BELMEDICAL COMERCIO DE PRODUTOS HOSPITALARES LTDA / 12.735.479/0001-93
+
+25351.601432/2022-05 / 1290397
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 4990439228
+
+--------------------------------------
+
+ORBITAL DISTRIBUIDORA DE MEDICAMENTOS E PRODUTOS PARA SAÚDE LTDA / 46.556.292/0001-44
+
+25351.181946/2023-11 / 1290321
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0296766232
+
+--------------------------------------
+
+C N DE MARTINS COMERCIAL / 48.830.554/0001-42
+
+25351.179010/2023-12 / 1290261
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0292025238
+
+--------------------------------------
+
+HEALTH CLEAN COMERCIAL LTDA / 23.615.514/0001-57
+
+25351.188135/2023-33 / 1290304
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0307171230
+
+--------------------------------------
+
+Portal do Sertão Farmácia de manipulação LTDA / 45.776.561/0001-15
+
+25351.185112/2023-77 / 1290213
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 0302014233
+
+--------------------------------------
+
+TOTAL DISTRIBUIDORA DE MEDICAMENTOS PE LTDA / 30.061.628/0001-68
+
+25351.181966/2023-84 / 1290335
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0296789232
+
+--------------------------------------
+
+HALEX ISTAR INDUSTRIA FARMACEUTICA S.A. / 01.571.702/0008-64
+
+25351.178913/2023-86 / 1290289
+
+731 - AE - CONCESSÃO - INDÚSTRIA DE MEDICAMENTOS / 0291914233
+
+--------------------------------------
+
+OXIMED DISTRIBUIDORA LTDA / 48.987.602/0001-00
+
+25351.188783/2023-90 / 1290366
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0307874231

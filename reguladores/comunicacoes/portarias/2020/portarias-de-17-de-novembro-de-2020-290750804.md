@@ -1,0 +1,26 @@
+---
+titulo: "PORTARIAS DE 17 DE NOVEMBRO DE 2020"
+orgao: "Ministério das Comunicações/Secretaria de Radiodifusão/Departamento de Inovação, Regulamentação e Fiscalização"
+tipo: "Portaria"
+numero: ""
+data: ""
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 27/11/2020, seção 1, p. 15"
+data_publicacao: 2020-11-27
+edicao: "227"
+fonte: "https://www.in.gov.br/web/dou/-/portarias-de-17-de-novembro-de-2020-290750804"
+sha256_html_fonte: f5e60fd39a7e2ecbf56f8d45bfc894959beff37b3052bf8e4d199681552b85ff
+baixado_em: 2026-10-21
+---
+# PORTARIAS DE 17 DE NOVEMBRO DE 2020
+
+PORTARIAS DE 17 DE NOVEMBRO DE 2020
+
+O DIRETOR DO DEPARTAMENTO DE INOVAÇÃO, REGULAMENTAÇÃO E FISCALIZAÇÃO, no uso de suas atribuições, observados os critérios e parâmetros estabelecidos pelas Portarias n° 112, de 22 de abril de 2013, e n° 294, de 30 de janeiro de 2015, e tendo em vista o que consta nos processos abaixo, resolve:
+
+**Art. 1º** Aplicar às Entidades, abaixo relacionadas, a penalidade de multa.
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>N° do Processo</p></td>      <td rowspan="1" colspan="1"><p>Entidade</p></td>      <td rowspan="1" colspan="1"><p>Serviço</p></td>      <td rowspan="1" colspan="1"><p>Município</p></td>      <td rowspan="1" colspan="1"><p>UF</p></td>      <td rowspan="1" colspan="1"><p>Sanção</p></td>      <td rowspan="1" colspan="1"><p>Valor (R$)</p></td>      <td rowspan="1" colspan="1"><p>Enquadramento Legal</p></td>      <td rowspan="1" colspan="1"><p>Portaria</p></td>      <td rowspan="1" colspan="1"><p>Embasamento da Portaria de Multa</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>53504.008311/2017</p></td>      <td rowspan="1" colspan="1"><p>Rádio Clube De Vera Cruz Ltda</p></td>      <td rowspan="1" colspan="1"><p>OM</p></td>      <td rowspan="1" colspan="1"><p>Vera Cruz</p></td>      <td rowspan="1" colspan="1"><p>SP</p></td>      <td rowspan="1" colspan="1"><p>Multa</p></td>      <td rowspan="1" colspan="1"><p>3.366,23</p></td>      <td rowspan="1" colspan="1"><p>Art. 2º da Portaria MC n° 26/96, e art. 62 da Lei n° 4.117/62</p></td>      <td rowspan="1" colspan="1"><p>Portaria DECEF n° 1262 de 17/11/2020</p></td>      <td rowspan="1" colspan="1"><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 294/2015</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>53900.052742/2015</p></td>      <td rowspan="1" colspan="1"><p>Organização Cultural Ambiental E De Saúde - Ocas</p></td>      <td rowspan="1" colspan="1"><p>RADCOM</p></td>      <td rowspan="1" colspan="1"><p>Bom Jardim</p></td>      <td rowspan="1" colspan="1"><p>RJ</p></td>      <td rowspan="1" colspan="1"><p>Multa</p></td>      <td rowspan="1" colspan="1"><p>1.068,64</p></td>      <td rowspan="1" colspan="1"><p>Art. 40, XXIX do Decreto nº 2.615/98</p></td>      <td rowspan="1" colspan="1"><p>Portaria DECEF n° 1345 de 17/11/2020</p></td>      <td rowspan="1" colspan="1"><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 294/2015</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>53900.053058/2015</p></td>      <td rowspan="1" colspan="1"><p>Associação Rádio Comunitária Sambe</p></td>      <td rowspan="1" colspan="1"><p>RADCOM</p></td>      <td rowspan="1" colspan="1"><p>Rio Bonito</p></td>      <td rowspan="1" colspan="1"><p>RJ</p></td>      <td rowspan="1" colspan="1"><p>Multa</p></td>      <td rowspan="1" colspan="1"><p>1.068,64</p></td>      <td rowspan="1" colspan="1"><p>Art. 40, XXIX do Decreto nº 2.615/98</p></td>      <td rowspan="1" colspan="1"><p>Portaria DECEF n° 1346 de 17/11/2020</p></td>      <td rowspan="1" colspan="1"><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 294/2015</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>53900.048829/2015</p></td>      <td rowspan="1" colspan="1"><p>Associação Assistencial E Educativa Comunidade Solidária Shalon De Areiópolis</p></td>      <td rowspan="1" colspan="1"><p>RADCOM</p></td>      <td rowspan="1" colspan="1"><p>Areiópolis</p></td>      <td rowspan="1" colspan="1"><p>SP</p></td>      <td rowspan="1" colspan="1"><p>Multa</p></td>      <td rowspan="1" colspan="1"><p>1.068,64</p></td>      <td rowspan="1" colspan="1"><p>Art. 40, XXIX do Decreto nº 2.615/98</p></td>      <td rowspan="1" colspan="1"><p>Portaria DECEF n° 1347 de 17/11/2020</p></td>      <td rowspan="1" colspan="1"><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 294/2015</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>53900.048875/2015</p></td>      <td rowspan="1" colspan="1"><p>Associação Comunitária Para Integração Cultural E Desenvolvimento De Santo Antônio De Posse (ACICDSAP)</p></td>      <td rowspan="1" colspan="1"><p>RADCOM</p></td>      <td rowspan="1" colspan="1"><p>Santo Antônio de Posse</p></td>      <td rowspan="1" colspan="1"><p>SP</p></td>      <td rowspan="1" colspan="1"><p>Multa</p></td>      <td rowspan="1" colspan="1"><p>1.068,64</p></td>      <td rowspan="1" colspan="1"><p>Art. 40, XXIX do Decreto nº 2.615/98</p></td>      <td rowspan="1" colspan="1"><p>Portaria DECEF n° 1348 de 17/11/2020</p></td>      <td rowspan="1" colspan="1"><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 294/2015</p></td>     </tr>    </tbody>   </table>
+
+RODRIGO CRUZ GEBRIM

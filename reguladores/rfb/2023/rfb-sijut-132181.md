@@ -1,0 +1,85 @@
+---
+titulo: "Solução de Consulta Cosit nº 98136, de 23 de junho de 2023"
+orgao: "Coordenação-Geral de Tributação"
+tipo: "Solução de Consulta"
+numero: "98136"
+data: "2023-06-23"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 24/07/2023, seção 1, página 69"
+data_publicacao: "2023-07-24"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/132181/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/132181/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "132181"
+sha256_texto: "673b9b7a0154c18b3a0ad93b48d35547d8d808ddd752c43ea4a7906b6d9da489"
+baixado_em: "2026-10-16"
+---
+# Solução de Consulta Cosit nº 98136, de 23 de junho de 2023
+
+Assunto: Classificação de Mercadorias  
+Código NCM 8517.62.59  
+Mercadoria: Aparelho de videoconferência, dotado de tela de visualização sensível ao toque de oito polegadas, para comunicação audiovisual entre dois ou mais usuários e navegação exclusiva ao próprio sistema, com conexão por fio (Ethernet), com dimensões de 205 x 123 x 79 mm e peso de 812 g.  
+Dispositivos Legais: RGI 1, RGI 6 e RGC 1 da NCM constante da TEC, aprovada pela Res. Gecex nº 272, de 2021, e da Tipi, aprovada pelo Dec. nº 11.158, de 2022; e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pelas IN RFB nº 1.788, de 2018 e nº 2.052, de 2021, e alterações posteriores.
+
+SC Cosit nº 98.136-2023
+
+Coordenação-Geral de Tributação PROCESSO 00000.000000/0000-00
+
+SOLUÇÃO DE 98.136 – COSIT CONSULTA DATA 23 de junho de 2023
+
+INTERESSADO CLICAR PARA INSERIR O NOME
+
+CNPJ/CPF 00.000-00000/0000-00
+
+Assunto: Classificação de Mercadorias Código NCM 8517.62.59 Mercadoria: Aparelho de videoconferência, dotado de tela de visualização sensível ao toque de oito polegadas, para comunicação audiovisual entre dois ou mais usuários e navegação exclusiva ao próprio sistema, com conexão por fio (Ethernet), com dimensões de 205 x 123 x 79 mm e peso de 812 g. Dispositivos Legais: RGI 1, RGI 6 e RGC 1 da NCM constante da TEC, aprovada pela Res. Gecex nº 272, de 2021, e da Tipi, aprovada pelo Dec. nº 11.158, de 2022; e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pelas IN RFB nº 1.788, de 2018 e nº 2.052, de 2021, e alterações posteriores.
+
+RELATÓRIO
+
+Consulta o interessado quanto à classificação fiscal na Nomenclatura Comum do Mercosul (NCM) constante da Tarifa Externa Comum (TEC), aprovada pela Resolução Gecex nº 272, de 19 de novembro de 2021, e da Tabela de Incidência do Imposto sobre Produtos Industrializados (Tipi), aprovada pelo Decreto nº 11.158, de 29 de julho de 2022, para a mercadoria abaixo especificada:
+
+Informações sigilosas
+
+FUNDAMENTOS
+
+Identificação da mercadoria: 2. A análise das informações prestadas e documentos apresentados evidencia que a mercadoria sob consulta refere-se a um aparelho de videoconferência, dotado de tela de visualização sensível ao toque de oito polegadas, para comunicação audiovisual entre dois ou mais usuários e navegação exclusiva ao próprio sistema, sem capacidade de processamento de outros dados (aplicativos), com conexão por fio (Ethernet), com dimensões de 205 x 123 x 79 mm e peso de 812 g.
+
+Classificação da mercadoria: 3. A classificação fiscal de mercadorias fundamenta-se, conforme o caso, nas Regras Gerais para a Interpretação do Sistema Harmonizado (RGI) da Convenção Internacional sobre o Sistema Harmonizado de Designação e de Codificação de Mercadorias, nas Regras Gerais Complementares do Mercosul (RGC/NCM), nas Regras Gerais Complementares da Tipi (RGC/Tipi), nos pareceres de classificação do Comitê do Sistema Harmonizado da Organização Mundial das Aduanas (OMA) e nos ditames do Mercosul, e, subsidiariamente, nas Notas Explicativas do Sistema Harmonizado (Nesh). 4. A RGI 1 dispõe que os títulos das Seções, Capítulos e Subcapítulos têm apenas valor indicativo, para os efeitos legais, a classificação é determinada pelos textos das posições e das notas de Seção e de Capítulo e, desde que não sejam contrárias aos textos das referidas posições e notas, pelas Regras seguintes (RGI 2 a 5). 5. Segundo o dicionário Michaelis da Língua Portuguesa (https://michaelis.uol.com.br/palavra/m8GL8/videoconferencia/), a palavra videoconferência significa “Teleconferência realizada entre duas ou mais pessoas que, com a utilização de sons e imagens em circuito fechado ou em rede de computadores, possibilita a comunicação, dando a impressão de que todos estão no mesmo recinto.” (Grifou-se) 6. A posição 85.17 compreende os “Aparelhos telefônicos, incluindo os telefones inteligentes (smartphones) e outros telefones para redes celulares ou para outras redes sem fio; outros aparelhos para a transmissão ou recepção de voz, imagens ou outros dados, incluindo os aparelhos para comunicação em redes por fio ou redes sem fio (tal como uma rede local (LAN) ou uma rede de área estendida (longa distância) (WAN)), exceto os aparelhos das posições 84.43, 85.25, 85.27 ou 85.28.” (Grifou-se) 7. Para melhor compreensão da abrangência da posição 85.17 recorre-se às Notas Explicativas do Sistema Harmonizado (Nesh), que constituem elemento subsidiário de caráter fundamental para a correta interpretação do conteúdo da posição, aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, e atualizadas pela IN RFB nº 1.788, de 2018 e nº 2.052, de 2021, que trazem os seguintes esclarecimentos: Esta posição abrange os aparelhos de comunicação para emissão, transmissão ou recepção de falas ou de outros sons, de imagens ou de outros dados, entre dois pontos, por modulação duma corrente elétrica ou duma onda óptica circulando num suporte formado por fios ou por ondas eletromagnéticas numa rede sem fios. O sinal pode ser analógico ou digital. Dentre tais redes, que podem ser interligadas, podem-
+
+se citar a telefonia, a telegrafia, a radiotelefonia, a radiotelegrafia, as redes locais e as redes estendidas. [...] II.- OUTROS APARELHOS PARA A TRANSMISSÃO OU RECEPÇÃO DE VOZ, IMAGENS OU OUTROS DADOS, INCLUINDO OS APARELHOS PARA COMUNICAÇÃO EM REDES POR FIO OU REDES SEM FIO (TAL COMO UMA REDE LOCAL OU UMA REDE DE ÁREA ESTENDIDA (ALARGADA\*)) [...]
+
+G) Os outros equipamentos de comunicação. Este grupo compreende os aparelhos para comunicação em uma rede mesmo com fio (tal como uma rede local ou estendida) ou para a emissão, transmissão ou recepção de falas ou de outros sons, de imagens ou de outros dados em tais redes. As redes de comunicação compreendem, entre outros, os sistemas para telecomunicação por corrente portadora ou para telecomunicação digital e suas combinações. Tais aparelhos podem ser configurados na forma duma rede telefônica pública com comutação, duma rede local (LAN), duma "Metropolitan Area Networks" (MAN), ou duma rede estendida (WAN), por exemplo, seja numa arquitetura proprietária, seja numa arquitetura aberta. [...] [sublinhou-se]
+
+8. Assim, o presente produto em análise classifica-se na posição 85.17, com base na RGI 1 e com auxílio dos subsídios das Nesh. 9. Por sua vez, a RGI 6 determina que: A classificação de mercadorias nas subposições de uma mesma posição é determinada, para efeitos legais, pelos textos dessas subposições e das Notas de subposição respectivas, bem como, mutatis mutandis, pelas Regras precedentes, entendendo-se que apenas são comparáveis subposições do mesmo nível. Na acepção da presente Regra, as Notas de Seção e de Capítulo são também aplicáveis, salvo disposições em contrário.
+
+10. A posição 85.17 está desdobrada em: 85.17 Aparelhos telefônicos, incluindo os telefones inteligentes (smartphones) e outros telefones para redes celulares ou para outras redes sem fio; outros aparelhos para a transmissão ou recepção de voz, imagens ou outros dados, incluindo os aparelhos para comunicação em redes por fio ou redes sem fio (tal como uma rede local (LAN) ou uma rede de área estendida (longa distância) (WAN)), exceto os aparelhos das posições 84.43, 85.25, 85.27 ou 85.28. 8517.1 - Aparelhos telefônicos, incluindo os telefones inteligentes (smartphones) e outros telefones para redes celulares ou para outras redes sem fio: 8517.6 - Outros aparelhos para a transmissão ou recepção de voz, imagens ou outros dados, incluindo os aparelhos para comunicação em redes por fio ou redes sem fio (tal como uma rede local (LAN) ou uma rede de área estendida (longa distância) (WAN)): 8517.7 - Partes:
+
+11. Não se tratando de um aparelho telefônico, nem tampouco de uma parte, o presente aparelho de videoconferência se enquadra perfeitamente no texto da subposição de 1º nível 8517.6 - Outros aparelhos para a transmissão ou recepção de voz, imagens ou outros dados, incluindo os
+
+aparelhos para comunicação em redes por fio ou redes sem fio (tal como uma rede local (LAN) ou uma rede de área estendida (longa distância) (WAN)): -, a qual se desdobra em: 8517.6 - Outros aparelhos para a transmissão ou recepção de voz, imagens ou outros dados, incluindo os aparelhos para comunicação em redes por fio ou redes sem fio (tal como uma rede local (LAN) ou uma rede de área estendida (longa distância) (WAN)): 8517.61 -- Estações-base 8517.62 -- Aparelhos para recepção, conversão, transmissão ou regeneração de voz, imagens ou outros dados, incluindo os aparelhos de comutação e roteamento
+
+12. A função do produto é a de recepção e transmissão de imagens e sons, logo, classifica- se na subposição de 2º nível 8517.62 - Aparelhos para recepção, conversão, transmissão ou regeneração de voz, imagens ou outros dados, incluindo os aparelhos de comutação e roteamento. 13. Para a correta determinação de um item dentro de uma posição nos guiamos pela Regra Geral Complementar do Mercosul nº 1 (RGC/NCM 1) que determina que: As Regras Gerais para Interpretação do Sistema Harmonizado se aplicarão, "mutatis mutandis", para determinar dentro de cada posição ou subposição, o item aplicável e, dentro deste último, o subitem correspondente, entendendo-se que apenas são comparáveis desdobramentos regionais (itens e subitens) do mesmo nível.
+
+14. A posição 8517.62 possui os seguintes desdobramentos regionais: 8517.62 -- Aparelhos para recepção, conversão, transmissão ou regeneração de voz, imagens ou outros dados, incluindo os aparelhos de comutação e roteamento 8517.62.1 Concentradores de linhas de assinantes (terminais de central ou terminal remoto) e multiplexadores 8517.62.2 Aparelhos para comutação de linhas telefônicas 8517.62.3 Outros aparelhos para comutação 8517.62.4 Roteadores digitais, em redes mesmo com fio 8517.62.5 Outros aparelhos para recepção, transmissão ou regeneração de voz, imagens ou outros dados em rede com fio 8517.62.6 Aparelhos emissores com receptor incorporado de tecnologia celular ou por satélite 8517.62.7 Outros aparelhos emissores com receptor incorporado, digitais 8517.62.9 Outros
+
+15. Considerando que os sinais de imagem e som são transmitidos por fio, o produto em análise se enquadra no item 8517.62.5, que, por sua vez, se desdobra em: 8517.62.5 Outros aparelhos para recepção, transmissão ou regeneração de voz, imagens ou outros dados em rede com fio 8517.62.51 Terminais ou repetidores sobre linhas metálicas 8517.62.52 Terminais ou repetidores sobre linhas de fibras ópticas, com velocidade de transmissão superior a 2,5 Gbit/s 8517.62.53 Terminais de texto que operem com código de transmissão Baudot, providos de teclado alfanumérico e visor, mesmo com telefone incorporado 8517.62.54 Distribuidores de conexões para redes (hubs) 8517.62.55 Moduladores-demoduladores (modems) 8517.62.56 Interfones 8517.62.59 Outros
+
+16. O produto sob consulta não se enquadra nos subitens precedentes, sendo assim classifica-se, pela aplicação da RGC 1, no subitem residual 8517.62.59. 17. Por fim, cabe ressaltar que a Solução de Consulta não convalida informações apresentadas pelo consulente, conforme o art. 46, da IN RFB nº 2.057, de 2021. Portanto, para a adoção do código supracitado é necessária a devida correlação, das características determinantes da mercadoria, com a descrição contida na respectiva ementa.
+
+CONCLUSÃO
+
+18. Com base nas Regras Gerais para Interpretação do Sistema Harmonizado RGI 1 (texto da posição 85.17), RGI 6 (textos das subposições de 1º nível 8517.6 e de 2º nível 8517.62) e na RGC 1 (textos do item 8517.62.5 e do subitem 8517.62.59) da NCM constante da Tarifa Externa Comum (TEC), aprovada pela Resolução Gecex nº 272, de 2021, e da Tabela de Incidência do Imposto sobre Produtos Industrializados (Tipi), aprovada pelo Decreto nº 11.158, de 2022; e em subsídios extraídos das Notas Explicativas do Sistema Harmonizado (Nesh), aprovadas pelo Decreto nº 435, de 1992, e pelas Instruções Normativas (IN) RFB nº 1.788, de 2018 e nº 2.052, de 2021, e alterações posteriores, a mercadoria CLASSIFICA-SE no código NCM 8517.62.59.
+
+ORDEM DE INTIMAÇÃO
+
+Aprovada a Solução de Consulta, nos termos do art. 48 da Lei nº 9.430, de 27 de dezembro de 1996, pela 2ª Turma constituída pela Portaria RFB nº 1.921, de 13 de abril de 2017, à sessão de 22 de junho de 2023. Divulgue-se e publique-se nos termos do art. 44 da Instrução Normativa RFB nº 2.057, de 9 de dezembro de 2021. Encaminhe-se para ciência do consulente e demais providências cabíveis.
+
+Assinado digitalmente Assinado digitalmente ROBERTO COSTA CAMPOS ALEXSANDER SILVA ARAUJO Auditor-Fiscal da Receita Federal do Brasil Auditor-Fiscal da Receita Federal do Brasil Relator Membro da 2ª Turma
+
+Assinado digitalmente CARLOS HUMBERTO STECKEL Auditor-Fiscal da Receita Federal do Brasil Presidente da 2ª Turma
+
+
+CARLOS HUMBERTO STECKEL  
+Presidente da 2ª Turma

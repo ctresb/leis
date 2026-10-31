@@ -1,0 +1,202 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 240, DE 25 DE JANEIRO DE 2023"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "240"
+data: 2023-01-25
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 26/01/2023, seção 1, p. 49"
+data_publicacao: 2023-01-26
+edicao: "19"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-240-de-25-de-janeiro-de-2023-460136880"
+sha256_html_fonte: 154d9d61c23e0936c28fcfc6ade0f4d6f1d3db2431029eeea51a690e69d20043
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE Nº 240, DE 25 DE JANEIRO DE 2023
+
+RESOLUÇÃO-RE Nº 240, DE 25 DE JANEIRO DE 2023
+
+A Coordenadora substituta de Autorização de Funcionamento de Empresas, no uso das atribuições que lhe confere o art. 144, II, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Conceder Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+TACIANE PIMENTEL DA SILVA
+
+## ANEXO
+
+BRANSPORTES LOGISTICA E TRANSPORTES LTDA / 40.727.972/0001-05
+
+25351.606511/2022-02 / 1284864
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 4999708221
+
+--------------------------------------
+
+Bioderme Lavras Ltda / 47.458.858/0001-68
+
+25351.652146/2022-08 / 1285029
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 5080124224
+
+--------------------------------------
+
+Rede Prime Farmacias Ltda / 43.910.353/0001-31
+
+25351.646170/2022-08 / 1284756
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 5069216228
+
+--------------------------------------
+
+WILLIAMS CENTRO DE DISTRIBUICAO DE MEDICAMENTOS LTDA / 41.582.087/0001-30
+
+25351.604987/2022-09 / 1284972
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 4998070223
+
+--------------------------------------
+
+COUTO FERREIRA FARMACIA COM MANIPULAÇÃO LTDA / 08.454.314/0001-76
+
+25351.667343/2022-13 / 1285077
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 5102925229
+
+--------------------------------------
+
+BONATTO DISTRIBUIDORA DE MEDICAMENTOS LTDA / 47.365.250/0001-99
+
+25351.604953/2022-14 / 1284969
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 4998027221
+
+--------------------------------------
+
+PLZF COMÉRCIO DE PRODUTOS FARMACÊUTICOS MANIPULADOS LTDA / 45.526.291/0001-94
+
+25351.642689/2022-17 / 1284907
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 5062295220
+
+--------------------------------------
+
+ALCADA FARMACIA DE MANIPULAÇAO VETERINARIA / 21.489.279/0001-99
+
+25351.641651/2022-19 / 1284924
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 5061177223
+
+--------------------------------------
+
+bsb-df transportes de cargas ltda / 08.944.556/0008-14
+
+25351.611823/2022-20 / 1284911
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 5008772228
+
+--------------------------------------
+
+OLIVEIRA NOBRE MANIPULACAO VETERINARIA LTDA / 46.431.357/0001-25
+
+25351.662447/2022-31 / 1284986
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 5095212226
+
+--------------------------------------
+
+CML Centro Médico Logístico Ltda / 23.378.089/0002-00
+
+25351.606899/2022-33 / 1284895
+
+761 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - ARMAZENADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 5000124227
+
+--------------------------------------
+
+farmacia de manipulação lrf ltda / 46.325.910/0001-45
+
+25351.654049/2022-41 / 1285050
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 5083043220
+
+--------------------------------------
+
+Negrão Farmacia de Manipulação LTDA / 47.313.584/0001-19
+
+25351.652147/2022-44 / 1285032
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 5080127229
+
+--------------------------------------
+
+AZETRANSPORTES LTDA / 12.124.229/0001-17
+
+25351.407190/2022-57 / 1285001
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 4751268228
+
+--------------------------------------
+
+NER FARMACIA DE MANIPULACAO LTDA / 45.310.344/0001-35
+
+25351.643931/2022-61 / 1284682
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 5063630227
+
+--------------------------------------
+
+FARMACIA MAGISTRAL SANTA RITA EIRELI / 41.478.533/0001-60
+
+25351.644117/2022-64 / 1284742
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 5063885225
+
+--------------------------------------
+
+SOBRAL FARMACIA DE MANIPULACAO LTDA / 43.838.274/0001-67
+
+25351.642238/2022-71 / 1284938
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 5061825225
+
+--------------------------------------
+
+UNIKA DISTRIBUIDORA DE MEDICAMENTOS LTDA / 47.734.682/0001-20
+
+25351.623275/2022-81 / 1285123
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 5029238221
+
+--------------------------------------
+
+BRASPRESS TRANSPORTES URGENTES LTDA / 48.740.351/0152-78
+
+25351.612294/2022-81 / 1285137
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 5009279223
+
+--------------------------------------
+
+REACH LATAM CONSULTORIA LTDA / 24.662.773/0001-00
+
+25351.623146/2022-92 / 1285094
+
+706 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - IMPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 5029100229
+
+--------------------------------------
+
+MEDFUTURA DISTRIBUIDORA DE MEDICAMENTOS E PRODUTOS DE SAUDE LTDA / 17.700.763/0007-33
+
+25351.606538/2022-97 / 1284878
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 4999737221
+
+--------------------------------------
+
+CFS PHARMA FARMACIA LTDA / 48.005.049/0001-63
+
+25351.652148/2022-99 / 1285046
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 5080130229

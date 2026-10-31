@@ -1,0 +1,170 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.188, DE 7 DE NOVEMBRO DE 2019"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "3188"
+data: 2019-11-07
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 11/11/2019, seção 1, p. 91"
+data_publicacao: 2019-11-11
+edicao: "218"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.188-de-7-de-novembro-de-2019-227109076"
+sha256_html_fonte: f08b0dfdcb4e1976b4018c395e58adcd1d6639c3a7c697466d8e5e8cd4f227f6
+baixado_em: 2026-10-27
+---
+# RESOLUÇÃO-RE Nº 3.188, DE 7 DE NOVEMBRO DE 2019
+
+RESOLUÇÃO-RE Nº 3.188, DE 7 DE NOVEMBRO DE 2019
+
+A Coordenadora de Autorização de Funcionamento de Empresas, Substituta, no uso das atribuições que lhe confere o art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º.** Conceder Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+PATRICIA AZEVEDO CHAGAS
+
+## ANEXO
+
+EMPRESA: JMS DISTRIBUIDORA HOSPITALAR EIRELI
+
+ENDEREÇO: RUA JOAO DE OLIVEIRA SA, 495
+
+BAIRRO: CENTRO CEP: 49860000 - GRACHO CARDOSO/SE
+
+CNPJ: 33.598.456/0001-54
+
+PROCESSO: 25351.561702/2019-24 AUTORIZ/MS: 1.19535.2
+
+ATIVIDADE/CLASSE
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+----------------------------------------------------
+
+EMPRESA: CASA DA SAÚDE COMÉRCIO DE PRODUTOS MÉDICOS EIRELI
+
+ENDEREÇO: RUA CARLOS GOMES, 981 - LOJA A - TERREO
+
+BAIRRO: DOIS DE JULHO CEP: 40060325 - SALVADOR/BA
+
+CNPJ: 17.801.083/0001-10
+
+PROCESSO: 25351.575194/2019-61 AUTORIZ/MS: 1.19530.4
+
+ATIVIDADE/CLASSE
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS/MEDICAMENTO
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS/MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS/MEDICAMENTO
+
+----------------------------------------------------
+
+EMPRESA: ZUCK PAPEIS LTDA
+
+ENDEREÇO: RUA BUENOPOLIS, 200
+
+BAIRRO: 35 BI CEP: 44094594 - FEIRA DE SANTANA/BA
+
+CNPJ: 23.232.280/0001-69
+
+PROCESSO: 25351.579135/2019-62 AUTORIZ/MS: 1.19537.0
+
+ATIVIDADE/CLASSE
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+----------------------------------------------------
+
+EMPRESA: SIMONE TEIXEIRA FORTES
+
+ENDEREÇO: AV TOMAZ ALVES DE FIGUEIREDO, 1100, CASA 01
+
+BAIRRO: CIDADE INDUSTRIAL CEP: 12609166 - LORENA/SP
+
+CNPJ: 34.170.836/0001-56
+
+PROCESSO: 25351.590672/2019-63 AUTORIZ/MS: 1.19538.3
+
+ATIVIDADE/CLASSE
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+----------------------------------------------------
+
+EMPRESA: IMIFARMA PRODUTOS FARMACEUTICOS E COSMETICOS SA
+
+ENDEREÇO: AV JULIA GAIOLLI 740, GALPAO 100, MODULOS 5 E 6
+
+BAIRRO: ÁGUA CHATA CEP: 07251500 - GUARULHOS/SP
+
+CNPJ: 04.899.316/0536-61
+
+PROCESSO: 25351.575530/2019-76 AUTORIZ/MS: 1.19533.5
+
+ATIVIDADE/CLASSE
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+----------------------------------------------------
+
+EMPRESA: NUTRIVITTA HOSPITALAR EIRELI
+
+ENDEREÇO: TV FRANCISCO AMANCIO, 1433
+
+BAIRRO: CENTRO CEP: 68790000 - SANTA ISABEL DO PARÁ/PA
+
+CNPJ: 31.509.020/0001-16
+
+PROCESSO: 25351.493327/2019-82 AUTORIZ/MS: 1.19521.3
+
+ATIVIDADE/CLASSE
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+----------------------------------------------------
+
+EMPRESA: DESAFIO FARMA DISTRIBUIDORA DE MEDICAMENTOS EIRELI
+
+ENDEREÇO: TRAVESSA LUIS BARBOSA N 1690 B
+
+BAIRRO: CARANAZAL CEP: 68040420 - SANTARÉM/PA
+
+CNPJ: 28.766.510/0001-93
+
+PROCESSO: 25351.584946/2019-85 AUTORIZ/MS: 1.19532.1
+
+ATIVIDADE/CLASSE
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+TOTAL DE EMPRESAS: 7

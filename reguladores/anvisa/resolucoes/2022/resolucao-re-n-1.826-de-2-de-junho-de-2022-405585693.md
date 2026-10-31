@@ -1,0 +1,308 @@
+---
+titulo: "RESOLUÇÃO-RE nº 1.826, DE 2 DE JUNHO DE 2022"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/3ª Diretoria/Gerência de Produtos de Higiene, Perfumes, Cosméticos e Saneantes"
+tipo: "Resolução"
+numero: "1826"
+data: 2022-06-02
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 06/06/2022, seção 1, p. 199"
+data_publicacao: 2022-06-06
+edicao: "106"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.826-de-2-de-junho-de-2022-405585693"
+sha256_html_fonte: 93b93237627f89e336c3a029d6ce881c2c83c68f58290bd68e85ea19294106fe
+baixado_em: 2026-10-20
+---
+# RESOLUÇÃO-RE nº 1.826, DE 2 DE JUNHO DE 2022
+
+RESOLUÇÃO-RE nº 1.826, DE 2 DE JUNHO DE 2022
+
+O Gerente de Produtos de Higiene, Cosméticos, Perfumes e Saneantes, no uso das atribuições que lhe confere o art. 129, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art.1º** Deferir os registros e as petições dos produtos de higiene pessoal, cosméticos e perfumes, conforme relação anexa.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+RODRIGO JOSE VIANA OTTONI
+
+## ANEXO
+
+NOME DA EMPRESA / CNPJ
+
+NOME DO PRODUTO E MARCA
+
+NÚMERO DO PROCESSO / REGISTRO
+
+PETIÇÃO(ÕES) / EXPEDIENTE(S)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+ANCLA´S INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA - EPP / 19.138.182/0001-90
+
+ALLERGIC CENTER PROTETOR SOLAR GEL CREME FACIAL FPS 30
+
+25351.499890/2022-60 / 275470098
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 2476460/22-2
+
+--------------------------------------
+
+BOTICA COMERCIAL FARMACEUTICA LTDA. / 77.388.007/0001-57
+
+AUSTRALIAN GOLD PROTETOR SOLAR CORPO E ROSTO KIDS
+
+25351.073920/2022-10 / 205441599
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 0516055/22-4
+
+--------------------------------------
+
+CCD COSM CIENTIFICA DERM COMERCIO E INDUSTRIA LTDA / 40.367.856/0001-14
+
+PHOTOAGE MINERAL FLUIDO FPS 50 SEM COR
+
+25351.208993/2018-44 / 217170243
+
+230 - REG. COSMÉTICOS - Modificação de Fórmula de Produto Registrado - Nacional / 1359346/22-8
+
+PHOTOAGE MINERAL FLUIDO FPS 50 SEM COR
+
+25351.208993/2018-44 / 217170243
+
+232 - REG. COSMÉTICOS - Substituição do Acondicionamento de Produto Registrado / 2141965/22-5
+
+PHOTOAGE MINERAL FLUIDO FPS 50 SEM COR
+
+25351.208993/2018-44 / 217170243
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 4219527/22-2
+
+--------------------------------------
+
+CDC INDUSTRIA DE COSMETICOS LTDA / 16.584.409/0001-32
+
+PROTETOR SOLAR FPS 60 JAY'LUC
+
+25351.137415/2022-01 / 275010011
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 0883832/22-4
+
+--------------------------------------
+
+CERAS JOHNSON / 33.122.466/0007-04
+
+Exposis Extrême Repelente
+
+25351.650449/2021-05 / 201920530
+
+239 - REG. COSMÉTICOS - Inclusão de Acondicionamento para Produto Registrado / 1519601/22-1
+
+--------------------------------------
+
+& CO. INDUSTRIA E COMERCIO DE COSMETICOS LTDA - EPP / 17.153.030/0001-30
+
+BALM LABIAL COM COR - &CO
+
+25351.097274/2022-78 / 280880033
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 0652459/22-6
+
+--------------------------------------
+
+DEVINTEX COSMETICOS LTDA / 01.773.518/0001-20
+
+SALON LINE CREME RELAXANTE RELAXER FORMULA NO BASE COM HIDRÓXIDO DE SÓDIO SUPER
+
+25351.017112/2018-88 / 229590331
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0834760/22-3
+
+SALON LINE CREME RELAXANTE RELAXER FORMULA NO BASE COM HIDRÓXIDO DE SÓDIO SUPER
+
+25351.017112/2018-88 / 229590331
+
+230 - REG. COSMÉTICOS - Modificação de Fórmula de Produto Registrado - Nacional / 4282313/21-8
+
+SALON LINE PROFESSIONAL CREME ALISANTE TIOGLICOLATO COM ÓLEO DE SEMENTE DE MANGA MÉDIO
+
+25351.061978/2009-04 / 229590155
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0833305/22-1
+
+SALON LINE PROFESSIONAL CREME ALISANTE TIOGLICOLATO COM ÓLEO DE SEMENTE DE MANGA MÉDIO
+
+25351.061978/2009-04 / 229590155
+
+2105 - REG. COSMÉTICOS - Cancelamento de Apresentação de Produto Registrado a Pedido / 0905447/22-1
+
+SALON LINE PROFESSIONAL CREME ALISANTE TIOGLICOLATO COM ÓLEO DE SEMENTE DE MANGA MÉDIO
+
+25351.061978/2009-04 / 229590155
+
+230 - REG. COSMÉTICOS - Modificação de Fórmula de Produto Registrado - Nacional / 4247700/21-9
+
+SALON LINE PROFESSIONAL CREME ALISANTE TIOGLICOLATO COM ÓLEO DE SEMENTE DE MANGA FORTE
+
+25351.066165/2009-29 / 229590159
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0834051/22-2
+
+SALON LINE PROFESSIONAL CREME ALISANTE TIOGLICOLATO COM ÓLEO DE SEMENTE DE MANGA FORTE
+
+25351.066165/2009-29 / 229590159
+
+2105 - REG. COSMÉTICOS - Cancelamento de Apresentação de Produto Registrado a Pedido / 0905446/22-4
+
+SALON LINE PROFESSIONAL CREME ALISANTE TIOGLICOLATO COM ÓLEO DE SEMENTE DE MANGA FORTE
+
+25351.066165/2009-29 / 229590159
+
+230 - REG. COSMÉTICOS - Modificação de Fórmula de Produto Registrado - Nacional / 4247666/21-5
+
+SALON LINE PROFESSIONAL CREME ALISANTE TIOGLICOLATO ÓLEO DE ARGAN MÉDIO
+
+25351.377635/2011-03 / 229590228
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0833034/22-7
+
+SALON LINE PROFESSIONAL CREME ALISANTE TIOGLICOLATO ÓLEO DE ARGAN MÉDIO
+
+25351.377635/2011-03 / 229590228
+
+2105 - REG. COSMÉTICOS - Cancelamento de Apresentação de Produto Registrado a Pedido / 0905393/22-8
+
+SALON LINE PROFESSIONAL CREME ALISANTE TIOGLICOLATO ÓLEO DE ARGAN MÉDIO
+
+25351.377635/2011-03 / 229590228
+
+230 - REG. COSMÉTICOS - Modificação de Fórmula de Produto Registrado - Nacional / 4247733/21-4
+
+SALON LINE PROFESSIONAL CREME ALISANTE TIOGLICOLATO ÓLEO DE ARGAN FORTE
+
+25351.377659/2011-47 / 229590230
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0832722/22-7
+
+SALON LINE PROFESSIONAL CREME ALISANTE TIOGLICOLATO ÓLEO DE ARGAN FORTE
+
+25351.377659/2011-47 / 229590230
+
+2105 - REG. COSMÉTICOS - Cancelamento de Apresentação de Produto Registrado a Pedido / 0905395/22-1
+
+SALON LINE PROFESSIONAL CREME ALISANTE TIOGLICOLATO ÓLEO DE ARGAN FORTE
+
+25351.377659/2011-47 / 229590230
+
+230 - REG. COSMÉTICOS - Modificação de Fórmula de Produto Registrado - Nacional / 4247510/21-5
+
+PROFESSIONAL SALON LINE HAIR RELAXER REGULAR COM HIDRÓXIDO DE SÓDIO
+
+25351.486078/2006-54 / 229590104
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0815619/22-7
+
+PROFESSIONAL SALON LINE HAIR RELAXER REGULAR COM HIDRÓXIDO DE SÓDIO
+
+25351.486078/2006-54 / 229590104
+
+2105 - REG. COSMÉTICOS - Cancelamento de Apresentação de Produto Registrado a Pedido / 0883796/22-8
+
+PROFESSIONAL SALON LINE HAIR RELAXER REGULAR COM HIDRÓXIDO DE SÓDIO
+
+25351.486078/2006-54 / 229590104
+
+230 - REG. COSMÉTICOS - Modificação de Fórmula de Produto Registrado - Nacional / 4247726/21-8
+
+PROFESSIONAL SALON LINE HAIR RELAXER SUPER
+
+25351.486378/2006-33 / 229590108
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0815728/22-1
+
+PROFESSIONAL SALON LINE HAIR RELAXER SUPER
+
+25351.486378/2006-33 / 229590108
+
+2105 - REG. COSMÉTICOS - Cancelamento de Apresentação de Produto Registrado a Pedido / 0883843/22-6
+
+PROFESSIONAL SALON LINE HAIR RELAXER SUPER
+
+25351.486378/2006-33 / 229590108
+
+230 - REG. COSMÉTICOS - Modificação de Fórmula de Produto Registrado - Nacional / 4247426/21-4
+
+SALON LINE CREME RELAXANTE RELAXER FORMULA NO BASE COM HIDRÓXIDO DE SÓDIO REGULAR
+
+25351.719728/2017-14 / 229590335
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0834624/22-2
+
+SALON LINE CREME RELAXANTE RELAXER FORMULA NO BASE COM HIDRÓXIDO DE SÓDIO REGULAR
+
+25351.719728/2017-14 / 229590335
+
+230 - REG. COSMÉTICOS - Modificação de Fórmula de Produto Registrado - Nacional / 4282596/21-0
+
+--------------------------------------
+
+INSTITUTO PASTEUR DE COSMIATRIA LTDA / 87.727.277/0001-07
+
+PROTETOR SOLAR FPS 30 - EVER CARE (AEROSSOL)
+
+25351.513776/2022-50 / 214850418
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 2551659/22-1
+
+PROTETOR SOLAR FPS 50 - EVER CARE (AEROSSOL)
+
+25351.513953/2022-06 / 214850419
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 2552159/22-2
+
+PROTETOR SOLAR FACIAL FPS 70 BEGE ESCURO - HELIODERM DERMOCOSMÉTICO
+
+25351.516501/2022-78 / 214850420
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 2602702/22-6
+
+PROTETOR SOLAR FACIAL FPS 70 BEGE CLARO - HELIODERM DERMOCOSMÉTICO
+
+25351.516506/2022-09 / 214850421
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 2602708/22-4
+
+PROTETOR SOLAR FACIAL FPS 70 BEGE MÉDIO - HELIODERM DERMOCOSMÉTICO
+
+25351.516555/2022-33 / 214850422
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 2602799/22-0
+
+--------------------------------------
+
+Isdin Produtos Farmaceuticos Ltda / 10.817.114/0001-82
+
+FOTOULTRA ISDIN FUSION FLUID SPOT PREVENT
+
+25351.489796/2013-45 / 253860016
+
+2551 - REG. COSMÉTICOS - Retificação de Publicação de Alterações de Registro / 4242079/22-2
+
+--------------------------------------
+
+REALGEM'S DO BRASIL IND.DE COSMETICO LTDA / 76.152.008/0001-35
+
+GEL HIGIENIZANTE ANTISSÉPTICO HIDRATANTE PARA AS MÃOS FLORENCE BLANC
+
+25351.532462/2020-94 / 208730161
+
+239 - REG. COSMÉTICOS - Inclusão de Acondicionamento para Produto Registrado / 0990618/22-6
+
+--------------------------------------
+
+SANS INDUSTRIA QUIMICA LTDA - ME / 22.879.797/0001-81
+
+ÁLCOOL EM GEL HARMONIEX
+
+25351.854571/2021-41 / 285960025
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 4667641/21-5

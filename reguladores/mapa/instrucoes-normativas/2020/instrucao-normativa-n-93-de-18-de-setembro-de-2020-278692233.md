@@ -1,0 +1,34 @@
+---
+titulo: "INSTRUÇÃO NORMATIVA Nº 93, DE 18 DE SETEMBRO DE 2020"
+orgao: "Ministério da Agricultura, Pecuária e Abastecimento/Secretaria de Defesa Agropecuária"
+tipo: "Instrução Normativa"
+numero: "93"
+data: 2020-09-18
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 22/09/2020, seção 1, p. 5"
+data_publicacao: 2020-09-22
+edicao: "182"
+fonte: "https://www.in.gov.br/web/dou/-/instrucao-normativa-n-93-de-18-de-setembro-de-2020-278692233"
+sha256_html_fonte: 1c5ca861bafb54c8fa90551f7a1c5f2b4fe4fd7f722bdca8fcf581dfeab6c6c7
+baixado_em: 2026-10-21
+---
+# INSTRUÇÃO NORMATIVA Nº 93, DE 18 DE SETEMBRO DE 2020
+
+INSTRUÇÃO NORMATIVA Nº 93, DE 18 DE SETEMBRO DE 2020
+
+Altera os Requisitos Fitossanitários para a Importação de Sementes Destinadas à Propagação, Originárias do México.
+
+O SECRETÁRIO DE DEFESA AGROPECUÁRIA, DO MINISTÉRIO DA AGRICULTURA, PECUÁRIA E ABASTECIMENTO, no uso das atribuições que lhe conferem os arts. 21 e 63 do Anexo I do Decreto n.º 10.253, de 20 de fevereiro de 2020, tendo em vista o disposto no Decreto nº 24.114, de 12 de abril de 1934, no Decreto nº 1.355, de 30 de dezembro de 1994, no Decreto nº 5.759, de 17 de abril de 2006, na Instrução Normativa nº 23, de 2 de agosto de 2004, na Instrução Normativa nº 25, de 7 de abril de 2020, e o que consta do Processo nº 21052.009444/2016-41, resolve:
+
+**Art. 1º** Fica alterado o Anexo XXX da Instrução Normativa SDA/MAPA n.16, de 26 de agosto de 2015, publicada na Seção 1 do D.O.U. nº 164, de 27/08/2015, págs. 11 a 17, que estabelece os requisitos fitossanitários para a importação de sementes destinadas à propagação, originárias do México e passa a vigorar na forma do anexo a esta Instrução Normativa.
+
+**Art. 2º** Esta Instrução Normativa entra em vigor na data de 01 de outubro de 2020.
+
+JOSE GUILHERME TOLLSTADIUS LEAL
+
+## ANEXO
+
+Anexo XXX - Origem: México
+
+<table><tr></tr><tr><td rowspan="1" colspan="1"><p>Nome Científico da Cultura</p></td><td rowspan="1" colspan="1"><p>Nome Científico da Praga</p></td><td rowspan="1" colspan="1"><p>Exigências</p></td></tr><tr><td rowspan="1" colspan="1"><p><em>Allium cepa</em></p></td><td rowspan="1" colspan="1"><p><em>Ditylenchus dipsaci</em></p></td><td rowspan="1" colspan="1"><p>DA5 ou DA15</p></td></tr><tr><td rowspan="1" colspan="1"><p><em>Beaucarnea recurvata</em></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>DA não requerida</p></td></tr><tr><td rowspan="1" colspan="1"><p><em>Brassica campestris</em>var.<em>pekinensis</em></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>DA não requerida</p></td></tr><tr><td rowspan="1" colspan="1"><p><em>Brassica oleracea</em>var.<em>botrytis</em></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>DA não requerida</p></td></tr><tr><td rowspan="1" colspan="1"><p><em>Brassica oleracea</em>var.<em>capitata</em></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>DA não requerida</p></td></tr><tr><td rowspan="1" colspan="1"><p><em>Brassica oleracea</em>var.<em>italica</em></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>DA não requerida</p></td></tr><tr><td rowspan="1" colspan="1"><p><em>Capsicum annuum</em></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>DA não requerida</p></td></tr><tr><td rowspan="1" colspan="1"><p><em>Capsicum frutescens</em></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>DA não requerida</p></td></tr><tr><td rowspan="1" colspan="1"><p><em>Chamaedorea elegans</em></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>DA não requerida</p></td></tr><tr><td rowspan="1" colspan="1"><p><em>Chamaedorea metallica</em></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>DA não requerida</p></td></tr><tr><td rowspan="1" colspan="1"><p><em>Chamaedorea microspadix</em></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>DA não requerida</p></td></tr><tr><td rowspan="1" colspan="1"><p><em>Chamaedorea seifrizii</em></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>DA não requerida</p></td></tr><tr><td rowspan="1" colspan="1"><p><em>Cichorium endivia</em></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>DA não requerida</p></td></tr><tr><td rowspan="1" colspan="1"><p><em>Cichorium intybus</em></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>DA não requerida</p></td></tr><tr><td rowspan="1" colspan="1"><p><em>Citrullus lanatus</em></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>DA não requerida</p></td></tr><tr><td rowspan="1" colspan="1"><p><em>Cucumis melo</em></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>DA não requerida</p></td></tr><tr><td rowspan="1" colspan="1"><p><em>Foeniculum vulgare</em></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>DA não requerida</p></td></tr><tr><td rowspan="1" colspan="1"><p><em>Glycine max</em></p></td><td rowspan="1" colspan="1"><p><em>Arabis mosaic virus</em></p></td><td rowspan="1" colspan="1"><p>DA7 ou DA15</p></td></tr><tr><td rowspan="1" colspan="1"></td><td rowspan="1" colspan="1"><p><em>Tomato ringspot virus</em></p></td><td rowspan="1" colspan="1"><p>DA15</p></td></tr><tr><td rowspan="1" colspan="1"><p><em>Lycopersicon esculentum = Solanum lycopersicon</em></p></td><td rowspan="1" colspan="1"><p><em>Pepino mosaic virus</em></p></td><td rowspan="1" colspan="1"><p>DA15</p></td></tr><tr><td rowspan="1" colspan="1"></td><td rowspan="1" colspan="1"><p><em>Potato spindle tuber viroid</em></p></td><td rowspan="1" colspan="1"><p>DA15</p></td></tr><tr><td rowspan="1" colspan="1"></td><td rowspan="1" colspan="1"><p><em>Tomato ringspot virus</em></p></td><td rowspan="1" colspan="1"><p>DA15</p></td></tr><tr><td rowspan="1" colspan="1"><p><em>Zamia furfuracea</em></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>DA não requerida</p></td></tr><tr><td rowspan="1" colspan="1"><p><em>Zea mays</em></p></td><td rowspan="1" colspan="1"><p><em>Pantoea stewartii</em>subsp.<em>stewartii</em></p></td><td rowspan="1" colspan="1"><p>DA5 ou DA15</p></td></tr><tr><td rowspan="1" colspan="1"></td><td rowspan="1" colspan="1"><p><em>Prostephanus truncatus</em></p></td><td rowspan="1" colspan="1"><p>DA1 ou DA2</p></td></tr><tr><td rowspan="1" colspan="1"></td><td rowspan="1" colspan="1"><p><em>Sitophilus granarius</em></p></td><td rowspan="1" colspan="1"><p>DA1 ou DA2</p></td></tr><tr><td rowspan="1" colspan="1"></td><td rowspan="1" colspan="1"><p><em>Trogoderma variabile</em></p></td><td rowspan="1" colspan="1"><p>DA1 ou DA2</p></td></tr></table>

@@ -1,0 +1,135 @@
+---
+titulo: "CIRCULAR Nº 3.664, DE 17 DE JULHO DE 2013"
+orgao: "Ministério da Fazenda/BANCO CENTRAL DO BRASIL/DIRETORIA COLEGIADA"
+tipo: "Circular"
+numero: "3664"
+data: 2013-07-17
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 19/07/2013, seção 1, p. 12"
+data_publicacao: 2013-07-19
+edicao: "138"
+fonte: "https://www.in.gov.br/web/dou/-/circular-n-3-664-de-17-de-julho-de-2013-30796137"
+sha256_html_fonte: f49a92307671d0ea9957cc5c87058ed538c7af9b465d30e2627993b152adb2b2
+baixado_em: 2026-10-28
+---
+# CIRCULAR Nº 3.664, DE 17 DE JULHO DE 2013
+
+CIRCULAR Nº 3.664, DE 17 DE JULHO DE 2013
+
+Constitui a amostra de que trata o art. 1º daResolução nº 4.240, de 28 de junho de2013, para fins de cálculo da Taxa BásicaFinanceira (TBF) e da Taxa Referencial(TR).
+
+A Diretoria Colegiada do Banco Central do Brasil, em sessãorealizada em 17 de julho de 2013, com fundamento no art. 1º daResolução nº 4.240, de 28 de junho de 2013, resolve:
+
+**Art. 1º** A amostra de que trata a Resolução nº 4.240, de 28de junho de 2013, para fins de cálculo da Taxa Básica Financeira(TBF) e da Taxa Referencial (TR), passa a ser constituída pelasseguintes instituições financeiras:
+
+OrdemCNPJNome1 00.360.305 CAIXA ECONOMICA FEDERAL2 90.400.888 BCO SANTANDER (BRASIL) S.A.
+
+10.866.788 BCO BANDEPE S.A.3 00.000.000 BCO DO BRASIL S.A.
+
+24.933.830 BB-BANCO DE INVESTIMENTO S.A.
+
+43.073.394 BCO NOSSA CAIXA S.A.4 60.746.948 BCO BRADESCO S.A.
+
+33.147.315 BANCO BERJ S.A.
+
+04.184.779 BANCO BRADESCARD S.A.
+
+07.207.996 BCO BRADESCO FINANCIAMENTOS
+
+S.A.
+
+33.870.163 BANCO ALVORADA S.A.
+
+33.485.541 BCO BOAVISTA INTERATLANTICO
+
+S.A.
+
+06.271.464 BANCO BRADESCO BBI S.A.
+
+59.438.325 BCO BRADESCO CARTÕES S.A.
+
+60.419.645 BANCO BANKPAR S.A.5 92.702.067 BCO DO EST. DO RS S.A.6 04.902.979 BCO DA AMAZONIA S.A.
+
+7 60.872.504 ITAÚ UNIBANCO HOLDING S.A.
+
+03.012.230 HIPERCARD BANCO MÚLTIPLO S.A.
+
+17.192.451 BCO ITAUCARD S.A.
+
+17.298.092 BCO ITAU BBA S.A.
+
+33.700.394 UNIBANCO-UNIAO BCOS BRAS S.A.
+
+33.885.724 BCO ITAU CONSIGNADO
+
+49.925.225 BCO ITAU LEASING S.A.
+
+59.461.152 BCO ITAUCRED FINANCIAMENTOS
+
+S.A.
+
+60.394.079 BCO ITAUBANK S.A.
+
+60.701.190 ITAÚ UNIBANCO S.A.
+
+61.071.387 UNICARD BCO MULTIPLO S. A.
+
+61.182.408 BCO INVESTCRED UNIBANCO S.A.
+
+61.190.658 BCO FIAT S.A.
+
+61.199.881 BCO DIBENS S.A.8 33.124.959 BCO RURAL S.A.
+
+10.995.587 BCO SIMPLES S.A.
+
+32.173.023 BCO RURAL DE INVESTIMENTO S.A.
+
+33.074.683 BCO RURAL MAIS S.A.
+
+9 01.701.201 HSBC BANK BRASIL S.A. - BCO MÚL TIPLO
+
+33.254.319 HSBC FINANCE (BRASIL) S.A. - BCO
+
+MÚLTIPLO
+
+10 33.479.023 BCO CITIBANK S.A.
+
+33.042.953 CITIBANK N.A.
+
+34.098.442 BCO CITICARD S.A.11 49.336.860 ING BANK N.V.
+
+12 07.450.604 BCO INDUSTRIAL E COMERCIAL
+
+S.A.
+
+13 60.518.222 BCO SUMITOMO MITSUI BRASILEIRO
+
+S.A.
+
+14 60.498.557 BCO DE TOKYO - MITSUBISHI UFJ
+
+BRASIL S/A
+
+15 17.184.037 BCO MERCANTIL DO BRASIL S.A.
+
+34.169.557 BCO MERCANTIL DE INVESTIMEN TOSS.A.
+
+16 00.000.208 BRB - BCO DE BRASILIA S.A.
+
+17 58.160.789 BCO SAFRA S.A.
+
+03.017.677 BCO J. SAFRA S.A.18 33.132.044 BCO CEDULA S.A.19 09.391.857 BANCO AZTECA DO BRASIL S.A.20 92.874.270 BCO A.J. RENNER S.A.
+
+**Art. 2º** O disposto nesta Circular vigerá de 1º de agosto de2013 a 31 de janeiro de 2014.
+
+**Art. 3º** Fica revogada, a partir de 1º de agosto de 2013, aCircular nº 3.623, de 22 de janeiro de 2013.
+
+CARLOS HAMILTON VASCONCELOS ARAÚJO  
+Diretor de Política Econômica
+
+CARLOS HAMILTON VASCONCELOS ARAÚJO
+
+Diretor de Política Econômica
+
+Este conteúdo não substitui o publicado na versão certificada.

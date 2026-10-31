@@ -1,0 +1,300 @@
+---
+titulo: "PORTARIA Nº 202, DE 20 DE AGOSTO DE 2016"
+orgao: "Ministério da Agricultura, Pecuária e Abastecimento/SECRETARIA DE POLÍTICA AGRÍCOLA"
+tipo: "Portaria"
+numero: "202"
+data: 2016-08-20
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 22/08/2016, seção 1, p. 2"
+data_publicacao: 2016-08-22
+edicao: "161"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-202-de-20-de-agosto-de-2016-21290757"
+sha256_html_fonte: e4bbf3299ffc2449faf0ee1a26278a34cd686ecbfefd76e07cc027789460425a
+baixado_em: 2026-10-28
+---
+# PORTARIA Nº 202, DE 20 DE AGOSTO DE 2016
+
+PORTARIA Nº 202, DE 20 DE AGOSTO DE 2016
+
+O SECRETÁRIO DE POLÍTICA AGRÍCOLA, no uso desuas atribuições e competências estabelecidas pelo Decreto nº 8.701,de 31 de março de 2016, publicado no Diário Oficial da União de 1ºde abril de 2016, e observado, no que couber, o contido nas InstruçõesNormativas nº 2, de 9 de outubro de 2008, publicada noDiário Oficial da União de 13 de outubro de 2008, da Secretaria dePolítica Agrícola, e nº 18, de 12 de maio de 2016, publicada noDiário Oficial da União de 13 de maio de 2016, do Gabinete daMinistra, resolve:
+
+**Art. 1º** Nos anexos das Portarias n.º 143, 144, 145, 146, 147,148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161,162, 163, 164, 165 e 166 de 20 de julho de 2016, publicadas noDiário Oficial da União de 25 de julho de 2016, que aprovaram oZoneamento Agrícola de Risco Climático para a cultura de milho 1ªsafra, ano-safra 2016/2017, nos Estados do Acre, Alagoas, Bahia,Ceará, no Distrito Federal, Espírito Santo, Goiás, Maranhão, MinasGerais, Mato Grosso do Sul, Mato Grosso, Pará, Paraíba, Pernambuco,Piauí, Paraná, Rio de Janeiro, Rio Grande do Norte, Rondônia,Rio Grande do Sul, Santa Catarina, Sergipe, São Paulo e Tocantins,no item 4. CULTIVARES INDICADAS, incluir as cultivares de milho1ª safra, conforme abaixo especificado:
+
+PORTARIA Nº 143 - ACRE
+
+Macrorregião 4
+
+GRUPO I
+
+NIDERA SEMENTES LTDA: NS7497RR
+
+MARCIO DEMES: VELOSTER
+
+GRUPO II
+
+NIDERA SEMENTES LTDA: NS8094RR
+
+MARCIO DEMES: TRs 1040.
+
+PORTARIA Nº 144 - ALAGOAS
+
+GRUPO I
+
+NIDERA SEMENTES LTDA: NS7497RR
+
+MARCIO DEMES: VELOSTER
+
+GRUPO II
+
+NIDERA SEMENTES LTDA: NS8094RR
+
+MARCIO DEMES: TRs 1040.
+
+PORTARIA Nº 145 - BAHIA
+
+GRUPO I
+
+MONSANTO: AG8677PRO.
+
+SYNGENTA SEEDS LTDA: Somma, Somma TL, SOMMAVIP3, Somma Viptera, SX8110 TLTG Viptera, SX6663 VIP3.
+
+GRUPO II
+
+ADVANTA SEMENTES: ADV9339, ADV9860.
+
+MONSANTO: ADV9345PRO3.
+
+MARCIO DEMEIS: TR 167.
+
+PORTARIA Nº 146 - CEARÁ
+
+GRUPO I
+
+SYNGENTA SEEDS LTDA: Somma, Somma TL, SOMMAVIP3, Somma Viptera.
+
+PORTARIA Nº 147 - DISTRITO FEDERAL
+
+GRUPO I
+
+MONSANTO: AG8677PRO.
+
+SYNGENTA SEEDS LTDA: Somma, Somma TL, SOMMAVIP3, Somma Viptera, SX8110 TLTG Viptera, SX6663 VIP3.
+
+GRUPO II
+
+ADVANTA SEMENTES: ADV9339, ADV9860, PAC105.
+
+MONSANTO: ADV9345PRO3.
+
+PORTARIA Nº 148 - ESPÍRITO SANTO
+
+GRUPO I
+
+MONSANTO: AG8677PRO.
+
+SYNGENTA SEEDS LTDA: Somma, Somma TL, SOMMAVIP3, Somma Viptera, SX8110 TLTG Viptera, SX6663 VIP3.
+
+GRUPO II
+
+MONSANTO: ADV9345PRO3.
+
+PORTARIA Nº 149 - GOIÁS
+
+GRUPO I
+
+MONSANTO: AG8677PRO.
+
+SYNGENTA SEEDS LTDA: Somma, Somma TL, SOMMAVIP3, Somma Viptera, SX8110 TLTG Viptera, SX6663 VIP3.
+
+GRUPO II
+
+ADVANTA SEMENTES: ADV9339, ADV9860, PAC105.
+
+MONSANTO: ADV9345PRO3.
+
+MARCIO DEMEIS: TR 167.
+
+PORTARIA Nº 150 - MARANHÃO
+
+GRUPO I
+
+SYNGENTA SEEDS LTDA: Somma, Somma TL, SOMMAVIP3, Somma Viptera,
+
+GRUPO II
+
+MARCIO DEMEIS: TR 167.
+
+PORTARIA Nº 151 - MINAS GERAIS
+
+GRUPO I
+
+MONSANTO: AG8677PRO.
+
+SYNGENTA SEEDS LTDA: Somma, Somma TL, SOMMAVIP3, Somma Viptera, SX8110 TLTG Viptera, SX6663 VIP3.
+
+GRUPO II
+
+ADVANTA SEMENTES: ADV9339, ADV9860, PAC105.
+
+MONSANTO: ADV9345PRO3.
+
+PORTARIA Nº 152 - MATO GROSSO DO SUL
+
+GRUPO I
+
+MONSANTO: AG8677PRO.
+
+SYNGENTA SEEDS LTDA: Somma, Somma TL, SOMMAVIP3, Somma Viptera, SX8110 TLTG Viptera, SX6663 VIP3.
+
+GRUPO II
+
+ADVANTA SEMENTES: ADV9339, ADV9860, PAC105.
+
+MONSANTO: ADV9345PRO3.
+
+PORTARIA Nº 153 - MATO GROSSO
+
+GRUPO I
+
+MONSANTO: AG8677PRO.
+
+SYNGENTA SEEDS LTDA: Somma, Somma TL, SOMMAVIP3, Somma Viptera.
+
+GRUPO II
+
+ADVANTA SEMENTES: ADV9339, ADV9860, PAC 105
+
+MONSANTO: ADV9345PRO3.
+
+MARCIO DEMEIS: TR 167.
+
+PORTARIA Nº 154 - PARÁ
+
+GRUPO I
+
+SYNGENTA SEEDS LTDA: Somma, Somma TL, SOMMAVIP3, Somma Viptera.
+
+PORTARIA Nº 155 - PARAÍBA
+
+GRUPO I
+
+SYNGENTA SEEDS LTDA: Somma, Somma TL, SOMMAVIP3, Somma Viptera.
+
+PORTARIA Nº 156 - PERNAMBUCO
+
+GRUPO I
+
+SYNGENTA SEEDS LTDA: Somma, Somma TL, SOMMAVIP3, Somma Viptera.
+
+PORTARIA Nº 157 - PIAUÍ
+
+GRUPO I
+
+SYNGENTA SEEDS LTDA: Somma, Somma TL, SOMMAVIP3, Somma Viptera.
+
+PORTARIA Nº 158 - PARANÁ
+
+GRUPO I
+
+MONSANTO: AG8677PRO.
+
+SYNGENTA SEEDS LTDA: Somma, Somma TL, SOMMAVIP3, Somma Viptera, SX8110 TLTG Viptera.
+
+GRUPO II
+
+ADVANTA SEMENTES: ADV9339, ADV9860, PAC105.
+
+MONSANTO: ADV9345PRO3.
+
+SYNGENTA SEEDS LTDA: SX6663 VIP3.
+
+PORTARIA Nº 159 - RIO DE JANEIRO
+
+GRUPO I
+
+MONSANTO: AG8677PRO.
+
+SYNGENTA SEEDS LTDA: Somma, Somma TL, SOMMAVIP3, Somma Viptera, SX8110 TLTG Viptera, SX6663 VIP3.
+
+GRUPO II
+
+MONSANTO: ADV9345PRO3.
+
+PORTARIA Nº 160 - RIO GRANDE DO NORTE
+
+GRUPO I
+
+SYNGENTA SEEDS LTDA: Somma, Somma TL, SOMMAVIP3, Somma Viptera.
+
+PORTARIA Nº 161 - RONDÔNIA
+
+GRUPO I
+
+MONSANTO: AG8677PRO.
+
+SYNGENTA SEEDS LTDA: Somma, Somma TL, SOMMAVIP3, Somma Viptera.
+
+GRUPO II
+
+MONSANTO: ADV9345PRO3.
+
+PORTARIA Nº 162 - RIO GRANDE DO SUL
+
+GRUPO I
+
+SYNGENTA SEEDS LTDA: Somma, Somma TL, SOMMAVIP3, Somma Viptera, SX8110 TLTG Viptera.
+
+GRUPO II
+
+SYNGENTA SEEDS LTDA: SX6663 VIP3.
+
+PORTARIA Nº 163 - SANTA CATARINA
+
+GRUPO I
+
+SYNGENTA SEEDS LTDA: Somma, Somma TL, SOMMAVIP3, Somma Viptera, SX8110 TLTG Viptera.
+
+GRUPO II
+
+SYNGENTA SEEDS LTDA: SX6663 VIP3.
+
+PORTARIA Nº 164 - SERGIPE
+
+GRUPO I
+
+SYNGENTA SEEDS LTDA: Somma, Somma TL, SOMMAVIP3, Somma Viptera.
+
+PORTARIA Nº 165 - SÃO PAULO
+
+GRUPO I
+
+MONSANTO: AG8677PRO.
+
+SYNGENTA SEEDS LTDA: Somma, Somma TL, SOMMAVIP3, Somma Viptera, SX8110 TLTG Viptera, SX6663 VIP3.
+
+GRUPO II
+
+ADVANTA SEMENTES: ADV9339, ADV9860, PAC105.
+
+MONSANTO: ADV9345PRO3.
+
+PORTARIA Nº 166 - TOCANTINS
+
+GRUPO I
+
+SYNGENTA SEEDS LTDA: Somma, Somma TL, SOMMAVIP3, Somma Viptera.
+
+GRUPO II
+
+ADVANTA SEMENTES: ADV9339, ADV9860, PAC105.
+
+MARCIO DEMEIS: TR 167.
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação.
+
+NERI GELLER
+
+NERI GELLER
+
+Este conteúdo não substitui o publicado na versão certificada.

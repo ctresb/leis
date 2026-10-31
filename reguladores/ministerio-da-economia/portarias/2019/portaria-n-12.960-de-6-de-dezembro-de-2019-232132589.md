@@ -1,0 +1,224 @@
+---
+titulo: "PORTARIA Nº 12.960, DE 6 DE DEZEMBRO DE 2019(*)"
+orgao: "Ministério da Economia/Secretaria Especial de Desburocratização, Gestão e Governo Digital/Secretaria de Gestão"
+tipo: "Portaria"
+numero: "12960"
+data: 2019-12-06
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 09/12/2019, seção 1, p. 18"
+data_publicacao: 2019-12-09
+edicao: "237"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-12.960-de-6-de-dezembro-de-2019-*-232132589"
+sha256_html_fonte: 5ea7928cfee2ed7ec8b848d8e44eae6d0f0f552c15e3793e50235cb7ff6e6a65
+baixado_em: 2026-10-27
+---
+# PORTARIA Nº 12.960, DE 6 DE DEZEMBRO DE 2019(*)
+
+PORTARIA Nº 12.960, DE 6 DE DEZEMBRO DE 2019(\*)
+
+Regulamenta o disposto nos arts. 14 e 15 do Decreto nº 5.176, de 10 de agosto de 2004, sobre regras de gestão da mobilidade dos servidores da carreira de Especialista em Políticas Públicas e Gestão Governamental - EPPGG.
+
+O SECRETÁRIO DE GESTÃO DA SECRETARIA ESPECIAL DE DESBUROCRATIZAÇÃO, GESTÃO E GOVERNO DIGITAL DO MINISTÉRIO DA ECONOMIA, no uso da competência estabelecida no art. 127, VI, "a", do Anexo I do Decreto nº 9.745, de 8 de abril de 2019, tendo em vista o disposto no art. 18 da Lei nº 11.890, de 24 de dezembro de 2008, e no Decreto nº 5.176, de 10 de agosto de 2004, resolve:
+
+**Art. 1º** A definição da unidade de exercício dos servidores da carreira de Especialista em Políticas Públicas e Gestão Governamental - EPPGG em órgãos e entidades da Administração Pública Federal será realizada de forma a maximizar os resultados de programas e políticas públicas, observando-se os critérios dispostos no art. 14 do Decreto nº 5.176 de 2004.
+
+**Art. 2º** A Secretaria de Gestão da Secretaria Especial de Desburocratização, Gestão e Governo Digital do Ministério da Economia, Órgão Supervisor da Carreira, pactuará resultados com cada órgão ou entidade da Administração Pública Federal, por meio de Plano de Trabalho Institucional, o qual contemplará entregas e resultados vinculados a objetivos, programas, projetos e políticas públicas estratégicas nos quais os EPPGG estejam envolvidos.
+
+**§ 1º** Os órgãos e as entidades que pactuarem Plano de Trabalho Institucional com a Secretaria de Gestão se comprometem a:
+
+I - alocar os EPPGG em atividades com grau de complexidade e responsabilidade compatíveis com as atribuições do cargo efetivo, não estando restritos à atuação exclusiva no cumprimento das entregas e dos resultados pactuados no Plano de Trabalho Institucional;
+
+II - concentrar esforços para viabilizar os resultados e entregas pactuados no Plano de Trabalho Institucional nos prazos acordados;
+
+III - enviar relatório de execução do Plano de Trabalho Institucional à Secretaria de Gestão, impreterivelmente até 10 de março de cada ano, para fins de monitoramento periódico dos resultados alcançados no ano anterior.
+
+**§ 2º** O Plano de Trabalho Institucional será repactuado a cada dois anos.
+
+**§ 3º** O cumprimento dos resultados e das entregas pactuados no Plano de Trabalho Institucional poderá ser usado como critério para priorizar a alocação de novos EPPGG no órgão ou na entidade.
+
+**§ 4º** O Plano de Trabalho Institucional vigente será atualizado, periodicamente, de forma a contemplar a pactuação de resultados com novos EPPGG que forem alocados no órgão ou entidade.
+
+**§ 5º** Serão divulgados no sítio eletrônico oficial da carreira na internet, os Planos de Trabalho Institucional pactuados com cada órgão ou entidade, além dos respectivos relatórios de execução.
+
+**Art. 3º** Poderá haver alteração da unidade de exercício de EPPGG nas seguintes hipóteses:
+
+I - exercício no Ministério da Economia no Distrito Federal;
+
+II - exercício descentralizado em unidades do Ministério da Economia localizadas fora do Distrito Federal para participar em projeto estratégico da Secretaria de Gestão ou da Secretaria de Gestão Corporativa, a critério do Órgão Supervisor;
+
+III - exercício descentralizado em órgãos, autarquias e fundações da Administração Pública Federal no Distrito Federal;
+
+IV - exercício descentralizado em Gabinete de Ministro de Estado, Secretarias-Executivas dos ministérios ou unidades equivalentes em entidades, ou em unidades de gestão estratégica;
+
+V - exercício descentralizado em órgãos, autarquias e fundações da Administração Pública Federal localizados fora do Distrito Federal para cargo em comissão ou função de confiança do Grupo-Direção e Assessoramento Superiores - DAS ou equivalente;
+
+VI - exercício descentralizado em órgãos, autarquias e fundações da Administração Pública Federal localizados fora do Distrito Federal para participar em projeto compatível com as atribuições da carreira, a critério do Órgão Supervisor, conforme o disposto no § 5º do art. 14 do Decreto nº 5.176, de 10 de agosto de 2004;
+
+VII - exercício descentralizado em órgãos, autarquias e fundações da Administração Pública Federal localizados fora do Distrito Federal por motivo de saúde ou, ainda, para exercício provisório para acompanhamento de cônjuge, conforme disciplinado na alínea b, do inciso III do parágrafo único art. 36 e no § 2º do art. 84 da Lei nº 8.112, de 11 de dezembro de 1990, respectivamente;
+
+VIII - cessão para cargo de Ministro, cargo de Natureza Especial ou cargo em comissão de nível igual ou superior a DAS-4 do Grupo-Direção e Assessoramento Superiores - DAS, ou equivalente, em órgãos, autarquias e fundações da Administração Pública Federal;
+
+IX - cessão para cargo ou função de diretor ou presidente de empresa pública ou sociedade de economia mista federal;
+
+X - requisição prevista em lei específica;
+
+XI - cessão para cargo de Natureza Especial ou cargo em comissão de nível igual ou superior a DAS-4 do Grupo-Direção e Assessoramento Superiores - DAS, ou equivalente, em outros Poderes da União;
+
+XII - cessão para cargo de Natureza Especial ou cargo em comissão de nível igual ou superior a DAS-4 do Grupo-Direção e Assessoramento Superiores - DAS, ou equivalente, em órgão ou entidade da administração pública do Distrito Federal, de estados e de municípios com mais de 500.000 (quinhentos mil) habitantes; e
+
+XIII - cessão para cargo de Natureza Especial ou cargo em comissão de nível igual ou superior a DAS-4 do Grupo-Direção e Assessoramento Superiores - DAS, ou equivalente em Organização Social, Serviço Social Autônomo ou Fundação Pública de direito privado.
+
+**§ 1º** O exercício em unidades descentralizadas do Ministério da Economia localizadas fora do Distrito Federal para participar em projeto estratégico da Secretaria de Gestão, previsto no inciso II do caput, será formalizado por meio de portaria de localização na unidade regional, ficando o servidor vinculado à Secretaria de Gestão, para todos os efeitos de gestão de pessoas.
+
+**§ 2º** O exercício descentralizado para participar em projeto previsto nos incisos II e VI do caput priorizará os servidores que já se encontram em exercício fora do Distrito Federal, e somente em casos fundamentados como de excepcional interesse da Administração, a critério do Órgão Supervisor, poderá resultar na movimentação de servidores de Brasília para atuação em outros estados.
+
+**Art. 4º** As solicitações de alteração da unidade de exercício de EPPGG deverão ser enviadas à Secretaria de Gestão, por meio de ofício do Secretário-Executivo do órgão ou do dirigente máximo da entidade solicitante, ou daquele a quem for delegada a competência, e serão compostas, obrigatoriamente, pelos seguintes documentos:
+
+I - anuência prévia do Secretário-Executivo do órgão ou do dirigente máximo da entidade de atual exercício do servidor, ou daquele a quem for delegada a competência;
+
+II - formulário de pactuação de resultados, conforme modelo disponibilizado pelo Órgão Supervisor;
+
+III - currículo atualizado do servidor do SIGEPE Banco de Talentos (versão pdf);
+
+IV - mensagem eletrônica com a concordância do servidor quanto à alteração da unidade de exercício; e
+
+V - relatório individual de avaliação dos resultados e entregas do servidor no órgão ou entidade de exercício atual, conforme modelo disponibilizado pelo Órgão Supervisor.
+
+**§ 1º** As solicitações previstas no caput serão encaminhadas pelo serviço de peticionamento ou protocolo geral do Sistema Eletrônico de Informações - SEI disponibilizado pelo Ministério da Economia.
+
+**§ 2º** As solicitações oriundas de unidades do Ministério da Economia deverão ser enviadas pelo respectivo Secretário, ou por aquele a quem for delegada a competência, à Secretaria de Gestão pelo Sistema Eletrônico de Informações - SEI do Ministério da Economia.
+
+**§ 3º** As solicitações de cessão previstas nos incisos IX, XI, XII e XIII do art. 3º somente serão analisadas, se forem enviadas à Secretaria de Gestão por meio de ofício do dirigente máximo do respectivo poder, ente federativo ou entidade interessado, ou daquele a quem for delegada a competência, devendo, obrigatoriamente, conter os documentos previstos nos incisos II, III, IV e V do caput, além da estrutura organizacional do órgão ou da entidade (organograma), onde conste o nível hierárquico do cargo ou função a ser ocupado.
+
+**§ 4º** A comprovação da anuência prévia prevista no inciso I do caput deverá ser feita mediante apresentação de ofício ou mensagem eletrônica.
+
+**§ 5º** No caso de servidores que se encontrem em exercício no Ministério da Economia, a anuência prévia prevista no inciso I do caput deverá ser dada pelo Secretário da unidade ou por aquele a quem for delegada a competência, por ofício, despacho ou mensagem eletrônica.
+
+**§ 6º** A anuência para alteração da unidade de exercício do EPPGG não obriga o Órgão Supervisor a repor outro servidor, podendo o órgão ou a entidade solicitar abertura de processo seletivo para a reposição da vaga.
+
+**§ 7º** O servidor deverá permanecer em exercício no órgão ou na entidade em que estiver alocado até que seja concluído o processo formal de autorização da movimentação pelo Órgão Supervisor, observado o disposto no art. 44 da Lei nº 8.112, de 1990.
+
+**§ 8º** O efetivo exercício do servidor cedido para cargo em comissão de nível igual ou superior a DAS-4 do Grupo-Direção e Assessoramento Superiores - DAS, ou equivalente está condicionado à publicação da portaria de cessão pelo Órgão Supervisor e à posse no cargo comissionado na entidade ou no órgão cessionário.
+
+**Art. 5º** São requisitos obrigatórios para a alteração da unidade de exercício de EPPGG:
+
+I - o cumprimento de dois anos de efetivo exercício no órgão ou na entidade de exercício atual;
+
+II - a compatibilidade entre as atividades a serem desempenhadas no órgão ou na entidade com as competências e atribuições inerentes ao exercício do cargo efetivo; e
+
+III - o mapeamento de competências do servidor.
+
+**§ 1º** As hipóteses previstas nos incisos I, II, IV, VII, VIII, IX, X, XI, XII e XIII do art. 3º, com fundamento no excepcional interesse da administração, dispensam o cumprimento de dois anos de efetivo exercício e a anuência prévia do órgão ou da entidade de atual exercício, sendo obrigatória a inclusão, no processo de solicitação, de mensagem eletrônica dando ciência da alteração da unidade de exercício à atual chefia imediata do servidor.
+
+**§ 2º** Nas hipóteses previstas no parágrafo anterior, o Órgão Supervisor providenciará a comunicação formal da alteração da unidade de exercício à Secretaria-Executiva do órgão ou da unidade equivalente na entidade onde o servidor encontra-se atualmente exercendo as suas atividades.
+
+**§ 3º** O servidor que não tenha participado do mapeamento de competências poderá solicitar à Unidade de Gestão da Carreira o reenvio do questionário da pesquisa.
+
+**Art. 6º** São irrecusáveis, pelo Órgão Supervisor, as seguintes hipóteses de alteração da unidade de exercício, desde que cumprido o disposto no art. 14 do Decreto nº 5.176 de 2004, e nos artigos 4º e 5º desta Portaria:
+
+I - o exercício descentralizado previsto no inciso V do art. 3º, para cargo em comissão ou função de confiança de nível igual ou superior a DAS-3 do Grupo-Direção e Assessoramento Superiores - DAS ou equivalente;
+
+II - a cessão prevista no inciso VIII do art. 3º desta Portaria;
+
+III - a requisição da Presidência da República;
+
+IV - a cessão prevista no inciso XI do art. 3º, para cargo em comissão de nível igual ou superior a DAS-5 do Grupo-Direção e Assessoramento Superiores - DAS, ou equivalente;
+
+V - a cessão prevista no inciso XII do art. 3º, para cargo em comissão superior ou equivalente ao segundo nível hierárquico do órgão ou entidade da administração pública do Distrito Federal, de estados e de municípios com mais de 500.000 (quinhentos mil) habitantes, considerando-se como primeiro nível do órgão, o Secretário, e da entidade, o seu dirigente máximo.
+
+**Parágrafo único.** As demais hipóteses de alteração da unidade de exercício não relacionadas no caput, passarão por análise de conveniência e oportunidade, podendo ser recusadas.
+
+**Art. 7º** As solicitações de abertura de processo seletivo para alteração da unidade de exercício de EPPGG deverão ser enviadas à Secretaria de Gestão, por meio de ofício do Secretário-Executivo do órgão ou do dirigente máximo da entidade solicitante, ou daquele a quem for delegada a competência, encaminhando o formulário de abertura de processo seletivo, conforme modelo disponibilizado pelo Órgão Supervisor.
+
+**§ 1º** As solicitações previstas no caput serão encaminhadas através do serviço de peticionamento ou protocolo geral do Sistema Eletrônico de Informações - SEI disponibilizado pelo Ministério da Economia.
+
+**§ 2º** As solicitações oriundas de unidades do Ministério da Economia deverão ser enviadas pelo respectivo Secretário, ou por aquele a quem for delegada a competência, à Secretaria de Gestão pelo Sistema Eletrônico de Informações - SEI do Ministério da Economia.
+
+**§ 3º** A Secretaria de Gestão divulgará no sítio eletrônico oficial da carreira na internet, ou em outros meios de comunicação, as oportunidades de alteração da unidade de exercício para EPPGG, após análise de pertinência da solicitação, observado o disposto nos artigos 1º, 2º e 3º desta Portaria.
+
+**§ 4º** Os servidores interessados na oportunidade de alteração da unidade de exercício deverão enviar o seu currículo do Sigepe Banco de Talentos (pdf) diretamente ao órgão ou à entidade solicitante, observado o disposto no art. 5º desta Portaria.
+
+**§ 5º** O órgão ou a entidade solicitante fará a análise curricular e a entrevista dos candidatos e formalizará a solicitação de alteração da unidade de exercício do candidato selecionado à Secretaria de Gestão, obedecendo ao disposto no art. 4º desta Portaria.
+
+**Art. 8** º O EPPGG deverá apresentar-se à Unidade de Gestão da Carreira para definição de nova unidade de exercício no primeiro dia útil após:
+
+I - o encerramento de requisição prevista no inciso X do art. 3º desta Portaria;
+
+II - a exoneração de cargo comissionado nas hipóteses previstas nos incisos VIII, IX, XI, XII e XIII do art. 3º desta Portaria;
+
+III - os afastamentos a que se referem os artigos 84 e 96 da Lei nº 8.112, de 11 de dezembro de 1990 e no do art. 13 do Decreto nº 5.176/2004; e
+
+IV - as licenças a que se referem os incisos II, IV, VI e VII do art. 81 da Lei nº 8.112/1990.
+
+**§ 1º** O servidor será alocado imediatamente:
+
+I - no órgão ou na entidade que tenha previamente demonstrado o interesse na movimentação, até que os trâmites para a autorização sejam concluídos;
+
+II - em uma unidade da Secretaria de Gestão para realização de atividades e entregas temporárias, enquanto aguarda definição da nova unidade de exercício ou cessão; ou
+
+III - no órgão ou na entidade em que se encontrava à época do afastamento do Programa de Capacitação de Longa Duração - PCLD, considerando-se as competências adquiridas durante o programa, exceto em caso de manifestação formal da instituição quanto à liberação do servidor.
+
+**§ 2º** A manifestação de interesse de que trata o inciso I do § 1º deverá ser formalizada por meio de mensagem eletrônica do chefe da unidade para a Unidade de Gestão da Carreira.
+
+**§ 3º** Na hipótese indicada no § 1º do caput, o chefe da unidade deverá providenciar o envio de documento comprobatório de registro de frequência por correio eletrônico à Unidade de Gestão da Carreira, até o 3º dia útil do mês subsequente.
+
+**Art. 9º** Ocorrendo alteração no cargo em comissão ocupado pelo EPPGG no mesmo órgão ou entidade, mantida a ocupação de cargo em comissão ou função de confiança de nível hierárquico equivalente ou superior a DAS-4 do Grupo-Direção e Assessoramento Superiores - DAS, não haverá necessidade de novo ato de cessão.
+
+**Parágrafo único.** Na hipótese prevista no caput, o órgão ou a entidade comunicará por ofício a alteração do cargo, à Secretaria de Gestão, no prazo de 15 dias contados da data da nomeação para fins de registro e controle.
+
+**Art. 10.** O EPPGG poderá solicitar apoio para alteração da unidade de exercício por meio de agendamento de atendimento na Unidade de Gestão da Carreira.
+
+**Art. 11.** Não será permitida a devolução de EPPGG ao Órgão Supervisor, exceto nas hipóteses previstas no art. 8º desta Portaria.
+
+**§ 1º** O órgão ou a entidade que não tenha interesse na permanência do servidor, após o cumprimento do prazo mínimo de dois anos de efetivo exercício, deverá orientar o EPPGG a solicitar apoio para alteração da unidade exercício por meio de agendamento de atendimento na Unidade de Gestão da Carreira.
+
+**§ 2º** O servidor deverá permanecer em exercício no órgão ou na entidade em que estiver alocado até que seja concluído o processo formal de autorização da alteração da unidade de exercício pelo Órgão Supervisor.
+
+**Art. 12.** A alteração da unidade de exercício de servidor da carreira de EPPGG, no âmbito do mesmo órgão ou entidade onde se encontra alocado, que não acarrete mudança de localidade, é permitida, sendo obrigatória a sua comunicação para a respectiva unidade setorial de gestão de pessoas para fins de atualização do registro do servidor no SIAPE/SIGEPE.
+
+**Art. 13.** Necessitam de prévia autorização do Órgão Supervisor, publicada no Diário Oficial da União, as seguintes hipóteses de alteração de unidade de exercício:
+
+I - entre ministérios ou entidades;
+
+II - entre um ministério supervisor e suas entidades vinculadas, com ou sem mudança de localidade;
+
+II - entre um órgão ou uma entidade e suas unidades regionais descentralizadas que impliquem em mudança de localidade; e
+
+III - entre órgãos integrantes e entidades vinculadas da Presidência da República, com ou sem mudança de localidade.
+
+**Art. 14.** Os órgãos e as entidades da Administração Pública Federal, em que tiver exercício servidor da carreira de EPPGG, devem observar as normas relativas à gestão da carreira e, em especial:
+
+I - respeitar as características intrínsecas de transversalidade e mobilidade da carreira, que pressupõem o exercício descentralizado temporário do servidor para apoiar o alcance de resultados vinculados a objetivos, projetos e políticas públicas estratégicas;
+
+II - autorizar os servidores a participar das atividades de formação e aperfeiçoamento integrantes do Programa Permanente de Desenvolvimento dos Especialistas em Políticas Públicas e Gestão Governamental - PROPEG como condição para a progressão funcional, e custear diárias e passagens dos que se encontrem em exercício descentralizado fora do Distrito Federal, conforme disposto no parágrafo único do art. 13 do Decreto nº 5.176, de 2004;
+
+III - prever a possibilidade de afastamento de EPPGG para participação em ações de desenvolvimento, inclusive programas de pós-graduação, no País ou no exterior, em seu Plano de Desenvolvimento de Pessoas - PDP ou documento equivalente, conforme previsto no art. 18 do Decreto nº 9.991, de 28 de agosto de 2019, no art. 8º do Decreto nº 5.176, de 2004.
+
+**Art. 15.** Os órgãos e as entidades da Administração Pública Federal que possuem servidores da carreira de EPPGG deverão pactuar, com a Secretaria de Gestão, o Plano de Trabalho Institucional indicado no art. 2º nos seguintes prazos:
+
+I - até 30 de abril de 2020 para os órgãos da administração direta; e
+
+II - até 30 de junho de 2020 para as autarquias e fundações.
+
+**Art. 16.** A Secretaria de Gestão definirá, de ofício, a alteração da unidade de exercício de EPPGG em outro órgão ou entidade nas seguintes hipóteses:
+
+I - descumprimento dos compromissos indicados no § 1º do art. 2º da presente Portaria;
+
+II - descumprimento do prazo para formalização do Plano de Trabalho Institucional conforme disposto no art. 15 desta Portaria;
+
+III - descumprimento das normas relativas à gestão da carreira, e em especial das previstas no art. 14 desta Portaria; e
+
+IV - em casos excepcionais, ao seu critério.
+
+**Art. 17.** A Secretaria de Gestão implementará sistema informatizado de gestão e acompanhamento da mobilidade, a fim de otimizar os procedimentos previstos nesta Portaria.
+
+**Art. 18.** As solicitações de alteração da unidade de exercício protocoladas na Secretaria de Gestão até a data da publicação desta Portaria serão analisadas nos moldes vigentes anteriormente à publicação deste normativo.
+
+**Art. 19.** Esta Portaria entra em vigor na data de sua publicação.
+
+**Art. 20.** Fica revogada a Portaria SEGES nº 140, de 30 de junho de 2017.
+
+CRISTIANO ROCHA HECKERT
+
+Republicada por ter saído no DOU nº 236, de 6-12-2019, Seção 1, páginas 60-62, com incorreção no original.

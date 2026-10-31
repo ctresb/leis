@@ -1,0 +1,70 @@
+---
+titulo: "PORTARIA Nº 157, DE 16 DE DEZEMBRO DE 2016"
+orgao: "Ministério do Desenvolvimento Social e Agrário/SECRETARIA NACIONAL DE ASSISTÊNCIA SOCIAL"
+tipo: "Portaria"
+numero: "157"
+data: 2016-12-16
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 20/12/2016, seção 1, p. 62"
+data_publicacao: 2016-12-20
+edicao: "243"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-157-de-16-de-dezembro-de-2016-24788253"
+sha256_html_fonte: a68bbfbf6a610bfe320fb3b750bf49e15421f46cd5281a558ceabb44d6f27f82
+baixado_em: 2026-10-28
+---
+# PORTARIA Nº 157, DE 16 DE DEZEMBRO DE 2016
+
+PORTARIA Nº 157, DE 16 DE DEZEMBRO DE 2016
+
+A SECRETÁRIA NACIONAL DE ASSISTÊNCIA SOCIAL,no uso de suas atribuições e com fundamento na Portaria MDSnº 710, de 30 de setembro de 2010, considerando os fundamentosconstantes nos pareceres técnicos dos processos abaixo indicados,resolve:
+
+**Art. 1º** Deferir as concessões de certificação de entidadebeneficente de assistência social das seguintes entidades por atenderemos requisitos legais constantes na Lei nº 12.101/2009, comvalidade de três anos a partir da publicação desta portaria no D.O.U.,nos termos do art. 5º, do Decreto nº 8.242/2014, dispostas por nomeda entidade, CNPJ, município/UF, nº do processo e número do parecertécnico:
+
+1)FUNDAÇÃO APERAM ACESITA, 00.201.144/0001-06,TIMOTEO/MG, 71000.006949/2012-11, 40978.
+
+2)O SEMEADOR INSTITUTO DE DESENVOLVIMENTOHUMANITÁRIO E ASSISTENCIAL SOCIAL, 59.042.341/0001-72,SANTANA DE PARNAIBA/SP, 71000.120266/2014-20, 41688.
+
+3)CASA DE MARIA DE TIETE, 04.804.676/0001-99, TIETE/SP,71000.094337/2016-93, 50419.
+
+4)NUCLEO SOCIO CULTURAL SEMENTE DO AMANHA,07.466.994/0001-85, RIO DE JANEIRO/RJ,71000.084492/2016-00, 50495.
+
+5)CENTRO DE DEFESA DOS DIREITOS DA CRIANÇAE DO ADOLESCENTE, 10.832.372/0001-38, RIO DE JANEIRO/RJ,71000.084407/2016-03, 50644.
+
+6)ASSOCIAÇÃO PERNAMBUCANA DE CEGOS,08.960.767/0001-74, RECIFE/PE, 71000.066084/2016-68, 50201.
+
+7)ASSOCIAÇÃO CIVIL ANIMA, 00.251.757/0001-58,SAO PAULO/SP, 71000.084554/2016-75, 50447.
+
+8)CENTRO DE REABILITAÇÃO SÃO JOSÉ,02.917.379/0001-24, RIO DE JANEIRO/RJ, 71000.066280/2016-32,50055.
+
+9)ASSOCIAÇÃO DE PAIS E AMIGOS DOS EXCEPCIONAISDE PINHALZINHO, 02.936.580/0001-23, PINHALZINHO/SP,71000.055700/2016-55, 50487.
+
+10)ASSOCIAÇÃO RELIGIOSA SANTA TEREZINHA DOMENINO JESUS, 03.572.511/0001-76, CACHOEIRA PAULISTA/SP,71000.065943/2016-00, 50323.
+
+11)PROGRAMA DE ATENDIMENTO E INTEGRAÇÃOMARIA TEREZA REBELLO, 05.572.197/0001-57, JUNDIAI/SP,71000.084754/2016-28, 50283.
+
+12)ONG HUMANIZAR FREI ROQUE BISCIONE,08.364.885/0001-10, OLIMPIA/SP, 71000.001785/2016-51, 49782.
+
+13)ASSOCIAÇÃO CONTAGIE KAIROS, 16.568.031/0001-83,SALESOPOLIS/SP, 71000.066101/2016-67, 50229.
+
+14)ASSOCIAÇÃO PESTALOZZI DE ICONHA,36.402.501/0001-41, ICONHA/ES, 71000.084650/2016-13, 50335.
+
+15)LAR SÃO VICENTE DE PAULA DE CERQUEIRA CESAR,45.434.925/0001-89, CERQUEIRA CESAR/SP,71000.084604/2016-14, 50354.
+
+16)ADEFIPE - ASSOCIAÇÃO DOS DEFICIENTES FISICOSDE PENAPOLIS, 55.756.563/0001-04, PENAPOLIS/SP,71000.055670/2016-87, 50607.
+
+17)ASSOCIAÇÃO DE PAIS E AMIGOS DOS EXCEPCIONAISDE ENGENHEIRO BELTRÃO, 77.464.303/0001-90, ENGENHEIROBELTRAO/PR, 71000.002936/2016-99, 50686.
+
+18)ASSOCIACAO JULIANO VARELA, 86.835.535/0001-06,CAMPO GRANDE/MS, 23123.001773/2011-83, 50273.
+
+**Art. 2º** Pedido de renovação de certificação de entidade beneficentede assistência social deverá ser apresentado no decorrer dos360 (trezentos e sessenta) dias que antecedem o termo final de suavalidade, em conformidade com o art. 24, § 1º, da Lei nº12.101/2009.
+
+**Art. 3º** Cientifique-se a Secretaria da Receita Federal doBrasil.
+
+**Art. 4º** Esta Portaria entra em vigor na data de sua publicação.
+
+MARIA DO CARMO BRANT DE CARVALHO
+
+MARIA DO CARMO BRANT DE CARVALHO
+
+Este conteúdo não substitui o publicado na versão certificada.

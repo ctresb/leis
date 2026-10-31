@@ -1,0 +1,94 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.100, DE 29 DE MAIO DE 2024"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos"
+tipo: "Resolução"
+numero: "2100"
+data: 2024-05-29
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 03/06/2024, seção 1, p. 85"
+data_publicacao: 2024-06-03
+edicao: "104"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.100-de-29-de-maio-de-2024-563089922"
+sha256_html_fonte: 8185abb8e303c33750dc1c241d5c0ee02883f37c1f11ee58fb6c370d7e176827
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE Nº 2.100, DE 29 DE MAIO DE 2024
+
+RESOLUÇÃO-RE Nº 2.100, DE 29 DE MAIO DE 2024
+
+A GERENTE-GERAL SUBSTITUTA DE MEDICAMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 100, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Indeferir petições relacionadas à Gerência-Geral de Medicamentos, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+FLÁVIA NEVES ROCHA ALVES
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+PRINCIPIO(S) ATIVO(S)
+
+----------------------------
+
+ABBOTT LABORATÓRIOS DO BRASIL LTDA 56998701000116
+
+PERSEA AMERICANA MILL. + GLYCINE MAX (L.) MERR.
+
+PIASCLEDINE 25351.330195/2011-01 05/2025
+
+1793 MEDICAMENTO FITOTERÁPICO - ALTERAÇÃO NA ESPECIFICAÇÃO DA MATÉRIA-PRIMA VEGETAL 0533494/23-2
+
+1.0553.0356.003-1 36 Meses
+
+(100 + 200) MG CAP DURA CT BL AL PLAS PVC 250 PVDC 90 TRANS X 15
+
+1.0553.0356.004-8 36 Meses
+
+(100 + 200) MG CAP DURA CT BL AL PLAS PVC 250 PVDC 90 TRANS X 30
+
+1.0553.0356.005-6 36 Meses
+
+(100 + 200) MG CAP DURA CT BL AL PLAS PVC 250 PVDC 90 TRANS X 10
+
+1.0553.0356.006-4 36 Meses
+
+(100 + 200) MG CAP DURA CT BL AL PLAS PVC 250 PVDC 90 TRANS X 60
+
+1.0553.0356.007-2 36 Meses
+
+(100 + 200) MG CAP DURA CT BL AL PLAS PVC 250 PVDC 90 TRANS X 90
+
+----------------------------
+
+CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. 44734671000151
+
+BESILATO DE REMIMAZOLAM
+
+BYFAVO 25351.001433/2023-28 06/2034
+
+11306 MEDICAMENTO NOVO - REGISTRO DE MEDICAMENTO NOVO 0002218/23-7
+
+20 MG PO LIOF SOL INJ IV CT FA VD TRANS
+
+20 MG PO LIOF SOL INJ IV CT 10 FA VD TRANS
+
+50 MG PO LIOF SOL INJ IV CT 5 FA VD TRANS
+
+50 MG PO LIOF SOL INJ IV CT 10 FA VD TRANS
+
+20 MG PO LIOF SOL INJ IV CT 5 FA VD TRANS
+
+50 MG PO LIOF SOL INJ IV CT FA VD TRANS

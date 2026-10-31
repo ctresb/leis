@@ -1,0 +1,36 @@
+---
+titulo: "Ato Declaratório Executivo DRF/LIM nº 15, de 13 de agosto de 2014"
+orgao: "Delegacia da Receita Federal do Brasil em Limeira"
+tipo: "Ato Declaratório Executivo"
+numero: "15"
+data: "2014-08-13"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 15/08/2014, seção 1, página 85"
+data_publicacao: "2014-08-15"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/55151/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/55151/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "55151"
+sha256_texto: "64f347d70585da9f44dfd92d3aff1ce288067ef27b66a49c6bcb23432c4ebf3c"
+baixado_em: "2026-10-20"
+---
+# Ato Declaratório Executivo DRF/LIM nº 15, de 13 de agosto de 2014
+
+Divulga enquadramento de bebidas segundo o regime de tributação do Imposto sobre Produtos Industrializados de que trata o art. 1º da Lei nº 7.798, de 10 de julho de 1989.
+
+O DELEGADO SUBSTITUTO DA RECEITA FEDERAL DO BRASIL EM LIMEIRA -SP, no uso da competência delegada pela Portaria RFB nº 1.069, de 7 de julho de 2008, e tendo em vista o disposto nos arts. 209 e 210 do Decreto nº 7.212, de 15 de junho de 2010 - Regulamento do Imposto sobre Produtos Industrializados (Ripi), declara:
+
+**Art. 1º** Os produtos relacionados neste Ato Declaratório Executivo (ADE), para efeito de cálculo e pagamento do Imposto sobre Produtos Industrializados (IPI) de que trata o art. 1º da Lei nº 7.798, de 10 de julho de 1989, passam a ser classificados ou a ter sua classificação alterada, de acordo com o Anexo Único deste Ato Declaratório Executivo.
+
+**Art. 2º** As classes de enquadramento e reenquadramento, previstas neste ADE, salvo nos casos expressamente definidos, referem-se a produtos comercializados em qualquer tipo de vasilhame.
+
+**Art. 3º** Este Ato Declaratório Executivo entra em vigor e produz efeitos a partir da data de sua publicação.
+
+ANDRÉ DALLE VEDOVE BARBOSA
+
+ANEXO ÚNICO
+
+<table>  	<col>  	<col>  	<col>  	<col>  	<col>  	<tr>  		<td>  			<p>CNPJ</p>  		</td>  		<td>  			<p>MARCA  			COMERCIAL</p>  		</td>  		<td>  			<p>CAPACIDADE  			(mililitros)</p>  		</td>  		<td>  			<p>CÓDIGO  			TIPI</p>  		</td>  		<td>  			<p>ENQUADRA-</p>  			<p>MENTO  			(letra)</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>01.307.936/0001-22</p>  		</td>  		<td>  			<p>SMIRNOFF  			ICE</p>  		</td>  		<td>  			<p>De  			181ml até 375ml</p>  		</td>  		<td>  			<p>2208.90.00  			Ex 02</p>  		</td>  		<td>  			<p>E</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>01.307.936/0001-22</p>  		</td>  		<td>  			<p>SMIRNOFF  			ICE</p>  		</td>  		<td>  			<p>De  			181ml até 375ml</p>  		</td>  		<td>  			<p>2208.90.00  			Ex 02</p>  		</td>  		<td>  			<p>E</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>01.307.936/0001-22</p>  		</td>  		<td>  			<p>SMIRNOFF  			CRANBERRY E LIMÃO</p>  		</td>  		<td>  			<p>De  			181ml até 375ml</p>  		</td>  		<td>  			<p>2208.90.00  			Ex 02</p>  		</td>  		<td>  			<p>E</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>01.307.936/0001-22</p>  		</td>  		<td>  			<p>SMIRNOFF  			MAÇÃ E CANELA</p>  		</td>  		<td>  			<p>De  			181ml até 375ml</p>  		</td>  		<td>  			<p>2208.90.00  			Ex 02</p>  		</td>  		<td>  			<p>E</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>01.307.936/0001-22</p>  		</td>  		<td>  			<p>SMIRNOFF  			MARACUJÁ E LIMÃO</p>  		</td>  		<td>  			<p>De  			181ml até 375ml</p>  		</td>  		<td>  			<p>2208.90.00  			Ex 02</p>  		</td>  		<td>  			<p>E</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>01.307.936/0001-22</p>  		</td>  		<td>  			<p>SMIRNOFF  			ICE</p>  		</td>  		<td>  			<p>De  			181ml até 375ml</p>  		</td>  		<td>  			<p>2208.90.00  			Ex 02</p>  		</td>  		<td>  			<p>G</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>01.307.936/0001-22</p>  		</td>  		<td>  			<p>SMIRNOFF  			ICE SUNSET PEACH</p>  		</td>  		<td>  			<p>De  			181ml até 375ml</p>  		</td>  		<td>  			<p>2208.90.00  			Ex 02</p>  		</td>  		<td>  			<p>E</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>03.485.775/0001-92</p>  		</td>  		<td>  			<p>PIRASSUNUNGA  			51</p>  		</td>  		<td>  			<p>De  			671ml até 1000ml</p>  		</td>  		<td>  			<p>2208.40.00</p>  		</td>  		<td>  			<p>H</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>03.485.775/0001-92</p>  		</td>  		<td>  			<p>PIRASSUNUNGA  			51</p>  		</td>  		<td>  			<p>De  			376ml até 670ml</p>  		</td>  		<td>  			<p>2208.40.00</p>  		</td>  		<td>  			<p>J</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>03.485.775/0001-92</p>  		</td>  		<td>  			<p>PIRASSUNUNGA  			51</p>  		</td>  		<td>  			<p>De  			671ml até 1000ml</p>  		</td>  		<td>  			<p>2208.40.00</p>  		</td>  		<td>  			<p>K</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>03.485.775/0001-92</p>  		</td>  		<td>  			<p>CACHAÇA  			TERRA BRAZILIS 51</p>  		</td>  		<td>  			<p>De  			671ml até 1000ml</p>  		</td>  		<td>  			<p>2208.40.00</p>  		</td>  		<td>  			<p>N</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>03.485.775/0001-92</p>  		</td>  		<td>  			<p>DOMUS</p>  		</td>  		<td>  			<p>De  			671ml até 1000ml</p>  		</td>  		<td>  			<p>2208.90.00</p>  		</td>  		<td>  			<p>M</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>03.485.775/0001-92</p>  		</td>  		<td>  			<p>51  			PIRASSUNUNGA OURO</p>  		</td>  		<td>  			<p>De  			671ml até 1000ml</p>  		</td>  		<td>  			<p>2208.90.00</p>  		</td>  		<td>  			<p>L</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>11.005.453/0001-27</p>  		</td>  		<td>  			<p>GUASPARI  			- PINOT NOIR</p>  		</td>  		<td>  			<p>De  			671ml até 1000ml</p>  		</td>  		<td>  			<p>2204.21.00</p>  		</td>  		<td>  			<p>J</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>11.005.453/0001-27</p>  		</td>  		<td>  			<p>GUASPARI  			- SAUVIGNON BLANC</p>  		</td>  		<td>  			<p>De  			671ml até 1000ml</p>  		</td>  		<td>  			<p>2204.21.00</p>  		</td>  		<td>  			<p>J</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>11.005.453/0001-27</p>  		</td>  		<td>  			<p>GUASPARI  			- SYRAH VISTA DA SERRA</p>  		</td>  		<td>  			<p>De  			671ml até 1000ml</p>  		</td>  		<td>  			<p>2204.21.00</p>  		</td>  		<td>  			<p>J</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>11.005.453/0001-27</p>  		</td>  		<td>  			<p>GUASPARI  			- SYRAH VISTA DO CHÁ</p>  		</td>  		<td>  			<p>De  			671ml até 1000ml</p>  		</td>  		<td>  			<p>2204.21.00</p>  		</td>  		<td>  			<p>J</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>11.005.453/0001-27</p>  		</td>  		<td>  			<p>GUASPARI  			- CHARDONNAY</p>  		</td>  		<td>  			<p>De  			671ml até 1000ml</p>  		</td>  		<td>  			<p>2204.21.00</p>  		</td>  		<td>  			<p>J</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>58.551.326/0001-97</p>  		</td>  		<td>  			<p>BALALAIKA  			ICE KIWI</p>  		</td>  		<td>  			<p>De  			181ml até 375ml</p>  		</td>  		<td>  			<p>2208.90.00  			Ex 02</p>  		</td>  		<td>  			<p>E</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>58.551.326/0001-97</p>  		</td>  		<td>  			<p>BALALAIKA  			ICE LICHIA</p>  		</td>  		<td>  			<p>De  			181ml até 375ml</p>  		</td>  		<td>  			<p>2208.90.00  			Ex 02</p>  		</td>  		<td>  			<p>E</p>  		</td>  	</tr>  </table>

@@ -1,0 +1,67 @@
+---
+titulo: "Ato Declaratório Executivo DRF/PCS nº 114, de 14 de dezembro de 2017"
+orgao: "Delegacia da Receita Federal do Brasil em Poços de Caldas"
+tipo: "Ato Declaratório Executivo"
+numero: "114"
+data: "2017-12-14"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 15/12/2017, seção 1, página 44"
+data_publicacao: "2017-12-15"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/88700/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/88700/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "88700"
+sha256_texto: "e8b486318d4249a2c1a6cb3dd3d0d99c3515177c480a485a27005178f632cb26"
+baixado_em: "2026-10-16"
+---
+# Ato Declaratório Executivo DRF/PCS nº 114, de 14 de dezembro de 2017
+
+Declara inaptas as inscrições das pessoas jurídicas, no Cadastro Nacional da Pessoa Jurídica, por omissão de declarações.
+
+O DELEGADO DA DELEGACIA DA RECEITA FEDERAL DO BRASIL EM POÇOS DE CALDAS, no uso das competências que lhe confere o artigo 302 do Regimento Interno da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e, em cumprimento ao estabelecido no artigo 41, § 2º, da Instrução Normativa RFB nº 1.634, de 06 de maio de 2016, decide:
+
+Declarar INAPTAS as inscrições das pessoas jurídicas, abaixo relacionadas, no Cadastro Nacional da Pessoa Jurídica – CNPJ, por omissão de declarações.
+
+| NOME | CNPJ |
+| --- | --- |
+| ADRIANO JUSTINO SILVA 03498154613 | 21.773.208/0001-13 |
+| ALINE ADRIANA DE LIMA 07097253614 | 19.117.133/0001-70 |
+| ANTONIO ALVES DA SILVA 27158357600 | 12.415.248/0001-00 |
+| AROLDO ANTONIO DA SILVA 78049288668 | 20.261.113/0001-58 |
+| CACILDA ANICE SABAG GARCIA 91796407615 | 21.655.814/0001-34 |
+| DIEGO DOS REIS SILVA 10276643690 | 19.954.832/0001-75 |
+| DIONESIO BARBOSA SILVA FILHO - ME | 08.351.179/0001-33 |
+| ERICA CRISTINA REZENDE 07178669632 | 22.126.407/0001-00 |
+| FABIO HENRIQUE DOS SANTOS FONSECA 26465709880 | 21.322.285/0001-57 |
+| FERNANDO LUIZ ANTONIO 85998770625 | 21.281.828/0001-35 |
+| GABRIELLA AMANDA BARRETTA COSTA 03779962977 | 12.354.870/0001-48 |
+| GILMAR SILVA 84677767653 | 21.691.040/0001-05 |
+| ILMA CORREA GOMES 92965300678 | 17.408.996/0001-71 |
+| JOAO BATISTA DE OLIVEIRA 57477442672 | 21.709.915/0001-40 |
+| JOAO HENRIQUE BEVILAQUA 01741792860 | 21.136.102/0001-09 |
+| JOAO JACOB MIQUERI 70656029668 | 21.141.141/0001-02 |
+| JOAO RODRIGUES DIAS 34618139668 | 19.955.247/0001-90 |
+| JOICE SCRAMAGNAN BEVILAQUA 00231910150 | 21.035.067/0001-31 |
+| JOSE MARIA DE LIMA 67906915887 | 16.571.654/0001-05 |
+| KERULLYN KAROLINE SALES 09267320645 | 21.113.971/0001-18 |
+| MARCOS JOSE DE REZENDE 96179562687 | 19.233.461/0001-32 |
+| MARGARIDA DE FATIMA GARCIA RIBEIRO 03119588695 | 20.348.540/0001-78 |
+| MARIA EVANI DA SILVA PRIMO 05916142609 | 20.199.662/0001-40 |
+| MARLENE APARECIDA DOS SANTOS DIAS 05266627603 | 19.294.986/0001-88 |
+| NEUSA REGINA DE PAULO 35357606668 | 18.560.056/0001-66 |
+| NILVA EVANGELISTA DA SILVA - ME | 03.028.938/0001-08 |
+| RENATO FERREIRA DE SOUZA 18565315894 | 20.484.428/0001-64 |
+| RONALDO HENRIQUE DA SILVA 41260821668 | 17.695.566/0001-88 |
+| SEBASTIAO BARROSO DA SILVEIRA NETO 35268280678 | 21.890.899/0001-35 |
+| SIDNEI LOURENCO FAGUNDES 97369900606 | 19.767.527/0001-74 |
+| SIMIEL SANTOS TASSOTE 31068198800 | 19.879.835/0001-91 |
+| SOLANGE FAGUNDES OLIVEIRA 85996530678 | 12.515.593/0001-08 |
+| TELMA SILVESTRE MOREIRA FERREIRA 08676807680 | 22.037.189/0001-20 |
+| VALDOMIRO LIMIRO DA SILVA 00586012605 | 20.025.504/0001-73 |
+| WANDERSON FERREIRA ARAUJO 06235546661 | 19.934.648/0001-63 |
+| WEDER GALHARDO 08899341699 | 21.100.600/0001-00 |
+
+DANIEL OLIVEIRA RIBEIRO

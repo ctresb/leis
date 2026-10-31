@@ -1,0 +1,334 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.720, DE 18 DE SETEMBRO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Terceira Diretoria/Gerência-Geral de Toxicologia"
+tipo: "Resolução"
+numero: "3720"
+data: 2020-09-18
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 21/09/2020, seção 1, p. 273"
+data_publicacao: 2020-09-21
+edicao: "181"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.720-de-18-de-setembro-de-2020-278467144"
+sha256_html_fonte: 6ed5efb14fa58b37c662e801be0ab336364b0ae7c1f2e2160fc628b92ad1afac
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 3.720, DE 18 DE SETEMBRO DE 2020
+
+RESOLUÇÃO-RE Nº 3.720, DE 18 DE SETEMBRO DE 2020
+
+O Gerente-Geral de Toxicologia no uso das atribuições que lhe confere o art. 149, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º** Aprovar a avaliação toxicológica preliminar para fins de Registro Especial Temporário (RET), conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+CARLOS ALEXANDRE OLIVEIRA GOMES
+
+## ANEXO
+
+EMPRESA/CNPJ
+
+PROCESSO
+
+FASE DO EXPERIMENTO
+
+-----------------------------
+
+ALBAUGH AGRO BRASIL LTDA. - 01.789.121/0001-27
+
+25351.854809/2020-57
+
+FASE I
+
+25351.855079/2020-10
+
+FASE I
+
+-----------------------------
+
+ADAMA BRASIL S/A - 02.290.510/0001-76
+
+25351.645700/2020-21
+
+FASE II
+
+25351.713611/2020-14
+
+FASE II
+
+-----------------------------
+
+BASF S/A - 48.539.407/0001-18
+
+25351.807030/2020-42
+
+FASE II
+
+25351.823206/2020-11
+
+FASE II
+
+25351.828176/2020-21
+
+FASE II
+
+25351.844306/2020-73
+
+FASE II
+
+25351.861632/2020-45
+
+FASE II
+
+25351.682465/2020-78
+
+FASE III
+
+25351.773682/2020-76
+
+FASE III
+
+25351.660864/2020-88
+
+FASE II
+
+25351.682408/2020-99
+
+FASE III
+
+25351.697905/2020-91
+
+FASE II
+
+25351.698000/2020-39
+
+FASE II
+
+25351.729985/2020-51
+
+FASE II
+
+25351.730007/2020-52
+
+FASE II
+
+25351.730010/2020-76
+
+FASE II
+
+25351.730012/2020-65
+
+FASE II
+
+25351.730018/2020-32
+
+FASE II
+
+25351.730030/2020-47
+
+FASE II
+
+25351.844359/2020-94
+
+FASE II
+
+25351.844377/2020-76
+
+FASE II
+
+25351.871857/2020-18
+
+FASE II
+
+25351.828175/2020-87
+
+FASE II
+
+-----------------------------
+
+BAYER S.A. - 18.459.628/0001-15
+
+25351.621215/2020-61
+
+FASE III
+
+-----------------------------
+
+DOW AGROSCIENCES INDUSTRIAL LTDA - 47.180.625/0001-46
+
+25351.682457/2020-21
+
+FASE III
+
+25351.703586/2020-61
+
+FASE III
+
+25351.708510/2020-21
+
+FASE III
+
+25351.828062/2020-81
+
+FASE III
+
+25351.828234/2020-17
+
+FASE III
+
+-----------------------------
+
+DU PONT DO BRASIL SA - 61.064.929/0001-79
+
+25351.621144/2020-05
+
+FASE II
+
+-----------------------------
+
+FERBRU PARTICIPAÇÕES S.A. - 27.150.699/0001-22
+
+25351.724983/2020-76
+
+FASE I
+
+-----------------------------
+
+FMC
+
+25351.833453/2020-18
+
+FASE I
+
+-----------------------------
+
+IHARABRAS S.A INDÚSTRIAS QUÍMICAS - 61.142.550/0001-30
+
+25351.671355/2020-81
+
+FASE III
+
+25351.693089/2020-47
+
+FASE I
+
+25351.703382/2020-20
+
+FASE III
+
+-----------------------------
+
+ISAGRO BRASIL COMÉRCIO DE PRODUTOS AGROQUÍMICOS LTDA. - 06.151.494/0001-91
+
+25351.735220/2020-51
+
+FASE III
+
+25351.621206/2020-71
+
+FASE I
+
+-----------------------------
+
+LEMMA - CONSULTORIA E APOIO ADMINISTRATIVO AGRONEGOCIOS, IMPORTACAO E EXPORTACAO LTDA - 11.351.422/0001-28
+
+25351.801800/2020-43
+
+FASE II
+
+-----------------------------
+
+MITSUI CHEMICALS DO BRASIL COMÉRCIO LTDA. - 11.606.237/0001-37
+
+25351.796341/2020-79
+
+FASE I
+
+-----------------------------
+
+NICHINO DO BRASIL AGROQUÍMICOS LTDA - 20.664.619/0001-08
+
+25351.682488/2020-82
+
+FASE I
+
+25351.682526/2020-05
+
+FASE I
+
+25351.682357/2020-03
+
+FASE I
+
+-----------------------------
+
+PROMIP COMÉRCIO PESQUISAS E DESENVOLVIMENTO DE AGENTES BIOLÓGICOS LTDA. - 08.256.226/0001-60
+
+25351.796306/2020-50
+
+FASE I
+
+25351.796399/2020-12
+
+FASE I
+
+25351.796452/2020-85
+
+FASE I
+
+25351.796482/2020-91
+
+FASE I
+
+25351.796434/2020-01
+
+FASE I
+
+25351.833455/2020-15
+
+FASE I
+
+-----------------------------
+
+SUMITOMO CHEMICAL DO BRASIL REPRESENTACOES LTDA - 42.462.952/0001-77
+
+25351.757589/2020-14
+
+FASE I
+
+-----------------------------
+
+SYNGENTA PROTEÇÃO DE CULTIVOS LTDA - 60.744.463/0001-90
+
+25351.697861/2020-08
+
+FASE III
+
+25351.697862/2020-44
+
+FASE III
+
+25351.697863/2020-99
+
+FASE III
+
+25351.697909/2020-70
+
+FASE III
+
+25351.697920/2020-30
+
+FASE III
+
+25351.697962/2020-71
+
+FASE III
+
+25351.839231/2020-17
+
+FASE III
+
+25351.839317/2020-31
+
+FASE III

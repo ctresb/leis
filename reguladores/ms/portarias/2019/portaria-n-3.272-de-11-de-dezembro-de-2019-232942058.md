@@ -1,0 +1,58 @@
+---
+titulo: "PORTARIA Nº 3.272, DE 11 DE DEZEMBRO DE 2019"
+orgao: "Ministério da Saúde/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "3272"
+data: 2019-12-11
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 12/12/2019, seção 1, p. 205"
+data_publicacao: 2019-12-12
+edicao: "240"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-3.272-de-11-de-dezembro-de-2019-232942058"
+sha256_html_fonte: 745551d73ecbaa3d186959fc3b2cdfa47870f92e776f6e5b1beddf0989814f43
+baixado_em: 2026-10-27
+---
+# PORTARIA Nº 3.272, DE 11 DE DEZEMBRO DE 2019
+
+PORTARIA Nº 3.272, DE 11 DE DEZEMBRO DE 2019
+
+Habilita o Estado, Município ou Distrito Federal a receber recursos referentes ao incremento temporário do Limite Financeiro da Assistência de Média e Alta Complexidade (MAC)
+
+O MINISTRO DE ESTADO DA SAÚDE, substituto, no uso das atribuições que lhe conferem os incisos I e II do parágrafo único do art. 87 da Constituição, e
+
+Considerando a Lei Complementar nº 141, de 13 de janeiro de 2012, que regulamenta o § 3º do art. 198 da Constituição Federal para dispor sobre os valores mínimos a serem aplicados anualmente pela União, Estados, Distrito Federal e Municípios em ações e serviços públicos de saúde; estabelece os critérios de rateio dos recursos de transferências para a saúde e as normas de fiscalização, avaliação e controle das despesas com saúde nas 3 (três) esferas de governo; revoga dispositivos das Leis nºs 8.080, de 19 de setembro de 1990, e 8.689, de 27 de julho de 1993, e dá outras providências;
+
+Considerando a Lei nº 8.080, de 19 de setembro de 1990, que dispõe sobre as condições para a promoção, proteção e recuperação da saúde, a organização e o funcionamento dos serviços correspondentes e dá outras providências;
+
+Considerando a Lei nº 8.142, de 28 de dezembro de 1990, que dispõe sobre a participação da comunidade na gestão do Sistema Único de Saúde (SUS) e sobre as transferências intergovernamentais de recursos financeiros na área da saúde e dá outras providências;
+
+Considerando a Lei nº 13.808, de 15 de janeiro de 2019, que estima a receita e fixa a despesa da União para o exercício financeiro de 2019;
+
+Considerando o Decreto nº 1.232, de 30 de agosto de 1994, que dispõe sobre as condições e a forma de repasse regular e automático de recursos do Fundo Nacional de Saúde para os Fundos de Saúde Estaduais, Municipais e do Distrito Federal;
+
+Considerando o Decreto nº 7.507, de 27 de junho de 2011, que dispõe sobre a movimentação de recursos federais transferidos a Estados, Distrito Federal e Municípios, em decorrência das leis citadas;
+
+Considerando a Portaria de Consolidação nº 6/GM/MS, de 03 de outubro de 2017, que trata da consolidação das normas sobre o financiamento e a transferência dos recursos federais para as ações e os serviços de saúde do Sistema Único de Saúde; e
+
+Considerando a Portaria nº 395, de 14 de março de 2019, que regulamenta a aplicação das emendas parlamentares que adicionarem recursos ao SUS no exercício de 2019, para incremento do Teto de Média e Alta Complexidade e do Piso de Atenção Básica, com base no disposto no art. 40, § 5º, inciso II da Lei nº 13.707, de 14 de agosto de 2018, e dá outras providências, resolve:
+
+**Art. 1º** Fica habilitado o Estado, Município ou Distrito Federal descrito no anexo a esta Portaria a receber recursos referentes ao incremento temporário do Limite Financeiro da Assistência de Média e Alta Complexidade (MAC).
+
+**Art. 2º** Os recursos tratados nesta Portaria referem-se ao incremento temporário do Limite Financeiro da Assistência de Média e Alta Complexidade (MAC), observando o disposto no Capítulo II da Portaria nº 395, de 14 de março de 2019.
+
+**Art. 3º** Os recursos desta Portaria são de natureza de despesa de custeio e onerarão o Bloco de Custeio das Ações e Serviços Públicos de Saúde, nos termos do anexo.
+
+**Art. 4º** As propostas de que tratam essa portaria serão processadas no Sistema de Cadastro de Propostas Fundo a Fundo, disponível no sítio eletrônico do Fundo Nacional de Saúde - www.fns.saude.gov.br.
+
+**Art. 5º** O Fundo Nacional de Saúde adotará as medidas necessárias para as transferências de recursos estabelecidas nesta Portaria aos respectivos Fundos de Saúde, em até seis parcelas, em conformidade com os processos de pagamento instruídos, após atendidas as condições previstas para essa modalidade de transferência.
+
+**Art. 6º** A prestação de contas sobre a aplicação dos recursos será realizada por meio do Relatório Anual de Gestão - RAG do respectivo ente federativo beneficiado.
+
+JOAO GABBARDO DOS REIS
+
+## ANEXO
+
+ENTES HABILITADOS A RECEBEREM RECURSOS FEDERAIS DESTINADOS AO INCREMENTO TEMPORÁRIO DO TETO DA MÉDIA E ALTA COMPLEXIDADE - MAC
+
+<table><tr></tr><tr><td><p>UF</p></td><td><p>MUNICÍPIO</p></td><td><p>ENTIDADE</p></td><td><p>Nº DA PROPOSTA</p></td><td><p>VALOR TOTAL DA PROPOSTA (R$)</p></td><td><p>P.O.</p></td><td><p>FUNCIONAL PROGRAMÁTICA</p></td><td><p>CNES</p></td><td><p>VALOR</p></td></tr><tr><td><p>BA</p></td><td><p>CICERO DANTAS</p></td><td><p>FUNDO MUNICIPAL DE SAUDE DE CICERO DANTAS</p></td><td><p>36000285801201900</p></td><td><p>175.088,00</p></td><td><p>0000</p></td><td><p>1030220152E900001</p></td><td><p>2301725</p></td><td><p>175.088,00</p></td></tr><tr><td><p>MG</p></td><td><p>BELO HORIZONTE</p></td><td><p>FUNDO ESTADUAL DE SAUDE</p></td><td><p>36000274382201900</p></td><td><p>150.000,00</p></td><td><p>0000</p></td><td><p>1030220152E900001</p></td><td><p>2214962</p></td><td><p>150.000,00</p></td></tr><tr><td><p>MG</p></td><td><p>CORONEL FABRICIANO</p></td><td><p>FUNDO MUNICIPAL DE SAUDE DE CORONEL FABRICIANO-MG</p></td><td><p>36000274413201900</p></td><td><p>500.000,00</p></td><td><p>0000</p></td><td><p>1030220152E900001</p></td><td><p>4040201</p></td><td><p>500.000,00</p></td></tr><tr><td><p>MG</p></td><td><p>CORONEL FABRICIANO</p></td><td><p>FUNDO MUNICIPAL DE SAUDE DE CORONEL FABRICIANO-MG</p></td><td><p>36000274414201900</p></td><td><p>500.000,00</p></td><td><p>0000</p></td><td><p>1030220152E900001</p></td><td><p>4040201</p></td><td><p>500.000,00</p></td></tr><tr><td><p>MG</p></td><td><p>CORONEL FABRICIANO</p></td><td><p>FUNDO MUNICIPAL DE SAUDE DE CORONEL FABRICIANO-MG</p></td><td><p>36000274415201900</p></td><td><p>500.000,00</p></td><td><p>0000</p></td><td><p>1030220152E900001</p></td><td><p>4040201</p></td><td><p>500.000,00</p></td></tr><tr><td><p>MG</p></td><td><p>MANHUACU</p></td><td><p>FUNDO MUNICIPAL DE SAUDE</p></td><td><p>36000270160201900</p></td><td><p>100.000,00</p></td><td><p>0000</p></td><td><p>1030220152E900001</p></td><td><p>6408613</p></td><td><p>100.000,00</p></td></tr><tr><td><p>MG</p></td><td><p>POTE</p></td><td><p>FUNDO MUNICIPAL DE SAUDE DE POTE</p></td><td><p>36000282425201900</p></td><td><p>6.040,00</p></td><td><p>0000</p></td><td><p>1030220152E900001</p></td><td><p>6523684</p></td><td><p>6.040,00</p></td></tr><tr><td><p>MG</p></td><td><p>RIBEIRAO DAS NEVES</p></td><td><p>FUNDO MUNICIPAL DE SAUDE DE RIBEIRAO DAS NEVES</p></td><td><p>36000270177201900</p></td><td><p>1.000.000,00</p></td><td><p>0000</p></td><td><p>1030220152E900001</p></td><td><p>3125920</p></td><td><p>1.000.000,00</p></td></tr><tr><td><p>RJ</p></td><td><p>DUQUE DE CAXIAS</p></td><td><p>FUNDO MUNICIPAL DE SAUDE DE DUQUE DE CAXIAS</p></td><td><p>36000273536201900</p></td><td><p>2.000.000,00</p></td><td><p>0000</p></td><td><p>1030220152E900001</p></td><td><p>5371120</p></td><td><p>2.000.000,00</p></td></tr><tr><td><p>RN</p></td><td><p>CAICO</p></td><td><p>FUNDO MUNICIPAL DE SAUDE DE CAICO - RN</p></td><td><p>36000273939201900</p></td><td><p>750.000,00</p></td><td><p>0000</p></td><td><p>1030220152E900001</p></td><td><p>6560903</p></td><td><p>750.000,00</p></td></tr><tr><td><p>RN</p></td><td><p>EXTREMOZ</p></td><td><p>FUNDO MUNICIPAL DE SAUDE</p></td><td><p>36000274067201900</p></td><td><p>165.601,00</p></td><td><p>0000</p></td><td><p>1030220152E900001</p></td><td><p>6535917</p></td><td><p>165.601,00</p></td></tr><tr><td><p>RN</p></td><td><p>JUCURUTU</p></td><td><p>FUNDO MUNICIPAL DE SAUDE DE JUCURUTU</p></td><td><p>36000271686201900</p></td><td><p>150.000,00</p></td><td><p>0000</p></td><td><p>1030220152E900001</p></td><td><p>6675190</p></td><td><p>150.000,00</p></td></tr><tr><td><p>RN</p></td><td><p>MONTE ALEGRE</p></td><td><p>FUNDO MUNICIPAL DE SAUDE DE MONTE ALEGRE</p></td><td><p>36000271383201900</p></td><td><p>500.000,00</p></td><td><p>0000</p></td><td><p>1030220152E900001</p></td><td><p>6266312</p></td><td><p>500.000,00</p></td></tr><tr><td><p>RN</p></td><td><p>NOVA CRUZ</p></td><td><p>FUNDO MUNICIPAL DE SAUDE DO MUNICIPIO DE NOVA CRUZ RN</p></td><td><p>36000271271201900</p></td><td><p>500.000,00</p></td><td><p>0000</p></td><td><p>1030220152E900001</p></td><td><p>6272606</p></td><td><p>500.000,00</p></td></tr><tr><td><p>RN</p></td><td><p>OURO BRANCO</p></td><td><p>FUNDO MUNICIPAL DE SAUDE DE OURO BRANCO - RN</p></td><td><p>36000280337201900</p></td><td><p>241.000,00</p></td><td><p>0000</p></td><td><p>1030220152E900001</p></td><td><p>6549829</p></td><td><p>241.000,00</p></td></tr><tr><td><p>RN</p></td><td><p>SAO RAFAEL</p></td><td><p>FUNDO MUNICIPAL DE SAUDE DE SAO RAFAEL</p></td><td><p>36000271546201900</p></td><td><p>170.000,00</p></td><td><p>0000</p></td><td><p>1030220152E900001</p></td><td><p>6749658</p></td><td><p>170.000,00</p></td></tr><tr><td><p>RO</p></td><td><p>VILHENA</p></td><td><p>FUNDO MUNICIPAL DE SAUDE</p></td><td><p>36000272885201900</p></td><td><p>290.000,00</p></td><td><p>0000</p></td><td><p>1030220152E900001</p></td><td><p>6903614</p></td><td><p>290.000,00</p></td></tr><tr><td><p>RS</p></td><td><p>PORTO ALEGRE</p></td><td><p>FUNDO MUNICIPAL DE SAUDE</p></td><td><p>36000272964201900</p></td><td><p>2.500.000,00</p></td><td><p>0000</p></td><td><p>1030220152E900001</p></td><td><p>2237253</p></td><td><p>2.500.000,00</p></td></tr><tr><td><p>SP</p></td><td><p>DRACENA</p></td><td><p>FUNDO MUNICIPAL DE SAUDE</p></td><td><p>36000269041201900</p></td><td><p>900.000,00</p></td><td><p>0000</p><p>0000</p></td><td><p>1030220152E900001</p><p>1030220152E900001</p></td><td><p>2750988</p><p>6637337</p></td><td><p>400.000,00</p><p>500.000,00</p></td></tr><tr><td><p>SP</p></td><td><p>ITAPEVI</p></td><td><p>FUNDO MUNICIPAL DE SAUDE DE ITAPEVI</p></td><td><p>36000273723201900</p></td><td><p>2.000.000,00</p></td><td><p>0000</p></td><td><p>1030220152E900001</p></td><td><p>5697158</p></td><td><p>2.000.000,00</p></td></tr><tr><td><p>SP</p></td><td><p>JABOTICABAL</p></td><td><p>FUNDO MUNICIPAL DE SAUDE DE JABOTICABAL</p></td><td><p>36000267901201900</p></td><td><p>700.000,00</p></td><td><p>0000</p><p>0000</p></td><td><p>1030220152E900001</p><p>1030220152E900001</p></td><td><p>2025469</p><p>2025477</p></td><td><p>200.000,00</p><p>500.000,00</p></td></tr><tr><td><p>SP</p></td><td><p>MOGI GUACU</p></td><td><p>FUNDO MUNICIPAL DE SAUDE DE MOGI GUACU</p></td><td><p>36000274520201900</p></td><td><p>483.095,00</p></td><td><p>0000</p><p>0000</p><p>0000</p></td><td><p>1030220152E900001</p><p>1030220152E900001</p><p>1030220152E900001</p></td><td><p>2087154</p><p>2096463</p><p>6473474</p></td><td><p>50.000,00</p><p>200.000,00</p><p>233.095,00</p></td></tr><tr><td><p>SP</p></td><td><p>SOROCABA</p></td><td><p>FUNDO MUNICIPAL DE SAUDE DE SOROCABA</p></td><td><p>36000267592201900</p></td><td><p>1.800.000,00</p></td><td><p>0000</p><p>0000</p></td><td><p>1030220152E900001</p><p>1030220152E900001</p></td><td><p>2690799</p><p>2079321</p></td><td><p>800.000,00</p><p>1.000.000,00</p></td></tr><tr><td><p>TOTAL</p></td><td><p>23 PROPOSTAS</p></td><td><p>16.080.824,00</p></td><td></td><td></td><td></td><td></td><td></td></tr></table>

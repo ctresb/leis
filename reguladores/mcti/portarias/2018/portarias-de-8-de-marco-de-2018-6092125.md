@@ -1,0 +1,36 @@
+---
+titulo: "PORTARIAS DE 8 DE MARÇO DE 2018"
+orgao: "Ministério da Ciência, Tecnologia, Inovações e Comunicações/Secretaria de Radiodifusão/Departamento de Radiodifusão Educativa, Comunitária e de Fiscalização"
+tipo: "Portaria"
+numero: ""
+data: ""
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 12/03/2018, seção 1, p. 19"
+data_publicacao: 2018-03-12
+edicao: "48"
+fonte: "https://www.in.gov.br/web/dou/-/portarias-de-8-de-marco-de-2018-6092125"
+sha256_html_fonte: 486758c905ff006c994a5e46de4b103521b736d1ce955ad4e110092feed7e3ce
+baixado_em: 2026-10-27
+---
+# PORTARIAS DE 8 DE MARÇO DE 2018
+
+PORTARIAS DE 8 DE MARÇO DE 2018
+
+A DIRETORA DO DEPARTAMENTO DE RADIODIFUSÃO EDUCATIVA, COMUNITÁRIA E DE FISCALIZAÇÃO, no uso das atribuições que lhe confere o Anexo III, artigo 77, § 2º, X do Regimento Interno da Secretaria de Radiodifusão, aprovado pela Portaria MCTIC nº 1.729, de 31 de março de 2017, e tendo em vista o que consta nos processos abaixo, resolve:
+
+**Art. 1º** Aplicar às Entidades abaixo relacionadas a penalidade de multa.
+
+**Art. 2º** Estas Portarias entram em vigor na data de suas publicações.
+
+<table><tr></tr><tr><td><p>N° do Processo</p></td><td><p>Entidade</p></td><td><p>Serviço</p></td><td><p>Município</p></td><td><p>UF</p></td><td><p>Sanção</p></td><td><p>Valor (R$)</p></td><td><p>Enquadramento Legal</p></td><td><p>Portaria</p></td><td><p>Embasamento da Portaria de Multa</p></td></tr><tr><td><p>53000.024092/2013</p></td><td><p>Associação Comunitária E Cultural De São Jorge D'oest</p></td><td><p>RADCOM</p></td><td><p>São Jorge D´Oeste</p></td><td><p>PR</p></td><td><p>Multa</p></td><td><p>913,86</p></td><td><p>Inciso XXIX do art. 40 do Decreto n° 2.615/1998.</p></td><td><p>Portaria DECEF n° 433, de 08/03/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53536.000203/2013</p></td><td><p>Rádio Manguaba Do Pilar Ltda (Rádio Correio De Alagoas S/S Ltda - Epp)</p></td><td><p>OM</p></td><td><p>Pilar</p></td><td><p>AL</p></td><td><p>Multa</p></td><td><p>21.590,00</p></td><td><p>Art. 2º da Portaria MC nº 26/1996, e no item II, da Portaria MC nº 160/1987.</p></td><td><p>Portaria DECEF n° 441, de 08/03/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53551.000016/2015</p></td><td><p>Associação Comunitária Vicente Ferrer De Araguatins</p></td><td><p>RADCOM</p></td><td><p>Araguatins</p></td><td><p>TO</p></td><td><p>Multa</p></td><td><p>571,16</p></td><td><p>Art. 40, inciso XXII do Decreto n° 2.615/1998.</p></td><td><p>Portaria DECEF n° 442, de 08/03/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53554.000547/2015</p></td><td><p>Associação Comunitária Do Município De Uruçuca - Acmur</p></td><td><p>RADCOM</p></td><td><p>Uruçuca</p></td><td><p>BA</p></td><td><p>Multa</p></td><td><p>571,16</p></td><td><p>Art. 40, inciso XV, do Decreto nº 2.615/1998.</p></td><td><p>Portaria DECEF n° 443, de 08/03/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53560.005563/2014</p></td><td><p>Associação Cultural E Educativa De Sussuapara</p></td><td><p>RADCOM</p></td><td><p>Sussuapara</p></td><td><p>PI</p></td><td><p>Multa</p></td><td><p>497,57</p></td><td><p>Art. 40, inciso XIX, do Decreto nº 2.615/98 c/c itens 19.3 e 19.3.1 da Norma Complementar n° 01/2004.</p></td><td><p>Portaria DECEF n° 444, de 08/03/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 858/2008</p></td></tr><tr><td><p>53000.066877/2013</p></td><td><p>Associação Comunitária De Radio E Difusão De Grajaú</p></td><td><p>RADCOM</p></td><td><p>Grajaú</p></td><td><p>MA</p></td><td><p>Multa</p></td><td><p>1.028,10</p></td><td><p>Incisos XIII e XXIX do art. 40 do Decreto n° 2.615/1998.</p></td><td><p>Portaria DECEF n° 459, de 08/03/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53000.035298/2011</p></td><td><p>Fundação Rádio E Televisão Educativa Itumbiara</p></td><td><p>FM</p></td><td><p>Itumbiara</p></td><td><p>GO</p></td><td><p>Multa e Advertência</p></td><td><p>699,71</p></td><td><p>Art. 3° da Portaria Interministerial n° 651/99, art. 28, inciso 12, alínea "i" do Decreto 52.795/63.</p></td><td><p>Portaria DECEF n° 461, de 08/03/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 858/2008</p></td></tr><tr><td><p>53504.006554/2014</p></td><td><p>Radio Ws &amp; Ao Ltda</p></td><td><p>FM</p></td><td><p>Buri</p></td><td><p>SP</p></td><td><p>Multa</p></td><td><p>1.791,25</p></td><td><p>Art. 62 da Lei n° 4.117/62.</p></td><td><p>Portaria DECEF n° 694, de 08/03/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 858/2008</p></td></tr><tr><td><p>53504.004442/2014</p></td><td><p>Associação Comunitária De Defesa Do Meio Ambiente - Ascodema</p></td><td><p>RADCOM</p></td><td><p>Serra Negra</p></td><td><p>SP</p></td><td><p>Multa</p></td><td><p>3.084,29</p></td><td><p>Art. 40, inciso XXII, do Decreto n° 2.615/98 e no art. 28, item 12, alínea "h", do Decreto n° 52.795/63.</p></td><td><p>Portaria DECEF n° 1182, de 08/03/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53504.002878/2014</p></td><td><p>Associação Comunitária Cultural Ramalhense De Comunicação</p></td><td><p>RADCOM</p></td><td><p>João Ramalho</p></td><td><p>SP</p></td><td><p>Multa</p></td><td><p>1.599,26</p></td><td><p>Art. 40, XV e XXII, do Decreto n° 2.615/98, c/c o item 15.3 da Norma Complementar n° 01/2011, art. 28, item 12, alínea "h", do Decreto 52.795/63.</p></td><td><p>Portaria DECEF n° 1187, de 08/03/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53000.016495/2013</p></td><td><p>Associacao Comunitária De Comunicação E Cultura De Palmeira</p></td><td><p>RADCOM</p></td><td><p>Palmeira</p></td><td><p>PR</p></td><td><p>Multa</p></td><td><p>2.513,12</p></td><td><p>Art. 40,VI e XXIX do Decreto nº 2.615/ 1998</p></td><td><p>Portaria DECEF n° 1234, de 08/03/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr></table>
+
+A DIRETORA DO DEPARTAMENTO DE RADIODIFUSÃO EDUCATIVA, COMUNITÁRIA E DE FISCALIZAÇÃO no uso da competência que lhe foi delegada por meio da Portaria MCTIC nº 2881, publicada no D.O.U. de 05 de junho de 2017, e tendo em vista o que consta nos processos abaixo, resolve:
+
+**Art. 1º** Aplicar à Entidade abaixo relacionada a penalidade de suspensão, que por este ato fica convertida em multa.
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação.
+
+<table><tr></tr><tr><td><p>N° do Processo</p></td><td><p>Entidade</p></td><td><p>Serviço</p></td><td><p>Município</p></td><td><p>UF</p></td><td><p>Sanção</p></td><td><p>Valor (R$)</p></td><td><p>Enquadramento Legal</p></td><td><p>Portaria</p></td><td><p>Embasamento da Portaria de Multa</p></td></tr><tr><td><p>53504.015175/2014</p></td><td><p>Rádio E Televisão Record S.A</p></td><td><p>RTV</p></td><td><p>Bauru</p></td><td><p>SP</p></td><td><p>Multa</p></td><td><p>1.782,03</p></td><td><p>Art. 46, inciso V, do Decreto n° 5.371, de 17 de fevereiro de 2005.</p></td><td><p>Portaria DECEF n° 1158, de 08/03/2018</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 858/2008</p></td></tr></table>
+
+INEZ JOFFILY FRANÇA

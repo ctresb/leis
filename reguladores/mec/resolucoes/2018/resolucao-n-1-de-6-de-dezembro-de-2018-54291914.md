@@ -1,0 +1,70 @@
+---
+titulo: "RESOLUÇÃO Nº 1, DE 6 DE DEZEMBRO DE 2018"
+orgao: "Ministério da Educação/Gabinete do Ministro"
+tipo: "Resolução"
+numero: "1"
+data: 2018-12-06
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 10/12/2018, seção 1, p. 78"
+data_publicacao: 2018-12-10
+edicao: "236"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-n-1-de-6-de-dezembro-de-2018-54291914"
+sha256_html_fonte: 515934a8d1e8b6e17c7e277db7911f6a25e5f0385f4d1accc285c62269c0c2c7
+baixado_em: 2026-10-27
+---
+# RESOLUÇÃO Nº 1, DE 6 DE DEZEMBRO DE 2018
+
+RESOLUÇÃO Nº 1, DE 6 DE DEZEMBRO DE 2018
+
+Aprova as ponderações aplicáveis entre diferentes etapas, modalidades e tipos de ensino da educação básica, para vigência no exercício de 2019.
+
+O MINISTRO DE ESTADO DA EDUCAÇÃO, no uso das atribuições que lhe confere o art. 87, parágrafo único, inciso II, da Constituição, em consonância com o disposto no art. 12, § 2º, da Lei nº 11.494, de 20 de junho de 2007, e considerando a deliberação da Comissão Intergovernamental de Financiamento para a Educação Básica de Qualidade, em reunião realizada em 7 de novembro de 2018, conforme consta do Processo nº 23000.036239/2018-51, resolve:
+
+**Art. 1º** Ficam aprovadas as seguintes ponderações aplicáveis entre diferentes etapas, modalidades e tipos de estabelecimentos de ensino da educação básica, para vigência no âmbito do Fundo de Manutenção e Desenvolvimento da Educação Básica e Valorização dos Profissionais da Educação - FUNDEB, no exercício de 2019:
+
+I - Creche em tempo integral:
+
+a) pública: 1,30; e
+
+b) conveniada: 1,10;
+
+II - Creche em tempo parcial:
+
+a) pública: 1,15; e
+
+b) conveniada: 0,80;
+
+III - pré-escola em tempo integral: 1,30;
+
+IV - pré-escola em tempo parcial: 1,05;
+
+V - anos iniciais do ensino fundamental urbano: 1,00;
+
+VI - anos iniciais do ensino fundamental no campo: 1,15;
+
+VII - anos finais do ensino fundamental urbano: 1,10;
+
+VIII - anos finais do ensino fundamental no campo: 1,20;
+
+IX- ensino fundamental em tempo integral: 1,30;
+
+X - ensino médio urbano: 1,25;
+
+XI - ensino médio no campo: 1,30;
+
+XII - ensino médio em tempo integral: 1,30;
+
+XIII - ensino médio integrado à educação profissional: 1,30;
+
+XIV - educação especial: 1,20;
+
+XV - educação indígena e quilombola: 1,20;
+
+XVI - educação de jovens e adultos com avaliação no processo: 0,80; e
+
+XVII - educação de jovens e adultos integrada à educação profissional de nível médio, com avaliação no processo: 1,20.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+ROSSIELI SOARES DA SILVA

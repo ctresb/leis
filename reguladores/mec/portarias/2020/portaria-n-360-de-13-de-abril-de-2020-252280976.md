@@ -1,0 +1,26 @@
+---
+titulo: "PORTARIA Nº 360, DE 13 DE ABRIL DE 2020"
+orgao: "Ministério da Educação/Universidade Federal Rural de Pernambuco"
+tipo: "Portaria"
+numero: "360"
+data: 2020-04-13
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 14/04/2020, seção 1, p. 39"
+data_publicacao: 2020-04-14
+edicao: "71"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-360-de-13-de-abril-de-2020-252280976"
+sha256_html_fonte: b7b931b6337a8e35807b3f850a927f2c18b133ff206de2a87b53e4a1a8e36ead
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 360, DE 13 DE ABRIL DE 2020
+
+PORTARIA Nº 360, DE 13 DE ABRIL DE 2020
+
+A REITORA DA UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO, no uso de suas atribuições legais e estatutárias, resolve:
+
+Aprovar o remanejamento das Funções Gratificadas que pertencem ao Apoio Didático para os Setores conforme Ofício Interno nº 038/2020-GR, de 13/04/2020, nos termos a seguir: (Processo UFRPE nº 23082.005243/2020-29)
+
+<table><tr></tr><tr><td><p>DE</p></td><td><p>PARA</p></td></tr><tr><td><p>NÍVEL</p></td><td><p>DENOMINAÇÂO</p></td><td><p>DENOMINAÇÂO</p></td><td><p>NÍVEL</p></td></tr><tr><td><p></p></td><td><p>DEPARTAMENTO DE AGRONOMIA</p></td><td><p>DEPARTAMENTO DE ADMINISTRAÇÃO</p></td><td><p></p></td></tr><tr><td><p>FG-06</p></td><td><p>Chefe do Setor de Apoio Didático do Depart. DEPA</p></td><td><p>Secretário do Departamento de Administração- SEC. DADM</p></td><td><p>S/F</p></td></tr><tr><td><p></p></td><td><p>DEPARTAMENTO DE MEDICINA VETERINÁRIA</p></td><td><p>DEPARTAMENTO DE CIÊNCIAS SOCIAIS</p></td><td><p></p></td></tr><tr><td><p>FG-06</p></td><td><p>Chefe do Setor de Apoio Didático DMV</p></td><td><p>Secretário do Departamento de Ciências Sociais - SEC. DECISO</p></td><td><p>S/F</p></td></tr><tr><td><p></p></td><td><p>DEPARTAMENTO DE CIÊNCIAS DO CONSUMO</p></td><td><p>UNIDADE ACADÊMICA EDUCAÇÃO A DISTÂNCIA</p></td><td><p></p></td></tr><tr><td><p>FG-06</p></td><td><p>Chefe do Setor de Apoio Didático-DCC</p></td><td><p>Secretaria da Unid. Educação a Distância</p></td><td><p>S/F</p></td></tr><tr><td><p></p></td><td><p>DEPARTAMENTO DE BIOLOGIA</p></td><td><p>DEPARTAMENTO DE EDUCAÇÃO FÍSICA - DEF</p></td><td><p></p></td></tr><tr><td><p>FG-06</p></td><td><p>Chefe do Setor de Apoio Didático-DB</p></td><td><p>Secretário do Departamento de Educação Física</p></td><td><p>S/F</p></td></tr><tr><td><p></p></td><td><p>DEPARTAMENTO DE MATEMÁTICA</p></td><td><p>DEPARTAMENTO DE FÍSICA</p></td><td><p></p></td></tr><tr><td><p>FG-06</p></td><td><p>Chefe do Setor de Apoio Didático -DM</p></td><td><p>Secretaria do Departamento de Física</p></td><td><p>S/F</p></td></tr><tr><td><p></p></td><td><p>DEPARTAMENTO DE LETRAS</p></td><td><p>DEPARTAMENTO DE HISTÓRIA</p></td><td><p></p></td></tr><tr><td><p>FG-06</p></td><td><p>Chefe do Setor de Apoio Didático-DL</p></td><td><p>Secretaria do Departamento de História- SEC.DEHIST</p></td><td><p>S/F</p></td></tr><tr><td><p></p></td><td><p>DEPARTAMENTO DE EDUCAÇÃO</p></td><td><p>DEPARTAMENTO DE ECONOMIA</p></td><td><p></p></td></tr><tr><td><p>FG-06</p></td><td><p>Chefe do Setor de Apoio Didático - DED</p></td><td><p>Secretário do Departamento de Economia - SEC. DECON</p></td><td><p>S/F</p></td></tr><tr><td><p></p></td><td><p>DEPARTAMENTO DE TECNOLOGIA RURAL</p></td><td><p>DEPARTAMENTO DE ENGENHARIA AGRÍCOLA</p></td><td><p></p></td></tr><tr><td><p>FG-06</p></td><td><p>Chefe do Setor de Apoio Didático DTR</p></td><td><p>Secreatario do do Departamento de Engenharia Agrícola- DEAGRI- SEC. DEAGRI</p></td><td><p>S/F</p></td></tr><tr><td><p></p></td><td><p>DEPARTAMENTO DE ZOOTECNIA</p></td><td><p>DEPARTAMENTO DE ZOOTECNIA</p></td><td><p></p></td></tr><tr><td><p>FG-06</p></td><td><p>Chefe do Setor de Apoio Didático-DZ</p></td><td><p>Secretário do Departamento de Zootecnia-DZ</p></td><td><p>S/F</p></td></tr><tr><td><p></p></td><td><p>DEPARTAMENTO DE ESTATÍSTICA E INFORMÁTICA</p></td><td><p>DEPARTAMENTO DE COMPUTAÇÃO</p></td><td><p></p></td></tr><tr><td><p>FG-06</p></td><td><p>Chefe do Setor de Apóio Didático - DEINFO</p></td><td><p>Secretaria do Departamento de Computação- SEC. DC</p></td><td><p>S/F</p></td></tr><tr><td><p></p></td><td><p>DEPARTAMENTO DE QUÍMICA</p></td><td><p>NÚCLEO DE RELAÇÕES INSTITUCIONAIS E CONVÊNIOS</p></td><td><p></p></td></tr><tr><td><p>FG-06</p></td><td><p>Chefe do Setor do Apoio Didático - DQ</p></td><td><p>Secretária Administrativa - SEC. NURIC</p></td><td><p>S/F</p></td></tr><tr><td><p></p></td><td><p>DEPARTAMENTO DE MORF. E FISIOLOGIA ANIMAL</p></td><td><p>PRÓ-REITORIA DE GESTÃO ESTUDANTIL</p></td><td><p></p></td></tr><tr><td><p>FG-06</p></td><td><p>Chefe do Setor de Apoio Didático</p></td><td><p>Secretaria Administrativa da Coordenadoria de Gestão de Residência Universitária</p></td><td><p>S/F</p></td></tr><tr><td><p></p></td><td><p>DEPARTAMENTO DE CIÊNCIA FLORESTAL</p></td><td><p>NÚCLEO DE ACESSIBILIDADE</p></td><td><p></p></td></tr><tr><td><p>FG-06</p></td><td><p>Chefe do Setor de Apoio Didático</p></td><td><p>Secretaria do NACES</p></td><td><p>S/F</p></td></tr><tr><td><p></p></td><td><p>DEPARTAMENTO DE PESCA E AQÜICULTURA</p></td><td><p>PRÓ-REITORIA DE GESTÃO DE PESSOAS</p></td><td><p></p></td></tr><tr><td><p>FG-06</p></td><td><p>Chefe do Setor de Apoio Didático</p></td><td><p>Secretária do Departamento de Administração de Pessoas</p></td><td><p>S/F</p></td></tr></table>
+
+MARIA JOSÉ DE SENA

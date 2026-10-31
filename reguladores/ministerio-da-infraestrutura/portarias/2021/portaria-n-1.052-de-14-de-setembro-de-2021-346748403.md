@@ -1,0 +1,38 @@
+---
+titulo: "Portaria Nº 1.052, DE 14 DE setembro DE 2021 (*)"
+orgao: "Ministério da Infraestrutura/Secretaria de Fomento, Planejamento e Parcerias"
+tipo: "Portaria"
+numero: "1052"
+data: 2021-09-14
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 23/09/2021, seção 1, p. 44"
+data_publicacao: 2021-09-23
+edicao: "181"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-1.052-de-14-de-setembro-de-2021-*-346748403"
+sha256_html_fonte: ef5aa88bf882557e5df29b76ef99b41656bb905c00489b3c159eabe4af08669f
+baixado_em: 2026-10-21
+---
+# Portaria Nº 1.052, DE 14 DE setembro DE 2021 (*)
+
+Portaria Nº 1.052, DE 14 DE setembro DE 2021 (\*)
+
+Aprova como prioritário, para fins de emissão de debêntures incentivadas, o Projeto de Investimento em Infraestrutura Rodoviária, no setor de logística e transporte, proposto pela Viarondon Concessionária de Rodovia S/A.
+
+A SECRETÁRIA DE FOMENTO, PLANEJAMENTO E PARCERIAS DO MINISTÉRIO DA INFRAESTRUTURA, no uso da competência que lhe foi delegada por meio da Portaria GM/MINFRA nº 46, de 11 de março de 2021, e tendo em vista o disposto na Lei nº 12.431, de 24 de junho de 2011, no Decreto nº 8.874, de 11 de outubro de 2016, e no art. 21 da Portaria GM/MInfra nº 106, de 19 de agosto de 2021, resolve:
+
+**Art. 1º** Aprovar como prioritário, para fins de emissão de debêntures incentivadas, o projeto de investimento em infraestrutura rodoviária, no setor de logística e transporte, denominado "VIARONDON", proposto pela empresa Viarondon Concessionária de Rodovia S.A., CNPJ nº 10.635.691/0001-53, que consiste na antecipação de parte dos investimentos e/ou pagamento de mútuos, bem como na realização de investimentos futuros no Corredor Rodoviário Marechal Rondon Oeste, com extensão de 416,8 Km, sendo 331,13 Km da Rodovia Marechal Rondon SP-300 e 85,5 Km de 23 rodovias de acessos, no Estado de São Paulo, referente ao Edital nº 006/2008 e Contrato de Concessão Rodoviária nº 005/ARTESP/2009, conforme descrito no Anexo desta Portaria.
+
+**Art. 2º** A empresa Viarondon Concessionária de Rodovia S.A. deverá manter atualizada, junto ao Ministério da Infraestrutura, a relação das pessoas jurídicas que a integram ou a identificação da sociedade controladora, conforme previsto no art. 5º, I, do Decreto nº 8.874, de 2016.
+
+**Art. 3º** Os autos do Processo nº 50000.022771/2021-69 ficarão arquivados e disponíveis neste Ministério, para consulta e fiscalização dos órgãos de controle.
+
+**Art. 4º** Esta Portaria entra em vigor na data de sua publicação.
+
+NATÁLIA MARCASSA DE SOUZA
+
+## ANEXO
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="2"><p><strong>ANEXO</strong></p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p><strong>Descrição do Projeto</strong></p></td>      <td rowspan="1" colspan="1"><p>O Projeto da empresa Viarondon Concessionária de Rodovia S.A., denominado "VIARONDON", consiste na antecipação de parte dos investimentos e/ou pagamento de mútuos, bem como na realização de</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>investimentos futuros no Corredor Rodoviário Marechal Rondon Oeste, com extensão de 416,8 Km, sendo 331,13 Km da Rodovia Marechal Rondon SP-300 e 85,5 Km de 23</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>rodovias de acessos, no Estado de São Paulo, compreendendo, dentre outros, os seguintes serviços e obras:</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p><strong>- Intervenção de pavimento:</strong>ciclos de intervenção para recuperação estrutural e funcional dos pavimentos, de periodicidade a cada 5 anos, compreendendo toda a rodovia,</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>(aproximadamente 416 km, sendo 331km de rodovia em pista dupla; e, 83 km de rodovias de acesso;</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p><strong>- Manutenção da sinalização:</strong>pinturas de solo (linhas, marcações, zebrados, canalizações, informações e etc.) e taxas refletivas;</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p><strong>- Manutenção de elementos de proteção e segurança e sinalização vertical:</strong>linha composta principalmente pelas barreiras de</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>concreto e metálicas instaladas na rodovia, e placas de regulamentação, informação e advertência;</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p><strong>- Recuperação de SPA:</strong>são obras de melhorias e ampliação previstas nas rodovias de acesso aos municípios lindeiros (braços de via que ligam a rodovia principal, SP 300, até o início do perímetro urbano dos municípios), com</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>previsão de implantação de acostamento, duplicação, construção de viadutos e principalmente intervenções expressivas nas estruturas de pavimentos. Intervenção de 4 SPAs que somam aproximadamente 21 km de extensão;</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p><strong>- Implantação de passarelas:</strong>implantação de 10 novas passarelas;</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p><strong>- Implantação de vias marginais:</strong>implantação de cerca de 90 km de vias marginais; e</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>-<strong>Melhorias de dispositivos de entroncamento e retorno:</strong>previstas intervenções em 99 dispositivos existentes e implantação de 8 novos dispositivos de retorno/entroncamento, no Estado de São Paulo.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p><strong>Nome Empresarial</strong></p></td>      <td rowspan="1" colspan="1"><p>Viarondon Concessionária de Rodovia S.A.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p><strong>CNPJ</strong></p></td>      <td rowspan="1" colspan="1"><p>10.635.691/0001-53</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p><strong>Relação das Pessoas Jurídicas</strong></p></td>      <td rowspan="1" colspan="1"><p>- BRVias Holding VRD S.A. - 100% (CNPJ: 12.321.274/0001-61) - Controladora</p></td>     </tr>     <tr>      <td rowspan="1" colspan="2"><p><strong>Relação dos Principais Documentos Apresentados</strong></p><p>- Formulário de Cadastro do Projeto (Anexo I).</p></td>     </tr>     <tr>      <td rowspan="1" colspan="2"><p>- Quadro Anual de Usos e Fontes do Investimento (Anexo II).</p><p>- Ata da Assembleia Geral Extraordinária da BRVias Operação S.A., realizada em 13 de março de 2009 - Alteração da Denominação Social da Companhia para Viarondon Concessionária de Rodovia S.A.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="2"><p>- Comprovante de Inscrição e de Situação Cadastral.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="2"><p>- Certidão Positiva com efeitos de Negativa de Débitos relativos aos Tributos Federais e à Dívida Ativa da União.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="2"><p><strong>Local de Implantação do Projeto</strong></p><p>Estado de São Paulo</p></td>     </tr>    </tbody>   </table>
+
+Republicado por ter saído com incorreções no DOU de 21/09/2021, Seção 1, pág. 48.

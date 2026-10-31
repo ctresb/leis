@@ -1,0 +1,124 @@
+---
+titulo: "RESOLUÇÃO-RE nº 3.895, DE 18 DE OUTUBRO DE 2024"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos"
+tipo: "Resolução"
+numero: "3895"
+data: 2024-10-18
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 21/10/2024, seção 1, p. 171"
+data_publicacao: 2024-10-21
+edicao: "204"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.895-de-18-de-outubro-de-2024-591394859"
+sha256_html_fonte: 8359cc81a0f4b011fa5f9f183edd63681d40278bff250df010f916660e9d5e9c
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE nº 3.895, DE 18 DE OUTUBRO DE 2024
+
+RESOLUÇÃO-RE nº 3.895, DE 18 DE OUTUBRO DE 2024
+
+O GERENTE-GERAL SUBSTITUTO DE MEDICAMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 100, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Indeferir petições relacionadas à Gerência-Geral de Medicamentos, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+RAPHAEL SANCHES PEREIRA
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+PRINCIPIO(S) ATIVO(S)
+
+----------------------------
+
+Althaia S.A Indústria Farmacêutica 48344725000719
+
+rosuvastatina cálcica 25351.504961/2012-61 04/2029
+
+12151 GENERICO - INCLUSÃO OU MUDANÇA DE DIFA DECORRENTE DE PGMP 1366779/24-3
+
+1.3517.0041.013-8 24 Meses
+
+40 MG COM REV CT BL AL AL X 10
+
+1.3517.0041.014-6 24 Meses
+
+40 MG COM REV CT BL AL AL X 30
+
+1.3517.0041.015-4 24 Meses
+
+40 MG COM REV CT BL AL AL X 60
+
+1.3517.0041.016-2 24 Meses
+
+40 MG COM REV CT BL AL AL X 90 (EMB FRAC)
+
+1.3517.0041.020-0 24 Meses
+
+40 MG COM REV CT BL AL AL X 500
+
+1.3517.0041.027-8 24 Meses
+
+40 MG COM REV CT BL AL AL X 90
+
+1.3517.0041.028-6 24 Meses
+
+40 MG COM REV CT BL AL AL X 120
+
+----------------------------
+
+HIPOLABOR FARMACEUTICA LTDA 19570720000110
+
+cloridrato de nortriptilina 25351.145586/2007-66 07/2028
+
+11115 RDC 73/2016 - GENÉRICO - INCLUSÃO DE NOVA CONCENTRAÇÃO 4286323/22-6
+
+25 MG CAP DURA CT BL AL PLAS PVC TRANS X 20
+
+25 MG CAP DURA CT BL AL PLAS PVC TRANS X 30
+
+25 MG CAP DURA CT BL AL PLAS PVC TRANS X 60
+
+25 MG CAP DURA CX BL AL PLAS PVC TRANS X 500
+
+50 MG CAP DURA CT BL AL PLAS PVC TRANS X 20
+
+50 MG CAP DURA CT BL AL PLAS PVC TRANS X 30
+
+50 MG CAP DURA CT BL AL PLAS PVC TRANS X 60
+
+50 MG CAP DURA CX BL AL PLAS PVC TRANS X 500
+
+----------------------------
+
+Laboratórios Bagó do Brasil S/A 04748181000947
+
+AMOXICILINA TRI-hIDRATADA + sulbactam pivoxila
+
+TRIFAMOX 25351.669466/2009-70 08/2025
+
+11107 RDC 73/2016 - NOVO - AMPLIAÇÃO DO PRAZO DE VALIDADE DO MEDICAMENTO 0072600/24-1
+
+1.5626.0020.005-9 21 Meses
+
+200 MG/ML + 50 MG/ML PO SUS OR CT FR PLAS PEAD OPC X 30ML + SER DOS
+
+1.5626.0020.006-7 21 Meses
+
+200 MG/ML + 50 MG/ML PO SUS OR CT FR PLAS PEAD OPC X 60 ML+ SER DOS
+
+1.5626.0020.009-1 21 Meses
+
+875 MG + 125 MG COM REV CT BL AL PLAS PVC/PVDC TRANS X 14

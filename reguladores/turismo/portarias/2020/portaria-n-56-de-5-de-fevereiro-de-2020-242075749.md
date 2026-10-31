@@ -1,0 +1,34 @@
+---
+titulo: "PORTARIA Nº 56, DE 5 DE FEVEREIRO DE 2020"
+orgao: "Ministério do Turismo/Instituto Brasileiro de Museus"
+tipo: "Portaria"
+numero: "56"
+data: 2020-02-05
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 07/02/2020, seção 1, p. 55"
+data_publicacao: 2020-02-07
+edicao: "27"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-56-de-5-de-fevereiro-de-2020-242075749"
+sha256_html_fonte: d0382baf582f162ba424c96ec79fcadd6a44ce22deb15b3baf2e7177323dca90
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 56, DE 5 DE FEVEREIRO DE 2020
+
+PORTARIA Nº 56, DE 5 DE FEVEREIRO DE 2020
+
+Fixa as metas institucionais para o exercício de 2019.
+
+O PRESIDENTE DO INSTITUTO BRASILEIRO DE MUSEUS - Ibram, no uso das atribuições que lhe confere o art. 20 do Decreto nº 6.845, de 7 de maio de 2009, e tendo em vista o disposto na Lei n° 11.233, de 22 de dezembro de 2005, e
+
+CONSIDERANDO o constante dos autos do processo nº 01415.002620/2019-92, resolve:
+
+**Art. 1º** Dar publicidade à apuração das metas globais e intermediárias do Instituto Brasileiro de Museus - IBRAM para o período de 1º de janeiro a 31 de dezembro de 2019, em consonância com o disposto no Art. 5, do Decreto nº 7.133, de 19 de março de 2010 e na Portaria Ibram nº 317, de 12 de setembro de 2012.
+
+**Art. 2º.** Esta Portaria entra em vigor na data de sua publicação.
+
+Paulo César Brasil do Amaral
+
+## ANEXO I — METAS GLOBAIS E INTERMEDIÁRIAS DE AVALIAÇÃO DE DESEMPENHO INSTITUCIONAL - DÉCIMO CICLO
+
+<table><tr></tr><tr><td><p>INDICADOR</p></td><td><p>META</p></td><td><p>ALCANCE DA META</p></td><td><p>PRAZO DE APURAÇÃO</p></td><td><p>FÓRMULA DE CÁLCULO</p></td><td><p>FONTE DE INFORMAÇÃO</p></td><td><p>TIPO</p></td><td><p>PESO</p></td><td><p>COEFICIENTE CORRESPONDENTE</p></td><td><p>PONTUAÇÃO DA META</p></td></tr><tr><td><p>Índice de articulação para consolidação e operação do Registro de Museus</p></td><td><p>100% das ações de articulação para consolidação e operação do Registro de Museus realizadas</p></td><td><p>100%</p></td><td><p>31 de janeiro de 2020</p></td><td><p>Número ações de articulação para consolidação e operação do Registro de Museus realizadas em 2019 / [2 estados operando plenamente o Registro + 8 reuniões (presenciais ou virtuais) para viabilizar novos acordos + 2 novos processos para Registro iniciados no SEI + 2 capacitações (presenciais)]</p></td><td><p>Relatório de Gestão da CPAI/CGSIM</p></td><td><p>Global</p></td><td><p>25%</p></td><td><p>40</p></td><td><p>10</p></td></tr><tr><td><p>Índice de Execução das Ações Orçamentárias Discricionárias no exercício 2019</p></td><td><p>80% de execução do limite de despesas discricionárias no exercício 2019, considerando os recursos disponibilizados na LOA até 31 de outubro</p></td><td><p>100%</p></td><td><p>31 de janeiro de 2020</p></td><td><p>Total de recursos executado nas ações orçamentárias discricionárias em 2019 / Total de recursos disponibilizados na LOA para as ações orçamentárias discricionárias em 2019, até 31 de outubro</p></td><td><p>Relatório COFIP/DPGI, a partir do SIAFI</p></td><td><p>Global</p></td><td><p>25%</p></td><td><p>40</p></td><td><p>10</p></td></tr><tr><td><p>Editais de Fomento para seleção de iniciativas e projetos de instituições museais.</p></td><td><p>Elaboração de 2 Editais de Fomento para seleção de iniciativas e projetos de instituições museais</p></td><td><p>100%</p></td><td><p>31 de janeiro de 2020</p></td><td><p>Número total de Editais elaborados/ 2 Editais elaborados</p></td><td><p>Aprovação DDFEM (despacho)</p></td><td><p>Global</p></td><td><p>25%</p></td><td><p>40</p></td><td><p>10</p></td></tr><tr><td><p>Regulamentação da DIP</p></td><td><p>Publicação da regulamentação da DIP no DOU</p></td><td><p>100%</p></td><td><p>31 de janeiro de 2020</p></td><td><p>DIP publicada</p></td><td><p>Diário Oficial da União</p></td><td><p>Global</p></td><td><p>25%</p></td><td><p>40</p></td><td><p>10</p></td></tr><tr><td><p>Índice de preenchimento do Formulário de Visitação Mensal pelos Museus Ibram</p></td><td><p>100 % de preenchimentos válidos dos Formulários de Visitação Mensal de cada Museu Ibram</p></td><td><p>100%</p></td><td><p>31 de janeiro de 2020</p></td><td><p>Número de preenchimentos válidos do FVM / 31 (Museus Ibram) x 12 meses</p></td><td><p>Formulário de Visitação Mensal - FVM</p></td><td><p>Intermediária</p></td><td><p>15%</p></td><td><p>40</p></td><td><p>6</p></td></tr><tr><td><p>Índice de ações para instituição da Rede de Bibliotecas Ibram</p></td><td><p>100% de ações para instituição da Rede de Bibliotecas Ibram realizadas</p></td><td><p>100%</p></td><td><p>31 de janeiro de 2020</p></td><td><p>Número de ações para instituição da Rede de Bibliotecas Ibram realizadas em 2019</p></td><td><p>BSE e Relatório de Gestão da CAB/CGSIM</p></td><td><p>Intermediária</p></td><td><p>15%</p></td><td><p>40</p></td><td><p>6</p></td></tr><tr><td><p>Índice de utilização de recursos disponibilizados para capacitação com os servidores do Ibram em 2019</p></td><td><p>95% de utilização de recursos disponibilizados para capacitação com os servidores do Ibram em 2019, considerando os recursos disponibilizados até 31 de outubro</p></td><td><p>100%</p></td><td><p>31 de janeiro de 2020</p></td><td><p>Total de recursos empenhados com capacitação para os servidores do Ibram em 2019/ Total de recursos disponibilizados para capacitação com os servidores do Ibram em 2019, considerando os recursos disponibilizados até 31 de outubro</p></td><td><p>Relatório DCO/CGP</p></td><td><p>Intermediária</p></td><td><p>15%</p></td><td><p>40</p></td><td><p>6</p></td></tr><tr><td><p>Implantação da solução MPLS (Multi Protocol Label Switching)</p></td><td><p>Implantação da solução MPLS</p></td><td><p>100%</p></td><td><p>31 de janeiro de 2020</p></td><td><p>MPLS Implantado</p></td><td><p>Relatório de implantação da Solução MPLS, fornecido pela CTINF</p></td><td><p>Intermediária</p></td><td><p>20%</p></td><td><p>40</p></td><td><p>8</p></td></tr><tr><td><p>Instituir a Política de Gestão de Riscos de governança</p></td><td><p>Publicação de 2 portarias de Gestão de Riscos Ibram, referentes ao Comitê e a Política</p></td><td><p>100%</p></td><td><p>31 de janeiro de 2020</p></td><td><p>Número total de Portarias de Gestão de Riscos Ibram publicadas em 2019</p></td><td><p>DOU e BSE</p></td><td><p>Intermediária</p></td><td><p>20%</p></td><td><p>40</p></td><td><p>8</p></td></tr><tr><td><p>Índice de eficiência da criação de site para a difusão do conhecimento para o Programa Saber Museu</p></td><td><p>100% do site Saber Museu finalizado</p></td><td><p>100%</p></td><td><p>31 de janeiro de 2020</p></td><td><p>Número de etapas concluídas/ número de etapas a serem realizadas para criação do site.</p></td><td><p>Relatório COMUSE/DPMUS</p></td><td><p>Intermediária</p></td><td><p>15%</p></td><td><p>40</p></td><td><p>6</p></td></tr></table>

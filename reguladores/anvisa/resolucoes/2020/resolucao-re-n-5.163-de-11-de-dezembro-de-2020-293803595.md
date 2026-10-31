@@ -1,0 +1,2928 @@
+---
+titulo: "RESOLUÇÃO RE Nº 5.163, DE 11 DE Dezembro DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Segunda Diretoria/Gerência-Geral de Medicamentos e Produtos Biológicos"
+tipo: "Resolução"
+numero: "5163"
+data: 2020-12-11
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 14/12/2020, seção 1, p. 122"
+data_publicacao: 2020-12-14
+edicao: "238"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-5.163-de-11-de-dezembro-de-2020-293803595"
+sha256_html_fonte: 89d47450d4ffc76b03e5011d85a204e316ec9aa653080bf6a3bc96da8c6d81c5
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO RE Nº 5.163, DE 11 DE Dezembro DE 2020
+
+RESOLUÇÃO RE Nº 5.163, DE 11 DE Dezembro DE 2020
+
+O Gerente-Geral de Medicamentos e Produtos Biológicos, no uso das atribuições que lhe confere o art. 130, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, e tendo em vista o disposto no art. 229-C da Lei nº 9.279, de 14 de maio de 1996, e na Resolução de Diretoria Colegiada - RDC nº 168, de 8 de agosto de 2017, resolve:
+
+**Art. 1º** Conceder prévia anuência aos pedidos de patente de produtos e processos farmacêuticos, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+GUSTAVO MENDES LIMA SANTOS
+
+## ANEXO
+
+ENQUADRAMENTO: Art. 4º, §1º da Resolução - RDC nº 168, de 2017
+
+PROCESSO
+
+DEPOSITANTE
+
+PROCURADOR
+
+PARECER
+
+--------------------------------------------------
+
+PI 0502497-8
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS
+
+453/20
+
+--------------------------------------------------
+
+PI 0519343-5
+
+JANSSEN PHARMACEUTICAL N.V.
+
+DANNEMANN, SIEMSEN, BIEGLER &IPANEMA MOREIRA
+
+460/20
+
+--------------------------------------------------
+
+PI 0519349-4
+
+CSL BEHRING GMBH
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+455/20
+
+--------------------------------------------------
+
+PI 0515860-5
+
+F. HOFFMANN - LA ROCHE AG
+
+CARLOS CEZAR CORDEIRO PIRES
+
+457/20
+
+--------------------------------------------------
+
+PI 0516234-3
+
+CANCER RESEARCH TECHONOLOGY LIMITED / INSTITUTE OF CANCER RESEARCH / ROYAL CANCER HOSPITAL (THE) / ASTEX THERAPEUTICS LIMITED
+
+MOMSEN, LEONARDOS &CIA
+
+457/20
+
+--------------------------------------------------
+
+PI 0601827-0
+
+UNIVERSIDADE FEDERAL DE PERNAMBUCO
+
+NIT
+
+457/20
+
+--------------------------------------------------
+
+PI 0609543-7
+
+BIOMEDICS INC.
+
+LUIZ LEONARDOS &ADVOGADOS
+
+453/20
+
+--------------------------------------------------
+
+PI 0610284-0
+
+MEDIMMUNE LIMITED
+
+DANIEL ADVOGADOS
+
+457/20
+
+--------------------------------------------------
+
+PI 0611863-1
+
+PLEXXIKON, INC.
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+458/20
+
+--------------------------------------------------
+
+PI 0613771-7
+
+MOCHIDA PHARMACEUTICAL CO., LTD.
+
+FLÁVIA SALIM LOPES
+
+457/20
+
+--------------------------------------------------
+
+PI 0613943-4
+
+OTSUKA AMERICA PHARMACEUTICAL, INC.
+
+KASZNAR LEONARDOS PROPRIEDADE INTELECTUAL
+
+455/20
+
+--------------------------------------------------
+
+PI 0615446-8
+
+SUNESIS PHARMACEUTICALS, INC
+
+MOMSEN, LEONARDOS &CIA.
+
+457/20
+
+--------------------------------------------------
+
+PI 0616987-2
+
+MERCK SHARP &DOHME CORP.
+
+KASZNAR, LEONARDOS, PROPRIEDADE INTELECTUAL
+
+457/20
+
+--------------------------------------------------
+
+PI 0619133-9
+
+THE MOUNT SINAI MEDICAL CENTER OF NEW YORK UNIVERSITY
+
+MOMSEN, LEONARDOS &CIA
+
+453/20
+
+--------------------------------------------------
+
+PI 0709581-3
+
+SECOND GENOME, INC.
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+457/20
+
+--------------------------------------------------
+
+PI 0718706-8
+
+JANSSEN SCIENCES IRELAND UC
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+458/20
+
+--------------------------------------------------
+
+PI 0809130-7
+
+BROOKHAVEN SCIENCE ASSOCIATES, LLC
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+457/20
+
+--------------------------------------------------
+
+PI 0809583-3
+
+AMBRX, INC.
+
+NELLIE ANNE DANIEL SHORES
+
+453/20
+
+--------------------------------------------------
+
+PI 0809594-9
+
+MICROMET AG
+
+DAVID DO NASCIMENTO ADVOGADOS ASSOCIADOS
+
+453/20
+
+--------------------------------------------------
+
+PI 0809595-7
+
+AMGEN RESEARCH (MUNICH) GMBH
+
+DAVID DO NASCIMENTO ADVOGADOS ASSOCIADOS
+
+453/20
+
+--------------------------------------------------
+
+PI 0813809-5
+
+SANOFI-AVENTIS
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+458/20
+
+--------------------------------------------------
+
+PI 0813999-7
+
+ARRAY BIOPHARMA, INC. / GENENTECH, INC.
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+457/20
+
+--------------------------------------------------
+
+PI 0814762-0
+
+NUCITEC S.A. DE C.V.
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+457/20
+
+--------------------------------------------------
+
+PI 0818249-3
+
+CILAG AG
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+457/20
+
+--------------------------------------------------
+
+PI 0818496-8
+
+ACUCELA, INC.
+
+ORLANDO DE SOUZA
+
+455/20
+
+--------------------------------------------------
+
+PI 0818957-9
+
+SHANGHAI ZERUN BIOTECHNOLOGY CO., LTD.
+
+ANA PAULA SANTOS CELIDONIO
+
+458/20
+
+--------------------------------------------------
+
+PI 0820518-3
+
+EISAI INC.
+
+HUGO SILVA, ROSA &MALDONADO-PROP INT
+
+457/20
+
+--------------------------------------------------
+
+PI 0821740-8
+
+OASMIA PHARMACEUTICAL AB
+
+ARARIPE &ASSOCIADOS
+
+458/20
+
+--------------------------------------------------
+
+PI 0907648-4
+
+INSTITUTE OF MOLECULAR BIOLOGY AND GENETICS NATIONAL ACADEMY OF SCIENCE OF UKRAINE / LUDWIG INSTITUTE FOR CANCER RESEARCH LTD. / SLOAN KETTERING INSTITUTE FOR CANCER RESEARCH
+
+MOMSEN, LEONARDOS &CIA
+
+453/20
+
+--------------------------------------------------
+
+PI 0911332-0
+
+CALANDO PHARMACEUTICALS, INC.
+
+NELLIE ANNE DANIEL-SHORES
+
+457/20
+
+--------------------------------------------------
+
+PI 0911538-2
+
+IDORSIA PHARMACEUTICALS LTD
+
+KAZNAR LEONARDOS PROPRIEDADE INTELECTUAL
+
+455/20
+
+--------------------------------------------------
+
+PI 0913031-4
+
+NOVARTIS AG
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+457/20
+
+--------------------------------------------------
+
+PI 0914086-7
+
+AFT PHARMACEUTICALS LIMITED
+
+DAVID DO NASCIMENTO ADVOGADOS ASSOCIADOS
+
+458/20
+
+--------------------------------------------------
+
+PI 0914209-6
+
+CENTRO DE INMUNOLOGIA MOLECULAR
+
+MOMSEN, LEONARDOS &CIA
+
+453/20
+
+--------------------------------------------------
+
+PI 0915813-8
+
+SANOFI PASTEUR
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+453/20
+
+--------------------------------------------------
+
+PI 0917923-2
+
+ARENA PHARMACEUTICALS INC.
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+457/20
+
+--------------------------------------------------
+
+PI 0919816-4
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS / EISAI R&DMANAGEMENT CO., LTD.
+
+NIT
+
+457/20
+
+--------------------------------------------------
+
+PI 0920450-4
+
+MEDIMMUNE LIMITED
+
+DENIS ALLAN DANIEL
+
+457/20
+
+--------------------------------------------------
+
+PI 0920573-0
+
+APTEVO RESEARCH AND DEVELOPMENT LLC
+
+NELLIE ANNE DANIEL SHORES
+
+453/20
+
+--------------------------------------------------
+
+PI 0921321-0
+
+EMORY UNIVERSITY / DANA-FARBER CANCER INSTITUTE INC.
+
+NELLIE ANNE DANIEL SHORES
+
+453/20
+
+--------------------------------------------------
+
+PI 0922730-0
+
+NOVARTIS AG
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+453/20
+
+--------------------------------------------------
+
+PI 0923157-9
+
+UNIVERSITY OF ZÜRICH / BIOGEN INTERNATIONAL NEUROSCIENCE GMBH
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+453/20
+
+--------------------------------------------------
+
+PI 0923579-5
+
+MILLENNIUM PHARMACEUTICALS, INC.
+
+ORLANDO DE SOUZA
+
+458/20
+
+--------------------------------------------------
+
+PI 0923819-0
+
+BIAL-PORTELA &Cª, S.A.
+
+LEONOR MAGALHÃES PERES GALVÃO DE BOTTON
+
+457/20
+
+--------------------------------------------------
+
+PI 1007345-0
+
+HOMAYOUN H. ZADEH
+
+GUERRA PROPRIEDADE INDUSTRIAL
+
+453/20
+
+--------------------------------------------------
+
+PI 1007704-9
+
+THE UNIVERSITY COURT OF THE UNIVERSITY OF GLASGOW / KONINKLIJKE PHILIPS N.V.
+
+DAVID DO NASCIMENTO ADVOGADOS ASSOCIADOS
+
+457/20
+
+--------------------------------------------------
+
+PI 1008145-3
+
+F. HOFFMANN - LA ROCHE AG
+
+PRISCILA PENHA BASTOS
+
+453/20
+
+--------------------------------------------------
+
+PI 1009138-6
+
+BAVARIAN NORDIC A/S
+
+DI BLASI, PARENTE, VAZ E DIAS &AL
+
+453/20
+
+--------------------------------------------------
+
+PI 1012637-6
+
+ABBOTT LABORATORIES
+
+NELLIE ANNE DANIEL SHORES
+
+453/20
+
+--------------------------------------------------
+
+PI 1013877-3
+
+ABLYNX N.V.
+
+WLADIMIR PEREIRA DE CARVALHO
+
+453/20
+
+--------------------------------------------------
+
+PI 1014631-8
+
+ENSOLTEK CO., LTD
+
+NELLIE ANNE DANIEL SHORES
+
+453/20
+
+--------------------------------------------------
+
+PI 1014774-8
+
+IMMURON LIMITED
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+453/20
+
+--------------------------------------------------
+
+PI 1015053-6
+
+MEDICAGO INC.
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+453/20
+
+--------------------------------------------------
+
+PI 1015495-7
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS
+
+NIT
+
+458/20
+
+--------------------------------------------------
+
+PI 1016149-0
+
+OMEROS CORPORATION
+
+KASZNAR LEONARDOS PROPRIEDADE INTELECTUAL
+
+457/20
+
+--------------------------------------------------
+
+PI 9914393-3
+
+WACKER CHEMIE AG
+
+TAVARES PI
+
+455/20
+
+--------------------------------------------------
+
+BR 102012021717-1
+
+FUNDAÇÃO UNIVERSIDADE DE BRASÍLIA
+
+FUNDAÇÃO UNIVERSIDADE DE BRASÍLIA
+
+459/20
+
+--------------------------------------------------
+
+BR 102013031983-0
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS / UNIVERSIDADE FEDERAL DE UBERLÂNDIA
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS
+
+453/20
+
+--------------------------------------------------
+
+BR 102015008298-3
+
+DOW AGROSCIENCES LLC
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+459/20
+
+--------------------------------------------------
+
+BR 102015012334-5
+
+FUNDAÇÃO HEMOCENTRO DE RIBEIRÃO PRETO - FUNDHERP
+
+ORLANDO DE SOUZA
+
+453/20
+
+--------------------------------------------------
+
+BR 102015014710-4
+
+UNIVERSIDADE FEDERAL DE ALAGOAS
+
+NIT
+
+457/20
+
+--------------------------------------------------
+
+BR 102015020840-5
+
+UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL / UNIÃO BRASILEIRA DE EDUCAÇÃO E ASSISTÊNCIA - UBEA/PUCRS
+
+NIT
+
+458/20
+
+--------------------------------------------------
+
+BR 102016012501-4
+
+NEARMEDIC INTERNATIONAL
+
+DAVID DO NASCIMENTO ADVOGADOS ASSOCIADOS
+
+449/20
+
+--------------------------------------------------
+
+BR 102016029640-4
+
+INSTITUTO DE TECNOLOGIA E PESQUISA / UNVIERSIDADE TIRADENTES
+
+INSTITUTO DE TECNOLOGIA E PESQUISA / UNVIERSIDADE TIRADENTES
+
+458/20
+
+--------------------------------------------------
+
+BR 112012021444-6
+
+RELYPSA, INC.
+
+KASZNAR LEONARDOS PROPRIEDADE INTELECTUAL
+
+455/20
+
+------------------------------------------------
+
+BR 112013003892-6
+
+MERZ PHARMA GMBH &CO. KGAA
+
+ANA CRISTINA ALMEIDA MÜLLER WEGMANN
+
+457/20
+
+--------------------------------------------------
+
+BR 112013005145-0
+
+VACCINEX, INC
+
+ANA CRISTINA ALMEIDA MULLER WEGMAN
+
+453/20
+
+--------------------------------------------------
+
+BR 112013005298-8
+
+SK BIOSCIENCE CO., LTD.
+
+PINHEIRO NETO ADVOGADOS
+
+458/20
+
+--------------------------------------------------
+
+BR 112013014457-2
+
+INSTITUT PASTEUR
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+453/20
+
+--------------------------------------------------
+
+BR 112013014949-3
+
+INTER-UNIVERSITY RESEARCH INSTITUTE CORPORATION RESEARCH ORGANIZATION OF INFORMATION AND SYSTEMS / KYOWA HAKKO KIRIN CO., LTD.
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+453/20
+
+--------------------------------------------------
+
+BR 112013028846-9
+
+PRINCIPIA BIOPHARMA INC.
+
+HUGO SILVA &MALDONADO - PROPRIEDADE INTELECTUAL
+
+457/20
+
+--------------------------------------------------
+
+BR 112013032338-8
+
+POSVAX CO., LTD
+
+ARIBONI, FABBRI E SCHMIDT SOCIEDADE DE ADVOGADOS
+
+458/20
+
+--------------------------------------------------
+
+BR 112013033861-0
+
+GALDERMA RESEARCH &DEVELOPMENT
+
+CAROLINA NAKATA
+
+457/20
+
+--------------------------------------------------
+
+BR 112014002734-0
+
+KARO BIO AB
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+457/20
+
+--------------------------------------------------
+
+BR 112014004174-1
+
+THE ROYAL INSTITUTION FOR THE ADVANCEMENT OF LEARNING/ MCGILL UNIVERSITY / HONG KONG POLYTECHNIC UNIVERSITY
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+457/20
+
+--------------------------------------------------
+
+BR 112014007027-0
+
+THERAVECTYS / INSTITUT PASTEUR
+
+DI BLASI, PARENTE &ADVOGADOS ASSOCIADOS
+
+458/20
+
+--------------------------------------------------
+
+BR 112014014078-2
+
+THE TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA
+
+MIRIAN OLIVEIRA DA ROCHA PITTA
+
+453/20
+
+--------------------------------------------------
+
+BR 112014014769-8
+
+GLAXOSMITHKLINE LLC
+
+KASZNAR LEONARDOS PROPRIEDADE INTELECTUAL
+
+457/20
+
+--------------------------------------------------
+
+BR 112014028222-6
+
+SEATTLE GENETICS, INC.
+
+FLÁVIA SALIM LOPES
+
+458/20
+
+--------------------------------------------------
+
+BR 112015000232-3
+
+HEIDELBERG PHARMA GMBH
+
+ANTONELLA CARMINATTI
+
+458/20
+
+--------------------------------------------------
+
+BR 112015004522-7
+
+CELLECTIS
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+458/20
+
+--------------------------------------------------
+
+BR 112015012366-0
+
+CHEMOCENTRYX, INC
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+458/20
+
+--------------------------------------------------
+
+BR 112015013387-8
+
+OSIVAX SAS
+
+LEONOR MAGALHÃES PERES GALVÃO DE BOTTON
+
+453/20
+
+--------------------------------------------------
+
+BR 112015014897-2
+
+NGM BIOPHARMACEUTICALS, INC.
+
+ANA CRISTINA ALMEIDA MULLER WEGMAN
+
+453/20
+
+--------------------------------------------------
+
+BR 112015017355-1
+
+LYCORED LTD
+
+ANTONIO MAURICIO PEDRAS ARNAUD
+
+459/20
+
+--------------------------------------------------
+
+BR 112015021341-3
+
+DANA-FARBER CANCER INSTITUTE INC.
+
+DANIEL ADVOGADOS
+
+453/20
+
+--------------------------------------------------
+
+BR 112015026531-6
+
+KATHOLIEKE UNIVERSITEIT LEUVEN
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+453/20
+
+--------------------------------------------------
+
+BR 112015026716-5
+
+THE UNIVERSITY COURT OF THE UNIVERSITY OF ABERDEEN
+
+DAVID DO NASCIMENTO ADVOGADOS ASSOCIADOS
+
+453/20
+
+--------------------------------------------------
+
+BR 112015028387-0
+
+CELLECTIS
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+453/20
+
+--------------------------------------------------
+
+BR 112015028613-5
+
+GLAXOSMITHKLINE LLC
+
+DENIS ALLAN DANIEL
+
+453/20
+
+--------------------------------------------------
+
+BR 112015032203-4
+
+AMGEN INC.
+
+FLÁVIA SALIM LOPES
+
+458/20
+
+--------------------------------------------------
+
+BR 112015032225-5
+
+ETHRIS GMBH
+
+KASZNAR LEONARDOS PROPRIEDADE INTELECTUAL
+
+453/20
+
+--------------------------------------------------
+
+BR 112015032902-0
+
+MILLENNIUM PHARMACEUTICALS, INC.
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+453/20
+
+--------------------------------------------------
+
+BR 112016000303-9
+
+VLP THERAPEUTICS, LLC
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+453/20
+
+--------------------------------------------------
+
+BR 112016000565-1
+
+NEURO-BIO LTD
+
+BM&A PROPRIEDADE INTELECTUAL LTDA
+
+453/20
+
+--------------------------------------------------
+
+BR 112016003201-2
+
+MEMORIAL SLOAN-KETTERING CANCER CENTER
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+453/20
+
+--------------------------------------------------
+
+BR 112016004593-9
+
+DAIICHI SANKYO COMPANY, LIMITED
+
+KASZNAR LEONARDOS PROPRIEDADE INTELECTUAL
+
+453/20
+
+--------------------------------------------------
+
+BR 112016005957-3
+
+SOMALOGIC, INC.
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+453/20
+
+--------------------------------------------------
+
+BR 112016006865-3
+
+SPECGX LLC
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+453/20
+
+--------------------------------------------------
+
+BR 112016006979-0
+
+RICHTER GEDEON NYRT.
+
+FLÁVIA SALIM LOPES
+
+453/20
+
+--------------------------------------------------
+
+BR 112016006989-7
+
+PONTIFICIA UNIVERSIDAD CATÓLICA DE CHILE
+
+FLÁVIA SALIM LOPES
+
+453/20
+
+--------------------------------------------------
+
+BR 112016007460-2
+
+AXEN BIO GROUP SP. Z O.O.
+
+GUSTAVO STARLING LEONARDOS
+
+455/20
+
+--------------------------------------------------
+
+BR 112016007618-4
+
+WISTA LABORATORIES LTD.
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+453/20
+
+--------------------------------------------------
+
+BR 112016008317-2
+
+CHEMO RESEARCH, S.L.
+
+MMV AGENTES DA PROPRIEDADE INDUSTRIAL LTDA
+
+453/20
+
+--------------------------------------------------
+
+BR 112016008319-9
+
+DEUTSCHES KREBSFORSCHUNGSZENTRUM / RUPRECHT-KARLS-UNIVERSITÄT HEIDELBERG
+
+DAVID DO NASCIMENTO
+
+458/20
+
+--------------------------------------------------
+
+BR 112016009349-6
+
+CHROMADEX INC.
+
+DAVID DO NASCIMENTO
+
+457/20
+
+--------------------------------------------------
+
+BR 112016009663-0
+
+PFIZER INC.
+
+CARLOS CEZAR CORDEIRO PIRES
+
+458/20
+
+--------------------------------------------------
+
+BR 112016010397-1
+
+NOVARTIS AG
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+453/20
+
+--------------------------------------------------
+
+BR 112016010596-6
+
+ELANCO TIERGESUNDHEIT AG
+
+MAURICIO DE SOUZA TAVARES
+
+453/20
+
+--------------------------------------------------
+
+BR 112016011160-5
+
+MINISTERIO DE EDUCACIÓN
+
+REGINA MAGRO POLETTO
+
+453/20
+
+--------------------------------------------------
+
+BR 112016011605-4
+
+MERCK SHARP &DOHME CORP.
+
+EDUARDO TELLES PIRES HALACK
+
+453/20
+
+--------------------------------------------------
+
+BR 112016012658-0
+
+MERCK SHARP &DOHME CORP.
+
+LICKS ADVOGADOS
+
+453/20
+
+--------------------------------------------------
+
+BR 112016014180-6
+
+ASTEX THERAPEUTICS LIMITED / GLAXOSMITHKLINE INTELLECTUAL PROPERTY DEVELOPMENT LIMITED
+
+DANIEL ADVOGADOS
+
+453/20
+
+--------------------------------------------------
+
+BR 112016016361-3
+
+SHANGHAI HAIHE PHARMACEUTICAL CO., LTD.
+
+ANTÔNIO MAURÍCIO PEDRAS ARNAUD
+
+453/20
+
+--------------------------------------------------
+
+BR 112016016961-1
+
+VM ONCOLOGY LLC
+
+FLÁVIA SALIM LOPES
+
+458/20
+
+--------------------------------------------------
+
+BR 112016020472-7
+
+IONIS PHARMACEUTICALS, INC.
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+458/20
+
+--------------------------------------------------
+
+BR 112016020895-1
+
+INDIANA UNIVERSITY RESEARCH AND TECHNOLOGY CORPORATION / ASSEMBLY BIOSCIENCES, INC.
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+457/20
+
+--------------------------------------------------
+
+BR 112016021910-4
+
+ARQULE, INC.
+
+DANIEL ADVOGADOS
+
+453/20
+
+--------------------------------------------------
+
+BR 112016022879-0
+
+THE TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+453/20
+
+--------------------------------------------------
+
+BR 112016023558-4
+
+BRISTOL-MYERS SQUIBB COMPANY
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+458/20
+
+--------------------------------------------------
+
+BR 112016023902-4
+
+EMERALD HEALTH PHARMACEUTICALS INC.
+
+DI BLASI, PARENTE &ADVOGADOS ASSOCIADOS
+
+458/20
+
+--------------------------------------------------
+
+BR 112016024298-0
+
+MILLENNIUM PHARMACEUTICALS, INC.
+
+FLÁVIA SALIM LOPES
+
+453/20
+
+--------------------------------------------------
+
+BR 112016024523-7
+
+OMEROS CORPORATION
+
+DANIEL ADVOGADOS
+
+453/20
+
+--------------------------------------------------
+
+BR 112016025196-2
+
+GERON CORPORATION
+
+CLARKE, MODET PROPRIEDADE INTELECTUAL LTDA
+
+453/20
+
+--------------------------------------------------
+
+BR 112016025281-0
+
+JW PHARMACEUTICAL CORPORATION
+
+DANIEL ADVOGADOS
+
+455/20
+
+--------------------------------------------------
+
+BR 112016025287-0
+
+OMEROS CORPORATION
+
+DANIEL ADVOGADOS
+
+453/20
+
+--------------------------------------------------
+
+BR 112016026641-2
+
+ASTRAZENECA AB
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+453/20
+
+--------------------------------------------------
+
+BR 112016027834-8
+
+SPECGX LLC
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+453/20
+
+--------------------------------------------------
+
+BR 112016027886-0
+
+GLAXOSMITHKLINE INTELLECTUAL PROPERTY DEVELOPMENT LIMITED
+
+KASZNAR LEONARDOS PROPRIEDADE INTELECTUAL
+
+458/20
+
+--------------------------------------------------
+
+BR 112016028037-7
+
+GLAXOSMITHKLINE INTELLECTUAL PROPERTY DEVELOPMENT LIMITED
+
+DANIEL ADVOGADOS
+
+458/20
+
+--------------------------------------------------
+
+BR 112016028085-7
+
+BAR PHARMACEUTICALS S.R.L.
+
+VAZ E DIAS ADVOGADOS ASSOCIADOS
+
+453/20
+
+--------------------------------------------------
+
+BR 112016028139-0
+
+GLAXOSMITHKLINE INTELLECTUAL PROPERTY (NO. 2) LIMITED
+
+DANIEL ADVOGADOS
+
+453/20
+
+--------------------------------------------------
+
+BR 112016028614-6
+
+ALLERGAN, INC.
+
+TRENCH, ROSSI E WATANABE ADVOGADOS
+
+455/20
+
+--------------------------------------------------
+
+BR 112016029333-9
+
+GILEAD SCIENCES, INC.
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+453/20
+
+--------------------------------------------------
+
+BR 112016029571-4
+
+UNIVERSITE DE LILLE 2 DROIT ET SANTE / CENTRE HOSPITALIER REGIONAL ET UNIVERSITAIRE DE LILLE
+
+DI BLASI, PARENTE &ADVOGADOS ASSOCIADOS
+
+458/20
+
+--------------------------------------------------
+
+BR 112016030367-9
+
+CELGENE QUANTICEL RESEARCH, INC.
+
+FLÁVIA SALIM LOPES
+
+453/20
+
+--------------------------------------------------
+
+BR 112016030690-2
+
+NOGRA PHARMA LIMITED
+
+DANIEL ADVOGADOS
+
+453/20
+
+--------------------------------------------------
+
+BR 112016030697-0
+
+CELGENE QUANTICEL RESEARCH, INC
+
+FLÁVIA SALIM LOPES
+
+453/20
+
+--------------------------------------------------
+
+BR 112016030730-5
+
+BOARD OF REGENTS, THE UNIVERSITY OF TEXAS SYSTEM
+
+DAVID DO NASCIMENTO ADVOGADOS ASSOCIADOS
+
+453/20
+
+--------------------------------------------------
+
+BR 112017000132-2
+
+LUPIN LIMITED
+
+ARIBONI, FABBRI E SCHMIDT SOCIEDADE DE ADVOGADOS
+
+453/20
+
+--------------------------------------------------
+
+BR 112017000605-7
+
+JIANGSU HANSOH PHARMACEUTICAL GROUP CO., LTD.
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+457/20
+
+--------------------------------------------------
+
+BR 112017000908-0
+
+JW PHARMACEUTICAL CORPORATION
+
+DANIEL ADVOGADOS
+
+457/20
+
+--------------------------------------------------
+
+BR 112017000922-6
+
+CHDI FOUNDATION, INC.
+
+TRENCH, ROSSI E WATANABE ADVOGADOS
+
+453/20
+
+--------------------------------------------------
+
+BR 112017002153-6
+
+HC-PHARMA AG
+
+FLÁVIA SALIM LOPES
+
+457/20
+
+--------------------------------------------------
+
+BR 112017005111-7
+
+THE REGENTS OF THE UNIVERSITY OF CALIFORNIA
+
+DAVID DO NASCIMENTO ADVOGADOS ASSOCIADOS
+
+457/20
+
+--------------------------------------------------
+
+BR 112017014160-4
+
+MEDICAGO INC. / MITSUBISHI TANABE PHARMA CORPORATION
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+458/20
+
+--------------------------------------------------
+
+BR 112017014675-4
+
+PROCAPS SAS
+
+WAGNER JOSÉ DA SILVA
+
+455/20
+
+--------------------------------------------------
+
+BR 112017014740-8
+
+ONO PHARMACEUTICAL CO., LTD.
+
+DANIEL ADVOGADOS
+
+457/20
+
+--------------------------------------------------
+
+BR 112017014917-6
+
+JUNO THERAPEUTICS INC
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+458/20
+
+--------------------------------------------------
+
+BR 112017015204-5
+
+UNIVERSITÉ DE MONTPELLIER / CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE (CNRS)
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+458/20
+
+-------------------------------------------------
+
+BR 112017015631-8
+
+OSLO UNIVERSITETSSYKEHUS HF
+
+LICKS ADVOGADOS
+
+458/20
+
+--------------------------------------------------
+
+BR 112017015760-8
+
+GVK BIOSCIENCES PRIVATE LIMITED
+
+LEILDA RIBEIRO DA SILVA
+
+458/20
+
+--------------------------------------------------
+
+BR 112017016639-9
+
+MEIRAGTX UK II LIMITED
+
+FLÁVIA SALIM LOPES
+
+458/20
+
+--------------------------------------------------
+
+BR 112017016776-0
+
+TYRNOVO LTD.
+
+BHERING ADVOGADOS
+
+458/20
+
+--------------------------------------------------
+
+BR 112017017028-0
+
+GENZYME CORPORATION
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+455/20
+
+--------------------------------------------------
+
+BR 112017017037-0
+
+GENZYME CORPORATION
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+458/20
+
+--------------------------------------------------
+
+BR 112017017211-9
+
+GLAXOSMITHKLINE INTELLECTUAL PROPERTY (NO. 2) LIMITED / ANACOR PHARMACEUTICALS, INC.
+
+KASZNAR LEONARDOS PROPRIEDADE INTELECTUAL
+
+457/20
+
+--------------------------------------------------
+
+BR 112017017284-4
+
+HANSA MEDICAL AB
+
+NASCIMENTO ADVOGADOS
+
+458/20
+
+--------------------------------------------------
+
+BR 112017017286-0
+
+HANSA MEDICAL AB
+
+NASCIMENTO ADVOGADOS
+
+458/20
+
+--------------------------------------------------
+
+BR 112017017303-4
+
+BIOTECH PHARMACEUTICAL CO. LTD / CENTRO DE INMUNOLOGÍA MOLECULAR
+
+KASZNAR LEONARDOS PROPRIEDADE INTELECTUAL
+
+458/20
+
+--------------------------------------------------
+
+BR 112017017812-5
+
+CRISPR THERAPEUTICS AG / GEORGIA TECH RESEARCH CORPORATION / WILLIAM MARSH RICE UNIVERSITY
+
+FABIO RENATO FERREIRA DO NASCIMENTO
+
+455/20
+
+--------------------------------------------------
+
+BR 112017018538-5
+
+GLYCOTOPE GMBH
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+458/20
+
+--------------------------------------------------
+
+BR 112017018728-0
+
+FONDAZIONE TELETHON
+
+REMER VILLAÇA &NOGUEIRA ASSESSORIA E CONSULTORIA DE PROP. INTELECTUAL S/S LTDA
+
+458/20
+
+--------------------------------------------------
+
+BR 112017018775-2
+
+GANYMED PHARMACEUTICALS GMBH / TRANSLATIONALE ONKOLOGIE AN DER UNIVERSITÄTSMEDIZIN DER JOHANNES GUTENBERG-UNIVERSITÄT MAINZ GMBH
+
+DI BLASI, PARENTE &ADVOGADOS ASSOCIADOS
+
+458/20
+
+--------------------------------------------------
+
+BR 112017020961-6
+
+PIERIS PHARMACEUTICALS GMBH
+
+ANA PAULA SANTOS CELIDONIO
+
+459/20
+
+--------------------------------------------------
+
+BR 112017022860-2
+
+GTX, INC. / UNIVERSITY OF TENNESSEE RESEARCH FOUNDATION
+
+PINHEIRO NETO ADVOGADOS
+
+459/20
+
+--------------------------------------------------
+
+BR 112017023250-2
+
+NANOSILICAL DEVICES S.R.L.
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+459/20
+
+--------------------------------------------------
+
+BR 112017023740-7
+
+ORYZON GENOMICS, S.A.
+
+ANA PAULA SANTOS CELIDONIO
+
+459/20
+
+--------------------------------------------------
+
+BR 112017025255-4
+
+KONINKLIJKE PHILIPS N.V.
+
+DAVID DO NASCIMENTO ADVOGADOS ASSOCIADOS
+
+459/20
+
+--------------------------------------------------
+
+BR 112017025430-1
+
+KONINKLIJKE PHILIPS N.V.
+
+DAVID DO NASCIMENTO ADVOGADOS ASSOCIADOS
+
+459/20
+
+--------------------------------------------------
+
+BR 112017025435-2
+
+PHARMENTERPRISES BIOTECH LIMITED LIABILITY COMPANY
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+459/20
+
+--------------------------------------------------
+
+BR 112017026994-5
+
+UBE INDUSTRIES, LTD.
+
+KASZNAR LEONARDOS PROPRIEDADE INTELECTUAL
+
+457/20
+
+--------------------------------------------------
+
+BR 112017028205-4
+
+ETHRIS GMBH
+
+KASZNAR LEONARDOS PROPRIEDADE INTELECTUAL
+
+459/20
+
+--------------------------------------------------
+
+BR 112018000331-0
+
+SYNBIAS PHARMA AG
+
+LEONOR MAGALHÃES PERES GALVÃO DE BOTTON
+
+459/20
+
+--------------------------------------------------
+
+BR 112018001121-5
+
+EBERHARD KARLS UNIVERSITAET TUEBINGEN MEDIZINISCHE FAKULTAET
+
+KASZNAR LEONARDOS PROPRIEDADE INTELECTUAL
+
+459/20
+
+--------------------------------------------------
+
+BR 112018001404-4
+
+ENZYMATICA AB
+
+LEONOR MAGALHÃES PERES GALVÃO
+
+459/20
+
+--------------------------------------------------
+
+BR 112018001438-9
+
+DEBIOPHARM INTERNATIONAL S.A.
+
+GUERRA PROPRIEDADE INDUSTRIAL
+
+459/20
+
+--------------------------------------------------
+
+BR 112018001995-0
+
+CUREVAC AG
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+459/20
+
+--------------------------------------------------
+
+BR 112018002172-5
+
+BAVARIAN NORDIC A/S
+
+DI BLASI, PARENTE &ADVOGADOS ASSOCIADOS
+
+459/20
+
+--------------------------------------------------
+
+BR 112018003091-0
+
+KURA ONCOLOGY, INC.
+
+BM&A PROPRIEDADE INTELECTUAL LTDA
+
+459/20
+
+--------------------------------------------------
+
+BR 112018004141-6
+
+THE REGENTS OF THE UNIVERSITY OF CALIFORNIA
+
+RODRIGO CID ARAUJO SERRANO
+
+458/20
+
+--------------------------------------------------
+
+BR 112018004246-3
+
+MOLOGEN AG
+
+RODRIGO CID ARAUJO SERRANO
+
+459/20
+
+--------------------------------------------------
+
+BR 112018004454-7
+
+INSERM (INSTITUT NATIONAL DE LA SANTÉ ET DE LA RECHERCHE MÉDICALE) / UNIVERSITÉ DE NANTES / CENTRE HOSPITALIER UNIVERSITAIRE DE NANTES
+
+LUIZ LEONARDOS &ADVOGADOS
+
+459/20
+
+--------------------------------------------------
+
+BR 112018005180-2
+
+NORTHWEST BIOTHERAPEUTICS, INC.
+
+ORLANDO DE SOUZA
+
+459/20
+
+--------------------------------------------------
+
+BR 112018005271-0
+
+MOLOGEN AG
+
+RODRIGO CID ARAUJO SERRANO
+
+459/20
+
+--------------------------------------------------
+
+BR 112018005295-7
+
+NOVARTIS AG / THE TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+459/20
+
+--------------------------------------------------
+
+BR 112018005464-0
+
+GENENTECH, INC.
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+459/20
+
+--------------------------------------------------
+
+BR 112018005639-1
+
+VITALITY BIOPHARMA, INC.
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+461/20
+
+--------------------------------------------------
+
+BR 112018005684-7
+
+THE TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+459/20
+
+--------------------------------------------------
+
+BR 112018006026-7
+
+VYCELLIX, INC.
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+459/20
+
+--------------------------------------------------
+
+BR 112018006542-0
+
+INVECTYS
+
+JACQUES LABRUNIE
+
+459/20
+
+--------------------------------------------------
+
+BR 112018006811-0
+
+REGENTS OF THE UNIVERSITY OF MINNESOTA
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+459/20
+
+--------------------------------------------------
+
+BR 112018007155-2
+
+BOEHRINGER INGELHEIM INTERNATIONAL GMBH
+
+FLÁVIA SALIM LOPES
+
+461/20
+
+--------------------------------------------------
+
+BR 112018007538-8
+
+CELULARITY, INC.
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+459/20
+
+--------------------------------------------------
+
+BR 112018007611-2
+
+BIO-PATH HOLDING, INC.
+
+DANIEL ADVOGADOS
+
+459/20
+
+--------------------------------------------------
+
+BR 112018007872-7
+
+VALBIOTIS / UNIVERSITE CLERMONT AUVERGNE
+
+ANTÔNIO MAURÍCIO PEDRAS ARNAUD
+
+459/20
+
+--------------------------------------------------
+
+BR 112018008111-6
+
+JUNO THERAPEUTICS GMBH
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+459/20
+
+--------------------------------------------------
+
+BR 112018008293-7
+
+CANCER RESEARCH TECHNOLOGY LIMITED / KING'S COLLEGE LONDON / THE FRANCIS CRICK INSTITUTE LIMITED
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+459/20
+
+--------------------------------------------------
+
+BR 112018008519-7
+
+SANGAMO THERAPEUTICS, INC.
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+459/20
+
+--------------------------------------------------
+
+BR 112018008648-7
+
+THE REGENTS OF THE UNIVERSITY OF CALIFORNIA
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+459/20
+
+--------------------------------------------------
+
+BR 112018008893-5
+
+THOMAS M. CREWS
+
+DAVID DO NASCIMENTO ADVOGADOS ASSOCIADOS
+
+461/20
+
+--------------------------------------------------
+
+BR 112018009032-8
+
+HOOKIPA BIOTECH GMBH
+
+BM&A PROPRIEDADE INTELECTUAL LTDA
+
+459/20
+
+--------------------------------------------------
+
+BR 112018009437-4
+
+ELIZABETH MCKENNA
+
+LEONOR MAGALHÃES PERES GALVÃO
+
+459/20
+
+--------------------------------------------------
+
+BR 112018009528-1
+
+BIOTHERANOSTICS, INC.
+
+BM&A PROPRIEDADE INTELECTUAL LTDA
+
+459/20
+
+--------------------------------------------------
+
+BR 112018009753-5
+
+UNIVERSITÄT BASEL
+
+LICKS ADVOGADOS
+
+459/20
+
+--------------------------------------------------
+
+BR 112018009891-4
+
+UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, INC. / ARUNA BIOMEDICAL, INC.
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+459/20
+
+--------------------------------------------------
+
+BR 112018010006-4
+
+ORBIS HEALTH SOLUTIONS LLC
+
+KASZNAR LEONARDOS PROPRIEDADE INTELECTUAL
+
+459/20
+
+--------------------------------------------------
+
+BR 112018010089-7
+
+4D PHARMA RESEARCH LIMITED
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+459/20
+
+--------------------------------------------------
+
+BR 112018010499-0
+
+COMMONWEALTH SCIENTIFIC AND INDUSTRIAL RESEARCH ORGANISATION / UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, INC.
+
+DAVID DO NASCIMENTO ADVOGADOS ASSOCIADOS
+
+459/20
+
+--------------------------------------------------
+
+BR 112018010503-1
+
+COMMONWEALTH SCIENTIFIC AND INDUSTRIAL RESEARCH ORGANISATION / UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, INC.
+
+DAVID DO NASCIMENTO ADVOGADOS ASSOCIADOS
+
+459/20
+
+--------------------------------------------------
+
+BR 112018010635-6
+
+GLAXOSMITHKLINE INTELLECTUAL PROPERTY DEVELOPMENT LIMITED
+
+DANIEL ADVOGADOS
+
+459/20
+
+--------------------------------------------------
+
+BR 112018010639-9
+
+GLAXOSMITHKLINE INTELLECTUAL PROPERTY DEVELOPMENT LIMITED
+
+DANIEL ADVOGADOS
+
+459/20
+
+--------------------------------------------------
+
+BR 112018010690-9
+
+KM BIOLOGICS CO., LTD.
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+459/20
+
+--------------------------------------------------
+
+BR 112018010736-0
+
+NOGRA PHARMA LIMITED
+
+DANIEL ADVOGADOS
+
+459/20
+
+--------------------------------------------------
+
+BR 112018010867-7
+
+PUBLIC UNIVERSITY CORPORATION YOKOHAMA CITY UNIVERSITY
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+459/20
+
+--------------------------------------------------
+
+BR 112018011045-0
+
+THE UNIVERSITY OF BRITISH COLUMBIA
+
+FLÁVIA SALIM LOPES
+
+459/20
+
+--------------------------------------------------
+
+BR 112018011089-2
+
+NOVARTIS AG / INTELLIA THERAPEUTICS, INC.
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+459/20
+
+--------------------------------------------------
+
+BR 112018011711-0
+
+CALIFORNIA INSTITUTE OF TECHNOLOGY
+
+LEONOR MAGALHÃES PERES GALVÃO DE BOTTON
+
+457/20
+
+--------------------------------------------------
+
+BR 112018012179-7
+
+PSIOXUS THERAPEUTICS LIMITED
+
+MSANTOS &FILHOS PROPRIEDADE INTELECTUAL LTDA-EPP
+
+459/20
+
+--------------------------------------------------
+
+BR 112018012180-0
+
+PSIOXUS THERAPEUTICS LIMITED
+
+MSANTOS &FILHOS PROPRIEDADE INTELECTUAL LTDA-EPP
+
+459/20
+
+--------------------------------------------------
+
+BR 112018012262-9
+
+ARMO BIOSCIENCES, INC.
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+457/20
+
+--------------------------------------------------
+
+BR 112018012304-8
+
+NOVARTIS AG
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+459/20
+
+--------------------------------------------------
+
+BR 112018012694-2
+
+MEDIGENE IMMUNOTHERAPIES GMBH / HELMHOLTZ ZENTRUM MÜNCHEN DEUTSCHES FORSCHUNGSZENTRUM FÜR GESUNDHEIT UND UMWELT (GMBH)
+
+JACQUES LABRUNIE
+
+459/20
+
+--------------------------------------------------
+
+BR 112018012826-0
+
+MEDIGENE IMMUNOTHERAPIES GMBH / HELMHOLTZ ZENTRUM MÜNCHEN DEUTSCHES FORSCHUNGSZENTRUM FÜR GESUNDHEIT UND UMWELT (GMBH)
+
+JACQUES LABRUNIE
+
+459/20
+
+--------------------------------------------------
+
+BR 112018013052-4
+
+DAIRY A DAY INC.
+
+FLÁVIA SALIM LOPES
+
+459/20
+
+--------------------------------------------------
+
+BR 112018013074-5
+
+NOVARTIS AG / THE TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+459/20
+
+--------------------------------------------------
+
+BR 112018013356-6
+
+HANMI PHARM. CO., LTD.
+
+DAVID DO NASCIMENTO ADVOGADOS ASSOCIADOS
+
+456/20
+
+--------------------------------------------------
+
+BR 112018013409-0
+
+YUYU PHARMA, INC.
+
+LEONOR MAGALHÃES PERES GALVÃO DE BOTTON
+
+455/20
+
+--------------------------------------------------
+
+BR 112018013456-2
+
+ALFREDO GORIO
+
+VILELA COELHO SOCIEDADE DE ADVOGADOS
+
+459/20
+
+--------------------------------------------------
+
+BR 112018013570-4
+
+DOMPE' FARMACEUTICI S.P.A.
+
+LUIZ LEONARDOS &ADVOGADOS
+
+456/20
+
+--------------------------------------------------
+
+BR 112018013731-6
+
+BIRDIE BIOPHARMACEUTICALS, INC.
+
+WALTER DE ALMEIDA MARTINS
+
+456/20
+
+--------------------------------------------------
+
+BR 112018013761-8
+
+CELGENE CORPORATION
+
+LICKS ADVOGADOS
+
+456/20
+
+--------------------------------------------------
+
+BR 112018013827-4
+
+ARCUS BIOSCIENCES, INC.
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+456/20
+
+--------------------------------------------------
+
+BR 112018013829-0
+
+BAYER AS
+
+CARLOS ANDRÉ BARBOSA CAVALCANTI
+
+456/20
+
+--------------------------------------------------
+
+BR 112018013884-3
+
+CELGENE CORPORATION
+
+LICKS ADVOGADOS
+
+456/20
+
+--------------------------------------------------
+
+BR 112018013977-7
+
+MERCK PATENT GMBH
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+456/20
+
+--------------------------------------------------
+
+BR 112018013979-3
+
+VIRAMAL LIMITED
+
+FLÁVIA SALIM LOPES
+
+456/20
+
+--------------------------------------------------
+
+BR 112018014000-7
+
+ROY MADIGAN / ALBERTO PANIZ-MONDOLFI
+
+KATIA JANE FERREIRA EVANGELISTA
+
+456/20
+
+--------------------------------------------------
+
+BR 112018015855-0
+
+EA PHARMA CO., LTD.
+
+KASZNAR LEONARDOS PROPRIEDADE INTELECTUAL
+
+455/20
+
+--------------------------------------------------
+
+BR 112018016196-9
+
+UCB BIOPHARMA SPRL
+
+LUIZ LEONARDOS &ADVOGADOS
+
+456/20
+
+--------------------------------------------------
+
+BR 112018016490-9
+
+SANOFI
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+456/20
+
+--------------------------------------------------
+
+BR 112018016523-9
+
+NIPPON SHINYAKU CO., LTD.
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+456/20
+
+--------------------------------------------------
+
+BR 112018016554-9
+
+ANCUREALL PHARMACEUTICAL (SHANGHAI) CO., LTD.
+
+LUIZ LEONARDOS &ADVOGADOS
+
+456/20
+
+--------------------------------------------------
+
+BR 112018016724-0
+
+TAIHO PHARMACEUTICAL CO., LTD.
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+456/20
+
+--------------------------------------------------
+
+BR 112018067563-6
+
+SOLIGENIX, INC. / RASAPPA ARUMUGHAM / CHRISTOPHER SCHABER / HOLGER HOLGER / SILVIA WERNER
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+459/20
+
+--------------------------------------------------
+
+BR 112018068665-4
+
+ACER THERAPEUTICS INC.
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+456/20
+
+--------------------------------------------------
+
+BR 112018069195-0
+
+DAEWOONG PHARMACEUTICAL CO., LTD. / INDUSTRY-ACADEMIC COOPERATION FOUNDATION, YONSEI UNIVERSITY
+
+CLOVIS SILVEIRA
+
+459/20
+
+--------------------------------------------------
+
+BR 112018069654-4
+
+WARSAW ORTHOPEDIC, INC.
+
+KASZNAR LEONARDOS PROPRIEDADE INTELECTUAL
+
+456/20
+
+--------------------------------------------------
+
+BR 112018070155-6
+
+SARUDBHAVA FORMULATIONS PRIVATE LIMITED
+
+GUERRA PROPRIEDADE INDUSTRIAL
+
+455/20
+
+--------------------------------------------------
+
+BR 112018074632-0
+
+KARUS THERAPEUTICS LTD
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+456/20
+
+--------------------------------------------------
+
+BR 112018075736-5
+
+GENFLEET THERAPEUTICS (SHANGHAI) INC. / MEDSHINE DISCOVERY INC.
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+456/20
+
+--------------------------------------------------
+
+BR 112019001158-7
+
+BIOGEN MA, INC. / SUNESIS PHARMACEUTICALS, INC.
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+456/20
+
+--------------------------------------------------
+
+BR 112019001805-0
+
+NATIONAL CANCER CENTER / KOREA RESEARCH INSTITUTE OF CHEMICAL TECHNOLOGY
+
+ARIBONI, FABBRI E SCHMIDT SOCIEDADE DE ADVOGADOS
+
+456/20
+
+--------------------------------------------------
+
+BR 112019003479-0
+
+OMEROS CORPORATION
+
+KASZNAR LEONARDOS PROPRIEDADE INTELECTUAL
+
+456/20
+
+--------------------------------------------------
+
+BR 112019005040-0
+
+PRILENIA THERAPEUTICS DEVELOPMENT LTD.
+
+PINNEIRO NETO ADV
+
+455/20
+
+--------------------------------------------------
+
+BR 112019005328-0
+
+FRESENIUS KABI DEUTSCHLAND GMBH
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+447/20
+
+--------------------------------------------------
+
+BR 112019006853-8
+
+FRESENIUS KABI DEUTSCHLAND GMBH
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+448/20
+
+--------------------------------------------------
+
+BR 112019007223-3
+
+R-PHARM JOINT STOCK COMPANY / ALEXEY EVGENIEVICH REPIK
+
+GRUENBAUM, POSSINHAS &TEIXEIRA LTDA
+
+456/20
+
+--------------------------------------------------
+
+BR 112019007591-7
+
+ABBVIE INC.
+
+DANIEL ADVOGADOS
+
+456/20
+
+--------------------------------------------------
+
+BR 112019007631-0
+
+ABBVIE INC.
+
+DANIEL ADVOGADOS
+
+456/20
+
+--------------------------------------------------
+
+BR 112019009432-6
+
+KOREA RESEARCH INSTITUTE OF CHEMICAL TECHNOLOGY
+
+MARIA PIA CARVALHO GUERRA
+
+456/20
+
+--------------------------------------------------
+
+BR 112019010466-6
+
+LTS LOHMANN THERAPIE-SYSTEME AG
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+456/20
+
+--------------------------------------------------
+
+BR 112019010559-0
+
+KANGPU BIOPHARMACEUTICALS, LTD.
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+456/20
+
+--------------------------------------------------
+
+BR 122013027950-4
+
+BIAL-PORTELA &Cª, S.A.
+
+MURTA GOYANES PROPRIEDADE INTELECTUAL
+
+456/20
+
+--------------------------------------------------
+
+BR 122018070668-6
+
+COSMO TECHNOLOGIES LTD
+
+LEONOR MAGALHÃES PERES GALVÃO DE BOTTON
+
+458/20
+
+--------------------------------------------------
+
+BR 122018072431-5
+
+IMMATICS BIOTECHNOLOGIES GMBH
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+453/20
+
+--------------------------------------------------
+
+BR 122018073034-0
+
+AGENSYS, INC.
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+459/20
+
+--------------------------------------------------
+
+BR 122019000158-8
+
+JANSSEN SCIENCES IRELAND UC
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+457/20
+
+--------------------------------------------------
+
+BR 122019010114-0
+
+AUTOLUS LIMITED
+
+DI BLASI, PARENTE &ADVOGADOS ASSOCIADOS
+
+453/20
+
+--------------------------------------------------
+
+BR 122019019002-0
+
+ARRAY BIOPHARMA, INC.
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+456/20
+
+--------------------------------------------------
+
+BR 122019019582-0
+
+HANMI PHARM. CO., LTD.
+
+DANIEL ADVOGADOS
+
+456/20
+
+--------------------------------------------------
+
+BR 122019019826-8
+
+ACETYLON PHARMACEUTICALS, INC.
+
+DANIEL ADVOGADOS
+
+456/20
+
+--------------------------------------------------
+
+BR 122019019967-1
+
+THE TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK / NY STATE PSYCHIATRIC INSTITUTE
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+456/20
+
+--------------------------------------------------
+
+BR 122019020590-6
+
+ALLERGAN, INC.
+
+TRENCH, ROSSI E WATANABE ADVOGADOS
+
+456/20
+
+--------------------------------------------------
+
+BR 122019020716-0
+
+INCYTE HOLDINGS CORPORATION
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+456/20
+
+--------------------------------------------------
+
+BR 122019020718-6
+
+JANSSEN SCIENCES IRELAND UC
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+456/20
+
+--------------------------------------------------
+
+BR 122019022551-6
+
+TILLOTTS PHARMA AG
+
+KASZNAR LEONARDOS PROPRIEDADE INTELECTUAL
+
+456/20
+
+--------------------------------------------------
+
+BR 122019022612-1
+
+WISTA LABORATORIES LTD.
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+456/20
+
+--------------------------------------------------
+
+BR 122019022628-8
+
+WISTA LABORATORIES LTD.
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+456/20
+
+--------------------------------------------------
+
+BR 122019022631-8
+
+WISTA LABORATORIES LTD.
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+456/20
+
+--------------------------------------------------
+
+BR 122019023765-4
+
+BOEHRINGER INGELHEIM INTERNATIONAL GMBH
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+456/20
+
+--------------------------------------------------
+
+BR 122019024058-2
+
+ONCOPEPTIDES AB
+
+DANIEL ADVOGADOS
+
+456/20
+
+--------------------------------------------------
+
+BR 122019024319-0
+
+NOVALIQ GMBH
+
+MMV AGENTES DA PROPRIEDADE INDUSTRIAL LTDA.
+
+455/20
+
+--------------------------------------------------
+
+BR 122019024508-8
+
+TONIX PHARMACEUTICALS, INC.
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+455/20
+
+--------------------------------------------------
+
+BR 122019024759-5
+
+INCYTE HOLDINGS CORPORATION
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+457/20
+
+--------------------------------------------------
+
+BR 122019024862-1
+
+BOARD OF SUPERVISORS OF LOUISIANA STATE UNIVERSITY AND AGRICULTURAL AND MECHANICAL COLLEGE
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+455/20
+
+--------------------------------------------------
+
+BR 132014024531-5
+
+UNIVERSIDADE FEDERAL DO CEARÁ
+
+CLÁUDIA PESSOA
+
+457/20
+
+--------------------------------------------------
+
+BR 132016015131-6
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS
+
+UNIVERSIDADE FEDERAL DE MINAS GERAIS
+
+453/20
+
+--------------------------------------------------
+
+BR 212016030926-5
+
+TARVEDA THERAPEUTICS, INC.
+
+DANNEMANN, SIEMSEN, BIGLER &IPANEMA MOREIRA
+
+459/20

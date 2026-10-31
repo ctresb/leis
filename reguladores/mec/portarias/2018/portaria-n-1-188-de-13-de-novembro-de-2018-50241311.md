@@ -1,0 +1,36 @@
+---
+titulo: "PORTARIA Nº 1.188, DE 13 DE NOVEMBRO DE 2018"
+orgao: "Ministério da Educação/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "1188"
+data: 2018-11-13
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 14/11/2018, seção 1, p. 37"
+data_publicacao: 2018-11-14
+edicao: "219"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-1-188-de-13-de-novembro-de-2018-50241311"
+sha256_html_fonte: 0c466a2b2fac98e3e3a397a407ec444a87dbc3484f0131372110f4e86979a2b4
+baixado_em: 2026-10-27
+---
+# PORTARIA Nº 1.188, DE 13 DE NOVEMBRO DE 2018
+
+PORTARIA Nº 1.188, DE 13 DE NOVEMBRO DE 2018
+
+Divulga a relação de estados, além do Distrito Federal, que estão aptos a receber recursos referentes ao Programa de Fomento às Escolas de Ensino Médio em Tempo Integral, bem como autoriza o Fundo Nacional de Desenvolvimento da Educação a realizar o empenho de recursos financeiros àqueles entes.
+
+O MINISTRO DE ESTADO DA EDUCAÇÃO, no uso da atribuição que lhe confere o art. 87, parágrafo único, inciso II, da Constituição, e em conformidade com os arts. 13 e 14 da Lei nº 13.415, de 16 de fevereiro de 2017, resolve:
+
+**Art. 1º** Ficam divulgados os estados, além do Distrito Federal, que estão aptos a receber recursos referentes ao Programa de Fomento às Escolas de Ensino Médio em Tempo Integral, instituído pela Lei nº 13.415, de 16 de fevereiro de 2017, e pela Portaria MEC nº 727, de 13 de junho de 2017, com recursos de programa federal, conforme Resolução CD/FNDE nº 16, de 3 de dezembro de 2017.
+
+**Art. 2º** Fica autorizado o Fundo Nacional de Desenvolvimento da Educação a realizar o empenho de recursos financeiros aos estados e ao Distrito Federal para o Programa de Fomento às Escolas de Ensino Médio em Tempo Integral, para o pagamento da primeira parcela de recursos correspondentes ao ano de 2019, conforme destinatários e valores constantes no Anexo, referentes à adesão de 2017 e de 2016 ao Programa de Fomento às Escolas de Ensino Médio em Tempo Integral.
+
+**Art. 3º** Esta Portaria entra em vigor na data de sua publicação.
+
+ROSSIELI SOARES DA SILVA
+
+## ANEXO
+
+Repasse de Valores
+
+<table><tr></tr><tr><td><p>UF</p></td><td><p>CNPJ</p></td><td><p>Número de matrículas</p></td><td><p>Valor total do repasse</p></td><td><p>Valor de capital do repasse</p></td><td><p>Valor de custeio do repasse</p></td></tr><tr><td><p>AC</p></td><td><p>04.033.254/000.1-67</p></td><td><p>5.993</p></td><td><p>R$ 3.394.755,43</p></td><td><p>R$ 0,00</p></td><td><p>R$ 3.394.755,43</p></td></tr><tr><td><p>AL</p></td><td><p>12.200.218/000.1-79</p></td><td><p>11.080</p></td><td><p>R$ 8.747.626,09</p></td><td><p>R$ 4.373.813,04</p></td><td><p>R$ 4.373.813,04</p></td></tr><tr><td><p>AM</p></td><td><p>04.312.419/000.1-30</p></td><td><p>12.830</p></td><td><p>R$ 9.064.262,18</p></td><td><p>R$ 7.251.409,74</p></td><td><p>R$ 1.812.852,44</p></td></tr><tr><td><p>AP</p></td><td><p>00.394.577/000.1-25</p></td><td><p>3.589</p></td><td><p>R$ 2.692.878,24</p></td><td><p>R$ 1.885.014,76</p></td><td><p>R$ 807.863,47</p></td></tr><tr><td><p>BA</p></td><td><p>13.937.065/000.1-00</p></td><td><p>14.282</p></td><td><p>R$ 8.151.923,09</p></td><td><p>R$ 4.891.153,85</p></td><td><p>R$ 3.260.769,23</p></td></tr><tr><td><p>CE</p></td><td><p>07.954.514/000.1-25</p></td><td><p>38.950</p></td><td><p>R$ 28.431.194,18</p></td><td><p>R$ 6.539.174,66</p></td><td><p>R$ 21.892.019,52</p></td></tr><tr><td><p>DF</p></td><td><p>00.394.676/000.1-07</p></td><td><p>4.700</p></td><td><p>R$ 2.802.699,36</p></td><td><p>R$ 2.522.429,42</p></td><td><p>R$ 280.269,94</p></td></tr><tr><td><p>ES</p></td><td><p>27.080.563/000.1-93</p></td><td><p>16.305</p></td><td><p>R$ 4.970.633,04</p></td><td><p>R$ 0,00</p></td><td><p>R$ 4.970.633,04</p></td></tr><tr><td><p>GO</p></td><td><p>01.409.705/000.1-20</p></td><td><p>15.120</p></td><td><p>R$ 10.144.777,79</p></td><td><p>R$ 4.057.911,12</p></td><td><p>R$ 6.086.866,67</p></td></tr><tr><td><p>MA</p></td><td><p>03.352.086/000.1-00</p></td><td><p>14.605</p></td><td><p>R$ 7.698.098,88</p></td><td><p>R$ 6.107.671,65</p></td><td><p>R$ 1.590.427,23</p></td></tr><tr><td><p>MG</p></td><td><p>18.715.599/000.1-05</p></td><td><p>39.680</p></td><td><p>R$ 24.309.192,50</p></td><td><p>R$ 14.585.515,50</p></td><td><p>R$ 9.723.677,00</p></td></tr><tr><td><p>MS</p></td><td><p>02.585.924/000.1-22</p></td><td><p>7.610</p></td><td><p>R$ 4.378.511,02</p></td><td><p>R$ 1.751.404,41</p></td><td><p>R$ 2.627.106,61</p></td></tr><tr><td><p>MT</p></td><td><p>03.507.415/000.8-10</p></td><td><p>7.680</p></td><td><p>R$ 0,00</p></td><td><p>R$ 0,00</p></td><td><p>R$ 0,00</p></td></tr><tr><td><p>PA</p></td><td><p>05.054.937/000.1-63</p></td><td><p>10.880</p></td><td><p>R$ 8.018.500,65</p></td><td><p>R$ 5.199.716,73</p></td><td><p>R$ 2.818.783,92</p></td></tr><tr><td><p>PB</p></td><td><p>08.778.250/000.1-69</p></td><td><p>19.406</p></td><td><p>R$ 13.077.278,18</p></td><td><p>R$ 9.232.558,40</p></td><td><p>R$ 3.844.719,79</p></td></tr><tr><td><p>PE</p></td><td><p>10.572.071/000.1-12</p></td><td><p>30.000</p></td><td><p>R$ 21.505.442,10</p></td><td><p>R$ 6.451.632,63</p></td><td><p>R$ 15.053.809,47</p></td></tr><tr><td><p>PI</p></td><td><p>06.554.729/000.1-96</p></td><td><p>13.920</p></td><td><p>R$ 8.860.377,44</p></td><td><p>R$ 4.873.207,59</p></td><td><p>R$ 3.987.169,85</p></td></tr><tr><td><p>PR</p></td><td><p>76.416.965/000.1-21</p></td><td><p>4.790</p></td><td><p>R$ 2.888.313,92</p></td><td><p>R$ 1.660.491,67</p></td><td><p>R$ 1.227.822,25</p></td></tr><tr><td><p>RJ</p></td><td><p>42.498.659/000.1-60</p></td><td><p>21.840</p></td><td><p>R$ 13.643.535,70</p></td><td><p>R$ 11.110.852,06</p></td><td><p>R$ 2.532.683,64</p></td></tr><tr><td><p>RN</p></td><td><p>08.241.804/000.1-94</p></td><td><p>12.630</p></td><td><p>R$ 7.927.359,97</p></td><td><p>R$ 1.823.292,79</p></td><td><p>R$ 6.104.067,18</p></td></tr><tr><td><p>RO</p></td><td><p>04.564.530/000.1-13</p></td><td><p>4.745</p></td><td><p>R$ 3.297.977,18</p></td><td><p>R$ 1.319.190,87</p></td><td><p>R$ 1.978.786,31</p></td></tr><tr><td><p>RR</p></td><td><p>84.012.012/000.1-26</p></td><td><p>3.875</p></td><td><p>R$ 2.059.591,45</p></td><td><p>R$ 1.740.354,77</p></td><td><p>R$ 319.236,67</p></td></tr><tr><td><p>RS</p></td><td><p>92.941.681/000.1-00</p></td><td><p>4.917</p></td><td><p>R$ 3.366.567,59</p></td><td><p>R$ 1.346.627,04</p></td><td><p>R$ 2.019.940,55</p></td></tr><tr><td><p>SC</p></td><td><p>82.951.328/000.1-58</p></td><td><p>6.596</p></td><td><p>R$ 4.898.106,85</p></td><td><p>R$ 2.791.920,91</p></td><td><p>R$ 2.106.185,95</p></td></tr><tr><td><p>SE</p></td><td><p>13.128.798/001.4-18</p></td><td><p>16.870</p></td><td><p>R$ 11.219.699,58</p></td><td><p>R$ 3.926.894,85</p></td><td><p>R$ 7.292.804,73</p></td></tr><tr><td><p>SP</p></td><td><p>46.384.111/000.1-40</p></td><td><p>27.774</p></td><td><p>R$ 18.829.476,56</p></td><td><p>R$ 2.092.164,06</p></td><td><p>R$ 16.737.312,50</p></td></tr><tr><td><p>TO</p></td><td><p>25.053.083/000.1-08</p></td><td><p>6.360</p></td><td><p>R$ 4.865.221,04</p></td><td><p>R$ 4.228.175,88</p></td><td><p>R$ 637.045,17</p></td></tr><tr><td><p>Total Geral</p></td><td><p>377.027</p></td><td><p>R$ 239.244.000,00</p></td><td><p>R$ 111.762.578,42</p></td><td><p>R$ 127.481.421,58</p></td></tr></table>

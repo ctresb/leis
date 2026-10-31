@@ -1,0 +1,122 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 4.985, DE 3 DE DEZEMBRO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quinta Diretoria/Gerência-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados"
+tipo: "Resolução"
+numero: "4985"
+data: 2020-12-03
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 07/12/2020, seção 1, p. 89"
+data_publicacao: 2020-12-07
+edicao: "233"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.985-de-3-de-dezembro-de-2020-292438944"
+sha256_html_fonte: 9314220bcb4c96ce2b027dd84e4f6657434c790d589c66af6cbc44584a0426ff
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 4.985, DE 3 DE DEZEMBRO DE 2020
+
+RESOLUÇÃO-RE Nº 4.985, DE 3 DE DEZEMBRO DE 2020
+
+O Gerente-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados no uso das atribuições que lhe confere o art. 189, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, e ainda amparado pela Resolução de Diretoria Colegiada - RDC nº 345, de 16 de dezembro de 2002, resolve:
+
+**Art. 1º** Conceder Autorização de Funcionamento de Empresas em conformidade com o disposto no anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+NORBERTO POLLA DE CAMPOS
+
+## ANEXO
+
+EMPRESA: ALPHA REFRIGERAÇÃO E AR CONDICIONADO EIRELI.
+
+ENDEREÇO: RUA CELESTE FERNANDES DALPHORNO, Nº 95
+
+BAIRRO: JARDIM RENZO
+
+MUNICÍPIO: GUARULHOS
+
+UF: SP
+
+CEP: 07.075-125
+
+CNPJ: 11.816.245/0001-08
+
+PROCESSO: 25759.334318/2020-10 (EXP: 3778316/20-5)
+
+AUTORIZ/MS: 9.09427-8
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇO DE LIMPEZA, DESINFECÇÃO E DESCONTAMINAÇÃO DE SUPERFÍCIES DE AERONAVES, VEÍCULOS TERRESTRES EM TRÂNSITO POR ESTAÇÕES E PASSAGENS DE FRONTEIRA, EMBARCAÇÕES, TERMINAIS PORTUÁRIOS E AEROPORTUÁRIOS DE CARGAS E VIAJANTES, TERMINAIS ADUANEIROS DE USO PÚBLICO E ESTAÇÃO E PASSAGEM DE FRONTEIRAS.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+EMPRESA: ILAVOU LIMPEZA E HIGIENIZAÇÃO DE AMBIENTES LTDA.
+
+ENDEREÇO: AVENIDA DAS NAÇÕES UNIDAS, Nº 18.801 - CONJ. 38 - EDIF. NOVA A OFFICE OARK
+
+BAIRRO: JARDIM DOM BOSCO
+
+MUNICÍPIO: SÃO PAULO
+
+UF: SP
+
+CEP: 04.757-025
+
+CNPJ: 25.154.365/0001-00
+
+PROCESSO: 25759.559656/2020-54 (EXP: 4226747/20-1 )
+
+AUTORIZ/MS: 9.09428-1
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇO DE LIMPEZA, DESINFECÇÃO E DESCONTAMINAÇÃO DE SUPERFÍCIES DE AERONAVES, VEÍCULOS TERRESTRES EM TRÂNSITO POR ESTAÇÕES E PASSAGENS DE FRONTEIRA, EMBARCAÇÕES, TERMINAIS PORTUÁRIOS E AEROPORTUÁRIOS DE CARGAS E VIAJANTES, TERMINAIS ADUANEIROS DE USO PÚBLICO E ESTAÇÃO E PASSAGEM DE FRONTEIRAS.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+EMPRESA: CLEAN FLYING SISTEMA DE LIMPEZA LTDA.
+
+ENDEREÇO: R. LAGOA DOS SALGUEIROS, Nº 66
+
+BAIRRO: VILA DO ENCONTRO
+
+MUNICÍPIO: SÃO PAULO
+
+UF: SP
+
+CEP: 04.323-150
+
+CNPJ: 01.493.483/0001-76
+
+PROCESSO: 25759.484216/2020-36 (EXP: 4080156/20-0)
+
+AUTORIZ/MS: 9.09426-4
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇO DE ABASTECIMENTO DE ÁGUA POTÁVEL PARA CONSUMO HUMANO A BORDO DE AERONAVES, EMBARCAÇÕES E VEÍCULOS TERRESTRES QUE OPERAM TRANSPORTE COLETIVO INTERNACIONAL DE PASSAGEIROS.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+EMPRESA: CLEAN FLYING SISTEMA DE LIMPEZA LTDA.
+
+ENDEREÇO: R. LAGOA DOS SALGUEIROS, Nº 66
+
+BAIRRO: VILA DO ENCONTRO
+
+MUNICÍPIO: SÃO PAULO
+
+UF: SP
+
+CEP: 04.323-150
+
+CNPJ: 01.493.483/0001-76
+
+PROCESSO: 25759.941840/2020-44 (EXP: 3091339/20-0)
+
+AUTORIZ/MS: 9.09425-1
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇO DE LIMPEZA, DESINFECÇÃO E DESCONTAMINAÇÃO DE SUPERFÍCIES DE AERONAVES, VEÍCULOS TERRESTRES EM TRÂNSITO POR ESTAÇÕES E PASSAGENS DE FRONTEIRA, EMBARCAÇÕES, TERMINAIS PORTUÁRIOS E AEROPORTUÁRIOS DE CARGAS E VIAJANTES, TERMINAIS ADUANEIROS DE USO PÚBLICO E ESTAÇÃO E PASSAGEM DE FRONTEIRAS.

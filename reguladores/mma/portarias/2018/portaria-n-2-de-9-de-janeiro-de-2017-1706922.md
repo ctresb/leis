@@ -1,0 +1,30 @@
+---
+titulo: "PORTARIA Nº 2 , DE 9 DE JANEIRO DE 2017"
+orgao: "Ministério do Meio Ambiente/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "2"
+data: 2017-01-09
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 10/01/2018, seção 1, p. 7-64"
+data_publicacao: 2018-01-10
+edicao: "7"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-2-de-9-de-janeiro-de-2017-1706922"
+sha256_html_fonte: 2b47d8b577956f9ea02386a41355e481494ef3666b317927220e42088fe170a0
+baixado_em: 2026-10-27
+---
+# PORTARIA Nº 2 , DE 9 DE JANEIRO DE 2017
+
+O MINISTRO DE ESTADO DO MEIO AMBIENTE, no uso das suas atribuições, e tendo em vista o disposto no art. 5o, parágrafo único, da Portaria no 370/GM/MMA, de 13 de setembro de 2017, e tendo em vista o que consta no Processo Administrativo no 02000.210578/2017-54, resolve:
+
+**Art. 1o** Instituir o Programa de Qualidade de Vida no Trabalho do Ministério do Meio Ambiente - Programa Quali MMA, na forma do Anexo.
+
+**Art. 2o** Programa Quali MMA será bienal, com vigência, a partir de 1o de janeiro 2018 até 31 de dezembro 2019, devendo cada ação proposta ser desdobrada em plano de execução, para um maior detalhamento e monitoramento, com vistas à assertividade e cumprimento do objetivo proposto.
+
+**Art. 3o** Esta Portaria entra em vigor na data de sua publicação.
+
+<table><tr></tr><tr><td><p> PROGRAMA QUALI MMA</p></td></tr><tr><td><p> PREMISSA</p></td><td><p>PONTO CRÍTICO DO DIAGNÓSTICO</p></td><td><p>AÇÃO</p></td><td><p>OBJETIVO</p></td><td><p>UNIDADE RESPONSÁVEL</p></td><td><p>PRAZO</p></td></tr><tr><td><p> DESENVOLVIMENTO</p></td><td><p>Informações sobre as políticas institucionais e os resultados alcançados em nível organizacional</p></td><td><p>Otimizar o uso da ferramenta Gestão do Conhecimento (Biosfera)</p></td><td><p>Gestão transparente, participativa e eficiência na comunicação</p></td><td><p>CGGA/CGGP</p></td><td><p>Dezembro/2018</p></td></tr><tr><td></td><td></td><td><p>Apresentar aos servidores ações futuras e os resultados alcançados pelas Unidades</p></td><td><p>Valorização das unidades, dos gestores e dos servidores</p></td><td><p>CGGP/DGE/SECEX/GM</p></td><td><p>Fevereiro de 2018 e de 2019</p></td></tr><tr><td></td><td></td><td><p>Capacitar os líderes visando a promoção da melhoria da comunicação e o exercício da liderança</p></td><td><p>Capacitação técnica e gerencial</p></td><td><p>CGGP</p></td><td><p>2018/2019</p><p>(contínuo)</p></td></tr><tr><td></td><td><p>Fortalecimento do Programa de Instrutoria Interna</p></td><td><p>Disponibilizar um espaço adequado para realização de cursos de capacitação</p></td><td></td><td><p>CGGA/CGGP</p></td><td><p>Abril/2018</p></td></tr><tr><td></td><td></td><td><p>Promover a integração e alinhamento dos instrutores</p></td><td></td><td><p>CGGP</p></td><td><p>2018/2019</p><p>(contínuo)</p></td></tr><tr><td><p> INTEGRAÇÃO</p></td><td><p>Integração com sindicatos e associações de classe</p></td><td><p>Realizar reuniões periódicas com as Associações locais e nacionais e dar publicidade às decisões</p></td><td><p>Gestão transparente, participativa e eficiência na comunicação</p></td><td><p>Coordenador da MSNP/CGGP</p></td><td><p>2018/2019</p><p>(contínuo)</p></td></tr><tr><td></td><td><p>Fortalecimento das relações interpessoais</p></td><td><p>Definir agenda de eventos em função de temas singificativos no âmbito do MMA e da sociedade</p></td><td><p>Consciência cidadã</p></td><td><p>CGGP/A3P</p></td><td><p>Fevereiro/2018</p></td></tr><tr><td></td><td></td><td><p>Fomentar atividades culturais da Biblioteca</p></td><td><p>Cultura da inovação</p></td><td><p>CGGA/CGGP</p></td><td><p>2018/2019</p><p>(contínuo)</p></td></tr><tr><td><p> CONDIÇÕES DE TRABALHO</p></td><td><p>Disponibilização de canais de denúncias</p></td><td><p>Oferecer canais de denúncias e tratar os casos de ofensa aos direitos e garantias do servidor</p></td><td><p>Gestão transparente, participativa e eficiência na comunicação</p></td><td><p>Ouvidoria/Comissão de Ética/CGGP</p></td><td><p>2018/2019</p><p>(contínuo)</p></td></tr><tr><td></td><td><p>Flexibilidade da jornada de trabalho</p></td><td><p>Apresentar estudos visando a implementação do teletrabalho</p></td><td><p>Gestão sustentável e por resultados</p></td><td><p>CGGP</p></td><td><p>Julho/2018</p></td></tr><tr><td></td><td></td><td><p>Implementar o programa de incentivo ao trabalho voluntariado</p></td><td><p>Consciência cidadã</p></td><td><p>CGGP</p></td><td><p>Dezembro/2018</p></td></tr><tr><td></td><td><p>Política de inclusão</p></td><td><p>Atender necessidades especiais por meio de grupos focais</p></td><td></td><td><p>CGGP</p></td><td><p>2018/2019</p><p>(contínuo)</p></td></tr><tr><td></td><td><p>Política de mobilidade</p></td><td><p>Revisar a política de Remoção</p></td><td><p>Valorização das unidades, dos gestores e dos servidores</p></td><td><p>CGGP</p></td><td><p>Dezembro/2018</p></td></tr><tr><td></td><td></td><td><p>Desenvolver solução em TI</p></td><td></td><td><p>CGGP</p></td><td><p>Julho/2018</p></td></tr><tr><td></td><td></td><td><p>Revisar a política de Redistribuição</p></td><td></td><td><p>CGGP</p></td><td><p>Dezembro/2018</p></td></tr><tr><td><p> ATENÇÃO À SAÚDE</p></td><td><p>Disponibilização de espaços físicos para refeição e práticas de bem-estar</p></td><td><p>Criar/otimizar espaços adequados</p></td><td><p>Valorização das unidades, dos gestores e dos servidores</p></td><td><p>CGGA/CGGP</p></td><td><p>Julho/2018</p></td></tr><tr><td></td><td></td><td><p>Estimular a prática de atividades de bem-estar</p></td><td><p>Consciência cidadã</p></td><td><p>CGGP</p></td><td><p>2018/2019</p><p>(contínuo)</p></td></tr><tr><td></td><td><p>Cuidados com a saúde integral do servidor</p></td><td><p>Definir agenda de eventos em função de temas relacionados à saúde</p></td><td></td><td><p>CGGP</p></td><td><p>Janeiro/2018</p></td></tr><tr><td></td><td></td><td><p>Realizar exames periódicos</p></td><td></td><td><p>CGGP</p></td><td><p>Abril/2018</p></td></tr></table>
+
+SARNEY FILHO
+
+Este conteúdo não substitui o publicado na versão certificada.

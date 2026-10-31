@@ -1,0 +1,36 @@
+---
+titulo: "PORTARIA Nº 4, DE 6 DE FEVEREIRO DE 2023"
+orgao: "Ministério de Portos e Aeroportos/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "4"
+data: 2023-02-06
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 13/02/2023, seção 1, p. 68"
+data_publicacao: 2023-02-13
+edicao: "31"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-4-de-6-de-fevereiro-de-2023-463867424"
+sha256_html_fonte: 61022565f48cb27c51e0ee78a198527c8f994d6145cde3ed0057cee65d8883e4
+baixado_em: 2026-10-16
+---
+# PORTARIA Nº 4, DE 6 DE FEVEREIRO DE 2023
+
+PORTARIA Nº 4, DE 6 DE FEVEREIRO DE 2023
+
+Aprova como prioritário, para fins de emissão de debêntures incentivadas, o projeto de investimento em infraestrutura aeroportuária, no setor de logística e transporte, proposto pela empresa SBPB Parnaíba Sociedade de Propósito Específico S/A.
+
+O MINISTRO DE ESTADO DE PORTOS E AEROPORTOS, no uso das atribuições que lhe confere o art. 41 da Medida Provisória nº 1.154, de 1º de janeiro de 2023, e tendo em vista o disposto na Lei nº 12.431, de 24 de junho de 2011, no Decreto nº 8.874, de 11 de outubro de 2016, e na Portaria GM/MInfra nº 106, de 19 de agosto de 2021, resolve:
+
+**Art. 1º** Aprovar como prioritário, para fins de emissão de debêntures incentivadas, o projeto de investimento em infraestrutura aeroportuária, no setor de logística e transporte, denominado "Aeroporto Internacional de Parnaíba - Prefeito Dr. João Silva Filho", proposto pela empresa SBPB Parnaíba Sociedade de Propósito Específico S.A., CNPJ nº 45.238.772/0001-02, que consiste no reembolso de gastos, despesas ou dívidas que ocorreram em prazo igual ou inferior a 24 (vinte e quatro) meses da data de encerramento da oferta pública e na realização de investimentos futuros, referente ao Contrato de Concessão nº 01/2022, firmado com o Estado do Piauí, por meio da SETRANS/PI - Secretaria de Transportes do Estado do Piauí, que tem por objeto explorar a concessão administrativa para a prestação dos serviços públicos de conservação, recuperação, manutenção, implantação de melhorias e operação aeroportuária do Aeroporto de Parnaíba - Prefeito Dr. João Silva Filho, no Estado do Piauí, conforme descrito no Anexo dessa Portaria.
+
+**Art. 2º** A empresa a que se refere o art. 1º deverá manter atualizada, junto ao Ministério de Portos e Aeroportos, a relação das pessoas jurídicas que a integram ou a identificação da sociedade controladora, conforme previsto no art. 5º, I, do Decreto nº 8.874, de 11 de outubro de 2016.
+
+**Art. 3º** Os autos do Processo nº 50000.040894/2022-62 ficarão arquivados e disponíveis neste Ministério, para consulta e fiscalização dos órgãos de controle.
+
+**Art. 4º** Esta Portaria terá vigência de dois anos.
+
+**Art. 5º** Esta Portaria entra em vigor na data de sua publicação.
+
+MÁRCIO LUIZ FRANÇA GOMES
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="2"><p>ANEXO</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Descrição do Projeto</p></td>      <td rowspan="1" colspan="1"><p>O Projeto de investimento da empresa SBPB Parnaíba Sociedade de Propósito Específico S.A., denominado "Aeroporto Internacional de Parnaíba - Prefeito Dr. João Silva Filho", consiste no reembolso de gastos, despesas ou dívidas que ocorreram em prazo igual ou inferior a 24 (vinte e quatro) meses da data de encerramento da oferta pública e na realização de investimentos futuros, referente ao Contrato de Concessão</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>Nº 01/2022, firmado com o Estado do Piauí, por meio da SETRANS/PI - Secretaria de Transportes do Estado do Piauí, que tem por objeto explorar a concessão administrativa para a prestação dos serviços públicos de conservação, recuperação, manutenção, implantação de melhorias e operação aeroportuária do Aeroporto de Parnaíba - Prefeito Dr. João Silva Filho, no Estado do Piauí, compreendendo,</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>dentre outras, as seguintes melhorias da infraestrutura aeroportuária:</p><p>- Fase 1: Trabalhos iniciais, com prazo máximo de 13 meses a partir da data de assinatura do Termo de Transferência: (i) Implantação de áreas de segurança de fim de pista (RESA), conforme RBAC 154; (ii) Readequação da área, ampliação cobertura</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>de embarque e desembarque e retrofit de fachada do Terminal de Passageiros; (iii) Readequação do estacionamento para pelo menos 57 vagas; (iv) Implantação de cercamento para isolamento de área; (v) Nova área de oficina; (vi) Novas pistas de serviço interna; (vii) Readequação de via de acesso ao Aeroporto com nova rótula; e (viii) Novo acesso ao Parque de Abastecimento de Aeronaves.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>- Fase 2: Processo de modernização, com cronograma físico de 14 meses, com prazo máximo de duração de 60 (sessenta) meses a partir da data de assinatura do Termo de Transferência, conforme abaixo: (i) Readequação e ampliação da área de Terminal de Passageiros (área total de 6.512 m²);</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>(ii) Implantação de novas pistas de serviço interno; (iii) Implantação de nova área de pátio para aeronaves comerciais, bem como de nova taxiway para acesso ao novo pátio de aeronaves, de acordo com a RBAC 154; (iv) Ampliação de Infraestrutura da área do SESCINC; e (v) Recuperação e readequação de pistas da taxiway e do pátio existente para uso de aviação geral.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Nome Empresarial</p></td>      <td rowspan="1" colspan="1"><p>SBPB Parnaíba Sociedade de Propósito Específico S.A.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>CNPJ</p></td>      <td rowspan="1" colspan="1"><p>45.238.772/0001-02</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Relação das Pessoas Jurídicas</p></td>      <td rowspan="1" colspan="1"><p>- CWI - Cedarwood Investimentos S.A. - 50% (CNPJ nº 26.626.866/0001-04)</p><p>- TR Saeculum Participações Ltda. - 50% (CNPJ nº 23.681.589/0001-36)</p></td>     </tr>     <tr>      <td rowspan="1" colspan="2"><p>Relação dos Principais Documentos Apresentados</p><p>- Formulário de Solicitação.</p><p>- Quadro Anual de Usos e Fontes do Investimento (Anexo)</p><p>- Termo de Compromisso de Constituição de SPE sob a Denominação Social de SBPB Parnaíba Sociedade de Propósito Específico Ltda., realizado em 03 de fevereiro de 2022.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="2"><p>- Alteração Contratual de Transformação da SBPB Parnaíba Sociedade de Propósito Específico Ltda. em Sociedade Anônima Simplificada - SBPB Parnaíba Sociedade de Propósito Específico S.A., realizada em 04 de agosto de 2022</p><p>- Comprovante de Inscrição e de Situação Cadastral.</p><p>- Certidão Negativa de Débitos Relativos aos Tributos Federais e à Dívida Ativa da União</p></td>     </tr>     <tr>      <td rowspan="1" colspan="2"></td>     </tr>     <tr>      <td rowspan="1" colspan="2"><p>Local de Implantação do Projeto</p><p>Estado do Piauí</p></td>     </tr>    </tbody>   </table>

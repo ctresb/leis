@@ -1,0 +1,282 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.753, DE 21 DE SETEMBRO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "3753"
+data: 2020-09-21
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 22/09/2020, seção 1, p. 161"
+data_publicacao: 2020-09-22
+edicao: "182"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.753-de-21-de-setembro-de-2020-278693869"
+sha256_html_fonte: 476abc60e8b8200902fb3bd710c5933532b8d2c326b9042d47bc3c84ad8410aa
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 3.753, DE 21 DE SETEMBRO DE 2020
+
+RESOLUÇÃO-RE Nº 3.753, DE 21 DE SETEMBRO DE 2020
+
+A Coordenadora de Autorização de Funcionamento de Empresas, no uso das atribuições que lhe confere o Art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º** Conceder Autorização de Funcionamento para os estabelecimentos de Farmácias e Drogarias, em conformidade com o anexo desta Resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+PATRICIA AZEVEDO CHAGAS
+
+## ANEXO
+
+COMERCIAL DRUGSTORE LTDA / 05.230.009/0082-78
+
+25351.910244/2020-03 / 7747281
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2998724205
+
+--------------------------------------
+
+DROGARIA COSTA BARBACENA LTDA ME / 37.655.341/0001-05
+
+25351.922557/2020-04 / 7747445
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3039571202
+
+--------------------------------------
+
+EMPREENDIMENTOS FARMACEUTICOS GLOBO LTDA / 63.503.007/0117-76
+
+25351.910251/2020-05 / 7747354
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2998738205
+
+--------------------------------------
+
+DRM COMERCIO DE MEDICAMENTOS LTDA / 34.499.693/0001-20
+
+25351.910226/2020-13 / 7747229
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2998688205
+
+--------------------------------------
+
+FARIA E ESTEVES FARMACIA LTDA / 37.669.677/0001-27
+
+25351.922835/2020-15 / 7747459
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3040422203
+
+--------------------------------------
+
+DROGABELLA COMERCIO LTDA / 10.946.502/0004-06
+
+25351.924688/2020-18 / 7747493
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3043379207
+
+--------------------------------------
+
+ERLO & PREVIDE COMERCIO DE MEDICAMENTOS LTDA / 38.168.136/0001-88
+
+25351.909719/2020-19 / 7747172
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2997559200
+
+--------------------------------------
+
+R B FERREIRA DROGARIA LTDA / 36.965.216/0001-39
+
+25351.910258/2020-19 / 7747431
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2998752201
+
+--------------------------------------
+
+HIPER FARMA LTDA / 29.474.162/0027-82
+
+25351.910256/2020-20 / 7747414
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2998748202
+
+--------------------------------------
+
+D L DE AGUIAR FARMACIA EIRELI / 37.558.460/0001-40
+
+25351.828465/2020-21 / 7747371
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2762902203
+
+--------------------------------------
+
+drogaria santa cruz ltda / 37.607.217/0001-74
+
+25351.910224/2020-24 / 7747201
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2998684202
+
+--------------------------------------
+
+Drogaria Praia Brava LTDA ME / 38.210.595/0001-82
+
+25351.910249/2020-28 / 7747337
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2998734202
+
+--------------------------------------
+
+J.S E SILVA FARMACIA LTDA / 38.261.579/0001-19
+
+25351.924686/2020-29 / 7747476
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3043375204
+
+--------------------------------------
+
+MEDICAMENTOS E DROGARIA 23 EIRELI / 37.156.206/0001-15
+
+25351.910254/2020-31 / 7747399
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2998744200
+
+--------------------------------------
+
+MAIS B FARMA LTDA / 36.578.701/0001-50
+
+25351.910222/2020-35 / 7747186
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2998680200
+
+--------------------------------------
+
+ROSINA DAMASCENA ALVES / 37.991.886/0001-92
+
+25351.910247/2020-39 / 7747310
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2998730200
+
+--------------------------------------
+
+MARIA VITORINO DO NASCIMENTO / 37.784.332/0001-14
+
+25351.910245/2020-40 / 7747294
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2998726201
+
+--------------------------------------
+
+EMPREENDIMENTOS FARMACEUTICOS GLOBO LTDA / 63.503.007/0120-71
+
+25351.910252/2020-41 / 7747368
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2998740207
+
+--------------------------------------
+
+EDUFARMA DROGARIA LTDA / 37.784.096/0001-36
+
+25351.894364/2020-48 / 7747263
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2955011204
+
+--------------------------------------
+
+SIMONE SANTOS SILVA DE IBIRAPITANGA / 14.754.985/0001-55
+
+25351.910243/2020-51 / 7747277
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2998722209
+
+--------------------------------------
+
+B & A Comércio de Produtos Farmacêuticos LTDA / 37.862.366/0001-80
+
+25351.910250/2020-52 / 7747341
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2998736209
+
+--------------------------------------
+
+Farma med brasil popular eireli / 37.166.413/0001-50
+
+25351.924689/2020-62 / 7747505
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3043381209
+
+--------------------------------------
+
+MICHELSON OLIVEIRA LUZ / 04.363.691/0002-20
+
+25351.909210/2020-68 / 7747169
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2996738204
+
+--------------------------------------
+
+VAGNER DE FRANCA LOURENCO / 26.832.761/0002-84
+
+25351.924687/2020-73 / 7747480
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3043377201
+
+--------------------------------------
+
+DROGARIA FEDERAL FARMA EIRELI / 37.268.993/0001-97
+
+25351.924574/2020-78 / 7747462
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3043023202
+
+--------------------------------------
+
+MZ FARMA LTDA. / 38.100.022/0001-04
+
+25351.910225/2020-79 / 7747215
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2998686209
+
+--------------------------------------
+
+DROGARIA ZAMBALDI EIRELI / 12.585.077/0002-30
+
+25351.910223/2020-80 / 7747190
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2998682206
+
+--------------------------------------
+
+ELISVELTON S DE MELO / 36.381.429/0001-13
+
+25351.910248/2020-83 / 7747323
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2998732206
+
+--------------------------------------
+
+OLIVEIRA E FREITAS COMERCIO DE MEDICAMENTOS LTDA / 37.678.229/0001-90
+
+25351.910255/2020-85 / 7747401
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2998746206
+
+--------------------------------------
+
+EMPREENDIMENTOS FARMACEUTICOS GLOBO LTDA / 63.503.007/0119-38
+
+25351.910246/2020-94 / 7747306
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2998728208
+
+--------------------------------------
+
+GLAUCIA MOREIRA DE SOUZA / 36.498.687/0001-84
+
+25351.910253/2020-96 / 7747385
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 2998742203
+
+--------------------------------------
+
+FARMA VIDA SERTANEJA EIRELI / 38.074.731/0001-54
+
+25351.924690/2020-97 / 7747522
+
+733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 3043383205

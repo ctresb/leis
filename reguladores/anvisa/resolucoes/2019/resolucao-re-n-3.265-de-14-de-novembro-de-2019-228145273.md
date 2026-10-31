@@ -1,0 +1,116 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.265, DE 14 DE NOVEMBRO DE 2019"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quinta Diretoria/Gerência-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados"
+tipo: "Resolução"
+numero: "3265"
+data: 2019-11-14
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 18/11/2019, seção 1, p. 35"
+data_publicacao: 2019-11-18
+edicao: "222"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.265-de-14-de-novembro-de-2019-228145273"
+sha256_html_fonte: d161bda8aefd8a6eb4d07f34d00e024a06a49c3462af7012db52699336ebbb7e
+baixado_em: 2026-10-27
+---
+# RESOLUÇÃO-RE Nº 3.265, DE 14 DE NOVEMBRO DE 2019
+
+RESOLUÇÃO-RE Nº 3.265, DE 14 DE NOVEMBRO DE 2019
+
+A Gerente-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados, Substituta, no uso das atribuições que lhe confere o art. 189, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, e ainda amparado pela Resolução da Diretoria Colegiada - RDC n° 346, de 16 de dezembro de 2002, resolve:
+
+**Art. 1º** Conceder Autorização de Funcionamento de Empresas Prestadoras de Serviços de Interesse da Saúde Pública, em conformidade com o disposto no anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+GLÁUCIA RIBEIRO LIMA
+
+## ANEXO
+
+EMPRESA: ARMAZÉNS GERAIS SUL DAS GERAIS S.A.
+
+ENDEREÇO: RODOVIA BR 381 - KM 848
+
+BAIRRO: IPIRANGA
+
+CIDADE: POUSO ALEGRE
+
+UF: MG
+
+CEP: 37.556-338
+
+CNPJ: 18171483000152
+
+PROCESSO Nº: 25761.400107/2019-91 (EXP: 0612499/19-2)
+
+AUTORIZ/MS: 9.08996-7
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAR SERVIÇO DE ARMAZENAGEM DE SANEANTES DOMISSANITÁRIOS E MATÉRIAS-PRIMAS QUE OS INTEGRAM EM RECINTOS ALFANDEGADOS
+
+EMPRESA: ARMAZÉNS GERAIS SUL DAS GERAIS S.A.
+
+ENDEREÇO: RODOVIA BR 381 - KM 848
+
+BAIRRO: IPIRANGA
+
+CIDADE: POUSO ALEGRE
+
+UF: MG
+
+CEP: 37.556-338
+
+CNPJ: 18171483000152
+
+PROCESSO Nº: 25761.400088/2019-01 (EXP: 0612463/19-1)
+
+AUTORIZ/MS: 9.08998-4
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAR SERVIÇO DE ARMAZENAGEM DE COSMÉTICOS, PRODUTOS DE HIGIENE, PERFUMES E MATÉRIAS-PRIMAS QUE OS INTEGRAM EM RECINTOS ALFANDEGADOS
+
+EMPRESA: ARMAZÉNS GERAIS SUL DAS GERAIS S.A.
+
+ENDEREÇO: RODOVIA BR 381 - KM 848
+
+BAIRRO: IPIRANGA
+
+CIDADE: POUSO ALEGRE
+
+UF: MG
+
+CEP: 37.556-338
+
+CNPJ: 18171483000152
+
+PROCESSO Nº: 25761.400034/2019-38 (EXP: 0612389/19-9)
+
+AUTORIZ/MS: 9.08997-1
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAR SERVIÇO DE ARMAZENAGEM DE ALIMENTOS EM RECINTOS ALFANDEGADOS
+
+EMPRESA: SUPPLOG PORTO SECO DO CERRADO LTDA
+
+ENDEREÇO: RUA REPÚBLICA DO PIRATINI, 1145
+
+BAIRRO: NOSSA SENHORA DAS GRAÇAS
+
+CIDADE: UBERLÂNDIA
+
+UF: MG
+
+CEP: 38.402-028
+
+CNPJ: 42276816000192
+
+PROCESSO Nº: 25761.290562/2019-72 (EXP: 0441099/19-8)
+
+AUTORIZ/MS: 9.09006-3
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAR SERVIÇO DE ARMAZENAGEM DE SANEANTES DOMISSANITÁRIOS E MATÉRIAS-PRIMAS QUE OS INTEGRAM EM RECINTOS ALFANDEGADOS

@@ -1,0 +1,202 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 4.821, DE 24 DE NOVEMBRO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "4821"
+data: 2020-11-24
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 25/11/2020, seção 1, p. 162"
+data_publicacao: 2020-11-25
+edicao: "225"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.821-de-24-de-novembro-de-2020-290041605"
+sha256_html_fonte: bc150e0f9bdf7372f2e416cd5d6e31040095fbe0a34c66d57ca0688f694b1e6a
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 4.821, DE 24 DE NOVEMBRO DE 2020
+
+RESOLUÇÃO-RE Nº 4.821, DE 24 DE NOVEMBRO DE 2020
+
+O Coordenador de Autorização de Funcionamento de Empresas, Substituto, no uso das atribuições que lhe confere o art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º** Conceder Alteração de Autorização de Funcionamento para os estabelecimentos de Farmácias e Drogarias, em conformidade com o anexo desta Resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+DROGARIAS PACHECO S/A / 33.438.250/0091-13
+
+25351.715938/2013-00 / 7062575
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 2276553201
+
+--------------------------------------
+
+ORGANIZAÇÃO FARMACÊUTICA NAKANO LTDA / 03.123.210/0023-70
+
+25351.436881/2017-09 / 7535596
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3588588202
+
+--------------------------------------
+
+DROGARIA A.A.PINHEIRO LTDA / 37.353.962/0001-34
+
+25351.930126/2020-11 / 7748471
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3485870209
+
+--------------------------------------
+
+DROGARIAS BEM BRASIL LTDA - ME / 18.360.599/0001-30
+
+25351.206451/2014-11 / 7164204
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3588590204
+
+--------------------------------------
+
+ORGANIZAÇÃO FARMACÊUTICA NAKANO LTDA. / 03.123.210/0028-85
+
+25351.617029/2018-11 / 7608343
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3570365202
+
+--------------------------------------
+
+DROGARIA MAINARDI MOTA LTDA - ME / 01.292.672/0001-80
+
+25351.290907/2014-13 / 7186469
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 3588578205
+
+--------------------------------------
+
+DROGARIA NOVA CANTEIRO LTDA / 06.263.365/0001-95
+
+25351.619183/2013-13 / 7001429
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2214232201
+
+--------------------------------------
+
+JESSICA SIMAO VILELA EIRELI - ME / 07.057.431/0001-33
+
+25351.598652/2014-26 / 7299351
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 3588574202
+
+--------------------------------------
+
+ISAFARMA FARMACIA LTDA / 06.112.947/0001-70
+
+25351.622066/2013-29 / 7020289
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 3623491205
+
+--------------------------------------
+
+DROGARIA BARBOSA DOS SANTOS SILVA LTDA - ME / 12.980.938/0001-02
+
+25351.811334/2010-32 / 0729220
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 3588568208
+
+25351.811334/2010-32 / 0729220
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3588594207
+
+--------------------------------------
+
+fundação semmelweis / 05.486.268/0002-80
+
+25351.083554/2008-41 / 0532285
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3588592201
+
+--------------------------------------
+
+CINEGAGLIA DROGARIA & PARTICIPACOES LTDA / 31.139.606/0001-36
+
+25351.724738/2018-44 / 7618228
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 3588576209
+
+--------------------------------------
+
+DROGARIA E FARMÁCIA DO POVÃO LTDA / 23.846.712/0002-02
+
+25351.277075/2019-46 / 7653382
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3583928207
+
+--------------------------------------
+
+BALBINOT E NASCIMENTO FARMACIA LTDA ME / 27.963.445/0001-23
+
+25351.123822/2018-46 / 7573542
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3588596203
+
+--------------------------------------
+
+INOVAR EMPREENDIMENTOS FARMACEUTICOS PRECOS POPULARES LTDA / 33.982.613/0001-20
+
+25351.678872/2019-47 / 7694548
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 3623493201
+
+--------------------------------------
+
+CARREIRO & DUTRA LTDA / 12.161.560/0001-07
+
+25351.136072/2014-49 / 7122438
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 3588584200
+
+--------------------------------------
+
+DAVI DA SILVA LIMA SILVESTRE / 36.653.980/0001-79
+
+25351.555418/2020-52 / 7729461
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 3588582203
+
+-------------------------------------
+
+FARMACIA MARIA EDUARDA LTDA / 14.672.868/0001-42
+
+25351.063715/2012-66 / 0827425
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 3623487207
+
+25351.063715/2012-66 / 0827425
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3726490207
+
+--------------------------------------
+
+DROGARIA YPU DE NOVA FRIBURGO LTDA / 28.363.017/0001-22
+
+25351.605454/2017-79 / 7551228
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 3588570200
+
+--------------------------------------
+
+T BATISTA AZEVEDO EIRELI - ME / 18.433.889/0001-66
+
+25351.488893/2013-87 / 0996392
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3349899207
+
+--------------------------------------
+
+FLAVIA TERESA DREZZA LTDA UNIPESSOAL / 10.521.705/0001-08
+
+25351.625145/2013-91 / 7028018
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 3072921201

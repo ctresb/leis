@@ -1,0 +1,32 @@
+---
+titulo: "PORTARIA Nº 156, DE 01 DE OUTUBRO DE 2018"
+orgao: "Ministério dos Transportes, Portos e Aviação Civil/Agência Nacional de Transportes Terrestres/Superintendência de Serviços de Transportes de Passageiros"
+tipo: "Portaria"
+numero: "156"
+data: 2018-10-01
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 08/10/2018, seção 1, p. 111"
+data_publicacao: 2018-10-08
+edicao: "194"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-156-de-01-de-outubro-de-2018-44305183"
+sha256_html_fonte: 2811bce60c014d117a1c1374782dc591195babd408bd746cd320f71ef9cc0efc
+baixado_em: 2026-10-27
+---
+# PORTARIA Nº 156, DE 01 DE OUTUBRO DE 2018
+
+PORTARIA Nº 156, DE 01 DE OUTUBRO DE 2018
+
+O Superintendente de Serviços de Transportes de Passageiros, no uso de suas atribuições, previstas no art. 40 da Resolução nº 5810, de 03 de maio de 2018, fundamentado no que dispõe o art. 6 da Resolução nº 4.998, de 13 de janeiro de 2016 e no que consta do processo n° 50501.321473/2018-11;
+
+Considerando os prazos estabelecidos no art. 3º, inciso I, da Resolução n° 4.998/2016 para autorização de utilização de veículo de terceiros, resolve:
+
+**Art. 1º** Autorizar a empresa AUTO VIAÇÃO CATARINENSE LTDA., CNPJ 82.647.884/0001-35, a utilizar os veículos constantes da tabela subsequente, no período de 11 a 15 de outubro de 2018, nas operações de todas as linhas interestaduais ativas sob sua responsabilidade, bem como, caso necessário, a utilização dos motoristas das empresas cedentes:
+
+<table><tr></tr><tr><td><p>Autorizatária: LEFATUR VIAGENS E TURISMO LTDA - ME</p><p>CNPJ: 01.272.874/0001-60</p></td></tr><tr><td><p>Veículos: ELF-2040, FLF-2060, DEU-4080, AOH-7783 e ATD-4226</p></td></tr></table>
+
+**Art. 2º** O porte de cópia da Portaria no veículo é obrigatório, quando da operação das linhas.
+
+**Art. 3º** Esta Portaria entra em vigor na data de sua publicação.
+
+JOÃO PAULO DE SOUZA

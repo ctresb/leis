@@ -1,0 +1,30 @@
+---
+titulo: "PORTARIA Nº 15, DE 7 DE JANEIRO DE 2015"
+orgao: "Ministério da Agricultura, Pecuária e Abastecimento/SUPERINTENDÊNCIA FEDERAL NO ESTADO DO PA R A N Á"
+tipo: "Portaria"
+numero: "15"
+data: 2015-01-07
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 13/01/2015, seção 1, p. 8"
+data_publicacao: 2015-01-13
+edicao: "8"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-15-de-7-de-janeiro-de-2015-32105410"
+sha256_html_fonte: 993523cd1bcdc7f523271608bbfeeaa438a77719911a19e9e5ba8bfdf3d57a53
+baixado_em: 2026-10-28
+---
+# PORTARIA Nº 15, DE 7 DE JANEIRO DE 2015
+
+PORTARIA Nº 15, DE 7 DE JANEIRO DE 2015
+
+O SUPERINTENDENTE FEDERAL DE AGRICULTURANO PARANÁ, no uso das atribuições contidas no art. 44 do RegimentoInterno das Superintendências Federais de Agricultura, aprovadopela Portaria Ministerial nº 428, de 09/06/10, e tendo em vistao disposto no art. 25 da Instrução Normativa nº 36, de 24 de novembrode 2009, alterada pela Instrução Normativa nº 42 de 05 dedezembro de 2011, na Lei nº 7.802 de 11 de julho de 1989, noDecreto nº 4.074 de 4 de janeiro de 2002 e o que consta no Processonº 21000.011124/2002-61, resolve:
+
+**Art.1°** O escopo de atuação no credenciamento da empresaMonsanto do Brasil Ltda junto ao Ministério da Agricultura, Pecuáriae Abastecimento, que foi efetivado por meio da Portaria nº 26, de15/05/2003, publicada no Diário Oficial da União em 16/05/2003, queera de "proceder pesquisas e ensaios experimentais de eficácia epraticabilidade agronômica de agrotóxicos , com finalidade fitossanitária",passa a ser "realizar pesquisa e experimentação com agrotóxicose afins, objetivando a emissão de laudos de eficiência epraticabilidade agronômica, de fitotoxicidade e de resíduos, para finsde registro", permanecendo iguais as demais informações.
+
+**Art. 2°** Esta Portaria entra em vigor na data de sua publicação.
+
+GIL BUENO DE MAGALHÃES
+
+GIL BUENO DE MAGALHÃES
+
+Este conteúdo não substitui o publicado na versão certificada.

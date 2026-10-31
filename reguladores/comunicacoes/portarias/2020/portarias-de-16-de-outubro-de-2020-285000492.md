@@ -1,0 +1,26 @@
+---
+titulo: "PORTARIAS DE 16 DE OUTUBRO DE 2020"
+orgao: "Ministério das Comunicações/Secretaria de Radiodifusão/Departamento de Inovação, Regulamentação e Fiscalização"
+tipo: "Portaria"
+numero: ""
+data: ""
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 27/10/2020, seção 1, p. 21"
+data_publicacao: 2020-10-27
+edicao: "206"
+fonte: "https://www.in.gov.br/web/dou/-/portarias-de-16-de-outubro-de-2020-285000492"
+sha256_html_fonte: d8c5adad6f0e5221351b56a0369364f7267b1aeae56f55060605855ae6cfeacd
+baixado_em: 2026-10-21
+---
+# PORTARIAS DE 16 DE OUTUBRO DE 2020
+
+PORTARIAS DE 16 DE OUTUBRO DE 2020
+
+O DIRETOR DO DEPARTAMENTO DE INOVAÇÃO, REGULAMENTAÇÃO E FISCALIZAÇÃO, no uso de suas atribuições, observados os critérios e parâmetros estabelecidos pelas Portarias n° 112, de 22 de abril de 2013, e/ou n° 294, de 30 de janeiro de 2015 e/ou n° 562, de 22 de dezembro de 2011 e/ou n° 353, de 19 de janeiro de 2018, e tendo em vista o que consta no processo abaixo, resolve:
+
+**Art. 1º** Aplicar às Entidades, abaixo relacionadas, a penalidade de multa.
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>N° do Processo</p></td>      <td rowspan="1" colspan="1"><p>Entidade</p></td>      <td rowspan="1" colspan="1"><p>Serviço</p></td>      <td rowspan="1" colspan="1"><p>Município</p></td>      <td rowspan="1" colspan="1"><p>UF</p></td>      <td rowspan="1" colspan="1"><p>Sanção</p></td>      <td rowspan="1" colspan="1"><p>Valor (R$)</p></td>      <td rowspan="1" colspan="1"><p>Enquadramento Legal</p></td>      <td rowspan="1" colspan="1"><p>Portaria</p></td>      <td rowspan="1" colspan="1"><p>Embasamento da Portaria de Multa</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>53900.012809/2014</p></td>      <td rowspan="1" colspan="1"><p>Fundação Educativa Cultural De Pacatuba</p></td>      <td rowspan="1" colspan="1"><p>RADCOM</p></td>      <td rowspan="1" colspan="1"><p>Pacatuba</p></td>      <td rowspan="1" colspan="1"><p>CE</p></td>      <td rowspan="1" colspan="1"><p>Multa</p></td>      <td rowspan="1" colspan="1"><p>1.448,18</p></td>      <td rowspan="1" colspan="1"><p>Art. 40, XXIX do Decreto n° 2.615/98</p></td>      <td rowspan="1" colspan="1"><p>Portaria DECEF n° 109 de 16/10/2020</p></td>      <td rowspan="1" colspan="1"><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 294/2015</p><p>Portaria MC n° 562/2011</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>53000.012269/2014</p></td>      <td rowspan="1" colspan="1"><p>Fundação Quilombo</p></td>      <td rowspan="1" colspan="1"><p>FME</p></td>      <td rowspan="1" colspan="1"><p>União dos Palmares</p></td>      <td rowspan="1" colspan="1"><p>AL</p></td>      <td rowspan="1" colspan="1"><p>Multa</p></td>      <td rowspan="1" colspan="1"><p>1.285,12</p></td>      <td rowspan="1" colspan="1"><p>Art. 3º, da Portaria Interministerial nº 651/99</p></td>      <td rowspan="1" colspan="1"><p>Portaria DECEF n° 122 de 16/10/2020</p></td>      <td rowspan="1" colspan="1"><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>53900.060887/2015</p></td>      <td rowspan="1" colspan="1"><p>Associação Comunitária Alto Da Lagoa</p></td>      <td rowspan="1" colspan="1"><p>RADCOM</p></td>      <td rowspan="1" colspan="1"><p>Pintadas</p></td>      <td rowspan="1" colspan="1"><p>BA</p></td>      <td rowspan="1" colspan="1"><p>Multa</p></td>      <td rowspan="1" colspan="1"><p>1.068,64</p></td>      <td rowspan="1" colspan="1"><p>Art. 40, XXIX do Decreto n° 2.615/98</p></td>      <td rowspan="1" colspan="1"><p>Portaria DECEF n° 160 de 16/10/2020</p></td>      <td rowspan="1" colspan="1"><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 294/2015</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>01250.031800/2019</p></td>      <td rowspan="1" colspan="1"><p>Fundação Sara Nossa Terra</p></td>      <td rowspan="1" colspan="1"><p>FME</p></td>      <td rowspan="1" colspan="1"><p>Itaguaí</p></td>      <td rowspan="1" colspan="1"><p>RJ</p></td>      <td rowspan="1" colspan="1"><p>Multa</p></td>      <td rowspan="1" colspan="1"><p>1.774,32</p></td>      <td rowspan="1" colspan="1"><p>Art. 6º, da Portaria Interministerial nº 651/99.</p></td>      <td rowspan="1" colspan="1"><p>Portaria DECEF n° 161 de 16/10/2020</p></td>      <td rowspan="1" colspan="1"><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 353/2018</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>53900.060711/2015</p></td>      <td rowspan="1" colspan="1"><p>Associação Comunitária De Radiodifusão Educativa De Biquinhas</p></td>      <td rowspan="1" colspan="1"><p>RADCOM</p></td>      <td rowspan="1" colspan="1"><p>Biquinhas</p></td>      <td rowspan="1" colspan="1"><p>MG</p></td>      <td rowspan="1" colspan="1"><p>Multa</p></td>      <td rowspan="1" colspan="1"><p>1.068,64</p></td>      <td rowspan="1" colspan="1"><p>Art. 40, XXIX do Decreto n° 2.615/98.</p></td>      <td rowspan="1" colspan="1"><p>Portaria DECEF n° 162 de 16/10/2020</p></td>      <td rowspan="1" colspan="1"><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 294/2015</p></td>     </tr>    </tbody>   </table>
+
+RODRIGO CRUZ GEBRIM

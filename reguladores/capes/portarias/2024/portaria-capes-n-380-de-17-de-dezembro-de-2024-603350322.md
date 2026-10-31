@@ -1,0 +1,28 @@
+---
+titulo: "PORTARIA CAPES Nº 380, DE 17 DE DEZEMBRO DE 2024"
+orgao: "Ministério da Educação/Fundação Coordenação de Aperfeiçoamento de Pessoal de Nível Superior"
+tipo: "Portaria"
+numero: "380"
+data: 2024-12-17
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 23/12/2024, seção 1, p. 81"
+data_publicacao: 2024-12-23
+edicao: "246"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-capes-n-380-de-17-de-dezembro-de-2024-603350322"
+sha256_html_fonte: 4b71b5f9df6397dba4e9051ac8d8a7257337e18d03e76460a0d247c575da793a
+baixado_em: 2026-10-16
+---
+# PORTARIA CAPES Nº 380, DE 17 DE DEZEMBRO DE 2024
+
+PORTARIA CAPES Nº 380, DE 17 DE DEZEMBRO DE 2024
+
+Estabelece a mudança de área de avaliação de programas de pós-graduação stricto sensu.
+
+A PRESIDENTE DA COORDENAÇÃO DE APERFEIÇOAMENTO DE PESSOAL DE NÍVEL SUPERIOR - CAPES, no uso das atribuições que lhe foram conferidas pelo Estatuto aprovado pelo Decreto nº 11.238, de 18 de outubro de 2022, pela Resolução CNE/CES nº 4, de 16 de novembro de 2022, e considerando o disposto no processo nº 23038.009599/2024-09, resolve:
+
+**Art. 1º** Publicar a mudança de área de avaliação dos programas de pós-graduação stricto sensu abaixo listados, de acordo com as solicitações realizadas pelas respectivas instituições e aprovadas pelas áreas de avaliação em conformidade com a Portaria Capes nº 187, de 24 de junho de 2024, Calendário 2/2024:
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>Sigla da IES</p></td>      <td rowspan="1" colspan="1"><p>Nome da IES</p></td>      <td rowspan="1" colspan="1"><p>Código do Programa</p></td>      <td rowspan="1" colspan="1"><p>Nome do Programa</p></td>      <td rowspan="1" colspan="1"><p>Modalidade</p></td>      <td rowspan="1" colspan="1"><p>Nível</p></td>      <td rowspan="1" colspan="1"><p>Área de Avaliação de Origem</p></td>      <td rowspan="1" colspan="1"><p>Área de Avaliação de Destino</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>USP</p></td>      <td rowspan="1" colspan="1"><p>UNIVERSIDADE DE SÃO PAULO</p></td>      <td rowspan="1" colspan="1"><p>33002010235P7</p></td>      <td rowspan="1" colspan="1"><p>GESTÃO E INOVAÇÃO NA INDÚSTRIA ANIMAL</p></td>      <td rowspan="1" colspan="1"><p>PROFISSIONAL</p></td>      <td rowspan="1" colspan="1"><p>MP</p></td>      <td rowspan="1" colspan="1"><p>ADMINISTRAÇÃO PÚBLICA E DE EMPRESAS, CIÊNCIAS CONTÁBEIS E TURISMO</p></td>      <td rowspan="1" colspan="1"><p>MEDICINA VETERINÁRIA</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>UNICEUMA</p></td>      <td rowspan="1" colspan="1"><p>UNIVERSIDADE CEUMA</p></td>      <td rowspan="1" colspan="1"><p>20009011041P6</p></td>      <td rowspan="1" colspan="1"><p>BIOCIÊNCIAS APLICADAS À SAÚDE</p></td>      <td rowspan="1" colspan="1"><p>ACADÊMICO</p></td>      <td rowspan="1" colspan="1"><p>ME</p></td>      <td rowspan="1" colspan="1"><p>CIÊNCIAS BIOLÓGICAS III</p></td>      <td rowspan="1" colspan="1"><p>INTERDISCIPLINAR</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>UNITAU</p></td>      <td rowspan="1" colspan="1"><p>UNIVERSIDADE DE TAUBATÉ</p></td>      <td rowspan="1" colspan="1"><p>33021015008P8</p></td>      <td rowspan="1" colspan="1"><p>GESTÃO E DESENVOLVIMENTO REGIONAL</p></td>      <td rowspan="1" colspan="1"><p>PROFISSIONAL</p></td>      <td rowspan="1" colspan="1"><p>MP</p></td>      <td rowspan="1" colspan="1"><p>INTERDISCIPLINAR</p></td>      <td rowspan="1" colspan="1"><p>PLANEJAMENTO URBANO E REGIONAL / DEMOGRAFIA</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>UNICAMP-LIMEIRA</p></td>      <td rowspan="1" colspan="1"><p>UNIVERSIDADE ESTADUAL DE CAMPINAS - CAMPUS LIMEIRA</p></td>      <td rowspan="1" colspan="1"><p>33003025004P7</p></td>      <td rowspan="1" colspan="1"><p>INTERDISCIPLINAR EM CIÊNCIAS HUMANAS E SOCIAIS APLICADAS</p></td>      <td rowspan="1" colspan="1"><p>ACADÊMICO</p></td>      <td rowspan="1" colspan="1"><p>ME</p></td>      <td rowspan="1" colspan="1"><p>INTERDISCIPLINAR</p></td>      <td rowspan="1" colspan="1"><p>PLANEJAMENTO URBANO E REGIONAL / DEMOGRAFIA</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>UFSC</p></td>      <td rowspan="1" colspan="1"><p>UNIVERSIDADE FEDERAL DE SANTA CATARINA</p></td>      <td rowspan="1" colspan="1"><p>41001010035P8</p></td>      <td rowspan="1" colspan="1"><p>BIOTECNOLOGIA E BIOCIÊNCIAS</p></td>      <td rowspan="1" colspan="1"><p>ACADÊMICO</p></td>      <td rowspan="1" colspan="1"><p>ME/DO</p></td>      <td rowspan="1" colspan="1"><p>BIOTECNOLOGIA</p></td>      <td rowspan="1" colspan="1"><p>CIÊNCIAS BIOLÓGICAS III</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>UTFPR</p></td>      <td rowspan="1" colspan="1"><p>UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ</p></td>      <td rowspan="1" colspan="1"><p>40006018018P1</p></td>      <td rowspan="1" colspan="1"><p>ENGENHARIA BIOMÉDICA</p></td>      <td rowspan="1" colspan="1"><p>PROFISSIONAL</p></td>      <td rowspan="1" colspan="1"><p>MP</p></td>      <td rowspan="1" colspan="1"><p>ENGENHARIAS IV</p></td>      <td rowspan="1" colspan="1"><p>INTERDISCIPLINAR</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>UNINTA</p></td>      <td rowspan="1" colspan="1"><p>CENTRO UNIVERSITÁRIO INTA</p></td>      <td rowspan="1" colspan="1"><p>22021019001P2</p></td>      <td rowspan="1" colspan="1"><p>BIOTECNOLOGIA</p></td>      <td rowspan="1" colspan="1"><p>ACADÊMICO</p></td>      <td rowspan="1" colspan="1"><p>ME</p></td>      <td rowspan="1" colspan="1"><p>BIOTECNOLOGIA</p></td>      <td rowspan="1" colspan="1"><p>MEDICINA II</p></td>     </tr>    </tbody>   </table>
+
+DENISE PIRES DE CARVALHO

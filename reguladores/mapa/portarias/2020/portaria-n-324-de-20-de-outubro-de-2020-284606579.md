@@ -1,0 +1,106 @@
+---
+titulo: "PORTARIA Nº 324, DE 20 DE OUTUBRO DE 2020"
+orgao: "Ministério da Agricultura, Pecuária e Abastecimento/Secretaria de Política Agrícola"
+tipo: "Portaria"
+numero: "324"
+data: 2020-10-20
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 23/10/2020, seção 1, p. 159"
+data_publicacao: 2020-10-23
+edicao: "204"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-324-de-20-de-outubro-de-2020-284606579"
+sha256_html_fonte: 3248cf100ecf4434d307eacb9fb6494ec124e5bc2b9ea0671f189e75952698ed
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 324, DE 20 DE OUTUBRO DE 2020
+
+PORTARIA Nº 324, DE 20 DE OUTUBRO DE 2020
+
+O SECRETÁRIO DE POLÍTICA AGRÍCOLA, no uso de suas atribuições e competências estabelecidas pelo Decreto nº 10.253, de 20 de fevereiro de 2020, e observado, no que couber, o contido no Decreto nº 9.841 de 18 de junho de 2019 e nas Instruções Normativas nº 2, de 9 de outubro de 2008, publicada no Diário Oficial da União de 13 de outubro de 2008, da Secretaria de Política Agrícola, e nº 16, de 9 de abril de 2018, publicada no Diário Oficial da União de 12 de abril de 2018, do Ministério da Agricultura, Pecuária e Abastecimento, resolve:
+
+**Art. 1º.** Revogar a Portaria nº 201 de 03 de setembro de 2012, publicada no Diário Oficial da União de 04 de setembro de 2012.
+
+**Art. 2º.** Aprovar o Zoneamento Agrícola de Risco Climático para a cultura do milheto no Distrito Federal conforme anexo.
+
+**Art. 3º.** Esta Portaria entra em vigor na data de sua publicação.
+
+CÉSAR HANNA HALUM
+
+## ANEXO
+
+1\. NOTA TÉCNICA
+
+O milheto (Pennisetum glaucum (L.) R. Br.) é uma gramínea anual de clima tropical, de hábito ereto e de porte alto, com desenvolvimento uniforme e bom perfilhamento. É uma planta rústica, com grande resistência à seca.
+
+A planta adapta-se bem às altas temperaturas das regiões tropicais sendo capaz de vegetar em regiões com precipitações anuais inferiores a 400 mm. Embora apresente ganhos significativos de produtividade em solos férteis e boa disponibilidade hídrica, o milheto se adapta em solos pobres, com crescimento superior a outros cereais nas mesmas condições. Apresenta também alta capacidade de adaptação a solos com elevados níveis de Al3+e solos salinos.
+
+No Brasil o cultivo do milheto tem sido feito principalmente para a produção de palhada para a cobertura dos solos, em lavouras que utilizam o sistema de plantio direto, e para fins de forragem animal.
+
+O milheto também pode ser utilizado na recuperação de pastagens e na integração lavoura x pecuária.
+
+Os fatores climáticos que influenciam o desenvolvimento, a produção e a produtividade da cultura são: a temperatura, o fotoperíodo e a precipitação pluviométrica.
+
+O milheto adapta-se bem a vários tipos de solos, apresentando ótimas produtividades em solos de média a boa fertilidade, não tolerando solos excessivamente úmidos.
+
+O milheto é uma excelente opção para a produção de palhada, chegando a produzir, dentro de 30-40 dias, 50 toneladas de massa verde. Uma de suas vantagens é a baixa exigência hídrica: 300 gramas de água para cada grama de matéria seca enquanto o milho necessita de 370 gramas e o sorgo de 321 gramas de água. A alta relação C/N permite uma maior durabilidade da palhada com o prolongamento do período de proteção do solo. O sistema radicular profundo propicia uma maior reciclagem dos nutrientes lixiviados por percolação da água.
+
+Objetivou-se, com o Zoneamento Agrícola de Risco Climático, identificar o período de semeadura no Distrito Federal, para o cultivo do milheto em três níveis de risco: 20%, 30%, 40%.
+
+Essa identificação foi realizada com a aplicação de um modelo de balanço hídrico da cultura. Neste modelo são consideradas as exigências hídrica e térmica, duração do ciclo, das fases fenológicas e da reserva útil de água dos solos para cultivo desta espécie, bem como dados de precipitação pluviométrica e evapotranspiração de referência de séries com, no mínimo, 15 anos de dados diários registrados em 3.750 estações pluviométricas selecionadas no país.
+
+Por se tratar de um modelo agroclimático, parte-se do pressuposto que não ocorrerão limitações quanto à fertilidade dos solos e danos às plantas devido à ocorrência de pragas e doenças.
+
+Para delimitação das áreas aptas ao cultivo do milheto em condições de baixo risco, foram adotados os seguintes parâmetros e variáveis:
+
+I. Temperatura: Foram restringidos os decêndios com temperaturas mínimas médias abaixo de 13 °C e temperaturas máximas acima de 38 °C.
+
+Considerou-se o risco de ocorrência de geadas por meio da probabilidade de ocorrência de valores de temperaturas mínimas menores a 2 °C observadas no abrigo meteorológico.
+
+II. Ciclo e Fases fenológicas: O ciclo do milheto foi dividido em 4 fases, sendo elas: Fase I - Germinação e Emergência; Fase II - Crescimento e Desenvolvimento; Fase III - Florescimento e Enchimento de Grãos e Fase IV - Maturação. As cultivares de milheto foram classificadas em três grupos de características homogêneas: Grupo I (90 - 110 dias); Grupo II (111 dias£n£135 dias); e Grupo III (n>135 dias), onde n expressa o número de dias da emergência à maturação fisiológica.
+
+Obs: A colheita de grãos deve ser realizada tão logo o grão atinja o ponto de colheita com umidade adequada para essa operação.
+
+III. Capacidade de Água Disponível (CAD): Foi estimada em função da profundidade efetiva das raízes e da reserva útil de água dos solos. Foram considerados os solos Tipo 1 (textura arenosa), Tipo 2 (textura média), Tipo 3 (textura argilosa), com capacidade de armazenamento de 39 mm, 72 mm e 98 mm, respectivamente, e uma profundidade efetiva média do sistema radicular de 55 cm para o solos Tipo 1 e 65 cm para os solos Tipo 2 e 3.
+
+IV. Índice de Satisfação das Necessidades de Água (ISNA):Foi considerado um ISNA ³ 0,6 na Fase I - germinação e estabelecimento da cultura e ISNA³0, 45 na Fase III - florescimento e enchimento de grão.
+
+Considerou-se apto para o cultivo do milheto o Distrito Federal por apresentar, em no mínimo 20% de sua área, condições climáticas dentro dos critérios considerados.
+
+Por se tratar de um modelo agroclimático, mesmo em se tratando de um estudo técnico científico de eficácia comprovada, é necessário que o agricultor faça uma consulta aos órgãos de pesquisa/extensão rural no Distrito Federal, assim como o acompanhamento de um técnico agrícola ou agrônomo na implantação da lavoura, para se certificar de estar seguindo as práticas agronômicas mais adequadas ao cultivo do milheto.
+
+2\. TIPOS DE SOLOS APTOS AO CULTIVO
+
+São aptos ao cultivo do milheto no Distrito Federal, os solos dos tipos 1, 2 e 3, observadas as especificações e recomendações contidas na Instrução Normativa nº 2, de 9 de outubro de 2008.
+
+Não são indicadas para o cultivo:
+
+\- áreas de preservação permanente, de acordo com a Lei 12.651, de 25 de maio de 2012;
+
+\- áreas com solos que apresentam profundidade inferior a 0,5m ou com solos de ocorrência em várzeas inundadas com baixa capacidade de drenagem, ou ainda muito pedregosos, isto é, solos nos quais calhaus e matacões ocupem mais de 15% da massa e/ou da superfície do terreno.
+
+3\. TABELA DE PERÍODOS DE PLANTIO
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>Períodos</p></td>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>2</p></td>      <td rowspan="1" colspan="1"><p>3</p></td>      <td rowspan="1" colspan="1"><p>4</p></td>      <td rowspan="1" colspan="1"><p>5</p></td>      <td rowspan="1" colspan="1"><p>6</p></td>      <td rowspan="1" colspan="1"><p>7</p></td>      <td rowspan="1" colspan="1"><p>8</p></td>      <td rowspan="1" colspan="1"><p>9</p></td>      <td rowspan="1" colspan="1"><p>10</p></td>      <td rowspan="1" colspan="1"><p>11</p></td>      <td rowspan="1" colspan="1"><p>12</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Datas</p></td>      <td rowspan="1" colspan="1"><p>1º</p><p>a</p><p>10</p></td>      <td rowspan="1" colspan="1"><p>11</p><p>a</p><p>20</p></td>      <td rowspan="1" colspan="1"><p>21</p><p>a</p><p>31</p></td>      <td rowspan="1" colspan="1"><p>1º</p><p>a</p><p>10</p></td>      <td rowspan="1" colspan="1"><p>11</p><p>a</p><p>20</p></td>      <td rowspan="1" colspan="1"><p>21</p><p>a</p><p>28</p></td>      <td rowspan="1" colspan="1"><p>1º</p><p>a</p><p>10</p></td>      <td rowspan="1" colspan="1"><p>11</p><p>a</p><p>20</p></td>      <td rowspan="1" colspan="1"><p>21</p><p>a</p><p>31</p></td>      <td rowspan="1" colspan="1"><p>1º</p><p>a</p><p>10</p></td>      <td rowspan="1" colspan="1"><p>11</p><p>a</p><p>20</p></td>      <td rowspan="1" colspan="1"><p>21</p><p>a</p><p>30</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Meses</p></td>      <td rowspan="1" colspan="3"><p>Janeiro</p></td>      <td rowspan="1" colspan="3"><p>Fevereiro</p></td>      <td rowspan="1" colspan="3"><p>Março</p></td>      <td rowspan="1" colspan="3"><p>Abril</p></td>     </tr>    </tbody>   </table>
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>Períodos</p></td>      <td rowspan="1" colspan="1"><p>13</p></td>      <td rowspan="1" colspan="1"><p>14</p></td>      <td rowspan="1" colspan="1"><p>15</p></td>      <td rowspan="1" colspan="1"><p>16</p></td>      <td rowspan="1" colspan="1"><p>17</p></td>      <td rowspan="1" colspan="1"><p>18</p></td>      <td rowspan="1" colspan="1"><p>19</p></td>      <td rowspan="1" colspan="1"><p>20</p></td>      <td rowspan="1" colspan="1"><p>21</p></td>      <td rowspan="1" colspan="1"><p>22</p></td>      <td rowspan="1" colspan="1"><p>23</p></td>      <td rowspan="1" colspan="1"><p>24</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Datas</p></td>      <td rowspan="1" colspan="1"><p>1º</p><p>a</p><p>10</p></td>      <td rowspan="1" colspan="1"><p>11</p><p>a</p><p>20</p></td>      <td rowspan="1" colspan="1"><p>21</p><p>a</p><p>31</p></td>      <td rowspan="1" colspan="1"><p>1º</p><p>a</p><p>10</p></td>      <td rowspan="1" colspan="1"><p>11</p><p>a</p><p>20</p></td>      <td rowspan="1" colspan="1"><p>21</p><p>a</p><p>30</p></td>      <td rowspan="1" colspan="1"><p>1º</p><p>a</p><p>10</p></td>      <td rowspan="1" colspan="1"><p>11</p><p>a</p><p>20</p></td>      <td rowspan="1" colspan="1"><p>21</p><p>a</p><p>31</p></td>      <td rowspan="1" colspan="1"><p>1º</p><p>a</p><p>10</p></td>      <td rowspan="1" colspan="1"><p>11</p><p>a</p><p>20</p></td>      <td rowspan="1" colspan="1"><p>21</p><p>a</p><p>31</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Meses</p></td>      <td rowspan="1" colspan="3"><p>Maio</p></td>      <td rowspan="1" colspan="3"><p>Junho</p></td>      <td rowspan="1" colspan="3"><p>Julho</p></td>      <td rowspan="1" colspan="3"><p>Agosto</p></td>     </tr>    </tbody>   </table>
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>Períodos</p></td>      <td rowspan="1" colspan="1"><p>25</p></td>      <td rowspan="1" colspan="1"><p>26</p></td>      <td rowspan="1" colspan="1"><p>27</p></td>      <td rowspan="1" colspan="1"><p>28</p></td>      <td rowspan="1" colspan="1"><p>29</p></td>      <td rowspan="1" colspan="1"><p>30</p></td>      <td rowspan="1" colspan="1"><p>31</p></td>      <td rowspan="1" colspan="1"><p>32</p></td>      <td rowspan="1" colspan="1"><p>33</p></td>      <td rowspan="1" colspan="1"><p>34</p></td>      <td rowspan="1" colspan="1"><p>35</p></td>      <td rowspan="1" colspan="1"><p>36</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Datas</p></td>      <td rowspan="1" colspan="1"><p>1º</p><p>a</p><p>10</p></td>      <td rowspan="1" colspan="1"><p>11</p><p>a</p><p>20</p></td>      <td rowspan="1" colspan="1"><p>21</p><p>a</p><p>30</p></td>      <td rowspan="1" colspan="1"><p>1º</p><p>a</p><p>10</p></td>      <td rowspan="1" colspan="1"><p>11</p><p>a</p><p>20</p></td>      <td rowspan="1" colspan="1"><p>21</p><p>a</p><p>31</p></td>      <td rowspan="1" colspan="1"><p>1º</p><p>a</p><p>10</p></td>      <td rowspan="1" colspan="1"><p>11</p><p>a</p><p>20</p></td>      <td rowspan="1" colspan="1"><p>21</p><p>a</p><p>30</p></td>      <td rowspan="1" colspan="1"><p>1º</p><p>a</p><p>10</p></td>      <td rowspan="1" colspan="1"><p>11</p><p>a</p><p>20</p></td>      <td rowspan="1" colspan="1"><p>21</p><p>a</p><p>31</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Meses</p></td>      <td rowspan="1" colspan="3"><p>Setembro</p></td>      <td rowspan="1" colspan="3"><p>Outubro</p></td>      <td rowspan="1" colspan="3"><p>Novembro</p></td>      <td rowspan="1" colspan="3"><p>Dezembro</p></td>     </tr>    </tbody>   </table>
+
+4\. CULTIVARES INDICADAS
+
+Ficam indicadas no Zoneamento Agrícola de Risco Climático, as cultivares de milheto registradas no Registro Nacional de Cultivares (RNC) do Ministério da Agricultura, Pecuária e Abastecimento, atendidas as indicações das regiões de adaptação, em conformidade com as recomendações dos respectivos obtentores/mantenedores.
+
+Notas:
+
+1\. Informações específicas sobre as cultivares indicadas devem ser obtidas junto aos respectivos obtentores/mantenedores.
+
+2\. Devem ser utilizadas no plantio sementes produzidas em conformidade com a legislação brasileira sobre sementes e mudas (Lei nº 10.711, de 5 de agosto de 2003, e Decreto nº 5.153, de 23 de agosto de 2004).
+
+5\. PERÍODOS INDICADOS PARA SEMEADURA
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="9"><p>PERÍODOS DE SEMEADURAS PARA CULTIVARES DO GRUPO I</p></td>     </tr>     <tr>      <td rowspan="1" colspan="3"><p>SOLO 1</p></td>      <td rowspan="1" colspan="3"><p>SOLO 2</p></td>      <td rowspan="1" colspan="3"><p>SOLO 3</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>RISCO DE 20%</p></td>      <td rowspan="1" colspan="1"><p>RISCO DE 30%</p></td>      <td rowspan="1" colspan="1"><p>RISCO DE 40%</p></td>      <td rowspan="1" colspan="1"><p>RISCO DE 20%</p></td>      <td rowspan="1" colspan="1"><p>RISCO DE 30%</p></td>      <td rowspan="1" colspan="1"><p>RISCO DE 40%</p></td>      <td rowspan="1" colspan="1"><p>RISCO DE 20%</p></td>      <td rowspan="1" colspan="1"><p>RISCO DE 30%</p></td>      <td rowspan="1" colspan="1"><p>RISCO DE 40%</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>31 a 6</p></td>      <td rowspan="1" colspan="1"><p>29 a 30</p></td>      <td rowspan="1" colspan="1"><p>28 + 7</p></td>      <td rowspan="1" colspan="1"><p>31 a 8</p></td>      <td rowspan="1" colspan="1"><p>29 a 30</p></td>      <td rowspan="1" colspan="1"><p>28 + 9</p></td>      <td rowspan="1" colspan="1"><p>31 a 9</p></td>      <td rowspan="1" colspan="1"><p>29 a 30 + 10</p></td>      <td rowspan="1" colspan="1"><p>28</p></td>     </tr>    </tbody>   </table>
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="9"><p>PERÍODOS DE SEMEADURAS PARA CULTIVARES DO GRUPO II</p></td>     </tr>     <tr>      <td rowspan="1" colspan="3"><p>SOLO 1</p></td>      <td rowspan="1" colspan="3"><p>SOLO 2</p></td>      <td rowspan="1" colspan="3"><p>SOLO 3</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>RISCO DE 20%</p></td>      <td rowspan="1" colspan="1"><p>RISCO DE 30%</p></td>      <td rowspan="1" colspan="1"><p>RISCO DE 40%</p></td>      <td rowspan="1" colspan="1"><p>RISCO DE 20%</p></td>      <td rowspan="1" colspan="1"><p>RISCO DE 30%</p></td>      <td rowspan="1" colspan="1"><p>RISCO DE 40%</p></td>      <td rowspan="1" colspan="1"><p>RISCO DE 20%</p></td>      <td rowspan="1" colspan="1"><p>RISCO DE 30%</p></td>      <td rowspan="1" colspan="1"><p>RISCO DE 40%</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>31 a 5</p></td>      <td rowspan="1" colspan="1"><p>29 a 30</p></td>      <td rowspan="1" colspan="1"><p>28 + 6</p></td>      <td rowspan="1" colspan="1"><p>29 a 7</p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p>28</p></td>      <td rowspan="1" colspan="1"><p>29 a 8</p></td>      <td rowspan="1" colspan="1"><p>9</p></td>      <td rowspan="1" colspan="1"><p>28</p></td>     </tr>    </tbody>   </table>
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="9"><p>PERÍODOS DE SEMEADURAS PARA CULTIVARES DO GRUPO III</p></td>     </tr>     <tr>      <td rowspan="1" colspan="3"><p>SOLO 1</p></td>      <td rowspan="1" colspan="3"><p>SOLO 2</p></td>      <td rowspan="1" colspan="3"><p>SOLO 3</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>RISCO DE 20%</p></td>      <td rowspan="1" colspan="1"><p>RISCO DE 30%</p></td>      <td rowspan="1" colspan="1"><p>RISCO DE 40%</p></td>      <td rowspan="1" colspan="1"><p>RISCO DE 20%</p></td>      <td rowspan="1" colspan="1"><p>RISCO DE 30%</p></td>      <td rowspan="1" colspan="1"><p>RISCO DE 40%</p></td>      <td rowspan="1" colspan="1"><p>RISCO DE 20%</p></td>      <td rowspan="1" colspan="1"><p>RISCO DE 30%</p></td>      <td rowspan="1" colspan="1"><p>RISCO DE 40%</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>30 a 3</p></td>      <td rowspan="1" colspan="1"><p>29</p></td>      <td rowspan="1" colspan="1"><p>28 + 4</p></td>      <td rowspan="1" colspan="1"><p>29 a 4</p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p>5 + 28</p></td>      <td rowspan="1" colspan="1"><p>29 a 5</p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p>6 + 28</p></td>     </tr>    </tbody>   </table>

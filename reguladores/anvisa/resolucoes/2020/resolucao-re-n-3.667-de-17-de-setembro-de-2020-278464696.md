@@ -1,0 +1,150 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.667, DE 17 DE SETEMBRO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Segunda Diretoria/Gerência-Geral de Alimentos"
+tipo: "Resolução"
+numero: "3667"
+data: 2020-09-17
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 21/09/2020, seção 1, p. 239"
+data_publicacao: 2020-09-21
+edicao: "181"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.667-de-17-de-setembro-de-2020-278464696"
+sha256_html_fonte: 1e09de74262757eed935e59ecf917afe35629f39a22e7693fa0cbacb270e5afb
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 3.667, DE 17 DE SETEMBRO DE 2020
+
+RESOLUÇÃO-RE Nº 3.667, DE 17 DE SETEMBRO DE 2020
+
+A Gerente-Geral de Alimentos, no uso das atribuições que lhe confere o art. 126, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:
+
+**Art.1º** Deferir as petições relacionadas à Gerência-Geral de Alimentos conforme relação anexa.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+THALITA ANTONY DE SOUZA LIMA
+
+## ANEXO
+
+Relatório de Conferência de Alimentos. Publicação nr.: 588620
+
+NOME DA EMPRESA CNPJ
+
+NOME DO PRODUTO UF
+
+NUMERO DO PROCESSO NUMERO DE REGISTRO
+
+EMBALAGEM VALIDADE PRODUTO
+
+CLASS/CAT DESCRIÇÃO VALIDADE REGISTRO
+
+MARCA DO PRODUTO
+
+ASSUNTO PETIÇÃO
+
+------------------------------------------------
+
+CMW SAUDE E TECNOLOGIA IMPORTAÇAO E EXPORTAÇAO LTDA - ME 07.430.231/0001-84
+
+FÓRMULA INFANTIL DE SEGUIMENTO PARA LACTENTES DESTINADA A NECESSIDADE DIETOTERÁPICA ESPECÍFICA COM RESTRIÇÃO DE LACTOSE, À BASE DE PROTEÍNA EXTENSAMENTE HIDROLISADA DE SOJA, GELATINA HIDROLISADA E AMINOÁCIDOS LIVRES - ALEMANHA
+
+25004.010099/2007-23 6.4833.0009.001-4
+
+METALICA 30 Meses
+
+PLASTICO 30 Meses
+
+ELASTOMERICA 30 Meses
+
+ALIMENTOS INFANTIS 07/2023
+
+437 Revalidação de Registro
+
+------------------------------------------------
+
+DANISCO BRASIL LTDA 46.278.016/0001-61
+
+LACTOBACILLUS ACIDOPHILLUS E BIFIDOBACTERIUM LACTIS EM SACHÊS SEM ADIÇÃO DE AÇÚCARES - OGDEN - ESTADOS UNIDOS
+
+25004.260054/2010-44 4.7076.0365.002-7
+
+PLASTICA 24 Meses
+
+METALICA 24 Meses
+
+SUBSTANCIAS BIOATIVAS E PROBIOTICOS ISOLADOS COM ALEGAÇÃO DE PROP. FUNC. E/OU DE SAUDE. 11/2025
+
+4103 Revalidação de registro de suplementos contendo enzimas ou probióticos
+
+LACTOBACILLUS ACIDOPHILLUS E BIFIDOBACTERIUM LACTIS EM SACHÊS SEM ADIÇÃO DE AÇÚCARES - MADSON - ESTADOS UNIDOS
+
+25004.260054/2010-44 4.7076.0365.006-1
+
+PLASTICA 24 Meses
+
+METALICA 24 Meses
+
+SUBSTANCIAS BIOATIVAS E PROBIOTICOS ISOLADOS COM ALEGAÇÃO DE PROP. FUNC. E/OU DE SAUDE. 11/2025
+
+4103 Revalidação de registro de suplementos contendo enzimas ou probióticos
+
+LACTOBACILLUS ACIDOPHILLUS E BIFIDOBACTERIUM LACTIS EM SACHÊS SEM ADIÇÃO DE AÇÚCARES - ROPACK - CANADÁ
+
+25004.260054/2010-44 4.7076.0365.007-8
+
+METALICA 24 Meses
+
+PLASTICA 24 Meses
+
+SUBSTANCIAS BIOATIVAS E PROBIOTICOS ISOLADOS COM ALEGAÇÃO DE PROP. FUNC. E/OU DE SAUDE. 11/2025
+
+4103 Revalidação de registro de suplementos contendo enzimas ou probióticos
+
+------------------------------------------------
+
+DANONE LTDA. 23.643.315/0115-10
+
+MÓDULO DE FIBRAS ALIMENTARES PARA NUTRIÇÃO ENTERAL E ORAL - FORTALEZA
+
+25351.525497/2009-19 6.6577.0024.003-3
+
+ALIMENTOS PARA NUTRIÇÃO ENTERAL
+
+4124 Cancelamento de Registro de Apresentação
+
+------------------------------------------------
+
+NESTLE BRASIL LTDA 60.409.075/0001-52
+
+FÓRMULA MODIFICADA PARA NUTRIÇÃO ENTERAL E ORAL - GLENDALE - ESTADOS UNIDOS
+
+25004.003816/99 4.0076.1724.001-8
+
+PLASTICO 12 Meses
+
+ALIMENTOS PARA NUTRIÇÃO ENTERAL 05/2025
+
+4096 Revalidação de registro de fórmulas modificadas para nutrição enteral
+
+FÓRMULA MODIFICADA PARA NUTRIÇÃO ENTERAL E ORAL - EAU CLAIRE - ESTADOS UNIDOS
+
+25004.003816/99 4.0076.1724.002-6
+
+PLASTICA 12 Meses
+
+ALIMENTOS PARA NUTRIÇÃO ENTERAL 05/2025
+
+4096 Revalidação de registro de fórmulas modificadas para nutrição enteral
+
+FORMULA INFANTIL DE SEGUIMENTO PARA CRIANÇAS DE PRIMEIRA INFANCIA
+
+25351.063660/2019-61 6.5965.0107.001-9
+
+METALICA 12 Meses
+
+ALIMENTOS INFANTIS 11/2024
+
+MARCAS INCLUÍDAS: NESLAC COMFOR / NESLAC COMFOR 1+ / COMFOR / COMFOR 1+ / NESLAC TOTAL COMFOR / NESLAC TOTAL COMFOR 1+ / NESLAC PRO COMFOR / NESLAC PRO COMFOR 1+
+
+457 Inclusão de Marca

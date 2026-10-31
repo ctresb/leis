@@ -1,0 +1,27 @@
+---
+titulo: "PORTARIAS DE 26 DE NOVEMBRO DE 2025"
+orgao: "Ministério da Educação/Universidade Federal Rural do Semi-Árido"
+tipo: "Portaria"
+numero: ""
+data: 2024-08-07
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 01/12/2025, seção 1, p. 109"
+data_publicacao: 2025-12-01
+edicao: "228"
+fonte: "https://www.in.gov.br/web/dou/-/portarias-de-26-de-novembro-de-2025-672013308"
+baixado_em: 2026-10-16
+---
+# PORTARIAS DE 26 DE NOVEMBRO DE 2025
+
+PORTARIAS DE 26 DE NOVEMBRO DE 2025
+
+O REITOR DA UNIVERSIDADE FEDERAL RURAL DO SEMI-ÁRIDO, no uso de suas atribuições conferidas pelo Decreto de 7 de agosto de 2024, publicado no Diário Oficial da União nº 152, de 8 de agosto de 2024, seção 2, pág. 1, e tendo em vista o que estabelecem os incisos VI e XIX do art. 44 do Estatuto da universidade; o art. 14 do Decreto nº 9.739, de 28 de março de 2019, e suas alterações; a Portaria nº 708, de 17 de outubro de 2025, do Ministério da Educação, publicada no Diário Oficial da União - DOU nº 200, de 20 de outubro de 2025, seção 1, p .37, resolve:
+
+Nº 1.795 - Distribuir, 3 (três) Funções Comissionadas de Coordenação de Curso, nomenclatura FCC, para serem designadas às Coordenações dos Programas de Pós-Graduação stricto sensu, vinculadas à Pró-Reitoria de Pesquisa e Pós-Graduação - PROPPG, a seguir especificadas: I - Mestrado Profissional em Administração Pública; II - Mestrado Profissional em Matemática; e III - Programa Pós-graduação em Ciência e Engenharia de Materiais. Distribuir, 2 (duas) Funções Comissionadas de Coordenação de Curso, nomenclatura FCC, para o Campus da Ufersa em Pau dos ferros, para serem designadas às Coordenação dos Cursos de Graduação, a seguir especificadas: I - Engenharia Ambiental e Sanitária; e II - Engenharia de Software. Distribuir, 1 (uma) Função Comissionada de Coordenação de Curso, nomenclatura FCC, para o Campus da Ufersa em Caraúbas, para ser designada à Coordenação do Curso de Graduação em Física (Licenciatura). Distribuir, 1 (uma) Função Comissionada de Coordenação de Curso, nomenclatura FCC, para o Departamento de Ciências da Saúde, do Centro de Ciências Biológicas e da Saúde, do Campus da Ufersa em Mossoró, para ser designada à Coordenação do Curso de Graduação em Medicina. Esta portaria entra em vigor na data de sua publicação e seus efeitos em 1º de dezembro de 2025.
+
+O REITOR DA UNIVERSIDADE FEDERAL RURAL DO SEMI-ÁRIDO, no uso de suas atribuições conferidas pelo Decreto de 7 de agosto de 2024, publicado no Diário Oficial da União nº 152, de 8 de agosto de 2024, seção 2, pág. 1, e tendo em vista o que estabelece o inciso XIX do art. 44 do Estatuto da Ufersa; o art. 58 do Regimento da universidade; o art. 14 do Decreto nº 9.739, de 28 de março de 2019, e suas alterações, que dispõe sobre o Sistema de Organização e Inovação Institucional do Governo Federal - Siorg; a Portaria nº 708, de 17 de outubro de 2025, do Ministério da Educação, publicada no Diário Oficial da União - DOU nº 200, de 20 de outubro de 2025, seção 1, p .37; as Portarias nºs 1.795 e 1.796, de 26 de novembro de 2025, resolve:
+
+Nº 1.797 - Remanejar, 1 (uma) função gratificada de nomenclatura FG-2, do Campus Pau dos Ferros, Departamento de Engenharias e Tecnologia, Curso de Graduação em Engenharia Ambiental e Sanitária, para o Programa de Mestrado Profissional em Rede Nacional em Propriedade Intelectual e Transferência de Tecnologia para Inovação - Profnit (ponto focal Ufersa), vinculado à Pró-Reitoria de Pesquisa e Pós-Graduação - PROPPG. Remanejar, 1 (uma) função gratificada de nomenclatura FG-4, do Programa de Mestrado Profissional em Administração Pública - PROFIAP, para o Programa de Doutorado em Desenvolvimento e Meio Ambiente - Prodema, vinculados à Pró-Reitoria de Pesquisa e Pós-Graduação - PROPPG. Remanejar, 1 (uma) função gratificada de nomenclatura FG-4, do Programa de Mestrado Profissional em Matemática - Profmat/ Ufersa, para o Mestrado Profissional em Rede Nacional em Gestão de Regulação de Recursos Hídricos - ProfÁgua da Ufersa, vinculados à Pró-Reitoria de Pesquisa e Pós-Graduação - PROPPG. Remanejar, 1 (uma) função gratificada de nomenclatura FG-4, da Pró-Reitoria de Pesquisa e Pós-Graduação - PROPPG, Programa de Pós-Graduação em Ciências e Engenharia de Materiais - PPGCEM, para o Gabinete da Reitoria da Ufersa. Remanejar, 1 (uma) função gratificada de nomenclatura FG-4, alocada o Programa de Mestrado Profissional em Rede Nacional em Propriedade Intelectual e Transferência de Tecnologia para Inovação - Profnit (ponto focal Ufersa), vinculado à Pró-Reitoria de Pesquisa e Pós-Graduação - PROPPG, para o Gabinete da Reitoria da Ufersa. Remanejar, 1 (uma) função gratificada de nomenclatura FG-5, alocada no Campus de Pau dos Ferros, Departamento de Engenharias e Tecnologia, Curso de Graduação em Engenharia de Software, para o Gabinete da Reitoria da Ufersa. Remanejar, 1 (uma) função gratificada de nomenclatura FG-5, alocada no Departamento de Ciências da Saúde, Curso de Medicina, do Centro de Ciências Biológicas e da Saúde, do Campus da Ufersa em Mossoró, para o Gabinete da Reitoria da Ufersa. Remanejar, 1 (uma) função gratificada de nomenclatura FG-5, alocada no do Departamento de Engenharias e Tecnologia, Curso de Física (Licenciatura), do Campus Caraúbas, para o Gabinete da Reitoria da Ufersa. Esta Portaria entra em vigor na data de sua publicação e seus efeitos em 1º de dezembro de 2025.
+
+RODRIGO NOGUEIRA DE CODES

@@ -1,0 +1,55 @@
+---
+titulo: "RETIFICAÇÃO"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: ""
+data: 2025-06-16
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 17/10/2025, seção 1, p. 121"
+data_publicacao: 2025-10-17
+edicao: "199"
+fonte: "https://www.in.gov.br/web/dou/-/retificacao-663109130"
+baixado_em: 2026-10-16
+---
+# RETIFICAÇÃO
+
+RETIFICAÇÃO
+
+Na Resolução - RE n° 2.255, de 16 de junho de 2025, publicada no Diário Oficial da União n° 113, de 17 de junho de 2025, Seção 1, pág. 189.
+
+Onde se lê:
+
+WJ DISTRIBUIDORA DE MATERIAL HOSPITALAR LTDA / 58.749.493/0001-47
+
+25351.086096/2025-01 / 1.40820.1
+
+RUA LEOPOLDO SCHMIDT, 200/1809 - CENTRO - 36060040 - JUIZ DE FORA/MG
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+702 - AFE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIR (SOMENTE
+
+MATRIZ) / 0713535/25-3
+
+Leia-se:
+
+WJ DISTRIBUIDORA DE MATERIAL HOSPITALAR LTDA / 58.749.493/0001-47
+
+25351.086096/2025-01 / 1.40820.1
+
+RUA LEOPOLDO SCHMIDT, 200/1809 - CENTRO - 36060040 - JUIZ DE FORA/MG
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+702 - AFE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIR (SOMENTE
+
+MATRIZ) / 0713535/25-3

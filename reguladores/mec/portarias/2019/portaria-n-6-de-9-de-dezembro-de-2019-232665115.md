@@ -1,0 +1,106 @@
+---
+titulo: "PORTARIA Nº 6, DE 9 DE DEZEMBRO DE 2019"
+orgao: "Ministério da Educação/Secretaria Executiva/Subsecretaria de Planejamento e Orçamento"
+tipo: "Portaria"
+numero: "6"
+data: 2019-12-09
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 11/12/2019, seção 1, p. 131"
+data_publicacao: 2019-12-11
+edicao: "239"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-6-de-9-de-dezembro-de-2019-232665115"
+sha256_html_fonte: 02281a537e0b42d17bbf30d52f0b57feb1904249d70d3271f9d8ca977b9ab2f6
+baixado_em: 2026-10-27
+---
+# PORTARIA Nº 6, DE 9 DE DEZEMBRO DE 2019
+
+PORTARIA Nº 6, DE 9 DE DEZEMBRO DE 2019
+
+O SUBSECRETÁRIO DE PLANEJAMENTO E ORÇAMENTO DO MINISTÉRIO DA EDUCAÇÃO, no uso de suas atribuições legais, e
+
+CONSIDERANDO o disposto na Lei nº 4.320, de 17 de março de 1964, na Lei Complementar nº 101, de 04 de maio de 2000, na Lei nº 10.180, de 06 de fevereiro de 2001, na Lei de Diretrizes Orçamentárias, na Lei nº 13.005, de 25 de junho de 2014, no Decreto nº 93.872, de 23 de dezembro de 1986, no Manual do Sistema Integrado de Administração Financeira - SIAFI e no Manual de Contabilidade Aplicada ao Setor Público;
+
+CONSIDERANDO as atividades desenvolvidas pela Subsecretaria de Planejamento e Orçamento por força do Art. 6º do Decreto nº 9.665, de 2 de janeiro de 2019, que aprova a Estrutura Regimental do Ministério da Educação;, resolve:
+
+**Art. 1º** Fica instituído o Sistema Integrado de Planejamento, Orçamentação e Custos para as unidades orçamentárias e gestoras do Ministério da Educação - MEC, por meio da adoção da Subação Orçamentária e do Plano Interno - PI.
+
+**§ 1º** A Subação Orçamentária é o instrumento de integração entre o planejamento, a programação e a execução orçamentária e financeira, e objetiva orientar os processos de tomada de decisão e imprimir visibilidade à execução das políticas de educação, podendo ser executada por meio de uma ou mais ações orçamentárias, em um ou mais planos orçamentários.
+
+**§ 2º** As Subações Orçamentárias e os Planos Internos devem refletir as políticas nacionais de educação, observadas as metas constantes do Plano Nacional de Educação e demais planos desenvolvidos no âmbito das instituições federais vinculadas ao MEC integrados aos Planos Plurianuais - PPA e Leis Orçamentárias.
+
+**§ 3º** As Subações Orçamentárias e os Planos Internos serão cadastrados no Sistema Integrado de Monitoramento, Execução e Controle - SIMEC sob a supervisão da Subsecretaria de Planejamento e Orçamento do Ministério da Educação - SPO/MEC.
+
+**§ 4º** O Plano Interno, constante do Sistema Integrado de Administração Financeira do Governo Federal - SIAFI, será utilizado prioritariamente como instrumento de gerenciamento e de detalhamento dos atributos da Subação Orçamentária, com vistas à apropriação de custos das políticas nacionais de educação.
+
+**§ 5º** O SIMEC disponibilizará funcionalidade de criação, gerenciamento e acompanhamento de Subações Orçamentárias e de Planos Internos.
+
+**Art. 2º** As unidades orçamentárias vinculadas ao MEC identificadas no SIAFI como órgãos subordinados ao Órgão Superior Ministério da Educação - 26.000 devem, obrigatoriamente, utilizar o Plano Interno conforme estrutura definida por esta Portaria.
+
+**§ 1º** O campo para a inclusão dos códigos dos Planos Internos no SIAFI dispõe de 11 (onze) posições para cadastramento, permitindo a utilização de combinações alfanuméricas, assim definidos no âmbito do MEC:
+
+I - na primeira posição será utilizado o Enquadramento da Despesa em relação às metas do Plano Nacional de Educação, conforme o Anexo I desta Portaria;
+
+II - da segunda à quinta posição, serão cadastrados códigos identificadores da Subação Orçamentária à qual se vincula o respectivo Plano Interno;
+
+III - a sexta posição definirá o Nível/Etapa de Ensino, conforme o Anexo II desta Portaria;
+
+IV - a sétima e a oitava posições estabelecerão a Categoria de Apropriação, conforme o Anexo III desta Portaria;
+
+V - a nona e a décima posições terão codificações de livre escolha da unidade, de forma a atender às suas necessidades e características específicas;
+
+VI - a décima primeira posição definirá o Tema/Público/Modalidade, conforme o Anexo IV desta Portaria.
+
+**§ 2º** A Subação Orçamentária é de utilização obrigatória pelas unidades orçamentárias 26.101 - Ministério da Educação, 26.290 - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira - INEP, 26.291 - Fundação Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - CAPES e 26.298 - Fundo Nacional de Desenvolvimento da Educação - FNDE.
+
+**§ 3º** As unidades orçamentárias não contempladas no § 2º deste artigo ficam dispensadas da obrigatoriedade da utilização de código identificador da Subação Orçamentária, previsto no Inciso II do § 1º deste artigo, devendo utilizar o código zerado (0000) ou o código da ação orçamentária, a critério de cada unidade.
+
+**§ 4º** Considerando a transversalidade do Plano Nacional de Educação e a inter-relação entre suas metas, para classificação do Enquadramento da Despesa conforme Anexo I desta Portaria deve ser escolhida a meta para a qual a despesa contribui mais diretamente, tendo em vista o objetivo da política pública à qual a despesa está relacionada, preservado o entendimento de que a despesa poderá contribuir indiretamente para mais de uma meta, ainda que o Plano Interno permita uma única classificação.
+
+**§ 5º** Sempre que a unidade não fizer uso da codificação livre, conforme o Inciso V do § 1º e o § 4º deste artigo, será utilizado código zerado (00).
+
+**§ 6º** O disposto neste artigo não se aplica quando houver regras específicas estabelecidas pelo Órgão Central de Planejamento e Orçamento.
+
+**Art. 3º** Todas as unidades orçamentárias vinculadas ao MEC utilizarão Planos Internos específicos para cada obra, objetivando o respectivo monitoramento da execução e dos custos.
+
+**§ 1º** As obras contratadas pelo Ministério da Educação, suas autarquias, fundações e empresas públicas serão obrigatoriamente cadastradas no Módulo "Monitoramento de Obras" do SIMEC, utilizando-se, prioritariamente, os códigos identificadores de PI gerados por este módulo, admitindo-se os oriundos de outra unidade orçamentária da União.
+
+**§ 2º** Recursos oriundos de outras dotações orçamentárias da União, destinados à complementação das obras previstas no § 1º deste artigo, serão cadastrados obrigatoriamente no PI original da obra, quando o crédito descentralizado não estiver detalhado com Plano Interno próprio da unidade descentralizadora.
+
+**§ 3º** Os Planos Internos referentes a obras ficam dispensados da obrigatoriedade de utilização do Inciso VI do § 1º do Art. 2º, podendo utilizar codificação livre, ou no caso de cadastro do PI diretamente no Módulo "Monitoramento de Obras", como prevê § 1º deste artigo, será gerado pelo próprio módulo.
+
+**§ 4º** A liberação dos limites de movimentação e empenho das despesas de capital ficará condicionada à atualização do Módulo "Monitoramento de Obras" do SIMEC.
+
+**§ 5º** Fica facultada a utilização de Planos Internos específicos para cada obra à Unidade Orçamentária 26.298 - Fundo Nacional de Desenvolvimento da Educação - FNDE.
+
+**Art. 4º** Caberá a cada órgão subordinado ao Órgão Superior 26.000 - Ministério da Educação indicar a unidade responsável pela criação, gerenciamento e acompanhamento das Subações Orçamentárias e dos Planos Internos por meio do SIMEC, assim como pelo cadastramento das tabelas dos Planos Internos no SIAFI, utilizando a transação "ATUPI - Atualiza Plano Interno" para incluir os códigos a serem utilizados pelas suas unidades gestoras executoras.
+
+**Parágrafo único.** A Setorial Orçamentária do órgão subordinado 26.298 - Fundo Nacional de Desenvolvimento da Educação será responsável pelo cadastramento dos Planos Internos correspondentes à Unidade Orçamentária 73.107 - Transferências a Estados, Distrito Federal e Municípios - Recursos sob supervisão do MEC e à Unidade Orçamentária 74.902 - Operações Oficiais de Crédito - Recursos sob Supervisão do Fundo de Financiamento ao Estudante do Ensino Superior - FIES.
+
+**Art. 5º** Fica facultada a utilização de estrutura própria de Subação Orçamentária e de Plano Interno à Unidade Orçamentária 26.443 - Empresa Brasileira de Serviços Hospitalares - EBSERH, assim como às Unidades Orçamentárias de Hospitais Universitários Federais sob sua gestão.
+
+**Art. 6º** Fica revogada a Portaria SPO/MEC nº 4, de 4 de novembro de 2014.
+
+**Art. 7º** Esta Portaria, composta dos ANEXOS I, II, III e IV, entra em vigor a partir de 2 de janeiro de 2020.
+
+ADALTON ROCHA DE MATOS
+
+## ANEXO I
+
+<table><tr></tr><tr><td><p>ANEXO I - ENQUADRAMENTO DA DESPESA</p></td></tr><tr><td><p>CÓDIGO</p></td><td><p>ABRANGÊNCIA DA META</p></td><td><p>DESCRIÇÃO - METAS CONFORME ANEXO DA LEI Nº 13.005, DE 25 JUNHO DE 2014</p></td></tr><tr><td><p>A</p></td><td><p>Educação Básica</p><p>(Educação Infantil)</p></td><td><p>Meta 1: universalizar, até 2016, a educação infantil na pré-escola para as crianças de 4 (quatro) a 5 (cinco) anos de idade e ampliar a oferta de educação infantil em creches de forma a atender, no mínimo, 50% (cinquenta por cento) das crianças de até 3 (três) anos até o final da vigência deste PNE.</p></td></tr><tr><td><p>B</p></td><td><p>Educação Básica</p><p>(Ensino Fundamental)</p></td><td><p>Meta 2: universalizar o ensino fundamental de 9 (nove) anos para toda a população de 6 (seis) a 14 (quatorze) anos e garantir que, pelo menos, 95% (noventa e cinco por cento) dos alunos concluam essa etapa na idade recomendada, até o último ano de vigência deste PNE.</p></td></tr><tr><td><p>C</p></td><td><p>Educação Básica</p><p>(Ensino Médio)</p></td><td><p>Meta 3: universalizar, até 2016, o atendimento escolar para toda a população de 15 (quinze) a 17 (dezessete) anos e elevar, até o final do período de vigência deste PNE, a taxa líquida de matrículas no ensino médio para 85% (oitenta e cinco por cento).</p></td></tr><tr><td><p>D</p></td><td><p>Educação Básica</p><p>(Inclusão)</p></td><td><p>Meta 4: universalizar, para a população de 4 (quatro) a 17 (dezessete) anos com deficiência, transtornos globais do desenvolvimento e altas habilidades ou superdotação, o acesso à educação básica e ao atendimento educacional especializado, preferencialmente na rede regular de ensino, com a garantia de sistema educacional inclusivo, de salas de recursos multifuncionais, classes, escolas ou serviços especializados, públicos ou conveniados.</p></td></tr><tr><td><p>E</p></td><td><p>Educação Básica</p><p>(Alfabetização na idade certa)</p></td><td><p>Meta 5: alfabetizar todas as crianças, no máximo, até o final do 3º (terceiro) ano do ensino fundamental.</p></td></tr><tr><td><p>F</p></td><td><p>Educação Básica</p><p>(Educação Integral)</p></td><td><p>Meta 6: oferecer educação em tempo integral em, no mínimo, 50% (cinquenta por cento) das escolas públicas, de forma a atender, pelo menos, 25% (vinte e cinco por cento) dos (as) alunos (as) da educação básica.</p></td></tr><tr><td><p>G</p></td><td><p>Educação Básica</p><p>(Qualidade - IDEB)</p></td><td><p>Meta 7: fomentar a qualidade da educação básica em todas as etapas e modalidades, com melhoria do fluxo escolar e da aprendizagem de modo a atingir as seguintes médias nacionais para o Ideb:</p></td></tr><tr><td></td><td></td><td><p>IDEB</p></td><td><p>2015</p></td><td><p>2017</p></td><td><p>2019</p></td><td><p>2021</p></td></tr><tr><td></td><td></td><td><p>Anos iniciais do ensino fundamental</p></td><td><p>5,2</p></td><td><p>5,5</p></td><td><p>5,7</p></td><td><p>6</p></td></tr><tr><td></td><td></td><td><p>Anos finais do ensino fundamental</p></td><td><p>4,7</p></td><td><p>5</p></td><td><p>5,2</p></td><td><p>5,5</p></td></tr><tr><td></td><td></td><td><p>Ensino médio</p></td><td><p>4,3</p></td><td><p>4,7</p></td><td><p>5</p></td><td><p>5,2</p></td></tr><tr><td><p>H</p></td><td><p>Jovens e Adultos</p><p>(Elevação da escolaridade / Diversidade)</p></td><td><p>Meta 8: elevar a escolaridade média da população de 18 (dezoito) a 29 (vinte e nove) anos, de modo a alcançar, no mínimo, 12 (doze) anos de estudo no último ano de vigência deste Plano, para as populações do campo, da região de menor escolaridade no País e dos 25% (vinte e cinco por cento) mais pobres, e igualar a escolaridade média entre negros e não negros declarados à Fundação Instituto Brasileiro de Geografia e Estatística - IBGE.</p></td></tr><tr><td><p>I</p></td><td><p>Jovens e Adultos</p><p>(Alfabetização de jovens e adultos e analfabetismo funcional)</p></td><td><p>Meta 9: elevar a taxa de alfabetização da população com 15 (quinze) anos ou mais para 93,5% (noventa e três inteiros e cinco décimos por cento) até 2015 e, até o final da vigência deste PNE, erradicar o analfabetismo absoluto e reduzir em 50% (cinquenta por cento) a taxa de analfabetismo funcional.</p></td></tr><tr><td><p>J</p></td><td><p>Educação Profissional</p><p>(EJA integrada à EPT)</p></td><td><p>Meta 10: oferecer, no mínimo, 25% (vinte e cinco por cento) das matrículas de educação de jovens e adultos, nos ensinos fundamental e médio, na forma integrada à educação profissional.</p></td></tr><tr><td><p>L</p></td><td><p>Educação Profissional</p><p>(Educação Profissional de nível médio)</p></td><td><p>Meta 11: triplicar as matrículas da educação profissional técnica de nível médio, assegurando a qualidade da oferta e, pelo menos, 50% (cinquenta por cento) da expansão no segmento público.</p></td></tr><tr><td><p>M</p></td><td><p>Educação Superior</p><p>(Ensino Superior)</p></td><td><p>Meta 12: elevar a taxa bruta de matrícula na educação superior para 50% (cinquenta por cento) e a taxa líquida para 33% (trinta e três por cento) da população de 18 (dezoito) a 24 (vinte e quatro) anos, assegurada a qualidade da oferta e expansão para, pelo menos, 40% (quarenta por cento) das novas matrículas, no segmento público.</p></td></tr><tr><td><p>N</p></td><td><p>Educação Superior</p><p>(Qualidade da Educação Superior)</p></td><td><p>Meta 13: elevar a qualidade da educação superior e ampliar a proporção de mestres e doutores do corpo docente em efetivo exercício no conjunto do sistema de educação superior para 75% (setenta e cinco por cento), sendo, do total, no mínimo, 35% (trinta e cinco por cento) doutores.</p></td></tr><tr><td><p>O</p></td><td><p>Educação Superior</p><p>(Pós-Graduação)</p></td><td><p>Meta 14: elevar gradualmente o número de matrículas na pós-graduação stricto sensu, de modo a atingir a titulação anual de 60.000 (sessenta mil) mestres e 25.000 (vinte e cinco mil) doutores.</p></td></tr><tr><td><p>P</p></td><td><p>Formação do Professor</p><p>(Profissionais da Educação)</p></td><td><p>Meta 15: garantir, em regime de colaboração entre a União, os Estados, o Distrito Federal e os Municípios, no prazo de 1 (um) ano de vigência deste PNE, política nacional de formação dos profissionais da educação de que tratam os incisos I, II e III do caput do art. 61 da Lei nº 9.394, de 20 de dezembro de 1996, assegurado que todos os professores e as professoras da educação básica possuam formação específica de nível superior, obtida em curso de licenciatura na área de conhecimento em que atuam.</p></td></tr><tr><td><p>Q</p></td><td><p>Formação do Professor</p><p>(Pós-Graduação de professores)</p></td><td><p>Meta 16: formar, em nível de pós-graduação, 50% (cinquenta por cento) dos professores da educação básica, até o último ano de vigência deste PNE, e garantir a todos (as) os (as) profissionais da educação básica formação continuada em sua área de atuação, considerando as necessidades, demandas e contextualizações dos sistemas de ensino.</p></td></tr><tr><td><p>R</p></td><td><p>Valorização do Professor</p><p>(Valorização dos Profissionais do Magistério)</p></td><td><p>Meta 17: valorizar os (as) profissionais do magistério das redes públicas de educação básica de forma a equiparar seu rendimento médio ao dos (as) demais profissionais com escolaridade equivalente, até o final do sexto ano de vigência deste PNE.</p></td></tr><tr><td><p>S</p></td><td><p>Valorização do Professor</p><p>(Plano de Carreira)</p></td><td><p>Meta 18: assegurar, no prazo de 2 (dois) anos, a existência de planos de Carreira para os (as) profissionais da educação básica e superior pública de todos os sistemas de ensino e, para o plano de Carreira dos (as) profissionais da educação básica pública, tomar como referência o piso salarial nacional profissional, definido em lei federal, nos termos do inciso VIII do art. 206 da Constituição Federal.</p></td></tr><tr><td><p>T</p></td><td><p>Gestão e Financiamento</p><p>(Gestão Democrática)</p></td><td><p>Meta 19: assegurar condições, no prazo de 2 (dois) anos, para a efetivação da gestão democrática da educação, associada a critérios técnicos de mérito e desempenho e à consulta pública à comunidade escolar, no âmbito das escolas públicas, prevendo recursos e apoio técnico da União para tanto.</p></td></tr><tr><td><p>U</p></td><td><p>Gestão e Financiamento</p><p>(Financiamento da Educação)</p></td><td><p>Meta 20: ampliar o investimento público em educação pública de forma a atingir, no mínimo, o patamar de 7% (sete por cento) do Produto Interno Bruto - PIB do País no 5 o (quinto) ano de vigência desta Lei e, no mínimo, o equivalente a 10% (dez por cento) do PIB ao final do decênio.</p></td></tr><tr><td><p>V</p></td><td><p>-</p></td><td><p>Outras Despesas (*) </p></td></tr></table>
+
+ANEXO II - NÍVEL / ETAPA DE ENSINO
+
+<table><tr></tr><tr><td><p>ANEXO II - NÍVEL / ETAPA DE ENSINO</p></td></tr><tr><td><p>CÓDIGO</p></td><td><p>DESCRIÇÃO</p></td></tr><tr><td><p>C</p></td><td><p>Creche</p></td></tr><tr><td><p>R</p></td><td><p>Pré-escola</p></td></tr><tr><td><p>I</p></td><td><p>Infantil</p></td></tr><tr><td><p>F</p></td><td><p>Fundamental</p></td></tr><tr><td><p>M</p></td><td><p>Médio</p></td></tr><tr><td><p>B</p></td><td><p>Básica</p></td></tr><tr><td><p>P</p></td><td><p>Profissional/Tecnológico</p></td></tr><tr><td><p>G</p></td><td><p>Graduação</p></td></tr><tr><td><p>O</p></td><td><p>Pós-graduação</p></td></tr><tr><td><p>S</p></td><td><p>Residência</p></td></tr><tr><td><p>T</p></td><td><p>Mestrado</p></td></tr><tr><td><p>U</p></td><td><p>Doutorado</p></td></tr><tr><td><p>V</p></td><td><p>Pós-Doutorado</p></td></tr><tr><td><p>Q</p></td><td><p>Superior</p></td></tr><tr><td><p>N</p></td><td><p>Não se aplica</p></td></tr></table>
+
+ANEXO III - CATEGORIA DE APROPRIAÇÃO
+
+<table><tr></tr><tr><td><p>ANEXO III - CATEGORIA DE APROPRIAÇÃO</p></td></tr><tr><td><p>CÓDIGO</p></td><td><p>DESCRIÇÃO</p></td></tr><tr><td><p>01</p></td><td><p>Gestão Administrativa da Unidade ou da Subação</p></td></tr><tr><td><p>15</p></td><td><p>Emendas</p></td></tr><tr><td><p>19</p></td><td><p>Ensino (**)</p></td></tr><tr><td><p>20</p></td><td><p>Pesquisa (**)</p></td></tr><tr><td><p>21</p></td><td><p>Extensão (**)</p></td></tr><tr><td><p>22</p></td><td><p>Educação a Distância</p></td></tr><tr><td><p>23</p></td><td><p>Assistência Estudantil/Permanência</p></td></tr><tr><td><p>35</p></td><td><p>Tecnologia, Inovação e Recursos Digitais</p></td></tr><tr><td><p>41</p></td><td><p>Obras - Construção</p></td></tr><tr><td><p>42</p></td><td><p>Obras - Ampliação</p></td></tr><tr><td><p>43</p></td><td><p>Obras - Reforma</p></td></tr><tr><td><p>54</p></td><td><p>Auxílio de Avaliação Educacional</p></td></tr><tr><td><p>55</p></td><td><p>Bolsas</p></td></tr><tr><td><p>56</p></td><td><p>Capacitação</p></td></tr><tr><td><p>57</p></td><td><p>Evento</p></td></tr><tr><td><p>58</p></td><td><p>Formação e Capacitação de Professores e Profissionais da Educação Básica</p></td></tr><tr><td><p>60</p></td><td><p>Aquisição de Materiais, Mobiliário e Equipamentos</p></td></tr><tr><td><p>62</p></td><td><p>Veículos</p></td></tr><tr><td><p>71</p></td><td><p>Gestão Hospitalar</p></td></tr><tr><td><p>82</p></td><td><p>Avaliações e Estatísticas Educacionais</p></td></tr><tr><td><p>94</p></td><td><p>Fomento à Pós-Graduação</p></td></tr><tr><td><p>95</p></td><td><p>Acervo Bibliográfico</p></td></tr><tr><td><p>96</p></td><td><p>Transferências Legais e Constitucionais</p></td></tr><tr><td><p>97</p></td><td><p>Transferências Voluntárias</p></td></tr><tr><td><p>99</p></td><td><p>Outras Despesas</p></td></tr></table>
+
+ANEXO III - CATEGORIA DE APROPRIAÇÃO
+
+<table><tr></tr><tr><td><p>ANEXO IV - TEMA / PÚBLICO / MODALIDADE</p></td></tr><tr><td><p>CÓDIGO</p></td><td><p>DESCRIÇÃO</p></td></tr><tr><td><p>E</p></td><td><p>Educação Especial/Acessibilidade</p></td></tr><tr><td><p>I</p></td><td><p>Educação Integral</p></td></tr><tr><td><p>J</p></td><td><p>Educação de Jovens e Adultos</p></td></tr><tr><td><p>A</p></td><td><p>Campo/Rural</p></td></tr><tr><td><p>D</p></td><td><p>Indígena</p></td></tr><tr><td><p>Q</p></td><td><p>Quilombola</p></td></tr><tr><td><p>T</p></td><td><p>Étnico-Racial</p></td></tr><tr><td><p>L</p></td><td><p>Literacia</p></td></tr><tr><td><p>K</p></td><td><p>Educação Ambiental</p></td></tr><tr><td><p>R</p></td><td><p>Vulnerabilidade Social</p></td></tr><tr><td><p>Z</p></td><td><p>Direitos Humanos</p></td></tr><tr><td><p>N</p></td><td><p>Não se aplica</p></td></tr></table>
+
+(\*) Apenas despesas que não contribuam direta ou indiretamente com o PNE.
+
+(\*\*) Os códigos 19, 20 e 21 referem-se ao tripé da educação superior (Art. 207 da Constituição Federal de 1988).

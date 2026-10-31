@@ -1,0 +1,70 @@
+---
+titulo: "PORTARIA GM/MS Nº 8.797, DE 12 DE NOVEMBRO DE 2025"
+orgao: "Ministério da Saúde/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "8797"
+data: 2025-11-12
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 13/11/2025, seção 1, p. 113"
+data_publicacao: 2025-11-13
+edicao: "217"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-gm/ms-n-8.797-de-12-de-novembro-de-2025-668627295"
+baixado_em: 2026-10-16
+---
+# PORTARIA GM/MS Nº 8.797, DE 12 DE NOVEMBRO DE 2025
+
+PORTARIA GM/MS Nº 8.797, DE 12 DE NOVEMBRO DE 2025
+
+Autoriza o Estado, Município ou Distrito Federal a receber recursos referentes ao incremento temporário ao custeio dos serviços de Atenção Especializada à Saúde.
+
+O MINISTRO DE ESTADO DA SAÚDE, no uso das atribuições que lhe conferem os incisos I e II do parágrafo único do art. 87 da Constituição, em observância a Lei nº 15.121, de 10 de abril de 2025, Lei Complementar nº 141, de 13 de janeiro de 2012, Lei nº 8.080, de 19 de setembro de 1990, resolve:
+
+**Art. 1º** Ficam autorizados os Estados, o Distrito Federal e os Municípios descritos no anexo desta Portaria a receberem recursos financeiros referentes ao incremento temporário para o custeio dos serviços de Atenção Especializada à Saúde.
+
+**Art. 2º** Os recursos financeiros tratados nesta Portaria referem-se à aplicação das emendas parlamentares para incremento temporário ao custeio dos serviços de Atenção Especializada à Saúde.
+
+**Art. 3º** As propostas de que tratam esta portaria serão processadas no InvestSUS, disponível no portalfns.saude.gov.br.
+
+**Art. 4º** O Fundo Nacional de Saúde adotará as medidas necessárias para as transferências de recursos financeiros estabelecidas nesta Portaria aos respectivos Fundos de Saúde, em parcela única, em conformidade com os processos de pagamento instruídos pela Secretaria Finalística, após atendidas as condições previstas para essa modalidade de transferência.
+
+**Art. 5º** A prestação de contas sobre a aplicação dos recursos financeiros será realizada por meio do Relatório Anual de Gestão - RAG, aprovado pelo respectivo Conselho local de saúde, nos termos dos artigos 34 a 36 da Lei Complementar nº 141, de 14 de janeiro de 2012.
+
+**Art. 6º** Esta Portaria entra em vigor na data de sua publicação.
+
+ALEXANDRE ROCHA SANTOS PADILHA
+
+## ANEXO
+
+Entes federados autorizados a receberem recursos financeiros federais de emendas destinados ao incremento temporário ao custeio dos serviços de Atenção Especializada à Saúde.
+
+| UF | MUNICÍPIO | ENTIDADE | Nº DA PROPOSTA | VALOR TOTAL DA PROPOSTA (R$) | CÓD. EMENDA | VALOR POR EMENDA (R$) | FUNCIONAL PROGRAMÁTICA | CNES | VALOR (R$) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| BA | BRUMADO | FUNDO MUNICIPAL DE SAUDE DE BRUMADO | 36000711017202500 | 1.380.000,00 | 50410002 | 1.380.000,00 | 1030251182E900001 | 6427758 | 1.380.000,00 |
+| BA | ILHEUS | FUNDO MUNICIPAL DE SAUDE DE ILHEUS | 36000710121202500 | 200.000,00 | 50410002 | 200.000,00 | 1030251182E900001 | 6365361 | 200.000,00 |
+| BA | JUAZEIRO | FUNDO MUNICIPAL DE SAUDE | 36000710578202500 | 2.000.000,00 | 60060004 | 2.000.000,00 | 1030251182E900001 | 6776302 | 2.000.000,00 |
+| CE | HIDROLANDIA | FUNDO MUNICIPAL DE SAUDE DE HIDROLANDIA | 36000716969202500 | 1.000.000,00 | 60060004 | 1.000.000,00 | 1030251182E900001 | 6410774 | 1.000.000,00 |
+| ES | BOA ESPERANCA | FUNDO MUNICIPAL DE SAUDE DE BOA ESPERANCA | 36000716588202500 | 79.000,00 | 60060004 | 79.000,00 | 1030251182E900001 | 6775160 | 79.000,00 |
+| ES | BOM JESUS DO NORTE | FUNDO MUNICIPAL DE SAUDE DE BOM JESUS DO NORTE | 36000717350202500 | 200.000,00 | 60060004 | 200.000,00 | 1030251182E900001 | 7521642 | 200.000,00 |
+| GO | PLANALTINA | FUNDO MUNICIPAL DE SAUDE DE PLANALTINA-GO | 36000704141202500 | 1.218.897,00 | 50410002 | 1.218.897,00 | 1030251182E900001 | 6737412 | 1.218.897,00 |
+| MS | CAMPO GRANDE | FUNDO MUNICIPAL DE SAUDE | 36000711738202500 | 491.950,00 | 60060004 | 491.950,00 | 1030251182E900001 | 0009733 | 491.950,00 |
+| MS | CAMPO GRANDE | FUNDO MUNICIPAL DE SAUDE | 36000711957202500 | 728.695,00 | 60060004 | 728.695,00 | 1030251182E900001 | 2646773 | 728.695,00 |
+| PA | ABAETETUBA | FUNDO MUNICIPAL DE SAUDE DE ABAETETUBA | 36000702822202500 | 999.984,00 | 50410002 | 999.984,00 | 1030251182E900001 | 6533655 | 999.984,00 |
+| PA | SANTAREM | FUNDO MUNICIPAL DE SAUDE-FMS | 36000696779202500 | 2.000.000,00 | 60060004 | 2.000.000,00 | 1030251182E900001 | 6620833 | 2.000.000,00 |
+| PB | REMIGIO | FUNDO MUNICIPAL DE SAUDE - REMIGIO - PB | 36000713795202500 | 800.000,00 | 60060004 | 800.000,00 | 1030251182E900001 | 6430244 | 800.000,00 |
+| PE | SAO BENTO DO UNA | SAO BENTO DO UNA FUNDO MUNICIPAL DE SAUDE | 36000714248202500 | 200.000,00 | 50410002 | 200.000,00 | 1030251182E900001 | 3034739 | 200.000,00 |
+| PI | CAMPO MAIOR | FUNDO MUNICIPAL DE SAUDE DE CAMPO MAIOR | 36000715843202500 | 630.000,00 | 60060004 | 630.000,00 | 1030251182E900001 | 7902034 | 630.000,00 |
+| PI | CAPITAO DE CAMPOS | FUNDO MUNICIPAL DE SAUDE | 36000717295202500 | 518.000,00 | 60060004 | 518.000,00 | 1030251182E900001 | 2325101 | 518.000,00 |
+| RS | CACHOEIRA DO SUL | FUNDO MUNICIPAL DE SAUDE | 36000714395202500 | 250.000,00 | 50410002 | 250.000,00 | 1030251182E900001 | 2266326 | 250.000,00 |
+| RS | CAXIAS DO SUL | FUNDO MUNICIPAL DE SAUDE DE CAXIAS DO SUL | 36000712244202500 | 950.000,00 | 60060004 | 950.000,00 | 1030251182E900001 | 2223546 | 950.000,00 |
+| RS | CAXIAS DO SUL | FUNDO MUNICIPAL DE SAUDE DE CAXIAS DO SUL | 36000712479202500 | 78.611,00 | 50410002 | 78.611,00 | 1030251182E900001 | 2223538 | 78.611,00 |
+| RS | PORTO ALEGRE | FUNDO ESTADUAL DE SAUDE | 36000706047202500 | 50.342,00 | 50410002 | 50.342,00 | 1030251182E900001 | 2249537 | 50.342,00 |
+| RS | PORTO ALEGRE | FUNDO ESTADUAL DE SAUDE | 36000706136202500 | 201.000,00 | 60060004 | 201.000,00 | 1030251182E900001 | 2261030 | 201.000,00 |
+| RS | PORTO ALEGRE | FUNDO MUNICIPAL DE SAUDE | 36000710253202500 | 300.000,00 | 60060004 | 300.000,00 | 1030251182E900001 | 2693801 | 300.000,00 |
+| RS | PORTO ALEGRE | FUNDO MUNICIPAL DE SAUDE | 36000710287202500 | 501.500,00 | 60060004 | 501.500,00 | 1030251182E900001 | 2693801 | 501.500,00 |
+| RS | SAO JOSE DO NORTE | FUNDO MUNICIPAL DE SAUDE | 36000715666202500 | 647.000,00 | 50410002 | 647.000,00 | 1030251182E900001 | 6571239 | 647.000,00 |
+| SE | ARACAJU | FUNDO ESTADUAL DE SAUDE | 36000711953202500 | 7.000.000,00 | 60060004 | 7.000.000,00 | 1030251182E900001 | 5589711 | 7.000.000,00 |
+| SP | AVARE | FUNDO MUNICIPAL DE SAUDE DE AVARE | 36000704376202500 | 600.000,00 | 50410002 | 600.000,00 | 1030251182E900001 | 6435920 | 600.000,00 |
+| SP | GUARULHOS | FUNDO MUNICIPAL DE SAUDE DE GUARULHOS | 36000701222202500 | 14.321.739,00 | 60060004 | 14.321.739,00 | 1030251182E900001 | 3843076 | 14.321.739,00 |
+| SP | SAO PAULO | FUNDO ESTADUAL DE SAUDE - FUNDES | 36000712468202500 | 200.000,00 | 50410002 | 200.000,00 | 1030251182E900001 | 2078813 | 200.000,00 |
+| TOTAL | 27 PROPOSTAS | 37.546.718,00 |  |  |  |  |  |  |  |

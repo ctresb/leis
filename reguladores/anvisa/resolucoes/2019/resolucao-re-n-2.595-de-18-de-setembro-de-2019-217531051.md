@@ -1,0 +1,28 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.595, DE 18 DE SETEMBRO DE 2019(*)"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "2595"
+data: 2019-09-18
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 23/09/2019, seção 1, p. 76"
+data_publicacao: 2019-09-23
+edicao: "184"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.595-de-18-de-setembro-de-2019-*-217531051"
+sha256_html_fonte: 4b28013bc12a26b8390912bbc3586bcc926dd16efae3dc7799bd8b7e24b797c9
+baixado_em: 2026-10-27
+---
+# RESOLUÇÃO-RE Nº 2.595, DE 18 DE SETEMBRO DE 2019(*)
+
+RESOLUÇÃO-RE Nº 2.595, DE 18 DE SETEMBRO DE 2019(\*)
+
+A Coordenadora de Autorização de Funcionamento de Empresas, no uso das atribuições que lhe confere o Art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º.** Alterar a Autorização de Funcionamento das Empresas constantes no anexo desta Resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+ROBERTA MENESES MARQUEZ DE AMORIM
+
+Esta Resolução e o anexo a que se refere serão publicados em suplemento à presente edição.

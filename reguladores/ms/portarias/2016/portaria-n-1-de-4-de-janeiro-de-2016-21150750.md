@@ -1,0 +1,44 @@
+---
+titulo: "PORTARIA Nº 1, DE 4 DE JANEIRO DE 2016"
+orgao: "Ministério da Saúde/SECRETARIA DE ATENÇÃO À SAÚDE"
+tipo: "Portaria"
+numero: "1"
+data: 2016-01-04
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 05/01/2016, seção 1, p. 96"
+data_publicacao: 2016-01-05
+edicao: "2"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-1-de-4-de-janeiro-de-2016-21150750"
+sha256_html_fonte: 56153494e81a345f5ac0b705c6d6e1eb1b8762940c0c305ffb179cdaa108182c
+baixado_em: 2026-10-28
+---
+# PORTARIA Nº 1, DE 4 DE JANEIRO DE 2016
+
+PORTARIA Nº 1, DE 4 DE JANEIRO DE 2016
+
+Indefere o pedido de Adesão ao PROSUS,da Sociedade Beneficente São Luiz deMostardas, com sede em Mostardas (RS).
+
+O Secretário de Atenção à Saúde, no uso de suas atribuições,
+
+Considerandoa Lei n° 12.873, de 24 de outubro de 2013,que instituiu o Programa de Fortalecimento das Entidades PrivadasFilantrópicas e das Entidades sem Fins Lucrativos que Atuam naÁrea da Saúde e que Participam de Forma Complementar do SistemaÚnico de Saúde (PROSUS);
+
+Considerando a Portaria nº 3.076/GM/MS, de 12 de dezembrode 2013, que delega competência ao Secretário de Atenção àSaúde para execução do PROSUS;
+
+Considerando a Portaria nº 535/GM/MS, de 8 de abril de2014, que estabelece normas para a execução no âmbito do Ministérioda Saúde, do PROSUS, de que trata a Lei nº 12.873, de 24 de outubrode 2013;
+
+Considerando a Adesão ao PROSUS deferida, sob condiçãoresolutiva, da Sociedade Beneficente São Luiz de Mostardas, CNPJ nº90.604.414/0001-12; e
+
+Considerando o Parecer Técnico nº 32/2015-CGAGPS/DCEBAS/SAS/MS,constante do Processo nº 25000.126538/2014-88/MS,que concluiu que a entidade não atende aos requisitos exigidos daPortaria nº 535/GM/MS e da Lei nº 12.873/2013, resolve:
+
+**Art. 1º** Fica indeferido o processo de Adesão ao PROSUS,da Sociedade Beneficente São Luiz de Mostardas, CNPJ nº90.604.414/0001-12, com sede em Mostardas (RS).
+
+**Art. 2º** A instituição requerente fica notificada para, casoqueira, apresentar recurso administrativo no prazo de 30 (trinta) diasa contar da data da presente publicação, conforme prevê o art. §3º doart. 30 da Lei n° 12.873/2013.
+
+**Art. 3º** Esta Portaria entra em vigor na data de sua publicação.
+
+ALBERTO BELTRAME
+
+ALBERTO BELTRAME
+
+Este conteúdo não substitui o publicado na versão certificada.

@@ -1,0 +1,228 @@
+---
+titulo: "RESOLUÇÃO RE Nº 1.147, DE 18 DE Março DE 2021"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/3ª Diretoria/Gerência-Geral de Toxicologia"
+tipo: "Resolução"
+numero: "1147"
+data: 2021-03-18
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 22/03/2021, seção 1, p. 129"
+data_publicacao: 2021-03-22
+edicao: "54"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.147-de-18-de-marco-de-2021-309579743"
+sha256_html_fonte: 730e83c6210f4713fa946fd1b9c9b4493518710d481a52b17ad0b0e794064f5b
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO RE Nº 1.147, DE 18 DE Março DE 2021
+
+RESOLUÇÃO RE Nº 1.147, DE 18 DE Março DE 2021
+
+O Gerente-Geral de Toxicologia no uso das atribuições que lhe confere o art. 149, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º** Aprovar a avaliação toxicológica preliminar para fins de Registro Especial Temporário (RET).
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+CARLOS ALEXANDRE OLIVEIRA GOMES
+
+## ANEXO
+
+EMPRESA/CNPJ
+
+PROCESSO
+
+FASE DO EXPERIMENTO
+
+-----------------------------
+
+BASF S/A - 48.539.407/0001-18
+
+25351.722482/2020-55
+
+FASE II
+
+25351.722484/2020-44
+
+FASE II
+
+25351.722495/2020-24
+
+FASE II
+
+25351.722510/2020-34
+
+FASE II
+
+25351.722589/2020-01
+
+FASE II
+
+25351.722666/2020-15
+
+FASE II
+
+25351.722752/2020-28
+
+FASE II
+
+25351.722813/2020-57
+
+FASE II
+
+25351.722879/2020-47
+
+FASE II
+
+25351.732559/2020-03
+
+FASE II
+
+25351.732642/2020-74
+
+FASE II
+
+25351.732661/2020-09
+
+FASE II
+
+25351.680446/2020-15
+
+FASE I
+
+25351.680450/2020-75
+
+FASE II
+
+25351.680579/2020-83
+
+FASE II
+
+25351.524733/2020-38
+
+## ANEXO III — 25351.524781/2020-26
+
+## ANEXO III — -----------------------------
+
+CHR HANSEN INDUSTRIA E COMERCIO LTDA. - 48.871.545/0001-08
+
+25351.643377/2020-51
+
+## ANEXO III — 25351.643397/2020-21
+
+## ANEXO III — 25351.643491/2020-81
+
+## ANEXO III — 25351.643492/2020-25
+
+## ANEXO III — 25351.643591/2020-15
+
+## ANEXO III — 25351.643593/2020-04
+
+## ANEXO III — 25351.643606/2020-37
+
+## ANEXO III — -----------------------------
+
+DOW AGROSCIENCES INDUSTRIAL LTDA - 47.180.625/0001-46
+
+25351.664987/2020-98
+
+FASE III
+
+25351.717011/2020-25
+
+FASE II
+
+25351.717075/2020-26
+
+FASE II
+
+25351.717305/2020-57
+
+FASE II
+
+25351.717348/2020-32
+
+FASE II
+
+-----------------------------
+
+FMC QUÍMICA DO BRASIL LTDA. - 04.136.367/0001-98
+
+25351.722596/2020-03
+
+## ANEXO III — 25351.722763/2020-16
+
+## ANEXO III — 25351.618732/2020-53
+
+## ANEXO III — -----------------------------
+
+HELM DO BRASIL MERCANTIL LTDA - 47.176.755/0001-05
+
+25351.687978/2020-75
+
+## ANEXO III — -----------------------------
+
+IHARABRAS S.A INDÚSTRIAS QUÍMICAS - 61.142.550/0001-30
+
+25351.673377/2020-85
+
+## ANEXO III — 25351.673425/2020-35
+
+## ANEXO III — -----------------------------
+
+JB BIOTECNOLOGIA LTDA. - 22.175.316/0001-57
+
+25351.706467/2020-60
+
+## ANEXO III — -----------------------------
+
+RED SURCOS DO BRASIL COMÉRCIO AGROPECUÁRIO - 12.795.710/0001-34
+
+25351.849282/2021-20
+
+FASE I
+
+-----------------------------
+
+SUMITOMO CHEMICAL DO BRASIL REPRESENTACOES LTDA - 42.462.952/0001-77
+
+25351.799208/2021-55
+
+FASE III
+
+25351.815882/2021-94
+
+FASE III
+
+-----------------------------
+
+SYNGENTA PROTEÇÃO DE CULTIVOS LTDA - 60.744.463/0001-90
+
+25351.706557/2020-51
+
+FASE I
+
+-----------------------------
+
+SYNTECH RESEARCH LABORATORIO BRASIL LTDA - 24.950.006/0002-79
+
+25351.525369/2020-23
+
+## ANEXO III — -----------------------------
+
+UPL DO BRASIL INDÚSTRIA E COMÉRCIO DE INSUMOS AGROPECUÁRIOS S.A. - 02.974.733/0001-52
+
+25351.687760/2020-11
+
+FASE II
+
+25351.861910/2021-45
+
+FASE III
+
+-----------------------------
+
+VITAL BRASIL CHEMICAL INDUSTRIA E COMERCIO DE PRODUTOS QUIMICOS LTDA - ME - 09.258.268/0001-00
+
+25351.706273/2020-64
+
+## ANEXO III

@@ -1,0 +1,26 @@
+---
+titulo: "PORTARIA Nº 946, DE 3 DE JULHO DE 2019"
+orgao: "Ministério Público da União/Ministério Público do Trabalho/Procuradoria-Geral"
+tipo: "Portaria"
+numero: "946"
+data: 2019-07-03
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 05/07/2019, seção 1, p. 78"
+data_publicacao: 2019-07-05
+edicao: "128"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-946-de-3-de-julho-de-2019-189609319"
+sha256_html_fonte: fa03875807f7dd84426c88434182b2a1c95c790aa08d9159b81ab5c7a35513b9
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 946, DE 3 DE JULHO DE 2019
+
+PORTARIA Nº 946, DE 3 DE JULHO DE 2019
+
+O PROCURADOR-GERAL DO TRABALHO, no uso de suas atribuições previstas no art. 91, inciso XXI, da Lei Complementar nº 75/1993, e tendo em vista decisão prolatada pelo Conselho Superior do Ministério Público do Trabalho no PGEA 20.02.2200.0000103/2019-39, em sua 234ª Sessão Ordinária, resolve:
+
+**Art. 1º** Alterar a Portaria PGT nº 1517, de 31.08.2018, publicada no DOU nº 170, de 3.9.2018, que trata da abrangência da Procuradoria Regional do Trabalho da 22ª Região, que passará a ter a seguinte redação:
+
+<table><tr></tr><tr><td><p></p></td><td><p>Área de Abrangência</p></td></tr><tr><td><p>Teresina - Sede</p></td><td><p>Teresina, Agricolândia, Água Branca, Alto Longá, Altos, Amarante, Angical do Piauí, Antônio Almeida, Baixa Grande do Ribeiro, Barras, Barro Duro, Batalha, Beneditinos, Bertolínea, Boa Hora, Bom Princípio do Piauí, Boqueirão, Brasileira, Buriti dos Lopes, Buriti dos Montes, Cabeceiras do Piauí, Cajueiro da Praia, Campo Largo do Piauí, Campo Maior,</p></td></tr><tr><td></td><td><p>Canavieira, Capitão de Campos, Caraúbas, Castelo do Piauí, Caxingó, Cocal, Cocal de Telha, Cocal dos Alves, Coivaras, Curralinhos, Demerval Lobão, Domingos Mourão, Esperantina, Flores do Piauí, Floriano, Francisco Ayres, Guadalupe, Hugo Napoleão, Itaueira, Ilha Grande, Jardim do Mulato, Jatobá do Piauí, Joaquim Pires, Joca Marques,</p></td></tr><tr><td></td><td><p>José de Freitas, Juazeiro do Piauí, Jerumenha, Lagoa Alegre, Lagoa de São Francisco, Lagoa do Piauí, Lagoinha do Piauí, Landri Sales, Luís Correia, Luzilândia, Madeiro, Manoel Emídio, Marcos Parente, Matias Olímpio, Miguel Alves, Miguel Leão, Milton Brandão, Monsenhor Gil, Morro do Chapéu, Murici dos Portelas, Nazaré do Piauí, Nazária, Nossa Senhora de</p></td></tr><tr><td></td><td></td></tr><tr><td></td><td><p>Nazaré, Nossa Senhora dos Remédios, Novo Santo Antônio, Olho D'água do Piauí, Pajeú do Piauí, Palmeirais, Parnaíba, Passagem Franca, Pau D'arco do Piauí, Pavussu, Pedro II, Piracuruca, Piripiri, Porto, Porto Alegre do Piauí, Regeneração, Ribeira do Piauí, Ribeiro Gonçalves, Rio Grande do Piauí, Santo Antônio dos Milagres, São Gonçalo, São João da</p></td></tr><tr><td></td><td><p>Fronteira, São João da Serra, São João do Arraial, São José do Divino, São Miguel do Tapuio, São Pedro do Piauí, Sebastião Leal, Sigefredo Pacheco, União e Uruçuí.</p></td></tr><tr><td><p>PTM - Picos</p></td><td><p>Picos, Acauã, Alagoinha do Piauí, Alegrete do Piauí, Anísio de Abreu, Arraial, Aroazes, Aroeira do Itaim, Assunção do Piauí, Barra D'Alcântara, Bela Vista, Belém do Piauí, Betânia do Piauí, Bocaina, Bonfim do Piauí, Brejo do Piauí, Cajazeiras do Piauí, Caldeirão Grande do Piauí, Campinas do Piauí, Campo Alegre do Fidalgo, Campo Grande do Piauí, Canto do</p></td></tr><tr><td></td><td><p>Buriti, Capitão Gervásio de Oliveira, Caracol, Caridade do Piauí, Colônia do Piauí, Conceição do Canindé, Coronel José Dias, Curral Novo do Piauí, Dirceu Arcoverde, Dom Expedido Lopes, Dom Inocêncio, Elesbão Veloso, Fartura do Piauí, Floresta do Piauí, Francinópolis, Francisco Macedo, Francisco Santos, Fronteiras, Geminiano, Guaribas,</p></td></tr><tr><td></td><td><p>Inhuma, Ipiranga do Piauí, Isaías Coelho, Itainópolis, Jacobina do Piauí, Jaicós, João Costa, Jurema, Lagoa do Barro do Piauí, Lagoa do Sítio do Piauí, Marcolândia, Massapê do Piauí, Monsenhor Hipólito, Nova Santa Rita, Novo Oriente do Piauí, Oeiras, Padre Marcos, Paes Landim, Paquetá, Patos do Piauí, Paulistana, Pedro Laurentino, Pimenteiras, Pio IX, Prata</p></td></tr><tr><td></td><td><p>do Piauí, Queimada Nova, Santa Cruz do Piauí, Santa Cruz dos Milagres, Santa Rosa do Piauí, Santana do Piauí, Santo Antônio do Lisboa, Santo Inácio do Piauí, São Braz do Piauí, São Félix do Piauí, São Francisco de Assis, São Francisco do Piauí, São João da Canabrava, São João da Varjota, São João do Piauí, São José do Peixe, São José do Piauí, São Julião, São</p></td></tr><tr><td></td><td><p>Lourenço do Piauí, São Luís do Piauí, São Miguel da Baixa Grande, São Miguel do Fidalgo, São Raimundo Nonato, Simplício Mendes, Simões, Socorro do Piauí, Sussuapara, Tamboril do Piauí, Tanque do Piauí, Valença do Piauí, Várzea Branca, Várzea Grande, Vera Mendes, Vila Nova do Piauí e Wall Ferraz.</p></td></tr><tr><td><p>PTM - Bom Jesus</p></td><td><p>Bom Jesus, Alvorada do Gurgueia, Avelino Lopes, Barreiras do Piauí, Colônia do Gurgueia, Corrente, Cristalândia, Cristino Castro, Curimatá, Currais, Eliseu Martins, Gilbués, Júlio Borges, Monte Alegre do Piauí, Morro Cabeça no Tempo, Palmeiras do Piauí, Parnaguá, Redenção do Gurgueia, Riacho Frio, Santa Filomena, Santa Luz, São Gonçalo do Gurgueia e</p></td></tr><tr><td></td><td><p>Sebastião Barros.</p></td></tr></table>
+
+RONALDO CURADO FLEURY

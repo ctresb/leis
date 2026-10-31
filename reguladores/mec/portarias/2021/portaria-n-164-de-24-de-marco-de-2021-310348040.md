@@ -1,0 +1,44 @@
+---
+titulo: "PORTARIA Nº 164, DE 24 DE MARÇO DE 2021"
+orgao: "Ministério da Educação/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "164"
+data: 2021-03-24
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 25/03/2021, seção 1, p. 113"
+data_publicacao: 2021-03-25
+edicao: "57"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-164-de-24-de-marco-de-2021-310348040"
+sha256_html_fonte: 395d7b5f02c9ed8f5163f76730a555e69f445da67a09e658ebbc343cd3567840
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 164, DE 24 DE MARÇO DE 2021
+
+PORTARIA Nº 164, DE 24 DE MARÇO DE 2021
+
+Realoca cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS e Função Comissionada do Poder Executivo - FCPE do Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Ministério da Educação - MEC, aprovado pelo Decreto nº 10.195, de 30 de dezembro de 2019.
+
+O MINISTRO DE ESTADO DA EDUCAÇÃO, no uso de suas atribuições, tendo em vista o disposto no art. 6º do Decreto nº 10.195, de 30 de dezembro de 2019, e no art. 17 do Decreto nº 9.739, de 28 de março de 2019, resolve:
+
+**Art. 1º** Efetivar, na forma do Anexo, a seguinte realocação de cargos e funções de confiança no âmbito da Secretaria de Educação Profissional e Tecnológica:
+
+I - um cargo em comissão do Grupo-Direção e Assessoramento Superior - DAS 103.3, de Coordenador de Projeto da Diretoria de Políticas e Regulação da Educação Profissional da Secretaria, para o Gabinete da Secretaria;
+
+II - um cargo em comissão - DAS 101.3, de Coordenador do Gabinete da Secretaria, para a Coordenação-Geral de Legislação e Normas da Educação Profissional e Tecnológica da Secretaria; e
+
+III - uma Função Comissionada do Poder Executivo - FCPE 102.3, de Assessor Técnico da Coordenação-Geral de Legislação e Normas da Educação Profissional e Tecnológica da Secretaria, para a Diretoria de Políticas e Regulação da Educação Profissional da Secretaria.
+
+**Art. 2º** As alterações decorrentes desta Portaria deverão ser propostas nos respectivos regimentos internos e nas alterações futuras do Decreto de aprovação de estrutura regimental do Ministério da Educação - MEC, caso tenham implicado alteração tácita do ato, nos termos do art. 18, inciso II, do Decreto nº 9.739, de 28 de março de 2019.
+
+**Art. 3º** A realocação de que trata o art. 1º deverá ser registrada no Sistema de Organização e Inovação Institucional do Governo Federal - Siorg, até o dia útil anterior à data de entrada em vigor desta Portaria, conforme determinação contida no inciso II do § 2º do art. 17 do Decreto nº 9.739, de 2019.
+
+**Art. 4º** Esta Portaria entra em vigor em 1º de abril de 2021.
+
+MILTON RIBEIRO
+
+## ANEXO
+
+ALTERAÇÕES DO QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO E DAS FUNÇÕES DE CONFIANÇA DO MINISTÉRIO DA EDUCAÇÃO
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="4"><p>SITUAÇÃO ATUAL</p></td>      <td rowspan="1" colspan="4"><p>SITUAÇÃO NOVA</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>UNIDADE</p></td>      <td rowspan="1" colspan="1"><p>CARGO/FUNÇÃO /Nº</p></td>      <td rowspan="1" colspan="1"><p>DENOMINAÇÃO</p><p>CARGO/FUNÇÃO</p></td>      <td rowspan="1" colspan="1"><p>NE/DAS/FCPE/FG</p></td>      <td rowspan="1" colspan="1"><p>UNIDADE</p></td>      <td rowspan="1" colspan="1"><p>CARGO/FUNÇÃO/Nº</p></td>      <td rowspan="1" colspan="1"><p>DENOMINAÇÃO</p><p>CARGO/FUNÇÃO</p></td>      <td rowspan="1" colspan="1"><p>NE/DAS/FCPE/FG</p></td>     </tr>     <tr>      <td rowspan="1" colspan="4"><p>.................................................................</p></td>      <td rowspan="1" colspan="4"><p>......................................................</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>SECRETARIA DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA</p></td>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>Secretário</p></td>      <td rowspan="1" colspan="1"><p>DAS 101.6</p></td>      <td rowspan="1" colspan="1"><p>SECRETARIA DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA</p></td>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>Secretário</p></td>      <td rowspan="1" colspan="1"><p>DAS 101.6</p></td>     </tr>     <tr>      <td rowspan="1" colspan="4"><p>..................................................................</p></td>      <td rowspan="1" colspan="4"><p>..........................................................</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Gabinete</p></td>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>Chefe de Gabinete</p></td>      <td rowspan="1" colspan="1"><p>DAS 101.4</p></td>      <td rowspan="1" colspan="1"><p>Gabinete</p></td>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>Chefe de Gabinete</p></td>      <td rowspan="1" colspan="1"><p>DAS 101.4</p></td>     </tr>     <tr>      <td rowspan="1" colspan="4"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>Coordenador de Projeto</p></td>      <td rowspan="1" colspan="1"><p>DAS 103.3</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Coordenação</p></td>      <td rowspan="1" colspan="1"><p>2</p></td>      <td rowspan="1" colspan="1"><p>Coordenador</p></td>      <td rowspan="1" colspan="1"><p>DAS 101.3</p></td>      <td rowspan="1" colspan="1"><p>Coordenação</p></td>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>Coordenador</p></td>      <td rowspan="1" colspan="1"><p>DAS 101.3</p></td>     </tr>     <tr>      <td rowspan="1" colspan="4"><p>..............................................................</p></td>      <td rowspan="1" colspan="4"><p>...................................................</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Coordenação-Geral de Legislação e Normas da Educação Profissional e Tecnológica</p></td>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>Coordenador-Geral</p></td>      <td rowspan="1" colspan="1"><p>DAS 101.4</p></td>      <td rowspan="1" colspan="1"><p>Coordenação-Geral de Legislação e Normas da Educação Profissional e Tecnológica</p></td>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>Coordenador-Geral</p></td>      <td rowspan="1" colspan="1"><p>DAS 101.4</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>Assessor Técnico</p></td>      <td rowspan="1" colspan="1"><p>FCPE 102.3</p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>Coordenador</p></td>      <td rowspan="1" colspan="1"><p>DAS 101.3</p></td>     </tr>     <tr>      <td rowspan="1" colspan="4"><p>............................................................</p></td>      <td rowspan="1" colspan="4"><p>....................................................</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>DIRETORIA DE POLÍTICAS E REGULAÇÃO DA EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA</p></td>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>Diretor</p></td>      <td rowspan="1" colspan="1"><p>DAS 101.5</p></td>      <td rowspan="1" colspan="1"><p>DIRETORIA DE POLÍTICAS E REGULAÇÃO DA EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA</p></td>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>Diretor</p></td>      <td rowspan="1" colspan="1"><p>DAS 101.5</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>Coordenador de Projeto</p></td>      <td rowspan="1" colspan="1"><p>DAS 103.3</p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>Assessor Técnico</p></td>      <td rowspan="1" colspan="1"><p>FCPE 102.3</p></td>     </tr>     <tr>      <td rowspan="1" colspan="4"><p>................................................................................................</p></td>      <td rowspan="1" colspan="4"><p>........................................................................</p></td>     </tr>    </tbody>   </table>

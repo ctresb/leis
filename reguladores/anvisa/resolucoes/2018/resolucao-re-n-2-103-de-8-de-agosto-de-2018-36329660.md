@@ -1,0 +1,34 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.103, DE 8 DE AGOSTO DE 2018"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Diretoria de Controle e Monitoramento Sanitários/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "2103"
+data: 2018-08-08
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 10/08/2018, seção 1, p. 118"
+data_publicacao: 2018-08-10
+edicao: "154"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2-103-de-8-de-agosto-de-2018-36329660"
+sha256_html_fonte: 2da2b3735eabf797fd8d67bb26859eb773797f3ef2294be9ae61f675e547de7f
+baixado_em: 2026-10-27
+---
+# RESOLUÇÃO-RE Nº 2.103, DE 8 DE AGOSTO DE 2018
+
+RESOLUÇÃO-RE Nº 2.103, DE 8 DE AGOSTO DE 2018
+
+A Gerente-Geral de Inspeção e Fiscalização Sanitária, no uso das atribuições que lhe foram conferidas pela Portaria n° 749, de 04 de junho de 2018, aliado ao disposto no art. 54, I, § 1º do Regimento Interno aprovado nos termos do Anexo I da Resolução da Diretoria Colegiada - RDC nº 61, de 3 de fevereiro de 2016;
+
+Considerando os arts. 12, 50 e 67, I, da Lei nº 6.360, de 23 de setembro de 1976;
+
+Considerando os arts. 2º, inciso VII, 6º e 7º, XV, da Lei nº 9.782 de 26 de janeiro de 1999;
+
+Considerando a comprovação da fabricação e comércio do produto cosmético GEL CURA TUDO 250g sem registro/notificação na Anvisa, por empresa desconhecida, resolve:
+
+**Art. 1º** Determinar, como medida de interesse sanitário, em todo o território nacional, a proibição da fabricação, distribuição, divulgação, comercialização e uso do produto GEL CURA TUDO 250g, fabricado por empresa e CNPJ desconhecidos, localizada em local incerto e distribuído por NATU MAX.
+
+**Art. 2º** Determinar a apreensão das unidades do produto descrito no art. 1º encontradas no mercado.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+MARIÂNGELA TORCHIA DO NASCIMENTO

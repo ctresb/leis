@@ -1,0 +1,34 @@
+---
+titulo: "PORTARIA Nº 95, DE 12 DE MAIO DE 2016"
+orgao: "Ministério das Cidades/SECRETARIA EXECUTIVA/DEPARTAMENTO NACIONAL DE TRÂNSITO"
+tipo: "Portaria"
+numero: "95"
+data: 2016-05-12
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 23/05/2016, seção 1, p. 133"
+data_publicacao: 2016-05-23
+edicao: "97"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-95-de-12-de-maio-de-2016-22915797"
+sha256_html_fonte: 67db198628c67c904cac433085049f97ab63fd2ae30ad712880c0ab33f187ddb
+baixado_em: 2026-10-28
+---
+# PORTARIA Nº 95, DE 12 DE MAIO DE 2016
+
+PORTARIA Nº 95, DE 12 DE MAIO DE 2016
+
+O DIRETOR DO DEPARTAMENTO NACIONAL DETRÂNSITO - DENATRAN, no uso das atribuições que lhe foramconferidas pelo art. 19, incisos I e V, da Lei nº 9.503, de 23 desetembro de 1997, que instituiu o Código de Trânsito Brasileiro, bemcomo o disposto na Resolução nº 168/2004, e alterações 409, 410,411, 413, 414 e 415/2012, do Conselho Nacional de Trânsito - CONTRAN.
+
+Considerando o disposto no processo administrativo nº80000.024676/2015-12, resolve:
+
+**Art. 1º** Homologar o Curso de ATUALIZAÇÃO PARACONDUTORES DE VEÍCULOS DE TRANSPORTE DE CARGASDE PRODUTOS PERIGOSOS - MOPP, na modalidade à distância,apresentado pela empresa ESTRADA FÁCIL Escola e Editora EletrônicaLTDA., inscrita no CNPJ no 20.692.051/0001-39, com sede àRua Cardoso de Almeida, nº 60, Conjunto 51, Bairro Perdizes, CEP:05013-000 - São Paulo - SP.
+
+**Art. 2º** Os órgãos executivos de trânsito dos estados e doDistrito Federal registrarão no Registro Nacional de Condutores Habilitados- RENACH a aprovação do condutor no curso previsto noart. 1º, informação que terá validade nacional.
+
+**Art. 3º** Esta Portaria entra em vigor na data de sua publicação.
+
+ALBERTO ANGERAMI
+
+ALBERTO ANGERAMI
+
+Este conteúdo não substitui o publicado na versão certificada.

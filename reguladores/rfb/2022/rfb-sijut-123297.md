@@ -1,0 +1,2504 @@
+---
+titulo: "Instrução Normativa RFB nº 2072, de 17 de março de 2022"
+orgao: "Secretaria Especial da Receita Federal do Brasil"
+tipo: "Instrução Normativa"
+numero: "2072"
+data: "2022-03-17"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 18/03/2022, seção 1, página 96"
+data_publicacao: "2022-03-18"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/123297/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/123297/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "123297"
+sha256_texto: "86ad1af863e6fc683fd690a1ce32944b86aea39facd93abca7b920be73157bd5"
+baixado_em: "2026-10-16"
+---
+# Instrução Normativa RFB nº 2072, de 17 de março de 2022
+
+Altera a Instrução Normativa SRF nº 680, de 2 de outubro de 2006, que disciplina o despacho aduaneiro de importação, e a Instrução Normativa RFB nº 1.702, de 21 de março de 2017, que disciplina o despacho aduaneiro de exportação processado por meio de Declaração Única de Exportação.
+
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, SUBSTITUTO no uso da atribuição que lhe confere o inciso III do art. 350 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, na Decisão Mercosul/CMC/DEC nº 50, de 16 de dezembro de 2004, nos arts. 586, 588, 594 e 595 do Decreto nº 6.759, de 5 de fevereiro de 2009 - Regulamento Aduaneiro, e na Portaria Conjunta RFB/Secex nº 349, de 21 de março de 2017, resolve:
+
+**Art. 1º** A Instrução Normativa SRF nº 680, de 2 de outubro de 2006, passa a vigorar com as seguintes alterações:
+
+“Art.18. ..................................................................................................................................
+
+.................................................................................................................................................
+
+**§ 9º** Na hipótese prevista no inciso IV do caput do art. 21, os documentos comprobatórios da transação comercial serão considerados documentos obrigatórios de instrução da DI, devendo ser apresentados quando solicitados pelo Auditor-Fiscal da Receita Federal do Brasil responsável pela análise fiscal da respectiva DI.
+
+**§ 10.** Consideram-se documentos comprobatórios da transação comercial a que se refere o § 9º, a correspondência comercial, as cotações de preços, a comprovação da formalização dos compromissos e das responsabilidades contratuais, a fatura proforma, ou documentos equivalentes, os comprovantes de pagamentos, os registros contábeis, a formalização das garantias para pagamentos e os contratos de transporte e de seguro relacionados à operação comercial.
+
+**§ 11.** Cabe ao Auditor-Fiscal da Receita Federal do Brasil responsável pela análise fiscal da DI determinar quais documentos relacionados no § 10 deverão ser apresentados para a comprovação da transação comercial.
+
+**§ 12.** Consideram-se não entregues os documentos comprobatórios relacionados no § 10 caso sejam omissos ou não mereçam fé, nos termos do art. 148 da Lei nº 5.172, de 25 de outubro de 1966, sem prejuízo da apuração da responsabilidade por eventuais ilícitos fiscais e penais, se for o caso.
+
+**§ 13.** No caso de descumprimento da obrigação de apresentação dos documentos comprobatórios da transação comercial a que se refere o § 11, aplica-se o disposto no inciso II do caput do art. 70 da Lei nº 10.833, de 2003.” (NR)
+
+“Art. 24. ..................................................................................................................................
+
+.................................................................................................................................................
+
+**§ 3º** A critério da unidade local de despacho, a conferência aduaneira poderá ser iniciada após a seleção da declaração para canal de conferência, nos termos estabelecidos pela Coana.” (NR)
+
+“Art. 29. ..................................................................................................................................
+
+.................................................................................................................................................
+
+**§ 5º** A Coana poderá editar disposições complementares ao estabelecido neste artigo e nos arts. 6º a 10.” (NR)
+
+“Art. 31. ..................................................................................................................................
+
+.................................................................................................................................................
+
+**§ 1º-A.** O comparecimento ao recinto a que se refere o § 1º fica dispensado caso o importador ou representante opte por acompanhar a verificação da mercadoria de forma remota, conforme estabelecido em ato normativo da Coana.
+
+.......................................................................................................................................” (NR)
+
+“Art. 41-A. ..............................................................................................................................
+
+.................................................................................................................................................
+
+**§ 4º** Na hipótese prevista no § 1º, deverão ser observados os §§ 9º a 13 do art. 18.” (NR)
+
+“Art. 45. .................................................................................................................................
+
+I - de ofício:
+
+a) na unidade da RFB onde for apurada, em ato de procedimento fiscal, a incorreção; ou
+
+b) na unidade de despacho, por solicitação do importador, quando constatada incorreção em campos da declaração para os quais a alteração é permitida somente à RFB; ou
+
+II - pelo importador, que registrará diretamente no Siscomex as alterações necessárias e efetuará o recolhimento dos tributos apurados na retificação, calculados pelo próprio Sistema, por meio de débito automático em conta ou, apenas no caso de limitação do sistema em que o referido débito não seja possível, por meio de Darf.
+
+.......................................................................................................................................” (NR)
+
+“Art. 48-B. O registro da conclusão da conferência aduaneira e do desembaraço das mercadorias será condicionado à prestação de garantia:
+
+I - nas hipóteses e condições estabelecidas no art. 22 da Instrução Normativa RFB nº 1.864, de 27 de dezembro de 2018, sob a forma de depósito em dinheiro, fiança bancária ou seguro aduaneiro, no valor correspondente à diferença entre o valor do crédito tributário que seria devido sem o tratamento tarifário preferencial e o devido quando este for aplicado;
+
+II - nos casos de direitos antidumping ou de direitos compensatórios provisórios suspensos por decisão da Camex nos termos do art. 3º da Lei nº 9.019, de 30 de março de 1995, sob a forma de depósito em dinheiro ou fiança bancária, no valor integral da obrigação e dos demais encargos legais; ou
+
+III - em outras hipóteses previstas em legislação específica.” (NR)
+
+“Art. 49. A seleção da declaração para quaisquer dos canais de conferência aduaneira não impede que o chefe do setor responsável pelo despacho, a qualquer tempo, determine que se proceda à ação fiscal pertinente, se tiver conhecimento de fato ou da existência de indícios que requeiram a necessidade de verificação da mercadoria, ou de aplicação de procedimento de fiscalização de combate a fraudes aduaneiras.” (NR)
+
+“Art. 61. ..................................................................................................................................
+
+**§ 1º** Cada manifesto terá a verificação de prazo e de quantidade efetivamente submetida a despacho realizado pelo depositário ou pela unidade da RFB, nos casos em que a unidade de entrada não tenha depositário.
+
+**§ 1º-A.** A conferência parcial e a apuração final de eventuais extravios ou acréscimos em relação à quantidade submetida a despacho de importação poderão ser feitas pela RFB a qualquer tempo.
+
+.................................................................................................................................................
+
+**§ 2º-A.** O depositário deverá informar à RFB e ao importador a não observância do prazo estabelecido no § 2º.
+
+**§ 3º** No caso de descumprimento do prazo para entrada no território aduaneiro dos lotes remanescentes, o importador fica obrigado, independentemente de exigência fiscal, a retificar a declaração no Siscomex, tendo por base a quantidade efetivamente entregue.
+
+3º-A. A retificação referida no § 3º deverá ser feita previamente à entrega dos lotes remanescentes, que deverão ser objeto de registro de nova declaração, na qual constará o saldo excedente.
+
+**§ 4º** Quando a DI for parametrizada em canal de conferência diferente de verde, o desembaraço aduaneiro será registrado no Siscomex pelo Auditor-Fiscal da Receita Federal do Brasil responsável pelo despacho após a entrega do último lote ou após a informação de entrega prestada pelo depositário à RFB.
+
+**§ 5º** Na hipótese de o importador não promover a retificação a que se refere o § 3º, em até 60 (sessenta) dias a partir do fim do prazo a que se refere o § 2º, a fiscalização deverá efetuar o desembaraço da DI e, se for o caso, e realizar a retificação de ofício, sem prejuízo do disposto na alínea “c” do inciso IV do art. 107 do Decreto-Lei nº 37, de 1966.
+
+**§ 6º** O Auditor-Fiscal da Receita Federal do Brasil responsável pelo despacho, ou designado pela unidade de despacho, poderá, em casos justificados, estabelecer prazo superior ao previsto no § 2º ou prorrogá-lo, por igual período, desde que formalmente solicitado pelo importador antes de seu término.” (NR)
+
+“Art. 62. A entrega da mercadoria fracionada, nos termos do art. 61, será realizada pelo depositário após:
+
+I - o desembaraço da declaração parametrizada para canal verde de conferência; ou
+
+II - a autorização expressa da autoridade aduaneira competente, relativa à entrega do 1º (primeiro) lote, que subsistirá para os lotes subsequentes até a conclusão do despacho fracionado, nos casos de declarações parametrizadas para os demais canais de conferência.
+
+**§ 1º** Na hipótese prevista neste artigo, independentemente do canal de parametrização, o importador deverá apresentar à autoridade aduaneira cada manifesto e os documentos referidos no art. 54, relativos ao lote, na forma de arquivos digitais ou digitalizados, por meio da funcionalidade “Anexação de Documentos Digitalizados”, do Portal Único de Comércio Exterior, para que sejam verificados.
+
+.......................................................................................................................................”. (NR)
+
+**Art. 2º** O Anexo I da Instrução Normativa SRF nº 680, de 2006, passa a vigorar com a seguinte alteração:
+
+“34 - ........................................................................................................................................
+
+.................................................................................................................................................
+
+Caso o importador desconheça o fabricante ou produtor, poderá ser informado como desconhecido.” (NR)
+
+**Art. 3º** O Anexo II da Instrução Normativa SRF nº 680, de 2006, fica substituído pelo Anexo Único desta Instrução Normativa.
+
+**Art. 4º** A Instrução Normativa RFB nº 1.702, de 21 de março de 2017, passa a vigorar com as seguintes alterações:
+
+“Art. 2º ..................................................................................................................................
+
+.................................................................................................................................................
+
+XII - consolidação de carga, a informação prestada pelo interveniente acerca do acobertamento de um ou mais conhecimentos de carga, relativos a uma ou mais operações de exportação que tenham um mesmo destino, final ou para redistribuição, no exterior, para transporte sob um único conhecimento genérico;
+
+.......................................................................................................................................” (NR)
+
+“Art. 66. .................................................................................................................................
+
+.................................................................................................................................................
+
+**§ 6º** O acompanhamento da verificação da mercadoria pelo exportador ou por seu representante poderá ser realizado de forma remota, conforme estabelecido em ato normativo da Coana.” (NR)
+
+“Art. 68. O despacho de exportação será interrompido na hipótese de aplicação da pena de perdimento da mercadoria.
+
+.......................................................................................................................................” (NR)
+
+“Art. 69. .................................................................................................................................
+
+.................................................................................................................................................
+
+III - ...........................................................................................................................................
+
+a) de ofício, nas hipóteses previstas no inciso II, quando o declarante ou o exportador não promover o cancelamento da DU-E no prazo determinado em exigência fiscal pelo Auditor-Fiscal da Receita Federal do Brasil; ou
+
+.................................................................................................................................................
+
+**§ 1º** ........................................................................................................................................
+
+................................................................................................................................................
+
+II - não se aplica à hipótese de interrupção do despacho prevista no art. 68; e
+
+.......................................................................................................................................” (NR)
+
+“Art. 96. .................................................................................................................................
+
+.............................................................................................................................................
+
+XII - de mercadorias cujo transporte internacional se dê pelo modal aquaviário, desde que não estejam acondicionadas em contêineres e a recepção da carga no local de despacho não tenha se dado com base na nota fiscal de exportação.
+
+**§ 1º** Nas hipóteses previstas no caput, a DU-E deverá ser instruída com a programação do embarque.
+
+**§ 3º** Ato do chefe da unidade local da RFB poderá autorizar a adoção do despacho com embarque antecipado para outras hipóteses não previstas neste artigo, desde que comprovada a impossibilidade logística da adoção do embarque após o desembaraço.” (NR)
+
+“Art. 100. ...............................................................................................................................
+
+................................................................................................................................................
+
+II - ...........................................................................................................................................
+
+a) até 60 (sessenta) dias corridos após a conclusão do embarque dos bens, na hipótese prevista no inciso XII do caput do art. 96, relativamente a petróleo bruto e seus derivados e a produtos da indústria siderúrgica e mineração; ou
+
+b) até 10 (dez) dias corridos após a conclusão do embarque ou da transposição de fronteira dos bens, nos demais casos.
+
+......................................................................................................................................” (NR)
+
+**Art. 5º** Ficam revogados os seguintes dispositivos da Instrução Normativa RFB nº 1.702, de 21 de março de 2017:
+
+I - os incisos I e II do caput do art. 68;
+
+II - o § 2º e os incisos I a VI e VIII a XI do caput do art. 96; e
+
+III - o art. 112.
+
+**Art. 6º** Esta Instrução Normativa será publicada no Diário Oficial da União e entrará em vigor em 1º de abril de 2022.
+
+SANDRO DE VARGAS SERPA
+
+ANEXO ÚNICO
+
+(Anexo II da Instrução Normativa SRF nº 680, de 2 de outubro de 2006.)
+
+Anexo Único
+
+NCM
+
+MERCADORIA
+
+1702.60.20
+
+Xarope de frutose (levulose)
+
+2207.10.90
+
+Outros
+
+Ex 001 - Exceto para fins carburantes, conforme especificações determinadas pela Agência Nacional do Petróleo - ANP
+
+2207.20.19
+
+Outros
+
+Ex 001 - Álcool etílico com um teor alcoólico, em volume, igual ou superior a 70% vol, impróprios para consumo humano
+
+2208.90.00
+
+Outros
+
+Ex 001 - Solução de álcool etílico não desnaturado, contendo, em volume, 75% de álcool etílico
+
+2501.00.90
+
+Outros
+
+Ex 001 - Cloreto de sódio puro
+
+2801.20.90
+
+Outros
+
+Ex 001 - Iodo, exceto sublimado
+
+2804.40.00
+
+Oxigênio
+
+Ex 001 - Oxigênio medicinal
+
+2811.21.00
+
+Dióxido de carbono
+
+Ex 001 - Dióxido de carbono medicinal
+
+2811.29.90
+
+Outros
+
+Ex 001 - Óxido nitroso medicinal
+
+2833.21.00
+
+-- De magnésio
+
+2833.29.70
+
+De zinco
+
+Ex 001 - Para aplicação medicinal
+
+2836.50.00
+
+Carbonato de cálcio
+
+2847.00.00
+
+Peróxido de hidrogênio (água oxigenada), mesmo solidificado com ureia
+
+2853.90.90
+
+Outros
+
+Ex 001 - Ar comprimido medicinal
+
+2905.44.00
+
+D-glucitol (sorbitol)
+
+2907.19.90
+
+Outros
+
+Ex 001 - Propofol
+
+2909.19.20
+
+Sevoflurano
+
+2909.19.90
+
+Outros
+
+Ex 001 - Desflurano
+
+Ex 002 - Isoflurano
+
+2915.90.41
+
+Ácido láurico
+
+2918.15.00
+
+-- Sais e ésteres do ácido cítrico
+
+Ex 001 - Citrato de sódio
+
+2922.29.90
+
+Outros
+
+Ex 001 - Dobutamina
+
+2922.39.21
+
+Cloridrato
+
+2922.39.29
+
+Outros
+
+Ex 001 - Ketamina
+
+2922.39.90
+
+Outros
+
+Ex 001 - Dextrocetamina
+
+2922.50.99
+
+Outros
+
+Ex 001 - Salbutamol
+
+2923.90.20
+
+Derivados da colina
+
+Ex 001 - Succinilcolina
+
+2924.29.13
+
+Acetaminofen (paracetamol)
+
+2924.29.14
+
+Lidocaína e seu cloridrato
+
+2924.29.49
+
+Outros
+
+Ex 001 - Fosfato de oseltamivir
+
+2924.29.52
+
+Metoclopramida e seu cloridrato
+
+2925.29.23
+
+Clorexidina e seus sais
+
+2925.29.90
+
+Outros
+
+Ex 001 - Metformina
+
+2932.19.10
+
+Ranitidina e seus sais
+
+2932.20.00
+
+\- Lactonas
+
+Ex 001 - Ivermectina
+
+2932.99.99
+
+Outros
+
+Ex 001 - Fondaparinux
+
+Ex 002 - Varfarina
+
+2933.11.11
+
+Dipirona
+
+2933.29.93
+
+Ondansetron e seus sais
+
+2933.29.99
+
+Outros
+
+Ex 001 - Dexmedetomidina
+
+Ex 002 - Etomidato
+
+2933.33.11
+
+Alfentanilo
+
+2933.33.63
+
+Fentanilo
+
+2933.39.15
+
+Haloperidol
+
+2933.39.39
+
+Outros
+
+Ex 001 - Vecurônio
+
+2933.39.46
+
+Omeprazol
+
+2933.39.49
+
+Outros
+
+Ex 001 - Dabigatrana
+
+Ex 002 - Pancurônio
+
+Ex 003 - Vecurônio
+
+Ex 004 - Remifentanilo
+
+2933.49.90
+
+Outros
+
+Ex 001 - Cloroquina
+
+Ex 002 - Difosfato de cloroquina
+
+Ex 003 - Dicloridrato de cloroquina
+
+Ex 004 - Sulfato de hidroxicloroquina
+
+2933.79.90
+
+Outras
+
+Ex 001 - Apixabana
+
+Ex 002 - Etossuximida
+
+2933.59.29
+
+Outros
+
+Ex 001 - Lopinavir
+
+2933.91.22
+
+Diazepam
+
+2933.91.42
+
+Lorazepam
+
+2933.91.53
+
+Midazolam e seus sais
+
+2933.99.99
+
+Outros
+
+Ex 001 - Levosimendana
+
+2934.10.90
+
+Outros
+
+Ex 001 - Ritonavir
+
+2934.30.10
+
+Maleato de metotrimeprazina (maleato de levomepromazina)
+
+2934.30.90
+
+Outros
+
+Ex 001 - Levomepromazina
+
+2934.91.70
+
+Sufentanila e seus sais
+
+2934.99.19
+
+Outros
+
+Ex 001 - Brometo de rocurônio
+
+Ex 002 - Rocurônio
+
+2934.99.34
+
+Ácidos nucleicos e seus sais
+
+2934.99.39
+
+Outros
+
+Ex 006 - Ribavirina
+
+2934.99.69
+
+Outros
+
+Ex 001 - Edoxabana
+
+2934.99.99
+
+Outros
+
+Ex 001 - Ácido clavulânico e seus sais
+
+2936.29.21
+
+Vitamina D3 (colecalciferol)
+
+2936.29.29
+
+Outros
+
+Ex 001 - Vitamina D2 (ergocalciferol)
+
+2937.19.90
+
+Outros
+
+Ex 001 - Vasopressina
+
+2937.21.20
+
+Hidrocortisona
+
+2937.90.90
+
+Outros
+
+Ex 001 - Epinefrina
+
+Ex 002 - Norepinefrina
+
+2939.11.22
+
+Codeína e seus sais
+
+Ex 001 - Codeína
+
+2939.11.61
+
+Morfina
+
+2939.11.62
+
+Cloridrato e sulfato de morfina
+
+2939.11.69
+
+Outros
+
+2939.19.00
+
+Outros
+
+Ex 001 - Atracúrio
+
+2939.79.90
+
+Outros
+
+Ex 001 - Atropina
+
+Ex 002 - Ipratrópio e seus sais
+
+2941.10.20
+
+Amoxicilina e seus sais
+
+2941.10.90
+
+Outros
+
+Ex 001 - Piperaciclina
+
+2941.40.11
+
+Cloranfenicol, seu palmitato, seu succinato e seu hemissuccinato
+
+Ex 001 - Cloranfenicol
+
+2941.50.10
+
+Claritromicina
+
+2941.90.31
+
+Ceftriaxona e seus sais
+
+2941.90.39
+
+Outros
+
+Ex 001 - Ceftazidima
+
+2941.90.49
+
+Outros
+
+Ex 001 - Amicacina e seus sais
+
+2941.90.59
+
+Outros
+
+Ex 001 - Azitromicina
+
+2941.90.62
+
+Anfotericina B e seus sais
+
+2941.90.89
+
+Outros
+
+Ex 001 - Vancomicina
+
+2941.90.99
+
+Outros
+
+Ex 001 - Meropenem
+
+Ex 002 - Tazobactam
+
+3001.90.10
+
+Heparina e seus sais
+
+Ex 001 - Heparina Sódica
+
+3001.90.90
+
+Outros
+
+Ex 001 - Enoxaparina
+
+3002.12.29
+
+Outros
+
+Ex 001 - Imunoglobulina G (IgG) e Imunoglobulina M (IgM)
+
+3002.12.35
+
+Imunoglobulina G, liofilizada ou em solução
+
+3002.12.39
+
+Outros
+
+Ex 032 - Agente hemostático em gel, composto de gelatina e trombina
+
+3002.13.00
+
+--Produtos imunológicos, não misturados, não apresentados em doses nem acondicionados para venda a retalho
+
+Ex 001 - Casirivimabe
+
+Ex 002 - Imdevimabe
+
+Ex 003 - Banlanivimabe
+
+Ex 004 - Etesevimabe
+
+3002.15.90
+
+Outros
+
+Ex 029 - Kits de teste para Covid-19, baseados em reações imunológicas
+
+Ex 030 - Contendo tocilizumabe
+
+3002.20.19
+
+Outras
+
+Ex 001 - Vacina contra o Covid-19, não apresentadas em doses, nem acondicionadas para venda a retalho
+
+3002.20.29
+
+Outras
+
+Ex 005 - Vacina contra o Covid-19, apresentadas em doses ou acondicionadas para venda a retalho
+
+3002.20.29
+
+Outras
+
+Vacina pneumocócica polissacarídica 23-valente, em doses ou acondicionada para venda a retalho
+
+3003.10.12
+
+Amoxicilina e seus sais
+
+Ex 001 - Contendo amoxicilina e clavulanato de potássio
+
+3003.10.19
+
+Outros
+
+Ex 001 - Contendo piperaciclina e tazobactam
+
+3003.20.11
+
+Cloranfenicol, seu palmitato, seu succinato e seu hemissuccinato
+
+Ex 001 - Contendo cloranfenicol
+
+3003.20.29
+
+Outros
+
+Ex 001 - Azitromicina
+
+Ex 002 - Contendo claritromicina
+
+3003.20.59
+
+Outros
+
+Ex 001 - Contendo ceftazidima
+
+Ex 002 - Contendo ceftriaxona ou seus sais
+
+3003.20.69
+
+Outros
+
+Ex 001 - Contendo amicacina ou seus sais
+
+3003.20.71
+
+Vancomicina
+
+3003.20.99
+
+Outros
+
+Ex 001 - Contendo meropenem
+
+3003.39.29
+
+Outros
+
+Ex 001 - Contendo vasopressina
+
+3003.39.99
+
+Outros
+
+Ex 001 - Contendo epinefrina
+
+Ex 002 - Contendo hidrocortisona
+
+Ex 003 - Contendo norepinefrina
+
+3003.49.40
+
+Codeína ou seus sais
+
+Ex 001 - Contendo codeína
+
+3003.49.90
+
+Outros
+
+Ex 001 - Contendo atracúrio
+
+Ex 002 - Contendo atropina
+
+Ex 003 - Contendo ipratrópio ou seus sais
+
+Ex 004 - Contendo morfina ou seus sais
+
+3003.60.00
+
+Outros, que contenham princípios ativos antimaláricos (antipalúdicos) descritos na Nota de subposições 2 do presente Capítulo
+
+Ex 001 - Contendo Cloroquina
+
+3003.90.15
+
+D-Pantotenato de cálcio; vitamina D3 (colecalciferol)
+
+Ex 001 - Contendo vitamina D3 (colecalciferol)
+
+3003.90.19
+
+Outros
+
+Ex 001 - Contendo vitamina D2 (ergocalciferol)
+
+3003.90.42
+
+Cloridrato de ketamina
+
+3003.90.49
+
+Outros
+
+Ex 001 - Contendo dobutamina
+
+Ex 002 - Contendo salbutamol
+
+3003.90.51
+
+Metoclopramida ou seu cloridrato; closantel
+
+Ex 001 - Contendo metoclopramida ou seu cloridrato
+
+3003.90.53
+
+Lidocaína e seu cloridrato; flutamida
+
+Ex 001 - Contendo lidocaína ou seu cloridrato
+
+3003.90.55
+
+Paracetamol; bromoprida
+
+3003.90.57
+
+Clorexidina ou seus sais; isetionato de pentamidina
+
+Ex 001 - Contendo clorexidina ou seus sais
+
+3003.90.59
+
+Outros
+
+Ex 001 - Contendo oseltamivir ou seus sais
+
+3003.90.69
+
+Outros
+
+Ex 001 - Contendo omeprazol
+
+Ex 002 - Contendo ondansetron ou seus sais
+
+Ex 003 - Contendo ranitidina
+
+3003.90.74
+
+Alprzolam; bromazepam; clordiazepóxido; cloridrato de petidina; diazepam; droperidol; mazindol; triazolam
+
+Ex 001 - Contendo diazepam
+
+3003.90.79
+
+Outros
+
+Ex 001 - Contendo Difosfato de cloroquina
+
+Ex 002 - Contendo Dicloridrato de cloroquina
+
+Ex 003 - Contendo Sulfato de hidroxicloroquina
+
+Ex 004 - Contendo dipirona
+
+Ex 005 - Contendo fentanilo
+
+Ex 006 - Contendo haloperidol
+
+Ex 007 - Contendo lorazepam
+
+Ex 008 - Contendo midazolam ou seus sais
+
+Ex 009 - Contendo omeprazol
+
+Ex 010 - Contendo ondansetron ou seus sais
+
+Ex 011 - Contendo levosimendana
+
+3003.90.89
+
+Outros
+
+Ex 001 - Contendo levomepromazina
+
+Ex 002 - Contendo ribavirina
+
+3003.90.97
+
+Sevoflurano
+
+3003.90.99
+
+Outros
+
+Ex 001 - Contendo sulfato de zinco
+
+Ex 002 - Contendo heparina
+
+Ex 003 - Contendo iodopovidona
+
+Ex 004 - Contendo succinilcolina
+
+3004.10.11
+
+Ampicilina ou seus sais
+
+Ex 001 - Contendo ampicilina
+
+3004.10.12
+
+Amoxicilina ou seus sais
+
+Ex 001 - Contendo amoxicilina e clavulanato de potássio
+
+3004.10.14
+
+Penicilina G potássica
+
+3004.10.19
+
+Outros
+
+Ex 001 - Contendo piperaciclina e tazobactam
+
+3004.20.11
+
+Cloranfenicol, seu palmitato, seu succinato e seu hemissuccinato
+
+Ex 001 - Contendo cloranfenicol
+
+3004.20.29
+
+Outros
+
+Ex 001 - Azitromicina
+
+Ex 002 - Contendo Claritomicina
+
+3004.20.49
+
+Outros
+
+Ex 001 - Contendo clindamicina
+
+3004.20.59
+
+Outros
+
+Ex 001 - Contendo ceftazidima
+
+Ex 002 - Contendo ceftriaxona ou seus sais
+
+Ex 003 - Contendo cefazolina
+
+Ex 004 - Contendo cefepima
+
+3004.20.69
+
+Outros
+
+Ex 001 - Contendo amicacina ou seus sais
+
+Ex 002 - Contendo gentamicina
+
+3004.20.71
+
+Vancomicina
+
+3004.20.99
+
+Outros
+
+Ex 001 - Contendo meropenem
+
+Ex 001 - Contendo epinefrina
+
+Ex 002 - Contendo hidrocortisona
+
+Ex 002 - Contendo cloridrato de doxiciclina
+
+Ex 003 - Contendo norepinefrina
+
+Ex 003 - Contendo nistatina
+
+3004.20.99
+
+Acetato de caspofungina
+
+3004.32.10
+
+Hormônios corticosteroides
+
+Ex 001 - Contendo prednisona
+
+Ex 002 - Contendo succinato sódico de hidrocortisona
+
+Ex 003 - Contendo acetato de dexametasona
+
+Ex 004 - Contendo fosfato dissódico de dexametasona
+
+Ex 005 - Contendo dexametasona
+
+Ex 006 - Contendo prednisolona
+
+Ex 007 - Contendo fosfato sódico de prednisolona
+
+Ex 008 - Contendo acetato de prednisolona
+
+Ex 009 - Contendo acetato de betametasona e fosfato dissódico de betametasona
+
+3004.32.20
+
+Espironolactona
+
+3004.39.29
+
+Outros
+
+Ex 010 - Contendo vasopressina
+
+3004.39.99
+
+Outros
+
+Ex 001 - Contendo epinefrina
+
+Ex 002 - Contendo hidrocortisona
+
+Ex 003 - Contendo norepinefrina
+
+3004.49.40
+
+Codeína ou seus sais
+
+Ex 001 - Contendo codeina e paracetamol
+
+Ex 002 - Contendo codeína
+
+Ex 003 - Contendo cloridrato de naloxona
+
+3004.49.90
+
+Outros
+
+Ex 001 - Contendo atracúrio
+
+Ex 002 - Contendo atropina
+
+Ex 003 - Contendo ipratrópio ou seus sais
+
+Ex 004 - Contendo morfina ou seus sais
+
+Ex 005 - Contendo brometo de ipratropio
+
+Ex 006 - Contendo brometo de ipratrópio e bromidrato de fenoterol
+
+Ex 007 - Contendo aminofilina
+
+3004.50.50
+
+D-Pantoneato de cálcio; vitamina D3 (colecalciferol)
+
+Ex 001 - Contendo vitamina D3 (colecalciferol)
+
+3004.50.90
+
+Outros
+
+Ex 001 - Contendo vitamina D2 (ergocalciferol)
+
+Ex 002 - Contendo fitomenadiona (vitamina k)
+
+Ex 003 - Contendo vitaminas do complexo B
+
+Ex 004 - Contendo dimenidrinato e cloridrato de piridoxina (vitamina B6)
+
+Ex 005 - Contendo dimenidrinato, cloridrato de piridoxina (vitamina B6), glicose e frutose
+
+3004.60.00
+
+Outros, que contenham princípios ativos antimaláricos (antipalúdicos) descritos na Nota de subposições 2 do presente Capítulo
+
+Ex 001 - Contendo Cloroquina
+
+3004.90.29
+
+Outros
+
+Ex 003 - Contendo cetoprofeno
+
+3004.90.32
+
+Cloridrato de ketamina
+
+3004.90.37
+
+Diclofenaco de sódio; diclofenaco de potássio; diclofenaco de dietilamônio
+
+Ex 001 - Contendo diclofenaco de sodio
+
+3004.90.39
+
+Outros
+
+Ex 011 - Contendo dobutamina
+
+Ex 012 - Contendo salbutamol
+
+Ex 013 - Contendo cloridrato de dextrocetamina
+
+Ex 014 - Contendo tartarato metoprolol
+
+Ex 015 - Contendo ácido tranexâmico
+
+Ex 016 - Contendo cloridrato de dopamina
+
+3004.90.41
+
+Metoclopramida ou seu cloridrato; closantel
+
+Ex 001 - Contendo metoclopramida ou seu cloridrato
+
+3004.90.42
+
+Atenolol; prilocaína ou seu cloridrato; talidomida
+
+Ex 001 - Contendo atenolol
+
+3004.90.43
+
+Lidocaína ou seu cloridrato; flutamida
+
+Ex 001 - Contendo lidocaína, sem vasoconstritor
+
+Ex 002 - Contendo cloridrato de lidocaina
+
+3004.90.45
+
+Paracetamol; bromoprida
+
+3004.90.47
+
+Clorexidina ou seus sais; isetionato de pentamidina
+
+Ex 001 - Contendo clorexidina ou seus sais
+
+3004.90.49
+
+Outros
+
+Ex 001 - Contendo oseltamivir ou seus sais
+
+Ex 002 - Contendo cloridrato de verapamil
+
+3004.90.54
+
+Cloridrato de amiodarona
+
+3004.90.59
+
+Outros
+
+Ex 001 - Contendo ranitidina
+
+Ex 002 - Contendo monoidrato de isossorbida
+
+3004.90.61
+
+Terfenadina; talniflumato; malato ácido de cleboprida; econazol ou seu nitrato; nitrato de isoconazol; flubendazol; cloridrato de mepivacaína; trimetoprima; cloridrato de bupivacaína
+
+Ex 001 - Contendo sulfametoxazol e trimetoprima
+
+3004.90.64
+
+Alprazolam; bromazepam; clordiazepóxido; cloridrato de petidina; diazepam; droperidol; mazindol; triazolam
+
+Ex 001 - Contendo diazepam
+
+3004.90.65
+
+Benzetimida ou seu cloridrato; fenitoína ou seu sal sódico; isoniazida; pirazinamida
+
+Ex 001 - Contendo fenitoína sódica
+
+3004.90.66
+
+Ácido 2-(2-metil-3-cloroanilina) nicotínico ou seu sal de lisina; metronidazol ou seus sais; azatioprina; nitrato de miconazol
+
+Ex 001 - Contendo metronidazol
+
+3004.90.69
+
+Outros
+
+Ex 046 - Contendo dipirona
+
+Ex 047 - Contendo fentanilo
+
+Ex 048 - Contendo haloperidol
+
+Ex 049 - Contendo lorazepam
+
+Ex 050 - Contendo midazolam ou seus sais
+
+Ex 043 - Contendo Difosfato de cloroquina
+
+Ex 044 - Contendo Dicloridrato de cloroquina
+
+Ex 045 - Contendo Sulfato de hidroxicloroquina
+
+Ex 051 - Contendo etomidato
+
+Ex 052 - Contendo ciprofloxaci no 500 mg
+
+Ex 053 - Contendo lactato de milrinona
+
+Ex 054 - Contendo flumazenil
+
+Ex 055 - Contendo cloridrato de dexmedetomidine
+
+Ex 056 - Contendo carvedilol
+
+Ex 057 - Contendo captopril
+
+Ex 058 - Contendo fenobarbital sódico
+
+Ex 059 - Contendo fenobarbital
+
+Ex 060 - Contendo besilato de anlodipino
+
+Ex 061 - Contendo fluconazol
+
+Ex 062 - Contendo cloridrato de hidralazina
+
+Ex 063 - Contendo clonazepam
+
+Ex 064 - Contendo cloridrato de clonidina
+
+Ex 065 - Contendo maleato de dexclorfeniramina
+
+Ex 066 - Contendo levosimendana
+
+3004.90.73
+
+Cloxazolam; ketazolam; piroxicam; tenoxicam
+
+Ex 001 - Contendo tenoxicam
+
+3004.90.75
+
+Enantato de flufenazina; prometazina; gliburida; rutosídio; deslanosídio
+
+Ex 001 - Contendo deslanosídio
+
+3004.90.76
+
+Clortalidona; furosemida
+
+Ex 001 - Contendo furosemida
+
+3004.90.78
+
+Amprenavir; aprepitanto; delavirdina ou seu mesilato; efavirenz; emtricitabina; etopósido; everolimus; fosamprenavir cálcico; fosfato de fludarabina; gencitabina ou seu cloridrato; raltitrexida; ritonavir; sirolimus; tacrolimus; temsirolimus; tenipósido; tipranavir
+
+Ex 002 - Contendo ritonavir
+
+3004.90.79
+
+Outros
+
+Ex 027 - Contendo brometo de rocurônio
+
+Ex 028 - Contendo levofloxacino
+
+Ex 029 - Contendo adenosina
+
+Ex 030 - Contendo hidroclorotiazida
+
+Ex 031 - Contendo butilbrometo de escopolamina
+
+Ex 032 - Contendo bissulfato de clopidogrel
+
+Ex 033 - Contendo digoxina
+
+Ex 034 - Contendo linezolida
+
+Ex 035 - Contendo levomepromazina
+
+Ex 036 - Contendo ribavirina
+
+3004.90.97
+
+Sevoflurano
+
+3004.90.99
+
+Outros
+
+Ex 021 - Peróxido de hidrogênio (água oxigenada), acondicionado para uso interno ou externo como medicamento, inclusive como antisséptico para a pele. Apenas coberto aqui se em doses ou embalagens para venda a retalho (inclusive diretamente a hospitais) para esse uso
+
+Ex 022 - Contendo sulfato de zinco
+
+Ex 023 - Contendo heparina
+
+Ex 024 - Contendo iodopovidona
+
+Ex 025 - Solução isotônica contendo cloreto de sódio, cloreto de potássio e cloreto de cálcio diidratado, podendo conter ou não lactato de sódio
+
+Ex 026 - Solução de cloreto de sódio isotônica (0,9%)
+
+Ex 027 - Contendo succinilcolina
+
+Ex 028 - Contendo cloreto de suxametônio
+
+Ex 029 - Solução de ringer com lactato
+
+Ex 030 - Sais para reidratação oral
+
+Ex 031 - Solução injetável, contendo de glicose
+
+Ex 032 - Solução injetável, contendo bicarbonato de sódio
+
+Ex 033 - Solução injetável, contendo sulfato de magnésio
+
+Ex 034 - Contendo alteplase
+
+Ex 035 - Solução injetável, contendo gliconato de cálcio
+
+Ex 036 - Água estéril para injeção
+
+Ex 037 - Solução injetável, contendo glicose
+
+Ex 038 - Contendo colagenase
+
+Ex 039 - Solução injetável, contendo fosfato de potássio monobásico e dibásico
+
+Ex 040 - Solução contendo 3,5% de gelatina
+
+Ex 041 - Solução contendo 12% de glicerina
+
+Ex 042 - Solução injetável 6%, contendo hidroxietilamido e cloreto de sódio, com grau de substituição molar de 0,38 a 0,45 e com peso molecular de 130.000 daltons
+
+Ex 043 - Solução oral, contendo lactulose
+
+Ex 044 - Solução injetável, contendo enoxaparina
+
+Ex 045 - Solução injetável, contendo enoxaparina sódica
+
+3005.10.20
+
+Curativos (pensos) cirúrgicos que permitem a observação direta de feridas
+
+Ex 001 - Fita cirúrgica autoadesiva, hipoalergênica
+
+3005.90.12
+
+De copolímeros de ácido glicólico e ácido láctico
+
+3005.90.19
+
+Outros
+
+3005.90.20
+
+Campos cirúrgicos, de falso tecido
+
+3005.90.90
+
+Outros
+
+Ex 001 - Pastas, gazes, ligaduras, palitos de algodão e artigos semelhantes, impregnados ou revestidos de substâncias farmacêuticas ou acondicionados em formas ou embalagens para venda a varejo para uso médico
+
+3006.10.90
+
+Outros
+
+Ex 001 - Hemostático cirúrgico à base de colágeno reabsorvível, revestido de NHS-PEG (pentaeritritol polietileno glicol éter tetrasuccinimidil glutarato)
+
+3006.70.00
+
+\- Preparações sob a forma de gel, concebidas para uso em medicina humana ou veterinária, como lubrificante para determinadas partes do corpo em intervenções cirúrgicas ou exames médicos, ou como meio de ligação entre o corpo e os instrumentos médicos
+
+Ex 001 - Gel condutor para utilização em procedimentos de ECG ou de ultrassom
+
+Ex 002 - Gel lubrificante para procedimentos médicos
+
+3302.90.90
+
+Outras
+
+Ex 002 - Aromatizante para medicamentos
+
+3304.99.90
+
+Outros
+
+Ex 001 - Preparação para conservação ou cuidados da pele, à base de ácidos graxos essenciais, lecitina de soja, vitamina A e vitamina E
+
+3401.11.10
+
+Sabões medicinais
+
+Ex 001 - Sabão medicinal, em barra
+
+3401.11.90
+
+Outros
+
+Ex 001 - Outros sabões de toucador, em barra
+
+3401.20.90
+
+Outros
+
+Ex 001 - Sabão líquido ou em pó
+
+3401.30.00
+
+Produtos e preparações orgânicos tensoativos para lavagem da pele, em forma de líquido ou de creme, acondicionados para venda a retalho, mesmo que contenham sabão
+
+Ex 001 - Sabonete líquido
+
+3701.10.10
+
+Sensibilizados em uma face
+
+Ex 001 - Placa de fósforo (Image Plate)
+
+Ex 002 - Filmes radiográficos planos, sensibilizados em uma face
+
+3701.10.29
+
+Outros
+
+Ex 001 - Filmes radiográficos planos, sensibilizados nas duas faces
+
+3808.94.19
+
+Outros
+
+Ex 001 - Outros desinfetantes em formas ou embalagens exclusivamente para uso direto em aplicações domissanitárias
+
+3808.94.29
+
+Outros
+
+Ex 001 - Gel antisséptico, à base de álcool etílico 70%, contendo, entre outros, umectantes, espessante e regulador de pH, próprio para higienização das mãos
+
+Ex 002 - Peróxido de hidrogênio (água oxigenada), acondicionado como soluções de limpeza para superfícies ou aparelhos
+
+Ex 003 - Desinfetante para dispositivos médicos
+
+Ex 004 - Toalha impregnada com Gluconato de clorexidina para higiene de pacientes em isolamento
+
+Ex 005 - Solução de limpeza à base de ácido peracético
+
+3821.00.00
+
+Meios de cultura preparados para o desenvolvimento e a manutenção de microrganismos (incluindo os vírus e os organismos similares) ou de células vegetais, humanas ou animais.
+
+3822.00.90
+
+Outros
+
+Ex 001 - Kits de teste para Covid-19, baseados no teste de ácido nucleico da reação em cadeia da polimerase (PCR)
+
+3824.99.89
+
+Outros
+
+Ex 001 - Cloreto de sódio e suplemento para meio de cultura, tipo penicilina g + estreptomicina
+
+Ex 002 - Suplemento para meio de cultura, tipo penicilina g + estreptomicina, aspecto físico líquido, concentração 10.000 ui + 10 mg/ml
+
+3906.90.19
+
+Outros (Polímeros acrílicos em formas primárias, nas formas previstas na Nota 6 a) deste Capítulo, em água)
+
+3906.90.43
+
+Carboxipolimetileno, em pó
+
+3913.90.20
+
+Goma xantana
+
+3917.40.90
+
+Outros
+
+Ex 003 - Conector de plástico para infusão
+
+3921.13.90
+
+Outros
+
+Ex 001 - Chapas, folhas, películas, tiras e lâminas, de poliuretano, exceto as do item 3921.13.10
+
+3923.29.10
+
+De capacidade inferior ou igual a 1.000 cm3
+
+Ex 001 - Saco de eliminação de resíduos de risco biológico, com impressão "Bio Hazard”, de polipropileno autoclavável, com 50 ou 70 mícrons de espessura, de capacidade inferior ou igual a 1.000 cm3
+
+3923.29.90
+
+Outros
+
+Ex 001 - Saco de eliminação de resíduos de risco biológico, com impressão "Bio Hazard”, de polipropileno autoclavável, com 50 ou 70 mícrons de espessura, de capacidade superior a 1.000 cm3
+
+3926.20.00
+
+Vestuário e seus acessórios (incluindo as luvas, mitenes e semelhantes)
+
+Ex 001 - Vestuário e seus acessórios de proteção, de plástico
+
+Ex 002 - Luvas de proteção, de plástico
+
+3926.90.40
+
+Artigos de laboratório ou de farmácia
+
+3926.90.90
+
+Outras
+
+Ex 024 - Presilha plástica para máscara de proteção individual, própria para prender o tirante de fixação na cabeça do usuário
+
+Ex 025 - Clip nasal plástico, próprio para máscara de proteção individual
+
+Ex 026 - Máscaras de proteção, de plástico
+
+Ex 027 - Almofadas de plástico de espuma, com correias de velcro, protetores de braço integrados e apoio de cabeça, correias para o corpo, lençóis de elevação, apertos de mão e máscaras faciais, dos tipos utilizados para posicionamento de pacientes durante procedimentos médicos
+
+Ex 028 - Cortinas estéreis de uso único e coberturas de plástico, do tipo usado para proteger o campo estéril nas salas cirúrgicas
+
+Ex 029 - Decantadores estéreis de plásticos de poliestireno, cada um dos tipos utilizados para transferir produtos assépticos ou medicamentos de ou para sacos, frascos ou recipientes de vidro estéreis
+
+Ex 030 - Recipientes de plástico moldado, com presilhas para reter os fios-guia durante procedimentos cirúrgicos
+
+Ex 031 - Artigos de uso cirúrgico, de plástico
+
+Ex 035 - Almotolias
+
+Ex 036 - Tampa protetora para conector
+
+4001.10.00
+
+Látex de borracha natural, mesmo pré-vulcanizado
+
+4007.00.19
+
+Outros
+
+Ex 001 - Fios de borracha vulcanizada, exceto recobertos com silicone
+
+4014.90.90
+
+Outros
+
+Ex 001 - Torniquete para coleta de sangue
+
+4015.11.00
+
+Para cirurgia
+
+4015.19.00
+
+Outras
+
+4015.90.00
+
+Outros
+
+Ex 001 - Vestuário unissex de proteção, de folhas de borracha, borracha reforçada com têxtil ou borracha com suporte têxtil
+
+4818.50.00
+
+Vestuário e seus acessórios
+
+Ex 001 - Máscaras de papel/celulose
+
+Ex 002 - Vestuário e acessórios de vestuário, em papel ou celulose
+
+4818.90.90
+
+Outros
+
+Ex 001 - Lencóis de papel
+
+4819.10.00
+
+Caixas de papel ou cartão, ondulados (canelados\*)
+
+Ex 001 - Coletor descartável para perfurocortantes
+
+5503.20.10
+
+Bicomponentes, de diferentes pontos de fusão
+
+5601.22.99
+
+Outros
+
+5603.11.30
+
+De polipropileno
+
+Ex 001 - Falso tecido de filamentos sintéticos de polipropileno, utilizado na fabricação de máscaras de proteção.
+
+5603.11.90
+
+Outros
+
+Ex 001 - Falso tecido de filamentos sintéticos de outros polímeros, utilizado na fabricação de máscaras de proteção
+
+5603.12.40
+
+De polipropileno
+
+Ex 001 - Falsos tecidos, mesmo impregnados, revestidos, recobertos ou estratificados, de polipropileno, com peso superior a 25 g/m², mas não superior a 70 g/m²
+
+5603.13.40
+
+De polipropileno
+
+Ex 001 - Falsos tecidos, mesmo impregnados, revestidos, recobertos ou estratificados, de polipropileno, com peso superior a 70 g/m², mas não superior a 150 g/m²
+
+5603.14.30
+
+De polipropileno
+
+Ex 001 - Falsos tecidos, mesmo impregnados, revestidos, recobertos ou estratificados, de polipropileno, com peso superior a 150 g/m²
+
+5607.50.11
+
+De náilon
+
+Ex 001 - Cordão de náilon com elastano, com diâmetro de 2,8 mm, utilizado para a fabricação de máscaras de proteção.
+
+5911.90.00
+
+Outros
+
+Ex 001 - Tecidos planos, com urdidura ou trama múltiplas, feltrados ou não, mesmo impregnados ou revestidos, para fabricação de máscaras de proteção
+
+6116.10.00
+
+Impregnadas, revestidas ou recobertas, de plásticos ou de borracha
+
+Ex 001 - Luvas de malha de proteção, impregnadas ou cobertas com plástico ou borracha
+
+6210.10.00
+
+Com as matérias das posições 56.02 ou 56.03
+
+Ex 001 - Vestuário de proteção de falso tecido, mesmo impregnado, revestido, recoberto ou estratificado, com tecidos
+
+Ex 002 - Avental descartável de peso igual ou superior a 30g/m2, ou, quando impermeável, com peso igual ou superior a 50g/m2
+
+6210.20.00
+
+Outro vestuário, do tipo abrangido pelas subposições 6201.11 a 6201.19
+
+Ex 001 - Capas, casacos e artigos semelhantes de proteção, de uso masculino, de tecidos impregnados, revestidos, recobertos ou estratificados, com plástico ou com outras matérias, ou de tecidos com borracha
+
+6210.30.00
+
+Outro vestuário, do tipo abrangido pelas subposições 6201.11 a 6201.19
+
+Ex 001 - Capas, casacos e artigos semelhante de proteção, de uso feminino, de tecidos impregnados, revestidos, recobertos ou estratificados, com plástico ou com outras matérias, ou de tecidos com borracha
+
+6210.40.00
+
+Outro vestuário de uso masculino
+
+Ex 001 - Outro vestuário de uso masculino, de tecidos impregnados, revestidos, recobertos ou estratificados, com plástico ou com outras matérias, ou de tecidos com borracha
+
+6210.50.00
+
+Outro vestuário de uso feminino
+
+Ex 001 - Outro vestuário de uso feminino, de tecidos impregnados, revestidos, recobertos ou estratificados, com plástico ou com outras matérias, ou de tecidos com borracha
+
+6216.00.00
+
+Luvas, mitenes e semelhantes
+
+Ex 001 - Luvas de proteção têxteis, exceto de malha
+
+6307.90.10
+
+De falso tecido
+
+Ex 001 - Máscaras de proteção, máscaras cirúrgicas, toucas de proteção, capas descartáveis, material hospitalar descartável, protetores de pés (propé), de falso tecido
+
+Ex 002 - Sapatilha, material TNT, cor branca, aplicação uso laboratório, características adicionais com elástico, não estéril, aplicação de resina antiderrapante, tipo uso descartável, tamanho único
+
+6307.90.90
+
+Outros
+
+Ex 001 - Compressas frias que consistem em compressas frias de reação química endotérmica de uso único, instantâneas, combinadas com um revestimento externo de têxteis
+
+Ex 002 - Compressas oculares, cada uma consistindo de uma capa de tecido cheia de contas de sílica ou gel, com ou sem uma tira de velcro
+
+Ex 003 - Máscaras faciais de uso único, de tecidos
+
+Ex 004 - Almofadas de gel de matérias têxteis, cada uma com mangas de tecido removível, na forma de corações, círculos ou quadrantes
+
+Ex 005 - Embalagens a quente de material têxtil de uso único (reação química exotérmica)
+
+Ex 006 - Esponjas de laparotomia de algodão
+
+Ex 007 - Correias de segurança ou de proteção do paciente de materiais têxteis, com prendedores de gancho e laço ou trava de escada
+
+Ex 008 - Mangas de manguito de pressão única de material têxtil
+
+Ex 009 - Esponjas de gaze tecida de algodão em tamanhos quadrados ou retangulares
+
+6505.00.21
+
+De algodão
+
+Ex 001 - Gorro descartável de algodão
+
+6505.00.22
+
+De fibras sintéticas ou artificiais
+
+6506.10.00
+
+Capacetes e artigos de uso semelhante, de proteção
+
+Ex 001 - Capacete para proteção para uso em medicina
+
+7017.10.00
+
+De quartzo ou de outras sílicas, fundidos
+
+Ex 001 - Lâminas para instrumento para análise de bioquímica
+
+7017.20.00
+
+De outro vidro com um coeficiente de dilatação linear não superior a 5x10-6 por Kelvin, entre 0°C e 300°C
+
+Ex 001 - Lâminas para instrumento para análise de bioquímica
+
+7217.20.90
+
+Outros
+
+Ex 001 - Fio de aço galvanizado, com dimensões transversais de 0,5 x 3,0 mm, com revestimento de polímeros (polietileno e polipropileno), utilizado para fabricação de máscaras de proteção.
+
+7311.00.00
+
+Recipientes para gases comprimidos ou liquefeitos, de ferro fundido, ferro ou aço
+
+Ex 001 - Para gases medicinais
+
+7324.90.00
+
+Outros, incluindo as partes
+
+Ex 001 - Bandejas cirúrgicas
+
+7326.20.00
+
+Obras de fio de ferro ou aço
+
+Ex 001 - Clip nasal e grampos metálicos em ferro ou aço, próprio para máscara de proteção individual
+
+7326.90.90
+
+Outras
+
+Ex 004 - Suporte em aço inox com 2 ou 3 articulações, com gancho para apoio, para circuitos respiratórios.
+
+7606.92.00
+
+De ligas de alumínio
+
+Ex 001 - Tiras de ligas de alumínio, com largura de 5 mm e com comprimento de 7.740 m, apresentadas em bobinas, utilizadas para fabricação de “clip nose” de máscaras de proteção respiratórias
+
+7611.00.00
+
+Reservatórios, tonéis, cubas e recipientes semelhantes para quaisquer matérias (exceto gases comprimidos ou liquefeitos), de alumínio, de capacidade superior a 300L, sem dispositivos mecânicos ou térmicos, mesmo com revestimento interior ou calorífugo.
+
+Ex 001 - Reservatório (tanque) para armazenamento de gases medicinais
+
+7613.00.00
+
+Recipientes para gases comprimidos ou liquefeitos, de alumínio
+
+Ex 001 - Para gases medicinais
+
+7616.99.00
+
+Outras
+
+Ex 001 - Suporte metálico com 2 ou 3 articulações, com gancho para apoio, para circuitos respiratórios.
+
+Ex 006 - Fitas maleáveis de alumínio, com camada adesiva, utilizadas em respiradores sem manutenção.
+
+Ex 007 - Fitas de alumínio cortadas na forma de "clips", revestidas de adesivo, para fabricação de máscaras de proteção respiratórias
+
+8413.70.10
+
+Eletrobombas submersíveis
+
+8414.10.00
+
+Bombas de vácuo
+
+Ex 050 - Bombas de vácuo cirúrgicas, equipadas com filtro bactericida
+
+8414.20.00
+
+Bombas de ar, de mão ou de pé
+
+Ex 001 - Bomba de ar elétrica, para aplicações médicas
+
+8414.80.19
+
+Outros
+
+Ex 138 - Compressores de ar centrífugos montados com motor DC (sem escovas) e placa de controle, acompanhado de dois elementos filtrantes para filtragem de ar e etiquetas de identificação.
+
+8414.80.31
+
+De pistão
+
+Ex 003 - Compressores de pistão medicinais, isentos de óleo, para fornecimento de ar comprimido medicinal
+
+8414.80.32
+
+De parafuso
+
+Ex 002 - Compressores de parafuso medicinais, isentos de óleo, para fornecimento de ar comprimido medicinal
+
+8414.80.33
+
+Centrífugos, de vazão máxima inferior a 22.000 m3/h
+
+Ex 001 - Compressores centrífugos medicinais, de vazão máxima inferior a 22.000 m3/h, isentos de óleo, para fornecimento de ar comprimido medicinal
+
+8419.20.00
+
+Esterilizadores médico-cirúrgicos ou de laboratório
+
+8419.40.90
+
+Outros
+
+8419.60.00
+
+Aparelhos e dispositivos para liquefação do ar ou de outros gases
+
+8419.90.20
+
+De colunas de destilação ou de retificação
+
+8421.39.90
+
+Outros
+
+Ex 101 - Gerador de oxigênio de adsorção por variação de pressão (PSA) para um sistema central de fornecimento de oxigênio de grau médico
+
+Ex 105 - Filtro antibacteriano da entrada de oxigênio, para ventiladores médicos
+
+Ex 106 - Filtro para ventilação mecânica
+
+Ex 107 - Filtros para ventiladores
+
+Ex 108 - Mini Filtro removedor de óleo, com vazão de 3 dm3/s, remoção de partícula de 0,01 µm e teor máximo de óleo restante de 0,01mg/m3 (classe 1), certificação ROHS classe 2, utilizados em ventiladores pulmonares.
+
+8421.99.10
+
+De aparelhos para filtrar ou depurar gases, da subposição 8421.39
+
+Ex 010 - Elemento filtrante de matéria têxtil com espuma plástica de proteção, em formato próprio para uso em filtros de ar de ventiladores médicos
+
+8422.40.90
+
+Outros
+
+Ex 888 - Máquina para embalagem de máscaras descartáveis, composto por estações de selagem por filme, com ou sem estação de transporte de carregamento e descarregamento por trilho manual, dotado de sistema do controle PLC, com capacidade de embalar até 250 pacotes de máscaras por minuto.
+
+8449.00.80
+
+Outros
+
+Ex 002 - Máquina semiautomática para produção de máscaras descartáveis, composto por estação de impressão de máscaras, estação de soldagem por ultrassom de carregamento manual, com ou sem estação de transporte por trilho para carregamento e descarregamento manual, dotada de sistema do controle PLC, com capacidade de produzir até 75 máscaras por minuto.
+
+8473.30.41
+
+Placas-mãe (mother boards)
+
+Ex 001 - Placa-mãe SBC (single board computer), com memória RAM e Compact Flash
+
+8473.30.49
+
+Outros
+
+Ex 004 - Placa controladora de touchscreen com tecnologia SAW (Onda Superficial Acústica)
+
+8473.30.99
+
+Outros
+
+Ex 024 - Painel touchscreen com tecnologia SAW (Onda Superficial Acústica)
+
+8479.89.99
+
+Outros
+
+Ex 314 - Combinação de máquinas para fabricação automática de máscaras de proteção respiratória 175 mm x 95 mm, composta por unidade formadora da máscara e unidade de soldagem ultrassônica da tira elástica auricular, com capacidade de produzir de 50 peças a 100 por minuto.
+
+Ex 315 - Equipamento para esterilização por óxido de etileno
+
+Ex 316 - Equipamentos para esterilização por plasma de Peróxido de hidrogênio
+
+8481.10.00
+
+Válvulas redutoras de pressão
+
+Ex 024 - Mini regulador de pressão de oxigênio com vazão de até 500L/min, estilo cartucho, com pressão de entrada de 0 a 2,75 bar e certificação ROHS classe 2, utilizados em ventiladores pulmonares.
+
+8481.20.90
+
+Outras
+
+Ex 075 - Válvulas solenoides proporcionais, para uso em ventiladores pulmonares
+
+8481.40.00
+
+Válvulas de segurança ou de alívio
+
+8481.80.92
+
+Válvulas solenoides
+
+Ex 037 - Válvula Solenoide Liga/Desliga
+
+8481.80.99
+
+Outros
+
+Ex 092 - Conector 3 vias para infusão com torneira, de plástico
+
+8501.10.19
+
+Outros
+
+Ex 001 - Motor de passo 7,2°, com potência de 1,67W, de corrente contínua
+
+8504.40.21
+
+De cristal (semicondutores)
+
+Ex 001 - Fonte chaveada com tensão de entrada de 90 a 264 V e potência de 110W, compatível com a Norma EN/IEC/UL 60601-1
+
+Ex 002 - Placa de circuito impresso montada com componentes eletroeletrônicos para distribuição de tensões em corrente contínua, para ventiladores médicos
+
+8504.40.90
+
+Outros
+
+Ex 047 - Placa de circuito impresso montada com componentes eletroeletrônicos para monitoramento e controle de acionamento de motor elétrico, para ventiladores médicos
+
+8504.50.00
+
+Outras bobinas de reatância e de autoindução
+
+Ex 001 - Indutor de potência blindado de até 10 µH, com tolerância de ± 10%, com corrente de aquecimento de até 28 A para elevação de temperatura de 40°C, para utilização em ventiladores pulmonares.
+
+8507.20.10
+
+De peso inferior ou igual a 1.000 kg
+
+Ex 001 - Bateria chumbo-ácido, com capacidade inferior ou igual a 25 Ah e de peso inferior ou igual a 9 kg
+
+8507.60.00
+
+De íon de lítio
+
+Ex 002 - Bateria Pack 6 de íons de lítio, com tensão 11,4 V e capacidade de 4000 mAh
+
+Ex 003 - Bateria de lítio com cabo, composta por células de lítio, com potência entre 130W e 170W
+
+Ex 013 - Bateria de íon de lítio com capacidade de 11 Ah, para ventiladores médicos
+
+8514.40.00
+
+Outros aparelhos para tratamento térmico de matérias por indução ou por perdas dielétricas
+
+Ex 011 - Outros aparelhos para tratamento térmico de matérias por indução ou por perdas dielétricas (Equipamento de RT-PCR)
+
+8515.80.90
+
+Outros
+
+Ex 134 - Máquinas para soldagem por ultrassom, para fabricação de máscaras de proteção respiratórias, com capacidade de produzir acima de 45 peças por minuto e com frequência de 50/60 Hz, podendo conter função de corte.
+
+8516.79.90
+
+Outros
+
+Ex 001 - Aparelho eletrotérmico para aquecimento do ar e o insuflar em manta aquecedora convectiva de uso hospitalar, capaz de controlar a temperatura nas faixas de 37°C, 40°C e 43°C.
+
+8523.51.10
+
+Cartões de memória (memory cards)
+
+Ex 005 - Cartão de memória do tipo microSD de classe industrial com capacidade de até 2GBytes
+
+8525.80.19
+
+Outras
+
+Ex 001 - Câmera termográfica própria para medição de temperatura entre 30°C e 45°C, composta por sensor óptico com resolução de 4MP com 2688 x 1520 elementos de imagem (pixels) ativos e por módulo termográfico de vanádio não refrigerado, para captar imagens no espectro infravermelho de comprimento de onda igual ou superior a 8 micrômetros (mícrons) e inferior ou igual a 14 micrômetros (mícrons), combinando a imagem termográfica com a imagem óptica
+
+8525.80.29
+
+Outras
+
+Ex 001 - Câmera termográfica própria para medição de temperatura combinando a imagem térmica com a imagem óptica, composta por sensor óptico com resolução de imagem de 2 MP, 5 MP ou 8 MP e resolução de vídeo de 640 x 480 elementos de imagem (pixels) ativos e por módulo térmico, com resolução de 160 x 120 elementos de imagem (pixels) ativos, que capta imagens no espectro infravermelho de comprimento de onda igual ou superior a 8 micrômetros (mícrons) e inferior ou igual a 14 micrômetros (mícrons).
+
+8528.52.20
+
+Policromáticos
+
+Ex 014 - Monitor LCD de 17" com proporção 4:3 e com touchscreen resistivo
+
+8529.90.20
+
+De aparelhos das posições 8527 ou 8528
+
+Ex 032 - Display LCD TFT 12.1"
+
+8537.10.90
+
+Outros
+
+Ex 027 - Placa de circuito impresso montada com componentes eletroeletrônicos para gerenciamento de energia do sistema, para ventiladores médicos
+
+8539.49.00
+
+--Outros
+
+Ex 001 - Lâmpadas de vapor de mercúrio (Hg) de baixa pressão, emissoras de luz ultravioleta tipo C (UVC) com comprimento de onda na faixa de 254 nm.
+
+8539.50.00
+
+Lâmpadas e tubos de diodos emissores de luz (LED)
+
+Ex 001 - Lâmpadas portáteis de diodos emissores de luz (LED) ultravioleta tipo C, com comprimento de onda entre 265 e 275 nm, destinadas à descontaminação de equipamentos e de áreas hospitalares.
+
+8543.70.99
+
+Outros
+
+Ex 210 - Controladores faciais com leitura de temperatura.
+
+Ex 212 - Aparelho para detecção de metais e medição de temperatura facial sem contato, para distância entre 0, 3 m e 3,0 m e altura do alvo entre 1,45 m e 1,85 m, por câmera térmica com sensor de vanádio não refrigerado, para captar imagens no espectro infravermelho de comprimento de onda igual ou superior a 8 micrômetros (mícrons) e inferior ou igual a 14 micrômetros (mícrons), com alarme para excesso de temperatura e visor de contagem
+
+Ex 213 - Central de Monitorização de Pacientes
+
+Ex 214 - Digitalizador de cassetes de raios-X
+
+8543.90.10
+
+Das máquinas ou aparelhos da subposição 8542.70
+
+Ex 006 - Chassi para radiologia digital
+
+8548.90.90
+
+Outras
+
+Ex 001 - Display 5,7 polegadas
+
+8704.22.90
+
+Outros
+
+Ex 002 - Veículo automóvel com tanque, concebido para transporte exclusivo de gases medicinais liquefeitos, denominado comercialmente caminhão tanque para gases.
+
+8704.23.90
+
+Outros
+
+Ex 002 - Veículo automóvel com tanque, concebido para transporte exclusivo de gases medicinais liquefeitos, denominado comercialmente caminhão tanque para gases.
+
+8705.90.90
+
+Outros
+
+Ex 001 - Veículos clínicos móveis, equipadas com bloco operatório, equipamento anestésico e outros aparelhos cirúrgicos
+
+Ex 002 - Veículos radiológicos móveis
+
+8707.90.90
+
+Outras
+
+Ex 002 - Veículos radiológicos móveis
+
+8713.10.00
+
+Sem mecanismo de propulsão
+
+8713.90.00
+
+Outros
+
+Ex 001 - Cadeiras de rodas, com motor
+
+8716.31.00
+
+--Cisternas
+
+Ex 001 - Semirreboque-tanque, concebido para transporte exclusivo de gases medicinais liquefeitos.
+
+9004.90.20
+
+Óculos de segurança
+
+9004.90.90
+
+Outros
+
+Ex 001 - Viseiras de segurança
+
+9018.11.00
+
+Eletrocardiógrafos
+
+9018.12.90
+
+Outros
+
+Ex 023 - Aparelhos de diagnóstico por varredura ultrassônica (scanners), sem análise espectral Doppler
+
+Ex 024 - Aparelhos de diagnóstico por varredura ultrassônica (scanners), com aplicação transesofágica e sem análise espectral Doppler
+
+Ex 025 - Aparelhos de diagnóstico por varredura ultrassônica (scanners) portátil, com scanner
+
+9018.19.80
+
+Outros
+
+Ex 089 - Monitores para medidas de débito cardíaco contínuo, minimamente invasivo, por pressão arterial; fornecendo, pelo menos, os seguintes parâmetros: débito cardíaco (DC), índice cardíaco (IC), volume sistólico (VS), volume sistólico indexado (VSI), variação de volume sistólico (VVS)
+
+Ex 093 - Monitores de sinais vitais multiparamétricos
+
+Ex 094 - Módulo de monitoração de gases anestésicos e respiratórios, para monitores de sinais vitais
+
+Ex 095 - Módulo de monitoração de Índice Bispectral BIS, para monitores de sinais vitais
+
+Ex 096 - Módulo de mensuração de pressão arterial não invasiva, para monitores de sinais vitais
+
+Ex 097 - Módulo de monitoração de pressão arterial invasiva, para monitores de sinais vitais
+
+Ex 098 - Módulo de monitoração de dióxido de carbono CO2, para monitores de sinais vitais
+
+Ex 099 - Módulo eletrônico para capinografia, para monitores de sinais vitais
+
+Ex 100 - Hemogasômetro, aplicação para análise automática de PH, PCO2 e PO2
+
+9018.19.90
+
+Partes
+
+Ex 055 - Partes plásticas, para monitores de sinais vitais
+
+Ex 056 - Sensor de CO2, para monitores de sinais vitais
+
+Ex 057 - Rack para monitores de sinais vitais, sem módulos
+
+Ex 058 - Eletrodos, para monitores de sinais vitais
+
+Ex 059 - Placa de circuito impresso com componentes elétrico e eletrônicos montados
+
+Ex 060 - Carcaça, para monitores de sinais vitais
+
+Ex 061 - Transdutores de temperatura
+
+Ex 062 - Manguitos para monitoração de pressão arterial
+
+Ex 063 - Sensores de oximetria (SpO2), para monitores de sinais vitais
+
+Ex 064 - Suporte com rodas
+
+9018.31.11
+
+De capacidade inferior ou igual a 2 cm3
+
+9018.31.19
+
+Outras
+
+9018.31.90
+
+Outras
+
+9018.32.12
+
+De aço cromo-níquel, bisel trifacetado e diâmetro exterior igual ou superior a 1,6 mm, do tipo das utilizadas com bolsas de sangue
+
+9018.39.10
+
+Agulhas
+
+9018.32.19
+
+Outras
+
+9018.32.20
+
+Para suturas
+
+9018.39.21
+
+Sondas, cateteres e cânulas, de borracha
+
+9018.39.22
+
+Cateteres de poli (cloreto de vinila), para embolectomia arterial
+
+9018.39.23
+
+Cateteres de poli (cloreto de vinila), para termodiluição
+
+9018.39.24
+
+Cateteres intravenosos periféricos, de poliuretano ou de copolímero de etileno-tetrafluoretileno (ETFE)
+
+9018.39.29
+
+Outros
+
+9018.39.91
+
+Artigo para fístula arteriovenosa, composto de agulha, base de fixação tipo borboleta, tubo plástico com conector e obturador
+
+9018.39.99
+
+Outros
+
+Ex 001 - Tubo laríngeo, de plástico, próprio para procedimentos anestésicos ou cirúrgicos de rotina, com ventilação espontânea e/ou controlada
+
+9018.90.10
+
+Para transfusão de sangue ou infusão intravenosa
+
+9018.90.40
+
+Rins artificiais
+
+Ex 003 - Equipamento de hemodiálise
+
+9018.90.99
+
+Outros
+
+Ex 010 - Oxigenação por membrana extracorpórea (OMEC)
+
+Ex 011 - Kits de intubação
+
+Ex 012 - Dispositivo para manobra de engasgo
+
+Ex 013 - Kit de traqueostomia percutânea
+
+Ex 014 - Lâminas para laringoscópio
+
+Ex 015 - Bomba de aspiração médica
+
+Ex 016 - Brocas médicas para acesso vascular
+
+Ex 017 - Estetoscópios
+
+Ex 018 - Pinça de Magil
+
+Ex 019 - Aspirador para medicina ou cirurgia
+
+Ex 020 - Bomba infusora com característica exclusiva para dieta enteral
+
+Ex 021 - Carro de parada com desfibrilador e eletrocardiógrafo
+
+Ex 022 - Desfibrilador/cardioversor com tecnologia bifásica
+
+Ex 023 - Equipamento eletrônico com os colchões de água para controle de temperatura de pacientes em centro cirúrgico e terapia intensiva
+
+Ex 024 - Escova com sucção para higiene bucal de pacientes em terapia intensiva, inclusive para aqueles entubados
+
+Ex 025 - Extensor de equipo/cateter
+
+Ex 026 - Sensor de débito cardíaco minimamente invasivo
+
+Ex 027 - Sensor para oximetria
+
+Ex 028 - Sistema de Hemoadsorção
+
+Ex 029 - Sistema de monitorização hemodinâmica
+
+Ex 030 - Manta aquecedora convectiva de uso hospitalar, com orifício próprio para insuflar ar quente de um aparelho de aquecimento
+
+9019.20.20
+
+De aerossolterapia
+
+9019.20.10
+
+De oxigenoterapia
+
+Ex 030 - Micro misturador de gases, para uso em ventiladores pulmonares
+
+9019.20.30
+
+Respiratórios de reanimação
+
+Ex 001 - Placa de circuito impresso, para aparelhos respiratórios de reanimação
+
+Ex 002 - Sensor de fluxo de ar ou oxigênio, para aparelhos respiratórios de reanimação
+
+9019.20.40
+
+Respiradores automáticos (pulmões de aço)
+
+9019.20.90
+
+Outros
+
+Ex 018 - Ventiladores médicos (aparelhos de respiração artificial)
+
+Ex 019 - Divisor de fluxo
+
+Ex 020 - Máscara laríngea (LMA)
+
+Ex 022 - Retentor plástico com filtro de espuma, para retenção de partículas sólidas em ventiladores médicos
+
+Ex 023 - Elemento filtrante de matéria plástica, para ventoinha de aparelho de oxigenoterapia
+
+Ex 024 - Placa de circuito impresso montada com componentes eletroeletrônicos para controle de mistura de gases, para ventiladores médicos
+
+Ex 025 - Placa de circuito impresso montada com componentes eletroeletrônicos para aquisição de sinais, para ventiladores médicos.
+
+Ex 026 - Display LCD com camada resistiva sensível ao toque integrada (touchscreen), para ventiladores médicos
+
+Ex 027 - Elemento filtrante para bloqueio de partículas sólidas na entrada de ventiladores médicos
+
+Ex 028 - Membrana para acionamentos de liga e desliga, para ventiladores médicos
+
+Ex 029 - Placa de circuito impresso montada com componentes elétricos e eletrônicos para comando/controle de ventiladores médicos
+
+Ex 030 - Carcaças e partes plásticas, de ventiladores médicos
+
+Ex 031 - Módulo de controle para respirador automático, com tela de cristal líquido, bateria interna recarregável, para monitoramento de dados do paciente através de sensores e alarmes
+
+9020.00.10
+
+Máscaras contra gases
+
+9020.00.90
+
+Outros
+
+9022.12.00
+
+Aparelhos de tomografia computadorizada
+
+9022.90.80
+
+Outros
+
+Ex 003 - Detector para captar e encaminhar imagens de raios-X
+
+9025.11.10
+
+Termômetros clínicos
+
+9025.19.90
+
+Outros
+
+Ex 005 - Termômetros digitais ou termômetros infravermelhos
+
+9026.10.19
+
+Outros
+
+Ex 001 - Sensor de Fluxo para ar ou oxigênio
+
+Ex 002 - Medidor de vazão de ar e de oxigênio, com compensação de temperatura e pressão atmosférica na faixa de 0 a 300 l/min, com conexão de entrada e saída padrão 22 mm, com display LCD integrado para monitoração de fluxo, pressão e temperatura
+
+9026.20.90
+
+Outros
+
+Ex 001 - Sensor de baixa e ultrabaixa pressão, para utilização em ventiladores pulmonares
+
+Ex 002 -Transdutores de pressão, estéreis de uso único, com pressão de operação de -50 a +300 mm Hg
+
+9026.80.00
+
+Outros instrumentos e aparelhos
+
+Ex 004 - Medidor de fluxo, tubo de Thorpe para oxigênio
+
+Ex 005 - Medidor de vazão de ar e de oxigênio, com compensação de temperatura e pressão atmosférica na faixa de 0 a 300 L/min, com conexão de entrada e saída padrão 22 mm, com display LCD integrado para monitoração de fluxo, pressão e temperatura
+
+Ex 006 - Sensor de Fluxo para ar ou oxigênio
+
+9027.10.00
+
+Analisadores de gases ou de fumaça (fumos\*)
+
+Ex 165 - Célula de medição de concentração de oxigênio
+
+Ex 170 - Sensores de oxigênio, para ventiladores médicos
+
+9027.20.21
+
+Sequenciadores automáticos de ADN mediante eletroforese capilar
+
+9027.80.99
+
+Outros
+
+Ex 485 - Medidor de dióxido de carbono
+
+Ex 486 - Detector colorimétrico de CO2 no final da expiração
+
+Ex 491 - Instrumentos e aparelhos utilizados em laboratórios clínicos para diagnóstico in vitro
+
+9027.90.99
+
+Outros
+
+Ex 021 - Sensor O2 Paramagnético
+
+9028.20.10
+
+De peso inferior ou igual a 50 kg
+
+Ex 001 - Contador eletrônico de gotas
+
+9031.49.90
+
+Outros
+
+Ex 463 - Fontes de referência térmica (corpo negro) para infravermelho
+
+9031.80.99
+
+Outros
+
+Ex 041 - Simulador de complacência pulmonar com resistências para as faixas de adulto a pediátrico, composto por fole integrados a molas ou pistões ativos, para monitorar volumes e pressões ventilatórias.
+
+Ex 054 - Conjunto de acessórios para teste de performance e funcionamento de respiradores médicos, composto de circuito de respiração reutilizável de 22mm "Breathing Circuit, Dual Limb, Reusable, Adult 22mm", adaptadores de tubulação, tubulação plástica, cabos elétricos com elementos de conexão, linha de pressão proximal, filtro, plugs de silicone, acoplamento de silicone, trava plástica, porta de pressão, válvulas, seringa.
+
+9402.90.90
+
+Outros
+
+Ex 001 - Estativa para equipamentos médicos
+
+Ex 002 - Maca hospitalar

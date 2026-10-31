@@ -1,0 +1,36 @@
+---
+titulo: "Resolução Gecex nº 385, de 19 de agosto DE 2022"
+orgao: "Ministério da Economia/Câmara de Comércio Exterior/Comitê-Executivo de Gestão"
+tipo: "Resolução"
+numero: "385"
+data: 2022-08-19
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 22/08/2022, seção 1, p. 51"
+data_publicacao: 2022-08-22
+edicao: "159"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-gecex-n-385-de-19-de-agosto-de-2022-423826426"
+sha256_html_fonte: aec3c5109b5b4ef00fbd29a12f8fdd0d396da60af87e372ef0d6434776681337
+baixado_em: 2026-10-20
+---
+# Resolução Gecex nº 385, de 19 de agosto DE 2022
+
+Resolução Gecex nº 385, de 19 de agosto DE 2022
+
+Aplica o direito antidumping definitivo, por um prazo de até cinco anos, às importações brasileiras de fios de filamentos sintéticos texturizados de poliésteres (exceto linhas para costurar), não acondicionados para venda a retalho, incluindo os monofilamentos sintéticos de título inferior a 67 decitex, comumente classificadas nos subitens 5402.33.10, 5402.33.20 e 5402.33.90 da Nomenclatura Comum do MERCOSUL - NCM, originárias da China e da Índia, e suspende sua aplicação, por até um ano, em razão de interesse público.
+
+O COMITÊ-EXECUTIVO DE GESTÃO DA CÂMARA DE COMÉRCIO EXTERIOR, no uso das atribuições que lhe confere o art. 7 o , inciso VI, do Decreto n o 10.044, de 4 de outubro de 2019, considerando as informações, razões e fundamentos presentes nos Anexos da presente resolução, e o deliberado em sua 197ª Reunião, ocorrida no dia 17 de agosto de 2022, resolve:
+
+**Art. 1º** Encerrar a investigação com aplicação de direito antidumping definitivo, por um prazo de até cinco anos, às importações brasileiras de fios de filamentos sintéticos texturizados de poliésteres (exceto linhas para costurar), não acondicionados para venda a retalho, incluindo os monofilamentos sintéticos de título inferior a 67 decitex, comumente classificadas nos subitens 5402.33.10, 5402.33.20 e 5402.33.90 da Nomenclatura Comum do MERCOSUL - NCM, originárias da China e da Índia, conforme recomendação constante do Anexo III.
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>Origem</p></td>      <td rowspan="1" colspan="1"><p>Produtor/Exportador</p></td>      <td rowspan="1" colspan="1"><p>Direito Antidumping Definitivo (US$/t)</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>China</p></td>      <td rowspan="1" colspan="1"><p>Xinfengming Group Huzhou Zhongshi Technology</p></td>      <td rowspan="1" colspan="1"><p>57,85</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>China</p></td>      <td rowspan="1" colspan="1"><p>Tongxiang Zhongxin Chemical Fiber Co., Ltd</p></td>      <td rowspan="1" colspan="1"><p>57,85</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>China</p></td>      <td rowspan="1" colspan="1"><p>Tongxiang Zhongchi Chemical Fiber Co., Ltd.</p></td>      <td rowspan="1" colspan="1"><p>57,85</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>China</p></td>      <td rowspan="1" colspan="1"><p>Tongxiang Zhongwei Chemical Fiber Co., Ltd.</p></td>      <td rowspan="1" colspan="1"><p>57,85</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>China</p></td>      <td rowspan="1" colspan="1"><p>Zhejiang Xinfengming Import And Export Co., Ltd</p></td>      <td rowspan="1" colspan="1"><p>57,85</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>China</p></td>      <td rowspan="1" colspan="1"><p>Zhejiang Hengyi Petrochemicals Co., Ltd.</p></td>      <td rowspan="1" colspan="1"><p>117,20</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>China</p></td>      <td rowspan="1" colspan="1"><p>Hangzhou Yijing Chemical Fiber Co., Ltd.</p></td>      <td rowspan="1" colspan="1"><p>117,20</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>China</p></td>      <td rowspan="1" colspan="1"><p>Zhejiang Henglan Technology Co., Ltd.</p></td>      <td rowspan="1" colspan="1"><p>117,20</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>China</p></td>      <td rowspan="1" colspan="1"><p>Shaoxing Keqiao Hengming Chemical Fiber Co. Ltd.</p></td>      <td rowspan="1" colspan="1"><p>117,20</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>China</p></td>      <td rowspan="1" colspan="1"><p>Haining Hengyi New Material Co., Ltd.</p></td>      <td rowspan="1" colspan="1"><p>117,20</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>China</p></td>      <td rowspan="1" colspan="1"><p>Tongkun Group Co. Ltd.</p></td>      <td rowspan="1" colspan="1"><p>585,70</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>China</p></td>      <td rowspan="1" colspan="1"><p>Tongxiang Hengji Differential Fiber Co. Ltd</p></td>      <td rowspan="1" colspan="1"><p>585,70</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>China</p></td>      <td rowspan="1" colspan="1"><p>Tongkun Group Zhejiang Hengsheng Chemical Fiber Co., Ltd.</p></td>      <td rowspan="1" colspan="1"><p>585,70</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>China</p></td>      <td rowspan="1" colspan="1"><p>Empresas chinesas identificadas no Anexo I</p></td>      <td rowspan="1" colspan="1"><p>90,55</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>China</p></td>      <td rowspan="1" colspan="1"><p>Demais</p></td>      <td rowspan="1" colspan="1"><p>585,70</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Índia</p></td>      <td rowspan="1" colspan="1"><p>Reliance Industries Limited</p></td>      <td rowspan="1" colspan="1"><p>105,67</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Índia</p></td>      <td rowspan="1" colspan="1"><p>Wellknown Polyesters Ltd.</p></td>      <td rowspan="1" colspan="1"><p>285,47</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Índia</p></td>      <td rowspan="1" colspan="1"><p>Bhilosa Industries Private Limited</p></td>      <td rowspan="1" colspan="1"><p>433,69</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Índia</p></td>      <td rowspan="1" colspan="1"><p>Empresas indianas identificadas no Anexo II</p></td>      <td rowspan="1" colspan="1"><p>105,67</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Índia</p></td>      <td rowspan="1" colspan="1"><p>Demais</p></td>      <td rowspan="1" colspan="1"><p>558,57</p></td>     </tr>    </tbody>   </table>
+
+**Art. 2º** Encerrar a avaliação de interesse público instaurada por meio da Circular Secex n o 18, de 4 de março de 2021, com a suspensão, por até um ano, prorrogável uma única vez por igual período, da exigibilidade dos direitos antidumping definitivos aplicados sobre as importações brasileiras fios de filamentos sintéticos texturizados de poliésteres (exceto linhas para costurar), não acondicionados para venda a retalho, incluindo os monofilamentos sintéticos de título inferior a 67 decitex, comumente classificadas nos subitens 5402.33.10, 5402.33.20 e 5402.33.90 da NCM, originárias da China e da Índia, nos termos do Anexo IV.
+
+**Art. 3º** Tornar públicos os fatos que justificaram as decisões contidas nesta Resolução, conforme consta nos Anexos III e IV.
+
+**Art. 4º** Esta Resolução entra em vigor na data de sua publicação.
+
+MARCELO PACHECO DOS GUARANYS
+
+Presidente do Comitê Substituto

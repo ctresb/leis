@@ -1,0 +1,210 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.992, DE 12 DE AGOSTO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "2992"
+data: 2020-08-12
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 17/08/2020, seção 1, p. 86"
+data_publicacao: 2020-08-17
+edicao: "157"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.992-de-12-de-agosto-de-2020-272507923"
+sha256_html_fonte: 36a9de1a9bc555cd1ae7f472fd685980ed8aace0e5e06b425378ad1eef08827d
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 2.992, DE 12 DE AGOSTO DE 2020
+
+RESOLUÇÃO-RE Nº 2.992, DE 12 DE AGOSTO DE 2020
+
+O Gerente-Geral de Inspeção e Fiscalização Sanitária, no uso das atribuições que lhe confere o art. 171, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018,
+
+considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:
+
+**Art. 1º** Conceder à(s) Empresa(s) constante(s) no ANEXO, a Certificação de Boas Práticas de Fabricação de Medicamentos.
+
+**Art. 2º** A presente Certificação terá validade de 2 (dois) anos a partir da sua publicação.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+RONALDO LUCIO PONCIANO GOMES
+
+## ANEXO
+
+EMPRESA FABRICANTE: WYETH PHARMACEUTICALS
+
+ENDEREÇO: NEW LANE, HAVANT, PO9 2NG - PAÍS: REINO UNIDO - CÓDIGO ÚNICO: A.0639
+
+EMPRESA SOLICITANTE: WYETH INDÚSTRIA FARMACÊUTICA LTDA - CNPJ: 61.072.393/0001-33
+
+AUTORIZ/MS: 1021101 - EXPEDIENTE(s): 3347840/19-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: PFIZER (PERTH) PTY LIMITED
+
+ENDEREÇO: 15 BRODIE HALL DRIVE, TECHNOLOGY PARK, BENTLEY WA 6102 - PAÍS: AUSTRÁLIA - CÓDIGO ÚNICO: A.0485
+
+EMPRESA SOLICITANTE: WYETH INDÚSTRIA FARMACÊUTICA LTDA - CNPJ: 61.072.393/0001-33
+
+AUTORIZ/MS: 1021101 - EXPEDIENTE(s): 3347943/19-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Citotóxicos): Soluções Parenterais de Grande Volume com Preparação Asséptica; Soluções Parenterais de Pequeno Volume com Esterilização Terminal; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: F. HOFFMANN - LA ROCHE LTD
+
+ENDEREÇO: GRENZACHERSTRASSE 124, CH-4070, BASILÉIA - PAÍS: SUÍÇA - CÓDIGO ÚNICO: A.0217
+
+EMPRESA SOLICITANTE: PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. - CNPJ: 33.009.945/0001-23
+
+AUTORIZ/MS: 1001004 - EXPEDIENTE(s): 3495358/19-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos; Pós
+
+.........................................
+
+EMPRESA FABRICANTE: ALMAC PHARMA SERVICES LIMITED
+
+ENDEREÇO: 20 SEAGOE INDUSTRIAL ESTATE, PORTADOWN, CRAIGAVON, COUNTY ARMAGH BT63 5UA - PAÍS: REINO UNIDO - CÓDIGO ÚNICO: A.0027
+
+EMPRESA SOLICITANTE: TEVA FARMACÊUTICA LTDA. - CNPJ: 05.333.542/0001-08
+
+AUTORIZ/MS: 1055731 - EXPEDIENTE(s): 0466252/20-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Citotóxicos) (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: GLAND PHARMA LIMITED
+
+ENDEREÇO: SURVEY 143-148, 150 & 151, D.P.PALLY, DUNDIGAL POST, DUNDIGAL-GANDIMAISAMMA MANDAL, MEDCHAL-MALKAJGIRI DISTRICT, HYDERABAD - 500 043, TELANGANA - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.0257
+
+EMPRESA SOLICITANTE: DR. REDDYS FARMACÊUTICA DO BRASIL LTDA - CNPJ: 03.978.166/0001-75
+
+AUTORIZ/MS: 1051431 - EXPEDIENTE(s): 0221291/19-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados; Soluções Parenterais de Grande Volume com Esterilização Terminal; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: GLAXOSMITHKLINE BIOLOGICALS
+
+ENDEREÇO: 637 RUE DES AULNOIS, 59230 SAINT-AMAND-LES-EAUX - PAÍS: FRANÇA - CÓDIGO ÚNICO: A.0731
+
+EMPRESA SOLICITANTE: GLAXOSMITHKLINE BRASIL LTDA - CNPJ: 33.247.743/0001-10
+
+AUTORIZ/MS: 1001071 - EXPEDIENTE(s): 3370885/19-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados; Suspensões Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: ALEXION PHARMA INTERNACIONAL OPERATIONS UNLIMITED COMPANY
+
+ENDEREÇO: MONKSLAND INDUSTRIAL ESTATE, ATHLONE, ROSCOMMON, N37 DH79, IRELAND - PAÍS: IRLANDA - CÓDIGO ÚNICO: A.1323
+
+EMPRESA SOLICITANTE: ALEXION FARMACEUTICA BRASIL IMPORTACAO E DISTRIBUICAO DE PRODUTOS E SERVICOS DE ADMINISTRACAO - CNPJ: 10.284.284/0001-49
+
+AUTORIZ/MS: 1098118 - EXPEDIENTE(s): 0078336/20-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: ALMAC PHARMA SERVICES LIMITED
+
+ENDEREÇO: 20 SEAGOE INDUSTRIAL ESTATE, PORTADOWN, CRAIGAVON, COUNTY ARMAGH BT63 5UA - PAÍS: REINO UNIDO - CÓDIGO ÚNICO: A.0027
+
+EMPRESA SOLICITANTE: UNITED MEDICAL LTDA - CNPJ: 68.949.239/0001-46
+
+AUTORIZ/MS: 1025762 - EXPEDIENTE(s): 1554271/20-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem primária; Embalagem secundária): Cápsulas
+
+.........................................
+
+EMPRESA FABRICANTE: NOVARTIS PHARMA PRODUKTION GMBH
+
+ENDEREÇO: ÖFLINGER STRASSE 44 D-79664, WEHR/BADEN - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.0099
+
+EMPRESA SOLICITANTE: NOVARTIS BIOCIENCIAS S.A - CNPJ: 56.994.502/0001-30
+
+AUTORIZ/MS: 1000685 - EXPEDIENTE(s): 0488860/20-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: FRESENIUS KABI AUSTRIA GMBH.
+
+ENDEREÇO: HAFNERSTRASSE 36, 8055 GRAZ - PAÍS: ÁUSTRIA - CÓDIGO ÚNICO: A.0233
+
+EMPRESA SOLICITANTE: FRESENIUS KABI BRASIL LTDA - CNPJ: 49.324.221/0001-04
+
+AUTORIZ/MS: 1000410 - EXPEDIENTE(s): 0152639/20-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Emulsões Parenterais de Grande Volume com Esterilização Terminal; Emulsões Parenterais de Pequeno Volume com Esterilização Terminal; Soluções Parenterais de Grande Volume com Esterilização Terminal; Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+.........................................
+
+EMPRESA FABRICANTE: LABORATOIRES GALDERMA
+
+ENDEREÇO: ZONE INDUSTRIELLE DE MONTDÉSIR 74540 ALBY SUR CHÉRAN - PAÍS: FRANÇA - CÓDIGO ÚNICO: A.0786
+
+EMPRESA SOLICITANTE: GALDERMA BRASIL LTDA - CNPJ: 00.317.372/0001-46
+
+AUTORIZ/MS: 1029167 - EXPEDIENTE(s): 0450853/20-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Esmaltes; Soluções; Xampus
+
+.........................................
+
+EMPRESA FABRICANTE: LABORATOIRES GALDERMA
+
+ENDEREÇO: ZONE INDUSTRIELLE DE MONTDÉSIR 74540 ALBY SUR CHÉRAN - PAÍS: FRANÇA - CÓDIGO ÚNICO: A.0786
+
+EMPRESA SOLICITANTE: GALDERMA BRASIL LTDA - CNPJ: 00.317.372/0001-46
+
+AUTORIZ/MS: 1029167 - EXPEDIENTE(s): 0450855/20-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Semissólidos não estéreis: Cremes; Géis
+
+.........................................
+
+EMPRESA FABRICANTE: BAXTER ONCOLOGY GMBH
+
+ENDEREÇO: KANTSTRASSE 2, 33790 HALLE/ WESTFALEN - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.0080
+
+EMPRESA SOLICITANTE: DAIICHI SANKYO BRASIL FARMACÊUTICA LTDA - CNPJ: 60.874.187/0001-84
+
+AUTORIZ/MS: 1004548 - EXPEDIENTE(s): 2194273/20-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Citotóxicos) (Granel): Pós Liofilizados
+
+.........................................
+
+EMPRESA FABRICANTE: PHARMAXIS LTD
+
+ENDEREÇO: 20 RODBOROUGH ROAD - FRENCHS FOREST NSW 2086 - PAÍS: AUSTRÁLIA - CÓDIGO ÚNICO: A.1036
+
+EMPRESA SOLICITANTE: UNITED MEDICAL LTDA - CNPJ: 68.949.239/0001-46
+
+AUTORIZ/MS: 1025762 - EXPEDIENTE(s): 0501270/20-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas
+
+.........................................
+
+EMPRESA FABRICANTE: MYLAN TEORANTA
+
+ENDEREÇO: COILL RUA, INVERIN, CO. GALWAY, IRELAND - PAÍS: IRLANDA - CÓDIGO ÚNICO: A.1190
+
+EMPRESA SOLICITANTE: MYLAN LABORATORIOS LTDA - CNPJ: 11.643.096/0001-22
+
+AUTORIZ/MS: 1088307 - EXPEDIENTE(s): 0462831/20-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Esterilização Terminal; Soluções Parenterais de Pequeno Volume com Preparação Asséptica

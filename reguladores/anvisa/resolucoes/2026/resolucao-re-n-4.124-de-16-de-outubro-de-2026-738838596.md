@@ -1,0 +1,190 @@
+---
+titulo: "RESOLUÇÃO-RE N° 4.124, DE 16 DE OUTUBRO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos"
+tipo: "Resolução"
+numero: "4124"
+data: 2026-10-16
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 19/10/2026, seção 1, p. 198"
+data_publicacao: 2026-10-19
+edicao: "197"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.124-de-16-de-outubro-de-2026-738838596"
+sha256_html_fonte: 822e7d791b2e928de00f4f2abef7370e9f41faa5415b206dc0a3d018c2d5524f
+baixado_em: 2026-10-20
+---
+# RESOLUÇÃO-RE N° 4.124, DE 16 DE OUTUBRO DE 2026
+
+RESOLUÇÃO-RE N° 4.124, DE 16 DE OUTUBRO DE 2026
+
+O GERENTE-GERAL DE MEDICAMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 100, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Deferir petições relacionadas à Gerência-Geral de Medicamentos, conforme anexo;
+
+**Art. 2º** Esta Resolução entra em vigor 90 (noventa) dias a partir da data de sua publicação.
+
+RAPHAEL SANCHES PEREIRA
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+COMPLEMENTO DIFERENCIAL DA APRESENTAÇÃO
+
+--------------------------------------------------
+
+MEDLEY FARMACEUTICA LTDA 62946352000191
+
+cloridrato de amiodarona
+
+ATLANSIL 25351.091203/2026-95 08/2028
+
+1438 MEDICAMENTO NOVO - SOLICITAÇÃO DE TRANSFERÊNCIA DE TITULARIDADE DE REGISTRO (CISÃO DE EMPRESA) 0506281/26-4
+
+1.2482.0002.001-6 36 Meses
+
+100 MG COM CT BL AL PLAS TRANS X 20
+
+Não Informado
+
+1.2482.0002.002-4 36 Meses
+
+200 MG COM CT BL AL PLAS TRANS X 20
+
+Não Informado
+
+1.2482.0002.003-2 36 Meses
+
+100 MG COM CT BL AL PLAS TRANS X 30
+
+Não Informado
+
+1.2482.0002.004-0 36 Meses
+
+200 MG COM CT BL AL PLAS TRANS X 30
+
+Não Informado
+
+cloridrato de amiodarona 25351.091204/2026-30 09/2028
+
+1960 GENERICO - SOLICITAÇÃO DE TRANSFERÊNCIA DE TITULARIDADE DE REGISTRO (CISÃO DE EMPRESA) 0506282/26-1
+
+(1440 MEDICAMENTO NOVO - SOLICITAÇÃO DE TRANSFERÊNCIA DE TITULARIDADE DE REGISTRO (INCORPORAÇÃO DE EMPRESA) - 2639138/19-4 - 25351.627031/2019-71)
+
+1.2482.0003.001-1 36 Meses
+
+100 MG COM CT BL AL PLAS TRANS X 20
+
+Não Informado
+
+1.2482.0003.002-1 36 Meses
+
+200 MG COM CT BL AL PLAS TRANS X 20
+
+Não Informado
+
+1.2482.0003.003-8 36 Meses
+
+100 MG COM CT BL AL PLAS TRANS X 30
+
+Não Informado
+
+1.2482.0003.004-6 36 Meses
+
+200 MG COM CT BL AL PLAS TRANS X 30
+
+Não Informado
+
+olmesartana medoxomila
+
+FLUXOCOR 25351.091212/2026-86 10/2029
+
+1999 SIMILAR - SOLICITAÇÃO DE TRANSFERÊNCIA DE TITULARIDADE DE REGISTRO (CISÃO DE EMPRESA) 0506311/26-1
+
+1.2482.0004.001-7 24 Meses
+
+20 MG COM REV CT BL AL/AL X 10
+
+Não Informado
+
+1.2482.0004.002-5 24 Meses
+
+20 MG COM REV CT BL AL/AL X 30
+
+Não Informado
+
+1.2482.0004.003-3 24 Meses
+
+20 MG COM REV CT BL AL/AL X 60
+
+Não Informado
+
+1.2482.0004.004-1 24 Meses
+
+40 MG COM REV CT BL AL/AL X 10
+
+Não Informado
+
+1.2482.0004.005-1 24 Meses
+
+40 MG COM REV CT BL AL/AL X 30
+
+Não Informado
+
+1.2482.0004.006-8 24 Meses
+
+40 MG COM REV CT BL AL/AL X 60
+
+Não Informado
+
+olmesartana medoxomila 25351.091228/2026-99 01/2032
+
+1960 GENERICO - SOLICITAÇÃO DE TRANSFERÊNCIA DE TITULARIDADE DE REGISTRO (CISÃO DE EMPRESA) 0506329/26-7
+
+(1995 SIMILAR - SOLICITAÇÃO DE TRANSFERÊNCIA DE TITULARIDADE DE REGISTRO (INCORPORAÇÃO DE EMPRESA) - 1028900/14-3 - 25351.697616/2014-11)
+
+1.2482.0005.001-2 24 Meses
+
+20 MG COM REV CT BL AL/AL X 10
+
+Não Informado
+
+1.2482.0005.002-0 24 Meses
+
+20 MG COM REV CT BL AL/AL X 30
+
+Não Informado
+
+1.2482.0005.003-9 24 Meses
+
+20 MG COM REV CT BL AL/AL X 60
+
+Não Informado
+
+1.2482.0005.004-7 24 Meses
+
+40 MG COM REV CT BL AL/AL X 10
+
+Não Informado
+
+1.2482.0005.005-5 24 Meses
+
+40 MG COM REV CT BL AL/AL X 30
+
+Não Informado
+
+1.2482.0005.006-3 24 Meses
+
+40 MG COM REV CT BL AL/AL X 60
+
+Não Informado

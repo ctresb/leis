@@ -1,0 +1,178 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 4.322, DE 29 DE DEZEMBRO DE 2022"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos"
+tipo: "Resolução"
+numero: "4322"
+data: 2022-12-29
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 02/01/2023, seção 1, p. 98"
+data_publicacao: 2023-01-02
+edicao: "1"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.322-de-29-de-dezembro-de-2022-455439393"
+sha256_html_fonte: c4e4e118a008b0a561b0de982ac88ce74e521ab8ebd36b2bdb72bb2188af2806
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE Nº 4.322, DE 29 DE DEZEMBRO DE 2022
+
+RESOLUÇÃO-RE Nº 4.322, DE 29 DE DEZEMBRO DE 2022
+
+A Gerente-Geral de Medicamentos (substituta), no uso das atribuições que lhe confere o art. 100, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Deferir petições relacionadas à Gerência-Geral de Medicamentos, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+FLÁVIA NEVES ROCHA ALVES
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+PRINCIPIO(S) ATIVO(S)
+
+---------------------------------------------------
+
+ACCORD FARMACÊUTICA LTDA 64171697000146
+
+cloridrato de dexmedetomidina 25351.125930/2022-30 01/2033
+
+155 GENERICO - REGISTRO DE MEDICAMENTO 0812260/22-1
+
+1.5537.0110.001-8 24 Meses
+
+100 MCG/ML SOL DIL INFUS IV CT FA VD TRANS X 2 ML
+
+1.5537.0110.002-6 24 Meses
+
+100 MCG/ML SOL DIL INFUS IV CT 5 FA VD TRANS X 2 ML
+
+1.5537.0110.003-4 24 Meses
+
+100 MCG/ML SOL DIL INFUS IV CT 25 FA VD TRANS X 2 ML
+
+---------------------------------------------------
+
+CIMED INDUSTRIA S.A 02814497000107
+
+maleato de dexclorfeniramina 25351.285130/2021-96 01/2033
+
+155 GENERICO - REGISTRO DE MEDICAMENTO 1298370/21-5
+
+1.4381.0286.001-5 24 Meses
+
+2 MG COM REV CT BL AL PLAS PVC/PVDC/PVC OPC X 6
+
+1.4381.0286.002-3 24 Meses
+
+2 MG COM REV CT BL AL PLAS PVC/PVDC/PVC OPC X 10
+
+1.4381.0286.003-1 24 Meses
+
+2 MG COM REV CT BL AL PLAS PVC/PVDC/PVC OPC X 12
+
+1.4381.0286.004-1 24 Meses
+
+2 MG COM REV CT BL AL PLAS PVC/PVDC/PVC OPC X 20
+
+1.4381.0286.005-8 24 Meses
+
+2 MG COM REV CT BL AL PLAS PVC/PVDC/PVC OPC X 30
+
+1.4381.0286.006-6 24 Meses
+
+2 MG COM REV CT BL AL PLAS PVC/PVDC/PVC OPC X 100
+
+---------------------------------------------------
+
+CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. 44734671000151
+
+ETORICOXIBE
+
+TEROCOXI 25351.011721/2020-48 01/2033
+
+150 SIMILAR - REGISTRO DE MEDICAMENTO SIMILAR 3418544/20-5
+
+1.0298.0581.001-7 24 Meses
+
+60 MG COM REV CT BL AL AL X 7
+
+1.0298.0581.002-5 24 Meses
+
+60 MG COM REV CT BL AL AL X 14
+
+1.0298.0581.003-3 24 Meses
+
+90 MG COM REV CT BL AL AL X 2
+
+1.0298.0581.004-1 24 Meses
+
+90 MG COM REV CT BL AL AL X 7
+
+1.0298.0581.005-1 24 Meses
+
+90 MG COM REV CT BL AL AL X 14
+
+---------------------------------------------------
+
+LIBBS FARMACÊUTICA LTDA 61230314000175
+
+OXALATO DE ESCITALOPRAM
+
+RECONTER ODT 25351.220265/2021-14 01/2033
+
+1456 MEDICAMENTO NOVO - REGISTRO DE FORMA FARMACÊUTICA NOVA NO PAÍS 1099488/21-2
+
+1.0033.0219.001-5 24 Meses
+
+10 MG COM ORODISP CT BL AL AL X 10
+
+1.0033.0219.002-3 24 Meses
+
+10 MG COM ORODISP CT BL AL AL X 30
+
+1.0033.0219.003-1 24 Meses
+
+10 MG COM ORODISP CT BL AL AL X 60
+
+1.0033.0219.004-1 24 Meses
+
+15 MG COM ORODISP CT BL AL AL X 10
+
+1.0033.0219.005-8 24 Meses
+
+15 MG COM ORODISP CT BL AL AL X 30
+
+1.0033.0219.006-6 24 Meses
+
+15 MG COM ORODISP CT BL AL AL X 60
+
+1.0033.0219.007-4 24 Meses
+
+20 MG COM ORODISP CT BL AL AL X 30
+
+1.0033.0219.008-2 24 Meses
+
+20 MG COM ORODISP CT BL AL AL X 60
+
+---------------------------------------------------
+
+SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA 61286647000116
+
+pirfenidona 25351.359511/2020-38 01/2033
+
+155 GENERICO - REGISTRO DE MEDICAMENTO 3840868/20-6
+
+1.0047.0649.001-9 24 Meses
+
+267 MG CAP DURA CT FR PLAS PEAD OPC X 270

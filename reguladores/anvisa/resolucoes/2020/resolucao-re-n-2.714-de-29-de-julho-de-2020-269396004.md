@@ -1,0 +1,126 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.714, DE 29 DE JULHO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "2714"
+data: 2020-07-29
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 30/07/2020, seção 1, p. 109"
+data_publicacao: 2020-07-30
+edicao: "145"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.714-de-29-de-julho-de-2020-269396004"
+sha256_html_fonte: dc5e12d99fba1ffb7b85c4dd6c0a3b9c414d26164062eacdbf262b11729549e3
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 2.714, DE 29 DE JULHO DE 2020
+
+RESOLUÇÃO-RE Nº 2.714, DE 29 DE JULHO DE 2020
+
+A Coordenadora de Autorização de Funcionamento de Empresas, no uso das atribuições que lhe confere o art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º** Alterar a Autorização de Funcionamento das Empresas constantes no anexo desta Resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+PATRICIA AZEVEDO CHAGAS
+
+## ANEXO
+
+BRANDEMED IMPORTACAO E EXPORTACAO DE PRODUTOS HOSPITALARES LTDA / 035.679.451/0001-81
+
+25351.607375/2020-06 / 8203285
+
+867 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 2104464200
+
+--------------------------------------
+
+BIOFAC INDÚSTRIA COMÉRCIO E REPRESENTAÇÕES LTDA / 014.112.327/0001-60
+
+25351.858504/2018-08 / 3084471
+
+714 - AFE - ALTERAÇÃO - SANEANTES DOMISSANITÁRIOS - ENDEREÇO MATRIZ / 2104502209
+
+--------------------------------------
+
+PLANETA DETERGENTE IND. E COM. DE PRODUTOS DE LIMPEZA LTDA - ME / 002.641.909/0001-54
+
+25351.026361/2007-10 / 3035887
+
+714 - AFE - ALTERAÇÃO - SANEANTES DOMISSANITÁRIOS - ENDEREÇO MATRIZ / 2117969208
+
+--------------------------------------
+
+GUSSON EQUIPAMENTOS MEDICOS E HOSPITALARES LTDA / 001.963.220/0005-07
+
+25351.813474/2016-18 / 8132401
+
+866 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - ENDEREÇO / 2116411208
+
+--------------------------------------
+
+MARINGA HOSPITALAR DISTRIBUIDORA DE MEDICAMENTOS E CORRELATOS LTDA / 007.396.733/0001-36
+
+25023.150030/2005-41 / 8029943
+
+866 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - ENDEREÇO / 2117971202
+
+--------------------------------------
+
+NEUROTRAUMA COMERCIO DE MATERIAL CIRURGICO EIRELI / 017.001.696/0001-73
+
+25351.028637/2014-49 / 8103257
+
+866 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - ENDEREÇO / 2116621208
+
+25351.028637/2014-49 / 8103257
+
+829 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - RAZÃO SOCIAL / 2116559209
+
+--------------------------------------
+
+ORBISPHARMA DISTRIBUIDORA E LOGISTICA LTDA / 010.585.311/0001-13
+
+25351.723238/2010-50 / 1086718
+
+7162 - AFE - ALTERAÇÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - IMPORTADORA - ENDEREÇO MATRIZ / 2116313201
+
+--------------------------------------
+
+BELO AROMA PERFUMARIA E COSMÉTICOS LTDA. / 005.836.301/0001-73
+
+25351.697902/2020-58 / 8203328
+
+867 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 2402765208
+
+--------------------------------------
+
+ORBISPHARMA DISTRIBUIDORA E LOGISTICA LTDA / 010.585.311/0001-13
+
+25351.722883/2010-63 / 2056765
+
+751 - AFE - ALTERAÇÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - ENDEREÇO MATRIZ / 2116316201
+
+--------------------------------------
+
+MAMUTE SMILE CONCEPT LABORATORIO DE PROTESE DENTAL LTDA / 027.122.253/0001-94
+
+25351.043960/2020-67 / 8195241
+
+829 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - RAZÃO SOCIAL / 2104512204
+
+--------------------------------------
+
+ORBISPHARMA DISTRIBUIDORA E LOGISTICA LTDA / 010.585.311/0001-13
+
+25351.722923/2010-67 / 8070608
+
+866 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - ENDEREÇO / 2116309204
+
+--------------------------------------
+
+BIOMETAL INDUSTRIA E COMERCIO EIRELI / 007.165.928/0001-75
+
+25351.735302/2008-93 / 8048249
+
+867 - AFE - ALTERAÇÃO - PRODUTOS PARA SAÚDE - AMPLIAÇÃO OU REDUÇÃO DE ATIVIDADES / 2104393205

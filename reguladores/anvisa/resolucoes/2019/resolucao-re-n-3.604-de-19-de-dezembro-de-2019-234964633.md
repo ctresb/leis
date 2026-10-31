@@ -1,0 +1,184 @@
+---
+titulo: "RESOLUÇÃO-RE nº 3.604, de 19 de dezembro de 2019"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "3604"
+data: 2019-12-19
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 23/12/2019, seção 1, p. 244"
+data_publicacao: 2019-12-23
+edicao: "247"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.604-de-19-de-dezembro-de-2019-234964633"
+sha256_html_fonte: 89efe5bb11c1ec147297565471eb07bdb77096450f9c0f06ad884407a3c3c74c
+baixado_em: 2026-10-27
+---
+# RESOLUÇÃO-RE nº 3.604, de 19 de dezembro de 2019
+
+RESOLUÇÃO-RE nº 3.604, de 19 de dezembro de 2019
+
+O Coordenador de Autorização de Funcionamento de Empresas, Substituto, no uso das atribuições que lhe confere o art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º** Cancelar, a pedido, a Autorização de Funcionamento das Empresas constantes no anexo desta Resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+EMPRESA: ATIVUS FARMACÊUTICA LTDA
+
+ENDEREÇO: RUA EMÍLIO MALLET, 317, SALA 1005
+
+BAIRRO: TATUAPÉ CEP: 03320000 - SÃO PAULO/SP
+
+CNPJ: 64.088.172/0001-41
+
+PROCESSO: 25000.002623/91-40 AUTORIZ/MS: 1.01861.1
+
+ATIVIDADE/CLASSE
+
+ARMAZENAR: INSUMO/MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EMBALAR: INSUMO/MEDICAMENTO
+
+EXPORTAR: MEDICAMENTO
+
+FABRICAR: INSUMO/MEDICAMENTO
+
+IMPORTAR: INSUMO/MEDICAMENTO
+
+PRODUZIR: INSUMO/MEDICAMENTO
+
+REEMBALAR: INSUMO/MEDICAMENTO
+
+TRANSPORTAR: INSUMO/MEDICAMENTO
+
+-------------------------------------------------------------------------------
+
+EMPRESA: ativus farmacêutica ltda
+
+ENDEREÇO: rua fonte mécia, 2050
+
+BAIRRO: são pedro CEP: 13273160 - VALINHOS/SP
+
+CNPJ: 64.088.172/0003-03
+
+PROCESSO: 25351.632740/2017-15 AUTORIZ/MS: 94X39W0WM24M (8.15861.0)
+
+ATIVIDADE/CLASSE
+
+ARMAZENAR: CORRELATOS
+
+DISTRIBUIR: CORRELATOS
+
+EMBALAR: CORRELATOS
+
+EXPEDIR: CORRELATOS
+
+FABRICAR: CORRELATOS
+
+REEMBALAR: CORRELATOS
+
+--------------------------------------------------------------------------------
+
+EMPRESA: FERNANDO RODRIGUES FERREIRA
+
+ENDEREÇO: RUA SENADOR ALENCAR, 267
+
+BAIRRO: CENTRO CEP: 60030050 - FORTALEZA/CE
+
+CNPJ: 72.239.452/0001-31
+
+PROCESSO: 25016.262402/2005-71 AUTORIZ/MS: 3W140HH838M0 (8.02980.4)
+
+ATIVIDADE/CLASSE
+
+COMERCIALIZAR: CORRELATO
+
+--------------------------------------------------------------------------------
+
+EMPRESA: ATIVUS FARMACÊUTICA LTDA
+
+ENDEREÇO: RUA EMÍLIO MALLET, 317, SALA 1005
+
+BAIRRO: TATUAPÉ CEP: 03320000 - SÃO PAULO/SP
+
+CNPJ: 64.088.172/0001-41
+
+PROCESSO: 25351.057789/2003-72 AUTORIZ/MS: 94X39W0WY83M (8.02149.5)
+
+ATIVIDADE/CLASSE
+
+FABRICAR: CORRELATO
+
+--------------------------------------------------------------------------------
+
+EMPRESA: POLIOR INDUSTRIA E COMERCIO DE PRODUTOS ORTOPEDICOS LTDA
+
+ENDEREÇO: RUA TREZE DE MAIO, 84
+
+BAIRRO: VILA SÃO LUIZ CEP: 25065190 - DUQUE DE CAXIAS/RJ
+
+CNPJ: 30.159.164/0001-27
+
+PROCESSO: 25000.029292/98-61 AUTORIZ/MS: 1.03792.4
+
+ATIVIDADE/CLASSE
+
+EXPORTAR: CORRELATO
+
+FABRICAR: CORRELATO
+
+IMPORTAR: CORRELATO
+
+--------------------------------------------------------------------------------
+
+EMPRESA: AQUAQUIMICA COMERCIAL LTDA
+
+ENDEREÇO: R HAROLD LOYD, 193
+
+BAIRRO: JARDIM OLIMPIA CEP: 06730000 - VARGEM GRANDE PAULISTA/SP
+
+CNPJ: 67.535.088/0001-17
+
+PROCESSO: 25351.000326/2018-15 AUTORIZ/MS: 3.07819.1
+
+ATIVIDADE/CLASSE
+
+ARMAZENAR: SANEANTE DOMIS.
+
+DISTRIBUIR: SANEANTE DOMIS.
+
+EXPEDIR: SANEANTE DOMIS.
+
+--------------------------------------------------------------------------------
+
+EMPRESA: TOTALMIX INDÚSTRIA E COMÉRCIO LTDA
+
+ENDEREÇO: AV SÃO PAULO, nº 1061, SALA 1610, ANDAR 16, EDIF ASPEN PARK TRADE CENTER
+
+BAIRRO: ZONA 01 CEP: 87013908 - MARINGÁ/PR
+
+CNPJ: 04.536.059/0001-50
+
+PROCESSO: 25351.263305/2017-25 AUTORIZ/MS: 3.07455.2
+
+ATIVIDADE/CLASSE
+
+ARMAZENAR: SANEANTE DOMIS.
+
+DISTRIBUIR: SANEANTE DOMIS.
+
+EMBALAR: SANEANTE DOMIS.
+
+EXPEDIR: SANEANTE DOMIS.
+
+FABRICAR: SANEANTE DOMIS.
+
+FRACIONAR: SANEANTE DOMIS.
+
+REEMBALAR: SANEANTE DOMIS.

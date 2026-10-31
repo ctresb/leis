@@ -1,0 +1,42 @@
+---
+titulo: "PORTARIA Nº 369, DE 20 DE FEVEREIRO DE 2018"
+orgao: "Ministério da Saúde/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "369"
+data: 2018-02-20
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 22/02/2018, seção 1, p. 52-61"
+data_publicacao: 2018-02-22
+edicao: "36"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-369-de-20-de-fevereiro-de-2018-4044024"
+sha256_html_fonte: a4c7ea3726d541d07c2003234ccf4ab2883740f5334baf734e4ee07c3ef2f635
+baixado_em: 2026-10-27
+---
+# PORTARIA Nº 369, DE 20 DE FEVEREIRO DE 2018
+
+O MINISTRO DE ESTADO DA SAÚDE, no uso das atribuições que lhe conferem os incisos I e II do parágrafo único do art. 87 da Constituição, e
+
+Considerando a Lei Complementar nº 141, de 13 de janeiro de 2012, que regulamenta o § 3º do art. 198 da Constituição Federal para dispor sobre os valores mínimos a serem aplicados anualmente pela União, Estados, Distrito Federal e Municípios em ações e serviços públicos de saúde; estabelece os critérios de rateio dos recursos de transferências para a saúde e as normas de fiscalização, avaliação e controle das despesas com saúde nas 3 (três) esferas de governo; revoga dispositivos das Leis nºs 8.080, de 19 de setembro de 1990, e 8.689, de 27 de julho de 1993, e dá outras providências;
+
+Considerando o Decreto nº 1.232, de 30 de agosto de 1994, que dispõe sobre as condições e a forma de repasse regular e automático de recursos do Fundo Nacional de Saúde para os Fundos de Saúde Estaduais, Municipais e do Distrito Federal;
+
+Considerando o Decreto nº 7.507, de 27 de junho de 2011, que dispõe sobre a movimentação de recursos federais transferidos a Estados, Distrito Federal e Municípios, em decorrência das leis citadas;
+
+Considerando o art. 294 e o art. 311 da Portaria de Consolidação nº 1/GM/MS, de 28 de setembro de 2017, que consolida as normas sobre os direitos e deveres dos usuários da saúde, a organização e o funcionamento do Sistema Único de Saúde;
+
+Considerando o Anexo XXII da Portaria de Consolidação nº 2/GM/MS, de 28 de setembro de 2017, que consolida as normas sobre as políticas nacionais de saúde do Sistema Único de Saúde;
+
+Considerando o art. 4º da Portaria de Consolidação nº 6/GM/MS, de 28 de Setembro de 2017, consolidação das normas sobre o financiamento e a transferência dos recursos federais para as ações e os serviços de saúde do Sistema Único de Saúde; e
+
+Considerando a Portaria nº 97/GM/MS, de 6 de janeiro de 2017, que estabelece os prazos para o envio da produção da Atenção Básica para o Sistema de Informação em Saúde para a Atenção Básica (SISAB) referente às competências de janeiro a dezembro de 2017, resolve:
+
+**Art. 1º** Fica suspensa, a partir da competência setembro de 2017, a transferência do incentivo financeiro referente à Unidade Odontológica Móvel (UOM) dos municípios que não alimentaram de modo regular o Sistema de Informações Ambulatoriais (SIA/SUS) e/ou o Sistema de Informação em Saúde para a Atenção Básica (SISAB) durante o período de junho, julho e agosto de 2017, conforme relação constante do anexo a esta Portaria.
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação, com efeitos financeiros a partir da competência setembro de 2017.
+
+<table><tr></tr><tr><td><p>ANEXO I</p></td></tr><tr><td><p>UF</p></td><td><p>IBGE</p></td><td><p>MUNICÍPIO</p></td><td><p>UOM</p></td></tr><tr><td><p>AC</p></td><td><p>120042</p></td><td><p>RODRIGUES ALVES</p></td><td><p>1</p></td></tr><tr><td><p> </p></td><td><p>TOTAL</p></td><td><p>1</p></td><td><p>1</p></td></tr><tr><td><p>ANEXO II</p></td></tr><tr><td><p>UF</p></td><td><p>IBGE</p></td><td><p>MUNICÍPIO</p></td><td><p>UOM</p></td></tr><tr><td><p>BA</p></td><td><p>291300</p></td><td><p>IBITIARA</p></td><td><p>1</p></td></tr><tr><td><p>BA</p></td><td><p>292020</p></td><td><p>MALHADA</p></td><td><p>1</p></td></tr><tr><td><p>BA</p></td><td><p>292170</p></td><td><p>MORRO DO CHAPÉU</p></td><td><p>1</p></td></tr><tr><td><p>BA</p></td><td><p>292340</p></td><td><p>PALMAS DE MONTE ALTO</p></td><td><p>1</p></td></tr><tr><td><p>BA</p></td><td><p>292430</p></td><td><p>PIATÃ</p></td><td><p>1</p></td></tr><tr><td><p>BA</p></td><td><p>293180</p></td><td><p>TREMEDAL</p></td><td><p>1</p></td></tr><tr><td><p>BA</p></td><td><p>293360</p></td><td><p>XIQUE-XIQUE</p></td><td><p>1</p></td></tr><tr><td><p> </p></td><td><p>TOTAL</p></td><td><p>7</p></td><td><p>7</p></td></tr><tr><td><p>ANEXO III</p></td></tr><tr><td><p>UF</p></td><td><p>IBGE</p></td><td><p>MUNICÍPIO</p></td><td><p>UOM</p></td></tr><tr><td><p>CE</p></td><td><p>231040</p></td><td><p>PARAMOTI</p></td><td><p>1</p></td></tr><tr><td><p> </p></td><td><p>TOTAL</p></td><td><p>1</p></td><td><p>1</p></td></tr><tr><td><p>ANEXO IV</p></td></tr><tr><td><p>UF</p></td><td><p>IBGE</p></td><td><p>MUNICÍPIO</p></td><td><p>UOM</p></td></tr><tr><td><p>ES</p></td><td><p>320405</p></td><td><p>PEDRO CANÁRIO</p></td><td><p>1</p></td></tr><tr><td><p> </p></td><td><p>TOTAL</p></td><td><p>1</p></td><td><p>1</p></td></tr><tr><td><p>ANEXO V</p></td></tr><tr><td><p>UF</p></td><td><p>IBGE</p></td><td><p>MUNICÍPIO</p></td><td><p>UOM</p></td></tr><tr><td><p>MA</p></td><td><p>210070</p></td><td><p>ANAJATUBA</p></td><td><p>1</p></td></tr><tr><td><p> </p></td><td><p>TOTAL</p></td><td><p>1</p></td><td><p>1</p></td></tr><tr><td><p>ANEXO VI</p></td></tr><tr><td><p>UF</p></td><td><p>IBGE</p></td><td><p>MUNICÍPIO</p></td><td><p>UOM</p></td></tr><tr><td><p>MG</p></td><td><p>311615</p></td><td><p>CHAPADA GAÚCHA</p></td><td><p>1</p></td></tr><tr><td><p>MG</p></td><td><p>313065</p></td><td><p>INDAIABIRA</p></td><td><p>1</p></td></tr><tr><td><p> </p></td><td><p>TOTAL</p></td><td><p>2</p></td><td><p>2</p></td></tr><tr><td><p>ANEXO VII</p></td></tr><tr><td><p>UF</p></td><td><p>IBGE</p></td><td><p>MUNICÍPIO</p></td><td><p>UOM</p></td></tr><tr><td><p>PA</p></td><td><p>150020</p></td><td><p>ACARÁ</p></td><td><p>1</p></td></tr><tr><td><p>PA</p></td><td><p>150200</p></td><td><p>CACHOEIRA DO ARARI</p></td><td><p>1</p></td></tr><tr><td><p>PA</p></td><td><p>150600</p></td><td><p>PRAINHA</p></td><td><p>1</p></td></tr><tr><td><p>PA</p></td><td><p>150815</p></td><td><p>URUARÁ</p></td><td><p>1</p></td></tr><tr><td><p> </p></td><td><p>TOTAL</p></td><td><p>4</p></td><td><p>4</p></td></tr><tr><td><p>ANEXO VIII</p></td></tr><tr><td><p>UF</p></td><td><p>IBGE</p></td><td><p>MUNICÍPIO</p></td><td><p>UOM</p></td></tr><tr><td><p>PI</p></td><td><p>220150</p></td><td><p>BATALHA</p></td><td><p>1</p></td></tr><tr><td><p>PI</p></td><td><p>220265</p></td><td><p>CAXINGÓ</p></td><td><p>1</p></td></tr><tr><td><p>PI</p></td><td><p>220620</p></td><td><p>MIGUEL ALVES</p></td><td><p>1</p></td></tr><tr><td><p>PI</p></td><td><p>220695</p></td><td><p>NOVO SANTO ANTÔNIO</p></td><td><p>1</p></td></tr><tr><td><p> </p></td><td><p>TOTAL</p></td><td><p>4</p></td><td><p>4</p></td></tr><tr><td><p>ANEXO IX</p></td></tr><tr><td><p>UF</p></td><td><p>IBGE</p></td><td><p>MUNICÍPIO</p></td><td><p>UOM</p></td></tr><tr><td><p>PR</p></td><td><p>410020</p></td><td><p>ADRIANÓPOLIS</p></td><td><p>1</p></td></tr><tr><td><p>PR</p></td><td><p>410645</p></td><td><p>CORONEL DOMINGOS SOARES</p></td><td><p>1</p></td></tr><tr><td><p>PR</p></td><td><p>412410</p></td><td><p>SANTO ANTÔNIO DA PLATINA</p></td><td><p>1</p></td></tr><tr><td><p> </p></td><td><p>TOTAL</p></td><td><p>3</p></td><td><p>3</p></td></tr><tr><td><p>ANEXO X</p></td></tr><tr><td><p>UF</p></td><td><p>IBGE</p></td><td><p>MUNICÍPIO</p></td><td><p>UOM</p></td></tr><tr><td><p>RS</p></td><td><p>431450</p></td><td><p>PINHEIRO MACHADO</p></td><td><p>1</p></td></tr><tr><td><p>RS</p></td><td><p>431915</p></td><td><p>SÃO MIGUEL DAS MISSÕES</p></td><td><p>1</p></td></tr><tr><td><p> </p></td><td><p>TOTAL</p></td><td><p>2</p></td><td><p>2</p></td></tr><tr><td><p>ANEXO XI</p></td></tr><tr><td><p>UF</p></td><td><p>IBGE</p></td><td><p>MUNICÍPIO</p></td><td><p>UOM</p></td></tr><tr><td><p>SP</p></td><td><p>350540</p></td><td><p>BARRA DO TURVO</p></td><td><p>1</p></td></tr><tr><td><p> </p></td><td><p>TOTAL</p></td><td><p>1</p></td><td><p>1</p></td></tr><tr><td><p>ANEXO XII</p></td></tr><tr><td><p>UF</p></td><td><p>IBGE</p></td><td><p>MUNICÍPIO</p></td><td><p>UOM</p></td></tr><tr><td><p>TO</p></td><td><p>171890</p></td><td><p>SANTA ROSA DO TOCANTINS</p></td><td><p>1</p></td></tr><tr><td><p> </p></td><td><p>TOTAL</p></td><td><p>1</p></td><td><p>1</p><p> </p></td></tr></table>
+
+RICARDO BARROS
+
+Este conteúdo não substitui o publicado na versão certificada.

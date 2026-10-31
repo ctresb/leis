@@ -1,0 +1,114 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.080, DE 31 DE OUTUBRO DE 2019"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "3080"
+data: 2019-10-31
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 04/11/2019, seção 1, p. 186"
+data_publicacao: 2019-11-04
+edicao: "213"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.080-de-31-de-outubro-de-2019-225244296"
+sha256_html_fonte: 5cd7748304846346cf4243793901581f8e249c8055318aea5ba9e4276edf1d1e
+baixado_em: 2026-10-27
+---
+# RESOLUÇÃO-RE Nº 3.080, DE 31 DE OUTUBRO DE 2019
+
+RESOLUÇÃO-RE Nº 3.080, DE 31 DE OUTUBRO DE 2019
+
+A Coordenadora de Autorização de Funcionamento de Empresas, Substituta, no uso das atribuições que lhe confere o art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º** Indeferir o pedido de Alteração de Autorização de Funcionamento para os estabelecimentos de Farmácias e Drogarias,em conformidade com o anexo desta Resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+PATRICIA AZEVEDO CHAGAS
+
+## ANEXO
+
+EMPRESA: A & P FORMULAÇÕES LTDA - ME
+
+ENDEREÇO: RUA WALDOMIRO SCHAPKE, 930
+
+BAIRRO: PARTENON CEP: 91530390 - PORTO ALEGRE/RS
+
+CNPJ: 29.129.366/0001-47
+
+PROCESSO: 25351.391134/2018-15
+
+MOTIVO DO INDEFERIMENTO: NÃO APRESENTAÇÃO DO DOCUMENTO DE INSTRUÇÃO, CONTRARIANDO O ART. 11 DA RDC Nº 275/2019 E ART. 3° DA RESOLUÇÃO RDC N° 25/2011.
+
+----------------------------------------------------
+
+EMPRESA: DROGARIA E PERFUMARIA VILA ROSA LTDA - ME
+
+ENDEREÇO: AVENIDA HUMBERTO DE ALENCAR CASTELO BRANCO, 955
+
+BAIRRO: ASSUNÇÃO/INDEPENDENCIA CEP: 09850305 - SÃO BERNARDO DO CAMPO/SP
+
+CNPJ: 21.939.664/0001-90
+
+PROCESSO: 25351.468285/2015-18
+
+MOTIVO DO INDEFERIMENTO: NÃO APRESENTAÇÃO DO DOCUMENTO DE INSTRUÇÃO, CONTRARIANDO O ART. 11 DA RDC Nº 275/2019 E ART. 3° DA RESOLUÇÃO RDC N° 25/2011.
+
+----------------------------------------------------
+
+EMPRESA: FARMACIA CARONE EIRELI - EPP
+
+ENDEREÇO: AV CIVIT Nº 1996 LJ 30
+
+BAIRRO: PARQUE RESIDENCIAL LARANJEIRAS CEP: 29165032 - SERRA/ES
+
+CNPJ: 07.787.155/0002-40
+
+PROCESSO: 25351.548523/2015-78
+
+MOTIVO DO INDEFERIMENTO: NÃO APRESENTAÇÃO DO DOCUMENTO DE INSTRUÇÃO, CONTRARIANDO O ART. 11 DA RDC Nº 275/2019 E ART. 3° DA RESOLUÇÃO RDC N° 25/2011.
+
+----------------------------------------------------
+
+EMPRESA: FARMACIA VITORIA LTDA- ME
+
+ENDEREÇO: PC. PRES. GETULIO VARGAS N72
+
+BAIRRO: CENTRO CEP: 49250000 - INDIAROBA/SE
+
+CNPJ: 22.426.874/0001-48
+
+PROCESSO: 25351.075355/2016-79
+
+MOTIVO DO INDEFERIMENTO: NÃO APRESENTAÇÃO DO DOCUMENTO DE INSTRUÇÃO, CONTRARIANDO O ART. 11 DA RDC Nº 275/2019 E ART. 3° DA RESOLUÇÃO RDC N° 25/2011.
+
+----------------------------------------------------
+
+EMPRESA: CANTALICE & CANTALICE LTDA
+
+ENDEREÇO: TRAVESSA EMILIANO OURIQUES 05
+
+BAIRRO: CENTRO CEP: 58155000 - SOLEDADE/PB
+
+CNPJ: 34.516.117/0001-44
+
+PROCESSO: 25351.557902/2019-82
+
+MOTIVO DO INDEFERIMENTO: NÃO APRESENTAÇÃO DO DOCUMENTO DE INSTRUÇÃO, CONTRARIANDO O ART. 11 DA RDC Nº 275/2019 E ART. 3° DA RESOLUÇÃO RDC N° 25/2011.
+
+----------------------------------------------------
+
+EMPRESA: UNIMED VIÇOSA - COOPERATIVA DE TRABALHO MÉDICO
+
+ENDEREÇO: RUA DR MILTON BANDEIRA 197 LOJA 01
+
+BAIRRO: CENTRO CEP: 36570000 - VIÇOSA/MG
+
+CNPJ: 66.343.534/0002-00
+
+PROCESSO: 25351.253746/2013-98
+
+MOTIVO DO INDEFERIMENTO: NÃO APRESENTAÇÃO DO DOCUMENTO DE INSTRUÇÃO, CONTRARIANDO O ART. 11 DA RDC Nº 275/2019 E ART. 3° DA RESOLUÇÃO RDC N° 25/2011.
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+TOTAL DE EMPRESAS: 6

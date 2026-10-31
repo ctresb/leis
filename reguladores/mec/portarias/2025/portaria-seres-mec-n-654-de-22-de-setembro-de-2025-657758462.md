@@ -1,0 +1,62 @@
+---
+titulo: "PORTARIA SERES/MEC Nº 654, DE 22 de setembro de 2025"
+orgao: "Ministério da Educação/Secretaria de Regulação e Supervisão da Educação Superior"
+tipo: "Portaria"
+numero: "654"
+data: 2025-09-22
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 23/09/2025, seção 1, p. 736"
+data_publicacao: 2025-09-23
+edicao: "181"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-seres/mec-n-654-de-22-de-setembro-de-2025-657758462"
+baixado_em: 2026-10-16
+---
+# PORTARIA SERES/MEC Nº 654, DE 22 de setembro de 2025
+
+PORTARIA SERES/MEC Nº 654, DE 22 de setembro de 2025
+
+A SECRETÁRIA DE REGULAÇÃO E SUPERVISÃO DA EDUCAÇÃO SUPERIOR, no uso da atribuição que lhe confere o Decreto nº 11.691, de 5 de setembro de 2023, e tendo em vista o Decreto n° 9.235, de 15 de dezembro de 2017, e as Portarias Normativas n° 20 e nº 23, de 21 de dezembro de 2017, do Ministério da Educação, e considerando o disposto no(s) processo(s) e-MEC listado(s) na planilha anexa, resolve:
+
+**Art. 1º** Fica renovado o reconhecimento do(s) curso(s) superior(es) de graduação constante(s) da tabela do anexo desta Portaria, ministrado(s) pela(s) Instituição(ões) de Educação Superior citada(s), nos termos do disposto no art. 10, do Decreto nº 9.235/2017.
+
+**Art. 2º** A renovação de reconhecimento a que se refere esta Portaria é válida exclusivamente para o curso ministrado no endereço citado na tabela constante do anexo.
+
+**Art. 3º** A renovação de reconhecimento a que se refere esta Portaria é válida até o ciclo avaliativo seguinte.
+
+**Art. 4º** Esta Portaria entra em vigor na data de sua publicação.
+
+MARTA ABRAMO
+
+ANEXO (Renovação de Reconhecimento de Cursos)
+
+| Nº de Ordem | Registro e-MEC nº | Curso | Nº de vagas totais anuais | Mantida | Mantenedora | Endereço de funcionamento do curso |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | 202315796 | SISTEMA DE INFORMAÇÃO (Bacharelado) | 100 (cem) | CENTRO UNIVERSITÁRIO ALVES FARIA | CENTRO EDUCACIONAL ALVES FARIA LTDA. | AVENIDA PERIMETRAL NORTE, 4.129, VILA JOÃO VAZ, GOIÂNIA/GO |
+| 2 | 202223879 | NUTRIÇÃO (Bacharelado) | 54 (cinquenta e quatro) | Centro Universitário Anhanguera de São Paulo | ANHANGUERA EDUCACIONAL PARTICIPACOES S/A | RUA PADRE ADELINO, 668/672, , QUARTA PARADA, SÃO PAULO/SP |
+| 3 | 202317157 | ARTES VISUAIS (Bacharelado) | 80 (oitenta) | CENTRO UNIVERSITÁRIO ARMANDO ALVARES PENTEADO | FUNDACAO ARMANDO ALVARES PENTEADO | RUA ALAGOAS, 903, , HIGIENOPOLIS, SÃO PAULO/SP |
+| 4 | 202315503 | ARTES VISUAIS, PINTURA, GRAVURA E ESCULTURA (Bacharelado) | 240 (duzentas e quarenta) | CENTRO UNIVERSITÁRIO BELAS ARTES DE SÃO PAULO | FEBASP LTDA | RUA DR. ÁLVARO ALVIM, 76/90, CAMPUS VILA MARIANA (SEDE), VILA MARIANA, SÃO PAULO/SP |
+| 5 | 202315789 | SISTEMAS DE INFORMAÇÃO (Bacharelado) | 225 (duzentas e vinte e cinco) | Centro Universitário Carlos Drummond de Andrade | ESCOLA DE EDUCACAO SUPERIOR SAO JORGE | RUA PROF. PEDREIRA DE FREITAS, 415, TATUAPÉ, SÃO PAULO/SP |
+| 6 | 202316444 | PEDAGOGIA (Licenciatura) | 260 (duzentas e sessenta) | Centro Universitário Cearense | CENTRO DE ENSINO SUPERIOR DO CEARA | AVENIDA JOÃO PESSOA, 4005, , DAMAS, FORTALEZA/CE |
+| 7 | 202315663 | CIÊNCIA DA COMPUTAÇÃO (Bacharelado) | 100 (cem) | CENTRO UNIVERSITÁRIO DE GOIÂNIA | ASSOBES ENSINO SUPERIOR LTDA. | AVENIDA T-2, 1993, CAMPUS - GOIÂNIA - SETOR BUENO, SETOR BUENO, GOIÂNIA/GO |
+| 8 | 202315491 | PEDAGOGIA (Licenciatura) | 80 (oitenta) | CENTRO UNIVERSITÁRIO DE PATOS | CENTRO EDUCACIONAL DE ENSINO SUPERIOR DE PATOS LTDA | RUA HORÁCIO NÓBREGA, S/N, UNIDADE SEDE, BELO HORIZONTE, PATOS/PB |
+| 9 | 202315754 | SISTEMA DE INFORMAÇÃO (Bacharelado) | 80 (oitenta) | Centro Universitário Dom Bosco do Rio de Janeiro | ASSOCIACAO EDUCACIONAL DOM BOSCO | AVENIDA PROFESSOR ANTONIO ESTEVES, 01, , MORADA DA COLINA, RESENDE/RJ |
+| 10 | 202315582 | LETRAS - PORTUGUÊS E INGLÊS (Licenciatura) | 80 (oitenta) | CENTRO UNIVERSITÁRIO DON DOMÊNICO | ASSOCIACAO AMPARO AOS PRAIANOS DO GUARUJA | AV. DR. ARTHUR COSTA FILHO, 20, , VILA MAIA, GUARUJÁ/SP |
+| 11 | 202315675 | PEDAGOGIA (Licenciatura) | 160 (cento e sessenta) | CENTRO UNIVERSITÁRIO DO VALE DO ARAGUAIA | SEAR - SOCIEDADE EDUCACIONAL DO ARAGUAIA LTDA | RUA MOREIRA CABRAL, 1000, , SETOR MARIANO, BARRA DO GARÇAS/MT |
+| 12 | 202300538 | JOGOS DIGITAIS (Tecnológico) | 50 (cinquenta) | CENTRO UNIVERSITÁRIO FACENS | ASSOCIACAO CULTURAL DE RENOVACAO TECNOLOGICA SOROCABANA | RODOVIA SENADOR JOSÉ ERMÍRIO DE MORAES, KM 1,5, 1425, , ALTO DA BOA VISTA, SOROCABA/SP |
+| 13 | 202316177 | EDUCAÇÃO FÍSICA (Licenciatura) | 100 (cem) | CENTRO UNIVERSITÁRIO FAMINAS | LAEL VARELLA EDUCACAO E CULTURA LTDA | AV AVENIDA CRISTIANO FERREIRA VARELLA, 655, RODOVIA BR 116 KM 701, UNIVERSITÁRIO, MURIAÉ/MG |
+| 14 | 202316699 | HISTÓRIA (Licenciatura) | 150 (cento e cinquenta) | CENTRO UNIVERSITÁRIO INTA | ASSOCIACAO IGREJA ADVENTISTA MISSIONARIA - AIAMIS | RUA ANTÔNIO RODRIGUES MAGALHÃES, 359, , DOM EXPEDITO, SOBRAL/CE |
+| 15 | 202208296 | BIOMEDICINA (Bacharelado) | 180 (cento e oitenta) | CENTRO UNIVERSITÁRIO MAURICIO DE NASSAU DE ARACAJU | SOCIEDADE DE ENSINO SUPERIOR E DE PESQUISA DE SERGIPE LTDA - SESPS | AVENIDA AUGUSTO FRANCO, S/N, , SIQUEIRA CAMPOS, ARACAJU/SE |
+| 16 | 202209601 | FISIOTERAPIA (Bacharelado) | 250 (duzentas e cinquenta) | Centro Universitário Maurício de Nassau de Campina Grande | INSTITUTO CAMPINENSE DE ENSINO SUPERIOR LTDA | RUA VICE-PREFEITO ANTÔNIO DE CARVALHO SOUSA, S/N, UNIDADE SEDE, ESTAÇÃO VELHA, CAMPINA GRANDE/PB |
+| 17 | 202217896 | FISIOTERAPIA (Bacharelado) | 600 (seiscentas) | CENTRO UNIVERSITÁRIO PLANALTO DO DISTRITO FEDERAL - UNIPLAN | ASSOBES ENSINO SUPERIOR LTDA. | AVENIDA PAU BRASIL, 02, CAMPUS DE ÁGUAS CLARAS, SUL (ÁGUAS CLARAS), BRASÍLIA/DF |
+| 18 | 202315876 | EDUCAÇÃO ARTÍSTICA (Licenciatura) | 40 (quarenta) | Centro Universitário Santa Cecília | ASSOCIACAO DE EDUCACAO SANTA CECILIA (FASC) | PRAÇA BARÃO DO RIO BRANCO, 59, CENTRO, PINDAMONHANGABA/SP |
+| 19 | 202315646 | MÚSICA (Licenciatura) | 40 (quarenta) | Centro Universitário Santa Cecília | ASSOCIACAO DE EDUCACAO SANTA CECILIA (FASC) | PRAÇA BARÃO DO RIO BRANCO, 59, CENTRO, PINDAMONHANGABA/SP |
+| 20 | 202315967 | LETRAS - PORTUGUÊS E ESPANHOL (Licenciatura) | 50 (cinquenta) | Centro Universitário UDC Medianeira | DIRETIVA ADMINISTRADORA DE PARTICIPACOES LTDA | RUA RIO BRANCO, 1820, CENTRO, MEDIANEIRA/PR |
+| 21 | 202214016 | MEDICINA VETERINÁRIA (Bacharelado) | 120 (cento e vinte) | Centro Universitário Vértice | SOEGAR-SOCIEDADE EDUCACIONAL GARDINGO LTDA - EPP | RODOVIA OZIRES LINHARES FRAGA, S/N, CAMPUS 2 - COMPLEXO DE SAÚDE, ZONA RURAL, MATIPÓ/MG |
+| 22 | 202316644 | MECATRÔNICA INDUSTRIAL (Tecnológico) | 160 (cento e sessenta) | FACULDADE ANHANGUERA DE BELO HORIZONTE | ORME SERVICOS EDUCACIONAIS LTDA | AVENIDA PRESIDENTE ANTONIO CARLOS, 4.157, UNIDADE ANTONIO CARLOS, SÃO FRANCISCO, BELO HORIZONTE/MG |
+| 23 | 202201106 | ENGENHARIA AMBIENTAL E SANITÁRIA (Bacharelado) | 200 (duzentas) | Faculdade Anhanguera de Governador Valadares | ORME SERVICOS EDUCACIONAIS LTDA | AVENIDA DOUTOR RAIMUNDO MONTEIRO REZENDE, 330, , CENTRO, GOVERNADOR VALADARES/MG |
+| 24 | 202207764 | MEDICINA (Bacharelado) | 90 (noventa) | FACULDADE DE CIÊNCIAS DA SAÚDE DE BARRETOS DR. PAULO PRATA | SISTEMA MED SERVICOS EDUCACIONAIS S.A. | LOJA MAÇONICA RENOVADORA 68, 100, , AEROPORTO, BARRETOS/SP |
+| 25 | 202301368 | SISTEMAS BIOMÉDICOS (Tecnológico) | 100 (cem) | FACULDADE DE CIÊNCIAS MÉDICAS DA SANTA CASA SÃO PAULO | FUNDACAO ARNALDO VIEIRA DE CARVALHO | RUA DOUTOR CESÁRIO MOTA JÚNIOR, 61, 11º ANDAR, VILA BUARQUE, SÃO PAULO/SP |
+| 26 | 202316228 | CIÊNCIA DA COMPUTAÇÃO (Bacharelado) | 100 (cem) | FACULDADE DE PALMAS | ASSUPERO ENSINO SUPERIOR LTDA. | ACSU SE 40, S/N, CONJ 2 LOTE 07/08, CENTRO, PALMAS/TO |
+| 27 | 202315904 | QUÍMICA (Bacharelado) | 200 (duzentas) | FACULDADE DE SÃO BERNARDO DO CAMPO | FUNDACAO EDUCACIONAL JOAO RAMALHO | RUA AMÉRICO BRASILIENSE, 449, , CENTRO, SÃO BERNARDO DO CAMPO/SP |
+| 28 | 202201111 | ENGENHARIA DE PRODUÇÃO (Bacharelado) | 100 (cem) | FACULDADE FINOM DE PATOS DE MINAS | INSTITUTO EDUCACIONAL TECSOMA LTDA | PRAÇA JOSEFINA MOURÃO, 46, UNIDADE ACADÊMICA - SEDE, CENTRO, PATOS DE MINAS/MG |

@@ -1,0 +1,118 @@
+---
+titulo: "PORTARIA Nº 204, DE 22 DE AGOSTO DE 2018"
+orgao: "Ministério da Agricultura, Pecuária e Abastecimento/Secretaria de Política Agrícola"
+tipo: "Portaria"
+numero: "204"
+data: 2018-08-22
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 27/08/2018, seção 1, p. 50"
+data_publicacao: 2018-08-27
+edicao: "165"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-204-de-22-de-agosto-de-2018-38342129"
+sha256_html_fonte: 66714911769e3f7b5613cf0d7477e28fbfa93b9636aea625693e326dd01146ce
+baixado_em: 2026-10-27
+---
+# PORTARIA Nº 204, DE 22 DE AGOSTO DE 2018
+
+PORTARIA Nº 204, DE 22 DE AGOSTO DE 2018
+
+O SECRETÁRIO DE POLÍTICA AGRÍCOLA, SUBSTITUTO, no uso de suas atribuições e competências estabelecidas pelo Decreto nº 8.701, de 31 de março de 2016, publicado no Diário Oficial da União de 1º de abril de 2016, e observado, no que couber, o contido nas Instruções Normativas nº 2, de 9 de outubro de 2008, publicada no Diário Oficial da União de 13 de outubro de 2008, da Secretaria de Política Agrícola, e nº 18, de 12 de maio de 2016, publicada no Diário Oficial da União de 13 de maio de 2016, do Ministério da Agricultura, Pecuária e Abastecimento, resolve:
+
+**Art. 1º** Aprovar o Zoneamento Agrícola de Risco Climático para a cultura de algodão herbáceo no Estado de Mato Grosso do Sul, ano-safra 2018/2019, conforme anexo.
+
+**Art. 2º** Esta Portaria tem vigência específica para o ano-safra definido no art. 1º e entra em vigor na data de sua publicação.
+
+SÁVIO RAFAEL PEREIRA
+
+## ANEXO
+
+1\. NOTA TÉCNICA
+
+O algodão (Gossypum hirsutun L. r latifolium Hutch) necessita para seu crescimento, desenvolvimento e boa produtividade de condições adequadas de temperatura, umidade do solo e luminosidade.
+
+Temperaturas entre 18ºC e 30oC, com mínimas superiores a 14oC e máximas inferiores a 35oC proporcionam boas condições para a germinação. Para o crescimento inicial, as temperaturas ideais são sempre superiores a 20oC, sendo ideais temperaturas em torno de 30oC. Para os estádios fenológicos do florescimento e formação dos capulhos, as temperaturas do ar adequadas situam-se entre 25 e 30oC. Temperaturas elevadas (acima de 38oC) são prejudiciais à cultura, reduzindo sua produtividade.
+
+Dependo do clima e da duração do ciclo, o algodoeiro necessita de 700 mm a 1300 mm de precipitação pluvial para seu bom desenvolvimento, sendo que 50% a 60% de suas necessidades hídricas ocorrem no período de floração e formação do capulho.
+
+O déficit hídrico e o excesso de umidade no período compreendido entre 60 e 100 dias após a emergência podem induzir a queda das estruturas frutíferas e comprometer a produção, pois aproximadamente 80% das estruturas responsáveis pela produção do algodoeiro são emitidas neste período.
+
+Objetivou-se, com o Zoneamento Agrícola de Risco Climático, identificar os municípios aptos e os períodos de semeadura, com menor risco climático, para o cultivo do algodão herbáceo no Estado.
+
+Para essa identificação foi realizado um balanço hídrico da cultura com uso das seguintes variáveis:
+
+a) precipitação pluvial e temperatura: utilizadas séries históricas com média de 15 anos de registros de 63 estações pluviométricas e 9 climatológicas disponíveis no Estado;
+
+b) evapotranspiração potencial: estimadas médias decendiais para cada estação climatológica, aplicando-se o método de Penman-Monteith;
+
+c) ciclo e fase fenológica da cultura: Para efeito de simulação foram consideradas as fases de germinação/emergência, crescimento/desenvolvimento, floração/enchimento do capulho e maturação fisiológica;
+
+As cultivares foram classificadas em três grupos de características homogêneas: Grupo I (n&lt;140 dias); Grupo II (140 dias£n£165 dias); e Grupo III (n>165 dias), onde n expressa o número de dias da emergência à maturação fisiológica.
+
+d) coeficiente de cultura (Kc): utilizados valores médios para períodos de dez dias, obtidos através de consulta à bibliografia específica reconhecida pela comunidade científica; e
+
+e) reserva útil de água dos solos: estimada em função da profundidade efetiva das raízes e da capacidade de água disponível dos solos.
+
+Consideraram-se os solos Tipo 1, Tipo 2 e Tipo 3, com capacidade de armazenamento de água de 20 mm, 40 mm e 50 mm, respectivamente.
+
+As simulações do balanço hídrico foram realizadas para períodos decendiais. Consideraram-se os valores médios do Índice de Satisfação de Necessidade de Água - ISNA (expresso pela relação entre evapotranspiração real e evapotranspiração máxima - ETr/ETm), por data de semeadura, fase fenológica e localização geográfica das estações pluviométricas e climáticas utilizadas. Considerou-se a fase de floração/enchimento de capulhos, como a mais crítica em relação ao déficit hídrico.
+
+Foram adotados os seguintes critérios para o cultivo do algodoeiro em condições de baixo risco climático:
+
+\- ISNA igual ou maior que 0,55;
+
+\- temperatura média diária superior a 20ºC durante o ciclo da cultura.
+
+Foram considerados aptos os municípios que apresentaram em, pelo menos 20% de sua área condições de temperatura e ISNA conforme os critérios adotados em, no mínimo, 80% dos anos avaliados.
+
+2\. TIPOS DE SOLOS APTOS AO CULTIVO
+
+São aptos ao cultivo de algodão herbáceo no Estado os solos dos tipos 1, 2 e 3, observadas as especificações e recomendações contidas na Instrução Normativa nº 2, de 9 de outubro de 2008.
+
+Não são indicadas para o cultivo:
+
+\- áreas de preservação permanente, de acordo com a Lei 12.651, de 25 de maio de 2012;
+
+\- áreas com solos que apresentam profundidade inferior a 50 cm ou com solos muito pedregosos, isto é, solos nos quais calhaus e matacões ocupem mais de 15% da massa e/ou da superfície do terreno.
+
+3\. TABELA DE PERÍODOS DE SEMEADURA
+
+<table><tr></tr><tr><td><p>Períodos</p></td><td><p>1</p></td><td><p>2</p></td><td><p>3</p></td><td><p>4</p></td><td><p>5</p></td><td><p>6</p></td><td><p>7</p></td><td><p>8</p></td><td><p>9</p></td><td><p>10</p></td><td><p>11</p></td><td><p>12</p></td></tr><tr><td><p>Datas</p></td><td><p>1º</p><p>a</p><p>10</p></td><td><p>11</p><p>a</p><p>20</p></td><td><p>21</p><p>a</p><p>31</p></td><td><p>1º</p><p>a</p><p>10</p></td><td><p>11</p><p>a</p><p>20</p></td><td><p>21</p><p>a 28</p></td><td><p>1º</p><p>a</p><p>10</p></td><td><p>11</p><p>a</p><p>20</p></td><td><p>21</p><p>a</p><p>31</p></td><td><p>1º</p><p>a</p><p>10</p></td><td><p>11</p><p>a</p><p>20</p></td><td><p>21</p><p>a</p><p>30</p></td></tr><tr><td><p>Meses</p></td><td><p>Janeiro</p></td><td><p>Fevereiro</p></td><td><p>Março</p></td><td><p>Abril</p></td></tr></table>
+
+<table><tr></tr><tr><td><p>Períodos</p></td><td><p>13</p></td><td><p>14</p></td><td><p>15</p></td><td><p>16</p></td><td><p>17</p></td><td><p>18</p></td><td><p>19</p></td><td><p>20</p></td><td><p>21</p></td><td><p>22</p></td><td><p>23</p></td><td><p>24</p></td></tr><tr><td><p>Datas</p></td><td><p>1º</p><p>a</p><p>10</p></td><td><p>11</p><p>a</p><p>20</p></td><td><p>21</p><p>a</p><p>31</p></td><td><p>1º</p><p>a</p><p>10</p></td><td><p>11</p><p>a</p><p>20</p></td><td><p>21</p><p>a</p><p>30</p></td><td><p>1º</p><p>a</p><p>10</p></td><td><p>11</p><p>a</p><p>20</p></td><td><p>21</p><p>a</p><p>31</p></td><td><p>1º</p><p>a</p><p>10</p></td><td><p>11</p><p>a</p><p>20</p></td><td><p>21</p><p>a</p><p>31</p></td></tr><tr><td><p>Meses</p></td><td><p>Maio</p></td><td><p>Junho</p></td><td><p>Julho</p></td><td><p>Agosto</p></td></tr></table>
+
+<table><tr></tr><tr><td><p>Períodos</p></td><td><p>25</p></td><td><p>26</p></td><td><p>27</p></td><td><p>28</p></td><td><p>29</p></td><td><p>30</p></td><td><p>31</p></td><td><p>32</p></td><td><p>33</p></td><td><p>34</p></td><td><p>35</p></td><td><p>36</p></td></tr><tr><td><p>Datas</p></td><td><p>1º</p><p>a 10</p></td><td><p>11</p><p>a</p><p>20</p></td><td><p>21</p><p>a</p><p>30</p></td><td><p>1º</p><p>a</p><p>10</p></td><td><p>11</p><p>a</p><p>20</p></td><td><p>21</p><p>a</p><p>31</p></td><td><p>1º</p><p>a</p><p>10</p></td><td><p>11</p><p>a</p><p>20</p></td><td><p>21</p><p>a</p><p>30</p></td><td><p>1º</p><p>a</p><p>10</p></td><td><p>11</p><p>a</p><p>20</p></td><td><p>21</p><p>a</p><p>31</p></td></tr><tr><td><p>Meses</p></td><td><p>Setembro</p></td><td><p>Outubro</p></td><td><p>Novembro</p></td><td><p>Dezembro</p></td></tr></table>
+
+4\. CULTIVARES INDICADAS
+
+Para efeito de indicação dos períodos de plantio, as cultivares indicadas pelos obtentores/mantenedores para o Estado, foram agrupadas conforme a seguir especificado.
+
+GRUPO II
+
+EMBRAPA - CNPA: BRS 293, BRS 430 B2RF, BRS 416;
+
+UNISOJA S/A: TMG11WS, 1648 B2RF, TMG61RF, TMG62RF, 16R137B2RF, 17R134B2RF.
+
+GRUPO III
+
+BAYER S/A: FM 951LL, FM 975WS, FM 944GL, FM 982GL, FM 980GLT, FM 940GLT, FM 913GLT, BS 2106 GL, FM 954GLT, FM 983GLT, VB 1370GLT, FM 906GLT, FM 985GLTP;
+
+D&PL BRASIL LTDA: DeltaOPAL, DP 604BG, DP 555BGRR, DP 1231 B2RF, DP 1227 RF, DP 1536 B2RF, DP 1552 B2RF, DP 1552 RF, 1742 RF, DP 1743 RF, DP 1746 B2RF, DP 1730 B2RF;
+
+EMBRAPA - CNPA: BRS 269, BRS 286, BRS 336, BRS 368RF, BRS 369RF, BRS 370RF, BRS 371RF, BRS 372, BRS 432 B2RF, BRS 433FL B2RF;
+
+UNISOJA S/A: TMG41WS, TMG42WS, TMG43WS, TMG81WS, TMG82WS, TMG45B2RF, TMG46B2RF, TMG47B2RF, TMG44B2RF.
+
+Com base nas informações prestadas pelo obtentor/mantenedor, nenhuma das cultivares indicadas para o Mato Grosso do Sul obteve enquadramento no grupo I.
+
+Notas:
+
+1\. Informações específicas sobre as cultivares indicadas devem ser obtidas junto aos respectivos obtentores/mantenedores.
+
+2\. Devem ser utilizadas no plantio sementes produzidas em conformidade com a legislação brasileira sobre sementes e mudas (Lei nº 10.711, de 5 de agosto de 2003, e Decreto nº 5.153, de 23 de agosto de 2004).
+
+5\. RELAÇÃO DOS MUNICÍPIOS APTOS AO CULTIVO E PERÍODOS INDICADOS PARA SEMEADURA
+
+<table><tr></tr><tr><td><p>MUNICÍPIOS</p></td><td><p>PERÍODOS DE SEMEADURA PARA CULTIVARES DO GRUPO I</p></td></tr><tr><td></td><td><p>SOLOS TIPO 1</p></td><td><p>SOLOS TIPO 2</p></td><td><p>SOLOS TIPO 3</p></td></tr><tr><td><p>Água Clara</p></td><td><p>34 a 3</p></td><td><p>34 a 3</p></td><td><p>34 a 3</p></td></tr><tr><td><p>Alcinópolis</p></td><td><p>34 a 3</p></td><td><p>34 a 3</p></td><td><p>34 a 3</p></td></tr><tr><td><p>Amambaí</p></td><td></td><td><p>28 a 36</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Anastácio*</p></td><td><p>29 a 30</p></td><td><p>28 a 35</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Anaurilândia</p></td><td></td><td><p>28 a 29 + 32 a 36</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Angélica</p></td><td></td><td><p>29 a 36</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Antônio João</p></td><td><p>34 a 35</p></td><td><p>28 a 36</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Aparecida do Taboado</p></td><td><p>28 a 36</p></td><td><p>28 a 36</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Aquidauana*</p></td><td><p>28 a 30 + 34 a 36</p></td><td><p>28 a 36</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Aral Moreira</p></td><td></td><td><p>28 a 29 + 33 a 36</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Bandeirantes</p></td><td><p>28 a 36</p></td><td><p>28 a 36</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Bataguassu</p></td><td></td><td><p>28 a 36</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Batayporã</p></td><td></td><td><p>31 a 36</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Bela Vista</p></td><td></td><td><p>28 a 29 + 33 a 36</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Bodoquena</p></td><td></td><td><p>28 a 36</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Bonito</p></td><td></td><td><p>28 a 35</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Brasilândia</p></td><td><p>28 a 36</p></td><td><p>28 a 36</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Caarapó</p></td><td></td><td><p>32 a 36</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Camapuã</p></td><td><p>34 a 3</p></td><td><p>34 a 3</p></td><td><p>34 a 3</p></td></tr><tr><td><p>Campo Grande</p></td><td><p>34 a 3</p></td><td><p>34 a 3</p></td><td><p>34 a 3</p></td></tr><tr><td><p>Caracol</p></td><td></td><td><p>28 a 29 + 34 a 36</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Cassilândia</p></td><td><p>34 a 3</p></td><td><p>34 a 3</p></td><td><p>34 a 3</p></td></tr><tr><td><p>Chapadão do Sul</p></td><td><p>34 a 3</p></td><td><p>34 a 3</p></td><td><p>34 a 3</p></td></tr><tr><td><p>Corguinho</p></td><td><p>28 a 35</p></td><td><p>28 a 36</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Coronel Sapucaia</p></td><td></td><td><p>28 a 29 + 34 a 36</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Corumbá</p></td><td><p>29 a 36</p></td><td><p>29 a 36</p></td><td><p>29 a 36</p></td></tr><tr><td><p>Costa Rica</p></td><td><p>34 a 3</p></td><td><p>34 a 3</p></td><td><p>34 a 3</p></td></tr><tr><td><p>Coxim</p></td><td><p>34 a 3</p></td><td><p>34 a 3</p></td><td><p>34 a 3</p></td></tr><tr><td><p>Deodápolis</p></td><td></td><td><p>28 a 36</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Dois Irmãos do Buriti*</p></td><td><p>28 a 35</p></td><td><p>28 a 36</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Douradina</p></td><td></td><td><p>28 a 36</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Dourados</p></td><td></td><td><p>28 a 36</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Eldorado</p></td><td></td><td><p>28 a 29 + 35 a 36</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Fátima do Sul</p></td><td></td><td><p>28 a 29 + 32 a 36</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Figueirão*</p></td><td><p>34 a 3</p></td><td><p>34 a 3</p></td><td><p>34 a 3</p></td></tr><tr><td><p>Glória de Dourados</p></td><td></td><td><p>28 a 29 + 32 a 36</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Guia Lopes da Laguna</p></td><td></td><td><p>28 a 29 + 33 a 35</p></td><td><p>28 a 35</p></td></tr><tr><td><p>Iguatemi</p></td><td></td><td><p>28 a 36</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Inocência</p></td><td><p>28 a 36</p></td><td><p>28 a 36</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Itaporã</p></td><td></td><td><p>28 a 36</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Itaquiraí</p></td><td></td><td><p>28 a 36</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Ivinhema</p></td><td></td><td><p>28 a 29 + 32 a 33 a 36</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Japorã</p></td><td></td><td><p>28 a 29</p></td><td><p>28 a 30 + 34 a 35</p></td></tr><tr><td><p>Jaraguari</p></td><td><p>28 a 36</p></td><td><p>28 a 36</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Jardim</p></td><td></td><td><p>28 a 29</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Jateí</p></td><td></td><td><p>28 a 29 + 32 a 35</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Juti</p></td><td></td><td><p>28 a 36</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Ladário*</p></td><td></td><td><p>35 a 36</p></td><td><p>28 a 30 + 33 a 36</p></td></tr><tr><td><p>Laguna Carapã</p></td><td></td><td><p>28 a 29 + 32 a 36</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Maracaju</p></td><td><p>29 a 30</p></td><td><p>28 a 36</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Miranda*</p></td><td><p>28 a 36</p></td><td><p>28 a 36</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Mundo Novo</p></td><td></td><td><p>28 a 29</p></td><td><p>28 a 29</p></td></tr><tr><td><p>Naviraí</p></td><td></td><td><p>28 a 36</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Nioaque</p></td><td><p>29 a 30</p></td><td><p>28 a 35</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Nova Alvorada do Sul</p></td><td><p>28 a 35</p></td><td><p>28 a 36</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Nova Andradina</p></td><td></td><td><p>28 a 36</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Novo Horizonte do Sul</p></td><td></td><td></td><td><p>28 a 36</p></td></tr><tr><td><p>Paraíso das Águas</p></td><td><p>34 a 3</p></td><td><p>34 a 3</p></td><td><p>34 a 3</p></td></tr><tr><td><p>Paranaíba</p></td><td><p>28 a 36</p></td><td><p>28 a 36</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Paranhos</p></td><td></td><td><p>28 a 29 + 34 a 36</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Pedro Gomes</p></td><td><p>34 a 3</p></td><td><p>34 a 3</p></td><td><p>34 a 3</p></td></tr><tr><td><p>Ponta Porã</p></td><td><p>34 a 36</p></td><td><p>28 a 36</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Porto Murtinho*</p></td><td></td><td><p>28 a 29 + 34 a 35</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Ribas do Rio Pardo</p></td><td><p>28 a 36</p></td><td><p>28 a 36</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Rio Brilhante</p></td><td></td><td><p>31 a 36</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Rio Negro</p></td><td><p>29 a 35</p></td><td><p>28 a 36</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Rio Verde de Mato Grosso</p></td><td><p>34 a 3</p></td><td><p>34 a 3</p></td><td><p>34 a 3</p></td></tr><tr><td><p>Rochedo</p></td><td><p>28 a 36</p></td><td><p>28 a 36</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Santa Rita do Pardo</p></td><td><p>29 a 36</p></td><td><p>28 a 36</p></td><td><p>28 a 36</p></td></tr><tr><td><p>São Gabriel do Oeste</p></td><td><p>34 a 3</p></td><td><p>34 a 3</p></td><td><p>34 a 3</p></td></tr><tr><td><p>Selvíria</p></td><td><p>28 a 36</p></td><td><p>28 a 36</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Sete Quedas</p></td><td></td><td><p>28 a 29 + 35 a 36</p></td><td><p>28 a 31 + 34 a 36</p></td></tr><tr><td><p>Sidrolândia</p></td><td><p>34 a 3</p></td><td><p>34 a 3</p></td><td><p>34 a 3</p></td></tr><tr><td><p>Sonora</p></td><td><p>34 a 3</p></td><td><p>34 a 3</p></td><td><p>34 a 3</p></td></tr><tr><td><p>Tacuru</p></td><td></td><td><p>28 a 29 + 34 a 36</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Taquarussu</p></td><td></td><td></td><td><p>28 a 31</p></td></tr><tr><td><p>Terenos</p></td><td><p>28 a 34</p></td><td><p>28 a 36</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Três Lagoas</p></td><td><p>28 a 36</p></td><td><p>28 a 36</p></td><td><p>28 a 36</p></td></tr><tr><td><p>Vicentina</p></td><td></td><td><p>28 a 29 + 32 a 36</p></td><td><p>28 a 36</p></td></tr></table>
+
+\* Municípios onde não poderão ser cultivados sementes ou caroços de algodão herbáceo (Gossypium hirsutum), com traços de eventos de modificação genética, conforme a Portaria n° 21, de 13 de janeiro de 2005, do Ministério da Agricultura, Pecuária e Abastecimento, publicada no Diário Oficial da União de 16 de janeiro de 2006.

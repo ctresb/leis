@@ -1,0 +1,42 @@
+---
+titulo: "PORTARIA Nº 2.414, DE 25 DE SETEMBRO DE 2020"
+orgao: "Ministério da Infraestrutura/Agência Nacional de Aviação Civil/Superintendência de Infraestrutura Aeroportuária/Gerência de Certificação e Segurança Operacional"
+tipo: "Portaria"
+numero: "2414"
+data: 2020-09-25
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 21/10/2020, seção 1, p. 76"
+data_publicacao: 2020-10-21
+edicao: "202"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-2.414-de-25-de-setembro-de-2020-283995691"
+sha256_html_fonte: 06d9e54d4c154adb975ab10503e65fad58403a5a63f1126c653ce269eb548316
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 2.414, DE 25 DE SETEMBRO DE 2020
+
+PORTARIA Nº 2.414, DE 25 DE SETEMBRO DE 2020
+
+O GERENTE DE CERTIFICAÇÃO E SEGURANÇA OPERACIONAL SUBSTITUTO, no uso da atribuição que lhe confere o art. 3º, inciso II, alínea "b", item 1, da Portaria nº 2.748/SIA, de 4 de setembro de 2019, tendo em vista o disposto na Lei nº 7.565, de 19 de dezembro de 1986, e na Resolução nº 158, de 13 de julho de 2010, e Portaria nº 3.352/SIA, de 30 de outubro de 2018, e considerando o que consta do processo nº 00065.025007/2020-31, resolve:
+
+**Art. 1º** Alterar e renovar a inscrição do heliponto privado abaixo no cadastro de aeródromos da ANAC com as seguintes características:
+
+I - denominação: Helisilva;
+
+II - código identificador de aeródromo - CIAD: SC0068;
+
+III - município (UF): Balneário Camboriú (SC);
+
+IV - ponto de referência do aeródromo (coordenadas geográficas): 27° 01' 35" S / 048° 37' 16" W
+
+**Art. 2º** A renovação da inscrição tem validade de 10 (dez) anos.
+
+**Art. 3º** As características cadastrais do aeródromo serão publicadas no sítio da ANAC na rede mundial de computadores.
+
+**Art. 4º** O interessado pelo aeródromo deve garantir que as informações prestadas a respeito das características da infraestrutura correspondam à situação do aeródromo, a fim de manter sua inscrição cadastral atualizada na ANAC.
+
+**Art. 5º** Fica revogada a Portaria nº 1955/SIA, de 5 de novembro de 2010, publicada no Diário Oficial da União de 8 de novembro de 2010, Seção 1, Página 16.
+
+**Art. 6º** Esta Portaria entra em vigor na data de sua publicação.
+
+FÁBIO LOPES MAGALHÃES

@@ -1,0 +1,172 @@
+---
+titulo: "Solução de Consulta Cosit nº 136, de 16 de setembro de 2021"
+orgao: "Coordenação-Geral de Tributação"
+tipo: "Solução de Consulta"
+numero: "136"
+data: "2021-09-16"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 20/09/2021, seção 1, página 13"
+data_publicacao: "2021-09-20"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/120540/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/120540/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "120540"
+sha256_texto: "6f5df6561e68b11e4712a9df3404ae5f655e3fa9686b3199660f0e2f5e50d2e8"
+baixado_em: "2026-10-16"
+---
+# Solução de Consulta Cosit nº 136, de 16 de setembro de 2021
+
+Assunto: Contribuição para o Financiamento da Seguridade Social – Cofins  
+REGIME CONCENTRADO DE TRIBUTAÇÃO. PRESTAÇÃO DE SERVIÇO DE TRANSPORTE DE PETRÓLEO E SEUS DERIVADOS. IMPOSSIBILIDADE. INAPLICABILIDADE DE ISENÇÃO, ALÍQUOTA ZERO OU SUBSTITUIÇÃO TRIBUTÁRIA.  
+O regime de tributação com alíquotas concentradas da Cofins incidente na comercialização de derivados de petróleo não se aplica à tributação das receitas decorrentes da prestação de serviço de transporte desses produtos.  
+Por conseguinte, as receitas auferidas pela transportadora, em decorrência da prestação dos serviços de transporte de derivados de petróleo, não possuem benefício de isenção nem de alíquota zero da Cofins. Tampouco, em relação a esse serviço de transporte da carga, existiria a substituição tributária a cargo da refinaria de petróleo.  
+Dispositivos Legais: art 4º da Lei nº 9.718, de 1998; art. 23 da Lei nº 10.865, de 2004; e art. 42 da Medida Provisória nº 2.158-35, de 2001. Assunto: Contribuição para o PIS/Pasep  
+REGIME CONCENTRADO DE TRIBUTAÇÃO. PRESTAÇÃO DE SERVIÇO DE TRANSPORTE DE PETRÓLEO E SEUS DERIVADOS. IMPOSSIBILIDADE. INAPLICABILIDADE DE ISENÇÃO, ALÍQUOTA ZERO OU SUBSTITUIÇÃO TRIBUTÁRIA.  
+O regime de tributação com alíquotas concentradas da Contribuição para o PIS/Pasep incidente na comercialização de derivados de petróleo não se aplica à tributação das receitas decorrentes da prestação de serviço de transporte desses produtos.  
+Por conseguinte, as receitas auferidas pela transportadora, em decorrência da prestação dos serviços de transporte de derivados de petróleo, não possuem benefício de isenção nem de alíquota zero da Contribuição para o PIS/Pasep. Tampouco, em relação a esse serviço de transporte da carga, existiria a substituição tributária a cargo da refinaria de petróleo.  
+Dispositivos Legais: art 4º da Lei nº 9.718, de 1998; art. 23 da Lei nº 10.865, de 2004; e art. 42 da Medida Provisória nº 2.158-35, de 2001.  
+Assunto: Normas de Administração Tributária  
+CONSULTA. INEFICÁCIA PARCIAL.  
+A consulta deve manter estreita relação com a atividade desenvolvida pela consulente, sendo ineficaz quando não atende aos requisitos estabelecidos para formulação.  
+Dispositivos Legais: Art. 18, incisos I e VII, da Instrução Normativa RFB nº 1.396, de 2013.
+
+SC Cosit nº 136-2021
+
+Cosit Fls. 1
+
+Coordenação-Geral de Tributação
+
+Solução de Consulta nº 136 - Cosit Data 16 de setembro de 2021 Processo Interessado CNPJ/CPF
+
+ASSUNTO: CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL - COFINS REGIME CONCENTRADO DE TRIBUTAÇÃO. PRESTAÇÃO DE SERVIÇO DE TRANSPORTE DE PETRÓLEO E SEUS DERIVADOS. IMPOSSIBILIDADE. INAPLICABILIDADE DE ISENÇÃO, ALÍQUOTA ZERO OU SUBSTITUIÇÃO TRIBUTÁRIA. O regime de tributação com alíquotas concentradas da Cofins incidente na comercialização de derivados de petróleo não se aplica à tributação das receitas decorrentes da prestação de serviço de transporte desses produtos. Por conseguinte, as receitas auferidas pela transportadora, em decorrência da prestação dos serviços de transporte de derivados de petróleo, não possuem benefício de isenção nem de alíquota zero da Cofins. Tampouco, em relação a esse serviço de transporte da carga, existiria a substituição tributária a cargo da refinaria de petróleo. Dispositivos Legais: art 4º da Lei nº 9.718, de 1998; art. 23 da Lei nº 10.865, de 2004; e art. 42 da Medida Provisória nº 2.158-35, de 2001. ASSUNTO: CONTRIBUIÇÃO PARA O PIS/PASEP REGIME CONCENTRADO DE TRIBUTAÇÃO. PRESTAÇÃO DE SERVIÇO DE TRANSPORTE DE PETRÓLEO E SEUS DERIVADOS. IMPOSSIBILIDADE. INAPLICABILIDADE DE ISENÇÃO, ALÍQUOTA ZERO OU SUBSTITUIÇÃO TRIBUTÁRIA. O regime de tributação com alíquotas concentradas da Contribuição para o PIS/Pasep incidente na comercialização de derivados de petróleo não se aplica à tributação das receitas decorrentes da prestação de serviço de transporte desses produtos. Por conseguinte, as receitas auferidas pela transportadora, em decorrência da prestação dos serviços de transporte de derivados de petróleo, não possuem benefício de isenção nem de alíquota zero da
+
+Fls. 2
+
+Contribuição para o PIS/Pasep. Tampouco, em relação a esse serviço de transporte da carga, existiria a substituição tributária a cargo da refinaria de petróleo. Dispositivos Legais: art 4º da Lei nº 9.718, de 1998; art. 23 da Lei nº 10.865, de 2004; e art. 42 da Medida Provisória nº 2.158-35, de 2001. ASSUNTO: NORMAS DE ADMINISTRAÇÃO TRIBUTÁRIA CONSULTA. INEFICÁCIA PARCIAL. A consulta deve manter estreita relação com a atividade desenvolvida pela consulente, sendo ineficaz quando não atende aos requisitos estabelecidos para formulação. Dispositivos Legais: Art. 18, incisos I e VII, da Instrução Normativa RFB nº 1.396, de 2013.
+
+Relatório
+
+Trata-se de consulta sobre a interpretação da legislação tributária apresentada nos termos da Instrução Normativa (IN) RFB nº 1.396, de 16 de setembro de 2013, relativa à tributação da Contribuição para o Financiamento da Seguridade Social (Cofins) e da Contribuição para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público (Contribuição para o PIS/Pasep). 2. A consulente, que, dentre outras atividades, ressalta sua atuação no ramo de transporte rodoviário de produtos perigosos, aduz que está submetida ao regime não cumulativo de apuração das referidas contribuições e que “Possui contrato de exclusividade, com prestação de serviço continuada com uma refinaria de petróleo e seus derivados, sendo responsável por 100% (cem por cento) dos transportes de tais produtos” (grifos do original) 3. Em sequência, embora seja prestadora de serviço de transporte de carga (derivados de petróleo), passa a discorrer sobre a tributação relativa à cadeia de comercialização de combustíveis, destacando seu entendimento no sentido de que a incidência monofásica alcançaria o transporte de combustíveis e derivados de petróleo, já que “Caso assim não fosse, ao nosso ver, o transporte de mercadorias sujeitas à incidência monofásica em sua origem e à alíquota zero no restante do processo de circulação, SERIA A ÚNICA EXCLUDENTE (sic) DO REGIME TRIBUTÁRIO, e arcaria com o ônus integral da COFINS e da PIS sobre seu próprio faturamento, constituindo uma afronta ao regime da monofasidade tributária de combustíveis e demais derivados de petróleo”.
+
+Fls. 3
+
+4. Defende que “a incidência monofásica (...) permite que, em cadeias plurifásicas como a acima citada, as contribuições para o PIS e a COFINS incidam uma única vez, apenas a indústria (refinaria) seria tributada pelas contribuições, estando desoneradas as distribuidoras, os transportadores e os postos de combustíveis, integrantes da cadeia produtiva e comercial”, citando jurisprudência da 1ª Turma do Superior Tribunal de Justiça (STJ), nos autos do Recurso Especial (REsp) 1.051.634, cujo acórdão define “que a Lei 11.033/04 é aplicável também a contribuintes não integrantes do Reporto (...). Para ela [a Ministra], a lei revogou tacitamente normas anteriores a 2004 que impediam o creditamento, ou seja, o artigo 3º, § 2º, inciso II, das Leis 10.637/2002 e 10.833/2003.” (grifou-se) 5. Alega que a Secretaria Especial da Receita Federal (RFB) “entende ser inadmissível o creditamento da COFINS e do PIS em empresas que locupletam a cadeia monofásica, isso amparado pelas leis nº 10.833, de 2003; 13.097, de 2015; 11.033, de 2004,
+
+art. 17; 11.116, de 2005, art. 16”, argumentando que “(...), o transporte de combustíveis e outros derivados de petróleo, que estão sujeitos à incidência monofásica da PIS e da COFINS, recebe o mesmo tratamento tributário, vez que não pode ser barganhado com a instrução da
+
+lei que aplica alíquota zero a produtos da cadeia produtiva do sistema monofásico, nem tampouco pode se creditar de tais créditos. Caso assim não fosse, ao nosso ver, o transporte de mercadorias sujeitas à incidência monofásica em sua origem e à alíquota zero no restante do processo de circulação, SERIA A ÚNICA EXCLUDENTE DO REGIME TRIBUTÁRIO, e arcaria com o ônus integral da COFINS e da PIS sobre seu próprio faturamento, constituindo uma afronta ao regime da monofasidade tributária de combustíveis e demais derivados de petróleo.” (grifou-se) 6. Prossegue arguindo que “a Receita Federal do Brasil vem, sistematicamente, se manifestando pela impossibilidade da manutenção dos créditos de PIS e COFINS das empresas sujeitas ao chamado “regime monofásico” e tributadas sob a alíquota zero, quando da venda dos produtos elencados pela Leis nº 10.637/02 e nº 10.833/03.” 6.1. Cita o inciso II do § 2º do art. 3º das Leis nº 10.637, de 2002, e nº 10.833, de 2003, que dispõem que não dará direito a crédito o valor da aquisição de bens e serviços não sujeitos ao pagamento da contribuição, inclusive no caso de isenção, esse último quando revendidos ou utilizados como insumos em produtos ou serviços sujeitos à alíquota 0 (zero), isentos ou não alcançados pela contribuição, para então argumentar que “(...), não estamos aqui falando em venda de produtos, vez que nosso cerne diz respeito às operações de transporte dessas mercadorias, assim sendo, desse ângulo, o transporte também constitui para (sic) a cadeia produtiva, como insumo ou custo das mercadorias vendidas, (...), todo setor dessa mesma cadeia produtiva insurge-se em querer se creditar dos valores exarados por este.” (grifou-se) 7. Segundo a peticionante, em razão também de existir vedação à apuração de créditos em relação ao frete na operação de revenda de produtos sujeitos à tributação concentrada, “[(...) todo setor dessa mesma cadeia produtiva insurge-se em querer se creditar
+
+Fls. 4
+
+dos valores exarados por este”], ela compreende que, na condição de transportadora de combustíveis, o tratamento tributário a ser dado a suas receitas deve ser “alíquota zero, substituída ou isenta”. 8. Em resumo, em relação à Contribuição para o PIS/Pasep e à Cofins, ao entender da interessada, em razão de ser prestadora do serviço de transporte de produtos derivados de petróleo, cujo comércio sujeita-se à tributação concentrada, as receitas auferidas por ela relativas pelo transporte de tais produtos deveriam ser isentas ou estar sujeitas à alíquota zero. Alternativamente, a consulente compreende que, em relação ao serviço de transporte da carga, existiria a tributação concentrada ou a substituição tributária, devendo a refinaria, na condição de substituta tributária, suportar a carga tributária antecipada das contribuições devidas pela transportadora. 9. Em relação à fundamentação legal, a interessada enumera: Lei nº 10.637, de 2002 (art. 3º, em especial, § 2º, II); Lei nº 10.833, de 2003 (art. 3º, § 2º, II); Lei nº 10.865, de 2004; Lei nº 13.097, de 2015; Lei nº 11.116, de 2005 (art. 16); Lei nº 9.718, de 1998 (art. 4º); Medida Provisória n 2.158-35, de 2001 (art. 42, I); Decreto-lei nº 1.598, de 26 de dezembro de 1977 (arts. 13 e 14); Solução de Consulta Cosit nº 218, de 6 de agosto de 2014; Solução de Consulta Cosit nº 265, de 29 de maio de 2017; e Solução de Consulta Cosit nº 324, de 27 de junho de 2017. 10. Ao final, a peticionante apresenta cinco questionamentos:
+
+“1) Petróleo e seus derivados (combustíveis e lubrificantes) estão sujeitos ao tratamento monofásico, determinando que as refinarias paguem, para toda a cadeia produtiva, a Contribuição para o PIS/Pasep e a Cofins? 2) No transporte de petróleo e seus derivados, as empresas de transportes darão tratamento tributário para a Contribuição para o PIS/Pasep e a Cofins: alíquota zero, isenção ou substituição tributária? 3) O princípio da monofasidade tributária dirige-se a atividades econômicas plurifásicas, ou seja, as que integram uma cadeia de circulação de bens ou serviços dividida em várias etapas, como a de um produto derivado de petróleo – sujeito, de regra, a essa sistemática – (...). No transporte de petróleo e seus derivados, as empresas de transportes darão tratamento tributário para a Contribuição para o Pis/Pasep e para a Cofins com alíquota zero, isenção ou substituição tributária? 4) A RFB não permite que os demais membros da cadeia produtiva de petróleo e de seus derivados (distribuidores, transportadores e postos de combustíveis) creditem-se da Contribuição para o Pis/Pasep e da Cofins pagos pela refinaria, a menos que sejam considerados custos operacionais, mesmo esses membros adotando o princípio da não cumulatividade. Então, os
+
+Fls. 5
+
+membros dessa cadeia tratarão tributariamente a Contribuição para o Pis/Pasep e a Cofins com alíquota zero, isenção ou substituição tributária? 5) A consulente poderá segregar as receitas exclusivamente oriundas do transporte de mercadorias ou produtos tratados monofasicamente das demais receitas, tributando normalmente essas demais, e tratando tributariamente as receitas segregadas (a despeito da Contribuição para o Pis/Pasep e da Cofins) como alíquota zero, isenção ou substituição tributária?”
+
+Fundamentos 11. Preliminarmente, cumpre esclarecer que o objetivo do instituto da consulta é dar segurança jurídica ao sujeito passivo que apresenta à Administração Pública dúvida sobre dispositivo da legislação tributária aplicável a fato determinado de sua atividade, propiciando- lhe o correto cumprimento das obrigações tributárias, principais e acessórias, de forma a evitar sanções decorrentes do desatendimento das referidas obrigações. Constitui, assim, instrumento à disposição do sujeito passivo para lhe possibilitar acesso à interpretação dada pela Fazenda Pública à aplicação da legislação tributária federal a um fato determinado. 12. A consulta corretamente formulada produz efeitos legais, como a proibição de se instaurar procedimentos fiscais contra o interessado e a não aplicação de multa ou juros de mora, relativamente à matéria consultada, desde a data de apresentação da consulta até o trigésimo dia subsequente à ciência da solução da consulta. 13. A Solução de Consulta não se presta a verificar a exatidão dos fatos apresentados pelo interessado, uma vez que se limita a apresentar a interpretação da legislação tributária conferida a tais fatos, partindo da premissa de que há conformidade entre os fatos narrados e a realidade factual. Nesse sentido, não convalida nem invalida nenhuma informação, interpretação, ação ou classificação fiscal procedida pelo consulente e não gera nenhum efeito caso se constate, a qualquer tempo, que não foram descritos, adequadamente, os fatos aos quais, em tese, se aplica a Solução de Consulta. 14. O processo administrativo de consulta deve atender, para que se verifique sua admissibilidade e se operem os seus efeitos, aos requisitos e condições estabelecidos pelo
+
+Decreto nº 70.235, de 6 de março de 1972, e pela IN RFB nº 1.396, de 2013, normas que ora disciplinam o instituto. Assim, além do exame dos aspectos atinentes ao objeto da consulta, à legitimidade do consulente e do atendimento dos requisitos formais exigidos para a sua formulação, a autoridade administrativa deverá, previamente ao conhecimento da consulta, verificar se nela está presente alguma das demais hipóteses determinantes de sua ineficácia. Tal análise preliminar, longe de configurar mero exercício formal, é etapa obrigatória a ser observada pela autoridade administrativa, visando resguardar os interesses da Administração Fiscal.
+
+Fls. 6
+
+15. Posto isso, deve ser proferido o exame positivo de admissibilidade da consulta, visto estarem preenchidos os requisitos legais exigidos para seu conhecimento. 16. Delimita-se que o objeto da consulta diz respeito à atuação da consulente na condição de pessoa jurídica prestadora do serviço de transporte de produtos perigosos, mais especificamente, de produtos derivados de petróleo. Produtos cujo comércio está sujeito à tributação concentrada. A interessada inclusive frisa que “(...) não estamos aqui falando em venda de produtos, vez que nosso cerne diz respeito às operações de transporte dessas mercadorias (...)”. 17. O regramento relativo à tributação concentrada sobre a receita dos produtores e importadores dos derivados de petróleo está disposto no art. 4º da Lei nº 9.718, de 1998, nos seguintes termos:
+
+**Art. 4º** As contribuições para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público – PIS/PASEP e para o Financiamento da Seguridade Social – COFINS devidas pelos produtores e importadores de derivados de petróleo serão calculadas, respectivamente, com base nas seguintes alíquotas: (Redação dada pela Lei nº 10.865, de 2004)
+
+I – 5,08% (cinco inteiros e oito centésimos por cento) e 23,44% (vinte inteiros e quarenta e quatro centésimos por cento), incidentes sobre a receita bruta decorrente da venda de gasolinas e suas correntes, exceto gasolina de aviação; (Redação dada pela Lei nº 10.865, de 2004) (Vide Lei nº 11.051, de 2004)
+
+II – 4,21% (quatro inteiros e vinte e um centésimos por cento) e 19,42% (dezenove inteiros e quarenta e dois centésimos por cento), incidentes sobre a receita bruta decorrente da venda de óleo diesel e suas correntes; (Redação dada pela Lei nº 10.865, de 2004) (Vide Lei nº 11.051, de 2004)
+
+III - 10,2% (dez inteiros e dois décimos por cento) e 47,4% (quarenta e sete inteiros e quatro décimos por cento) incidentes sobre a receita bruta decorrente da venda de gás liquefeito de petróleo - GLP derivado de petróleo e de gás natural; (Redação dada pela Lei nº 11.051, de 2004) (Vide Lei nº 11.051, de 2004)
+
+IV – sessenta e cinco centésimos por cento e três por cento incidentes sobre a receita bruta decorrente das demais atividades. (Incluído pela Lei nº 9.990, de 2000)
+
+**Parágrafo único.** Revogado. (Redação dada pela Lei nº 9.990, de 2000) (grifou-se)
+
+18. Nada obstante, as pessoas jurídicas produtoras e os importadores de que trata o caput do art. 4º supra podem optar por regime especial de apuração e pagamento da Contribuição para o PIS/Pasep e da Cofins - Recob, conforme dispõe o art. 23 da Lei nº 10.865, de 2004, in verbis:
+
+**Art. 23.** O importador ou fabricante dos produtos referidos nos incisos I a III do art. 4º da Lei nº 9.718, de 27 de novembro de 1998, e no art. 2º da Lei nº 10.560, de 13 de novembro de 2002, poderá optar por regime especial de apuração e pagamento da contribuição para o PIS/PASEP e da COFINS, no qual os valores das contribuições são fixados, respectivamente, em:
+
+I - R$ 141,10 (cento e quarenta e um reais e dez centavos) e R$ 651,40 (seiscentos e cinqüenta e um reais e quarenta centavos), por metro cúbico de gasolinas e suas correntes, exceto gasolina de aviação;
+
+Fls. 7
+
+II - R$ 82,20 (oitenta e dois reais e vinte centavos) e R$ 379,30 (trezentos e setenta e nove reais e trinta centavos), por metro cúbico de óleo diesel e suas correntes;
+
+III - R$ 119,40 (cento e dezenove reais e quarenta centavos) e R$ 551,40 (quinhentos e cinqüenta e um reais e quarenta centavos), por tonelada de gás liquefeito de petróleo (GLP) derivado de petróleo e gás natural;
+
+III - R$ 119,40 (cento e dezenove reais e quarenta centavos) e R$ 551,40 (quinhentos e cinqüenta e um reais e quarenta centavos), por tonelada de gás liquefeito de petróleo - GLP, derivado de petróleo e de gás natural; (Redação dada pela Lei nº 11.051, de 2004)
+
+IV - R$ 48,90 (quarenta e oito reais e noventa centavos) e R$ 225,50 (duzentos e vinte e cinco reais e cinqüenta centavos), por metro cúbico de querosene de aviação. (...) (grifou-se)
+
+19. Já o regime tributário aplicável à revenda de combustíveis derivados de petróleo é disciplinado pelo art. 42 da Medida Provisória nº 2.158-35, de 2001, como se:
+
+**Art. 42.** Ficam reduzidas a zero as alíquotas da contribuição para o PIS/PASEP e COFINS incidentes sobre a receita bruta decorrente da venda de:
+
+I - gasolinas, exceto gasolina de aviação, óleo diesel e GLP, auferida por distribuidores e comerciantes varejistas;
+
+II - (Revogado pela Lei nº 11.727, de 2008)
+
+III - (Revogado pela Lei nº 11.727, de 2008)
+
+**Parágrafo único.** O disposto neste artigo não se aplica às hipóteses de venda de produtos importados, que se sujeita ao disposto no art. 6º da Lei nº 9.718, de 1998. (grifou-se)
+
+20. Da leitura dos dispositivos supratranscritos, fica claro que os regramentos de tributação aplicáveis na comercialização (produtores, importadores, distribuidores e comerciantes varejistas) dos produtos derivados de petróleo não se confundem com a tributação que recai sobre a prestação do serviço de transporte de tais produtos. 21. Incabível, pois, consubstanciar a prestação do serviço de transporte com a operação de produção/importação/venda/revenda de produtos sujeitos à tributação concentrada de que trata o art. 4º da Lei nº 9.718, de 1998. A tributação no serviço de transporte não se vincula à tributação do objeto/produto transportado. Equivocado o entendimento da consulente de que a incidência monofásica alcançaria o transporte de combustíveis e derivados de petróleo, no sentido de que, na condição de transportadora de combustíveis, o tratamento tributário a ser dado a suas receitas deva ser “alíquota zero, substituída ou isenta”. 22. A tributação da atividade econômica relativa à prestação de serviços de transporte rodoviário de cargas perigosas realizado em vias públicas por conta de terceiros e mediante remuneração não se confunde, portanto, com o regramento relativo à tributação das operações comerciais originalmente sujeitas às alíquotas concentradas da Contribuição para o PIS/Pasep e da Cofins incidentes sobre a receita dos produtores de derivados de petróleo. Respondidos assim o segundo e terceiro questionamentos.
+
+Fls. 8
+
+23. Em relação à citação da consulente quanto à jurisprudência da Primeira Turma do Superior Tribunal de Justiça (STJ), em sede de Agravo Regimental (AgRg) no Recurso Especial (REsp) nº 1.051.634 – CE, verifica-se que a tese fixada não tem o mesmo objeto da consulta, na medida em que se trata de vendedores/revendedores de produtos sujeitos à tributação concentrada (e não prestadores de serviço de transporte destes produtos), segundo depreende-se da ementa transcrita abaixo:
+
+PROCESSUAL. CIVIL. TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PIS E COFINS. TRIBUTAÇÃO PELO SISTEMA MONOFÁSICO. APROVEITAMENTO DE CRÉDITOS. POSSIBILIDADE. BENEFÍCIO FISCAL CONCEDIDO PELA LEI N. 11.033/04, QUE INSTITUIU O REGIME DO REPORTO. EXTENSÃO ÀS EMPRESAS NÃO VINCULADAS A ESSE REGIME. CABIMENTO. I - O sistema monofásico constitui técnica de incidência única da tributação, com alíquota mais gravosa, desonerando-se as demais fases da cadeia produtiva. Na monofasia, o contribuinte é único e o tributo recolhido, ainda que as operações subsequentes não se consumem, não será devolvido. II - O benefício fiscal consistente em permitir a manutenção de créditos de PIS e COFINS, ainda que as vendas e revendas realizadas pela empresa não tenham sido oneradas pela incidência dessas contribuições no sistema monofásico, é extensível às pessoas jurídicas não vinculadas ao REPORTO, regime tributário diferenciado para incentivar a modernização e ampliação da estrutura portuária nacional, por expressa determinação legal (art. 17 da Lei n. 11.033/04). III - O fato de os demais elos da cadeia produtiva estarem desobrigados do recolhimento, à exceção do produtor ou importador responsáveis pelo recolhimento do tributo a uma alíquota maior, não é óbice para que os contribuintes mantenham os créditos de todas as aquisições por eles efetuadas. IV - Agravo Regimental provido. (STJ - AgRg no REsp: 1051634 CE 2008/0089647-3, Relator: Ministro SÉRGIO KUKINA, Data de Julgamento: 28/03/2017, T1 - PRIMEIRA TURMA, Data de Publicação: DJe 27/04/2017)
+
+24. Ademais, salienta-se que, nas matérias decididas de modo desfavorável à Fazenda Nacional pelo STJ, em sede de recursos especiais repetitivos, nos termos do art. 19 da Lei nº 10.522, de 19 de julho de 2002, e da Portaria Conjunta PGFN/RFB nº 1, de 12 de fevereiro de 2014, a RFB encontra-se vinculada ao entendimento jurisprudencial firmado em recurso especial apenas após a devida ciência, por meio de Nota Explicativa elaborada pela Procuradoria Geral da Fazenda Nacional (PGFN), da inclusão do tema na lista de dispensa de contestar ou recorrer. 25. Conforme estatuído na referida lei, a vinculação automática da RFB ao entendimento adotado nas decisões definitivas de mérito (o presente julgado está sobrestado1) no tocante à constituição de crédito tributário e às decisões administrativas sobre a matéria julgada pelo STJ, só se formaliza após a manifestação da PGFN, razão de que, até o presente momento, a RFB não editou parecer normativo delimitando a extensão e o alcance do julgado em referência. 26. No que tange à argumentação apresentada pela peticionante ao discorrer sobre o valor que o revendedor de mercadorias tributadas pelo regime monofásico paga a
+
+https://processo.stj.jus.br/processo/pesquisa/?aplicacao=processos.ea&tipoPesquisa=tipoPesquisaGenerica&ter mo=REsp%201051634. Acesso em 16 set. 2021
+
+Fls. 9
+
+título de frete (se pode ser ou não apropriado como crédito ou se esse valor integra o custo de aquisição desses produtos), apesar de ser irrelevante para a presente solução, transcreve- se parcialmente a Solução de Consulta Cosit nº 327, de 21 de junho de 2017, cuja ementa foi publicada no Diário Oficial da União (DOU) de 27 de junho de 2017, a qual trata desse tema (grifos do original): ASSUNTO: CONTRIBUIÇÃO PARA O PIS/PASEP EMENTA: FRETE NA AQUISIÇÃO PARA REVENDA DE BENS SUJEITOS À INCIDÊNCIA CONCENTRADA. IMPOSSIBILIDADE DE CRÉDITO. São vedados o aproveitamento e a utilização de créditos da Contribuição para o PIS/Pasep em relação a gastos com serviços de transporte (frete) na aquisição dos produtos de que tratam os §§ 1º e 1º-A do art. 2º da Lei nº 10.637, de 2002, sujeitos à incidência concentrada dessas contribuições destinados para revenda, inclusive na hipótese da pessoa jurídica prestadora do serviço de transporte ser optante pelo Simples Nacional. DISPOSITIVOS LEGAIS: §§ 1º e 1º-A do art. 2º; e incisos I e II do art. 3º da Lei nº 10.637, de 30 de dezembro de 2002; inciso IX do art. 3º, e inciso II do art. 15 da Lei nº 10.833, de 29 de dezembro de 2003; art. 17 da Lei nº 11.033, de 21 de dezembro de 2004; art. 16 da Lei nº 11.116, de 18 de maio de 2005; e art. 289 do Decreto nº 3.000, de 6 de março de 1999. ASSUNTO: CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL – COFINS EMENTA: FRETE NA AQUISIÇÃO PARA REVENDA DE BENS SUJEITOS À INCIDÊNCIA CONCENTRADA. IMPOSSIBILIDADE DE CRÉDITO. São vedados o aproveitamento e a utilização de créditos da Cofins em relação a gastos com serviços de transporte (frete) na aquisição dos produtos de que tratam os §§ 1º e 1º-A do art. 2º da Lei nº 10.833, de 2003, sujeitos à incidência concentrada dessas contribuições destinados para revenda, inclusive na hipótese da pessoa jurídica prestadora do serviço de transporte ser optante pelo Simples Nacional. DISPOSITIVOS LEGAIS: §§ 1º e 1º-A do art. 2º; e incisos I, II e IX do art. 3º da Lei nº 10.833, de 29 de dezembro de 2003; art. 17 da Lei nº 11.033, de 21 de dezembro de 2004; art. 16 da Lei nº 11.116, de 18 de maio de 2005; e art. 289 do Decreto nº 3.000, de 6 de março de 1999. (...) Fundamentos (...) 15. Conforme a boa técnica contábil e o § 1º do art. 289 do Decreto nº 3.000, de 6 de março de 1999 (Regulamento do Imposto de Renda – RIR), os serviços de transporte (frete) relacionados à aquisição de bens para revenda podem ser integrantes do custo de aquisição dessas mercadorias, desde que importem ônus para a pessoa jurídica adquirente desses bens, e se atendidos os seguintes termos: (...) 16. Assim, conforme tem sido reconhecido desde há muito pela RFB, o crédito da não cumulatividade da Contribuição para o PIS/Pasep e da Cofins de que trata o inciso I do
+
+art. 3º da Lei nº 10.637, de 2002, e Lei nº 10.833, de 2003, pode ser calculado pela pessoa jurídica adquirente com base no custo de aquisição do bem, conforme definido no § 1º do art. 289 do Decreto nº 3.000, de 1999 (RIR).
+
+Fls. 10
+
+17. Entretanto, como salientado anteriormente, a alínea “b” do inciso I do art. 3º da
+
+Lei nº 10.637, de 2002, e da Lei nº 10.833, de 2003, veda, dentre outras, a possibilidade de creditamento, na modalidade aquisição de bens para revenda, em relação à aquisição de bens sujeitos à cobrança concentrada ou monofásica da Contribuição para o PIS/Pasep e da Cofins (elencados nos §§ 1º e 1º-A do art. 2º da Lei nº 10.637, de 2002, e da Lei nº 10.833, de 2003, respectivamente). 18. Deveras, entre os produtos sujeitos à cobrança das contribuições e que, consequentemente, não permitem a apuração de créditos da não cumulatividade em relação a sua aquisição para revenda estão exatamente os produtos revendidos pela consulente, conforme disposto no §§ 1º e 1º-A da Lei nº 10.637, de 2002, e da Lei nº 10.833, de 2003: (...) 19. Desta maneira, em relação ao custo de aquisição para revenda dos produtos dos §§ 1º e 1º-A da Lei nº 10.637, de 2002, e da Lei nº 10.833, de 2003 (dentre os quais os combustíveis citados nesses dispositivos legais), são VEDADOS o aproveitamento e a utilização de créditos da Contribuição para o PIS/Pasep e da Cofins apurados nos termos do inciso I do art. 3º da Lei nº 10.637, de 2002, e da Lei nº 10.833, de 2003. 20. Cumpre destacar, referida vedação abrange todos os valores que compõem o custo de aquisição para revenda desses bens, inclusive os gastos com frete relacionados a referida aquisição. (...)
+
+27. Incabível, portanto, tratar nesta solução de consulta de hipóteses de permissão ou de vedação de creditamento que digam respeito ao vendedor de mercadorias, ainda que relativas a dispêndios com frete suportados pelo vendedor na operação de venda de produtos sujeitos às alíquotas concentradas da Contribuição para o PIS/Pasep e da Cofins. 28. Outro ponto a ser esclarecido é quanto à hipótese aventada pela consulente de substituição tributária, a qual consiste em, nas palavras de Leandro Paulsen, “instituto que dá maior praticabilidade à tributação”, onde “o substituto tributário é o terceiro que a lei obriga a apurar o montante devido e cumprir a obrigação de pagamento do tributo “em lugar” do contribuinte.”2. Ora, não há previsão legal determinando que transportadores de produtos derivados de petróleo sejam substituídas em relação à tributação da Contribuição para o PIS/Pasep e Cofins incidentes sobre a receita decorrente da prestação de seus serviços de transporte. (grifou-se) 29. A consulente também cita a Solução de Consulta Cosit nº 218, de 2014; a Solução de Consulta Cosit nº 265, de 2017; e a Solução de Consulta Cosit nº 324, de 2017, as quais têm como peticionantes pessoas jurídicas varejistas/atacadistas de combustíveis ou bebidas frias. Ou seja, não possuem a mesma atividade econômica da interessada desta solução de consulta. 30. Em relação ao primeiro e quarto questionamentos, verifica-se que são ineficazes. Com efeito, a consulta deve manter estreita relação com a atividade desenvolvida pela consulente. A pergunta nº 1 é ineficaz porque a matéria encontra-se definida na
+
+Curso de Direito Tributário completo / Leandro Paulsen. – 11. Ed. – São Paulo : Saraiva Educação 2020. p. 172/173
+
+Fls. 11
+
+legislação tributária antes da apresentação da consulta (art. 18, VII, da IN RFB nº 1.396, de 2013), conforme já explicado nos itens 17 a 19 desta Solução de Consulta. 30.1. A pergunta nº 4 é ineficaz na parte em que questiona sobre a tributação de atividades não desenvolvidas pela peticionante (refinarias, distribuidores e postos de combustíveis), ou seja, sobre a tributação em atividades em que a interessada não é sujeito passivo (art. 18, I da IN RFB nº 1.396, de 2013). 31. Por fim, o questionamento nº 5 resta prejudicado, pois toda a receita da consulente de prestação de serviço de transporte rodoviário de combustíveis deve ser tributada, independentemente se o produto transportado tem regime de tributação monofásico ou não.
+
+Conclusão 32. Diante do exposto, responde-se à consulente que: 32.1. o regime de tributação com alíquotas concentradas da Contribuição para o PIS/Pasep e da Cofins incidente na comercialização de combustíveis derivados de petróleo não se aplica à tributação das receitas decorrentes da prestação de serviço de transporte desses produtos. Por conseguinte, as receitas auferidas pela transportadora, em decorrência da prestação dos serviços de transporte desses produtos, não possuem benefício de isenção nem de alíquota zero das contribuições em comento. Tampouco, em relação a esse serviço de transporte da carga, existiria a tributação concentrada ou a substituição tributária a cargo da refinaria de petróleo; 32.2. são considerados ineficazes os questionamentos 1 e 4, visto que não atendem aos requisitos estabelecidos para formulação, nos termos do art. 18, I e VII da IN RFB nº 1.396, de 2013.
+
+Assinado digitalmente FABIO BIGARELLI Auditor-Fiscal da Receita Federal do Brasil
+
+De acordo. Encaminhe-se à Coordenação de Tributos sobre a Receita Bruta e Produtos Industrializados (Cotri).
+
+Assinado digitalmente RAUL KLEBER GOMES DE SOUZA Auditor-Fiscal da Receita Federal do Brasil Chefe da Direi
+
+Fls. 12
+
+De acordo. À consideração do Coordenador-Geral de Tributação.
+
+Assinado digitalmente OTHONIEL LUCAS DE SOUSA JUNIOR Auditor-Fiscal da Receita Federal do Brasil Coordenador da Cotri
+
+Ordem de Intimação
+
+Aprovo a Solução de Consulta. Publique-se e divulgue-se nos termos do art. 27 da Instrução Normativa RFB nº 1.396, de 16 de setembro de 2013. Dê-se ciência à interessada. Assinado digitalmente Fernando Mombelli Auditor-Fiscal da Receita Federal do Brasil Coordenador-Geral de Tributação
+
+
+FERNANDO MOMBELLI  
+Coordenador-Geral

@@ -1,0 +1,96 @@
+---
+titulo: "DELIBERAÇÃO Nº 273, DE 15 DE AGOSTO DE 2025"
+orgao: "Ministério dos Transportes/Agência Nacional de Transportes Terrestres/Diretoria Colegiada"
+tipo: "Deliberação"
+numero: "273"
+data: 2025-08-15
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 18/08/2025, seção 1, p. 112"
+data_publicacao: 2025-08-18
+edicao: "155"
+fonte: "https://www.in.gov.br/web/dou/-/deliberacao-n-273-de-15-de-agosto-de-2025-648861184"
+baixado_em: 2026-10-16
+---
+# DELIBERAÇÃO Nº 273, DE 15 DE AGOSTO DE 2025
+
+DELIBERAÇÃO Nº 273, DE 15 DE AGOSTO DE 2025
+
+A Diretoria Colegiada da Agência Nacional de Transportes Terrestres - ANTT, no uso de suas atribuições, fundamentada no Voto DLA - 095, de 15 de agosto de 2025, na Resolução nº 4.770, de 25 de junho de 2015 e Resolução nº 6.013, de 18 de abril de 2023, em cumprimento à decisão judicial proferida nos autos do Agravo de Instrumento nº 1032158-86.2024.4.01.0000, processo administrativo nº 00424.386988/2024-98, e no que consta do processo nº 50500.204399/2023-38, delibera:
+
+**Art. 1º** Deferir o pedido da empresa Rota Transportes Rodoviários Ltda., CNPJ nº 14.492.342/0001-80, para autorizar, na condição sub judice, a operação da linha Porto Seguro/BA - Recife/PE, via Euclides da Cunha/BA, com as seções indicadas no anexo da Deliberação.
+
+**Art. 2º** Esta Deliberação entra em vigor na data de sua publicação.
+
+GUILHERME THEO SAMPAIO
+
+Diretor-GeralEm exercício
+
+## ANEXO
+
+| REF. | SEÇÕES |
+| --- | --- |
+| 1 | PORTO SEGURO/BA-RECIFE/PE |
+| 2 | ARACI/BA-AGUAS BELAS/PE |
+| 3 | ARACI/BA-CARUARU/PE |
+| 4 | DELMIRO GOUVEIA/AL-ARACI/BA |
+| 5 | ARACI/BA-GARANHUNS/PE |
+| 6 | ARACI/BA-RECIFE/PE |
+| 7 | CAMACAN/BA-AGUAS BELAS/PE |
+| 8 | CAMACAN/BA-CARUARU/PE |
+| 9 | DELMIRO GOUVEIA/AL-CAMACAN/BA |
+| 10 | CAMACAN/BA-GARANHUNS/PE |
+| 11 | CAMACAN/BA-RECIFE/PE |
+| 12 | CANUDOS/BA-AGUAS BELAS/PE |
+| 13 | CANUDOS/BA-CARUARU/PE |
+| 14 | DELMIRO GOUVEIA/AL-CANUDOS/BA |
+| 15 | CANUDOS/BA-GARANHUNS/PE |
+| 16 | CANUDOS/BA-RECIFE/PE |
+| 17 | DELMIRO GOUVEIA/AL-FEIRA DE SANTANA/BA |
+| 18 | DELMIRO GOUVEIA/AL-JEREMOABO/BA |
+| 19 | DELMIRO GOUVEIA/AL-SERRINHA/BA |
+| 20 | EUCLIDES DA CUNHA/BA-AGUAS BELAS/PE |
+| 21 | EUCLIDES DA CUNHA/BA-CARUARU/PE |
+| 22 | DELMIRO GOUVEIA/AL-EUCLIDES DA CUNHA/BA |
+| 23 | EUCLIDES DA CUNHA/BA-GARANHUNS/PE |
+| 24 | EUCLIDES DA CUNHA/BA-RECIFE/PE |
+| 25 | EUNAPOLIS/BA-AGUAS BELAS/PE |
+| 26 | EUNAPOLIS/BA-CARUARU/PE |
+| 27 | DELMIRO GOUVEIA/AL-EUNAPOLIS/BA |
+| 28 | EUNAPOLIS/BA-GARANHUNS/PE |
+| 29 | FEIRA DE SANTANA/BA-AGUAS BELAS/PE |
+| 30 | GANDU/BA-AGUAS BELAS/PE |
+| 31 | GANDU/BA-CARUARU/PE |
+| 32 | DELMIRO GOUVEIA/AL-GANDU/BA |
+| 33 | GANDU/BA-GARANHUNS/PE |
+| 34 | GANDU/BA-RECIFE/PE |
+| 35 | ITABUNA/BA-AGUAS BELAS/PE |
+| 36 | ITABUNA/BA-CARUARU/PE |
+| 37 | DELMIRO GOUVEIA/AL-ITABUNA/BA |
+| 38 | ITABUNA/BA-GARANHUNS/PE |
+| 39 | PORTO SEGURO/BA-AGUAS BELAS/PE |
+| 40 | PORTO SEGURO/BA-CARUARU/PE |
+| 41 | DELMIRO GOUVEIA/AL-PORTO SEGURO/BA |
+| 42 | PORTO SEGURO/BA-GARANHUNS/PE |
+| 43 | ITABUNA/BA-RECIFE/PE |
+| 44 | SANTO ANTONIO DE JESUS/BA-AGUAS BELAS/PE |
+| 45 | SANTO ANTONIO DE JESUS/BA-CARUARU/PE |
+| 46 | DELMIRO GOUVEIA/AL-SANTO ANTONIO DE JESUS/BA |
+| 47 | SANTO ANTONIO DE JESUS/BA-GARANHUNS/PE |
+| 48 | SANTO ANTONIO DE JESUS/BA-RECIFE/PE |
+| 49 | SERRINHA/BA-AGUAS BELAS/PE |
+| 50 | SERRINHA/BA-GARANHUNS/PE |
+| 51 | TEOFILANDIA/BA-AGUAS BELAS/PE |
+| 52 | TEOFILANDIA/BA-CARUARU/PE |
+| 53 | DELMIRO GOUVEIA/AL-TEOFILANDIA/BA |
+| 54 | TEOFILANDIA/BA-GARANHUNS/PE |
+| 55 | TEOFILANDIA/BA-RECIFE/PE |
+| 56 | TUCANO/BA-AGUAS BELAS/PE |
+| 57 | TUCANO/BA-CARUARU/PE |
+| 58 | DELMIRO GOUVEIA/AL-TUCANO/BA |
+| 59 | TUCANO/BA-GARANHUNS/PE |
+| 60 | UBAITABA/BA-AGUAS BELAS/PE |
+| 61 | UBAITABA/BA-CARUARU/PE |
+| 62 | DELMIRO GOUVEIA/AL-UBAITABA/BA |
+| 63 | UBAITABA/BA-GARANHUNS/PE |
+| 64 | UBAITABA/BA-RECIFE/PE |

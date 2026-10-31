@@ -1,0 +1,72 @@
+---
+titulo: "PORTARIA Nº 182, DE 27 DE OUTUBRO DE 2017"
+orgao: "...que as edições eletrônicas do Diário Oficial da União, disponibilizadas no sítio da Imprensa Nacional, produzem os mesmos efeitos legais que as em papel, pois são certificadas digitalmente por autoridade certificadora integrante da ICP-Brasil?/Ministério do Desenvolvimento Social/SECRETARIA NACIONAL DE ASSISTÊNCIA SOCIAL/DEPARTAMENTO DA REDE SOCIOASSISTENCIAL PRIVADA DO SISTEMA ÚNICO DE ASSISTÊNCIA SOCIAL"
+tipo: "Portaria"
+numero: "182"
+data: 2017-10-27
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 31/10/2017, seção 1, p. 95"
+data_publicacao: 2017-10-31
+edicao: "209"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-182-de-27-de-outubro-de-2017-19386966"
+sha256_html_fonte: d0050abb1d1e02ef78d99e04730fa88a231bd1a3d960842a78f7505d674719cf
+baixado_em: 2026-10-28
+---
+# PORTARIA Nº 182, DE 27 DE OUTUBRO DE 2017
+
+PORTARIA Nº 182, DE 27 DE OUTUBRO DE 2017
+
+O SECRETÁRIO NACIONAL DE ASSISTÊNCIA SOCIAL- ADJUNTO, no uso de suas atribuições e com fundamento na PortariaMDS nº 710, de 30 de setembro de 2010, considerando osfundamentos constantes nos pareceres técnicos dos processos abaixoindicados, resolve:
+
+**Art. 1º** Deferir as concessões de certificação de entidadebeneficente de assistência social das seguintes entidades por atenderemos requisitos legais constantes na Lei nº 12.101/2009, comvalidade de três anos a partir da publicação desta portaria no D.O.U.,nos termos do art. 5º, do Decreto nº 8.242/2014, dispostas por nomeda entidade, CNPJ, município/UF, nº do processo e número do parecertécnico:
+
+1)CENTRO PEDAGÓGICO DE ENSINO ESPECIAL,03.264.381/0001-04, CUIABA/MT, 23000.010437/2015-41,51796/2017.
+
+2)NÚCLEO DE ESTUDOS ESPIRITUAIS DE CAMPOS EASSISTÊNCIA SOCIAL FILANTRÓPICA, 43.101.179/0001-86,SAO PAULO/SP, 71000.042923/2015-71, 48489/2017.
+
+3)ASSOCIAÇÃO RESGATE DOS VALORES PELA ARTE- REVARTE, 03.223.058/0001-92, FORTALEZA/CE,71000.096192/2015-84, 48857/2017.
+
+4)COMUNIDADE SAGRADA FACE DE JESUS CRISTO,02.390.402/0001-75, LUZIANIA/GO, 71000.130284/2015-09, 49478/2017.
+
+5)MOVIMENTO ASSISTENCIAL EVANGELICO MAE,00.622.196/0001-56, ALVORADA/RS, 71000.094455/2016-00, 50767/2017.
+
+6)ASSOCIAÇÃO METODISTA LIVRE, 04.955.194/0001-30,SAO PAULO/SP, 71000.094693/2016-15, 50817/2017.
+
+7)ASSOCIAÇÃO COMUNITARIA E FILANTROPICACRISTA EBENEZER DE ITAQUAQUECETUBA, 10.551.879/0001-13,ITAQUAQUECETUBA/SP, 71000.002508/2016-66, 50895/2017.
+
+8)SOCIEDADE BENEFICENTE ESCOLA DO MESTRE JESUS,44.240.737/0001-57, ARARAQUARA/SP, 71000.016777/2017-91, 51002/2017.
+
+9)ASSOCIAÇÃO ASSISTENCIAL E PROMOCIONALCASA DA PAZ, 05.509.404/0001-29, UMUARAMA/PR,71000.024933/2017-97, 51193/2017.
+
+10)ASSOCIAÇÃO PARA O DESENVOLVIMENTO EDUCA CIONALE SOCIAL DO ADOLESCENTE DE ITAPEVA,50.801.190/0001-14, ITAPEVA/SP, 71000.035146/2017-71, 51130/2017.
+
+11)ASSOCIAÇÃO CASA DA CRIANÇA DE GUARIBA,01.807.545/0001-77, GUARIBA/SP, 71000.040447/2017-16, 51617/2017.
+
+12)INSTITUIÇÃO MARIA GIANNI DE ANDRADE,04.165.305/0001-04, PITANGUEIRAS/SP, 71000.050614/2017-37, 51608/2017.
+
+13)APAE DE SINOP, 00.179.465/0001-51, SINOP/MT,71000.050307/2017-56, 51568/2017.
+
+14)ASSOCIAÇÃO DE PAIS E AMIGOS DOS EXCEPCIONAISDE BOM JESUS, 00.478.680/0001-53, BOM JESUS/GO,71000.050377/2017-12, 51593/2017.
+
+15)ASSOCIAÇÃO REDE RUA, 03.221.537/0001-70, SAOPAULO/SP, 71000.051738/2017-30, 51650/2017.
+
+16)FUNDAÇÃO PADRE EUCLIDES NUNES,06.309.939/0001-19, PAULINIA/SP, 71000.051921/2017-35, 51698/2017.
+
+17)ASSOCIAÇÃO DE PAIS E AMIGOS DOS EXCEPCIONAISDE DOIS IRMÃOS DO BURITI - APAE, 08.060.862/0001-11,DOIS IRMAOS DO BURITI/MS, 71000.053903/2017-98, 51819/2017.
+
+18)NÚCLEO PROMOCIONAL PEQUENO ANJO,08.896.238/0001-59, PONTA GROSSA/PR, 71000.054856/2017-08,51862/2017.
+
+19)INSTITUTO SOCIAL DE EDUCAÇÃO E CULTURA,05.508.980/0001-51, BRASILIA/DF, 71000.055583/2017-19, 51867/2017.
+
+**Art. 2º** Pedido de renovação de certificação de entidade beneficentede assistência social deverá ser apresentado no decorrer dos360 (trezentos e sessenta) dias que antecedem o termo final de suavalidade, em conformidade com o art. 24, § 1º, da Lei nº12.101/2009.
+
+**Art. 3º** Cientifique-se a Secretaria da Receita Federal doBrasil.
+
+**Art. 4º** Esta Portaria entra em vigor na data de sua publicação.
+
+ANTONIO JOSÉ GONÇALVES HENRIQUES
+
+ANTONIO JOSÉ GONÇALVES HENRIQUES
+
+Este conteúdo não substitui o publicado na versão certificada.

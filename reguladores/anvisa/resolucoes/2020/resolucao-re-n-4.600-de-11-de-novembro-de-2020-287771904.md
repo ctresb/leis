@@ -1,0 +1,246 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 4.600, DE 11 DE NOVEMBRO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "4600"
+data: 2020-11-11
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 12/11/2020, seção 1, p. 97"
+data_publicacao: 2020-11-12
+edicao: "216"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.600-de-11-de-novembro-de-2020-287771904"
+sha256_html_fonte: 84d6d9d61e5c41e93897503a828dc8f140725bc711b882468bca8c98e74084ea
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 4.600, DE 11 DE NOVEMBRO DE 2020
+
+RESOLUÇÃO-RE Nº 4.600, DE 11 DE NOVEMBRO DE 2020
+
+O Coordenador de Autorização de Funcionamento de Empresas, Substituto, no uso das atribuições que lhe confere o art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º** Conceder Alteração de Autorização de Funcionamento para os estabelecimentos de Farmácias e Drogarias, em conformidade com o anexo desta Resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+ARTHUR LIMA MACHADO EIRELI / 36.889.679/0001-69
+
+25351.415605/2020-02 / 7723241
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 3349889200
+
+--------------------------------------
+
+l.z. jacinto e cia ltda me / 21.776.161/0001-41
+
+25351.160970/2015-07 / 7372388
+
+70152 - AFE/AE - RECURSO ADMINISTRATIVO - FARMÁCIAS E DROGARIAS / 3001271205
+
+--------------------------------------
+
+DROGA VIDA LTDA / 32.887.550/0001-60
+
+25351.696035/2019-08 / 7696995
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 3366016206
+
+--------------------------------------
+
+MELO E LIMA LTDA / 30.408.750/0001-68
+
+25351.350438/2018-14 / 7592658
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 3366010207
+
+--------------------------------------
+
+DROGARIA REAL LTDA / 20.148.565/0001-28
+
+25351.023849/2014-14 / 7087991
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3349907201
+
+--------------------------------------
+
+BONERA & SANTOS LTDA. / 03.116.769/0001-68
+
+25351.365138/2014-14 / 7221461
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3349903209
+
+--------------------------------------
+
+drogaria e perfumaria romanahe ltda - me / 20.355.171/0001-40
+
+25351.148187/2018-18 / 7573937
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3349909208
+
+--------------------------------------
+
+DROGARIA SUPER MAIS LTDA / 36.935.488/0001-96
+
+25351.790848/2020-19 / 7739882
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 3348331201
+
+--------------------------------------
+
+CENTERDROGARIAS TIBURCIO LTDA / 28.383.080/0001-20
+
+25351.355025/2018-26 / 7593499
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 3366018202
+
+--------------------------------------
+
+DROGARIA CATIGUA LTDA / 10.275.605/0001-49
+
+25351.355282/2014-34 / 7214231
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 1999526201
+
+25351.355282/2014-34 / 7214231
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 3366052202
+
+25351.355282/2014-34 / 7214231
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3349897201
+
+--------------------------------------
+
+PEPITA FARMA EIRELI / 37.347.868/0001-72
+
+25351.791460/2020-35 / 7740097
+
+70152 - AFE/AE - RECURSO ADMINISTRATIVO - FARMÁCIAS E DROGARIAS / 3729185208
+
+--------------------------------------
+
+DROGARIA FARMAPAULISTANA LTDA / 03.980.015/0001-51
+
+25351.547041/2013-39 / 7018761
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3366159206
+
+25351.547041/2013-39 / 7018761
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 3366006209
+
+--------------------------------------
+
+drogaria dimas ltda / 02.486.036/0001-52
+
+25351.197993/2002-44 / 0196501
+
+70152 - AFE/AE - RECURSO ADMINISTRATIVO - FARMÁCIAS E DROGARIAS / 3779261200
+
+--------------------------------------
+
+DROGARIA POPULAR MELHOR PREÇO EIRELI / 11.670.466/0001-10
+
+25351.018691/2014-52 / 7085760
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 3366008205
+
+--------------------------------------
+
+RAIA DROGASIL S/A / 61.585.865/1371-06
+
+25351.851431/2016-53 / 7436805
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 3349887203
+
+--------------------------------------
+
+DROGARIA NOVA VIDA ARARAQUARA LTDA / 10.281.026/0001-09
+
+25351.315245/2010-60 / 0682651
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3349901202
+
+25351.315245/2010-60 / 0682651
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 3349883201
+
+--------------------------------------
+
+CARDOZO E DEMIER FARMACIA E PERFUMARIA LTDA / 02.097.347/0001-20
+
+25351.015522/2014-61 / 7084872
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 3349885207
+
+25351.015522/2014-61 / 7084872
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3551785209
+
+--------------------------------------
+
+COMERCIAL UCHOAS CRUZEIRO LTDA. / 13.494.922/0001-44
+
+25351.678895/2013-66 / 7048150
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 3366012203
+
+--------------------------------------
+
+LUCIANA MIKHAIL BAGINI / 03.024.855/0001-40
+
+25351.184434/2002-74 / 0066262
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 3365400200
+
+--------------------------------------
+
+COMERCIO DE MEDICAMENTOS MORO LTDA / 05.881.868/0001-61
+
+25351.152686/2014-78 / 7132591
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 3366004202
+
+--------------------------------------
+
+DROGARIA RR CONCEITO DE MAGÉ LTDA / 27.539.976/0001-93
+
+25351.570885/2019-79 / 7683347
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 2715349205
+
+--------------------------------------
+
+drogaria grande minas ltda / 07.795.520/0001-87
+
+25351.483651/2014-88 / 7264934
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3349905205
+
+--------------------------------------
+
+ANA RIZIA RODRIGUES DA SILVA EIRELI / 17.127.551/0002-02
+
+25351.472270/2019-88 / 7670114
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 3349891201
+
+--------------------------------------
+
+RAIA DROGASIL S/A / 61.585.865/2369-45
+
+25351.334942/2020-91 / 7720305
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 3349895204
+
+--------------------------------------
+
+JULIO CESAR COSTA - DROGARIA / 00.683.282/0001-79
+
+25351.193929/2002-94 / 0044211
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 3349881204

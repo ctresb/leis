@@ -1,0 +1,26 @@
+---
+titulo: "PORTARIA Nº 905, DE 13 DE MARÇO DE 2018"
+orgao: "Ministério da Educação/Instituto Federal de Educação, Ciência e Tecnologia da Bahia"
+tipo: "Portaria"
+numero: "905"
+data: 2018-03-13
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 14/03/2018, seção 1, p. 15"
+data_publicacao: 2018-03-14
+edicao: "50"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-905-de-13-de-marco-de-2018-6459434"
+sha256_html_fonte: 0ea23f1abb4a5ef06cb909e3832eb985b6ad5f51a87e5a3df593d4992185dc3b
+baixado_em: 2026-10-27
+---
+# PORTARIA Nº 905, DE 13 DE MARÇO DE 2018
+
+PORTARIA Nº 905, DE 13 DE MARÇO DE 2018
+
+O REITOR DO INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA, no uso de suas atribuições legais, resolve:
+
+Homologar o resultado final do Processo Seletivo Simplificado, de que trata o Edital nº. 01, de 25/01/2018, publicado no Diário Oficial da União nº. 19, Seção 3, página 35, de 26/01/2018, conforme disposição abaixo:
+
+<table><tr><td><p>ÁREA DE CONHECIMENTO: ENGENHARIA DE MINAS</p></td></tr><tr><td><p>REGIME DE TRABALHO: 40 HORAS</p></td></tr><tr><td><p>NOME DO CANDIDATO</p></td><td><p>PROVA</p><p>DIDÁTICA</p></td><td><p>PROVA</p><p>TÍTULOS</p></td><td><p>NOTA</p><p>FINAL</p></td><td><p>CLASSIF.</p></td></tr><tr><td><p>MARCILHO JOSE DIAS VIEIRA</p></td><td><p>8,70</p></td><td><p>1,50</p></td><td><p>6,54</p></td><td><p>1º</p></td></tr><tr><td><p>RICHARDSON VIANA AGRA</p></td><td><p>8,40</p></td><td><p>1,50</p></td><td><p>6,33</p></td><td><p>2º</p></td></tr><tr><td><p>ALEXANDRE ALMEIDA FEITOSA</p></td><td><p>7,23</p></td><td><p>1,00</p></td><td><p>5,36</p></td><td><p>3º</p></td></tr><tr><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>ÁREA DE CONHECIMENTO: FÍSICA</p></td></tr><tr><td><p>REGIME DE TRABALHO: 40 HORAS</p></td></tr><tr><td><p>NOME DO CANDIDATO</p></td><td><p>PROVA</p><p>DIDÁTICA</p></td><td><p>PROVA</p><p>TÍTULOS</p></td><td><p>NOTA</p><p>INAL</p></td><td><p>CLASSIF.</p></td></tr><tr><td><p>LUCAS GUIMARÃES BARROS</p></td><td><p>9,97</p></td><td><p>2,00</p></td><td><p>7,58</p></td><td><p>1º</p></td></tr><tr><td><p>GILVAN DE OLIVEIRA RIOS MAIA</p></td><td><p>8,90</p></td><td><p>2,40</p></td><td><p>6,95</p></td><td><p>2º</p></td></tr><tr><td><p>THÁRCIO ADELINO CERQUEIRA</p></td><td><p>8,27</p></td><td><p>2,00</p></td><td><p>6,39</p></td><td><p>3º</p></td></tr><tr><td><p>ABEL NASCIMENTO RIBEIRO SANTOS</p></td><td><p>7,77</p></td><td><p>2,00</p></td><td><p>6,04</p></td><td><p>4º</p></td></tr><tr><td><p>DAMON FERREIRA FARIAS</p></td><td><p>7,60</p></td><td><p>0,00</p></td><td><p>5,32</p></td><td><p>5º</p></td></tr><tr><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>ÁREA DE CONHECIMENTO: PEDAGOGIA</p></td></tr><tr><td><p>REGIME DE TRABALHO: 40 HORAS</p></td></tr><tr><td><p>NOME DO CANDIDATO</p></td><td><p>PROVA</p><p>DIDÁTICA</p></td><td><p>PROVA</p><p>TÍTULOS</p></td><td><p>NOTA</p><p>FINAL</p></td><td><p>CLASSIF.</p></td></tr><tr><td><p>IVANETE GOMES PEREIRA</p></td><td><p>9,57</p></td><td><p>3,50</p></td><td><p>7,75</p></td><td><p>1º</p></td></tr><tr><td><p>SHEILA LIDIANE JATOBÁ PEREIRA REIS</p></td><td><p>8,80</p></td><td><p>3,00</p></td><td><p>7,06</p></td><td><p>2º</p></td></tr><tr><td><p>LINDOVALDO FERREIRA RÊGO</p></td><td><p>7,43</p></td><td><p>0,00</p></td><td><p>5,20</p></td><td><p>3º</p></td></tr><tr><td><p>MONICA DOS SANTOS MAIA SANTANA</p></td><td><p>6,50</p></td><td><p>0,00</p></td><td><p>4,55</p></td><td><p>4º</p></td></tr><tr><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>ÁREA DE CONHECIMENTO: QUÍMICA</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>REGIME DE TRABALHO: 40 HORAS</p></td></tr><tr><td><p>NOME DO CANDIDATO</p></td><td><p>PROVA DIDÁTICA</p></td><td><p>PROVA TÍTULOS</p></td><td><p>NOTA FINAL</p></td><td><p>CLASSIF.</p></td></tr><tr><td><p>PATRÍCIA SILVA OLIVEIRA</p></td><td><p>9,47</p></td><td><p>2,40</p></td><td><p>7,35</p></td><td><p>1º</p></td></tr><tr><td><p>THIAGO OLIVEIRA DOS SANTOS</p></td><td><p>9,27</p></td><td><p>2,80</p></td><td><p>7,33</p></td><td><p>2º</p></td></tr><tr><td><p>LUIZ HENRIQUE SILVA</p></td><td><p>8,23</p></td><td><p>3,00</p></td><td><p>6,66</p></td><td><p>3º</p></td></tr><tr><td><p>JÉSSICA BRITO DOS SANTOS LIMA</p></td><td><p>8,50</p></td><td><p>1,50</p></td><td><p>6,40</p></td><td><p>4º</p></td></tr><tr><td><p>HERLLE APARECIDO DA SILVA</p></td><td><p>7,97</p></td><td><p>2,60</p></td><td><p>6,36</p></td><td><p>5º</p></td></tr><tr><td><p>ERICA MESSIAS PAIVA</p></td><td><p>7,90</p></td><td><p>2,70</p></td><td><p>6,34</p></td><td><p>6º</p></td></tr><tr><td><p>FRANCÍLIO SANTOS DA CRUZ</p></td><td><p>7,27</p></td><td><p>0,00</p></td><td><p>5,09</p></td><td><p>7º</p></td></tr><tr><td><p>JOELEM CARVALHO DE MELO</p></td><td><p>6,93</p></td><td><p>0,50</p></td><td><p>5,00</p></td><td><p>8º</p></td></tr><tr><td><p>ICARO FERREIRA DE ABREU</p></td><td><p>6,03</p></td><td><p>2,00</p></td><td><p>4,82</p></td><td><p>9º</p></td></tr><tr><td><p>MARIA ERISFAGNA RIBEIRO DE MACEDO</p></td><td><p>6,70</p></td><td><p>0,00</p></td><td><p>4,69</p></td><td><p>10º</p></td></tr></table>
+
+RENATO DA ANUNCIAÇÃO FILHO

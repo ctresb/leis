@@ -1,0 +1,206 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.807, DE 3 DE AGOSTO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "2807"
+data: 2020-08-03
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 04/08/2020, seção 1, p. 62"
+data_publicacao: 2020-08-04
+edicao: "148"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.807-de-3-de-agosto-de-2020-270221369"
+sha256_html_fonte: 54a03681e97f8fcb78649a4953c81a088d823f0da286fa72323f7e12bd81aa5c
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 2.807, DE 3 DE AGOSTO DE 2020
+
+RESOLUÇÃO-RE Nº 2.807, DE 3 DE AGOSTO DE 2020
+
+A Coordenadora de Autorização de Funcionamento de Empresas, no uso das atribuições que lhe confere o Art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º** Conceder Alteração de Autorização de Funcionamento para os estabelecimentos de Farmácias e Drogarias, em conformidade com o anexo desta Resolução.
+
+**Art. 2º** Esta resolução entra em vigor na data de sua publicação
+
+PATRICIA AZEVEDO CHAGAS
+
+## ANEXO
+
+FARMACIA MENOR PRECO JUCURUTU LTDA / 015.279.884/0001-32
+
+25351.047884/2015-00 / 7362030
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2091255202
+
+25351.047884/2015-00 / 7362030
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 2091320206
+
+25351.047884/2015-00 / 7362030
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2091363200
+
+--------------------------------------
+
+DROGARIA MAIS MED LTDA / 004.483.477/0001-26
+
+25351.387773/2008-04 / 0549748
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2091365206
+
+25351.387773/2008-04 / 0549748
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2091288209
+
+--------------------------------------
+
+COMERCIO DE MEDICAMENTOS BRAIR LTDA / 088.212.113/0190-30
+
+25351.006565/2011-11 / 0737668
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 2087430208
+
+--------------------------------------
+
+LACERDA E DIAS LTDA / 039.410.931/0001-01
+
+25351.382428/2014-14 / 7225522
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2079705202
+
+--------------------------------------
+
+FARMACIA UNIAO MINAS EIRELI / 001.285.639/0001-23
+
+25351.037402/2014-14 / 7095934
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2079671204
+
+--------------------------------------
+
+MED CANEDO EIRELI / 032.138.524/0001-30
+
+25351.638618/2019-14 / 7690501
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2079669202
+
+--------------------------------------
+
+DROGARIA ULTRA POPULAR PRIMAVERA DO LESTE S/A / 015.684.294/0004-38
+
+25351.325166/2018-14 / 7593653
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2079693205
+
+--------------------------------------
+
+DROGARIA FRANCHIN & CHRISTOFARO LTDA-ME FILIAL / 008.877.465/0002-18
+
+25351.349653/2015-20 / 7393523
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2079721204
+
+--------------------------------------
+
+FARMACIA DANESE E BOURSCHEIT LTDA / 015.444.741/0001-39
+
+25351.301242/2012-28 / 0851708
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2091247201
+
+25351.301242/2012-28 / 0851708
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 2091328201
+
+25351.301242/2012-28 / 0851708
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2091351206
+
+--------------------------------------
+
+DROGARIA CENTRAL DO LAUREANO LTDA ME / 003.489.447/0001-64
+
+25351.484266/2015-39 / 7408198
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2091353202
+
+--------------------------------------
+
+g. areas da silva drogaria e perfumaria ltda / 005.855.714/0001-03
+
+25351.025803/2004-50 / 0405956
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 2091336202
+
+--------------------------------------
+
+Drogaria Sueiro / 013.741.196/0001-17
+
+25351.666249/2013-56 / 7043274
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2091361203
+
+--------------------------------------
+
+REMED COMERCIO DE MEDICAMENTOS E PRODUTOS DE SAUDE LTDA / 012.308.388/0002-52
+
+25351.560491/2016-60 / 7493122
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2079673201
+
+--------------------------------------
+
+TRAVAGLIA & OLIVEIRA LTDA. / 000.236.355/0001-84
+
+25351.045415/2014-67 / 7098407
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2079677203
+
+--------------------------------------
+
+SAULO BRUNO ALVES & CIA LTDA / 000.624.132/0001-94
+
+25351.195304/2002-67 / 0058361
+
+7111 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - AMPLIAÇÃO DE ATIVIDADES / 2091343205
+
+--------------------------------------
+
+FARMA STELLA LTDA - ME / 022.301.439/0001-97
+
+25351.545272/2015-70 / 7414127
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2091357205
+
+--------------------------------------
+
+NAFARMA DROGARIA LTDA / 011.029.686/0001-60
+
+25351.555680/2009-91 / 0631992
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2079691209
+
+--------------------------------------
+
+POLIANA MARTINS DA GLORIA ME / 020.219.595/0001-88
+
+25351.365124/2014-92 / 7220790
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2079709205
+
+--------------------------------------
+
+DROGARIA SAO RAIMUNDO EIRELI / 023.812.069/0001-15
+
+25351.325743/2017-97 / 7524411
+
+7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 2079723201
+
+--------------------------------------
+
+POMPEIA PRODUTOS FARMACEUTICOS EIRELI / 008.469.452/0001-29
+
+25351.268848/2014-99 / 7189270
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 2079675207

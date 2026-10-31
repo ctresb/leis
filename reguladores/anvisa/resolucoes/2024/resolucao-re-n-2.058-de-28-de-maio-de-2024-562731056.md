@@ -1,0 +1,108 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.058, DE 28 DE MAIO DE 2024"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "2058"
+data: 2024-05-28
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 29/05/2024, seção 1, p. 181"
+data_publicacao: 2024-05-29
+edicao: "103"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.058-de-28-de-maio-de-2024-562731056"
+sha256_html_fonte: a0dcd98ac66966862950ca5b3c928130130820c724e1f58d92e2c7451f1e3016
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE Nº 2.058, DE 28 DE MAIO DE 2024
+
+RESOLUÇÃO-RE Nº 2.058, DE 28 DE MAIO DE 2024
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Conceder Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+UNIDOCKS ASSESSORIA E LOGISTICA DE MATERIAIS LTDA / 00.233.065/0080-80
+
+25351.267702/2024-06 / 1311598
+
+TRANSPORTAR: MEDICAMENTO
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0629000247
+
+--------------------------------------
+
+b. transportes ltda / 04.353.469/0026-13
+
+25351.267806/2024-11 / 1311600
+
+TRANSPORTAR: MEDICAMENTO
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0629126241
+
+--------------------------------------
+
+Conexao saude ltda / 47.669.027/0001-35
+
+25351.280762/2024-14 / 1311567
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 0652377246
+
+--------------------------------------
+
+FACIM FACIM DISTRIBUIDORA LTDA / 19.871.129/0001-01
+
+25351.266496/2024-17 / 1311631
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0626974241
+
+--------------------------------------
+
+ACL EXPRESS TRANSPORTES MULTIMODAIS E LOGÍSTICA MULTIMODAIS LTDA ME / 23.266.321/0001-38
+
+25351.260275/2024-27 / 1311540
+
+TRANSPORTAR: MEDICAMENTO
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0617232245
+
+--------------------------------------
+
+a s de almeida comercio de medicamentos / 43.556.039/0001-00
+
+25351.271604/2024-65 / 1311571
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0636169243
+
+--------------------------------------
+
+JPMED DISTRIBUIDORA FARMACEUTICA LTDA / 37.530.887/0001-30
+
+25351.262042/2024-69 / 1311627
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0620211245

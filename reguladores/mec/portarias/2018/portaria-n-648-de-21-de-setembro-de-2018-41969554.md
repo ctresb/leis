@@ -1,0 +1,56 @@
+---
+titulo: "PORTARIA Nº 648, DE 21 DE SETEMBRO DE 2018"
+orgao: "Ministério da Educação/Secretaria de Regulação e Supervisão da Educação Superior"
+tipo: "Portaria"
+numero: "648"
+data: 2018-09-21
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 24/09/2018, seção 1, p. 31-32"
+data_publicacao: 2018-09-24
+edicao: "184"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-648-de-21-de-setembro-de-2018-41969554"
+sha256_html_fonte: 0135382e497740d0d29db08e84ed36b907c8179e7cbaf665922925aab0af918c
+baixado_em: 2026-10-27
+---
+# PORTARIA Nº 648, DE 21 DE SETEMBRO DE 2018
+
+PORTARIA Nº 648, DE 21 DE SETEMBRO DE 2018
+
+O SECRETÁRIO DE REGULAÇÃO E SUPERVISÃO DA EDUCAÇÃO SUPERIOR, SUBSTITUTO, no uso da atribuição que lhe confere o Decreto n° 9.005, de 14 de março de 2017, e tendo em vista o Decreto n° 9.235, de 15 de dezembro de 2017, as Portarias Normativas n° 20 e nº 23, de 21 de dezembro de 2017, republicadas em 03 de setembro de 2018, do Ministério da Educação, e a Instrução Normativa nº 1, de 17 de setembro de 2018, e considerando o disposto nos processos e-MEC listados na planilha anexa,, resolve:
+
+**Art. 1º** Ficam reconhecidos, para fins de expedição e registro de diplomas, dos cursos superiores constantes da tabela do Anexo desta Portaria, ministrados pelas Instituições de Educação Superior citadas, nos termos do disposto no art. 10, do Decreto nº 9.235, de 2017.
+
+**Parágrafo único.** O reconhecimento a que se refere esta Portaria é válido exclusivamente para o curso ofertado nos endereços citados na tabela constante do Anexo desta Portaria.
+
+**Art. 2º** Encerra-se, a pedido das respectivas instituições, a oferta dos cursos cujos reconhecimento foram renovados por esta Portaria.
+
+**Art. 3º** Esta Portaria entra em vigor na data de sua publicação.
+
+CLEONE JOSÉ GARCIA
+
+## ANEXO
+
+(Reconhecimento de Cursos)
+
+<table> 	<tbody> 		<tr> 		</tr> 		<tr> 			<td> 			<p>Nº de</p>  			<p>Ordem</p> 			</td> 			<td> 			<p>Registro</p>  			<p>e-MEC nº</p> 			</td> 			<td> 			<p>Curso</p> 			</td> 			<td> 			<p>Nº de vagas totais anuais</p> 			</td> 			<td> 			<p>IES</p> 			</td> 			<td> 			<p>Mantenedora</p> 			</td> 			<td> 			<p>Endereço de funcionamento do curso</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>1</p> 			</td> 			<td> 			<p>201708729</p> 			</td> 			<td> 			<p>MÚSICA (Bacharelado)</p> 			</td> 			<td> 			<p>60 (sessenta)</p> 			</td> 			<td> 			<p>FACULDADE VILLA-LOBOS DO CONE-LESTE PAULISTA</p> 			</td> 			<td> 			<p>CONSERVATORIO MUSICAL E FACULDADE VILLA-LOBOS LTDA - ME</p> 			</td> 			<td> 			<p>AV. ENG. FRANCISCO JOSÉ LONGO, 460, JARDIM SÃO DIMAS, SÃO JOSÉ DOS CAMPOS/SP</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>2</p> 			</td> 			<td> 			<p>201358654</p> 			</td> 			<td> 			<p>PILOTAGEM PROFISSIONAL DE AERONAVES (Tecnológico)</p> 			</td> 			<td> 			<p>200 (duzentas)</p> 			</td> 			<td> 			<p>FACULDADE JK BRASÍLIA - RECANTO DAS EMAS</p> 			</td> 			<td> 			<p>JK EDUCACIONAL LTDA</p> 			</td> 			<td> 			<p>SAI/SUL, TRECHO 02, LOTES 1.510/1.540, REGIÃO ADMINISTRATIVA X, GUARÁ, BRASÍLIA/DF</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>3</p> 			</td> 			<td> 			<p>201205032</p> 			</td> 			<td> 			<p>SISTEMAS PARA INTERNET (Tecnológico)</p> 			</td> 			<td> 			<p>160 (cento e sessenta)</p> 			</td> 			<td> 			<p>FACULDADE ESTÁCIO DO RIO GRANDE DO SUL - ESTÁCIO FARGS</p> 			</td> 			<td> 			<p>SOCIEDADE EDUCACIONAL DO RIO GRANDE DO SUL</p> 			</td> 			<td> 			<p>RUA MARECHAL FLORIANO PEIXOTO 626, CENTRO, PORTO ALEGRE/RS</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>4</p> 			</td> 			<td> 			<p>20077959</p> 			</td> 			<td> 			<p>TURISMO (Bacharelado)</p> 			</td> 			<td> 			<p>60 (sessenta)</p> 			</td> 			<td> 			<p>FACULDADE PITÁGORAS DE MINAS GERAIS</p> 			</td> 			<td> 			<p>PITAGORAS - SISTEMA DE EDUCACAO SUPERIOR SOCIEDADE LTDA</p> 			</td> 			<td> 			<p>RUA DOS GUAJAJARAS, Nº 591, CENTRO, BELO HORIZONTE/MG</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>5</p> 			</td> 			<td> 			<p>20079359</p> 			</td> 			<td> 			<p>GESTÃO DE RECURSOS HUMANOS (Tecnológico)</p> 			</td> 			<td> 			<p>200 (duzentas)</p> 			</td> 			<td> 			<p>FACULDADE DE TECNOLOGIA INED - UNIDADE IPATINGA</p> 			</td> 			<td> 			<p>ASSEDIPA CURSOS E TREINAMENTOS SOCIEDADE SIMPLES LTDA - EPP</p> 			</td> 			<td> 			<p>RUA POUSO ALEGRE 216, CENTRO, IPATINGA/MG</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>6</p> 			</td> 			<td> 			<p>200907289</p> 			</td> 			<td> 			<p>FISIOTERAPIA (Bacharelado)</p> 			</td> 			<td> 			<p>100 (cem)</p> 			</td> 			<td> 			<p>FACULDADE TAMANDARÉ</p> 			</td> 			<td> 			<p>SOCIEDADE ASSISTENCIAL DE EDUCACAO E CULTURA</p> 			</td> 			<td> 			<p>RUA T53, 1336, QUADRA 92, LOTES 10 E 11 SETOR BUENO, GOIÂNIA/GO</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>7</p> 			</td> 			<td> 			<p>201209449</p> 			</td> 			<td> 			<p>CIÊNCIAS CONTÁBEIS (Bacharelado)</p> 			</td> 			<td> 			<p>200 (duzentas)</p> 			</td> 			<td> 			<p>FACULDADE EQUIPE</p> 			</td> 			<td> 			<p>ASSOCIACAO TECNICO EDUCACIONAL EQUIPE</p> 			</td> 			<td> 			<p>AVENIDA SAPUCAIA, Nº 1376, CENTRO, SAPUCAIA DO SUL/RS</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>8</p> 			</td> 			<td> 			<p>201357440</p> 			</td> 			<td> 			<p>COMÉRCIO EXTERIOR (Tecnológico)</p> 			</td> 			<td> 			<p>160 (cento e sessenta)</p> 			</td> 			<td> 			<p>CENTRO UNIVERSITÁRIO DAS FACULDADES METROPOLITANAS UNIDAS</p> 			</td> 			<td> 			<p>FACULDADES METROPOLITANAS UNIDAS EDUCACIONAIS LTDA.</p> 			</td> 			<td> 			<p>AV. MORUMBI 501, MORUMBI, SÃO PAULO/SP</p> 			</td> 		</tr> 	</tbody> </table>
+
+PORTARIA Nº 649 DE 21 DE SETEMBRO DE 2018
+
+O SECRETÁRIO DE REGULAÇÃO E SUPERVISÃO DA EDUCAÇÃO SUPERIOR, SUBSTITUTO, no uso da atribuição que lhe confere o Decreto n° 9.005, de 14 de março de 2017, e tendo em vista o Decreto n° 9.235, de 15 de dezembro de 2017, as Portarias Normativas n° 20 e nº 23, de 21 de dezembro de 2017, republicadas em 03 de setembro de 2018, do Ministério da Educação, e a Instrução Normativa nº 1, de 17 de setembro de 2018, e considerando o disposto nos processos e-MEC listados na planilha anexa,, resolve:
+
+**Art. 1º** Ficam reconhecidos os cursos superiores constantes da tabela do Anexo desta Portaria, ministrados pelas Instituições de Educação Superior citadas, nos termos do disposto no art. 10, do Decreto nº 9.235, de 2017.
+
+**Parágrafo único.** O reconhecimento a que se refere esta Portaria é válido exclusivamente para o curso ofertado no endereço citado na tabela constante do Anexo desta Portaria.
+
+**Art. 2º** O reconhecimento a que se refere esta Portaria é válido até o ciclo avaliativo seguinte.
+
+**Art. 3º** Esta Portaria entra em vigor na data de sua publicação.
+
+CLEONE JOSÉ GARCIA
+
+## ANEXO
+
+(Reconhecimento de Cursos)
+
+<table> 	<tbody> 		<tr> 		</tr> 		<tr> 			<td> 			<p>Nº de</p>  			<p>Ordem</p> 			</td> 			<td> 			<p>Registro</p>  			<p>e-MEC nº</p> 			</td> 			<td> 			<p>Curso</p> 			</td> 			<td> 			<p>Nº de vagas totais anuais</p> 			</td> 			<td> 			<p>Mantida</p> 			</td> 			<td> 			<p>Mantenedora</p> 			</td> 			<td> 			<p>Endereço de funcionamento do curso</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>1</p> 			</td> 			<td> 			<p>200804298</p> 			</td> 			<td> 			<p>EDUCAÇÃO FÍSICA (Licenciatura)</p> 			</td> 			<td> 			<p>200 (duzentas)</p> 			</td> 			<td> 			<p>FACULDADE ANHANGÜERA DE BAURU</p> 			</td> 			<td> 			<p>ANHANGUERA EDUCACIONAL PARTICIPACOES S/A</p> 			</td> 			<td> 			<p>AVENIDA MOUSSA NAKHL TOBIAS, 3-33, PARQUE RESIDENCIAL DO CASTELO, BAURU/SP</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>2</p> 			</td> 			<td> 			<p>200910860</p> 			</td> 			<td> 			<p>GESTÃO DO AGRONEGÓCIO (Tecnológico)</p> 			</td> 			<td> 			<p>200 (duzentas)</p> 			</td> 			<td> 			<p>FACULDADE ALMEIDA RODRIGUES</p> 			</td> 			<td> 			<p>CENTRO DE ENSINO SUPERIOR ALMEIDA RODRIGUES LTDA - EPP</p> 			</td> 			<td> 			<p>RUA QUINCA HONORÁRIO LEÃO, Nº 1.030, MORADA DO SOL, RIO VERDE/GO</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>3</p> 			</td> 			<td> 			<p>200913650</p> 			</td> 			<td> 			<p>ADMINISTRAÇÃO (Bacharelado)</p> 			</td> 			<td> 			<p>200 (duzentas)</p> 			</td> 			<td> 			<p>UNIVERSIDADE CÂNDIDO MENDES</p> 			</td> 			<td> 			<p>ASSOCIACAO SOCIEDADE BRASILEIRA DE INSTRUCAO</p> 			</td> 			<td> 			<p>RODOVIA RJ 124, KM 34, BAIRRO ITATIQUARA, ARARUAMA/RJ</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>4</p> 			</td> 			<td> 			<p>201208506</p> 			</td> 			<td> 			<p>ENGENHARIA CIVIL (Bacharelado)</p> 			</td> 			<td> 			<p>40 (quarenta)</p> 			</td> 			<td> 			<p>UNIVERSIDADE DA REGIÃO DA CAMPANHA</p> 			</td> 			<td> 			<p>FUNDACAO ATTILA TABORDA</p> 			</td> 			<td> 			<p>AVENIDA GENERAL OSÓRIO, Nº 2.289, CENTRO, BAGÉ/RS</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>5</p> 			</td> 			<td> 			<p>201358294</p> 			</td> 			<td> 			<p>EDUCAÇÃO FÍSICA (Licenciatura)</p> 			</td> 			<td> 			<p>40 (quarenta)</p> 			</td> 			<td> 			<p>FACULDADE CAMAQÜENSE DE CIÊNCIAS CONTÁBEIS E ADMINISTRATIVAS</p> 			</td> 			<td> 			<p>FUNDACAO DE ENSINO SUPERIOR DA REGIAO CENTRO SUL</p> 			</td> 			<td> 			<p>AV. CÔNEGO LUIZ WALTER HANQUET, Nº 151, CENTRO, CAMAQUÃ/RS</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>6</p> 			</td> 			<td> 			<p>201358356</p> 			</td> 			<td> 			<p>ENGENHARIA DE PETRÓLEO (Bacharelado)</p> 			</td> 			<td> 			<p>50 (cinquenta)</p> 			</td> 			<td> 			<p>UNIVERSIDADE FEDERAL DE SERGIPE</p> 			</td> 			<td> 			<p>FUNDACAO UNIVERSIDADE FEDERAL DE SERGIPE</p> 			</td> 			<td> 			<p>AVENIDA MARECHAL RONDON, S/N, JARDIM ROSA ELZE, SÃO CRISTOVÃO/SE</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>7</p> 			</td> 			<td> 			<p>201403285</p> 			</td> 			<td> 			<p>ANTROPOLOGIA - DIVERSIDADE CULTURAL LATINO-AMERICANA (Bacharelado)</p> 			</td> 			<td> 			<p>50 (cinquenta)</p> 			</td> 			<td> 			<p>UNIVERSIDADE FEDERAL DA INTEGRAÇÃO LATINO-AMERICANA</p> 			</td> 			<td> 			<p>UNIVERSIDADE FEDERAL DA INTEGRACAO LATINO-AMERICANA</p> 			</td> 			<td> 			<p>AVENIDA TARQUÍNIO JOSLIN DOS SANTOS, Nº 1.000, JARDIM UNIVERSITÁRIO, FOZ DO IGUAÇU/PR</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>8</p> 			</td> 			<td> 			<p>201404923</p> 			</td> 			<td> 			<p>PUBLICIDADE E PROPAGANDA (Bacharelado)</p> 			</td> 			<td> 			<p>180 (cento e oitenta)</p> 			</td> 			<td> 			<p>CENTRO UNIVERSITÁRIO ANHANGUERA DE SANTO ANDRÉ</p> 			</td> 			<td> 			<p>ANHANGUERA EDUCACIONAL PARTICIPACOES S/A</p> 			</td> 			<td> 			<p>AV. DR. ALBERTO BENEDETTI, Nº 444, CAMPUS II, VILA ASSUNÇÃO, SANTO ANDRÉ/SP</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>9</p> 			</td> 			<td> 			<p>201501047</p> 			</td> 			<td> 			<p>GEOGRAFIA (Licenciatura)</p> 			</td> 			<td> 			<p>40 (quarenta)</p> 			</td> 			<td> 			<p>UNIVERSIDADE FEDERAL DO PARÁ</p> 			</td> 			<td> 			<p>UNIVERSIDADE FEDERAL DO PARA</p> 			</td> 			<td> 			<p>RUA PADRE ANTÔNIO FRANCO, Nº 2.417, MATINHA, CAMETÁ/PA</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>10</p> 			</td> 			<td> 			<p>200813161</p> 			</td> 			<td> 			<p>ADMINISTRAÇÃO (Bacharelado)</p> 			</td> 			<td> 			<p>450 (quatrocentas e cinquenta)</p> 			</td> 			<td> 			<p>UNIVERSIDADE ANHANGUERA DE SÃO PAULO</p> 			</td> 			<td> 			<p>ANHANGUERA EDUCACIONAL PARTICIPACOES S/A</p> 			</td> 			<td> 			<p>AVENIDA DOS AUTONOMISTAS, Nº 1.325, BAIRRO VILA CAMPESINA, OSASCO/SP</p> 			</td> 		</tr> 	</tbody> </table>

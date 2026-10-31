@@ -1,0 +1,56 @@
+---
+titulo: "PORTARIAS DE 22 DE OUTUBRO DE 2019"
+orgao: "Ministério da Ciência, Tecnologia, Inovações e Comunicações/Secretaria de Radiodifusão/Departamento de Radiodifusão Educativa, Comunitária e de Fiscalização"
+tipo: "Portaria"
+numero: ""
+data: ""
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 19/11/2019, seção 1, p. 117"
+data_publicacao: 2019-11-19
+edicao: "223"
+fonte: "https://www.in.gov.br/web/dou/-/portarias-de-22-de-outubro-de-2019-228471023"
+sha256_html_fonte: 65fa7a41de0c6736cc07a08a9d5477658cd17db2a52358bb4c75ea38d8aa3242
+baixado_em: 2026-10-27
+---
+# PORTARIAS DE 22 DE OUTUBRO DE 2019
+
+PORTARIAS DE 22 DE OUTUBRO DE 2019
+
+O DIRETOR DO DEPARTAMENTO DE RADIODIFUSÃO EDUCATIVA, COMUNITÁRIA E DE FISCALIZAÇÃO, no uso das atribuições que lhe confere o artigo 46, X do Regimento Interno da Secretaria de Radiodifusão, aprovado pela Portaria MCTIC nº 217, de 25 de janeiro de 2019, e tendo em vista o que consta no processo abaixo, resolve:
+
+**Art. 1º** Aplicar às Entidades, abaixo relacionadas, as penalidades de multa ou anulação de portaria.
+
+**Art. 2º** Estas Portarias entram em vigor na data de suas publicações.
+
+<table><tr></tr><tr><td><p>N° do Processo</p></td><td><p>Entidade</p></td><td><p>Serviço</p></td><td><p>Município</p></td><td><p>UF</p></td><td><p>Sanção</p></td><td><p>Valor (R$)</p></td><td><p>Enquadramento Legal</p></td><td><p>Portaria</p></td><td><p>Embasamento da Portaria de Multa</p></td></tr><tr><td><p>53000.016775/2014</p></td><td><p>Rádio Centro-América Ltda</p></td><td><p>OM</p></td><td><p>São José do Rio Preto</p></td><td><p>MG</p></td><td><p>Multa</p></td><td><p>11.514,67</p></td><td><p>Art. 62 da Lei nº 4.117/62</p></td><td><p>Portaria DECEF n° 3167 de 22/10/2019</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53000.073011/2013</p></td><td><p>Associação De Difusão Comunitária Ebenezer</p></td><td><p>RADCOM</p></td><td><p>Sapucaia do Sul</p></td><td><p>RS</p></td><td></td><td></td><td><p>Anular a Portaria nº 2552/2016/SEI-MCTIC, de 05/09/16</p></td><td><p>Portaria DECEF n° 5250 de 22/10/2019</p></td><td><p>Portaria MC n° 217/2019</p></td></tr><tr><td><p>53000.073040/2013</p></td><td><p>Associação Comunitária Da Juventude De Senador Alexandre Costa</p></td><td><p>FM</p></td><td><p>Senador Alexandre Costa</p></td><td><p>MA</p></td><td></td><td></td><td><p>Anular a Portaria nº 1585/2017/SEI-MCTIC, de 31/03/17</p></td><td><p>Portaria DECEF n° 5254 de 22/10/2019</p></td><td><p>Portaria MC n° 217/2019</p></td></tr><tr><td><p>53000.055992/2013</p></td><td><p>Anderson Da Silva André</p></td><td><p>FM</p></td><td><p>Juarez Távora</p></td><td><p>PB</p></td><td></td><td></td><td><p>Anular a Portaria nº 1424/2017/SEI-MCTIC, de 30/03/17</p></td><td><p>Portaria DECEF n° 5271 de 22/10/2019</p></td><td><p>Portaria MC n° 217/2019</p></td></tr></table>
+
+O DIRETOR DO DEPARTAMENTO DE RADIODIFUSÃO EDUCATIVA, COMUNITÁRIA E DE FISCALIZAÇÃO, no uso das atribuições que lhe confere o § 1º do artigo 26 da Portaria n° 112, de 22 de abril de 2013, publicada no Diário Oficial da União - DOU de 23 de abril de 2013, e tendo em vista o que consta no processo abaixo, resolve:
+
+**Art. 1º** Arquivar os processos sem aplicação de sanção.
+
+**Art. 2º** Estas Portarias entram em vigor na data de suas publicações.
+
+<table><tr></tr><tr><td><p>N° do Processo</p></td><td><p>Entidade</p></td><td><p>Serviço</p></td><td><p>Município</p></td><td><p>UF</p></td><td><p>Portaria</p></td></tr><tr><td><p>53900.071850/2015</p></td><td><p>Radio Imperial Fm Ltda</p></td><td><p>FM</p></td><td><p>Nova Petrópolis</p></td><td><p>RS</p></td><td><p>Portaria DECEF n° 2068 de 22/10/2019</p></td></tr><tr><td><p>53000.076032/2013</p></td><td><p>Rede Jóia De Comunicação Ltda</p></td><td><p>FM</p></td><td><p>João Pinheiro</p></td><td><p>MG</p></td><td><p>Portaria DECEF n° 2692 de 22/10/2019</p></td></tr><tr><td><p>53900.053827/2016</p></td><td><p>Spc Sistema Paranaíba De Comunicações Ltda</p></td><td><p>TV</p></td><td><p>Itumbiara</p></td><td><p>GO</p></td><td><p>Portaria DECEF n° 2757 de 22/10/2019</p></td></tr><tr><td><p>53000.004942/2014</p></td><td><p>Rádio Fraternidade Ltda</p></td><td><p>FM</p></td><td><p>Araras</p></td><td><p>SP</p></td><td><p>Portaria DECEF n° 3086 de 22/10/2019</p></td></tr><tr><td><p>53900.057648/2016</p></td><td><p>Rádio Fm Vale Do Noroeste Ltda</p></td><td><p>FM</p></td><td><p>Moreira Sales</p></td><td><p>PR</p></td><td><p>Portaria DECEF n° 3370 de 22/10/2019</p></td></tr><tr><td><p>53000.076055/2013</p></td><td><p>Tv Juiz De Fora S/A</p></td><td><p>TV</p></td><td><p>Juiz de Fora</p></td><td><p>MG</p></td><td><p>Portaria DECEF n° 4340 de 22/10/2019</p></td></tr><tr><td><p>53900.070809/2015</p></td><td><p>Rádio Assunção De Jales Sociedade Ltda</p></td><td><p>FM</p></td><td><p>Jales</p></td><td><p>SP</p></td><td><p>Portaria DECEF n° 4434 de 22/10/2019</p></td></tr><tr><td><p>53000.070063/2013</p></td><td><p>Rádio Continental Ltda</p></td><td><p>OM</p></td><td><p>Palotina</p></td><td><p>PR</p></td><td><p>Portaria DECEF n° 5038 de 22/10/2019</p></td></tr><tr><td><p>53000.016776/2014</p></td><td><p>Rádio Brasil Novo Ltda</p></td><td><p>OM</p></td><td><p>São José do Rio Preto</p></td><td><p>SP</p></td><td><p>Portaria DECEF n° 5075 de 22/10/2019</p></td></tr><tr><td><p>53900.054610/2016</p></td><td><p>Rádio Araguaia Ltda</p></td><td><p>FM, OM, OT, OC</p></td><td><p>Goiânia e Araguaína e Distrito Federal</p></td><td><p>GO, DF</p></td><td><p>Portaria DECEF n° 5229 de 22/10/2019</p></td></tr><tr><td><p>53000.016765/2014</p></td><td><p>Prefeitura Municipal De São José Do Rio Preto</p></td><td><p>FME</p></td><td><p>São José do Rio Preto</p></td><td><p>SP</p></td><td><p>Portaria DECEF n° 5440 de 22/10/2019</p></td></tr><tr><td><p>53000.059951/2011</p></td><td><p>Clube De Mães Madre Madalena Comunidade Senhor Dos Passos</p></td><td><p>RADCOM</p></td><td><p>Malacacheta</p></td><td><p>MG</p></td><td><p>Portaria DECEF n° 5491 de 22/10/2019</p></td></tr><tr><td><p>53900.055557/2016</p></td><td><p>Fm Rádio Independente De Arcoverde Ltda.</p></td><td><p>FM</p></td><td><p>Arcoverde</p></td><td><p>PE</p></td><td><p>Portaria DECEF n° 5568 de 22/10/2019</p></td></tr></table>
+
+MARCUS VINÍCIUS PAOLUCCI
+
+PORTARIAS DE 29 DE OUTUBRO DE 2019
+
+A DIRETORA DO DEPARTAMENTO DE RADIODIFUSÃO EDUCATIVA, COMUNITÁRIA E DE FISCALIZAÇÃO, SUBSTITUTA, no uso das atribuições que lhe confere o artigo 46, X do Regimento Interno da Secretaria de Radiodifusão, aprovado pela Portaria MCTIC nº 217, de 25 de janeiro de 2019, e tendo em vista o que consta no processo abaixo, resolve:
+
+**Art. 1º** Aplicar às Entidades, abaixo relacionadas, as penalidades de multa.
+
+**Art. 2º** Estas Portarias entram em vigor na data de suas publicações.
+
+<table><tr></tr><tr><td><p>N° do Processo</p></td><td><p>Entidade</p></td><td><p>Serviço</p></td><td><p>Município</p></td><td><p>UF</p></td><td><p>Sanção</p></td><td><p>Valor (R$)</p></td><td><p>Enquadramento Legal</p></td><td><p>Portaria</p></td><td><p>Embasamento da Portaria de Multa</p></td></tr><tr><td><p>01250.065457/2017</p></td><td><p>Associação Comunitária De Radiodifusão De Ibirapuã</p></td><td><p>RADCOM</p></td><td><p>Ibirapuã</p></td><td><p>BA</p></td><td><p>Multa</p></td><td><p>935,06</p></td><td><p>Art. 40, VI do Decreto n° 2.615/98.</p></td><td><p>Portaria DECEF n° 5688 de 29/10/2019</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 294/2015</p></td></tr><tr><td><p>01250.054870/2017</p></td><td><p>Conselho Comunitário Da Associação De Difusão Comunitária Frei Modesto De Timbé Do Sul</p></td><td><p>RADCOM</p></td><td><p>Timbé do Sul</p></td><td><p>SC</p></td><td><p>Multa</p></td><td><p>935,06</p></td><td><p>Art. 40, VI do Decreto n° 2.615/98.</p></td><td><p>Portaria DECEF n° 5691 de 29/10/2019</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 294/2015</p></td></tr><tr><td><p>01250.066443/2017</p></td><td><p>Associação Sócio Cultural São Romão</p></td><td><p>RADCOM</p></td><td><p>Fernando Pedroza</p></td><td><p>RN</p></td><td><p>Multa</p></td><td><p>935,06</p></td><td><p>Art. 40, VI do Decreto n° 2.615/98.</p></td><td><p>Portaria DECEF n° 5694 de 29/10/2019</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 294/2015</p></td></tr><tr><td><p>53900.004661/2014</p></td><td><p>Rádio Zé Ltda</p></td><td><p>FM</p></td><td><p>Resende</p></td><td><p>RJ</p></td><td><p>Multa</p></td><td><p>5.117,93</p></td><td><p>Art. 62 da Lei nº 4.117/62</p></td><td><p>Portaria DECEF n° 5791 de 29/10/2019</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53900.038579/2014</p></td><td><p>Rádio Caledônia Ltda</p></td><td><p>FM</p></td><td><p>Nova Friburgo</p></td><td><p>RJ</p></td><td><p>Multa</p></td><td><p>5.117,93</p></td><td><p>Art. 62 da Lei nº 4.117/62</p></td><td><p>Portaria DECEF n° 5799 de 29/10/2019</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53900.030757/2014</p></td><td><p>Rádio Vera Cruz Fm Ltda</p></td><td><p>FM</p></td><td><p>Santo Antônio do Sudoeste</p></td><td><p>PR</p></td><td><p>Multa</p></td><td><p>8.976,61</p></td><td><p>Art. 62 da Lei nº 4.117/62</p></td><td><p>Portaria DECEF n° 5815 de 29/10/2019</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53900.011337/2014</p></td><td><p>Associação Com. P/O Desenv. Social, Cult. E Art. De Guaratinguetá</p></td><td><p>RADCOM</p></td><td><p>Guaratinguetá</p></td><td><p>SP</p></td><td><p>Multa</p></td><td><p>571,16</p></td><td><p>Art. 40, XVI do Decreto n° 2.615/98.</p></td><td><p>Portaria DECEF n° 5821 de 29/10/2019</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr><tr><td><p>53900.030798/2014</p></td><td><p>Rádio São Carlos Ltda.Me</p></td><td><p>OT</p></td><td><p>São Carlos</p></td><td><p>SP</p></td><td><p>Multa</p></td><td><p>6.732,46</p></td><td><p>Art. 62 da Lei nº 4.117/62</p></td><td><p>Portaria DECEF n° 5824 de 29/10/2019</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 294/2015</p></td></tr><tr><td><p>53900.027232/2014</p></td><td><p>Fundação Radio E Televisão Educativa De Itumbiara</p></td><td><p>FM</p></td><td><p>Itumbiara</p></td><td><p>GO</p></td><td><p>Multa</p></td><td><p>2.570,24</p></td><td><p>Art. 62 da Lei nº 4.117/62</p></td><td><p>Portaria DECEF n° 5858 de 29/10/2019</p></td><td><p>Portaria MC n° 112/2013</p><p>Portaria MC n° 562/2011</p></td></tr></table>
+
+A DIRETORA DO DEPARTAMENTO DE RADIODIFUSÃO EDUCATIVA, COMUNITÁRIA E DE FISCALIZAÇÃO, SUBSTITUTA no uso das atribuições que lhe confere o § 1º do artigo 26 da Portaria n° 112, de 22 de abril de 2013, publicada no Diário Oficial da União - DOU de 23 de abril de 2013, e tendo em vista o que consta no processo abaixo, resolve:
+
+**Art. 1º** Arquivar os processos sem aplicação de sanção.
+
+**Art. 2º** Estas Portarias entram em vigor na data de suas publicações.
+
+<table><tr></tr><tr><td><p>N° do Processo</p></td><td><p>Entidade</p></td><td><p>Serviço</p></td><td><p>Município</p></td><td><p>UF</p></td><td><p>Portaria</p></td></tr><tr><td><p>53900.052811/2016</p></td><td><p>Televisão Liberal Ltda</p></td><td><p>RTV</p></td><td><p>Tomé-Açu</p></td><td><p>PA</p></td><td><p>Portaria DECEF n° 5892 de 29/10/2019</p></td></tr></table>
+
+KARINE BRAGA MONTEIRO

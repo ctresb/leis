@@ -1,0 +1,44 @@
+---
+titulo: "RESOLUÇÃO Nº 5.784, DE 21 DE MARÇO DE 2018"
+orgao: "Ministério dos Transportes, Portos e Aviação Civil/Agência Nacional de Transportes Terrestres/Diretoria Colegiada"
+tipo: "Resolução"
+numero: "5784"
+data: 2018-03-21
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 23/03/2018, seção 1, p. 71"
+data_publicacao: 2018-03-23
+edicao: "57"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-n-5-784-de-21-de-marco-de-2018-7693460"
+sha256_html_fonte: da2d32a1ac6e1d978c718811e3f48fd6bae36e89bcc506eb63473ac2b1c423a3
+baixado_em: 2026-10-27
+---
+# RESOLUÇÃO Nº 5.784, DE 21 DE MARÇO DE 2018
+
+RESOLUÇÃO Nº 5.784, DE 21 DE MARÇO DE 2018
+
+A Diretoria Colegiada da Agência Nacional de Transportes Terrestres - ANTT, no uso de suas atribuições que lhes conferem o art. 24, V, art. 26, II e III, e arts. 43 e 44, da Lei nº 10.233, de 5 de junho de 2001, nos termos da Resolução nº 4.777, de 6 de julho de 2015, fundamentada no Voto DSL - 081, de 15 de março de 2018, e no que consta no Processo nº 50500.318736/2018-14, resolve:
+
+**Art. 1º** Autorizar as empresas relacionadas no Anexo para a prestação do serviço de transporte rodoviário coletivo interestadual e internacional de passageiros realizado em regime de fretamento.
+
+**Art. 2º** A Superintendência de Serviços de Transporte de Passageiros - SUPAS deverá disponibilizar às autorizatárias o acesso ao sistema para a emissão das licenças de viagem a partir da data de publicação desta Resolução no Diário Oficial da União.
+
+**Art. 3º** A não observância do art. 9º da Resolução ANTT nº 4.777, de 6 de julho de 2015, implica na renúncia da autorização delegada pela ANTT.
+
+**Art. 4º** A ANTT deverá declarar a nulidade do Termo de Autorização, quando verificada a ilegalidade do ato, impedindo os efeitos jurídicos que ordinariamente deveriam produzir, além de desconstituir os já produzidos, respeitados o princípio da ampla defesa e do contraditório.
+
+**Art. 5º** A ANTT poderá extinguir autorização mediante cassação, em caso de perda das condições indispensáveis ao cumprimento do objeto da autorização ou infração grave, apuradas em processo regular instaurado conforme disposto em resolução.
+
+**Art. 6º** As autorizatárias deverão observar as condições previstas na Resolução ANTT nº 4.777, de 6 de julho de 2015, e demais normativos relacionados à prestação dos serviços de transporte rodoviário coletivo interestadual e internacional de passageiros realizado em regime de fretamento.
+
+**Art. 7º** A não observância do disposto nesta Resolução implicará na aplicação das sanções previstas em resolução específica.
+
+**Art. 8º** Esta Resolução entra em vigor na data de sua publicação.
+
+MARIO RODRIGUES JUNIOR
+
+Diretor-Geral
+
+## ANEXO
+
+<table><tr></tr><tr><td><p>RAZÃO SOCIAL</p></td><td><p>TAF</p></td><td><p>CNPJ</p></td></tr><tr><td><p>A BURIG EIRELI</p></td><td><p>00.0527</p></td><td><p>29.460.824/0001-26</p></td></tr><tr><td><p>A.V. TURISMO E VIAGENS LTDA</p></td><td><p>00.0528</p></td><td><p>15.750.658/0001-98</p></td></tr><tr><td><p>COOPER TRANSPORTES E LOCACOES EIRELI</p></td><td><p>00.0529</p></td><td><p>10.703.911/0001-39</p></td></tr><tr><td><p>ELVIS ROSSI DE OLIVEIRA - EIRELI</p></td><td><p>00.0530</p></td><td><p>08.336.112/0001-20</p></td></tr><tr><td><p>EXPRESSO PRUDENTE LOCACAO E TRANSPORTES EIRELI - ME</p></td><td><p>00.0531</p></td><td><p>23.856.927/0001-23</p></td></tr><tr><td><p>FRARE AGENCIA DE TURISMO - EIRELI</p></td><td><p>00.0532</p></td><td><p>12.797.447/0001-12</p></td></tr><tr><td><p>JACA TUR EIRELI - ME</p></td><td><p>00.0533</p></td><td><p>24.971.505/0001-61</p></td></tr><tr><td><p>JANKIEL MATEUS TURISMO LTDA - ME</p></td><td><p>00.0534</p></td><td><p>25.144.820/0001-88</p></td></tr><tr><td><p>LEOES DE OURO TRANSPORTES E TURISMO LTDA - ME</p></td><td><p>00.0535</p></td><td><p>14.678.625/0001-11</p></td></tr><tr><td><p>M. RIBEIRO DE FARIA EIRELI - ME</p></td><td><p>00.0536</p></td><td><p>29.034.883/0001-32</p></td></tr><tr><td><p>NAILSON EUDES ALVES DE SOUZA EIRELI - ME</p></td><td><p>00.0537</p></td><td><p>28.901.256/0001-99</p></td></tr><tr><td><p>REAL LINHARES TURISMO EIRELI - ME</p></td><td><p>00.0538</p></td><td><p>29.039.816/0001-00</p></td></tr><tr><td><p>TRANSPORTE PERUZZOLO &amp; TRES LTDA - ME</p></td><td><p>00.0539</p></td><td><p>28.503.312/0001-37</p></td></tr><tr><td><p>ZENATTI TRANSPORTE E TURISMO LTDA - ME</p></td><td><p>00.0540</p></td><td><p>04.285.694/0001-01</p></td></tr></table>

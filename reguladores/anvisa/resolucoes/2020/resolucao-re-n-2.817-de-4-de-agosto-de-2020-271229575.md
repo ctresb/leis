@@ -1,0 +1,172 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.817, DE 4 DE AGOSTO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quinta Diretoria/Gerência-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados"
+tipo: "Resolução"
+numero: "2817"
+data: 2020-08-04
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 10/08/2020, seção 1, p. 77"
+data_publicacao: 2020-08-10
+edicao: "152"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.817-de-4-de-agosto-de-2020-271229575"
+sha256_html_fonte: d52e4a41d3e0ff894f1fbf0be0d3cc7fdc4d3a671e2fec5e96101bf2255a968d
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 2.817, DE 4 DE AGOSTO DE 2020
+
+RESOLUÇÃO-RE Nº 2.817, DE 4 DE AGOSTO DE 2020
+
+O Gerente-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados, no uso das atribuições que lhe confere o art. 189, aliado ao art. 54, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 255, de 10 de dezembro de 2018, e ainda amparado pela Resolução de Diretoria Colegiada - RDC nº 345, de 16 de dezembro de 2002, resolve:
+
+**Art. 1º** Conceder Autorização de Funcionamento de Empresas Prestadoras de Serviços de Interesse da Saúde Pública em conformidade com o disposto no anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+NORBERTO POLLA DE CAMPOS
+
+## ANEXO
+
+EMPRESA: NEURI ANTÔNIO PESSAIA - ME
+
+ENDEREÇO: RUA JOSÉ MENDES SOBRINHO Nº 332
+
+BAIRRO: CIC
+
+MUNICÍPIO: CURITIBA
+
+UF: PR
+
+CEP: 81.350-320
+
+CNPJ: 79.790.077/0001-62
+
+PROCESSO Nº.: 25743.536230/2020-00 (EXP: 1864624/20-7)
+
+AUTORIZ/MS: 9.09261-3
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAR SERVIÇO DE LIMPEZA E RECOLHIMENTO DE RESÍDUOS RESULTANTES DO TRATAMENTO DE ÁGUAS SERVIDAS E DEJETOS EM TERMINAIS AQUAVIÁRIOS, PORTOS ORGANIZADOS, AEROPORTOS, POSTOS DE FRONTEIRAS E RECINTOS ALFANDEGADOS.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+EMPRESA: NEURI ANTÔNIO PESSAIA - ME
+
+ENDEREÇO: RUA JOSÉ MENDES SOBRINHO Nº 332
+
+BAIRRO: CIC
+
+MUNICÍPIO: CURITIBA
+
+UF: PR
+
+CEP: 81.350-320
+
+CNPJ: 79.790.077/0001-62
+
+PROCESSO Nº.: 25743.693526/2020-19 (EXP: 2358404/20-1)
+
+AUTORIZ/MS: 9.09262-7
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAR SERVIÇO DE ESGOTAMENTO, COLETA E TRATAMENTO DE EFLUENTES SANITÁRIOS DE VEÍCULOS TERRESTRES EM TRÂNSITO POR POSTOS DE FRONTEIRA, AERONAVES, EMBARCAÇÕES, AEROPORTOS, TERMINAIS AQUAVIÁRIOS, PORTOS ORGANIZADOS E POSTOS DE FRONTEIRAS.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+EMPRESA: NEURI ANTÔNIO PESSAIA - ME
+
+ENDEREÇO: RUA JOSÉ MENDES SOBRINHO Nº 332
+
+BAIRRO: CIC
+
+MUNICÍPIO: CURITIBA
+
+UF: PR
+
+CEP: 81.350-320
+
+CNPJ: 79.790.077/0001-62
+
+PROCESSO Nº.: 25743.693538/2020-43 (EXP: 2358438/20-6)
+
+AUTORIZ/MS: 9.09263-1
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAR SERVIÇO DE LIMPEZA, DESINFECÇÃO OU DESCONTAMINAÇÃO DE SUPERFÍCIES DE VEÍCULOS TERRESTRES EM TRÂNSITO POR POSTOS DE FRONTEIRA, AERONAVES, EMBARCAÇÕES, TERMINAIS AQUAVIÁRIOS, PORTOS ORGANIZADOS, AEROPORTOS, POSTOS DE FRONTEIRAS E RECINTOS ALFANDEGADOS.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+EMPRESA: LARCLEAN SAÚDE AMBIENTAL EIRELI - ME
+
+ENDEREÇO: AVENIDA T-13, NO. 214, QUADRA S19, LT-14
+
+BAIRRO: SETOR BELA VISTA
+
+MUNICÍPIO: GOIÂNIA
+
+UF: GO
+
+CEP: 74.823-400
+
+CNPJ: 22.359.737/0001-38
+
+PROCESSO: 25756.683651/2020-71 (EXP: 2325615/20-0)
+
+AUTORIZ/MS: 9.09258-4
+
+ÁREA: PAF
+
+ATIVIDADE: 9041 - PAF - AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESA (AFE) QUE PRESTA SERVIÇO DE LIMPEZA, DESINFECÇÃO E DESCONTAMINAÇÃO DE SUPERFÍCIES DE AERONAVES, VEÍCULOS TERRESTRES EM TRÂNSITO POR ESTAÇÕES E PASSAGENS DE FRONTEIRA, EMBARCAÇÕES, TERMINAIS PORTUÁRIOS E AEROPORTUÁRIOS DE CARGAS E VIAJANTES, TERMINAIS ADUANEIROS DE USO PÚBLICO E ESTAÇÃO E PASSAGEM DE FRONTEIRAS.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+EMPRESA: RELEECUN COMERCIO & SERVICOS LTDA. ME
+
+ENDEREÇO: AV. AFONSO PENA, 1200, SALA A
+
+BAIRRO: TIROL
+
+MUNICÍPIO: NATAL
+
+UF: RN
+
+CEP: 59020-265
+
+CNPJ: 06.538.799/0001-50
+
+PROCESSO Nº.: 25750.735808/2020-10 (EXP: 2487589/20-9)
+
+AUTORIZ/MS: 9.09265-8
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAR SERVIÇO DE LIMPEZA, DESINFECÇÃO OU DESCONTAMINAÇÃO DE SUPERFÍCIES DE VEÍCULOS TERRESTRES EM TRÂNSITO POR POSTOS DE FRONTEIRA, AERONAVES, EMBARCAÇÕES, TERMINAIS AQUAVIÁRIOS, PORTOS ORGANIZADOS, AEROPORTOS, POSTOS DE FRONTEIRAS E RECINTOS ALFANDEGADOS.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+EMPRESA: H C DE ARRUDA
+
+ENDEREÇO: RUA C LOTE 07 QUADRA 05
+
+BAIRRO: SÃO ROQUE
+
+MUNICÍPIO: CUIABÁ
+
+UF: MT
+
+CEP: 78.050-606
+
+CNPJ: 32.176.361/0001-80
+
+PROCESSO Nº.: 25351.740746/2020-52 (EXP: 2501806/20-0 )
+
+AUTORIZ/MS: 9.09264-4
+
+ÁREA: PAF
+
+ATIVIDADE: PRESTAÇÃO DE SERVIÇOS DE DESINSETIZAÇÃO OU DESRATIZAÇÃO EM EMBARCAÇÕES, VEÍCULOS TERRESTRES EM TRÂNSITO POR ESTAÇÕES E PASSAGENS DE FRONTEIRA, AERONAVES, TERMINAIS PORTUÁRIOS E AEROPORTUÁRIOS DE CARGAS E VIAJANTES, TERMINAIS ADUANEIROS DE USO PÚBLICO E ESTAÇÕES E PASSAGENS DE FRONTEIRA
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_

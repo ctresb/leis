@@ -1,0 +1,60 @@
+---
+titulo: "PORTARIA MF Nº 2.107, DE 19 DE SETEMBRO DE 2025"
+orgao: "Ministério da Fazenda/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "2107"
+data: 2025-09-19
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 22/09/2025, seção 1, p. 66"
+data_publicacao: 2025-09-22
+edicao: "180"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-mf-n-2.107-de-19-de-setembro-de-2025-657209727"
+baixado_em: 2026-10-16
+---
+# PORTARIA MF Nº 2.107, DE 19 DE SETEMBRO DE 2025
+
+PORTARIA MF Nº 2.107, DE 19 DE SETEMBRO DE 2025
+
+Altera, mediante ampliação e redução, os valores autorizados para pagamento de que trata o Anexo II do Decreto nº 12.448, de 30 de abril de 2025, que dispõe sobre a programação orçamentária e financeira, estabelece o cronograma de execução mensal de desembolso do Poder Executivo federal para o exercício de 2025 e dá outras providências.
+
+O MINISTRO DE ESTADO DA FAZENDA, tendo em vista o disposto no art. 12, inciso II, alínea "b", do Decreto nº 12.448, de 30 de abril de 2025, resolve:
+
+**Art. 1º** Ficam alterados, mediante ampliação e redução, os valores autorizados para pagamento de que trata o Anexo II, do Decreto nº 12.448, de 30 de abril de 2025, na forma dos Anexos de I e II desta Portaria.
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação.
+
+FERNANDO HADDAD
+
+## ANEXO I — Redução no Anexo II do Decreto Nº 12.448, de 30 de Abril de 2025 - VALORES AUTORIZADOS PARA PAGAMENTO DE DESPESAS DISCRICIONÁRIAS, NAS FONTES DO TESOURO ESPECIFICADAS (1)(2)(3)(4)
+
+| R$ mil |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Órgãos | Até Set | Até Out | Até Nov | Até Dez |
+| 32000 Ministério de Minas e Energia | 1.158 | 2.316 | 9.841 | 17.367 |
+| 36000 Ministério da Saúde | 9.782 | 19.564 | 83.148 | 146.732 |
+| 41000 Ministério das Comunicações | 2.393 | 4.787 | 20.344 | 35.902 |
+| Total | 13.333 | 26.667 | 113.333 | 200.000 |
+
+1\. Pagamentos relativos às dotações constantes na Lei Orçamentária de 2025 e aos restos a pagar.
+
+2\. Fontes: Todas as fontes, exceto as fontes 004, 005, 013, 038, 048, 049, 050, 051, 059, 063, 065, 081, 082, 096, 116, 117, 131, 134, 136, 138 e 449 e suas correspondentes, resultantes da incorporação de saldos de exercícios anteriores.
+
+3\. Exclui despesas obrigatórias com controle de fluxo (RP1), discricionárias do PAC (RP3), emendas impositivas individuais (RP6), emendas impositivas de bancada (RP7) e emendas de comissão (RP8).
+
+4\. Exclui despesas ressalvadas nos termos do § 17, art. 69 da Lei 15.080/2024 e por decisões judiciais.
+
+## ANEXO II — Acréscimo ao Anexo II do Decreto Nº 12.448, de 30 de Abril de 2025 - VALORES AUTORIZADOS PARA PAGAMENTO DE DESPESAS DISCRICIONÁRIAS, NAS FONTES DO TESOURO ESPECIFICADAS (1)(2)(3)(4)
+
+| R$ mil |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Órgãos | Até Set | Até Out | Até Nov | Até Dez |
+| 53000 Ministério da Integração e do Desenvolvimento Regional | 13.333 | 26.667 | 113.333 | 200.000 |
+
+1\. Pagamentos relativos às dotações constantes na Lei Orçamentária de 2025 e aos restos a pagar.
+
+2\. Fontes: Todas as fontes, exceto as fontes 004, 005, 013, 038, 048, 049, 050, 051, 059, 063, 065, 081, 082, 096, 116, 117, 131, 134, 136, 138 e 449 e suas correspondentes, resultantes da incorporação de saldos de exercícios anteriores.
+
+3\. Exclui despesas obrigatórias com controle de fluxo (RP1), discricionárias do PAC (RP3), emendas impositivas individuais (RP6), emendas impositivas de bancada (RP7) e emendas de comissão (RP8).
+
+4\. Exclui despesas ressalvadas nos termos do § 17, art. 69 da Lei 15.080/2024 e por decisões judiciais.

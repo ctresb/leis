@@ -1,0 +1,98 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.408, DE 3 DE SETEMBRO DE 2020"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/Quarta Diretoria/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "3408"
+data: 2020-09-03
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 04/09/2020, seção 1, p. 122"
+data_publicacao: 2020-09-04
+edicao: "171"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.408-de-3-de-setembro-de-2020-275909923"
+sha256_html_fonte: 0efe5cb9735c9565f1c748a1710cd9a462bfd7f43d37b12a0df0465104abf62d
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO-RE Nº 3.408, DE 3 DE SETEMBRO DE 2020
+
+RESOLUÇÃO-RE Nº 3.408, DE 3 DE SETEMBRO DE 2020
+
+A Coordenadora de Autorização de Funcionamento de Empresas, no uso das atribuições que lhe confere o art. 169, aliado ao art. 54, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 255, de 10 de dezembro de 2018, resolve:
+
+**Art. 1º.** Conceder Autorização de Funcionamento para Empresas constantes no anexo desta Resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+PATRICIA AZEVEDO CHAGAS
+
+## ANEXO
+
+PDL NETO COMERCIO ATACADISTA DE MEDICAMENTOS EIRELI / 30.571.825/0001-27
+
+25351.729538/2020-01 / 3096189
+
+740 - AFE - CONCESSÃO - SANEANTES DOMISSANITÁRIOS - DISTRIBUIDORA (SOMENTE MATRIZ) / 2469467203
+
+--------------------------------------
+
+SOLANGE DOS ANJOS MEIRELES - ME / 02.145.987/0001-68
+
+25351.494902/2020-06 / 3096175
+
+740 - AFE - CONCESSÃO - SANEANTES DOMISSANITÁRIOS - DISTRIBUIDORA (SOMENTE MATRIZ) / 1739181204
+
+--------------------------------------
+
+AIRTON CARLOS DA SILVA COMERCIAL DE ALIMENTOS / 10.838.253/0001-92
+
+25351.872030/2020-13 / 3096192
+
+712 - AFE - CONCESSÃO - SANEANTES - INDÚSTRIA (SOMENTE MATRIZ) / 2889513203
+
+--------------------------------------
+
+RIO ELBA SOLUCOES DIGITAIS LTDA / 21.584.590/0001-17
+
+25351.867159/2020-18 / 8205514
+
+861 - AFE - CONCESSÃO - PRODUTO PARA SAÚDE - FABRICANTE / 2875471201
+
+--------------------------------------
+
+DISTRIBUIDORA MÉDICA ANDRADE LTDA / 37.394.187/0001-65
+
+25351.828110/2020-31 / 8205501
+
+859 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - IMPORTADORA / 2761991206
+
+--------------------------------------
+
+UNION MED DISTRIBUIDORA DE MEDICAMENTOS E PRODUTOS HOSPITALARES LTDA / 35.615.794/0001-82
+
+25351.827965/2020-45 / 1241953
+
+702 - AFE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA (SOMENTE MATRIZ) / 2761829204
+
+--------------------------------------
+
+PDL NETO COMERCIO ATACADISTA DE MEDICAMENTOS EIRELI / 30.571.825/0001-27
+
+25351.729417/2020-51 / 1241967
+
+702 - AFE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA (SOMENTE MATRIZ) / 2469322207
+
+25351.729447/2020-67 / 8205528
+
+856 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - DISTRIBUIDORA / 2469354205
+
+--------------------------------------
+
+UNION MED DISTRIBUIDORA DE MEDICAMENTOS E PRODUTOS HOSPITALARES LTDA / 35.615.794/0001-82
+
+25351.823394/2020-70 / 3096161
+
+740 - AFE - CONCESSÃO - SANEANTES DOMISSANITÁRIOS - DISTRIBUIDORA (SOMENTE MATRIZ) / 2747708209
+
+25351.827966/2020-90 / 4023138
+
+723 - AFE - CONCESSÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - DISTRIBUIDORA (SOMENTE MATRIZ) / 2761830202

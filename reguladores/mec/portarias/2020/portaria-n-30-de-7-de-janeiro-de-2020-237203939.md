@@ -1,0 +1,32 @@
+---
+titulo: "PORTARIA Nº 30, DE 7 DE JANEIRO DE 2020"
+orgao: "Ministério da Educação/Fundação Universidade do Amazonas"
+tipo: "Portaria"
+numero: "30"
+data: 2020-01-07
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 09/01/2020, seção 1, p. 75"
+data_publicacao: 2020-01-09
+edicao: "6"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-30-de-7-de-janeiro-de-2020-237203939"
+sha256_html_fonte: 773d20417008ecd00ad1013cc11ce0a97d7ac024b4ae792a559c018b088c7fc6
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 30, DE 7 DE JANEIRO DE 2020
+
+PORTARIA Nº 30, DE 7 DE JANEIRO DE 2020
+
+O VICE-REITOR DA UNIVERSIDADE FEDERAL DO AMAZONAS, no exercício do cargo de Reitor, usando de suas atribuições estatutárias, resolve:
+
+RETIFICAR os termos da Portaria nº 3.577, de 27/12/2019, publicada no DOU em 30/12/2019, que homologou o resultado do Concurso Público para provimento de cargos da Carreira de Magistério Superior da Fundação Universidade do Amazonas, objeto do Edital n.° 038 de 24/04/2019, publicado no DOU em 25/04/2019, retificado em 03/05/2019, 07/05/2019, 22/05/2019, 27/05/2019, 31/05/2019 e 12/06/2019 referente ao CONCURSO PÚBLICO destinado ao provimento de vagas do cargo de PROFESSOR DO MAGISTÉRIO SUPERIOR, por Unidade, Área de Conhecimento, Classe/Padrão, Carga Horária e Ordem de Classificação dos candidatos, conforme a seguir:
+
+Onde se lê:
+
+<table><tr></tr><tr><td><p>Unidade</p></td><td><p>Área</p></td><td><p>Cargo/ Classe/ Nível</p></td><td><p>Regime de Trabalho</p></td><td><p>Lista</p></td><td><p>Candidato</p></td><td><p>Classificação</p></td></tr><tr><td><p>Faculdade de Medicina</p></td><td><p>Anatomia Patológica (Geral e Específica)</p></td><td><p>Auxiliar com especialização Nível 1</p></td><td><p>40h</p></td><td><p>AC</p></td><td><p>Renato Gualberto da Cunha</p></td><td><p>1º</p></td></tr><tr><td></td><td></td><td></td><td></td><td><p>AC</p></td><td><p>Moyara de Mendonça Lima de Farias</p></td><td><p>2º</p></td></tr></table>
+
+Leia-se corretamente:
+
+<table><tr></tr><tr><td><p>Unidade</p></td><td><p>Área</p></td><td><p>Cargo/ Classe/ Nível</p></td><td><p>Regime de Trabalho</p></td><td><p>Lista</p></td><td><p>Candidato</p></td><td><p>Classificação</p></td></tr><tr><td><p>Faculdade de Medicina</p></td><td><p>Anatomia Patológica (Geral e Específica)</p></td><td><p>Auxiliar com especialização Nível 1</p></td><td><p>40h</p></td><td><p>AC</p></td><td><p>Renata Gualberto da Cunha</p></td><td><p>1º</p></td></tr><tr><td></td><td></td><td></td><td></td><td><p>AC</p></td><td><p>Moyara Mendonça Lima de Farias</p></td><td><p>2º</p></td></tr></table>
+
+JACOB MOYSES COHEN

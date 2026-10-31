@@ -1,0 +1,40 @@
+---
+titulo: "PORTARIA Nº 59, DE 25 DE JUNHO DE 2013"
+orgao: "Ministério da Cultura/SECRETARIA DO AUDIOVISUAL"
+tipo: "Portaria"
+numero: "59"
+data: 2013-06-25
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 28/06/2013, seção 1, p. 11"
+data_publicacao: 2013-06-28
+edicao: "123"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-59-de-25-de-junho-de-2013-30691901"
+sha256_html_fonte: 58972d3e6b87b9772b8c9c7ba9217a80bf7b9bbd22974da504e86fdb04b0afe5
+baixado_em: 2026-10-28
+---
+# PORTARIA Nº 59, DE 25 DE JUNHO DE 2013
+
+PORTARIA Nº 59, DE 25 DE JUNHO DE 2013
+
+O SECRETÁRIO DO AUDIOVISUAL DO MINISTÉRIODA CULTURA, no uso das atribuições legais que lhe confere aPortaria 952 de 21 de dezembro de 2012, e em cumprimento aodisposto na Lei 8.313, de 23 de dezembro de 1991, Decreto nº 5.761,de 27 de abril de 2006, Medida Provisória nº 2.228-1, de 06 desetembro de 2001, resolve:
+
+**Art. 1º** Aprovar os projetos audiovisuais, relacionados noanexo I, para os quais os proponentes ficam autorizados a captarrecursos, mediante doações ou patrocínios, nos termos do Art. 18 daLei nº 8.313, de 23 de dezembro de 1991, com a redação dada peloArt. 53, alínea f, da Medida Provisória nº 2.228-1, de 06 de setembrode 2001.
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação.
+
+LEOPOLDO NUNES DA SILVA FILHO
+
+## ANEXO I
+
+13 3612 - O Rio e seus TemposGarapa Produções e Serviços Ltda.CNPJ/CPF: 10.803.928/0001-68Processo: 01400.011794/20-13SP - São PauloValor do Apoio R$: 418.660,00Prazo de Captação: 28/06/2013 a 31/12/2013Produção de um documentário de 52 minutos sobre o Rio Pinheiros,tratando de sua importância histórica, situação atual e as possibilidadesfuturas de sua utilização.13 3042 - CINEFOOT BRASÍLIA 2014 - FESTIVAL DE CINEMADE FUTEBOLSÉTIMA PRODUÇÕES CULTURAISCNPJ/CPF: 14.261.189/0001-80Processo: 01400.010384/20-13DF - BrasíliaValor do Apoio R$: 430.430,00Prazo de Captação: 28/06/2013 a 31/12/2013Realização de um festival com uma variada programação de filmessobre futebol, nacionais e estrangeiros, de curta e longa-metragem,nos meses de maio e junho de 2014 em Brasília.13 2225 - 48 Hour Film Project São Paulo FestivalR. Monteiro Produções e Eventos Ltda MECNPJ/CPF: 16.613.878/0001-32Processo: 01400.005449/20-13SP - São PauloValor do Apoio R$: 2.290.130,00Prazo de Captação: 28/06/2013 a 31/12/2013
+
+Realização de um festival de curta metragem de julho a novembro de2013, que também é um concurso para cineastas aspirantes, onde osparticipantes terão que fazer um filme no prazo de 48 horas. Oganhador irá representar o Brasil no Festival de Filmapalooza emHollywood nos EUA.13 0160 - Olho no BrasilCarina EdenburgCNPJ/CPF: 091.535.318-09Processo: 01400.000209/20-13SP - São PauloValor do Apoio R$: 571.431,06Prazo de Captação: 28/06/2013 a 31/12/2013Produção de um média metragem de 45 minutos, sobre a captura deriquezas naturais do Brasil e a cultura do seu povo, destacando paisagens,arte, cultura e rituais regionais a partir da visão de um estrangeiro.133543 - Tela Mágica Cine GrátisIdear Produção Comunicação e Marketing LTDACNPJ/CPF: 03.973.333/0001-95Processo: 01400.011681/20-13MG - Belo HorizonteValor do Apoio R$: 986.519,60Prazo de Captação: 28/06/2013 a 31/12/2013Realização de 30 exibições de 06 filmes nacionais, em 30 cidades,preferencialmente mineiras, com entrada franca. De dezembro de2013 a agosto de 2014.13 3220 - CINE RURAL ITINERANTESYNC PRODUTORA AUDIOVISUAL LTDACNPJ/CPF: 13.244.726/0001-11Processo: 01400.010751/20-13PR - CuritibaValor do Apoio R$: 34.249,80Prazo de Captação: 28/06/2013 a 31/12/2013Realização de exibições cinematográficas itinerantes, em 14 comunidadesrurais do município de Mafra/SC, de 08/11 a 19/12/2013.13 2908 - 2o Mostra de Cinema de Montes Claros - Novo CinemaNovoCinema Comentado CineclubeCNPJ/CPF: 11.894.366/0001-78Processo: 01400.010067/20-13MG - Montes ClarosValor do Apoio R$: 145.880,00Prazo de Captação: 28/06/2013 a 30/11/2013Realização da 2ª edição da mostra, com objetivo de dar continuidadeao projeto da 1º Mostra de Cinema que foi realizada no ano de 2012com recursos do Fundo Estadual de Cultura de Minas Gerais. AMostra será realizada de 11 a 15/09/2013.13 2852 - Filme - Seja você a mudançaKUBIK MARKETING & COMUNICAÇÃO LTDA.CNPJ/CPF: 12.435.979/0001-00Processo: 01400.009954/20-13DF - BrasíliaValor do Apoio R$: 548.820,00
+
+Prazo de Captação: 28/06/2013 a 31/12/2013Produção de um média metragem de 63 minutos, que abordará o temaRESPEITO AO PRÓXIMO na visão de profissionais de moda derenome internacional.13 3197 - 1º MAR OESTE - FESTIVAL DE CINEMA E CULTURADO MARCENAPOP Centro Popular de Cultura EcocidadaniaCNPJ/CPF: 35.025.691/0001-62Processo: 01400.010662/20-13CE - FortalezaValor do Apoio R$: 529.640,00Prazo de Captação: 28/06/2013 a 31/12/2013Realização de um festival que exibirá mostra competitiva internacionalde filmes relacionados à eco-cidadania e cultura do mar, entreos dias 04 e 08 de dezembro de 2013 em São Gonçalo do Amarante/CE.133196 - Festival de Cinema e Vídeo- Anselmo DuarteLEANDRO XAVIER PRODUÇÕES ARTISTICAS LTDACNPJ/CPF: 17.370.176/0001-38Processo: 01400.010661/20-13SP - IndaiatubaValor do Apoio R$: 213.430,00Prazo de Captação: 28/06/2013 a 23/11/2013Realização de um festival na cidade de Salto/SP, com inscriçõesabertas para o Brasil, e uma oficina que irá ensinar a fazer um filmedo roteiro até a exibição no último dia do festival. De agosto anovembro de 2013.12 9846 - 12º SANTA MARIA VÍDEO E CINEMAONG Santa Maria Video e cinemaCNPJ/CPF: 07.878.362/0001-29Processo: 01400.031209/20-12RS - Santa MariaValor do Apoio R$: 472.364,29Prazo de Captação: 28/06/2013 a 31/12/2013Realização da 12ª edição do festival, de 02 a 07/12/2013 em SantaMaria/RS.13 3410 - ANIMAGE - V FESTIVAL INTERNACIONAL DE ANIMAÇÃODE PERNAMBUCOREC-BEAT DISCOS E PRODUCOES ARTISTICAS LTDACNPJ/CPF: 00.650.779/0001-90Processo: 01400.011486/20-13PE - RecifeValor do Apoio R$: 404.653,00Prazo de Captação: 28/06/2013 a 16/12/2013Realização da 5ª edição do festival, entre os dias 16 e 29/09/2013, nascidades de Recife e Olinda, com mostras competitivas e não competitivas,oficinas, sessões especiais, seminários e exposição relacionadaà produção de obras de animação.13 3625 - Mostra UFC de FilmesSociedade Cearense de Jornalismo Científico e Cultural - SCJCCNPJ/CPF: 06.108.400/0001-00Processo: 01400.011852/20-13CE - Fortaleza
+
+Valor do Apoio R$: 72.140,00Prazo de Captação: 28/06/2013 a 20/12/2013Realização da mostra que é um projeto da Universidade Federal doCeará, e tem por objetivos divulgar a produção cinematográfica poucodifundida pelas grandes salas de cinema e promover o debate e areflexão sobre o fazer artístico no Brasil e no exterior, de 04 a08/11/2013.13 3559 - Cine 6D - O Audiovisual na comunidadeAssociacao Comunitaria Musicarte LazerCNPJ/CPF: 83.516.963/0001-70Processo: 01400.011718/20-13SC - TimbóValor do Apoio R$: 300.300,00Prazo de Captação: 25/06/2013 a 31/12/2013Realização de exibições de curtas metragens com a tecnologia 6D,que interage a tecnologia 3D e efeitos especiais, em 10 pequenascidades do sul do Brasil, de 01/11/2013 a 30/08/2014.13 3540 - Sistema AuroraTainá Ribeiro Nepomuceno - MECNPJ/CPF: 17.712.470/0001-80Processo: 01400.011678/20-13RS - PelotasValor do Apoio R$: 109.573,00Prazo de Captação: 28/06/2013 a 31/12/2013Produção de um curta metragem de 10 minutos, que conta a históriade um robô com sentimentos humanos em busca de sua irmã humanaem um futuro arruinado onde a humanidade é completamente dependenteda tecnologia.13 2661 - Curta Metragem Bandeira BrancaThiago Eliseu de Lima RicarteCNPJ/CPF: 332.076.928-69Processo: 01400.006577/20-13SP - AtibaiaValor do Apoio R$: 144.220,00Prazo de Captação: 28/06/2013 a 31/12/2013Produção de um curta metragem de 15 minutos, com um enredo quegira em torno da atmosfera familiar, da saudade e da nostalgia que oprotagonista tem com seu passado, representado aqui por um radinhode pilha que constantemente toca marchinhas de carnaval.
+
+LEOPOLDO NUNES DA SILVA FILHO
+
+Este conteúdo não substitui o publicado na versão certificada.

@@ -1,0 +1,64 @@
+---
+titulo: "PORTARIA SERES/MEC Nº 572, DE 2 de setembro de 2025"
+orgao: "Ministério da Educação/Secretaria de Regulação e Supervisão da Educação Superior"
+tipo: "Portaria"
+numero: "572"
+data: 2025-09-02
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 03/09/2025, seção 1, p. 25"
+data_publicacao: 2025-09-03
+edicao: "167"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-seres/mec-n-572-de-2-de-setembro-de-2025-652652225"
+baixado_em: 2026-10-16
+---
+# PORTARIA SERES/MEC Nº 572, DE 2 de setembro de 2025
+
+PORTARIA SERES/MEC Nº 572, DE 2 de setembro de 2025
+
+A SECRETÁRIA DE REGULAÇÃO E SUPERVISÃO DA EDUCAÇÃO SUPERIOR, no uso da atribuição que lhe confere o Decreto nº 11.691, de 5 de setembro de 2023, e tendo em vista o Decreto n° 9.235, de 15 de dezembro de 2017, e as Portarias Normativas n° 20 e nº 23, de 21 de dezembro de 2017, do Ministério da Educação, e considerando o disposto no(s) processo(s) e-MEC listado(s) na planilha anexa, resolve:
+
+**Art. 1º** Fica renovado o reconhecimento do(s) curso(s) superior(es) de graduação constante(s) da tabela do anexo desta Portaria, ministrado(s) pela(s) Instituição(ões) de Educação Superior citada(s), nos termos do disposto no art. 10, do Decreto nº 9.235/2017.
+
+**Art. 2º** A renovação de reconhecimento a que se refere esta Portaria é válida exclusivamente para o curso ministrado no endereço citado na tabela constante do anexo.
+
+**Art. 3º** A renovação de reconhecimento a que se refere esta Portaria é válida até o ciclo avaliativo seguinte.
+
+**Art. 4º** Esta Portaria entra em vigor na data de sua publicação.
+
+MARTA ABRAMO
+
+ANEXO (Renovação de Reconhecimento de Cursos)
+
+| Nº de Ordem | Registro e-MEC nº | Curso | Nº de vagas totais anuais | Mantida | Mantenedora | Endereço de funcionamento do curso |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | 202209493 | ODONTOLOGIA (Bacharelado) | 120 (cento e vinte) | AFYA Faculdade de Ciências Médicas de Palmas | ITPAC INSTITUTO TOCANTINENSE PRESIDENTE ANTONIO CARLOS S.A | AV. NS 01 LT 03 ACSU SO 70, S/N, SEDE, PLANO DIRETOR SUL, PALMAS/TO |
+| 2 | 202209509 | ENGENHARIA CIVIL (Bacharelado) | 108 (cento e oito) | Centro Universitário Anhanguera de São Paulo | ANHANGUERA EDUCACIONAL PARTICIPACOES S/A | RUA ATLÂNTICA, 729, JARDIM DO MAR, JARDIM DO MAR, SÃO BERNARDO DO CAMPO/SP |
+| 3 | 202208368 | FISIOTERAPIA (Bacharelado) | 240 (duzentas e quarenta) | CENTRO UNIVERSITÁRIO DE BELO HORIZONTE | IEDUC - INSTITUTO DE EDUCACAO E CULTURA S/A | AVENIDA PASTOR ANSELMO SILVESTRE, 1495, , DOM JOAQUIM, BELO HORIZONTE/MG |
+| 4 | 202208403 | BIOMEDICINA (Bacharelado) | 200 (duzentas) | Centro Universitário de Excelência | INSTITUTO MANTENEDOR DE ENSINO SUPERIOR DA BAHIA LTDA - ME | AVENIDA ARTÊMIA PIRES DE FREITAS, S/N, CAMPUS - FEIRA DE SANTANA - SIM, SIM, FEIRA DE SANTANA/BA |
+| 5 | 202209482 | FARMÁCIA (Bacharelado) | 60 (sessenta) | CENTRO UNIVERSITÁRIO DE JALES | ASSOCIACAO EDUCACIONAL DE JALES | AVENIDA FRANCISCO JALES, 1851, - DE 1354/1355 A 1998/1999, LOTEAMENTO AVENIDA, JALES/SP |
+| 6 | 202208262 | ENGENHARIA DE COMPUTAÇÃO (Bacharelado) | 80 (oitenta) | CENTRO UNIVERSITÁRIO DO NORTE | CENESUP - CENTRO NACIONAL DE ENSINO SUPERIOR LTDA | AVENIDA DJALMA BATISTA, 122, , PARQUE 10 DE NOVEMBRO, MANAUS/AM |
+| 7 | 202208431 | ENGENHARIA CIVIL (Bacharelado) | 100 (cem) | CENTRO UNIVERSITÁRIO ESTÁCIO DE SERGIPE | IREP SOCIEDADE DE ENSINO SUPERIOR, MEDIO E FUNDAMENTAL LTDA. | RUA TEIXEIRA DE FREITAS, 10, , SALGADO FILHO, ARACAJU/SE |
+| 8 | 202208258 | ARQUITETURA E URBANISMO (Bacharelado) | 200 (duzentas) | Centro Universitário Estácio do Ceará | IREP SOCIEDADE DE ENSINO SUPERIOR, MEDIO E FUNDAMENTAL LTDA. | AVENIDA DUQUE DE CAXIAS, 101, CENTRO (CE), CENTRO, FORTALEZA/CE |
+| 9 | 202209521 | EDUCAÇÃO FÍSICA (Bacharelado) | 180 (cento e oitenta) | CENTRO UNIVERSITÁRIO FIEO | FUNDACAO INSTITUTO DE ENSINO PARA OSASCO | AV FRANZ VOEGELI, 300, CAMPUS VILA YARA, VILA YARA, OSASCO/SP |
+| 10 | 202208357 | RADIOLOGIA (Tecnológico) | 150 (cento e cinquenta) | Centro Universitário FMABC | FUNDACAO DO ABC | AVENIDA LAURO GOMES, 2000, CENTRO UNIVERSITÁRIO FMABC, VILA SACADURA CABRAL, SANTO ANDRÉ/SP |
+| 11 | 202207609 | MEDICINA (Bacharelado) | 100 (cem) | CENTRO UNIVERSITÁRIO LUSÍADA | FUNDACAO LUSIADA | OSWALDO CRUZ, 179, , BOQUEIRÃO, SANTOS/SP |
+| 12 | 202208298 | FISIOTERAPIA (Bacharelado) | 120 (cento e vinte) | CENTRO UNIVERSITÁRIO MAURICIO DE NASSAU DE ARACAJU | SOCIEDADE DE ENSINO SUPERIOR E DE PESQUISA DE SERGIPE LTDA - SESPS | AVENIDA AUGUSTO FRANCO, S/N, , SIQUEIRA CAMPOS, ARACAJU/SE |
+| 13 | 202208406 | NUTRIÇÃO (Bacharelado) | 240 (duzentas e quarenta) | Centro Universitário Maurício de Nassau de Salvador | ABES - SOCIEDADE BAIANA DE ENSINO SUPERIOR LTDA | RUA DOS MARÇONS, 364, SEDE, PITUBA, SALVADOR/BA |
+| 14 | 202208295 | NUTRIÇÃO (Bacharelado) | 240 (duzentas e quarenta) | Centro Universitário Maurício de Nassau Paulista | SER EDUCACIONAL S.A. | AVENIDA SENADOR SALGADO FILHO, S/N, SHOPPING PAULISTA, CENTRO, PAULISTA/PE |
+| 15 | 202208303 | FARMÁCIA (Bacharelado) | 240 (duzentas e quarenta) | CENTRO UNIVERSITÁRIO MAURÍCIO DE NASSAU TERESINA SUL | SER EDUCACIONAL S.A. | RUA DOUTOR OTTO TITO, 1771, , REDENÇÃO, TERESINA/PI |
+| 16 | 202208302 | NUTRIÇÃO (Bacharelado) | 240 (duzentas e quarenta) | CENTRO UNIVERSITÁRIO MAURÍCIO DE NASSAU TERESINA SUL | SER EDUCACIONAL S.A. | RUA SÃO PEDRO, 965, CENTRO, TERESINA/PI |
+| 17 | 202208465 | ESTÉTICA E COSMÉTICA (Tecnológico) | 60 (sessenta) | CENTRO UNIVERSITÁRIO PADRE ANCHIETA | ESCOLAS PADRE ANCHIETA LTDA | AVENIDA DR. ADONIRO LADEIRA, 94, CAMPUS UNIVERSITÁRIO PROF. PEDRO C. FORNARI, VILA JUNDIAINOPOLIS, JUNDIAÍ/SP |
+| 18 | 202208463 | NUTRIÇÃO (Bacharelado) | 100 (cem) | CENTRO UNIVERSITÁRIO PADRE ANCHIETA | ESCOLAS PADRE ANCHIETA LTDA | AVENIDA DR. ADONIRO LADEIRA, 94, CAMPUS UNIVERSITÁRIO PROF. PEDRO C. FORNARI, VILA JUNDIAINOPOLIS, JUNDIAÍ/SP |
+| 19 | 202208374 | ENGENHARIA DE PRODUÇÃO (Bacharelado) | 200 (duzentas) | Centro Universitário Ruy Barbosa Wyden | YDUQS EDUCACIONAL LTDA. | AV. LUIS VIANA FILHO, 3172, SALVADOR - IMBUÍ - PARALELA, IMBUÍ, SALVADOR/BA |
+| 20 | 202208394 | ENGENHARIA MECÂNICA (Bacharelado) | 60 (sessenta) | CENTRO UNIVERSITÁRIO SALESIANO DE SÃO PAULO | LICEU CORACAO DE JESUS | AV. ALMEIDA GARRET, 267, UNIDADE DE ENSINO DE CAMPINAS - CAMPUS SÃO JOSÉ, JARDIM NOSSA SENHORA AUXILIADORA, CAMPINAS/SP |
+| 21 | 202208416 | ENGENHARIA CIVIL (Bacharelado) | 60 (sessenta) | CENTRO UNIVERSITÁRIO SOCIESC DE BLUMENAU | IEDUC - INSTITUTO DE EDUCACAO E CULTURA S/A | RUA PANDIÁ CALÓGERAS, 272, JARDIM BLUMENAU, BLUMENAU/SC |
+| 22 | 202208418 | ODONTOLOGIA (Bacharelado) | 140 (cento e quarenta) | Centro Universitário Tiradentes de Pernambuco | SOCIEDADE DE EDUCACAO TIRADENTES S.A | AVENIDA MARECHAL MASCARENHAS DE MORAIS, 3905, CAMPUS ZONA SUL, IMBIRIBEIRA, RECIFE/PE |
+| 23 | 202209527 | ENGENHARIA MECÂNICA (Bacharelado) | 120 (cento e vinte) | FACULDADE ANHANGUERA DE LINHARES | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A | AVENIDA SÃO MATEUS, 1458, ARAÇÁ, LINHARES/ES |
+| 24 | 202209537 | ENGENHARIA QUÍMICA (Bacharelado) | 90 (noventa) | FACULDADE ANHANGUERA PITÁGORAS DE JUNDIAÍ | EDITORA E DISTRIBUIDORA EDUCACIONAL S/A | RUA DO RETIRO, 3000, , VILA DAS HORTÊNCIAS, JUNDIAÍ/SP |
+| 25 | 202208264 | ENGENHARIA DE PRODUÇÃO (Bacharelado) | 100 (cem) | Faculdade CNEC Itajaí | CAMPANHA NACIONAL DE ESCOLAS DA COMUNIDADE | RUA ALFREDO TROMPOWSKI, 153, FACULDADE CNEC ITAJAÍ, CENTRO, ITAJAÍ/SC |
+| 26 | 202208417 | ENGENHARIA CIVIL (Bacharelado) | 98 (noventa e oito) | Faculdade de Excelência UNEX de Itabuna | INSTITUTO MANTENEDOR DE ENSINO SUPERIOR DA BAHIA LTDA - ME | PRAÇA JOSÉ BASTOS, 55, CENTRO, ITABUNA/BA |
+| 27 | 202209533 | ENGENHARIA CIVIL (Bacharelado) | 100 (cem) | FACULDADE ESAMC CAMPINAS | CENTRO DE ESTUDOS DE ADMINISTRACAO E MARKETING CEAM LTDA | RUA JOSÉ PAULINO, 1345, CAMPUS - CAMPINAS - CENTRO, CENTRO, CAMPINAS/SP |
+| 28 | 202208313 | NUTRIÇÃO (Bacharelado) | 150 (cento e cinquenta) | Faculdade Fasipe Mato Grosso | UNIAO DAS FACULDADES FASIPE LTDA | RUA AMAZONAS, QUADRA 133, 01, , MORADA DA SERRA, CUIABÁ/MT |
+| 29 | 202208278 | AGRONEGÓCIO (Tecnológico) | 80 (oitenta) | FACULDADE FUNORTE DE JANAÚBA | SOCIEDADE NORTE MINEIRA DE ENSINO E COMUNICACAO LTDA | RUA RODOLFO SOARES, 234, , VILA SÃO VICENTE, JANAÚBA/MG |
+| 30 | 202208291 | FARMÁCIA (Bacharelado) | 80 (oitenta) | Faculdade SOCIESC de Jaraguá do Sul | PGP EDUCACAO S/A | AVENIDA GETÚLIO VARGAS, 268, CAMPUS JARAGUÁ SHOPPING, CENTRO, JARAGUÁ DO SUL/SC |
