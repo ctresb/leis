@@ -1,1 +1,4 @@
 {"fonte": "bnp/stf/controle-concentrado/pagina-28", "url": "https://pangeabnp.pdpj.jus.br/api/v1/precedentes", "erro": "The read operation timed out", "data": "2026-10-15T21:57:25.468049"}
+{"fonte": "stm/sumula-1", "url": "https://dspace.stm.jus.br/bitstream/handle/123456789/33252/S%c3%bamula%20n%c2%b0%201.pdf?sequence=3&isAllowed=y", "erro": "The read operation timed out", "data": "2026-10-20T19:28:02.566591"}
+{"fonte": "stm/sumulas", "url": "", "erro": "[Errno 2] No such file or directory: 'pdftotext'", "data": "2026-10-20T19:28:04.867107"}
+{"fonte": "tnu/sumulas", "url": "", "erro": "[Errno 2] No such file or directory: 'pdftotext'", "data": "2026-10-20T19:28:04.871230"}

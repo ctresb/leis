@@ -1,0 +1,22 @@
+{
+  "documentos": 15,
+  "numeros_isolados_omitidos": 0,
+  "imagens_por_documento": 1,
+  "revisao": "Os3hashesPNGdistintos foram inspecionados diretamente: somente brasão daRepública, sem redação normativa ou tabelas. Todas15ocorrências ligadas porSHA efonte. Nãoéaprovação por nome/tamanho.",
+  "controle_numerico": "jurisprudencia/_lotes/20261020-stm/controle-imagens-numericos.json",
+  "manifesto_imagens": "jurisprudencia/_fonte/auditorias/stm-imagens-20261020/manifesto.json",
+  "representantes": [
+    {
+      "path": "jurisprudencia/_fonte/auditorias/stm-imagens-20261020/sumula-1/imagem-000.png",
+      "sha256": "21ae2176e4c71d56db1bbc003422b37b7f7a6ed00c8ce7d57dcdc06fc248c166"
+    },
+    {
+      "path": "jurisprudencia/_fonte/auditorias/stm-imagens-20261020/sumula-10/imagem-000.png",
+      "sha256": "5cc6b296a6ad5d1f7c2f70ab9196ecbd1cef6629a48ab91565473ac043554496"
+    },
+    {
+      "path": "jurisprudencia/_fonte/auditorias/stm-imagens-20261020/sumula-18/imagem-000.png",
+      "sha256": "75b39c590842ee68603be2e0f3db24bf7aefccbe29526deb93d9703d81efc07a"
+    }
+  ]
+}
