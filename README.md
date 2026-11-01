@@ -1,5 +1,25 @@
 # Legislação brasileira em Markdown
 
+![Apoie o projeto — meta atual: R$ 5.000,00. Apoio via Pix para OCR e armazenamento.](assets/apoie-o-projeto.svg)
+
+> [!IMPORTANT]
+> **Apoie o projeto via Pix · Meta atual: R$ 5.000,00**
+>
+> Estou ficando sem espaço de armazenamento para continuar o projeto. Seu apoio vai ajudar
+> a ampliar o armazenamento do acervo, melhorar o OCR dos documentos e dar continuidade ao trabalho.
+>
+> Vou criar uma **seção de apoiadores** para agradecer a quem apoiar o projeto.
+
+<p align="center">
+  <a href="assets/apoio-pix.jpeg"><img src="assets/apoio-pix.jpeg" width="360" alt="QR Code Pix para apoiar o projeto. Recebedor: João Davi Souza Nascimento. Chave: itau@joaodavisn.com." /></a>
+</p>
+
+**Chave Pix:** `itau@joaodavisn.com`
+
+**Recebedor:** João Davi Souza Nascimento
+
+---
+
 A Constituição Federal e normas federais, estaduais, distritais e municipais, convertidas de
 fontes oficiais para Markdown, com cabeçalho estruturado e link para a origem de cada texto.
 As contagens do acervo publicado são atualizadas a cada commit em **[PROGRESSO.md](PROGRESSO.md)**.
