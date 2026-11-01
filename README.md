@@ -1,9 +1,9 @@
 # Legislação brasileira em Markdown
 
-![Apoie o projeto — meta atual: R$ 5.000,00. Apoio via Pix para OCR e armazenamento.](assets/apoie-o-projeto.svg)
+![Apoie o projeto — R$ 0,00 / R$ 5.000,00 (0%). Apoio via Pix para OCR e armazenamento.](assets/apoie-o-projeto.svg)
 
 > [!IMPORTANT]
-> **Apoie o projeto via Pix · Meta atual: R$ 5.000,00**
+> **Apoie o projeto via Pix · R$ 0,00 / R$ 5.000,00 (0%)**
 >
 > Estou ficando sem espaço de armazenamento para continuar o projeto. Seu apoio vai ajudar
 > a ampliar o armazenamento do acervo, melhorar o OCR dos documentos e dar continuidade ao trabalho.
