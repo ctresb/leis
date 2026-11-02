@@ -1,0 +1,31 @@
+{
+  "municipio": "Rio de Janeiro",
+  "uf": "RJ",
+  "codigo_ibge": "3304557",
+  "tipo": "Código municipal",
+  "tipo_na_fonte": "Lei Complementar",
+  "categoria": "codigos",
+  "numero": "197",
+  "data": "2018-12-27",
+  "titulo": "Lei Complementar nº 197, de 27 de dezembro de 2018",
+  "slug": "codigo-vigilancia-sanitaria-197-2018",
+  "cache": "lc-197-2018.html",
+  "formato": "html",
+  "fonte": "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/CFDE3DDFD5DA93BC8325837600642FBE?OpenDocument",
+  "fonte_texto": "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/CFDE3DDFD5DA93BC8325837600642FBE?OpenDocument",
+  "versao_texto": "texto integral HTML da Câmara Municipal do Rio de Janeiro (Domino/contlei.nsf); Código de Vigilância Sanitária, Vigilância de Zoonoses e de Inspeção Agropecuária; a fonte declara que o texto não substitui o Diário Oficial",
+  "marcas_obrigatorias": [
+    "LEI COMPLEMENTAR Nº 197",
+    "Código de Vigilância Sanitária",
+    "Vigilância de Zoonoses"
+  ],
+  "arquivo": "municipais/RJ/rio-de-janeiro/codigos/2018/codigo-vigilancia-sanitaria-197-2018.md",
+  "sha256": "94865119d66afc37cb4a50b103e179e90e8da17c8edb9ebcfd1cc4fd1a510238",
+  "arquivo_fonte": "municipais/_fonte/capitais/rio-de-janeiro/lc-197-2018.html",
+  "sha256_fonte": "f0d0154fbfa72a82a1c3be5745f52749efc98b82fa2103bdac0fa52c13019cc9",
+  "sha256_corpo": "04612880fbe5035d6e3f622d423b26e05651d7d3966bdb8ec39a8275f13a8e7f",
+  "ibge_sha256": "d9eec8439bc8c5dc2f7db6332a8e5569f5a3f637988e26aebc513412d4069d5c",
+  "verificado_em": "2026-10-28T20:51:29.635714",
+  "anexos_baixados": [],
+  "observacao": "Compilação individual oficial; emendas anexas preservadas no mesmo documento, sem aumento artificial da contagem."
+}

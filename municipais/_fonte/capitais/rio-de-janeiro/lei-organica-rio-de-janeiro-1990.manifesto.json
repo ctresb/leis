@@ -1,0 +1,28 @@
+{
+  "municipio": "Rio de Janeiro",
+  "uf": "RJ",
+  "codigo_ibge": "3304557",
+  "tipo": "Lei Orgânica",
+  "categoria": "lei-organica",
+  "numero": "",
+  "data": "1990-04-05",
+  "titulo": "Lei Orgânica do Município do Rio de Janeiro, de 5 de abril de 1990",
+  "slug": "lei-organica-rio-de-janeiro-1990",
+  "cache": "rio-de-janeiro-organica.pdf",
+  "fonte": "https://www.camara.rio/atividade-parlamentar/legislacao/lei-organica-do-municipio",
+  "fonte_texto": "https://www.rio.rj.gov.br/dlstatic/10112/4946719/4136646/Lei_Organica_MRJ_comaltdo205_2303.pdf",
+  "versao_texto": "compilação oficial da PGM/Prefeitura do Rio de Janeiro, 2ª edição revista e ampliada (2010), com alterações e revogações assinaladas no texto, atualizada até a Emenda nº 20/2009; o PDF imprime o fecho \"Cidade do Rio de Janeiro, 5 de abril de 1990\"; Last-Modified 23 Mar 2015; não certifica atualização posterior",
+  "marcas_obrigatorias": [
+    "LEI ORGÂNICA DO MUNICÍPIO DO RIO DE JANEIRO",
+    "Texto atualizado até a Emenda n.º 20/2009",
+    "O Município do Rio de Janeiro é a expressão e o instrumento da soberania do povo carioca"
+  ],
+  "arquivo": "municipais/RJ/rio-de-janeiro/lei-organica/1990/lei-organica-rio-de-janeiro-1990.md",
+  "sha256": "bf3fcc545e4bc13bd8f1694f0683c437bde59647cbb1c8c58d38ca7d62db56d5",
+  "arquivo_fonte": "municipais/_fonte/capitais/rio-de-janeiro/rio-de-janeiro-organica.pdf",
+  "sha256_fonte": "81bb24793ed0f7fae1482e19c3f9389387c670c20f777e73e208741b927fe600",
+  "sha256_corpo": "a40f55884a8bd2239215f8a9c2afeb78a3cce6dc4ec4565cbd01965136618722",
+  "ibge_sha256": "d9eec8439bc8c5dc2f7db6332a8e5569f5a3f637988e26aebc513412d4069d5c",
+  "verificado_em": "2026-10-28T18:57:21.808860",
+  "observacao": "Compilação individual oficial; emendas anexas preservadas no mesmo documento, sem aumento artificial da contagem."
+}

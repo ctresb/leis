@@ -1,0 +1,138 @@
+{
+  "municipio": "Rio de Janeiro",
+  "uf": "RJ",
+  "codigo_ibge": "3304557",
+  "tipo": "Plano diretor",
+  "tipo_na_fonte": "Lei Complementar",
+  "categoria": "plano-diretor",
+  "numero": "270",
+  "data": "2024-01-16",
+  "titulo": "Lei Complementar nº 270, de 16 de janeiro de 2024",
+  "slug": "plano-diretor-270-2024",
+  "cache": "lc-270-2024.html",
+  "formato": "html",
+  "anexos": true,
+  "fonte": "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/0274835DDBC09B5303258AA700487674?OpenDocument",
+  "fonte_texto": "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/0274835DDBC09B5303258AA700487674?OpenDocument",
+  "versao_texto": "texto integral HTML da Câmara Municipal do Rio de Janeiro (Domino/contlei.nsf); republicação após rejeição de vetos parciais na sessão de 14/03/2024; anexos PDF oficiais do mesmo documento preservados à parte, sem contar como normas novas; a fonte declara que o texto não substitui o Diário Oficial",
+  "marcas_obrigatorias": [
+    "LEI COMPLEMENTAR Nº 270",
+    "Plano Diretor de Desenvolvimento Urbano Sustentável",
+    "institui a revisão do Plano Diretor"
+  ],
+  "arquivo": "municipais/RJ/rio-de-janeiro/plano-diretor/2024/plano-diretor-270-2024.md",
+  "sha256": "8c9e94f9cf0f13c34764be6dba22c1a2048e81e1b50affb197ecef21dd09f4ea",
+  "arquivo_fonte": "municipais/_fonte/capitais/rio-de-janeiro/lc-270-2024.html",
+  "sha256_fonte": "1a6981b9f16a9a83ee31fb86ae47422046b0022c91feedf2706ce927b6cbbcaa",
+  "sha256_corpo": "8a5dfbeadfc26cc7e36e0b7b134a0ddbce0c78f3d4b890ebc07161b730581e8c",
+  "ibge_sha256": "d9eec8439bc8c5dc2f7db6332a8e5569f5a3f637988e26aebc513412d4069d5c",
+  "verificado_em": "2026-10-28T20:51:29.520629",
+  "anexos_baixados": [
+    {
+      "arquivo": "municipais/_fonte/capitais/rio-de-janeiro/plano-diretor-270-2024-anexos/1 - LC 270 - Anexos 1 a 12 - versão consolidada.pdf",
+      "nome": "1 - LC 270 - Anexos 1 a 12 - versão consolidada.pdf",
+      "url": "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/0274835ddbc09b5303258aa700487674/$FILE/1%20-%20LC%20270%20-%20Anexos%201%20a%2012%20-%20vers%C3%A3o%20consolidada.pdf",
+      "sha256": "c55c75be032c8f040654a4a1e76ef5b6dae0371651049cb9de9c92ca844d4e97",
+      "bytes": 2986036
+    },
+    {
+      "arquivo": "municipais/_fonte/capitais/rio-de-janeiro/plano-diretor-270-2024-anexos/2 - LC 270 - Anexos 13 a 20 - versão consolidada.pdf",
+      "nome": "2 - LC 270 - Anexos 13 a 20 - versão consolidada.pdf",
+      "url": "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/0274835ddbc09b5303258aa700487674/$FILE/2%20-%20LC%20270%20-%20Anexos%2013%20a%2020%20-%20vers%C3%A3o%20consolidada.pdf",
+      "sha256": "f8eff4ca0b10a89aab213e4f2a76bae7a24398aeda8a66d7a503dd935be702af",
+      "bytes": 4725137
+    },
+    {
+      "arquivo": "municipais/_fonte/capitais/rio-de-janeiro/plano-diretor-270-2024-anexos/3 - LC 270 - Anexo 21 - versão consolidada.pdf",
+      "nome": "3 - LC 270 - Anexo 21 - versão consolidada.pdf",
+      "url": "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/0274835ddbc09b5303258aa700487674/$FILE/3%20-%20LC%20270%20-%20Anexo%2021%20-%20vers%C3%A3o%20consolidada.pdf",
+      "sha256": "742c7de6f9591df3c363ae1df80a51762fcea8f8f6425dbf598ef3701349e956",
+      "bytes": 308073
+    },
+    {
+      "arquivo": "municipais/_fonte/capitais/rio-de-janeiro/plano-diretor-270-2024-anexos/4 - LC 270 - Anexo 22 - versão consolidada.pdf",
+      "nome": "4 - LC 270 - Anexo 22 - versão consolidada.pdf",
+      "url": "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/0274835ddbc09b5303258aa700487674/$FILE/4%20-%20LC%20270%20-%20Anexo%2022%20-%20vers%C3%A3o%20consolidada.pdf",
+      "sha256": "61c66100476d00707254fa51c548e4853bb22d1542fbddaa0a01ca9d414770db",
+      "bytes": 30591928
+    },
+    {
+      "arquivo": "municipais/_fonte/capitais/rio-de-janeiro/plano-diretor-270-2024-anexos/5 - LC 270 - Anexos 23 a 25 - versão consolidada.pdf",
+      "nome": "5 - LC 270 - Anexos 23 a 25 - versão consolidada.pdf",
+      "url": "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/0274835ddbc09b5303258aa700487674/$FILE/5%20-%20LC%20270%20-%20Anexos%2023%20a%2025%20-%20vers%C3%A3o%20consolidada.pdf",
+      "sha256": "51b42c8b655470724d411c5ff316df5ec7d5ff2507690ede2accdc14af7fa29d",
+      "bytes": 1263963
+    },
+    {
+      "arquivo": "municipais/_fonte/capitais/rio-de-janeiro/plano-diretor-270-2024-anexos/6 - LC 270 - Anexo 26 - versão consolidada.pdf",
+      "nome": "6 - LC 270 - Anexo 26 - versão consolidada.pdf",
+      "url": "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/0274835ddbc09b5303258aa700487674/$FILE/6%20-%20LC%20270%20-%20Anexo%2026%20-%20vers%C3%A3o%20consolidada.pdf",
+      "sha256": "34a7fcbb63833f6b74a02ba3f147a3c03aea27f4fe9b13e6809a0516680cf798",
+      "bytes": 374251
+    },
+    {
+      "arquivo": "municipais/_fonte/capitais/rio-de-janeiro/plano-diretor-270-2024-anexos/Anexo XXI - vetos parciais rejeitados.pdf",
+      "nome": "Anexo XXI - vetos parciais rejeitados.pdf",
+      "url": "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/0274835ddbc09b5303258aa700487674/$FILE/Anexo%20XXI%20-%20vetos%20parciais%20rejeitados.pdf",
+      "sha256": "bcdb86c8b925921ea138ed2f27194b4f2304ea9332a532f84b5135e86c2292d8",
+      "bytes": 126020
+    },
+    {
+      "arquivo": "municipais/_fonte/capitais/rio-de-janeiro/plano-diretor-270-2024-anexos/ANEXO XXII - Mapa de Zoneamento Por Área de Planejamento vf - vetos parciais rejeitados.pdf",
+      "nome": "ANEXO XXII - Mapa de Zoneamento Por Área de Planejamento vf - vetos parciais rejeitados.pdf",
+      "url": "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/0274835ddbc09b5303258aa700487674/$FILE/ANEXO%20XXII%20-%20Mapa%20de%20Zoneamento%20Por%20%C3%81rea%20de%20Planejamento%20vf%20-%20vetos%20parciais%20rejeitados.pdf",
+      "sha256": "d967a09b9dfbfdeedc26ce455c0ecb1cc769ed189ef64de256697f1ab70cb342",
+      "bytes": 7169126
+    },
+    {
+      "arquivo": "municipais/_fonte/capitais/rio-de-janeiro/plano-diretor-270-2024-anexos/ANEXO XXVI  - Delimitação e Lista de Bens Preservados da APAC GRAJAÚ.pdf",
+      "nome": "ANEXO XXVI  - Delimitação e Lista de Bens Preservados da APAC GRAJAÚ.pdf",
+      "url": "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/0274835ddbc09b5303258aa700487674/$FILE/ANEXO%20XXVI%20%20-%20Delimita%C3%A7%C3%A3o%20e%20Lista%20de%20Bens%20Preservados%20da%20APAC%20GRAJA%C3%9A.pdf",
+      "sha256": "34a7fcbb63833f6b74a02ba3f147a3c03aea27f4fe9b13e6809a0516680cf798",
+      "bytes": 374251
+    },
+    {
+      "arquivo": "municipais/_fonte/capitais/rio-de-janeiro/plano-diretor-270-2024-anexos/LC 270 - Anexos 1 ao 12 - Republicado.pdf",
+      "nome": "LC 270 - Anexos 1 ao 12 - Republicado.pdf",
+      "url": "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/0274835ddbc09b5303258aa700487674/$FILE/LC%20270%20-%20Anexos%201%20ao%2012%20-%20Republicado.pdf",
+      "sha256": "c55c75be032c8f040654a4a1e76ef5b6dae0371651049cb9de9c92ca844d4e97",
+      "bytes": 2986036
+    },
+    {
+      "arquivo": "municipais/_fonte/capitais/rio-de-janeiro/plano-diretor-270-2024-anexos/LC 270 - Anexos 13 a 21 - Republicado.pdf",
+      "nome": "LC 270 - Anexos 13 a 21 - Republicado.pdf",
+      "url": "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/0274835ddbc09b5303258aa700487674/$FILE/LC%20270%20-%20Anexos%2013%20a%2021%20-%20Republicado.pdf",
+      "sha256": "35245c932aaf897c348f11a0319240d7841663dbaeeab1990e0ddc852ac9643e",
+      "bytes": 5240454
+    },
+    {
+      "arquivo": "municipais/_fonte/capitais/rio-de-janeiro/plano-diretor-270-2024-anexos/LC 270 - Anexo 22 parte 01 - Republicado.pdf",
+      "nome": "LC 270 - Anexo 22 parte 01 - Republicado.pdf",
+      "url": "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/0274835ddbc09b5303258aa700487674/$FILE/LC%20270%20-%20Anexo%2022%20parte%2001%20-%20Republicado.pdf",
+      "sha256": "89dfa25cac9e9013ba694ec9ad0e384d50dac9950f3ebdd171ad1bc180c8791f",
+      "bytes": 16925421
+    },
+    {
+      "arquivo": "municipais/_fonte/capitais/rio-de-janeiro/plano-diretor-270-2024-anexos/LC 270 - Anexo 22 parte 02 - Republicado.pdf",
+      "nome": "LC 270 - Anexo 22 parte 02 - Republicado.pdf",
+      "url": "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/0274835ddbc09b5303258aa700487674/$FILE/LC%20270%20-%20Anexo%2022%20parte%2002%20-%20Republicado.pdf",
+      "sha256": "dc52489c0f290c0f2a8db98ac7dc05c917f487816e5abed4d40b7e92da26c87a",
+      "bytes": 5588553
+    },
+    {
+      "arquivo": "municipais/_fonte/capitais/rio-de-janeiro/plano-diretor-270-2024-anexos/LC 270 - Anexos 23 ao 25 - Republicado.pdf",
+      "nome": "LC 270 - Anexos 23 ao 25 - Republicado.pdf",
+      "url": "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/0274835ddbc09b5303258aa700487674/$FILE/LC%20270%20-%20Anexos%2023%20ao%2025%20-%20Republicado.pdf",
+      "sha256": "51b42c8b655470724d411c5ff316df5ec7d5ff2507690ede2accdc14af7fa29d",
+      "bytes": 1263963
+    },
+    {
+      "arquivo": "municipais/_fonte/capitais/rio-de-janeiro/plano-diretor-270-2024-anexos/LC 270 - Anexo 26 - Republicado.pdf",
+      "nome": "LC 270 - Anexo 26 - Republicado.pdf",
+      "url": "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/0274835ddbc09b5303258aa700487674/$FILE/LC%20270%20-%20Anexo%2026%20-%20Republicado.pdf",
+      "sha256": "c5e96866efbb1fe808f29cb38247bac762b66b0f74af1ef3409a7a34c56953e3",
+      "bytes": 2146
+    }
+  ],
+  "observacao": "Compilação individual oficial; anexos PDF do mesmo ato preservados na fonte, sem aumento artificial da contagem."
+}
