@@ -1,14 +1,14 @@
 # Legislação brasileira em Markdown
 
-![Apoie o projeto — R$ 0,00 / R$ 5.000,00 (0%). Apoio via Pix para OCR e armazenamento.](assets/apoie-o-projeto.svg)
+![Apoie o projeto — R$ 100,00 / R$ 5.000,00 (2%). Apoio via Pix para OCR e armazenamento.](assets/apoie-o-projeto.svg)
 
 > [!IMPORTANT]
-> **Apoie o projeto via Pix · R$ 0,00 / R$ 5.000,00 (0%)**
+> **Apoie o projeto via Pix · R$ 100,00 / R$ 5.000,00 (2%)**
 >
 > Estou ficando sem espaço de armazenamento para continuar o projeto. Seu apoio vai ajudar
 > a ampliar o armazenamento do acervo, melhorar o OCR dos documentos e dar continuidade ao trabalho.
 >
-> Vou criar uma **seção de apoiadores** para agradecer a quem apoiar o projeto.
+> Quem apoiar será incluído na **seção de apoiadores**, com o primeiro nome que aparecer no Pix.
 
 <p align="center">
   <a href="assets/apoio-pix.jpeg"><img src="assets/apoio-pix.jpeg" width="360" alt="QR Code Pix para apoiar o projeto. Recebedor: João Davi Souza Nascimento. Chave: itau@joaodavisn.com." /></a>
@@ -17,6 +17,22 @@
 **Chave Pix:** `itau@joaodavisn.com`
 
 **Recebedor:** João Davi Souza Nascimento
+
+### Por que preciso de mais armazenamento?
+
+Em **1º de novembro de 2026**, a pasta local do projeto já ocupa **133,8 GB**, como mostra
+a captura abaixo. Esse volume tende a crescer: para continuar convertendo os documentos
+para Markdown e processando o OCR, é necessário manter os arquivos originais, além dos
+textos convertidos. Conforme novas fontes e normas entram no acervo, a necessidade de
+armazenamento também aumenta.
+
+![Uso de armazenamento da pasta local do projeto em 1º de novembro de 2026: 133,8 GB, distribuídos entre normas estaduais, municipais, reguladores, federais e outros arquivos.](assets/armazenamento-2026-11-01.png)
+
+### Apoiadores
+
+Obrigado a quem ajuda a manter o projeto em andamento!
+
+- Marcondes Bezerra
 
 ---
 
