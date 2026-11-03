@@ -1,0 +1,112 @@
+---
+titulo: "Lei Municipal N.º 3893/98, de 04 de março de 1998."
+uf: "RS"
+municipio: "NOVA PRATA"
+tipo: "Lei Ordinária"
+numero: "3893"
+data: 1998-03-04
+ano: "1998"
+ementa: "AUTORIZA O PODER EXECUTIVO MUNICIPAL A FIRMAR CONVÊNIO COM O CTG QUERÊNCIA DO PRATA; AUTORIZA REPASSE DE SUBVENÇÃO AO CTG QUERÊNCIA DO PRATA; DÁ OUTRAS PROVIDÊNCIAS"
+revogada: null
+versao_texto: "texto disponibilizado no Portal Legislativo da Câmara"
+sha256_pdf: "c24a8f7dacd0c37fa20ab4942da3ad4052a96af3ddefedfc94233f5a993a986f"
+documento_ged: "01a01b5c-d0a0-74c4-9bff-545d7e5f9f50"
+fonte: "https://cmnovaprata.cittatec.com.br/portal-legislativo/proposicoes/texto-original/6405"
+baixado_em: 2026-10-29
+---
+# Lei Municipal N.º 3893/98, de 04 de março de 1998.
+
+Lei Municipal N.º 3893/98, de 04 de março de 1998.
+
+“AUTORIZA O PODER EXECUTIVO
+MUNICIPAL A FIRMAR CONVÊNIO COM O
+CTG QUERÊNCIA DO PRATA; AUTORIZA
+REPASSE DE SUBVENÇÃO AO CTG
+QUERÊNCIA DO PRATA; DÁ OUTRAS
+PROVIDÊNCIAS.”
+
+MARIO MINOZZO, NA CONDIÇÃO DE PREFEITO
+MUNICIPAL DE NOVA PRATA.
+
+Faço saber que a Câmara Municipal de Vereadores aprovou e eu
+sanciono e promulgo a seguinte Lei:
+
+Art. 1.º - Fica o Poder Executivo Municipal, autorizado a firmar
+Convênio com o Centro de Tradições Gaúchas Querência do Prata, com sede neste
+Município, com a finalidade de realização do 8.º RODEIO CRIOULO DO PRATA, a
+ser realizado nos dias 6, 7 e 8 de março.
+
+Art. 2.º - Fica o Poder Executivo Municipal, autorizado a repassar
+subvenção ao Centro de Tradições Gaúchas Querência do Prata, no valor de R$2.500,00
+(dois mil e quinhentos reais), com a finalidade de auxiliar no custeio de despesas, com
+fretes de animais, despesas com julgadores da parte artística e outras despesas inerentes
+a organização e realização do evento de que trata o Artigo primeiro.
+
+Art. 3.º - Fica fazendo parte integrante da presente Lei Municipal,
+fotocópia do Convênio.
+
+Art. 4.º - As despesas decorrentes da execução da presente Lei
+Municipal, correrão por conta de dotação orçamentária, classificada sob código: 05 -
+Secretaria de Educação e Cultura; 01 - Unidades Subordinadas; 08421882.030 - Apoio
+Financeiro a Entidade Cultural e Educacional Beneficente e Filantrópica; 3.2.3.1 -
+Subvenções Sociais (111).
+
+Art. 5.º - Revogadas as disposições em contrário, esta Lei Municipal
+entrará em vigor na data de sua publicação.
+
+GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em
+04 de março de 1998.
+
+Mario Minozzo
+Prefeito Municipal
+TERMO DE CONVÊNIO.
+Por este instrumento particular de Convênio, que fazem entre si, de um lado o
+MUNICÍPIO DE NOVA PRATA, pessoa jurídica de direito público interno, inscrito no CGC/MF sob n.º
+91618439/0001-38, representado por seu Prefeito Municipal, Senhor Mario Minozzo, aqui denominado
+simplesmente de MUNICÍPIO, e, de outro lado, o CTG QUERÊNCIA DO PRATA, com sede no
+município de Nova Prata, inscrito no CGC/MF sob n.º 91566521/0001-66, representado por seu Patrão,
+Senhor Astério Campagnollo, aqui denominado simplesmente de CTG, têm entre si, como justo e
+acertado, o quanto segue:
+
+CLÁUSULA PRIMEIRA - O presente Convênio, tem por objeto ações conjuntas, no
+sentido de possibilitar a organização e realização do 8.º RODEIO CRIOULO DO PRATA, que realizar-
+se-á nos dias 6, 7 e 8 de março do corrente ano, com objetivo de promover e divulgar a cultura do Estado
+do Rio Grande do Sul.
+
+CLÁUSULA SEGUNDA - A participação do Município, no evento descrito
+anteriormente, será de R$2.500,00 (dois mil e quinhentos reais), os quais serão repassados com objetivo
+de possibilitar a organização e realização do evento, em especial pagamento de fretes de animais e
+despesas com juizes no julgamento da parte artística.
+
+CLÁUSULA TERCEIRA - O CTG, deverá prestar contas dos valores repassados, no
+prazo máximo de 30 dias a contar do repasse dos valores, mediante apresentação de Notas Fiscais e
+recibos comprobatórios de despesas.
+
+CLÁUSULA QUARTA - O CTG, em contrapartida dos valores repassados, deverá
+através da realização do 8.º Rodeio Crioulo do Prata, promover a divulgação da cultura do Estado do Rio
+Grande do Sul, salutar ao convívio da população, para todos os participantes do evento, em especial
+crianças e jovens, com divulgação do Município entre os participantes de outras entidades de Municípios
+do Estado.
+
+CLÁUSULA QUINTA - Ficará sob responsabilidade do CTG, a realização das
+despesas e organização e realização do evento, não havendo qualquer vinculação por parte do Município,
+com empresas e pessoas físicas, contratadas por parte do CTG, bem como o Município não possui
+qualquer responsabilidade, quanto a eventuais danos pessoais ou materiais, produzidos a terceiros.
+
+Fica eleito o Foro da Comarca de Nova Prata, para dirimir eventuais dúvidas porventura
+advindas da execução do presente Convênio.
+
+E, por estarem justos e acertados, firmam o presente Convênio, juntamente com duas
+testemunhas a tudo presentes.
+
+Nova Prata, 04 de março de 1998.
+
+........................................................
+Município.
+
+.......................................................
+CTG Querência do Prata.
+
+Testemunhas:
+1............................................ e
+2............................................

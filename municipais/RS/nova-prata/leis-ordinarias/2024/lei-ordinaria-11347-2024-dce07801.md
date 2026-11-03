@@ -1,0 +1,44 @@
+---
+titulo: "LEI N.º 11.347/2024, DE 20 DE AGOSTO DE 2024."
+uf: "RS"
+municipio: "NOVA PRATA"
+tipo: "Lei Ordinária"
+numero: "11347"
+data: 2024-08-20
+ano: "2024"
+revogada: null
+versao_texto: "cópia digitalizada da lei assinada, publicada no Portal da Transparência"
+ocr: "LightOnOCR-3-0.8B (lightonai, revisão 36d8636), 400 dpi, transcrição sem amostragem"
+observacao: "Carimbo de publicação no quadro mural, no topo da primeira página, omitido do texto."
+publicado_no_portal: 2024-09-03
+paginas_pdf: 1
+sha256_pdf: "dce078015ad07ea07394bc3a3f5e1cc7730855c11dd6e87d48070f1d199e8ade"
+fonte_indice: "https://novaprata.multi24h.com.br/multi24/sistemas/transparencia/?entidade=1&secao=dinamico&id=20047"
+fonte: "https://novaprata.multi24h.com.br/multi24/sistemas/transparencia/?entidade=1&secao=download&sub=menu&id=17927"
+baixado_em: 2026-10-30
+---
+# LEI N.º 11.347/2024, DE 20 DE AGOSTO DE 2024.
+
+ESTADO DO RIO GRANDE DO SUL
+
+MUNICÍPIO DE NOVA PRATA
+
+LEI N.º 11.347/2024, DE 20 DE AGOSTO DE 2024.
+
+AUTORIZA O PODER EXECUTIVO MUNICIPAL A APROVAR E AUTORIZAR O CONDOMÍNIO RESIDENCIAL GRAMADO.
+
+SANDRA HELENA GUGLIELMIN ZOTTIS, NA CONDIÇÃO DE PREFEITA MUNICIPAL EM EXERCÍCIO, faço saber que o Poder Legislativo aprovou e eu, no uso das atribuições que me confere o inciso IV do artigo 66 da Lei Orgânica do Município, sanciono e promulgo a seguinte Lei:
+
+Art. 1º. Fica autorizado o Poder Executivo Municipal a aprovar e autorizar o CONDOMÍNIO RESIDENCIAL GRAMADO, localizado na Macro Zona de Condomínios, considerada Zona de Expansão Urbana, de acordo com a Lei Municipal 10.617/2021, com área de 133.062,74m², constituído de 55 lotes e áreas de uso comum e de circulação.
+
+Art. 2º. Fica autorizado o Poder Executivo Municipal a receber o valor de R$179.102,39 (cento e setenta e nove mil, cento e dois reais e trinta e nove centavos), referentes a conversão em moeda corrente nacional, da área de 10% (dez por cento) da totalidade do terreno destinada a implantação de equipamentos de recreação e lazer, conforme previsão do artigo 79 da Lei Municipal 7289/2008 (Plano Diretor Municipal).
+
+Art. 3º. Fica fazendo parte integrante da presente Lei Municipal o projeto urbanístico, memorial descritivo e RRT do referido loteamento, bem como o Laudo de Avaliação.
+
+Art. 4º. Esta Lei entrará em vigor na data da sua publicação.
+
+GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em 20 de agosto de 2024.
+
+Sandra Helena G. Zottis
+
+Prefeita Municipal em Exercício

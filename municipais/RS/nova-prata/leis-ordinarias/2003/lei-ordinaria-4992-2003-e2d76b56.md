@@ -1,0 +1,105 @@
+---
+titulo: "Lei Municipal N.º 4992/2003, de 28 de abril de 2003."
+uf: "RS"
+municipio: "NOVA PRATA"
+tipo: "Lei Ordinária"
+numero: "4992"
+data: 2003-04-28
+ano: "2003"
+ementa: "LEI Nº 4992/2003"
+revogada: null
+versao_texto: "texto disponibilizado no Portal Legislativo da Câmara"
+sha256_pdf: "e2d76b56f794ff93301c52e1e1531f26c98753727a38e5ab846cfff5a605a286"
+documento_ged: "01a01b5c-d0ca-718c-9bd8-9c053ba2dc26"
+fonte: "https://cmnovaprata.cittatec.com.br/portal-legislativo/proposicoes/texto-original/7502"
+baixado_em: 2026-10-29
+---
+# Lei Municipal N.º 4992/2003, de 28 de abril de 2003.
+
+Lei Municipal N.º 4992/2003, de 28 de abril de 2003.
+
+“AUTORIZA O PODER EXECUTIVO MUNICIPAL A
+FIRMAR CONVÊNIO COM A ASSOCIAÇÃO CASA
+DA CULTURA; AUTORIZA O PODER EXECUTIVO
+MUNICIPAL A REPASSAR SUBVENÇÃO A
+ASSOCIAÇÃO CASA DA CULTURA; DÁ OUTRAS
+PROVIDÊNCIAS.”
+
+ALCEU LEONARDO STELLA, NA CONDIÇÃO DE PREFEITO
+MUNICIPAL EM EXERCÍCIO DE NOVA PRATA.
+
+Faço saber que a Câmara Municipal de Vereadores aprovou e eu
+sanciono e promulgo a seguinte Lei:
+
+Art. 1.º - Fica o Poder Executivo Municipal, autorizado a firmar
+Convênio com a Associação Casa da Cultura, inscrita no CNPJ sob n.º
+91.567.792/0001-36, com objetivo de unir esforços para realização do evento “20 de
+maio dia da Etnia Italiana”, a ser realizado em conjunto com o Coral Per Tutte L’Etá e
+Associação Cultural das Etnias.
+
+Art. 2.º - Fica o Poder Executivo Municipal, autorizado a repassar
+subvenção à Associação Casa da Cultura, no valor de R$1.000,00 (um mil reais), o que
+será repassado até a data da realização do evento.
+
+Art. 3.º - A entidade beneficiada deverá apresentar plano de trabalho, dos
+valores repassados como condição para liberação dos valores, que deverá ser aprovado
+pelo Gabinete do Prefeito.
+Parágrafo Único - Além do plano de trabalho a entidade beneficiada
+deverá apresentar certidão negativa de tributos estaduais, federais e municipais, INSS e
+FGTS, CNPJ atualizado e documentação da constituição jurídica da entidade.
+
+Art. 4.º - As despesas decorrentes da execução da presente Lei
+Municipal, correrão por conta de dotação orçamentária, classificada sob código: 05 -
+Secretaria de Educação e Cultura - 03 - Livres - 13.392.0054.1021 - Apoio Financeiro a
+Entidades Educacionais e Culturais - 3.3.50.43.00.00.00 - Subvenções sociais (241).
+
+Art. 5.º - Revogadas as disposições em contrário, esta Lei Municipal
+entrará em vigor na data de sua publicação.
+
+GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em
+28 de abril de 2003.
+
+Alceu Leonardo Stella
+Prefeito Municipal em Exercício
+TERMO DE CONVÊNIO
+
+Por este instrumento particular de Convênio, que fazem entre si, de um
+lado o MUNICÍPIO DE NOVA PRATA, pessoa jurídica de direito público interno,
+inscrito no CNPJ sob n.º 91618439/0001-38, representado por seu Prefeito Municipal, e,
+de outro lado, ASSOCIAÇÃO CASA DA CULTURA, com sede na Rua Fernando
+Luzzatto, 06 em Nova Prata, inscrita no CNPJ sob n.º 91567792/0001-36, representado
+por sua Presidente, têm entre si, como justo e acertado, o quanto segue:
+O presente Convênio tem por objeto ações conjuntas, no sentido de
+possibilitar a realização do evento “20 de maio dia da Etnia Italiana”, juntamente com
+as entidades Coral Per Tutte L’etá e Associação Cultural das Etnias, no sentido de
+comemorar a chegada dos italianos em nossa região.
+A participação do Município será o repasse de parte do valor a ser gasto
+pela Associação, no valor de R$1.000,00 (um mil reais), o que será repassado até o dia
+da realização do evento.
+A Associação Casa da Cultura deverá prestar contas dos valores
+repassados, no máximo até 30 dias após o repasse, mediante apresentação de Notas
+Fiscais e recibos comprobatórios de despesas.
+A Associação Casa da Cultura em contrapartida dos valores repassados
+compromete-se a divulgar em todo Município a realização do evento, possibilitando a
+participação de todos os cidadãos pratenses.
+Ficará sob responsabilidade da Associação, a realização das despesas e
+contratação de empresas e pessoas físicas para concretizarem o evento, sem qualquer
+vínculo com o Município de Nova Prata, bem como fica isento o Município de qualquer
+responsabilidade, quanto a eventuais danos pessoais ou materiais, produzidos a
+terceiros.
+Fica eleito o Foro da Comarca de Nova Prata, para dirimir eventuais
+dúvidas porventura advindas da execução do presente Convênio.
+E, por estarem justos e acertados, firmam o presente Convênio,
+juntamente com duas testemunhas a tudo presentes.
+Nova Prata, 28 de abril de 2003.
+
+Alceu Leonardo Stella
+Prefeito Municipal em Exercício
+
+Mirian P. Cherubini
+Presidente da Casa Cultura
+Testemunhas:
+
+1............................................ e
+
+2............................................

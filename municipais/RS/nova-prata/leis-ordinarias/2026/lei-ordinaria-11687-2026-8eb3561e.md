@@ -1,0 +1,119 @@
+---
+titulo: "LEI Nº 11.687/2026, DE 14 DE JULHO DE 2026."
+uf: "RS"
+municipio: "NOVA PRATA"
+tipo: "Lei Ordinária"
+numero: "11687"
+data: 2026-07-14
+ano: "2026"
+revogada: null
+versao_texto: "cópia digitalizada da lei assinada, publicada no Portal da Transparência"
+ocr: "LightOnOCR-3-0.8B (lightonai, revisão 36d8636), 400 dpi, transcrição sem amostragem"
+observacao: "Carimbo de publicação no quadro mural, no topo da primeira página, omitido do texto. Carimbo de publicação no quadro mural repetido nas páginas seguintes, omitido do texto."
+publicado_no_portal: 2026-07-17
+paginas_pdf: 3
+sha256_pdf: "8eb3561eb2d8d5bcdf15fa667930b75f67d3268be284ee716eb3df584ad8e1ec"
+fonte_indice: "https://novaprata.multi24h.com.br/multi24/sistemas/transparencia/?entidade=1&secao=dinamico&id=21523"
+fonte: "https://novaprata.multi24h.com.br/multi24/sistemas/transparencia/?entidade=1&secao=download&sub=menu&id=22718"
+baixado_em: 2026-10-30
+---
+# LEI Nº 11.687/2026, DE 14 DE JULHO DE 2026.
+
+ESTADO DO RIO GRANDE DO SUL
+MUNICÍPIO DE NOVA PRATA
+
+LEI Nº 11.687/2026, DE 14 DE JULHO DE 2026.
+
+AUTORIZA O PODER EXECUTIVO MUNICIPAL A
+CONTRATAR TEMPORARIAMENTE PARA O ANO
+LETIVO DE 2026, ATÉ 04 (QUATRO) MONITORES
+PARA ALUNOS ESPECIAIS, PARA ATENDER
+EXCEPCIONAL INTERESSE PÚBLICO.
+
+UMBERTO LUIZ CARNEVALLI, NA CONDIÇÃO DE PREFEITO MUNICIPAL DE
+NOVA PRATA, faço saber que o Poder Legislativo aprovou e eu, no uso das atribuições que me confere o
+inciso IV do artigo 66 da Lei Orgânica do Município, sanciono e promulgo a seguinte Lei:
+
+Art. 1.º Fica autorizado o Poder Executivo Municipal a realizar contratação temporária
+por excepcional interesse público de até 04 (quatro) Monitores para Alunos Especiais, nos termos dos artigos
+193 a 197 e seguintes da Lei Municipal n.º 5.760/05, que instituiu o Regime Jurídico Único dos Servidores
+Públicos Municipais, da seguinte forma:
+
+§ 1º As contratações de que trata a presente Lei terão vigência a partir da
+assinatura dos respectivos contratos, abrangendo os exercícios letivos de 2026 e 2027, com término ao final do
+mês de dezembro de 2027, podendo ser prorrogadas uma única vez, até o término do exercício letivo de 2029, a
+critério da Administração Municipal, observadas as demandas da Secretaria Municipal de Educação e o
+calendário escolar.
+
+§ 2º Excepcionalmente, o prazo máximo previsto no § 1º poderá ser ultrapassado,
+independemente de nova autorização legislativa, exclusivamente nos casos em que a rescisão contratual
+esteja legalmente impedida em razão de licença-maternidade ou de percepção de benefício previdenciário pela
+contratada, perdurando a vigência contratual até a cessação do respectivo afastamento ou benefício.
+
+Art. 2.º O Contrato poderá ser rescindido a qualquer tempo, sendo permitido ao
+Executivo, se necessário, nova contratação em caso de desistência ou rescisão antecipada.
+
+§ 1º Cessada a necessidade que motivou a contratação, estará a Administração
+Municipal autorizada a promover a rescisão do contrato, ainda que antes da data prevista para o seu término,
+desde que seja comunicado o contratado com 15 (quinze) dias de antecedência, ou este sendo indenizado.
+
+§ 2º Se o contratado desejar rescindir o contrato antes da data prevista para o seu
+término, deverá comunicar a Administração Municipal, com antecedência de 15 (quinze) dias, sob pena de
+indenizar o respectivo período, se não trabalhado, ressaltados os casos de nomeação em concurso público.
+
+§ 3º Quando houver rescisão em tempo inferior a 60 (sessenta) dias, por solicitação do
+contratado, contados da data da contratação, ficará este, responsável pelo pagamento das despesas relativas aos
+exames admissionais, descontados nas verbas rescisórias.
+
+§ 4º O contratado que tiver seu vínculo temporário rescindido, seja a pedido próprio ou
+por iniciativa da Administração, antes do término do prazo previsto, não poderá ser reconstratado pela
+Administração, para a função objeto do presente contrato ou para nova função temporária, antes de decorridos
+12 (doze) meses da data da rescisão, salvo em caso de excepcional interesse público devidamente justificado ou
+nomeação em cargo de provimento efetivo junto ao Município.
+
+ESTADO DO RIO GRANDE DO SUL
+MUNICÍPIO DE NOVA PRATA
+
+Art. 3.º O contrato será de natureza administrativa, ficando assegurados os seguintes direitos aos contratados, sem prejuízo ao estabelecido na Lei nº 5.760/2005:
+
+I - Repouso semanal remunerado;
+II - Gratificação natalina proporcional, ao término do contrato;
+III - Férias proporcionais, com acréscimo de 1/3, ao término do contrato;
+IV - Serviço extraordinário, se necessário;
+V - Vale alimentação;
+VI - Inscrição no Regime Geral de Previdência Social;
+VII - Desdobramento de carga horária, se for o caso;
+VIII – Insalubridade, se for o caso;
+IX - Gratificação de difícil acesso, se for o caso.
+
+§1º As atribuições, o salário mensal, a carga horária e a habilitação necessária estão fixadas no Anexo Único da presente Lei.
+
+Art. 4.º As despesas decorrentes da presente Lei, correrão por conta de dotações orçamentárias da Secretaria Municipal de Educação.
+
+Art. 5º Esta Lei será regulamentada por Decreto Municipal naquilo que couber.
+
+Art. 6º Esta Lei entra em vigor na data de sua publicação.
+
+GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em 14 de julho de 2026.
+
+Umberto Luiz Carnevali
+Prefeito Municipal
+
+ESTADO DO RIO GRANDE DO SUL
+MUNICÍPIO DE NOVA PRATA
+ANEXO ÚNICO
+CARGO: MONITOR PARA ALUNOS ESPECIAIS.
+
+Atribuições: Prestar auxílio individualizado ao aluno que não realiza atividades com independência; ser dinâmico, buscando soluções quando necessário - atuando de forma articulada com os professores do aluno público alvo da educação especial, de sala de aula comum, da sala de recursos multifuncional, entre outros profissionais no contexto da escola; promover a interação deste aluno com os demais colegas da turma e da escola como um todo; contribuir na garantia da segurança, integridade física e emocional do aluno, seus colegas e professores; auxiliar o professor com os demais colegas de turma sempre que o mesmo esteja realizando um atendimento individualizado ao aluno com necessidades educativas especiais; assegurar ao aluno a participação em todas as atividades com igualdade de oportunidade, permitindo o acesso proporcionado aos demais colegas, de forma a atingir a real inclusão; participar de formações continuadas; promover em conjunto com o professor titular e professor da sala de recursos multifuncional, o avanço contínuo das habilidades do aluno incluído, através da utilização e organização de atividades pedagógicas e AVDs (Atividades de Vida Diária); atuar como mediador do processo de ensino/aprendizagem seguindo as orientações recebidas do professor titular da turma, professor da Sala de Recursos Multifuncional ou outros técnicos, contribuindo na aquisição de conhecimentos; atuar no apoio de alunos com deficiência, transtornos globais do desenvolvimento e altas habilidades/superdotação, que apresentem dependência no desenvolvimento das atividades escolares, bem como nas atividades de cuidado, de higiene, de alimentação, de locomoção e outras conforme a necessidade e executar outras tarefas correlatas.
+
+Condições De Trabalho:
+
+Carga horária semanal: 20 horas semanais. (Carga horária alterada pela Lei nº 9523/2016);
+Outras: o exercício do cargo poderá exigir a prestação de serviços à noite, sábados, domingos ou feriados e uso de uniformes fornecidos pelo Município.
+
+Requisitos para provimento do cargo:
+
+a) Escolaridade: Ensino médio completo na habilitação Magistério ou cursando qualquer curso superior na área da educação;
+b) Idade: mínima de 18 anos.
+
+RECRUTAMENTO: através de concurso público. (Redação acrescida pela Lei nº 9206/2015)
