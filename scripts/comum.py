@@ -3,6 +3,7 @@ import collections
 import datetime as dt
 import gzip
 import hashlib
+import io
 import json
 import os
 import re
@@ -13,6 +14,8 @@ import threading
 import time
 import urllib.error
 import urllib.request
+import xml.etree.ElementTree as ET
+import zipfile
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 from html2md import HEADINGS, LABEL, convert
@@ -256,6 +259,27 @@ def imagem_bruta(bruto):
             or bruto[:4] == b"RIFF" and bruto[8:12] == b"WEBP")
 
 
+def texto_office_sem_textutil(bruto, src, ext):
+    """Extrai texto de DOC/DOCX quando textutil (macOS) não está no PATH. Não inventa redação."""
+    if bruto[:2] == b"PK" or ext == ".docx":
+        try:
+            with zipfile.ZipFile(io.BytesIO(bruto)) as z:
+                xml = z.read("word/document.xml")
+        except (KeyError, zipfile.BadZipFile):
+            return ""
+        ns = "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}"
+        root = ET.fromstring(xml)
+        return "\n".join("".join(t.text or "" for t in p.iter(ns + "t")) for p in root.iter(ns + "p"))
+    if bruto.startswith(b"\xd0\xcf\x11\xe0") or ext == ".doc":
+        for args in (["antiword", "-m", "UTF-8.txt", src], ["catdoc", "-d", "utf-8", src]):
+            if not shutil.which(args[0]):
+                continue
+            r = subprocess.run(args, capture_output=True, timeout=300)
+            if r.returncode == 0 and r.stdout.strip():
+                return r.stdout.decode("utf-8", "replace")
+    return ""
+
+
 def extrair_texto(bruto, url="", content_type=""):
     """Retorna (html, texto): PDF -> pdftotext; imagem -> OCR; DOC/DOCX/ODT/RTF -> textutil; HTML direto."""
     ext = os.path.splitext(url.split("?")[0])[1].lower()
@@ -271,9 +295,12 @@ def extrair_texto(bruto, url="", content_type=""):
     if ext in (".doc", ".docx", ".odt", ".rtf") or bruto[:2] == b"PK" or bruto[:5] == b"{\\rtf" or bruto.startswith(b"\xd0\xcf\x11\xe0\xa1\xb1\x1a\xe1"):
         with tempfile.TemporaryDirectory() as tmp:
             src = os.path.join(tmp, "a" + (".doc" if bruto.startswith(b"\xd0\xcf\x11\xe0") else ext or ".doc"))
-            open(src, "wb").write(bruto)
-            r = subprocess.run(["textutil", "-convert", "html", "-stdout", src], capture_output=True, timeout=300)
-            return r.stdout.decode("utf-8", "replace"), None
+            with open(src, "wb") as f:
+                f.write(bruto)
+            if shutil.which("textutil"):
+                r = subprocess.run(["textutil", "-convert", "html", "-stdout", src], capture_output=True, timeout=300)
+                return r.stdout.decode("utf-8", "replace"), None
+            return None, texto_office_sem_textutil(bruto, src, ext)
     return decodificar(bruto, content_type), None
 
 
@@ -327,15 +354,47 @@ AVISO_SEM_TEXTO = ("> A fonte oficial não disponibiliza o texto desta norma: o 
                    "está vazio. Só os metadados foram preservados.\n\n")
 
 
-def ocr_pdf(bruto):
-    """OCR com o Vision do macOS (scripts/bin/ocr, compilado de ocr.swift)."""
-    if not os.path.exists(OCR_BIN):
+def ocr_pdf_tesseract(bruto):
+    """OCR de PDF escaneado com Tesseract + pdftoppm quando o binário Vision não está presente."""
+    tesseract = shutil.which("tesseract")
+    pdftoppm = shutil.which("pdftoppm")
+    if not tesseract or not pdftoppm:
         return ""
     with _ocr_vagas, tempfile.TemporaryDirectory() as tmp:
         pdf = os.path.join(tmp, "a.pdf")
-        open(pdf, "wb").write(bruto)
-        r = subprocess.run([OCR_BIN, pdf], capture_output=True, timeout=1800)
-        return r.stdout.decode("utf-8", "replace")
+        with open(pdf, "wb") as f:
+            f.write(bruto)
+        r = subprocess.run(["pdftoppm", "-png", "-r", "300", pdf, os.path.join(tmp, "p")],
+                           capture_output=True, timeout=300)
+        if r.returncode != 0:
+            return ""
+        paginas = []
+        for nome in sorted(n for n in os.listdir(tmp) if n.startswith("p") and n.endswith(".png")):
+            img = os.path.join(tmp, nome)
+            osd = subprocess.run([tesseract, img, "stdout", "--psm", "0"],
+                                 capture_output=True, timeout=60,
+                                 env={**os.environ, "OMP_THREAD_LIMIT": "1"})
+            giro = re.search(r"Rotate:\s*(\d+)", osd.stdout.decode("utf-8", "replace"))
+            psm = "1" if giro and giro[1] != "0" else "3"
+            o = subprocess.run([tesseract, img, "stdout", "-l", "por", "--oem", "1", "--psm", psm],
+                               capture_output=True, timeout=180,
+                               env={**os.environ, "OMP_THREAD_LIMIT": "1"})
+            paginas.append(o.stdout.decode("utf-8", "replace"))
+        return "\f".join(paginas)
+
+
+def ocr_pdf(bruto):
+    """OCR com o Vision do macOS (scripts/bin/ocr) ou Tesseract no Linux."""
+    if os.path.exists(OCR_BIN):
+        with _ocr_vagas, tempfile.TemporaryDirectory() as tmp:
+            pdf = os.path.join(tmp, "a.pdf")
+            with open(pdf, "wb") as f:
+                f.write(bruto)
+            r = subprocess.run([OCR_BIN, pdf], capture_output=True, timeout=1800)
+            texto = r.stdout.decode("utf-8", "replace")
+            if len(re.sub(r"\W", "", texto)) >= 80:
+                return texto
+    return ocr_pdf_tesseract(bruto)
 
 
 def ocr_imagem(bruto):

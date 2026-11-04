@@ -1,0 +1,27 @@
+{
+  "municipio": "Porto Alegre",
+  "uf": "RS",
+  "codigo_ibge": "4314902",
+  "tipo": "Código municipal",
+  "categoria": "codigos",
+  "numero": "284",
+  "data": "1992-10-27",
+  "titulo": "Lei Complementar municipal nº 284, de 27 de outubro de 1992",
+  "slug": "codigo-edificacoes-porto-alegre-1992",
+  "cache": "porto-alegre-codigo-edificacoes-284-1992.pdf",
+  "fonte": "https://legislacao.portoalegre.rs.gov.br/norma/26743",
+  "fonte_texto": "https://legislacao.portoalegre.rs.gov.br/media/sapl/public/normajuridica/sirel/lc%20284.pdf",
+  "versao_texto": "texto integral anexado no SAPL da PGM/Porto Alegre (norma/26743, arquivo SIREL); 5ª edição CORAG de 2001 do Código de Edificações (LC 284/1992); não certifica compilação posterior",
+  "observacao": "Código de Edificações; PDF da API em http, capturado por HTTPS 200.",
+  "marcas_obrigatorias": [
+    "CÓDIGO DE EDIFICAÇÕES",
+    "Porto Alegre"
+  ],
+  "arquivo": "municipais/RS/porto-alegre/codigos/1992/codigo-edificacoes-porto-alegre-1992.md",
+  "sha256": "3dc005cde3f341e5c0f7e4bac82887add0aaaba122ed4c47ebef34af06e25c1f",
+  "arquivo_fonte": "municipais/_fonte/capitais/porto-alegre/porto-alegre-codigo-edificacoes-284-1992.pdf",
+  "sha256_fonte": "c7b3be5dc15b6bc507b861c70a8c03f4b9cd35ace1b2e7ebfc7c40b29330be20",
+  "sha256_corpo": "dc3511e6d130b522bb323e1e8485144576eba7cdd68f831ff730980e86319b78",
+  "ibge_sha256": "d9eec8439bc8c5dc2f7db6332a8e5569f5a3f637988e26aebc513412d4069d5c",
+  "verificado_em": "2026-10-28T20:53:54.950737"
+}

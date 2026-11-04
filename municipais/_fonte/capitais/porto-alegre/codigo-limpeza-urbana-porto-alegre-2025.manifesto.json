@@ -1,0 +1,28 @@
+{
+  "municipio": "Porto Alegre",
+  "uf": "RS",
+  "codigo_ibge": "4314902",
+  "tipo": "Código municipal",
+  "categoria": "codigos",
+  "numero": "1060",
+  "data": "2025-12-22",
+  "titulo": "Lei Complementar municipal nº 1.060, de 22 de dezembro de 2025",
+  "slug": "codigo-limpeza-urbana-porto-alegre-2025",
+  "cache": "porto-alegre-codigo-limpeza-urbana-1060-2025.pdf",
+  "fonte": "https://legislacao.portoalegre.rs.gov.br/norma/50791",
+  "fonte_texto": "https://legislacao.portoalegre.rs.gov.br/media/sapl/public/normajuridica/2025/50791/lc_1060.pdf",
+  "versao_texto": "texto integral anexado no SAPL da PGM/Porto Alegre (norma/50791); não certifica atualização posterior",
+  "observacao": "Código Municipal de Limpeza Urbana; PDF da API em http, capturado por HTTPS 200.",
+  "marcas_obrigatorias": [
+    "LEI COMPLEMENTAR Nº 1.060",
+    "Código Municipal de Limpeza Urbana",
+    "Município de Porto Alegre"
+  ],
+  "arquivo": "municipais/RS/porto-alegre/codigos/2025/codigo-limpeza-urbana-porto-alegre-2025.md",
+  "sha256": "34204b71921d40763c769ec09199f68ca3813c1b8f857a06a555535396e74a4d",
+  "arquivo_fonte": "municipais/_fonte/capitais/porto-alegre/porto-alegre-codigo-limpeza-urbana-1060-2025.pdf",
+  "sha256_fonte": "e374b76c474416a4f67591b275761e56a7c69b4fc9a2dee4ae4809e88bd5c222",
+  "sha256_corpo": "d8f4cdcc35198693d6a0295c9f1b01393e821246de37657ab0160d3477c3bf73",
+  "ibge_sha256": "d9eec8439bc8c5dc2f7db6332a8e5569f5a3f637988e26aebc513412d4069d5c",
+  "verificado_em": "2026-10-28T20:54:00.151278"
+}

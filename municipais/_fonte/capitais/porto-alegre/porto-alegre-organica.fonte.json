@@ -1,0 +1,12 @@
+{
+  "url": "https://legislacao.camarapoa.rs.gov.br/wp-content/uploads/documents/lei_organica/Lei%20Org%C3%A2nica%20do%20Munic%C3%ADpio%20de%20Porto%20Alegre%20atualizada%20at%C3%A9%20emenda%20n%C2%BA%2049.pdf",
+  "sha256": "3001b4a4711abc8222f1ffd680cf0a1b72a9800ae5a3ed5bfd3b06e5d9d1c713",
+  "obtido_em": "2026-10-28T19:14:00+00:00",
+  "http_status": 200,
+  "content_length": 677810,
+  "last_modified": "Wed, 21 Dec 2022 17:58:10 GMT",
+  "paginas": 83,
+  "captura": "web.archive.org 20240422221213id_ do URL oficial da Câmara; o host legislacao.camarapoa.rs.gov.br esgotou conexão no IP do agente (página HTML e PDF da Emenda 51). Não é contorno de WAF. Save Page Now do PDF da Emenda 51 devolveu HTTP 520. A captura Wayback mais recente da página (20240620160105) lista este PDF até a Emenda 49. PGM/SAPL norma/25277 só oferece lei_organica_atualizada_ate_emenda_no_48_2022.pdf. PDF da Prefeitura/SMPS (Last-Modified 17 Sep 2026) é imagem/fontes customizadas, sem texto nativo conferível.",
+  "wayback": "https://web.archive.org/web/20240422221213id_/https://legislacao.camarapoa.rs.gov.br/wp-content/uploads/documents/lei_organica/Lei%20Org%C3%A2nica%20do%20Munic%C3%ADpio%20de%20Porto%20Alegre%20atualizada%20at%C3%A9%20emenda%20n%C2%BA%2049.pdf",
+  "wayback_pagina": "https://web.archive.org/web/20240620160105id_/https://legislacao.camarapoa.rs.gov.br/lei-organica/"
+}

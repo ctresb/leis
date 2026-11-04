@@ -1,0 +1,27 @@
+{
+  "municipio": "Porto Alegre",
+  "uf": "RS",
+  "codigo_ibge": "4314902",
+  "tipo": "Código tributário",
+  "categoria": "codigo-tributario",
+  "numero": "7",
+  "data": "1973-12-07",
+  "titulo": "Lei Complementar municipal nº 7, de 07 de dezembro de 1973",
+  "slug": "codigo-tributario-porto-alegre-1973",
+  "cache": "porto-alegre-codigo-tributario-7-1973.doc",
+  "fonte": "https://legislacao.portoalegre.rs.gov.br/norma/17478",
+  "fonte_texto": "https://legislacao.portoalegre.rs.gov.br/media/sapl/public/normajuridica/sirel/lc%2007.doc",
+  "versao_texto": "texto integral anexado no SAPL da PGM/Porto Alegre (norma/17478, arquivo SIREL .doc); não certifica compilação posterior",
+  "observacao": "Código Tributário Municipal; DOC da API em http, capturado por HTTPS 200.",
+  "marcas_obrigatorias": [
+    "LEI COMPLEMENTAR N",
+    "tributos de competência do Município"
+  ],
+  "arquivo": "municipais/RS/porto-alegre/codigo-tributario/1973/codigo-tributario-porto-alegre-1973.md",
+  "sha256": "4d302c44dcc9d66e46fa52c18369a7fcba83c9b88775561f46d2325832862945",
+  "arquivo_fonte": "municipais/_fonte/capitais/porto-alegre/porto-alegre-codigo-tributario-7-1973.doc",
+  "sha256_fonte": "2346b3bf1ab7a3baab498fb5a0b74754d413cf9f810dda11ae5a4192f3cb0a5f",
+  "sha256_corpo": "d66cccae6091fde593a1341801e6113fbf30441dbcf415a1ec76b9607e952ac7",
+  "ibge_sha256": "d9eec8439bc8c5dc2f7db6332a8e5569f5a3f637988e26aebc513412d4069d5c",
+  "verificado_em": "2026-10-28T20:53:57.483086"
+}
