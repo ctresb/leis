@@ -1,0 +1,33 @@
+---
+titulo: "Lei nº 9199, de 30 de março de 2017"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "9199"
+data: 2017-03-30
+ano: "2017"
+municipio: "Salvador"
+uf: "BA"
+codigo_ibge: "2927408"
+revogada: null
+versao_texto: "publicação original no Diário Oficial do Município (CMS/Dioly)"
+extrator: "dioly-raw-v2"
+sha256_classificador: "21dff5e46a840bc9d87c9c81a0e8753e03ca0a7e50c98a0393dc479b5644c163"
+sha256_extrator_geometria: "3d954c48700d49328c6d71f3d841cfc40394642e81e338c23d7c27cae175dcd5"
+sha256_pdf: "98d17983402109b23d3e88c55a99202dd233b6eca09ddb69ff32d3cfa5aa0bf3"
+sha256_texto: "de20fb7f29de4392d02681acdb967f9418cce16b1fe8ef0f880898d5603789e6"
+publicacao: "DOM nº 6813 de 31/03/2017"
+data_publicacao: 2017-03-31
+codigo_identificador: "DOM-6813-LO-9199"
+fonte: "https://portal-api.dioly.com.br/uploads/pdfs/be348a9f-bed6-441d-b75a-2b96b6527465_dom-6813-31-03-2017.pdf"
+baixado_em: 2026-10-28
+---
+
+# Lei nº 9199, de 30 de março de 2017
+
+LEI Nº 9.199/2017 Institui, no Calendário Oficial de Eventos de Salvador, o dia 26 de junho como o Dia Municipal de Prevenção Combate ao Crack na Cidade de Salvador. O PREFEITO MUNICIPAL DO SALVADOR, CAPITAL DO ESTADO DA BAHIA, Faço saber que a Câmara Municipal decreta e eu sanciono a seguinte Lei: .
+
+**Art. 1°** Fica instituído, no Calendário Oficial de Eventos de Salvador, o Dia Municipal de Prevenção e Combate ao Crack, a ser comemorado, anualmente, no dia 26 de junho.
+
+**Parágrafo único.** As comemorações do Dia Municipal de Prevenção e Combate ao Crack, em 26 de junho, ocorrerão concomitantemente às comemorações do Dia Internacional de Combate às Drogas.
+
+**Art. 2°** Esta Lei entra em vigor na data de sua publicação. GABINETE DO PREFEITO MUNICIPAL DO SALVADOR, em 30 de março de 2017 . ANTONIO CARLOS PEIXOTO DE MAGALHÃES NETO Prefeito JOÃO INÁCIO RIBEIRO ROMA NETO Chefe do Gabinete do Prefeito JOSÉ ANTÔNIO RODRIGUES ALVES Secretário Municipal da Saúde

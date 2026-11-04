@@ -1,0 +1,18 @@
+{
+  "origem": "disco",
+  "escopo_index": {
+    "alterados_index": 0,
+    "demais_index": 0
+  },
+  "raiz": "/workspace",
+  "lista": "/tmp/salvador-lo/paths.txt",
+  "ibge": "/workspace/municipais/_indice/ibge-municipios.json",
+  "ibge_sha256": "d9eec8439bc8c5dc2f7db6332a8e5569f5a3f637988e26aebc513412d4069d5c",
+  "fonte_ibge": "https://servicodados.ibge.gov.br/api/v1/localidades/municipios?orderBy=nome",
+  "regra_alias": "acentos e apóstrofos normalizados para identificar nomes; rota exige nome oficial IBGE",
+  "arquivos": 1,
+  "sapl": 0,
+  "problemas": 0,
+  "detalhes": [],
+  "avisos": []
+}

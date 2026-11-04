@@ -1,0 +1,35 @@
+---
+titulo: "Lei nº 9759, de 9 de outubro de 2023"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "9759"
+data: 2023-10-09
+ano: "2023"
+municipio: "Salvador"
+uf: "BA"
+codigo_ibge: "2927408"
+revogada: null
+versao_texto: "publicação original no Diário Oficial do Município (CMS/Dioly)"
+extrator: "dioly-raw-v2"
+sha256_classificador: "21dff5e46a840bc9d87c9c81a0e8753e03ca0a7e50c98a0393dc479b5644c163"
+sha256_extrator_geometria: "3d954c48700d49328c6d71f3d841cfc40394642e81e338c23d7c27cae175dcd5"
+sha256_pdf: "a4351f38adfe24ea9d89d968cacdb73f641c2a95198128f10ca9180591edb7af"
+sha256_texto: "5d6c21be34cdad3594f8e34b17902afb434c6904fadbc3052d08e29145764727"
+publicacao: "DOM nº 8637 de 10/10/2023"
+data_publicacao: 2023-10-10
+codigo_identificador: "DOM-8637-LO-9759"
+fonte: "https://portal-api.dioly.com.br/uploads/pdfs/fdf94f38-2306-44e2-9b2a-07ca65b2de43_dom-8637-10-10-2023.pdf"
+baixado_em: 2026-10-28
+---
+
+# Lei nº 9759, de 9 de outubro de 2023
+
+LEI Nº 9.759/2023 Institui, no Calendário Oficial de Eventos do Município de Salvador, o dia 2 de abril como o Dia Municipal do Morganti Jiu-Jitsu. O PREFEITO DO MUNICÍPIO DO SALVADOR, CAPITAL DO ESTADO DA BAHIA, Faço saber que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
+
+**Art. 1º** Fica instituído, no Calendário Oficial de Eventos do Município de Salvador, o Dia Municipal do Morganti Jiu-Jitsu, a ser comemorado, anualmente, no dia 2 de abril.
+
+**Art. 2º** Esta Lei deverá ser divulgada e afixada nos meios de comunicação da Prefeitura, nas administrações regionais, escolas municipais, espaços esportivos da rede municipal, unidades de saúde e outras repartições públicas do município de Salvador.
+
+**Art. 3º** As despesas decorrentes desta Lei correrão por conta de dotações orçamentárias próprias.
+
+**Art. 4º** Esta Lei entra em vigor na data da sua publicação. GABINETE DO PREFEITO DO MUNICÍPIO DO SALVADOR, em 09 de outubro de 2023 . BRUNO SOARES REIS Prefeito CARLOS FELIPE VAZQUEZ DE SOUZA LEÃO Secretário de Governo ANTONIO JOSÉ DA CRUZ JUNIOR MAGALHÃES Secretário Municipal de Promoção Social, Combate à Pobreza, Esportes e Lazer

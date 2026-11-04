@@ -1,0 +1,48 @@
+{
+  "municipio": "Salvador",
+  "uf": "BA",
+  "codigo_ibge": "2927408",
+  "fonte_api": "https://portal-api.dioly.com.br/api/diarios/",
+  "rps": 2.0,
+  "consultas": [
+    "LEIS COMPLEMENTARES",
+    "a seguinte Lei Complementar:",
+    "sanciono a seguinte Lei Complementar",
+    "sanciono a seguinte Lei:",
+    "Altera dispositivos da Lei Complementar"
+  ],
+  "intervalo": [
+    "2013-01-01",
+    "2014-06-30"
+  ],
+  "tipo": "DOM",
+  "extrator": "dioly-raw-v2",
+  "extrator_geometria": "geometria-colunas-v2",
+  "sha256_geometria": "3d954c48700d49328c6d71f3d841cfc40394642e81e338c23d7c27cae175dcd5",
+  "sha256_classificador": "8e32cab60268d2d17b529fad97a7a0a5f1644efc7a5a2400bae9797d2d66778f",
+  "edicoes": 354,
+  "so_cache": false,
+  "rps_max": 2,
+  "modo": "leis-complementares",
+  "contagens": {
+    "sem_lc_promulgada": 352,
+    "ok": 2
+  },
+  "arquivos": [
+    "municipais/BA/salvador/leis-complementares/2013/leis-complementares-59-2013-dom-5935-lc-59.md",
+    "municipais/BA/salvador/leis-complementares/2014/leis-complementares-60-2014-dom-6023-lc-60.md"
+  ],
+  "numeros": [
+    "59",
+    "60"
+  ],
+  "resto": {
+    "janela_entregue": [
+      "2013-01-01",
+      "2014-06-30"
+    ],
+    "janela_restante": [],
+    "observacao": "Citações a LC no DOM (portaria, contrato, LRF, LC 140/2011 federal) não entram. Projetos de lei complementar ficam de fora. A janela 2011–2015 (~50 edições q=LEIS COMPLEMENTARES) fica para leva seguinte; lá já foram vistas LC 053, 054, 056–058, 060–062."
+  },
+  "baixado_em": "2026-10-28"
+}

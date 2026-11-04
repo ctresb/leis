@@ -1,0 +1,1047 @@
+{
+  "municipio": "Salvador",
+  "uf": "BA",
+  "codigo_ibge": "2927408",
+  "fonte_api": "https://portal-api.dioly.com.br/api/diarios/",
+  "rps": 2.0,
+  "consultas": [
+    "RESOLUÇÃO Nº",
+    "promulga a seguinte Resolução"
+  ],
+  "completo": false,
+  "intervalo": [
+    "2010-01-01",
+    "2016-12-31"
+  ],
+  "tipo": "DOL",
+  "extrator": "dioly-raw-v2",
+  "extrator_geometria": "geometria-colunas-v2",
+  "sha256_geometria": "3d954c48700d49328c6d71f3d841cfc40394642e81e338c23d7c27cae175dcd5",
+  "sha256_classificador": "5e13290c9fbb8307e11c641c79077c5df9d4f8f053305a6ae22dababc33b710b",
+  "edicoes": 254,
+  "so_cache": false,
+  "rps_max": 2,
+  "modo": "resolucoes",
+  "contagens": {
+    "ok": 63,
+    "sem_ato_promulgado": 191
+  },
+  "arquivos": [
+    "municipais/BA/salvador/resolucoes/2009/resolucoes-1964-2009-dol-3361-res-1964.md",
+    "municipais/BA/salvador/resolucoes/2009/resolucoes-1965-2009-dol-3361-res-1965.md",
+    "municipais/BA/salvador/resolucoes/2009/resolucoes-1969-2009-dol-3364-res-1969.md",
+    "municipais/BA/salvador/resolucoes/2009/resolucoes-1970-2009-dol-3364-res-1970.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-1971-2010-dol-3368-res-1971.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-1972-2010-dol-3368-res-1972.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-1973-2010-dol-3405-res-1973.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-1974-2010-dol-3406-res-1974.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-1975-2010-dol-3406-res-1975.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-1976-2010-dol-3414-res-1976.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-1977-2010-dol-3414-res-1977.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-1978-2010-dol-3414-res-1978.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-1979-2010-dol-3415-res-1979.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-1980-2010-dol-3415-res-1980.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-1981-2010-dol-3416-res-1981.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-1982-2010-dol-3416-res-1982.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-1983-2010-dol-3416-res-1983.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-1984-2010-dol-3416-res-1984.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-1988-2010-dol-3417-res-1988.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-1989-2010-dol-3417-res-1989.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-1992-2010-dol-3423-res-1992.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-1993-2010-dol-3423-res-1993.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-1997-2010-dol-3481-res-1997.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-1998-2010-dol-3481-res-1998.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-1999-2010-dol-3481-res-1999.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-2000-2010-dol-3482-res-2000.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-2001-2010-dol-3482-res-2001.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-2002-2010-dol-3482-res-2002.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-2003-2010-dol-3483-res-2003.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-2004-2010-dol-3483-res-2004.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-2005-2010-dol-3483-res-2005.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-2006-2010-dol-3484-res-2006.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-2007-2010-dol-3484-res-2007.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-2008-2010-dol-3484-res-2008.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-2009-2010-dol-3485-res-2009.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-2010-2010-dol-3485-res-2010.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-2011-2010-dol-3485-res-2011.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-2012-2010-dol-3486-res-2012.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-2013-2010-dol-3486-res-2013.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-2014-2010-dol-3486-res-2014.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-2015-2010-dol-3487-res-2015.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-2016-2010-dol-3487-res-2016.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-2017-2010-dol-3487-res-2017.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-2021-2010-dol-3541-res-2021.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-2022-2010-dol-3541-res-2022.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-2023-2010-dol-3542-res-2023.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-2024-2010-dol-3542-res-2024.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-2025-2010-dol-3542-res-2025.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-2026-2010-dol-3557-res-2026.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-2027-2010-dol-3557-res-2027.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-2028-2010-dol-3557-res-2028.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-2029-2010-dol-3557-res-2029.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-2030-2010-dol-3558-res-2030.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-2031-2010-dol-3558-res-2031.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-2032-2010-dol-3558-res-2032.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-2033-2010-dol-3558-res-2033.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-2034-2010-dol-3559-res-2034.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-2035-2010-dol-3559-res-2035.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-2036-2010-dol-3559-res-2036.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-2037-2010-dol-3559-res-2037.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-2038-2010-dol-3559-res-2038.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-2039-2010-dol-3559-res-2039.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-2040-2010-dol-3561-res-2040.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-2041-2010-dol-3560-res-2041.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-2042-2010-dol-3560-res-2042.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-2043-2010-dol-3562-res-2043.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-2044-2010-dol-3562-res-2044.md",
+    "municipais/BA/salvador/resolucoes/2010/resolucoes-2045-2010-dol-3562-res-2045.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2047-2011-dol-3657-res-2047.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2048-2011-dol-3657-res-2048.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2049-2011-dol-3657-res-2049.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2050-2011-dol-3657-res-2050.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2051-2011-dol-3657-res-2051.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2052-2011-dol-3657-res-2052.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2053-2011-dol-3657-res-2053.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2054-2011-dol-3658-res-2054.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2055-2011-dol-3658-res-2055.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2056-2011-dol-3658-res-2056.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2057-2011-dol-3658-res-2057.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2058-2011-dol-3658-res-2058.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2059-2011-dol-3658-res-2059.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2060-2011-dol-3658-res-2060.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2061-2011-dol-3658-res-2061.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2062-2011-dol-3665-res-2062.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2063-2011-dol-3665-res-2063.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2064-2011-dol-3665-res-2064.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2065-2011-dol-3665-res-2065.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2067-2011-dol-3666-res-2067.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2068-2011-dol-3666-res-2068.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2069-2011-dol-3666-res-2069.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2070-2011-dol-3666-res-2070.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2071-2011-dol-3666-res-2071.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2072-2011-dol-3667-res-2072.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2073-2011-dol-3667-res-2073.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2074-2011-dol-3667-res-2074.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2075-2011-dol-3667-res-2075.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2076-2011-dol-3667-res-2076.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2077-2011-dol-3678-res-2077.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2078-2011-dol-3679-res-2078.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2079-2011-dol-3679-res-2079.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2080-2011-dol-3679-res-2080.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2081-2011-dol-3679-res-2081.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2082-2011-dol-3679-res-2082.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2083-2011-dol-3680-res-2083.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2084-2011-dol-3680-res-2084.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2085-2011-dol-3680-res-2085.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2086-2011-dol-3680-res-2086.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2087-2011-dol-3680-res-2087.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2088-2011-dol-3687-res-2088.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2089-2011-dol-3687-res-2089.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2090-2011-dol-3687-res-2090.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2091-2011-dol-3687-res-2091.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2092-2011-dol-3688-res-2092.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2093-2011-dol-3688-res-2093.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2094-2011-dol-3688-res-2094.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2095-2011-dol-3688-res-2095.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2096-2011-dol-3692-res-2096.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2098-2011-dol-3711-res-2098.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2099-2011-dol-3711-res-2099.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2100-2011-dol-3711-res-2100.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2101-2011-dol-3711-res-2101.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2102-2011-dol-3712-res-2102.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2103-2011-dol-3712-res-2103.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2104-2011-dol-3712-res-2104.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2105-2011-dol-3712-res-2105.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2106-2011-dol-3713-res-2106.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2107-2011-dol-3713-res-2107.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2108-2011-dol-3713-res-2108.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2109-2011-dol-3713-res-2109.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2110-2011-dol-3713-res-2110.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2111-2011-dol-3714-res-2111.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2112-2011-dol-3714-res-2112.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2113-2011-dol-3714-res-2113.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2114-2011-dol-3714-res-2114.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2115-2011-dol-3714-res-2115.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2117-2011-dol-3737-res-2117.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2118-2011-dol-3737-res-2118.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2119-2011-dol-3737-res-2119.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2133-2011-dol-3753-res-2133.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2134-2011-dol-3753-res-2134.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2135-2011-dol-3753-res-2135.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2136-2011-dol-3753-res-2136.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2138-2011-dol-3758-res-2138.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2139-2011-dol-3758-res-2139.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2140-2011-dol-3758-res-2140.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2141-2011-dol-3758-res-2141.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2142-2011-dol-3769-res-2142.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2143-2011-dol-3769-res-2143.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2144-2011-dol-3770-res-2144.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2145-2011-dol-3770-res-2145.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2146-2011-dol-3770-res-2146.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2147-2011-dol-3770-res-2147.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2148-2011-dol-3771-res-2148.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2149-2011-dol-3771-res-2149.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2150-2011-dol-3771-res-2150.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2151-2011-dol-3771-res-2151.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2153-2011-dol-3772-res-2153.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2154-2011-dol-3772-res-2154.md",
+    "municipais/BA/salvador/resolucoes/2011/resolucoes-2155-2011-dol-3772-res-2155.md",
+    "municipais/BA/salvador/resolucoes/2012/resolucoes-2181-2012-dol-3824-res-2181.md",
+    "municipais/BA/salvador/resolucoes/2012/resolucoes-2182-2012-dol-3824-res-2182.md",
+    "municipais/BA/salvador/resolucoes/2012/resolucoes-2183-2012-dol-3824-res-2183.md",
+    "municipais/BA/salvador/resolucoes/2012/resolucoes-2187-2012-dol-3826-res-2187.md",
+    "municipais/BA/salvador/resolucoes/2012/resolucoes-2188-2012-dol-3826-res-2188.md",
+    "municipais/BA/salvador/resolucoes/2012/resolucoes-2189-2012-dol-3833-res-2189.md",
+    "municipais/BA/salvador/resolucoes/2012/resolucoes-2196-2012-dol-3850-res-2196.md",
+    "municipais/BA/salvador/resolucoes/2012/resolucoes-2198-2012-dol-3850-res-2198.md",
+    "municipais/BA/salvador/resolucoes/2012/resolucoes-2199-2012-dol-3850-res-2199.md",
+    "municipais/BA/salvador/resolucoes/2012/resolucoes-2263-2012-dol-3974-res-2263.md",
+    "municipais/BA/salvador/resolucoes/2012/resolucoes-2264-2012-dol-3974-res-2264.md",
+    "municipais/BA/salvador/resolucoes/2013/resolucoes-2317-2013-dol-4153-res-2317.md",
+    "municipais/BA/salvador/resolucoes/2013/resolucoes-2318-2013-dol-4153-res-2318.md",
+    "municipais/BA/salvador/resolucoes/2013/resolucoes-2319-2013-dol-4153-res-2319.md",
+    "municipais/BA/salvador/resolucoes/2013/resolucoes-2320-2013-dol-4154-res-2320.md",
+    "municipais/BA/salvador/resolucoes/2013/resolucoes-2321-2013-dol-4154-res-2321.md",
+    "municipais/BA/salvador/resolucoes/2013/resolucoes-2322-2013-dol-4154-res-2322.md",
+    "municipais/BA/salvador/resolucoes/2013/resolucoes-2323-2013-dol-4154-res-2323.md",
+    "municipais/BA/salvador/resolucoes/2013/resolucoes-2324-2013-dol-4159-res-2324.md",
+    "municipais/BA/salvador/resolucoes/2013/resolucoes-2328-2013-dol-4183-res-2328.md",
+    "municipais/BA/salvador/resolucoes/2013/resolucoes-2332-2013-dol-4183-res-2332.md",
+    "municipais/BA/salvador/resolucoes/2013/resolucoes-2338-2013-dol-4212-res-2338.md",
+    "municipais/BA/salvador/resolucoes/2016/resolucoes-2488-2016-dol-4727-res-2488.md",
+    "municipais/BA/salvador/resolucoes/2016/resolucoes-2489-2016-dol-4727-res-2489.md",
+    "municipais/BA/salvador/resolucoes/2016/resolucoes-2490-2016-dol-4727-res-2490.md",
+    "municipais/BA/salvador/resolucoes/2016/resolucoes-2491-2016-dol-4727-res-2491.md",
+    "municipais/BA/salvador/resolucoes/2016/resolucoes-2504-2016-dol-4780-res-2504.md",
+    "municipais/BA/salvador/resolucoes/2016/resolucoes-2518-2016-dol-4787-res-2518.md",
+    "municipais/BA/salvador/resolucoes/2016/resolucoes-2519-2016-dol-4800-res-2519.md",
+    "municipais/BA/salvador/resolucoes/2016/resolucoes-2520-2016-dol-4800-res-2520.md",
+    "municipais/BA/salvador/resolucoes/2016/resolucoes-2521-2016-dol-4800-res-2521.md",
+    "municipais/BA/salvador/resolucoes/2016/resolucoes-2528-2016-dol-4821-res-2528.md",
+    "municipais/BA/salvador/resolucoes/2016/resolucoes-2529-2016-dol-4821-res-2529.md",
+    "municipais/BA/salvador/resolucoes/2016/resolucoes-2530-2016-dol-4829-res-2530.md",
+    "municipais/BA/salvador/resolucoes/2016/resolucoes-2531-2016-dol-4829-res-2531.md",
+    "municipais/BA/salvador/resolucoes/2016/resolucoes-2532-2016-dol-4829-res-2532.md",
+    "municipais/BA/salvador/resolucoes/2016/resolucoes-2533-2016-dol-4829-res-2533.md",
+    "municipais/BA/salvador/resolucoes/2016/resolucoes-2534-2016-dol-4829-res-2534.md",
+    "municipais/BA/salvador/resolucoes/2016/resolucoes-2535-2016-dol-4829-res-2535.md",
+    "municipais/BA/salvador/resolucoes/2016/resolucoes-2536-2016-dol-4829-res-2536.md",
+    "municipais/BA/salvador/resolucoes/2016/resolucoes-2537-2016-dol-4829-res-2537.md",
+    "municipais/BA/salvador/resolucoes/2016/resolucoes-2538-2016-dol-4829-res-2538.md",
+    "municipais/BA/salvador/resolucoes/2016/resolucoes-2539-2016-dol-4829-res-2539.md"
+  ],
+  "numeros": [
+    "1964/2009",
+    "1965/2009",
+    "1969/2009",
+    "1970/2009",
+    "1971/2010",
+    "1972/2010",
+    "1973/2010",
+    "1974/2010",
+    "1975/2010",
+    "1976/2010",
+    "1977/2010",
+    "1978/2010",
+    "1979/2010",
+    "1980/2010",
+    "1981/2010",
+    "1982/2010",
+    "1983/2010",
+    "1984/2010",
+    "1988/2010",
+    "1989/2010",
+    "1992/2010",
+    "1993/2010",
+    "1997/2010",
+    "1998/2010",
+    "1999/2010",
+    "2000/2010",
+    "2001/2010",
+    "2002/2010",
+    "2003/2010",
+    "2004/2010",
+    "2005/2010",
+    "2006/2010",
+    "2007/2010",
+    "2008/2010",
+    "2009/2010",
+    "2010/2010",
+    "2011/2010",
+    "2012/2010",
+    "2013/2010",
+    "2014/2010",
+    "2015/2010",
+    "2016/2010",
+    "2017/2010",
+    "2021/2010",
+    "2022/2010",
+    "2023/2010",
+    "2024/2010",
+    "2025/2010",
+    "2026/2010",
+    "2027/2010",
+    "2028/2010",
+    "2029/2010",
+    "2030/2010",
+    "2031/2010",
+    "2032/2010",
+    "2033/2010",
+    "2034/2010",
+    "2035/2010",
+    "2036/2010",
+    "2037/2010",
+    "2038/2010",
+    "2039/2010",
+    "2040/2010",
+    "2041/2010",
+    "2042/2010",
+    "2043/2010",
+    "2044/2010",
+    "2045/2010",
+    "2047/2011",
+    "2048/2011",
+    "2049/2011",
+    "2050/2011",
+    "2051/2011",
+    "2052/2011",
+    "2053/2011",
+    "2054/2011",
+    "2055/2011",
+    "2056/2011",
+    "2057/2011",
+    "2058/2011",
+    "2059/2011",
+    "2060/2011",
+    "2061/2011",
+    "2062/2011",
+    "2063/2011",
+    "2064/2011",
+    "2065/2011",
+    "2067/2011",
+    "2068/2011",
+    "2069/2011",
+    "2070/2011",
+    "2071/2011",
+    "2072/2011",
+    "2073/2011",
+    "2074/2011",
+    "2075/2011",
+    "2076/2011",
+    "2077/2011",
+    "2078/2011",
+    "2079/2011",
+    "2080/2011",
+    "2081/2011",
+    "2082/2011",
+    "2083/2011",
+    "2084/2011",
+    "2085/2011",
+    "2086/2011",
+    "2087/2011",
+    "2088/2011",
+    "2089/2011",
+    "2090/2011",
+    "2091/2011",
+    "2092/2011",
+    "2093/2011",
+    "2094/2011",
+    "2095/2011",
+    "2096/2011",
+    "2098/2011",
+    "2099/2011",
+    "2100/2011",
+    "2101/2011",
+    "2102/2011",
+    "2103/2011",
+    "2104/2011",
+    "2105/2011",
+    "2106/2011",
+    "2107/2011",
+    "2108/2011",
+    "2109/2011",
+    "2110/2011",
+    "2111/2011",
+    "2112/2011",
+    "2113/2011",
+    "2114/2011",
+    "2115/2011",
+    "2117/2011",
+    "2118/2011",
+    "2119/2011",
+    "2133/2011",
+    "2134/2011",
+    "2135/2011",
+    "2136/2011",
+    "2138/2011",
+    "2139/2011",
+    "2140/2011",
+    "2141/2011",
+    "2142/2011",
+    "2143/2011",
+    "2144/2011",
+    "2145/2011",
+    "2146/2011",
+    "2147/2011",
+    "2148/2011",
+    "2149/2011",
+    "2150/2011",
+    "2151/2011",
+    "2153/2011",
+    "2154/2011",
+    "2155/2011",
+    "2181/2012",
+    "2182/2012",
+    "2183/2012",
+    "2187/2012",
+    "2188/2012",
+    "2189/2012",
+    "2196/2012",
+    "2198/2012",
+    "2199/2012",
+    "2263/2012",
+    "2264/2012",
+    "2317/2013",
+    "2318/2013",
+    "2319/2013",
+    "2320/2013",
+    "2321/2013",
+    "2322/2013",
+    "2323/2013",
+    "2324/2013",
+    "2328/2013",
+    "2332/2013",
+    "2338/2013",
+    "2488/2016",
+    "2489/2016",
+    "2490/2016",
+    "2491/2016",
+    "2504/2016",
+    "2518/2016",
+    "2519/2016",
+    "2520/2016",
+    "2521/2016",
+    "2528/2016",
+    "2529/2016",
+    "2530/2016",
+    "2531/2016",
+    "2532/2016",
+    "2533/2016",
+    "2534/2016",
+    "2535/2016",
+    "2536/2016",
+    "2537/2016",
+    "2538/2016",
+    "2539/2016"
+  ],
+  "descartes": [
+    {
+      "numero": "2066",
+      "ano": "2011",
+      "edicao": 3665,
+      "motivo": "texto misturado com notícia do jornal"
+    },
+    {
+      "numero": "2066",
+      "ano": "2011",
+      "edicao": 3665,
+      "motivo": "texto misturado com notícia do jornal"
+    },
+    {
+      "numero": "2082",
+      "ano": "2011",
+      "edicao": 3679,
+      "motivo": "texto misturado com notícia do jornal"
+    },
+    {
+      "numero": "2087",
+      "ano": "2011",
+      "edicao": 3680,
+      "motivo": "Sala das Sessões longe do último artigo (recorte misturado)"
+    },
+    {
+      "numero": "2161",
+      "ano": "2011",
+      "edicao": 3813,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2157",
+      "ano": "2011",
+      "edicao": 3813,
+      "motivo": "Sala das Sessões fora do ano/da edição (reprodução ou citação)"
+    },
+    {
+      "numero": "2158",
+      "ano": "2011",
+      "edicao": 3813,
+      "motivo": "Sala das Sessões fora do ano/da edição (reprodução ou citação)"
+    },
+    {
+      "numero": "2159",
+      "ano": "2011",
+      "edicao": 3813,
+      "motivo": "Sala das Sessões fora do ano/da edição (reprodução ou citação)"
+    },
+    {
+      "numero": "2160",
+      "ano": "2011",
+      "edicao": 3813,
+      "motivo": "Sala das Sessões fora do ano/da edição (reprodução ou citação)"
+    },
+    {
+      "numero": "2162",
+      "ano": "2011",
+      "edicao": 3813,
+      "motivo": "Sala das Sessões fora do ano/da edição (reprodução ou citação)"
+    },
+    {
+      "numero": "2163",
+      "ano": "2011",
+      "edicao": 3814,
+      "motivo": "Sala das Sessões fora do ano/da edição (reprodução ou citação)"
+    },
+    {
+      "numero": "2164",
+      "ano": "2011",
+      "edicao": 3814,
+      "motivo": "Sala das Sessões fora do ano/da edição (reprodução ou citação)"
+    },
+    {
+      "numero": "2165",
+      "ano": "2011",
+      "edicao": 3814,
+      "motivo": "Sala das Sessões fora do ano/da edição (reprodução ou citação)"
+    },
+    {
+      "numero": "2166",
+      "ano": "2011",
+      "edicao": 3814,
+      "motivo": "Sala das Sessões fora do ano/da edição (reprodução ou citação)"
+    },
+    {
+      "numero": "2167",
+      "ano": "2011",
+      "edicao": 3814,
+      "motivo": "Sala das Sessões fora do ano/da edição (reprodução ou citação)"
+    },
+    {
+      "numero": "2168",
+      "ano": "2011",
+      "edicao": 3814,
+      "motivo": "Sala das Sessões fora do ano/da edição (reprodução ou citação)"
+    },
+    {
+      "numero": "2169",
+      "ano": "2011",
+      "edicao": 3815,
+      "motivo": "Sala das Sessões fora do ano/da edição (reprodução ou citação)"
+    },
+    {
+      "numero": "2170",
+      "ano": "2011",
+      "edicao": 3815,
+      "motivo": "Sala das Sessões fora do ano/da edição (reprodução ou citação)"
+    },
+    {
+      "numero": "2171",
+      "ano": "2011",
+      "edicao": 3815,
+      "motivo": "Sala das Sessões fora do ano/da edição (reprodução ou citação)"
+    },
+    {
+      "numero": "2172",
+      "ano": "2011",
+      "edicao": 3815,
+      "motivo": "Sala das Sessões fora do ano/da edição (reprodução ou citação)"
+    },
+    {
+      "numero": "2173",
+      "ano": "2011",
+      "edicao": 3815,
+      "motivo": "Sala das Sessões fora do ano/da edição (reprodução ou citação)"
+    },
+    {
+      "numero": "2174",
+      "ano": "2011",
+      "edicao": 3815,
+      "motivo": "Sala das Sessões fora do ano/da edição (reprodução ou citação)"
+    },
+    {
+      "numero": "2175",
+      "ano": "2011",
+      "edicao": 3816,
+      "motivo": "Sala das Sessões fora do ano/da edição (reprodução ou citação)"
+    },
+    {
+      "numero": "2176",
+      "ano": "2011",
+      "edicao": 3816,
+      "motivo": "Sala das Sessões fora do ano/da edição (reprodução ou citação)"
+    },
+    {
+      "numero": "2177",
+      "ano": "2011",
+      "edicao": 3816,
+      "motivo": "Sala das Sessões fora do ano/da edição (reprodução ou citação)"
+    },
+    {
+      "numero": "2178",
+      "ano": "2011",
+      "edicao": 3816,
+      "motivo": "Sala das Sessões fora do ano/da edição (reprodução ou citação)"
+    },
+    {
+      "numero": "2179",
+      "ano": "2011",
+      "edicao": 3816,
+      "motivo": "Sala das Sessões fora do ano/da edição (reprodução ou citação)"
+    },
+    {
+      "numero": "2180",
+      "ano": "2011",
+      "edicao": 3816,
+      "motivo": "Sala das Sessões fora do ano/da edição (reprodução ou citação)"
+    },
+    {
+      "numero": "2342",
+      "ano": "2014",
+      "edicao": 4218,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2343",
+      "ano": "2014",
+      "edicao": 4218,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2342",
+      "ano": "2013",
+      "edicao": 4237,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2343",
+      "ano": "2013",
+      "edicao": 4237,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2344",
+      "ano": "2013",
+      "edicao": 4237,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2345",
+      "ano": "2013",
+      "edicao": 4237,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2346",
+      "ano": "2013",
+      "edicao": 4237,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2347",
+      "ano": "2014",
+      "edicao": 4308,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2348",
+      "ano": "2014",
+      "edicao": 4308,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2349",
+      "ano": "2014",
+      "edicao": 4308,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2350",
+      "ano": "2014",
+      "edicao": 4308,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2351",
+      "ano": "2014",
+      "edicao": 4308,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2352",
+      "ano": "2014",
+      "edicao": 4308,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2353",
+      "ano": "2014",
+      "edicao": 4308,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2354",
+      "ano": "2014",
+      "edicao": 4308,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2355",
+      "ano": "2014",
+      "edicao": 4308,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2356",
+      "ano": "2014",
+      "edicao": 4313,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2365",
+      "ano": "2014",
+      "edicao": 4313,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2366",
+      "ano": "2014",
+      "edicao": 4313,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2367",
+      "ano": "2014",
+      "edicao": 4313,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2368",
+      "ano": "2014",
+      "edicao": 4313,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2369",
+      "ano": "2014",
+      "edicao": 4313,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2370",
+      "ano": "2014",
+      "edicao": 4313,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2371",
+      "ano": "2014",
+      "edicao": 4313,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2372",
+      "ano": "2014",
+      "edicao": 4313,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2373",
+      "ano": "2014",
+      "edicao": 4313,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2374",
+      "ano": "2014",
+      "edicao": 4313,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2375",
+      "ano": "2014",
+      "edicao": 4313,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2379",
+      "ano": "2014",
+      "edicao": 4341,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2380",
+      "ano": "2014",
+      "edicao": 4341,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2381",
+      "ano": "2014",
+      "edicao": 4341,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2382",
+      "ano": "2014",
+      "edicao": 4350,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2383",
+      "ano": "2014",
+      "edicao": 4372,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2384",
+      "ano": "2014",
+      "edicao": 4372,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2385",
+      "ano": "2014",
+      "edicao": 4372,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2386",
+      "ano": "2014",
+      "edicao": 4372,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2387",
+      "ano": "2014",
+      "edicao": 4434,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2388",
+      "ano": "2014",
+      "edicao": 4434,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2389",
+      "ano": "2014",
+      "edicao": 4434,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2393",
+      "ano": "2014",
+      "edicao": 4436,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2394",
+      "ano": "2014",
+      "edicao": 4436,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2400",
+      "ano": "2015",
+      "edicao": 4504,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2401",
+      "ano": "2015",
+      "edicao": 4504,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2402",
+      "ano": "2015",
+      "edicao": 4504,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2403",
+      "ano": "2015",
+      "edicao": 4504,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2404",
+      "ano": "2015",
+      "edicao": 4504,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2405",
+      "ano": "2015",
+      "edicao": 4504,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2406",
+      "ano": "2015",
+      "edicao": 4504,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2407",
+      "ano": "2015",
+      "edicao": 4504,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2408",
+      "ano": "2015",
+      "edicao": 4504,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2409",
+      "ano": "2015",
+      "edicao": 4504,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2410",
+      "ano": "2015",
+      "edicao": 4504,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2411",
+      "ano": "2015",
+      "edicao": 4504,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2412",
+      "ano": "2015",
+      "edicao": 4504,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2432",
+      "ano": "2015",
+      "edicao": 4561,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2433",
+      "ano": "2015",
+      "edicao": 4561,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2434",
+      "ano": "2015",
+      "edicao": 4561,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2435",
+      "ano": "2015",
+      "edicao": 4571,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2436",
+      "ano": "2015",
+      "edicao": 4576,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2437",
+      "ano": "2015",
+      "edicao": 4576,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2438",
+      "ano": "2015",
+      "edicao": 4576,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2445",
+      "ano": "2015",
+      "edicao": 4584,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2446",
+      "ano": "2015",
+      "edicao": 4584,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2447",
+      "ano": "2015",
+      "edicao": 4584,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2448",
+      "ano": "2015",
+      "edicao": 4584,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2449",
+      "ano": "2015",
+      "edicao": 4589,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2450",
+      "ano": "2015",
+      "edicao": 4595,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2451",
+      "ano": "2015",
+      "edicao": 4609,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2452",
+      "ano": "2015",
+      "edicao": 4609,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2453",
+      "ano": "2015",
+      "edicao": 4610,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2454",
+      "ano": "2015",
+      "edicao": 4610,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2455",
+      "ano": "2015",
+      "edicao": 4610,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    },
+    {
+      "numero": "2480",
+      "ano": "2015",
+      "edicao": 4693,
+      "motivo": "sem Art. 1º + promulgação + Sala das Sessões no recorte"
+    }
+  ],
+  "observacao": "Só atos promulgados pela Mesa da CMS (epígrafe em linha própria, Art. 1º, fórmula promulga/faz saber, Sala das Sessões datada no ano da epígrafe e até 1 ano antes da edição). Projetos, indicações, citações em ata/expediente e reproduções antigas não entram. Recorte termina nas assinaturas da Mesa.",
+  "baixado_em": "2026-10-28"
+}
