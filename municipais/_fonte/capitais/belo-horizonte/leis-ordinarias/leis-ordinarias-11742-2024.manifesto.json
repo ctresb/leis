@@ -1,0 +1,36 @@
+{
+  "municipio": "Belo Horizonte",
+  "uf": "MG",
+  "codigo_ibge": "3106200",
+  "tipo": "Lei Ordinária",
+  "categoria": "leis-ordinarias",
+  "numero": "11742",
+  "data": "2024-09-13",
+  "data_publicacao": "2024-09-14",
+  "titulo": "Lei nº 11.742, de 13 de setembro de 2024",
+  "slug": "leis-ordinarias-11742-2024",
+  "arquivo_sil": "lei11742.doc",
+  "ementa_sil": "Dispõe sobre as diretrizes para a elaboração da Lei do Orçamento Anual de 2025 e dá outras providências.",
+  "fonte": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/lei/11742/2024",
+  "fonte_texto": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f7691e05fc50191fac3e4be0066",
+  "sil_id_doc_da_norma": "2c907f7691e05fc50191fac3e4be0066",
+  "sil_tipo_id": "2c907f78064b443701064b444c020008",
+  "arquivo": "municipais/MG/belo-horizonte/leis-ordinarias/2024/leis-ordinarias-11742-2024.md",
+  "sha256": "1aba8ec2661eac52ebe4b48a9f452fecb96eb3cef9b46c7b280fa6850cefe5d3",
+  "arquivo_fonte": "municipais/_fonte/capitais/belo-horizonte/leis-ordinarias/leis-ordinarias-11742-2024.doc",
+  "sha256_fonte": "43bbe638b4ddd06353fe0fa8c28207fa19f0499da9cadc9ed76cba3679c4eedb",
+  "sha256_corpo": "9a6c55a3368992131153c3ad10c4da35a30c6a118b5cd0f8ecd3c7c53f45bb2c",
+  "ibge_sha256": "d9eec8439bc8c5dc2f7db6332a8e5569f5a3f637988e26aebc513412d4069d5c",
+  "verificado_em": "2026-10-28T21:23:21.179497",
+  "anexos": [
+    {
+      "nome": "lei11742 - anexos.docx",
+      "sil_id_doc_da_norma": "2c907f7691e05fc50191fa701f2a0050",
+      "fonte_texto": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f7691e05fc50191fa701f2a0050",
+      "arquivo_fonte": "municipais/_fonte/capitais/belo-horizonte/leis-ordinarias/lei11742-anexos.docx",
+      "sha256_fonte": "6b5c8031e5af78d8f95b19f1859675921ff93b99107714a1b2238e214b9f0255",
+      "bytes": 1775396
+    }
+  ],
+  "observacao": "Varredura nº a nº no SIL (listagem só por ano vazia); somente leis promulgadas; anexos são binários da mesma norma."
+}

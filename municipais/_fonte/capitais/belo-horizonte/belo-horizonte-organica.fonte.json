@@ -1,0 +1,18 @@
+{
+  "url": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f76a0ee650c01a0fc97127701cf",
+  "filename": "LOMBH-atual.doc",
+  "sha256": "935c44b2ee4d91cd6eccd230b3808632943d416c213d932d4174df2b05256606",
+  "obtido_em": "2026-10-28T19:08:25+00:00",
+  "http_status": 200,
+  "content_length": 784384,
+  "content_type": "application/octet-stream",
+  "content_disposition": "attachment;filename= \"LOMBH-atual.doc\"",
+  "formato": "application/msword (OLE Compound File)",
+  "pagina_catalogo": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/lei-organica",
+  "sil_tipo": "Lei Orgânica - NÃO ORIGINÁRIA DO SIL Tramitação",
+  "sil_tipo_id": "2c907f7619968b1a011a0179819f12aa",
+  "sil_id_doc_da_norma": "2c907f76a0ee650c01a0fc97127701cf",
+  "promulgacao": "1990-03-21",
+  "publicacao": "1990-03-22",
+  "captura": "download oficial HTTP 200 em cmbhsildownload.cmbh.mg.gov.br; WAF não bloqueou; sem Wayback"
+}

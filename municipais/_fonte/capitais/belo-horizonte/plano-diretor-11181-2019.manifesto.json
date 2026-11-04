@@ -1,0 +1,320 @@
+{
+  "municipio": "Belo Horizonte",
+  "uf": "MG",
+  "codigo_ibge": "3106200",
+  "tipo": "Plano diretor",
+  "categoria": "plano-diretor",
+  "numero": "11181",
+  "data": "2019-08-08",
+  "data_publicacao": "2019-08-09",
+  "titulo": "Lei nº 11.181, de 8 de agosto de 2019",
+  "slug": "plano-diretor-11181-2019",
+  "cache": "lei11181-atual.doc",
+  "fonte": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/lei/11181/2019",
+  "fonte_texto": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f7693d91e4901941d35b6360152",
+  "sil_id_doc_da_norma": "2c907f7693d91e4901941d35b6360152",
+  "versao_texto": "compilação oficial da CMBH (lei11181-atual.doc no SIL), promulgação 08/08/2019 e publicação 09/08/2019; 32 anexos oficiais (mapas I–X e VII.1–VII.13, glossário XI, parâmetros XII, classificação XIII–XVI, coeficientes XVII, OUS XVIII–XIX) preservados como binários da mesma norma, sem contar cada anexo como lei nova; não certifica atualização posterior",
+  "marcas_obrigatorias": [
+    "LEI Nº 11.181, DE 8 DE AGOSTO DE 2019",
+    "Aprova o Plano Diretor do Município de Belo Horizonte",
+    "Belo Horizonte, 8 de agosto de 2019"
+  ],
+  "arquivo": "municipais/MG/belo-horizonte/plano-diretor/2019/plano-diretor-11181-2019.md",
+  "sha256": "285248f6dcb1eaadd3abb7934ca804d5b44a43498dcc962f6f8e63e399c98005",
+  "arquivo_fonte": "municipais/_fonte/capitais/belo-horizonte/lei11181-atual.doc",
+  "sha256_fonte": "1c53cb18ea2154bfcd5a23730e1ac57ca587cafc1e289b6ed00c16296769298b",
+  "sha256_corpo": "07c7fc5c7de43e7d63f18aa5529d41f9a891037ee4e5c6fb4c67aa8b232f5a53",
+  "ibge_sha256": "d9eec8439bc8c5dc2f7db6332a8e5569f5a3f637988e26aebc513412d4069d5c",
+  "verificado_em": "2026-10-28T20:47:38.538231",
+  "anexos": [
+    {
+      "nome": "lei11181 - Anexo I - Mapa de Estrutura Urbana Zoneamento.pdf",
+      "cache": "lei11181-anexo-i-mapa-de-estrutura-urbana-zoneamento.pdf",
+      "fonte_texto": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f766f673d3101701535698d01b9",
+      "sil_id_doc_da_norma": "2c907f766f673d3101701535698d01b9",
+      "arquivo_fonte": "municipais/_fonte/capitais/belo-horizonte/lei11181-anexo-i-mapa-de-estrutura-urbana-zoneamento.pdf",
+      "sha256_fonte": "c730d40da3b35f58c83213317de4cca62aa887da44ae3359833772230f0b0fa2",
+      "bytes": 6833152
+    },
+    {
+      "nome": "lei11181 - Anexo II - Mapa de Estrutura Ambiental.pdf",
+      "cache": "lei11181-anexo-ii-mapa-de-estrutura-ambiental.pdf",
+      "fonte_texto": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f766f673d31017015358e0f01bb",
+      "sil_id_doc_da_norma": "2c907f766f673d31017015358e0f01bb",
+      "arquivo_fonte": "municipais/_fonte/capitais/belo-horizonte/lei11181-anexo-ii-mapa-de-estrutura-ambiental.pdf",
+      "sha256_fonte": "e1e58d6bb3547abb10c22660e00279c30455a8f773c3ab41433b9782933ecaf8",
+      "bytes": 13109248
+    },
+    {
+      "nome": "lei11181 - Anexo III - Mapa de Áreas de Diretrizes Especiais.pdf",
+      "cache": "lei11181-anexo-iii-mapa-de-areas-de-diretrizes-especiais.pdf",
+      "fonte_texto": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f766f673d3101701535b5c401bd",
+      "sil_id_doc_da_norma": "2c907f766f673d3101701535b5c401bd",
+      "arquivo_fonte": "municipais/_fonte/capitais/belo-horizonte/lei11181-anexo-iii-mapa-de-areas-de-diretrizes-especiais.pdf",
+      "sha256_fonte": "d78b8604ab9c02264fd1168e4f291a08b99af9100546ade1fb3e5d9fda1f7877",
+      "bytes": 7392256
+    },
+    {
+      "nome": "lei11181 - Anexo IV - Mapa de Projetos Estratégicos.pdf",
+      "cache": "lei11181-anexo-iv-mapa-de-projetos-estrategicos.pdf",
+      "fonte_texto": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f766f673d3101701535ddfe01bf",
+      "sil_id_doc_da_norma": "2c907f766f673d3101701535ddfe01bf",
+      "arquivo_fonte": "municipais/_fonte/capitais/belo-horizonte/lei11181-anexo-iv-mapa-de-projetos-estrategicos.pdf",
+      "sha256_fonte": "b32ea78572309c0c1b60fa580e5bf77b074ae71a50da6b1088a7b080e6160e7a",
+      "bytes": 6749184
+    },
+    {
+      "nome": "lei11181 - Anexo V - Mapa de Hierarquização do Sistema Viário.pdf",
+      "cache": "lei11181-anexo-v-mapa-de-hierarquizacao-do-sistema-viario.pdf",
+      "fonte_texto": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f766f673d31017015360d7c01c1",
+      "sil_id_doc_da_norma": "2c907f766f673d31017015360d7c01c1",
+      "arquivo_fonte": "municipais/_fonte/capitais/belo-horizonte/lei11181-anexo-v-mapa-de-hierarquizacao-do-sistema-viario.pdf",
+      "sha256_fonte": "29997983dc4b7f78d7ad447900723d781e2ddb079e91bf169ea32dcbd438cacd",
+      "bytes": 7804928
+    },
+    {
+      "nome": "lei11181 - Anexo VI - Mapa Hierarquização do Sistema Viário - Permissividade - atual.pdf",
+      "cache": "lei11181-anexo-vi-mapa-hierarquizacao-do-sistema-viario-permissividade-atual.pdf",
+      "fonte_texto": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f769543c08e0195950fca7a00c1",
+      "sil_id_doc_da_norma": "2c907f769543c08e0195950fca7a00c1",
+      "arquivo_fonte": "municipais/_fonte/capitais/belo-horizonte/lei11181-anexo-vi-mapa-hierarquizacao-do-sistema-viario-permissividade-atual.pdf",
+      "sha256_fonte": "81ffca3ebd84094bdc8403c9f340399353773497d25a66f15f16779174aedf1e",
+      "bytes": 7807688
+    },
+    {
+      "nome": "lei11181 - Anexo VII - 1 - ADE Bacia da Pampulha - Setores.pdf",
+      "cache": "lei11181-anexo-vii-1-ade-bacia-da-pampulha-setores.pdf",
+      "fonte_texto": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f766f673d3101701536701b01c5",
+      "sil_id_doc_da_norma": "2c907f766f673d3101701536701b01c5",
+      "arquivo_fonte": "municipais/_fonte/capitais/belo-horizonte/lei11181-anexo-vii-1-ade-bacia-da-pampulha-setores.pdf",
+      "sha256_fonte": "7127845ddda6c05fc0c92437cbe7c8aedc32ad88a1ae721ea9593e69d0fea60a",
+      "bytes": 1781760
+    },
+    {
+      "nome": "lei11181 - Anexo VII - 2 - ADE - Belvedere - Belvedere III uso - atual.pdf",
+      "cache": "lei11181-anexo-vii-2-ade-belvedere-belvedere-iii-uso-atual.pdf",
+      "fonte_texto": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f7693d91e490193da74ed4b0031",
+      "sil_id_doc_da_norma": "2c907f7693d91e490193da74ed4b0031",
+      "arquivo_fonte": "municipais/_fonte/capitais/belo-horizonte/lei11181-anexo-vii-2-ade-belvedere-belvedere-iii-uso-atual.pdf",
+      "sha256_fonte": "a3666be9f6298b8058f3f53b2838f6de31b09de216e3505e81df1e3e5d465d2d",
+      "bytes": 725198
+    },
+    {
+      "nome": "lei11181 - Anexo VII - 3 - ADE Mangabeiras uso.pdf",
+      "cache": "lei11181-anexo-vii-3-ade-mangabeiras-uso.pdf",
+      "fonte_texto": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f766f673d31017015369dd701c9",
+      "sil_id_doc_da_norma": "2c907f766f673d31017015369dd701c9",
+      "arquivo_fonte": "municipais/_fonte/capitais/belo-horizonte/lei11181-anexo-vii-3-ade-mangabeiras-uso.pdf",
+      "sha256_fonte": "e523898db604eb501cd7caded1cab0e1a7d7647d2a565e668793389bf967df40",
+      "bytes": 435200
+    },
+    {
+      "nome": "lei11181 - Anexo VII - 4 - ADE São Bento - Setores usos - atual.pdf",
+      "cache": "lei11181-anexo-vii-4-ade-sao-bento-setores-usos-atual.pdf",
+      "fonte_texto": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f7693d91e490193da75143b0033",
+      "sil_id_doc_da_norma": "2c907f7693d91e490193da75143b0033",
+      "arquivo_fonte": "municipais/_fonte/capitais/belo-horizonte/lei11181-anexo-vii-4-ade-sao-bento-setores-usos-atual.pdf",
+      "sha256_fonte": "bba0d68d1ecd6b614b2eedac6ac9a8bba77dbd8da1d149ba1d8b6215284b4e81",
+      "bytes": 982050
+    },
+    {
+      "nome": "lei11181 - Anexo VII - 5 - ADE Buritis - Setores.pdf",
+      "cache": "lei11181-anexo-vii-5-ade-buritis-setores.pdf",
+      "fonte_texto": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f766f673d3101701536c58d01cd",
+      "sil_id_doc_da_norma": "2c907f766f673d3101701536c58d01cd",
+      "arquivo_fonte": "municipais/_fonte/capitais/belo-horizonte/lei11181-anexo-vii-5-ade-buritis-setores.pdf",
+      "sha256_fonte": "6329a6ed291befc3b2895f331bcb0f03f7aee0fa03be497380478dbbbfeea849",
+      "bytes": 576512
+    },
+    {
+      "nome": "lei11181 - Anexo VII - 6 - ADE Mirantes - Setores.pdf",
+      "cache": "lei11181-anexo-vii-6-ade-mirantes-setores.pdf",
+      "fonte_texto": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f766f673d3101701536e70901cf",
+      "sil_id_doc_da_norma": "2c907f766f673d3101701536e70901cf",
+      "arquivo_fonte": "municipais/_fonte/capitais/belo-horizonte/lei11181-anexo-vii-6-ade-mirantes-setores.pdf",
+      "sha256_fonte": "a664cd40f6c40f82eae3a998f7696aba4bd2172aa69b2ecff0ce8977e29f5e32",
+      "bytes": 7021568
+    },
+    {
+      "nome": "lei11181 - Anexo VII - 7 - ADE Contorno - Setores e ADEs.pdf",
+      "cache": "lei11181-anexo-vii-7-ade-contorno-setores-e-ades.pdf",
+      "fonte_texto": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f766f673d3101701537024001d1",
+      "sil_id_doc_da_norma": "2c907f766f673d3101701537024001d1",
+      "arquivo_fonte": "municipais/_fonte/capitais/belo-horizonte/lei11181-anexo-vii-7-ade-contorno-setores-e-ades.pdf",
+      "sha256_fonte": "c2eebcc049e9cde1d286d145746f3be6247a6f8e72ca9d988f2ab33892e5d96a",
+      "bytes": 1445888
+    },
+    {
+      "nome": "lei11181 - Anexo VII - 8 - ADE Distrito da moda - Setores.pdf",
+      "cache": "lei11181-anexo-vii-8-ade-distrito-da-moda-setores.pdf",
+      "fonte_texto": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f766f673d31017015371ac801d3",
+      "sil_id_doc_da_norma": "2c907f766f673d31017015371ac801d3",
+      "arquivo_fonte": "municipais/_fonte/capitais/belo-horizonte/lei11181-anexo-vii-8-ade-distrito-da-moda-setores.pdf",
+      "sha256_fonte": "636278c54bc2f32158f06163c0aa7a71dbbde8a281e15dcb6fcbad1c2fcee1df",
+      "bytes": 710656
+    },
+    {
+      "nome": "lei11181 - Anexo VII - 9a - ADE Pampulha - Usos - atual.pdf",
+      "cache": "lei11181-anexo-vii-9a-ade-pampulha-usos-atual.pdf",
+      "fonte_texto": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f7693d91e490193da75479d0035",
+      "sil_id_doc_da_norma": "2c907f7693d91e490193da75479d0035",
+      "arquivo_fonte": "municipais/_fonte/capitais/belo-horizonte/lei11181-anexo-vii-9a-ade-pampulha-usos-atual.pdf",
+      "sha256_fonte": "cf18ec220638fbdf134bd622639c656e20f9af0768be613b75b140cba3b410f6",
+      "bytes": 3008751
+    },
+    {
+      "nome": "lei11181 - Anexo VII - 9b - ADE  Pampulha - Setor Lagoa da Pampulha.pdf",
+      "cache": "lei11181-anexo-vii-9b-ade-pampulha-setor-lagoa-da-pampulha.pdf",
+      "fonte_texto": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f766f673d31017015374e1e01d7",
+      "sil_id_doc_da_norma": "2c907f766f673d31017015374e1e01d7",
+      "arquivo_fonte": "municipais/_fonte/capitais/belo-horizonte/lei11181-anexo-vii-9b-ade-pampulha-setor-lagoa-da-pampulha.pdf",
+      "sha256_fonte": "dc9cd0f9b3a1f82a0b9b3701eca3cfe1dd9000a1b781ca54184694c22c8defa8",
+      "bytes": 1410048
+    },
+    {
+      "nome": "lei11181 - Anexo VII - 10 - ADE Santa Tereza - Setores usos.pdf",
+      "cache": "lei11181-anexo-vii-10-ade-santa-tereza-setores-usos.pdf",
+      "fonte_texto": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f766f673d310170153764a501d9",
+      "sil_id_doc_da_norma": "2c907f766f673d310170153764a501d9",
+      "arquivo_fonte": "municipais/_fonte/capitais/belo-horizonte/lei11181-anexo-vii-10-ade-santa-tereza-setores-usos.pdf",
+      "sha256_fonte": "ffeb7073051c15020151d056f4230b8b1a563d2f5ee2f51eecaeaf23f91366d6",
+      "bytes": 471040
+    },
+    {
+      "nome": "lei11181 - Anexo VII - 11 - ADE Região da Lagoinha - Setores - atual.pdf",
+      "cache": "lei11181-anexo-vii-11-ade-regiao-da-lagoinha-setores-atual.pdf",
+      "fonte_texto": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f7693d91e490193da755ecd0037",
+      "sil_id_doc_da_norma": "2c907f7693d91e490193da755ecd0037",
+      "arquivo_fonte": "municipais/_fonte/capitais/belo-horizonte/lei11181-anexo-vii-11-ade-regiao-da-lagoinha-setores-atual.pdf",
+      "sha256_fonte": "dd63e1190cb42211a676afbd42f82cc4c4f0140ff69fc51b3f1de7b220dcf1c4",
+      "bytes": 543444
+    },
+    {
+      "nome": "lei11181 - Anexo VII - 12 - ADE Cidade Jardim uso.pdf",
+      "cache": "lei11181-anexo-vii-12-ade-cidade-jardim-uso.pdf",
+      "fonte_texto": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f766f673d310170153797f901dd",
+      "sil_id_doc_da_norma": "2c907f766f673d310170153797f901dd",
+      "arquivo_fonte": "municipais/_fonte/capitais/belo-horizonte/lei11181-anexo-vii-12-ade-cidade-jardim-uso.pdf",
+      "sha256_fonte": "38eea1e29447e7ffff10aa932e8d603f48b7d3a3577353730ab362ecc7e19813",
+      "bytes": 280576
+    },
+    {
+      "nome": "lei11181 - Anexo VII - 13 - ADE Venda Nova - Setores.pdf",
+      "cache": "lei11181-anexo-vii-13-ade-venda-nova-setores.pdf",
+      "fonte_texto": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f766f673d3101701537c34401df",
+      "sil_id_doc_da_norma": "2c907f766f673d3101701537c34401df",
+      "arquivo_fonte": "municipais/_fonte/capitais/belo-horizonte/lei11181-anexo-vii-13-ade-venda-nova-setores.pdf",
+      "sha256_fonte": "027bc819704b487000a43cef0cf44067ce26df9fcbd60a06fdc462737a7e0f4b",
+      "bytes": 529408
+    },
+    {
+      "nome": "lei11181 - Anexo VIII - Mapa Classificação de calçadas.pdf",
+      "cache": "lei11181-anexo-viii-mapa-classificacao-de-calcadas.pdf",
+      "fonte_texto": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f766f673d3101701537e0e001e1",
+      "sil_id_doc_da_norma": "2c907f766f673d3101701537e0e001e1",
+      "arquivo_fonte": "municipais/_fonte/capitais/belo-horizonte/lei11181-anexo-viii-mapa-classificacao-de-calcadas.pdf",
+      "sha256_fonte": "a0824357df7a32b2b36b0404876a05e2aee6909831722daeb2ef524eec1fda32",
+      "bytes": 7764992
+    },
+    {
+      "nome": "lei11181 - Anexo IX - Rede Cicloviária.pdf",
+      "cache": "lei11181-anexo-ix-rede-cicloviaria.pdf",
+      "fonte_texto": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f766f673d3101701537f95e01e3",
+      "sil_id_doc_da_norma": "2c907f766f673d3101701537f95e01e3",
+      "arquivo_fonte": "municipais/_fonte/capitais/belo-horizonte/lei11181-anexo-ix-rede-cicloviaria.pdf",
+      "sha256_fonte": "2f43efffbde8780cd26c8c1a0f671177073ee46602e8ac62f4122b0dca9f4a9b",
+      "bytes": 7521280
+    },
+    {
+      "nome": "lei11181 - Anexo X - Mapa da Rede Estruturante de Transporte Coletivo.pdf",
+      "cache": "lei11181-anexo-x-mapa-da-rede-estruturante-de-transporte-coletivo.pdf",
+      "fonte_texto": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f766f673d31017015381a1401e5",
+      "sil_id_doc_da_norma": "2c907f766f673d31017015381a1401e5",
+      "arquivo_fonte": "municipais/_fonte/capitais/belo-horizonte/lei11181-anexo-x-mapa-da-rede-estruturante-de-transporte-coletivo.pdf",
+      "sha256_fonte": "9ab05293e82b5901c324b3ae0187416c568573fd6c092b1ee6171b6eaf15fc48",
+      "bytes": 6873088
+    },
+    {
+      "nome": "lei11181 - Anexo XI - Glossário.pdf",
+      "cache": "lei11181-anexo-xi-glossario.pdf",
+      "fonte_texto": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f766f673d31017015384fcd01e7",
+      "sil_id_doc_da_norma": "2c907f766f673d31017015384fcd01e7",
+      "arquivo_fonte": "municipais/_fonte/capitais/belo-horizonte/lei11181-anexo-xi-glossario.pdf",
+      "sha256_fonte": "138a16db40eed5f5731271e8da08918d2cedac53c3c6dd1fad446664fd5d1774",
+      "bytes": 353280
+    },
+    {
+      "nome": "lei11181 - Anexo XII - Parâmetros urbanísticos-atual.doc",
+      "cache": "lei11181-anexo-xii-parametros-urbanisticos-atual.doc",
+      "fonte_texto": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f7693d91e4901941d3a5af00154",
+      "sil_id_doc_da_norma": "2c907f7693d91e4901941d3a5af00154",
+      "arquivo_fonte": "municipais/_fonte/capitais/belo-horizonte/lei11181-anexo-xii-parametros-urbanisticos-atual.doc",
+      "sha256_fonte": "6b8240365822319ded75c2214b3a0ff203247d1fad430265beb0688627937b57",
+      "bytes": 271360
+    },
+    {
+      "nome": "lei11181 - Anexo XIII - Classificação das Atividades - atual.pdf",
+      "cache": "lei11181-anexo-xiii-classificacao-das-atividades-atual.pdf",
+      "fonte_texto": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f7693d91e490193df87f7290053",
+      "sil_id_doc_da_norma": "2c907f7693d91e490193df87f7290053",
+      "arquivo_fonte": "municipais/_fonte/capitais/belo-horizonte/lei11181-anexo-xiii-classificacao-das-atividades-atual.pdf",
+      "sha256_fonte": "9db8ef10c4087f0891ba99f7be1c14be1c1826bf343d9d42659b2250d260e8c1",
+      "bytes": 498287
+    },
+    {
+      "nome": "lei11181 - Anexo XIV - Localização dos usos.pdf",
+      "cache": "lei11181-anexo-xiv-localizacao-dos-usos.pdf",
+      "fonte_texto": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f766f673d3101701538a90401ed",
+      "sil_id_doc_da_norma": "2c907f766f673d3101701538a90401ed",
+      "arquivo_fonte": "municipais/_fonte/capitais/belo-horizonte/lei11181-anexo-xiv-localizacao-dos-usos.pdf",
+      "sha256_fonte": "f6e6c516cb1aa302b474afef919ab29a51bd4f09c6abfb674f3da8492edfd794",
+      "bytes": 164864
+    },
+    {
+      "nome": "lei11181 - Anexo XV - Atividades Vedadas.xls",
+      "cache": "lei11181-anexo-xv-atividades-vedadas.xls",
+      "fonte_texto": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f766f673d3101701538fd0901ef",
+      "sil_id_doc_da_norma": "2c907f766f673d3101701538fd0901ef",
+      "arquivo_fonte": "municipais/_fonte/capitais/belo-horizonte/lei11181-anexo-xv-atividades-vedadas.xls",
+      "sha256_fonte": "743225075df34b4feed9e2d72078e04050f6c3d43552cf8b668049aed263ab6d",
+      "bytes": 70656
+    },
+    {
+      "nome": "lei11181 - Anexo XVI - Penalidades - atual.doc",
+      "cache": "lei11181-anexo-xvi-penalidades-atual.doc",
+      "fonte_texto": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f76701a303001701a420f68000d",
+      "sil_id_doc_da_norma": "2c907f76701a303001701a420f68000d",
+      "arquivo_fonte": "municipais/_fonte/capitais/belo-horizonte/lei11181-anexo-xvi-penalidades-atual.doc",
+      "sha256_fonte": "ac7cf4e3602b35b294c6846baf970792fc04086ad2b7303d668b37f707a25c82",
+      "bytes": 118272
+    },
+    {
+      "nome": "lei11181 - Anexo XVII - Coeficientes de Aproveitamento - Básico de Transição.pdf",
+      "cache": "lei11181-anexo-xvii-coeficientes-de-aproveitamento-basico-de-transicao.pdf",
+      "fonte_texto": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f766f673d3101701539459f01f3",
+      "sil_id_doc_da_norma": "2c907f766f673d3101701539459f01f3",
+      "arquivo_fonte": "municipais/_fonte/capitais/belo-horizonte/lei11181-anexo-xvii-coeficientes-de-aproveitamento-basico-de-transicao.pdf",
+      "sha256_fonte": "1f21b2434bc32054e99a39654fd6fb9cf16c1e197a584186e12be10af738b393",
+      "bytes": 49915904
+    },
+    {
+      "nome": "lei11181 - Anexo XVIII - Operação Urbana Simplificada Vila Monte São José.pdf",
+      "cache": "lei11181-anexo-xviii-operacao-urbana-simplificada-vila-monte-sao-jose.pdf",
+      "fonte_texto": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f766f673d3101701539a33101f5",
+      "sil_id_doc_da_norma": "2c907f766f673d3101701539a33101f5",
+      "arquivo_fonte": "municipais/_fonte/capitais/belo-horizonte/lei11181-anexo-xviii-operacao-urbana-simplificada-vila-monte-sao-jose.pdf",
+      "sha256_fonte": "ea573607cd66503ca2a1984f14b43e3daa34e324b671dd7ac46afdf94c2f0bb9",
+      "bytes": 231424
+    },
+    {
+      "nome": "lei11181 - Anexo XIX - Parâmetros Urbanísticos da Operação Urbana Vila Monte São José.doc",
+      "cache": "lei11181-anexo-xix-parametros-urbanisticos-da-operacao-urbana-vila-monte-sao-jose.doc",
+      "fonte_texto": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f766f673d3101701539d0ef01f7",
+      "sil_id_doc_da_norma": "2c907f766f673d3101701539d0ef01f7",
+      "arquivo_fonte": "municipais/_fonte/capitais/belo-horizonte/lei11181-anexo-xix-parametros-urbanisticos-da-operacao-urbana-vila-monte-sao-jose.doc",
+      "sha256_fonte": "745ce68b0d77fdeafb8d1b64050527b81994959b5710f2a235de30f29e5df6b1",
+      "bytes": 41984
+    }
+  ],
+  "observacao": "32 anexos oficiais do SIL preservados como binários da mesma norma, sem contar cada anexo como lei nova."
+}

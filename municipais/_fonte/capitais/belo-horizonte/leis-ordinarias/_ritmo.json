@@ -1,0 +1,68 @@
+{
+  "metodo": "nº a nº via pesquisar.php (buscaViaUrl=1, gzip descomprimido); consulta só por ano/assunto do SIL devolve lista vazia",
+  "rps": 3,
+  "janela": [
+    2024,
+    2026
+  ],
+  "ancora": {
+    "numero": 12000,
+    "ano": 2026,
+    "promulgacao": "2026-04-28"
+  },
+  "saida_da_janela": {
+    "numero": 11646,
+    "ano": 2023,
+    "promulgacao": "2023-12-29"
+  },
+  "primeiro_numero_janela": 11647,
+  "ultimo_numero": 12164,
+  "ultimo_ano": 2026,
+  "ultimo_promulgacao": "2026-10-27",
+  "numeracao": "contínua 11647–12164; 0 ausentes no SIL; 1 principal DOCX (11886/2025)",
+  "fatiamento": "janela 2024–2026 completa em dois pushes: 501 (11664–12164) + 17 (11647–11663). 2023 (11646 e abaixo) fica para depois.",
+  "por_ano": {
+    "2024": {
+      "primeiro": 11647,
+      "ultimo": 11800,
+      "md": 154,
+      "hits": 154,
+      "promulgadas": 154,
+      "completo": true,
+      "ausentes": 0,
+      "sem_promulgacao": 0,
+      "falhas": 0,
+      "lacunas_no_intervalo": []
+    },
+    "2025": {
+      "primeiro": 11801,
+      "ultimo": 11947,
+      "md": 147,
+      "hits": 147,
+      "promulgadas": 147,
+      "completo": true,
+      "ausentes": 0,
+      "sem_promulgacao": 0,
+      "falhas": 0,
+      "lacunas_no_intervalo": []
+    },
+    "2026": {
+      "primeiro": 11948,
+      "ultimo": 12164,
+      "md": 217,
+      "hits": 217,
+      "promulgadas": 217,
+      "completo": true,
+      "ausentes": 0,
+      "sem_promulgacao": 0,
+      "falhas": 0,
+      "lacunas_no_intervalo": []
+    }
+  },
+  "gravados": 518,
+  "anexos_binarios": 526,
+  "teto": 500,
+  "teto_duro": 1000,
+  "falhas": "municipais/_fonte/capitais/belo-horizonte/leis-ordinarias/_falhas.jsonl",
+  "quando": "2026-10-28T21:57:25.829824"
+}
