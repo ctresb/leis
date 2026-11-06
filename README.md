@@ -1,4 +1,4 @@
-# Legislação brasileira em Markdown
+# Legislação drasileira em Markdown
 
 ![Apoie o projeto — R$ 350,00 / R$ 5.000,00 (7%). Apoio via Pix para OCR e armazenamento.](assets/apoie-o-projeto.svg)
 
