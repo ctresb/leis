@@ -177,6 +177,15 @@ def indice(refazer=False):
     return itens
 
 
+def url_do_arquivo(src):
+    """URL do PDF a partir do src do iframe, que traz o nome do arquivo cru (espaço, ç, ã, ª, º...).
+
+    O urllib só aceita ASCII na URL: codifica o que não é seguro e preserva o que já veio como %XX,
+    para não codificar duas vezes.
+    """
+    return urllib.parse.quote(src, safe="%/:?&=#;+,@~!$'()*[]")
+
+
 def processar(it):
     pasta, nome, prefixo = TIPOS[it["tipo"]]
     d, m, a = it["data"].split("/") if it["data"].count("/") == 2 else ("", "", "")
@@ -190,7 +199,7 @@ def processar(it):
         return "sem_texto", {"id": it["id"], "http": st}
     src = re.search(rb"<iframe[^>]*src='([^']+)'", bruto, re.I) or re.search(rb'<iframe[^>]*src="([^"]+)"', bruto, re.I)
     if src:  # normas recentes: PDF num iframe
-        url = src.group(1).decode("latin-1").replace(" ", "%20")
+        url = url_do_arquivo(src.group(1).decode("latin-1"))
         st, doc, ctype = rede.get(url, timeout=300)
         if st != 200 or not doc:
             return "sem_texto", {"id": it["id"], "url": url, "http": st}
