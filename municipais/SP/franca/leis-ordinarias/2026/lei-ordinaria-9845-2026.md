@@ -1,0 +1,1808 @@
+---
+titulo: "Lei Ordinária nº 9.845, de 25 de junho de 2026"
+municipio: "Franca"
+uf: "SP"
+codigo_ibge: "3516200"
+tipo: "Lei Ordinária"
+numero: "9845"
+data: 2026-06-25
+ementa: "Autoriza a abertura de créditos adicionais no Orçamento de 2026, no valor total de até R$ 8.488.136,14, altera o Plano Plurianual e a Lei de Diretrizes Orçamentárias, e dá outras disposições."
+situacao: "Em vigor"
+revogada: false
+versao_texto: "publicação oficial no Diário Oficial do Município de Franca (DOMF nº 3038)"
+publicacao: "DOMF nº 3038 de 25/06/2026"
+data_publicacao: 2026-06-25
+fonte: "https://webpmf.franca.sp.gov.br/arquivos/diario-oficial/documentos/3038-25062026.pdf#lei-ordinaria-9845-2026"
+arquivo: "https://webpmf.franca.sp.gov.br/arquivos/diario-oficial/documentos/3038-25062026.pdf"
+sha256_fonte: "275b6d7d2250711305e5f910dd9c1294454998f1049a26e94a36ecce0828ad36"
+sha256_texto: "e1091f764b37c5254d9d91623cc449e1f8a8d82ae879c9afa79bf33c1ca4f73b"
+baixado_em: 2026-11-11
+---
+
+# Lei Ordinária nº 9.845, de 25 de junho de 2026
+
+LEI Nº 9.845, DE 25 DE JUNHO DE 2026. Autoriza a abertura de créditos adicionais no Orçamento de 2026, no valor total de até R$ 8.488.136,14, altera o Plano Plurianual e a Lei de Diretrizes Orçamentárias, e dá outras disposições.
+
+ALEXANDRE AUGUSTO FERREIRA, Prefeito Municipal de Franca, Estado de São Paulo, no exercício de suas atribuições legais,
+
+FAZ SABER, que a Câmara Municipal APROVOU e ele PROMULGA, a seguinte LEI:
+
+Art. 1º Fica o Poder Executivo autorizado, por meio da Secretaria Municipal de Finanças, observadas as disposições da Lei Federal nº 4.320, de 17 de março de 1964, e da Lei Complementar nº 101, de 04 de maio de 2000, a promover as alterações necessárias no Orçamento de 2026, aprovado pela Lei n° 9.746, de 11 de dezembro de 2025, mediante abertura de créditos adicionais suplementares no valor total de até R$ 8.488.136,14 (oito milhões, quatrocentos e oitenta e oito mil, cento e trinta e seis reais e quatorze centavos) na forma do item I do anexo único desta Lei.
+
+Parágrafo único. Os recursos para cobertura dos créditos adicionais autorizados na forma deste artigo são oriundos de anulações na forma do item II do anexo único desta Lei.
+
+Art. 2º Ocorridas as aberturas de créditos adicionais e anulações em conformidade com o artigo anterior, desta Lei, o Poder Executivo providenciará as alterações das metas físicas do Plano Plurianual e da Lei de Diretrizes Orçamentárias, promovidas através do Decreto Legislativo Municipal nº 746, de 05 de maio de 2026, nos respectivos programas e ações de governo.
+
+Art. 3º Observado o disposto no art. 5º do Decreto Legislativo Municipal nº 746, de 05 de maio de 2026, fica autorizada a redestinação das emendas parlamentares individuais em que seja identificado ou permaneça com impedimento técnico insuperável para sua execução.
+
+§ 1º Os recursos decorrentes das emendas parlamentares individuais redestinadas serão destinados à cobertura de despesas relativas às áreas constantes dos incisos I, II, III e IV do art. 5º do Decreto Legislativo Municipal nº 746, de 05 de maio de 2026.
+
+§ 2º Fica o Poder Executivo autorizado, por meio da Secretaria Municipal de Finanças, observadas as disposições da Lei Federal nº 4.320, de 17 de março de 1964, e da Lei Complementar nº 101, de 04 de maio de 2000, a promover as alterações necessárias no Orçamento de 2026, aprovado pela Lei n° 9.746, de 11 de dezembro de 2025, mediante abertura de créditos adicionais suplementares, utilizando como fonte de recursos a anulação das dotações correspondentes às emendas parlamentares redestinadas nos termos deste artigo.
+
+Art. 4º Ficam convalidadas as destinações de recursos, aprovadas através de Emendas vinculadas ao art. 146 da Lei Orgânica do Município de Franca, de acordo com as alterações orçamentárias promovidas na forma desta Lei.
+
+Art. 5º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Prefeitura Municipal de Franca, 25 de junho de 2026. ALEXANDRE AUGUSTO FERREIRA PREFEITO A N E X O I
+
+Anexo Único
+
+I - Créditos Adicionais
+
+Classificação
+
+020100 GABINETE DO PREFEITO
+
+020101 GABINETE DO PREFEITO
+
+142442003 GESTÃO DAS PARCERIAS COM AS ASSOCIAÇÕES COMUNITÁRIAS
+
+3201 Subvenções e Auxílios ao Terceiro Setor - Associações Comunitárias
+
+088047576 TRANSF. DE R$ 50.239,84 P/ ASSOC. MORADIA DIGNA (R-I1L157,P252) - 118457-1
+
+33504300 Subvenções Sociais
+
+R$
+
+088047577 TRANSF.R$50.000,00 P/ ASSOC.ENTIDADES ASSISTENCIAIS DE FRANCA (R-I1-L328,P326) - 118457-1
+
+33504300 Subvenções Sociais
+
+R$
+
+088047578 TRANSF.R$ 20.000,00 P/ ASSOC. ENTIDADES ASSISTENCIAIS DE FRANCA (R-I1-L329,P324) - 118457-1
+
+44504200 Auxílios
+
+R$
+
+088047579 TRANSF.R$ 50.000,00 P/ ASSOC. ENTIDADES ASSISTENCIAIS DE FRANCA (R-I1-L449,P447) - 118457-1
+
+44504200 Auxílios
+
+R$
+
+088047603 TRANSF. R$ 100.000,00 P/ POLÍCIA CIVIL ESTADO SP (R-I1L422,P420) - 118457-1
+
+44505200 Equipamentos e Material Permanente
+
+R$
+
+088047604 TRANSF. R$ 50.000,00 P/ BATALHÃO DA PM INTERIOR (R-I1L445,P442) - 118457-1
+
+44505200 Equipamentos e Material Permanente
+
+R$
+
+020500 SECRETARIA MUN. DE EDUCAÇÃO
+
+Valor 50.239,84 50.000,00 20.000,00 50.000,00 100.000,00 50.000,00
+
+020502 FUNDO DA EDUCAÇÃO BÁSICA
+
+123652018 EDUCAÇÃO BÁSICA - INFANTIL
+
+2220 Parcerias com o Terceiro Setor - E. Infantil
+
+088047558 TRANSF. DE R$ 80.000,00 P/ ASSOC MET EDYC AÇÕES ASSIST AMAS (R-I1-L177,P338) - 118457-1
+
+44505200 Equipamentos e Material Permanente
+
+R$
+
+088047559 TRANSF.R$ 20.000,00 P/ ASSOC METOD DE EDUC E AÇÕES ASSIST AMAS (R-I1-L175,P339) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+123672020 EDUCAÇÃO ESPECIAL
+
+2227 Manutenção das atividades do Atendimento Educacional Especializado
+
+088047574 DESTINA R$ 149.479,00 CONTRAT.PROFESSORES APOIO EDUCAÇÃO ESPECIAL (R-I1-L170,P347) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047593 TRANSF.R$ 50.000,00 CONTRAT.PROFESSORES APOIO EDUCAÇÃO ESPECIAL (R-I1-L233,P236) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047594 TRANSF.R$ 72.000,00 CONTRAT.PROFESSORES APOIO EDUCAÇÃO ESPECIAL (R-I1-L231,P234) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047608 TRANSF.R$ 10.000,00 P/FUNDO DA EDUC.BÁSICA P/DESP.SERV. TERCEIROS PJ (R-I1-L472,P462) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047654 TRANSF.R$ 230.000,00 P/CONTRAT.PROFESSORES DE APOIO P/EDUC. ESPECIAL (R-I1-L387,P386) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047657 TRANSF.R$ 230.000,00 P/CONTRAT.PROFESSORES DE APOIO P/EDUC. ESPECIAL (R-I1-L381,P380) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047658 TRANSF.R$ 230.000,00 P/CONTRAT.PROFESSORES DE APOIO P/EDUC. ESPECIAL (R-I1-L379,P378) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047659 TRANSF.R$ 230.000,00 P/CONTRAT.PROFESSORES DE APOIO P/EDUC. ESPECIAL (R-I1-L371,P370) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+80.000,00 20.000,00 149.479,00 50.000,00 72.000,00 10.000,00 50.000,00 20.000,00 60.000,00 100.000,00
+
+088047660 TRANSF.R$ 34.479,00 P/CONTRAT.PROFESSORES DE APOIO P/EDUC. ESPECIAL (R-I1-L452,P453) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047661 TRANSF.R$ 34.479,00 P/CONTRAT.PROFESSORES DE APOIO P/EDUC. ESPECIAL (R-I1-L440,P437) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047662 TRANSF.R$ 34.479,00 P/CONTRAT.PROFESSORES DE APOIO P/EDUC. ESPECIAL (R-I1-L443,P441) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047670 TRANSF.R$ 150.239,84 P/CONTRAT.PROFESSORES DE APOIO P/EDUC. ESPECIAL (R-I1-L509,P486) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047671 TRANSF.R$ 150.239,84 P/CONTRAT.PROFESSORES DE APOIO P/EDUC. ESPECIAL (R-I1-L483,P484) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047672 TRANSF.R$ 150.239,84 P/CONTRAT.PROFESSORES DE APOIO P/EDUC. ESPECIAL (R-I1-L514,P479) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+020600 SECRETARIA MUN. DE AÇÃO SOCIAL
+
+020601 SECRETARIA MUN. DE AÇÃO SOCIAL
+
+142442030 GESTÃO DE OUTROS SERVIÇOS DA AÇÃO SOCIAL
+
+3213 Subvenções e Auxílios ao Terceiro Setor - Serv. de Ação Social
+
+088047560 TRANSF. DE R$ 50.000,00 P/ VOLUNTÁRIAS SOCIAIS DE FRANCA (R-I1-L169,P336) - 118457-1
+
+44505200 Equipamentos e Material Permanente
+
+R$
+
+088047561 TRANSF. DE R$ 20.000,00 P/ APAAF (R-I1-L146,P241) - 118457-1
+
+33504300 Subvenções Sociais
+
+R$
+
+088047562 TRANSF. DE R$ 30.000,00 P/ APAAF (R-I1-L330,P325) - 118457-1
+
+33504300 Subvenções Sociais
+
+R$
+
+088047563 TRANSF. DE R$ 50.000,00 P/ APAAF (R-I1-L206,P216) - 118457-1
+
+33504300 Subvenções Sociais
+
+R$
+
+088047564 TRANSF. DE R$ 20.000,00 P/ APAAF (R-I1-L312,P311) - 118457-1
+
+12.479,00 12.000,00 10.000,00 50.000,00 50.000,00 50.239,84 50.000,00 20.000,00 30.000,00 50.000,00
+
+44505200 Equipamentos e Material Permanente
+
+R$
+
+088047565 TRANSF. DE R$ 50.000,00 P/ APAAF (R-I1-L187,P188) - 118457-1
+
+33504300 Subvenções Sociais
+
+R$
+
+088047566 TRANSF. DE R$ 104.239,85 P/ APAAF (R-I1-L385,P384) - 118457-1
+
+33504300 Subvenções Sociais
+
+R$
+
+088047567 TRANSF. DE R$ 10.000,00 P/ APAAF (R-I1-L413,P410) - 118457-1
+
+33504300 Subvenções Sociais
+
+R$
+
+088047568 TRANSF. DE R$ 10.000,00 P/ APAAF (R-I1-L404,P407) - 118457-1
+
+44505200 Equipamentos e Material Permanente
+
+R$
+
+Anexo Único
+
+I - Créditos Adicionais
+
+Classificação
+
+088047569 TRANSF. DE R$ 30.000,00 P/ APAAF (R-I1-L517,P465) - 118457-1
+
+33504300 Subvenções Sociais
+
+R$
+
+088047570 TRANSF. DE R$ 100.000,00 P/ APAAF (R-I1-L498,P497) - 118457-1
+
+33504300 Subvenções Sociais
+
+R$
+
+088047607 TRANSF.R$ 50.000,00 P/OBRAS ASSIST.DR. ISMAEL ALONSO Y ALONSO (R-I1-L518,P463) - 118457-1
+
+33504300 Subvenções Sociais
+
+R$
+
+020602 FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL
+
+082452044 FOMENTO À REDE DE ASSISTÊNCIA SOCIAL - SERVIÇOS SOCIOASSISTENCIAIS - FMAS
+
+2251 Parcerias com o Terceiro Setor - Assistência Social - Rec. Tesouro Mun
+
+088047585 TRANSF. R$ 20.000,00 PARA ASSOC. DEFIC. FÍSICOS DE FRANCA (R-I1-L149,P244) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047614 TRANSF R$ 75.000,00 P/ ASSOC PROREAVI (R-I1-L168,P337) 118457-1
+
+20.000,00 50.000,00 104.239,85 10.000,00 10.000,00 Valor 30.000,00 100.000,00 50.000,00 20.000,00
+
+44505200 Equipamentos e Material Permanente
+
+R$
+
+088047615 TRANSF.R$ 30.000,00 P/ SOC. FRANCANA DE INSTR. E TRAB. P/CEGOS (R-I1-L159,P254) - 118457-1
+
+44505200 Equipamentos e Material Permanente
+
+R$
+
+088047621 TRANSF. R$ 50.000,00 P/ CASA SÃO CAMILO DE LÉLLIS (R-I1L327,P323) - 118457-1
+
+44505200 Equipamentos e Material Permanente
+
+R$
+
+088047623 TRANSF. R$ 50.000,00 P/ CAMINHAR (R-I1-L355,P354) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047624 TRANSF. R$ 42.479,69 P/ CAMINHAR (R-I1-L271,P272) - 118457-1
+
+44505200 Equipamentos e Material Permanente
+
+R$
+
+088047628 TRANSF.R$ 65.000,00 P/ SOC. FRANC. DE INSTR. E TRAB. PARA CEGOS (R-I1-L204,P220) - 118457-1
+
+44505200 Equipamentos e Material Permanente
+
+R$
+
+088047629 TRANSF.R$ 50.000,00 P/CAMINHAR P/CONTRAT.PREST.SERV. AÇÕES FORMATIVAS(R-I1-L203,P214) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047632 TRANSF.R$ 50.000,00 P/SOC. FRANCANA DE INSTRUÇÃO E TRABALHO P/CEGOS (R-I1-L383,P382) - 118457-1
+
+44505200 Equipamentos e Material Permanente
+
+R$
+
+088047633 TRANSF. R$ 250.000,00 P/ CAMINHAR P/ AQUISIÇÃO DE VAN (R-I1L439,P438) - 118457-1
+
+44505200 Equipamentos e Material Permanente
+
+R$
+
+088047638 TRANF. R$ 39.479,69 P/ PROREAVI (R-I1-L400,P401) - 118457-1
+
+44505200 Equipamentos e Material Permanente
+
+R$
+
+088047642 TRANSF. 100.000,00 P/ CAMINHAR (R-I1-L502,P493) - 118457-1
+
+44505200 Equipamentos e Material Permanente
+
+R$
+
+020603 FUNDO MUNICIPAL DOS DIREITOS DA CRIANÇA E DO ADOLESCENTE
+
+142432032 REDE CRIANÇA, ADOLESCENTE E FAMÍLIA
+
+3214 Subvenções e Auxílios ao Terceiro Setor - Deliberações CMDCA 088047597 TRANSF.R$ 50.000,00 P/INSTIT.PABLO HENRIQUE CNPJ 38.374.398/0001-07 (R-I1-L197,P198) - 118457-1
+
+75.000,00 30.000,00 50.000,00 50.000,00 42.479,69 65.000,00 50.000,00 50.000,00 250.000,00 39.479,69 100.000,00
+
+44504200 Auxílios
+
+R$
+
+088047598 TRANSF.R$ 20.000,00 P/INST.PABLO HENRIQUE REFORMA PASSEIO ADEQ.ACES.(R-I1-L117,P116) - 118457-1
+
+44905100 Obras e Instalações
+
+R$
+
+088047599 TRANSF. R$ 10.000,00 P/ INSTITUTO PABLO HENRIQUE (R-I1L58,P89) - 118457-1
+
+44504200 Auxílios
+
+R$
+
+088047600 TRANSF. R$ 30.000,00 P/ INSTITUTO PABLO HENRIQUE (R-I1L510,P482) - 118457-1
+
+33504300 Subvenções Sociais
+
+R$
+
+020605 FUNDO MUNICIPAL DA PESSOA IDOSA DE FRANCA
+
+142412034 ASSISTÊNCIA À PESSOA IDOSA
+
+3215 Subvenções e Auxílios ao Terceiro Setor - Assistência à Pessoa Idosa
+
+088047634 TRANSF.R$ 30.000,00 P/LIONS CLUBE FRANCA SOBRAL P/ AQ.CADEIRAS DE RODA (R-I1-L61,P92) - 118457-1
+
+44504200 Auxílios
+
+R$
+
+088047663 TRANSF.R$ 355.000,00 P/ LAR SÃO VICENTE DE PAULA AQUIS. EQUIPAMENTOS (R-I1-L319,P320) - 118457-1
+
+44504200 Auxílios
+
+R$
+
+088047664 TRANSF.R$ 355.000,00 P/ LAR SÃO VICENTE DE PAULA AQUIS. EQUIPAMENTOS (R-I1-L322,P321) - 118457-1
+
+44504200 Auxílios
+
+R$
+
+088047665 TRANSF.R$ 355.000,00 P/ LAR SÃO VICENTE DE PAULA AQUIS. EQUIPAMENTOS (R-I1-L261,P262) - 118457-1
+
+44504200 Auxílios
+
+R$
+
+088047666 TRANSF.R$ 355.000,00 P/ LAR SÃO VICENTE DE PAULA AQUIS. EQUIPAMENTOS (R-I1-L257,P258) - 118457-1
+
+44504200 Auxílios
+
+R$
+
+088047667 TRANSF.R$ 355.000,00 P/ LAR SÃO VICENTE DE PAULA AQUIS. EQUIPAMENTOS (R-I1-L359,P358) - 118457-1
+
+44504200 Auxílios
+
+R$
+
+088047668 TRANSF.R$ 355.000,00 P/ LAR SÃO VICENTE DE PAULA AQUIS. EQUIPAMENTOS (R-I1-L362,P363) - 118457-1
+
+44504200 Auxílios
+
+R$
+
+088047669 TRANSF.R$ 355.000,00 P/ LAR SÃO VICENTE DE PAULA AQUIS. EQUIPAMENTOS (R-I1-L265,P266) - 118457-1
+
+50.000,00 20.000,00 10.000,00 30.000,00 30.000,00 80.000,00 15.000,00 30.000,00 150.000,00 50.000,00 20.000,00
+
+44504200 Auxílios
+
+R$
+
+020700 SECRETARIA MUN. DE SAÚDE
+
+020701 SECRETARIA MUN. DE SAÚDE
+
+103012035 ADMINISTRAÇÃO DA REDE BÁSICA DE SAÚDE
+
+1218 Obras e Equipamentos em Unidades da Saúde
+
+088047588 TRANSF.R$ 50.000,00 AQUIS.EQUIP.ÁLVARO AZZUZ E UPA AEROPORTO (R-I1-L269,P270) - 118457-1
+
+44905200 Equipamentos e Material Permanente
+
+R$
+
+088047640 TRANSF.R$ 325.000,00 P/MELHORIA DOS SISTEMAS ILUMINAÇÃO PRÓPRIOS P.(R-I1-L417,P419) - 118457-1
+
+44905100 Obras e Instalações
+
+R$
+
+2261 Manutenção dos Serviços de Saúde
+
+088047590 DESTINA R$ 100.000,00 P/ A REALIZAÇÃO DE EXAMES DE ENDOSCOPIA (R-I1-L283,P284) - 118457-1
+
+33903900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047606 TRANSF.R$ 51.000,00 P/EQUIP.SERV.EDUC.CONTINUADA URG. EMERG.P/TREIN.(R-I1-L516,P466) - 118457-1
+
+44905200 Equipamentos e Material Permanente
+
+R$
+
+Anexo Único
+
+I - Créditos Adicionais
+
+Classificação
+
+2262 Manutenção dos Serviços de Atenção Básica
+
+088047589 DESTINAÇÃO DE R$ 88.000,00 P/ AQUIS. DE CONSULTAS GINECOLÓGICAS (R-I1-L277,P278) - 118457-1
+
+33903900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+103022036 REDE DE ATENÇÃO ÀS URGÊNCIAS E SERVIÇOS ESPECIALIZADOS
+
+2266 Manutenção dos Serviços Urgência e Especializados
+
+088047613 TRANSF. R$ 100.000,00 P/ FUND STA CASA MISERICÓRDIA FRANCA (R-I1-L183,P334) - 118457-1
+
+44505200 Equipamentos e Material Permanente
+
+R$
+
+088047616 TRANSF. R$ 12.000,00 P/ CEREA (R-I1-L150,P245) - 118457-1
+
+10.000,00 50.000,00 325.000,00 100.000,00 51.000,00 Valor 88.000,00 100.000,00
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047617 TRANSF. R$ 18.000,00 P/ CEREA (R-I1-L150,P245) - 118457-1
+
+44505200 Equipamentos e Material Permanente
+
+R$
+
+088047618 TRANSF. R$ 30.000,00 P/ DCNOVI (R-I1-L153,P248) - 118457-1
+
+44505200 Equipamentos e Material Permanente
+
+R$
+
+088047619 TRANSF. R$ 100.000,00 P/ FUND. STA. CASA MISERICÓRDIA FRANCA (R-I1-L135,P134) - 118457-1
+
+44505200 Equipamentos e Material Permanente
+
+R$
+
+088047622 TRANSF. R$ 50.000,00 P/ FUND. STA. CASA MISERICÓRDIA FRANCA (R-I1-L225,P229) - 118457-1
+
+44505200 Equipamentos e Material Permanente
+
+R$
+
+088047626 TRANSF. R$ 100.000,00 P/ FUND. ALLAN KARDEC (R-I1-L281,P282) - 118457-1
+
+44505200 Equipamentos e Material Permanente
+
+R$
+
+088047627 TRANSF.R$ 300.000,00 P/ FUND. STA. CASA MISERICÓRDIA DE FRANCA (R-I1-L292,P293) - 118457-1
+
+44505200 Equipamentos e Material Permanente
+
+R$
+
+088047635 TRANSF. R$ 357.239,85 P/ FUND. STA. CASA MISERICÓRDIA FRANCA (R-I1-L54,P85) - 118457-1
+
+44505200 Equipamentos e Material Permanente
+
+R$
+
+088047636 TRANSF. R$ 20.000,00 P/ CASA DE APOIO DOM PEDRO LUIZ (R-I1L43,P74) - 118457-1
+
+44505200 Equipamentos e Material Permanente
+
+R$
+
+088047643 TRANSF. R$ 50.000,00 P/ DCNOVI (R-I1-L504,P491) - 118457-1
+
+44505200 Equipamentos e Material Permanente
+
+R$
+
+2268 Manutenção Serv. Assist. Ambulatorial e Hospitalar
+
+088047556 DESTINAÇÃO DE R$ 10.000,00 P/ REALIZAÇÃO DE CIRURGIAS ELETIVAS (R-I1-L179,P331) - 118457-1
+
+33903900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047557 DESTINAÇÃO DE R$ 10.000,00 P/ REALIZAÇÃO DE CIRURGIAS ELETIVAS (R-I1-L181,P333) - 118457-1
+
+33903900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047571 DESTINA R$ 20.000,00 P/ REALIZ.EXAMES DE ENDOSCOPIA E COLONOSCOPIA (R-I1-L178,P340) - 118457-1
+
+12.000,00 18.000,00 30.000,00 100.000,00 50.000,00 100.000,00 300.000,00 357.239,85 20.000,00 50.000,00 10.000,00 10.000,00
+
+33903900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047572 DESTINA R$ 10.000,00 P/ REALIZ.EXAMES DE ENDOSCOPIA E COLONOSCOPIA (R-I1-L171,P341) - 118457-1
+
+33903900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047573 TRANSF.R$ 100.000,00 REALIZ.CIRURGIAS DE RETIRADA DE CATETER (R-I1-L226,P228) - 118457-1
+
+33903900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047646 DESTINAÇÃO DE R$ 25.000,00 P/ REALIZAÇÃO DE CIRURGIAS ELETIVAS (R-I1-L172,P343) - 118457-1
+
+33903900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047647 DESTINAÇÃO R$ 20.000,00 P/ REALIZAÇÃO DE CIRURGIAS ELETIVAS (R-I1-L174,P344) - 118457-1
+
+33903900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047648 TRANSF.R$ 247.239,85 P/REALIZAR A CONTRATAÇÃO DE CIRURGIAS ELETIVAS (R-I1-L151,P246) - 118457-1
+
+33903900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+3216 Subvenções e Auxílios ao Terceiro Setor - Saúde
+
+088047605 TRANSF. R$ 50.000,00 P/ CASA DE APOIO DOM PEDRO LUIZ (R-I1L267,P268) - 118457-1
+
+33504300 Subvenções Sociais
+
+R$
+
+088047639 TRANSF.R$ 75.000,00 P/PASTORAL DO MENOR E FAMÍLIA DIOCESE DE FRANCA (R-I1-L405,P406) - 118457-1
+
+44504200 Auxílios
+
+R$
+
+088047641 TRANSF. R$ 60.000,00 P/ FUND. ESPÍRITA ALLAN KARDEC (R-I1L431,P433) - 118457-1
+
+44504200 Auxílios
+
+R$
+
+088047644 TRANSF. R$ 300.000,00 P/ APAE (R-I1-L499,P496) - 118457-1
+
+44504200 Auxílios
+
+R$
+
+088047652 TRANSF. R$ 223.000,00 P/ NAREV, CNPJ: 66.990.136/0003-66 (R-I1L389,P388) - 118457-1
+
+44504200 Auxílios
+
+R$
+
+088047653 TRANSF. R$ 223.000,00 P/ NAREV, CNPJ: 66.990.136/0003-66 (R-I1L391,P390) - 118457-1
+
+44504200 Auxílios
+
+R$
+
+088047673 TRANSF. R$57.000,00 P/ BERÇÁRIO D. NINA (R-I1-L501,P494) 118457-1
+
+20.000,00 10.000,00 100.000,00 25.000,00 20.000,00 247.239,85 50.000,00 75.000,00 60.000,00 300.000,00 123.000,00 100.000,00
+
+44504200 Auxílios
+
+R$
+
+020702 FUNDO SUS
+
+103022040 ASSISTENCIA HOSPITALAR E AMBULATORIAL - SUS
+
+1220 Bloco de Gestão do SUS - Investimentos
+
+088047580 TRANSF. R$ 200.000,00 P/ FUND. STA. CASA MISERICÓRDIA FRANCA (R-I1-L158,P253) - 118457-1
+
+44505200 Equipamentos e Material Permanente
+
+R$
+
+088047581 TRANSF. R$ 300.000,00 P/ FUND. SANTA CASA MISERICÓRDIA FRANCA (R-I1-L369,P368) - 118457-1
+
+44505200 Equipamentos e Material Permanente
+
+R$
+
+088047582 TRANSF. R$ 393.800,00 P/ FUND. SANTA CASA MISERICÓRDIA FRANCA (R-I1-L455,P457) - 118457-1
+
+44505200 Equipamentos e Material Permanente
+
+R$
+
+088047583 TRANSF. R$ 100.000,00 P/ FUND. SANTA CASA MISERICÓRDIA FRANCA (R-I1-L398,P399) - 118457-1
+
+44505200 Equipamentos e Material Permanente
+
+R$
+
+088047584 TRANSF. R$ 100.000,00 P/ FUND. SANTA CASA MISERICÓRDIA FRANCA (R-I1-L513,P485) - 118457-1
+
+44505200 Equipamentos e Material Permanente
+
+R$
+
+088047595 TRANSF.R$ 303.619,92 P/SANTA CASA AQUIS. INCUBAD. E FOTOTERAPIA (R-I1-L99,P98) - 118457-1
+
+44505200 Equipamentos e Material Permanente
+
+R$
+
+088047655 TRANSF. R$ 100.000,00 P/ FUND. STA. CASA MISERICÓRDIA FRANCA (R-I1-L435,P434) - 118457-1
+
+44505200 Equipamentos e Material Permanente
+
+R$
+
+Anexo Único
+
+I - Créditos Adicionais Classificação 103032041 SUPORTE PROFILÁTICO E TERAPÊUTICO - SUS 2286 Bloco Assist.Farm. - Manutenção da Assistência Farmacêutica 088047631 TRANSF. R$ 120.000,00 P/ CASA DIABÉTICO FRANCA (R-I1- L353,P352) - 118457-1
+
+57.000,00 200.000,00 300.000,00 393.800,00 100.000,00 100.000,00 303.619,92 100.000,00 Valor
+
+33903200 Material, Bem ou Serviço de Distribuição Gratuita
+
+R$
+
+020900 SECRETARIA MUN. DE INFRAESTRUTURA
+
+020901 SECRETARIA MUN. DE INFRAESTRUTURA
+
+154512056 URBANIZAÇÃO E OBRAS MUNICIPAIS
+
+2903 Serviços de Infraestrutura Urbana
+
+088047649 TRANSF.R$ 40.000,00 P/MELHORIAS PONTO MOTOFRETISTAS V.SANTOS DUMONT (R-I1-L351,P350) - 118457-1
+
+44905100 Obras e Instalações
+
+R$
+
+088047656 TRANSF.R$ 100.000,00 P/AQ.1 VEÍCULO P/O SETOR FISCALIZAÇÃO DE OBRAS (R-I1-L451,P436) - 118457-1
+
+44905200 Equipamentos e Material Permanente
+
+R$
+
+088047674 TRANSF.R$ 40.000,00 P/MELHORIAS PONTO MOTOFRETISTAS V.SANTOS DUMONT (R-I1-L196,P195) - 118457-1
+
+44905100 Obras e Instalações
+
+R$
+
+021000 SECRETARIA MUN. DE MEIO AMBIENTE
+
+021003 FUNDO MUNICIPAL DE PROTEÇÃO AOS ANIMAIS
+
+185422060 SERVIÇOS DE PROTEÇÃO AOS ANIMAIS
+
+2912 Atividades de Proteção aos Animais
+
+088047596 TRANSF.R$ 10.000,00 P/COMPRA MEDICAMENTOS P/O CANIL MUNIC.FRANCA (R-I1-L106,P107) - 118457-1
+
+33903900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+021100 SECRETARIA MUN. DE SEGURANÇA
+
+021102 FUNDO BOMBEIROS
+
+061822064 DEFESA CIVIL
+
+1236 Obras e Equipamentos Corpo de Bombeiros
+
+088047601 TRANSF.R$ 15.000,00 P/CORPO BOMBEIROS AQUIS.E INST.AR CONDICIONADO (R-I1-L221,P223) - 118457-1
+
+44905200 Equipamentos e Material Permanente
+
+R$
+
+2917 Manutenção do Corpo de Bombeiros 088047602 TRANSF.R$ 15.000,00 P/CORPO BOMBEIROS P/TINTA SERV. REPINTURA QUADRA (R-I1-L222,P224) - 118457-1
+
+120.000,00 20.000,00 100.000,00 20.000,00 10.000,00 15.000,00
+
+33903900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+021106 FUNDO MUNICIPAL DE TRÂNSITO
+
+061252068 SERVIÇOS DE TRÂNSITO
+
+1213 Obras e Instalações de Trânsito nas Vias Municipais
+
+088047650 TRANSF.R$ 103.479,69 P/PROJETO E IMPLANTAÇÃO DE LOMBADAS SEC.SEGUR.(R-I1-L348,P349) - 118457-1
+
+44905100 Obras e Instalações
+
+R$
+
+088047651 TRANSF.R$ 103.479,69 P/PROJETO E IMPLANTAÇÃO DE LOMBADAS SEC.SEGUR.(R-I1-L193,P194) - 118457-1
+
+44905100 Obras e Instalações
+
+R$
+
+021200 SECRETARIA MUN. DE ESPORTE E CULTURA
+
+021201 DIRETORIA ADMINISTRATIVA DE ESPORTE E CULTURA
+
+041222074 GESTÃO ADMINISTRATIVA DA SECRETARIA DE ESPORTE E CULTURA
+
+2244 Manutenção das Atividades da Secretaria de Esporte e Cultura
+
+088047587 TRANSF. R$ 11.119,92 P/ APADA (R-I1-L365,P366) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+021202 DIVISÃO CULTURAL
+
+133922075 APOIO ÁS ATIVIDADES CULTURAIS E POPULARES
+
+2271 Manutenção das atividades culturais
+
+088047630 TRANSF.R$ 50.000,00 P/ASSOC.FRANCANA DE CAPOEIRA P/ REALIZ.FESTIVAL (R-I1-L202,P213) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047637 TRANSF.R$ 20.000,00 P/ASSOC.IMPRENSA RÁDIO TELEV.FRANCA REG.-AIRTF (R-I1-L471,P464) - 118457-1
+
+44505100 Obras e Instalações
+
+R$
+
+021203 DIVISÃO DE ESPORTE E LAZER
+
+278122007 APOIO AS ATIVIDADES DE DESPORTO E LAZER
+
+1232 Construção, Ampliação e Adequação de Áreas de Esportes 088047575 TRANSF. R$ 50.000,00 P/ INTERNACIONAL ESPORTE CLUBE (R-I1L148,P243) - 118457-1
+
+15.000,00 73.479,69 30.000,00 11.119,92 50.000,00 20.000,00
+
+44505200 Equipamentos e Material Permanente
+
+R$
+
+088047609 TRANSF.R$ 50.000,00 P/CONSTR.VESTIÁRIO CAMPO CENTRO COM.AEROPORTO I (R-I1-L396,P397) - 118457-1
+
+44905100 Obras e Instalações
+
+R$
+
+088047610 TRANSF.R$ 50.000,00 P/CONSTR.VESTIÁRIO CAMPO CENTRO COM.AEROPORTO I (R-I1-L414,P416) - 118457-1
+
+44905100 Obras e Instalações
+
+R$
+
+088047611 TRANSF.R$ 100.000,00 P/CONSTR.VESTIÁRIO CAMPO CENTRO COM.AEROPORTO I(R-I1-L425,P426) - 118457-1
+
+44905100 Obras e Instalações
+
+R$
+
+2272 Manutenção das Atividades Esportivas e de Lazer
+
+088047586 TRANSF. R$ 50.000,00 P/ CLUBE HÍPICO DE FRANCA (R-I1L152,P247) - 118457-1
+
+44505100 Obras e Instalações
+
+R$
+
+088047591 TRANSF.R$ 50.000,00 P/APADA FORM.PESSOAS DEFIC.ÂMBITO ESPORTIVO (R-I1-L207,P217) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047592 TRANSF. R$ 30.000,00 P/ APADA (R-I1-L500,P495) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047612 TRANSF. DE R$ 80.000,00 P/ INSTITUTO CHUÍ DE ESPORTES (R-I1L182,P332) - 118457-1
+
+44505200 Equipamentos e Material Permanente
+
+R$
+
+088047620 TRANSF. R$ 50.000,00 P/ INTERNACIONAL SPORT CLUBE (R-I1L119,P118) - 118457-1
+
+44505200 Equipamentos e Material Permanente
+
+R$
+
+088047625 TRANSF.R$ 50.000,00 P/INSTITUTO CHUÍ DE ESPORTES (R-I1L279,P280) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047645 TRANSF. R$ 30.000,00 P/ INTERNACIONAL SPORT CLUBE (R-I1L511,P481) - 118457-1
+
+44505200 Equipamentos e Material Permanente
+
+R$
+
+Total Geral
+
+R$
+
+A N E X O II
+
+Anexo Único
+
+50.000,00 50.000,00 50.000,00 100.000,00 50.000,00 50.000,00 30.000,00 80.000,00 50.000,00 50.000,00 30.000,00 8.488.136,14
+
+II - Anulações
+
+Classificação
+
+020100 GABINETE DO PREFEITO
+
+020101 GABINETE DO PREFEITO
+
+142442003 GESTÃO DAS PARCERIAS COM AS ASSOCIAÇÕES COMUNITÁRIAS
+
+3201 Subvenções e Auxílios ao Terceiro Setor - Associações Comunitárias
+
+088047213 TRANSF R$ 50.000,00 P/ ASSOC COM B CITY PETROPOLIS E JD IPANEMA (I1-L148,P243) - 118457-1
+
+33504300 Subvenções Sociais
+
+R$
+
+088047214 TRANSF R$ 20.000,00 P/ ASSOC MORAD B MIRAMONTES, JD MARAMBAIA E OUTROS (I1-L149,P244) - 118457-1
+
+33504300 Subvenções Sociais
+
+R$
+
+020500 SECRETARIA MUN. DE EDUCAÇÃO
+
+020502 FUNDO DA EDUCAÇÃO BÁSICA
+
+123652018 EDUCAÇÃO BÁSICA - INFANTIL
+
+1206 Construção, Ampliação e Reforma de Unidades do Ensino Infantil
+
+088047390 TRANSF R$ 51.000,00 P/ CCI TIA GLICERIA (I1-L516,P466) 1/53/92283-8
+
+44905100 Obras e Instalações
+
+R$
+
+2220 Parcerias com o Terceiro Setor - E. Infantil
+
+088047333 TRANSF R$ 50.000,00 P/ SOC ESP VENERANDA CRECHE (I1L396,P397) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+020600 SECRETARIA MUN. DE AÇÃO SOCIAL
+
+020601 SECRETARIA MUN. DE AÇÃO SOCIAL
+
+142442030 GESTÃO DE OUTROS SERVIÇOS DA AÇÃO SOCIAL
+
+3213 Subvenções e Auxílios ao Terceiro Setor - Serv. de Ação Social
+
+088047279 TRANSF R$ 50.000,00 P/ CASA APOIO DOM PEDRO LUIZ (I1L267,P268) - 118457-1
+
+33504300 Subvenções Sociais
+
+R$
+
+Valor 50.000,00 20.000,00 51.000,00 50.000,00 50.000,00
+
+088047305 TRANSF R$ 80.000,00 P/ HALLEL (I1-L319,P320) - 118457-1
+
+44504200 Auxílios
+
+R$
+
+020602 FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL
+
+082442029 FOMENTO À REDE DE ASSISTÊNCIA SOCIAL - SEDAS
+
+2249 Atividades do Conselho Municipal da Comunidade Negra
+
+088047272 TRANSF R$ 50.000,00 P/ CONS MUN PART DESEN COMUN NEGRA FCA COMDECON (I1-L233,P236) - 118457-1
+
+33903900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+082452044 FOMENTO À REDE DE ASSISTÊNCIA SOCIAL - SERVIÇOS SOCIOASSISTENCIAIS - FMAS
+
+2251 Parcerias com o Terceiro Setor - Assistência Social - Rec. Tesouro Mun
+
+088047175 TRANSF R$ 10.000,00 P/ INST PABLO HENRIQUE (I1-L58,P89) 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047193 TRANSF R$ 20.000,00 P/ INSTITUTO PABLO HENRIQUE (I1L117,P116) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047211 TRANSF R$ 20.000,00 P/ APAAF (I1-L146,P241) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047222 TRANSF R$ 50.239,84 P/ ASSOC MORADIA DIGNA (I1L157,P252) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047224 TRANSF R$ 30.000,00 P/ SOC FRANCANA INSTR TRAB CEGOS (I1-L159,P254) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047230 TRANSF R$ 75.000,00 P/ ASSOC PROREAVI (I1-L168,P337) 118457-1
+
+44505100 Obras e Instalações
+
+R$
+
+088047231 TRANSF R$ 50.000,00 P/ VOLUNTARIAS SOCIAIS DE FRANCA (I1-L169,P336) - 118457-1
+
+44505100 Obras e Instalações
+
+R$
+
+088047237 TRANSF R$ 20.000,00 P/ BERCARIO DONA NINA (I1-L175,P339) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+80.000,00 50.000,00 10.000,00 20.000,00 20.000,00 50.239,84 30.000,00 75.000,00 50.000,00 20.000,00
+
+088047239 TRANSF R$ 80.000,00 P/ ASSOC MET EDYC ACOES ASSIST AMAS (I1-L177,P338) - 118457-1
+
+44505100 Obras e Instalações
+
+R$
+
+088047248 TRANSF R$ 50.000,00 P/ APAAF (I1-L187,P188) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047253 TRANSF R$ 50.000,00 P/ INSTITUTO PABLO HENRIQUE (I1L197,P198) - 118457-1
+
+44505200 Equipamentos e Material Permanente
+
+R$
+
+088047258 TRANSF R$ 50.000,00 P/ CAMINHAR (I1-L203,P214) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047259 TRANSF R$ 65.000,00 P/ SOC FRAN INSTR TRAB CEGOS (I1L204,P220) - 118457-1
+
+44505100 Obras e Instalações
+
+R$
+
+088047261 TRANSF R$ 50.000,00 P/ APAAF (I1-L206,P216) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047262 TRANSF R$ 50.000,00 P/ APADA (I1-L207,P217) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047281 TRANSF R$ 42.479,69 P/ CAMINHAR (I1-L271,P272) - 118457-1
+
+44905100 Obras e Instalações
+
+R$
+
+088047301 TRANSF R$ 20.000,00 P/ APAAF (I1-L312,P311) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047306 TRANSF R$ 15.000,00 P/ INSTITUTO PABLO HENRIQUE (I1L322,P321) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047307 TRANSF R$ 50.000,00 P/ CASA SAO CAMILO DE LELLIS (I1L327,P323) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047308 TRANSF R$ 50.000,00 P/ ASSOC ENTID ASSIST FRANCA (I1L328,P326) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047309 TRANSF R$ 20.000,00 P/ ASSOC ENTID ASSIST FRANCA (I1L329,P324) - 118457-1
+
+80.000,00 50.000,00 50.000,00 50.000,00 65.000,00 50.000,00 50.000,00 42.479,69 20.000,00 15.000,00 50.000,00 50.000,00
+
+44505200 Equipamentos e Material Permanente
+
+R$
+
+088047310 TRANSF R$ 30.000,00 P/ APAAF (I1-L330,P325) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047314 TRANSF R$ 50.000,00 P/ CAMINHAR (I1-L355,P354) - 118457-1
+
+44505200 Equipamentos e Material Permanente
+
+R$
+
+088047320 TRANSF R$ 11.119,92 P/ APADA (I1-L365,P366) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047328 TRANSF R$ 50.000,00 P/ SOC FRAN INSTRU TRABA CEGOS (I1-L383,P382) - 118457-1
+
+44505100 Obras e Instalações
+
+R$
+
+Anexo Único
+
+II - Anulações
+
+Classificação
+
+088047329 TRANSF R$ 104.239,85 P/ APAAF (I1-L385,P384) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047332 TRANSF R$ 100.000,00 P/ NAREV (I1-L391,P390) - 118457-1
+
+44505200 Equipamentos e Material Permanente
+
+R$
+
+088047335 TRANSF R$ 39.479,69 P/ PROREAVI (I1-L400,P401) - 118457-1
+
+44505100 Obras e Instalações
+
+R$
+
+088047337 TRANSF R$ 10.000,00 P/ APAAF (I1-L404,P407) - 118457-1
+
+44505200 Equipamentos e Material Permanente
+
+R$
+
+088047341 TRANSF R$ 10.000,00 P/ APAAF (I1-L413,P410) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047353 TRANSF R$ 250.000,00 P/ CAMINHAR (I1-L439,P438)
+
+44905100 Obras e Instalações
+
+R$
+
+20.000,00 30.000,00 50.000,00 11.119,92 50.000,00 Valor 104.239,85 100.000,00 39.479,69 10.000,00 10.000,00 250.000,00
+
+088047359 TRANSF R$ 50.000,00 P/ ASSOC ENTID ASSIST FRANCA (I1L449,P447)
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047372 TRANSF R$ 100.000,00 P/ APAAF (I1-L498,P497)
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047374 TRANSF R$ 30.000,00 P/ APADA (I1-L500,P495)
+
+44505200 Equipamentos e Material Permanente
+
+R$
+
+088047376 TRANSF R$ 100.000,00 P/ CAMINHAR (I1-L502,P493)
+
+44905100 Obras e Instalações
+
+R$
+
+088047384 TRANSF R$ 30.000,00 P/ INSTITUTO PABLO HENRIQUE (I1L510,P482)
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047391 TRANSF R$ 30.000,00 P/ APAAF (I1-L517,P465)
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+082462057 SEGURANÇA DE RENDA - FMAS
+
+2209 Segurança de Renda - Progr. Moradia Primeiro
+
+088047361 TRANSF R$ 12.479,00 P/ AUMENTAR Nº PESSOAS ATEND PROG MORADIA 1º (I1-L452,P453)
+
+33904800 Outros Auxílios Financeiros a Pessoas Físicas
+
+R$
+
+020605 FUNDO MUNICIPAL DA PESSOA IDOSA DE FRANCA
+
+142412034 ASSISTÊNCIA À PESSOA IDOSA
+
+3215 Subvenções e Auxílios ao Terceiro Setor - Assistência à Pessoa Idosa
+
+088047178 TRANSF R$ 30.000,00 P/ LIONS CLUBE FRANCA SOBRAL (I1L61,P92) - 118457-1
+
+33504300 Subvenções Sociais
+
+R$
+
+020700 SECRETARIA MUN. DE SAÚDE
+
+020701 SECRETARIA MUN. DE SAÚDE
+
+103012035 ADMINISTRAÇÃO DA REDE BÁSICA DE SAÚDE
+
+1218 Obras e Equipamentos em Unidades da Saúde
+
+50.000,00 100.000,00 30.000,00 100.000,00 30.000,00 30.000,00 12.479,00 30.000,00
+
+088047284 TRANSF R$ 88.000,00 P/ AQUIS ANALISADOR PORTATIL P/ GASOMETRIA (I1-L277,P278) - 118457-1
+
+44905200 Equipamentos e Material Permanente
+
+R$
+
+088047343 TRANSF R$ 325.000,00 P/ AQUISICAO DE UM VACIMOVEL (I1L417,P419) - 118457-1
+
+44905200 Equipamentos e Material Permanente
+
+R$
+
+103022036 REDE DE ATENÇÃO ÀS URGÊNCIAS E SERVIÇOS ESPECIALIZADOS
+
+2266 Manutenção dos Serviços Urgência e Especializados
+
+088047160 TRANSF R$ 20.000,00 P/ CASA APOIO DOM PEDRO LUIZ (I1L43,P74) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047171 TRANSF R$ 357.239,85 P/ FUND STA CASA MISERICORDIA FCA (I1-L54,P85) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047202 TRANSF R$ 100.000,00 P/ FUND STA CASA MISERICORDIA FRANCA (I1-L135,P134) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047215 TRANSF R$ 30.000,00 P/ CEREA (I1-L150,P245) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047216 TRANSF R$ 247.239,85 P/ REALIZ CIRURGIAS RETIRADA CATETER (I1-L151,P246) - 118457-1
+
+33903900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047218 TRANSF R$ 30.000,00 P/ DCNOVI (I1-L153,P248) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047223 TRANSF R$ 200.000,00 P/ FUND STA CASA MISERICORDIA FRANCA (I1-L158,P253) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047234 TRANSF R$ 25.000,00 P/ HOSP CARID DR ISMAEL ALONSO Y ALONSO (I1-L172,P343) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047236 TRANSF R$ 20.000,00 P/ FUND ESP ALLAN KARDEC (I1L174,P344) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047245 TRANSF R$ 100.000,00 P/ FUND STA CASA MISERICORDIA FRANCA (I1-L183,P334) - 118457-1
+
+88.000,00 325.000,00 20.000,00 357.239,85 100.000,00 30.000,00 247.239,85 30.000,00 200.000,00 25.000,00 20.000,00
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047267 TRANSF R$ 50.000,00 P/ FUND STA CASA MISERICORDIA FRANCA (I1-L225,P229) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047268 TRANSF R$ 100.000,00 P/ REALIZ CIRURG RET CATETER (I1L226,P228) - 118457-1
+
+33903900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047286 TRANSF R$ 100.000,00 P/ FUND ESP ALLAN KARDEC (I1L281,P282) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047292 TRANSF R$ 300.000,00 P/ FUND STA CASA MISERICORDIA FRANCA (I1-L292,P293) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047321 TRANSF R$ 300.000,00 P/ FUND SANTA CASA MISERICORDIA FRANCA (I1-L369,P368) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047334 TRANSF R$ 100.000,00 P/ FUND STA CASA MISERICORDIA FRANCA (I1-L398,P399) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047350 TRANSF R$ 60.000,00 P/ FUND ESP ALLAN KARDEC (I1L431,P433) - 1/53/160241-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047352 TRANSF R$ 100.000,00 P/ FUND ESP ALLAN KARDEC (I1L435,P434) - 1/53/160241-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047362 TRANSF R$ 393.800,00 P/ FUNDA STA CASA MISERICORDIA FRANCA (I1-L455,P457) - 1/53/160241-1
+
+44505200 Equipamentos e Material Permanente
+
+R$
+
+088047375 TRANSF R$ 57.000,00 P/ BERCARIO DONA NINA (I1-L501,P494) 1/53/160241-1
+
+44505200 Equipamentos e Material Permanente
+
+R$
+
+088047378 TRANSF R$ 50.000,00 P/ DCNOVI (I1-L504,P491) - 1/53/160241-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+Anexo Único
+
+100.000,00 50.000,00 100.000,00 100.000,00 300.000,00 300.000,00 100.000,00 60.000,00 100.000,00 393.800,00 57.000,00 50.000,00
+
+II - Anulações
+
+Classificação
+
+088047387 TRANSF R$ 100.000,00 P/ FUND STA CASA MISERICORDIA FRANCA (I1-L513,P485) - 1/53/160241-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047392 TRANSF R$ 50.000,00 P/ HOSP CARID DR ISMAEL ALONSO Y ALONSO IMA (I1-L518,P463) - 1/53/160241-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+2268 Manutenção Serv. Assist. Ambulatorial e Hospitalar
+
+088047232 TRANSF R$ 149.479,00 P/ REALIZ CIRURG REMOCAO CATETER DUPLO J (I1-L170,P347) - 118457-1
+
+33903900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+3216 Subvenções e Auxílios ao Terceiro Setor - Saúde
+
+088047184 TRANSF R$ 303.619,92 P/ SANTA CASA MISERICORDIA FRANCA (I1-L99,P98) - 118457-1
+
+44504200 Auxílios
+
+R$
+
+088047287 TRANSF R$ 100.000,00 P/ CENTRO VOLUNT SAUDE DE FRANCA (I1-L283,P284) - 118457-1
+
+33504300 Subvenções Sociais
+
+R$
+
+088047322 TRANSF R$ 100.000,00 P/ HOSP CARID DR ISMAEL ALONSO Y ALONSO (I1-L371,P370) - 118457-1
+
+33504300 Subvenções Sociais
+
+R$
+
+088047338 TRANSF R$ 75.000,00 P/ PASTORAL MENOR FAMILIA DIOCESE FRANCA (I1-L405,P406) - 118457-1
+
+33504300 Subvenções Sociais
+
+R$
+
+088047347 TRANSF R$ 100.000,00 P/ BERCARIO DONA NINA (I1L425,P426) - 118457-1
+
+33504300 Subvenções Sociais
+
+R$
+
+088047360 TRANSF R$ 100.000,00 P/ CENTRO VOLUNT SAUDE DE FRANCA (I1-L451,P436) - 1/53/160241-1
+
+33504300 Subvenções Sociais
+
+R$
+
+088047373 TRANSF R$ 300.000,00 P/ APAE (I1-L499,P496) - 1/53/160241-1
+
+33504300 Subvenções Sociais
+
+R$
+
+088047383 TRANSF R$ 50.000,00 P/ HOSP CARID DR ISMAEL ALONSO Y ALONSO (I1-L509,P486) - 1/53/160241-1
+
+Valor 100.000,00 50.000,00 149.479,00 303.619,92 100.000,00 100.000,00 75.000,00 100.000,00 100.000,00 300.000,00
+
+33504300 Subvenções Sociais
+
+R$
+
+020702 FUNDO SUS
+
+103032041 SUPORTE PROFILÁTICO E TERAPÊUTICO - SUS
+
+2286 Bloco Assist.Farm. - Manutenção da Assistência Farmacêutica
+
+088047313 TRANSF R$ 120.000,00 P/ ASSOC CASA DIABETICO FRANCA (I1-L353,P352) - 118457-1
+
+33903900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+020900 SECRETARIA MUN. DE INFRAESTRUTURA
+
+020901 SECRETARIA MUN. DE INFRAESTRUTURA
+
+154512056 URBANIZAÇÃO E OBRAS MUNICIPAIS
+
+2903 Serviços de Infraestrutura Urbana
+
+088047312 TRANSF R$ 20.000,00 P/REFORMAR PONTO APOIO MOTOFRENTISTAS VILA SANTOS DUMONT (I1-L351,P350) 118457-1
+
+44905100 Obras e Instalações
+
+R$
+
+021000 SECRETARIA MUN. DE MEIO AMBIENTE
+
+021001 SECRETARIA MUN. DE MEIO AMBIENTE
+
+185412071 SERVIÇOS DO MEIO AMBIENTE
+
+2911 Coleta de Lixo e Varrição
+
+088047276 TRANSF R$ 30.000,00 P/ COOP TRAB CAT MAT REC FCA E REGIAO (I1-L261,P262) - 118457-1
+
+44505100 Obras e Instalações
+
+R$
+
+021100 SECRETARIA MUN. DE SEGURANÇA
+
+021104 FUNDO MANUT. POLÍCIA ESTADO
+
+061812066 SEGURANÇA PÚBLICA - POLÍCIA ESTADO
+
+2919 Atividades de Apoio à Polícia do Estado
+
+088047188 TRANSF R$ 10.000,00 P/ FUND ESP DESP POL MIL FEPOM (I1L106,P107) - 118457-1
+
+44314200 Auxílios
+
+R$
+
+088047233 TRANSF R$ 10.000,00 P/ POLICIA CIVIL SP (I1-L171,P341) 118457-1
+
+50.000,00 120.000,00 20.000,00 30.000,00 10.000,00
+
+33903900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047240 TRANSF R$ 20.000,00 P/ FUND ESP DESP PM FEPOM (I1L178,P340) - 118457-1
+
+44314200 Auxílios
+
+R$
+
+088047274 TRANSF R$ 150.000,00 P/ POL CIVIL ESTADO SP (I1-L257,P258) - 118457-1
+
+44304200 Auxílios
+
+R$
+
+088047280 TRANSF R$ 50.000,00 P/ POL CIVIL EST SP (I1-L269,P270) 118457-1
+
+44304200 Auxílios
+
+R$
+
+088047311 TRANSF R$ 73.479,69 P/ BATALHAO PM INTERIOR (I1L348,P349) - 118457-1
+
+44304200 Auxílios
+
+R$
+
+088047316 TRANSF R$ 50.000,00 P/ 15º BATALHAO DA PM INTERIOR (I1L359,P358) - 118457-1
+
+44304200 Auxílios
+
+R$
+
+088047326 TRANSF R$ 60.000,00 P/ FUND ESP DESP PK FEPOM (I1L379,P378) - 118457-1
+
+44314200 Auxílios
+
+R$
+
+088047327 TRANSF R$ 20.000,00 P/ POL CIVIL EST SP DEL SEC POL FRANCA (I1-L381,P380) - 118457-1
+
+44304200 Auxílios
+
+R$
+
+088047342 TRANSF R$ 50.000,00 P/ POL CIVIL EST SP (I1-L414,P416) 118457-1
+
+44304200 Auxílios
+
+R$
+
+088047346 TRANSF R$ 100.000,00 P/ POLICIA CIVIL ESTADO SP (I1L422,P420) - 118457-1
+
+44304200 Auxílios
+
+R$
+
+088047357 TRANSF R$ 50.000,00 P/ 15º BATALHAO DA PM INTERIOR (I1L445,P442)
+
+44304200 Auxílios
+
+R$
+
+088047364 TRANSF R$ 10.000,00 P/ FUND ESP DESP POL MIL FEPOM (I1L472,P462)
+
+44314200 Auxílios
+
+R$
+
+088047371 TRANSF R$ 50.000,00 P/ POL CIVIL EST SP (I1-L483,P484)
+
+44304200 Auxílios
+
+R$
+
+10.000,00 20.000,00 150.000,00 50.000,00 73.479,69 50.000,00 60.000,00 20.000,00 50.000,00 100.000,00 50.000,00 10.000,00 50.000,00
+
+088047388 TRANSF R$ 50.239,84 P/ 15º BATALHAO PM INTERIOR (I1L514,P479)
+
+44304200 Auxílios
+
+R$
+
+021106 FUNDO MUNICIPAL DE TRÂNSITO
+
+061252068 SERVIÇOS DE TRÂNSITO
+
+1213 Obras e Instalações de Trânsito nas Vias Municipais
+
+088047318 TRANSF R$ 20.000,00 P/ IMP LOMBOFAIXAS AV SAO VICENTE (I1-L362,P363) - 118457-1
+
+44905100 Obras e Instalações
+
+R$
+
+021200 SECRETARIA MUN. DE ESPORTE E CULTURA
+
+021202 DIVISÃO CULTURAL
+
+133912008 PATRIMÔNIO CULTURAL DO MUNICÍPIO
+
+1230 Preservação do Patrimônio Histórico, Artístico e Cultural
+
+088047354 TRANSF R$ 12.000,00 P/ SOC BENEF IRMAOS ITALIANOS UNIDOS (I1-L440,P437)
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+Anexo Único
+
+II - Anulações
+
+Classificação
+
+133922075 APOIO ÁS ATIVIDADES CULTURAIS E POPULARES
+
+1227 Obras e Equipamentos em Unidades Culturais e Populares
+
+088047266 TRANSF R$ 15.000,00 P/ INSTITUTO ARTE E VIDA (I1L222,P224) - 118457-1
+
+44505200 Equipamentos e Material Permanente
+
+R$
+
+088047330 TRANSF R$ 50.000,00 P/ SOC BENEF IRMAOS ITALIANOS UNIDOS (I1-L387,P386) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+2271 Manutenção das atividades culturais 088047257 TRANSF R$ 50.000,00 P/ ASSOC FRANCANA CAPOEIRA (I1L202,P213) - 118457-1
+
+50.239,84 20.000,00 12.000,00 Valor 15.000,00 50.000,00
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047265 TRANSF R$ 15.000,00 P/ INSTITUTO ARTE E VIDA (I1L221,P223) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047270 TRANSF R$ 72.000,00 P/ ASSOC FOLCLORICA TRAD CULT POP FCA (I1-L231,P234) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047363 TRANSF R$ 20.000,00 P/ ASSOC IMP RADIO TEL FCA AIRTF (I1-L471,P464)
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+021203 DIVISÃO DE ESPORTE E LAZER
+
+278122007 APOIO AS ATIVIDADES DE DESPORTO E LAZER
+
+1232 Construção, Ampliação e Adequação de Áreas de Esportes
+
+088047217 TRANSF R$ 50.000,00 P/ CLUBE HIPICO DE FRANCA (I1L152,P247) - 118457-1
+
+44905100 Obras e Instalações
+
+R$
+
+2272 Manutenção das Atividades Esportivas e de Lazer
+
+088047194 TRANSF R$ 50.000,00 P/ INTERNACIONAL SPORT CLUBE (I1L119,P118) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047241 TRANSF R$ 10.000,00 P/ INTERNACIONAL SPORT CLUBE (I1L179,P331) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047243 TRANSF R$ 10.000,00 P/ LIGA FRAN ESP AMADORES LFEA (I1L181,P333) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047244 TRANSF R$ 80.000,00 P/ INSTITUTO CHUI DE ESPORTES (I1L182,P332) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047251 TRANSF R$ 30.000,00 P/ INSTITUTO CHUI DE ESPORTES (I1L193,P194) - 118457-1
+
+44505200 Equipamentos e Material Permanente
+
+R$
+
+088047252 TRANSF R$ 20.000,00 P/ INSTITUTO CHUI DE ESPORTES (I1L196,P195) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+50.000,00 15.000,00 72.000,00 20.000,00 50.000,00 50.000,00 10.000,00 10.000,00 80.000,00 30.000,00 20.000,00
+
+088047278 TRANSF R$ 10.000,00 P/ ASSOC PRO BASQUETE APB (I1L265,P266) - 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047285 TRANSF R$ 50.000,00 P/ INSTITUTO BOM PASSE (I1-L279,P280) - 118457-1
+
+44505200 Equipamentos e Material Permanente
+
+R$
+
+088047331 TRANSF R$ 123.000,00 P/ INSTITUTO VIDATIVA (I1-L389,P388) 118457-1
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+088047355 TRANSF R$ 10.000,00 P/ LIGA FRANCANA ESPORTES AMADORES (I1-L443,P441)
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+088047385 TRANSF R$ 30.000,00 P/ INTERNACIONAL SPORT CLUB (I1L511,P481)
+
+33503900 Outros Serviços de Terceiros - Pessoa Jurídica
+
+R$
+
+Total Geral
+
+10.000,00 50.000,00 R$ 123.000,00 10.000,00 30.000,00 R$ 8.488.136,14
